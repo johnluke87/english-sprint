@@ -1,0 +1,1242 @@
+{
+  "id": 38,
+  "week": 8,
+  "title": "Small talk e networking",
+  "titleEn": "Small talk and networking",
+  "intro": "Oggi impari a fare conversazione leggera a un evento, in coda al caffè o prima di una riunione. Impari a presentare le persone e a dire 'anch'io' e 'neanch'io' nel modo giusto. Ti serve per conferenze, incontri con i clienti e cene di lavoro.",
+  "goals": [
+    "Iniziare e chiudere una conversazione leggera con una persona nuova",
+    "Rispondere con So do I, Neither do I, So am I, Neither can I",
+    "Fare domande di cortesia su lavoro, viaggio e tempo libero",
+    "Presentare due persone tra loro e scambiarsi i contatti"
+  ],
+  "words": [
+    {
+      "en": "small talk",
+      "pron": "smòol tòok",
+      "it": "conversazione leggera, chiacchiere",
+      "type": "noun",
+      "ex": "I am not great at small talk, but I try.",
+      "exIt": "Non sono bravo nelle chiacchiere, ma ci provo."
+    },
+    {
+      "en": "networking",
+      "pron": "nètuorking",
+      "it": "fare rete, coltivare contatti professionali",
+      "type": "noun",
+      "ex": "Networking events are a good way to find new clients.",
+      "exIt": "Gli eventi di networking sono un buon modo per trovare nuovi clienti."
+    },
+    {
+      "en": "icebreaker",
+      "pron": "àisbreiker",
+      "it": "frase o domanda per rompere il ghiaccio",
+      "type": "noun",
+      "ex": "A simple icebreaker is: Have you been here before?",
+      "exIt": "Una semplice frase per rompere il ghiaccio è: È già stato qui?"
+    },
+    {
+      "en": "to mingle",
+      "pron": "mìngol",
+      "it": "girare tra gli invitati, socializzare",
+      "type": "verb",
+      "ex": "After the talk, everyone started to mingle.",
+      "exIt": "Dopo l'intervento, tutti hanno iniziato a socializzare."
+    },
+    {
+      "en": "business card",
+      "pron": "bìznes kàrd",
+      "it": "biglietto da visita",
+      "type": "noun",
+      "ex": "Here is my business card, in case you need anything.",
+      "exIt": "Ecco il mio biglietto da visita, nel caso le servisse qualcosa."
+    },
+    {
+      "en": "acquaintance",
+      "pron": "akuèintans",
+      "it": "conoscente",
+      "type": "noun",
+      "ex": "He is not a friend, just a business acquaintance.",
+      "exIt": "Non è un amico, solo un conoscente di lavoro."
+    },
+    {
+      "en": "contact",
+      "pron": "kòntakt",
+      "it": "contatto, persona nella tua rete",
+      "type": "noun",
+      "ex": "She has a lot of useful contacts in the industry.",
+      "exIt": "Ha molti contatti utili nel settore."
+    },
+    {
+      "en": "to exchange",
+      "pron": "iks cèingi",
+      "it": "scambiare",
+      "type": "verb",
+      "ex": "We exchanged numbers and agreed to talk next week.",
+      "exIt": "Ci siamo scambiati i numeri e abbiamo deciso di sentirci la settimana prossima."
+    },
+    {
+      "en": "to introduce yourself",
+      "pron": "introdiùus iorsèlf",
+      "it": "presentarsi",
+      "type": "phrase",
+      "ex": "At the event I introduced myself to the speaker.",
+      "exIt": "All'evento mi sono presentato al relatore."
+    },
+    {
+      "en": "to bump into",
+      "pron": "bàmp intu",
+      "it": "incontrare per caso",
+      "type": "verb",
+      "ex": "I bumped into an old client at the station.",
+      "exIt": "Ho incontrato per caso un vecchio cliente alla stazione."
+    },
+    {
+      "en": "weather",
+      "pron": "uèder",
+      "it": "tempo atmosferico",
+      "type": "noun",
+      "ex": "The weather is terrible today, isn't it?",
+      "exIt": "Il tempo oggi è terribile, vero?"
+    },
+    {
+      "en": "hobby",
+      "pron": "hòbi",
+      "it": "passatempo, hobby",
+      "type": "noun",
+      "ex": "My hobby is cycling in the mountains.",
+      "exIt": "Il mio hobby è andare in bici in montagna."
+    },
+    {
+      "en": "banter",
+      "pron": "bànter",
+      "it": "battute leggere, scambio scherzoso",
+      "type": "noun",
+      "ex": "There was friendly banter before the talk started.",
+      "exIt": "C'era uno scambio di battute simpatico prima che iniziasse l'intervento."
+    },
+    {
+      "en": "hometown",
+      "pron": "hòumtaun",
+      "it": "città natale",
+      "type": "noun",
+      "ex": "My hometown is a small city near Venice.",
+      "exIt": "La mia città natale è una piccola città vicino a Venezia."
+    },
+    {
+      "en": "to grow up",
+      "pron": "gròu àp",
+      "it": "crescere, diventare adulto",
+      "type": "verb",
+      "ex": "I grew up in a small village in the north.",
+      "exIt": "Sono cresciuto in un paesino del nord."
+    },
+    {
+      "en": "in common",
+      "pron": "in kòmon",
+      "it": "in comune",
+      "type": "phrase",
+      "ex": "We have a lot in common: we both love cycling.",
+      "exIt": "Abbiamo molto in comune: a entrambi piace andare in bici."
+    },
+    {
+      "en": "to be into",
+      "pron": "bi ìntu",
+      "it": "essere appassionato di (informale)",
+      "type": "phrase",
+      "ex": "Are you into football?",
+      "exIt": "Ti piace il calcio?"
+    },
+    {
+      "en": "to relax",
+      "pron": "rilàks",
+      "it": "rilassarsi",
+      "type": "verb",
+      "ex": "I relax by walking in the park after work.",
+      "exIt": "Mi rilasso passeggiando nel parco dopo il lavoro."
+    },
+    {
+      "en": "holiday",
+      "pron": "hòlidei",
+      "it": "vacanza (inglese britannico)",
+      "type": "noun",
+      "ex": "I am going on holiday to Spain in August.",
+      "exIt": "Ad agosto vado in vacanza in Spagna."
+    },
+    {
+      "en": "hiking",
+      "pron": "hàiking",
+      "it": "escursionismo, trekking",
+      "type": "noun",
+      "ex": "We go hiking in the Dolomites every summer.",
+      "exIt": "Facciamo trekking sulle Dolomiti ogni estate."
+    },
+    {
+      "en": "football",
+      "pron": "fùtbol",
+      "it": "calcio",
+      "type": "noun",
+      "ex": "Did you watch the football last night?",
+      "exIt": "Hai visto la partita ieri sera?"
+    },
+    {
+      "en": "series",
+      "pron": "sìriiz",
+      "it": "serie TV",
+      "type": "noun",
+      "ex": "Have you seen any good series recently?",
+      "exIt": "Hai visto qualche bella serie di recente?"
+    },
+    {
+      "en": "lovely",
+      "pron": "làvli",
+      "it": "bello, piacevole",
+      "type": "adj",
+      "ex": "It was lovely to meet you.",
+      "exIt": "È stato un piacere conoscerti."
+    },
+    {
+      "en": "awesome",
+      "pron": "òsam",
+      "it": "fantastico, grandioso (informale)",
+      "type": "adj",
+      "ex": "That sounds awesome. Tell me more.",
+      "exIt": "Sembra fantastico. Dimmi di più."
+    },
+    {
+      "en": "shy",
+      "pron": "scài",
+      "it": "timido",
+      "type": "adj",
+      "ex": "I am a bit shy at big events.",
+      "exIt": "Sono un po' timido agli eventi grandi."
+    },
+    {
+      "en": "outgoing",
+      "pron": "autgòuing",
+      "it": "estroverso, socievole",
+      "type": "adj",
+      "ex": "She is very outgoing and talks to everyone.",
+      "exIt": "È molto estroversa e parla con tutti."
+    },
+    {
+      "en": "crowded",
+      "pron": "kràudid",
+      "it": "affollato",
+      "type": "adj",
+      "ex": "The room was crowded, so we went outside.",
+      "exIt": "La sala era affollata, così siamo usciti."
+    },
+    {
+      "en": "session",
+      "pron": "sèscion",
+      "it": "sessione, incontro",
+      "type": "noun",
+      "ex": "I really enjoyed the afternoon session.",
+      "exIt": "Mi è piaciuta molto la sessione del pomeriggio."
+    },
+    {
+      "en": "refreshments",
+      "pron": "rifrèsciments",
+      "it": "rinfresco, bevande e spuntini",
+      "type": "noun",
+      "ex": "Refreshments will be served after the talk.",
+      "exIt": "Dopo l'intervento verrà servito un rinfresco."
+    },
+    {
+      "en": "coffee break",
+      "pron": "kòfi brèik",
+      "it": "pausa caffè",
+      "type": "noun",
+      "ex": "I met her during the coffee break.",
+      "exIt": "L'ho conosciuta durante la pausa caffè."
+    },
+    {
+      "en": "Nice to meet you",
+      "pron": "nàis tu mìit iu",
+      "it": "Piacere di conoscerti",
+      "type": "phrase",
+      "ex": "Nice to meet you, I'm Luca.",
+      "exIt": "Piacere di conoscerti, sono Luca."
+    },
+    {
+      "en": "How have you been?",
+      "pron": "hàu hav iu bìin",
+      "it": "Come te la sei passata?",
+      "type": "phrase",
+      "ex": "Hi Tom! How have you been?",
+      "exIt": "Ciao Tom! Come te la sei passata?"
+    },
+    {
+      "en": "Long time no see",
+      "pron": "lòng tàim nòu sìi",
+      "it": "Quanto tempo che non ci vediamo",
+      "type": "phrase",
+      "ex": "Long time no see! What are you up to these days?",
+      "exIt": "Quanto tempo! Che cosa fai in questo periodo?"
+    },
+    {
+      "en": "What brings you here?",
+      "pron": "uòt bringz iu hìir",
+      "it": "Come mai è qui?",
+      "type": "phrase",
+      "ex": "What brings you here today?",
+      "exIt": "Come mai è qui oggi?"
+    },
+    {
+      "en": "What do you do?",
+      "pron": "uòt du iu dùu",
+      "it": "Che lavoro fai?",
+      "type": "phrase",
+      "ex": "What do you do? I am a web developer.",
+      "exIt": "Che lavoro fai? Sono uno sviluppatore web."
+    },
+    {
+      "en": "I'd better get going",
+      "pron": "àid bèter gèt gòuing",
+      "it": "Meglio che vada",
+      "type": "phrase",
+      "ex": "I'd better get going, I have a train at six.",
+      "exIt": "Meglio che vada, ho un treno alle sei."
+    },
+    {
+      "en": "to look forward to",
+      "pron": "lùk fòruard tu",
+      "it": "non vedere l'ora di",
+      "type": "phrase",
+      "ex": "I am looking forward to seeing you again.",
+      "exIt": "Non vedo l'ora di rivederti."
+    },
+    {
+      "en": "name tag",
+      "pron": "nèim tàg",
+      "it": "cartellino con il nome",
+      "type": "noun",
+      "ex": "Please put on your name tag at the entrance.",
+      "exIt": "Per favore metti il cartellino con il nome all'ingresso."
+    },
+    {
+      "en": "hectic",
+      "pron": "hèktik",
+      "it": "frenetico, movimentato",
+      "type": "adj",
+      "ex": "It has been a hectic week for everybody.",
+      "exIt": "È stata una settimana frenetica per tutti."
+    },
+    {
+      "en": "to take part",
+      "pron": "tèik pàart",
+      "it": "partecipare, prendere parte",
+      "type": "verb",
+      "ex": "Over fifty companies took part in the fair.",
+      "exIt": "Più di cinquanta aziende hanno partecipato alla fiera."
+    },
+    {
+      "en": "day off",
+      "pron": "dèi òf",
+      "it": "giorno libero",
+      "type": "noun",
+      "ex": "Tomorrow is my day off, so I will go hiking.",
+      "exIt": "Domani è il mio giorno libero, quindi vado a fare trekking."
+    },
+    {
+      "en": "keynote",
+      "pron": "kìinout",
+      "it": "intervento principale, relazione di apertura",
+      "type": "noun",
+      "ex": "The keynote was about the future of the web.",
+      "exIt": "L'intervento principale riguardava il futuro del web."
+    },
+    {
+      "en": "panel",
+      "pron": "pànel",
+      "it": "tavola rotonda, gruppo di relatori",
+      "type": "noun",
+      "ex": "I really enjoyed the panel on accessibility.",
+      "exIt": "Mi è piaciuta molto la tavola rotonda sull'accessibilità."
+    },
+    {
+      "en": "to reconnect",
+      "pron": "riikonèkt",
+      "it": "riprendere i contatti",
+      "type": "verb",
+      "ex": "It was great to reconnect with an old colleague at the conference.",
+      "exIt": "È stato bello riprendere i contatti con un ex collega alla conferenza."
+    },
+    {
+      "en": "guest",
+      "pron": "gèst",
+      "it": "ospite, invitato",
+      "type": "noun",
+      "ex": "There were two hundred guests at the party.",
+      "exIt": "Alla festa c'erano duecento invitati."
+    },
+    {
+      "en": "to strike up a conversation",
+      "pron": "stràik àp a konversèiscen",
+      "it": "attaccare discorso",
+      "type": "phrase",
+      "ex": "It is easy to strike up a conversation at the coffee machine.",
+      "exIt": "È facile attaccare discorso alla macchinetta del caffè."
+    },
+    {
+      "en": "to wrap things up",
+      "pron": "ràp tìngz àp",
+      "it": "concludere",
+      "type": "phrase",
+      "ex": "I should wrap things up, I have a call in five minutes.",
+      "exIt": "Devo concludere, tra cinque minuti ho una chiamata."
+    },
+    {
+      "en": "nice weather",
+      "pron": "nàis uèder",
+      "it": "bel tempo",
+      "type": "noun",
+      "ex": "We had nice weather all week at the conference.",
+      "exIt": "Abbiamo avuto bel tempo tutta la settimana alla conferenza."
+    },
+    {
+      "en": "to catch a train",
+      "pron": "kècc a trèin",
+      "it": "prendere un treno",
+      "type": "phrase",
+      "ex": "I am catching a train at six, so I have to leave soon.",
+      "exIt": "Prendo un treno alle sei, quindi devo andare presto."
+    },
+    {
+      "en": "coffee machine",
+      "pron": "kòfi mascìin",
+      "it": "macchinetta del caffè",
+      "type": "noun",
+      "ex": "I often meet new people at the coffee machine.",
+      "exIt": "Incontro spesso persone nuove alla macchinetta del caffè."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "actually",
+      "it": "in realtà",
+      "trap": "Non vuol dire 'attualmente'. Attualmente si dice currently o at the moment."
+    },
+    {
+      "en": "to attend",
+      "it": "partecipare",
+      "trap": "Non vuol dire 'attendere'. Attendere si dice to wait."
+    },
+    {
+      "en": "conference",
+      "it": "convegno",
+      "trap": "Non è la 'conferenza' di una persona che parla soltanto: indica un grande evento con più interventi. Una riunione online è una call."
+    },
+    {
+      "en": "sympathetic",
+      "it": "comprensivo",
+      "trap": "Non vuol dire 'simpatico'. Simpatico si dice friendly o nice."
+    }
+  ],
+  "grammar": {
+    "title": "So do I / Neither do I e le domande di cortesia",
+    "explainIt": [
+      "Per dire 'anch'io' in inglese non si ripete tutta la frase. Si usa una forma corta. Se l'altro dice una frase positiva, rispondi con So + ausiliare + soggetto. 'I love hiking.' 'So do I.' Cioè 'anch'io'.",
+      "Se l'altro dice una frase negativa, rispondi con Neither + ausiliare + soggetto. 'I don't like crowds.' 'Neither do I.' Cioè 'neanch'io'. Dopo Neither il verbo è positivo, perché Neither è già negativo.",
+      "L'ausiliare deve essere lo stesso della frase di partenza. Se c'è am, usa am: 'I am tired.' 'So am I.' Se c'è have, usa have: 'I have been there.' 'So have I.' Se c'è can, usa can: 'I can't swim.' 'Neither can I.' Se il verbo è al present simple senza ausiliare, usa do o does: 'I work in IT.' 'So do I.'",
+      "Se non sei d'accordo, usa il contrario con il soggetto e l'ausiliare: 'I love football.' 'Oh, I don't.' 'I don't like crowds.' 'Really? I do.' Queste risposte sono molto naturali e mostrano che ascolti.",
+      "Le domande di cortesia, o small talk, sono semplici e aperte. Per esempio: 'How was your journey?', 'Have you been to this event before?', 'What do you do?', 'Are you from around here?'. Quando rispondi, aggiungi un dettaglio e rilancia la domanda: 'And you?'. Evita temi delicati come politica, religione e stipendio."
+    ],
+    "explainEn": [
+      "To say 'me too' in English we do not repeat the whole sentence. We use a short form. If the other person says a positive sentence, answer with So + auxiliary + subject. 'I love hiking.' 'So do I.'",
+      "If the other person says a negative sentence, answer with Neither + auxiliary + subject. 'I don't like crowds.' 'Neither do I.' After Neither the verb is positive, because Neither is already negative.",
+      "The auxiliary must be the same as in the first sentence. If there is am, use am: 'I am tired.' 'So am I.' If there is have, use have: 'I have been there.' 'So have I.' If there is can, use can: 'I can't swim.' 'Neither can I.' If the verb is in the present simple with no auxiliary, use do or does: 'I work in IT.' 'So do I.'",
+      "If you disagree, use the opposite with the subject and the auxiliary: 'I love football.' 'Oh, I don't.' 'I don't like crowds.' 'Really? I do.' These answers are very natural and show that you are listening.",
+      "Small talk questions are simple and open. For example: 'How was your journey?', 'Have you been to this event before?', 'What do you do?', 'Are you from around here?'. When you answer, add a detail and ask back: 'And you?'. Avoid delicate topics like politics, religion and salary."
+    ],
+    "rules": [
+      {
+        "it": "Frase positiva: rispondi So + ausiliare + soggetto.",
+        "en": "After a positive sentence, say So + auxiliary + subject.",
+        "form": "So + do/does/am/have/can + I",
+        "examples": [
+          {
+            "en": "I work in web development. So do I.",
+            "it": "Lavoro nello sviluppo web. Anch'io."
+          },
+          {
+            "en": "I am looking forward to the talk. So am I.",
+            "it": "Non vedo l'ora dell'intervento. Anch'io."
+          },
+          {
+            "en": "I have been here before. So have I.",
+            "it": "Sono già stato qui. Anch'io."
+          }
+        ]
+      },
+      {
+        "it": "Frase negativa: rispondi Neither + ausiliare + soggetto, con il verbo positivo.",
+        "en": "After a negative sentence, say Neither + auxiliary + subject, with a positive verb.",
+        "form": "Neither + do/does/am/have/can + I",
+        "examples": [
+          {
+            "en": "I don't like crowds. Neither do I.",
+            "it": "Non mi piacciono le folle. Neanch'io."
+          },
+          {
+            "en": "I can't stay late. Neither can I.",
+            "it": "Non posso fermarmi fino a tardi. Neanch'io."
+          },
+          {
+            "en": "I haven't met her yet. Neither have I.",
+            "it": "Non l'ho ancora conosciuta. Neanch'io."
+          }
+        ]
+      },
+      {
+        "it": "L'ausiliare della risposta è uguale a quello della frase: am con am, have con have, can con can, do con il present simple.",
+        "en": "The auxiliary in the reply matches the first sentence: am with am, have with have, can with can, do with the present simple.",
+        "form": "stesso ausiliare, soggetto nuovo",
+        "examples": [
+          {
+            "en": "I went to the conference last year. So did I.",
+            "it": "Sono stato alla conferenza l'anno scorso. Anch'io."
+          },
+          {
+            "en": "I'm not very good at small talk. Neither am I.",
+            "it": "Non sono molto bravo nelle chiacchiere. Neanch'io."
+          }
+        ]
+      },
+      {
+        "it": "Se non sei d'accordo, usa il contrario: soggetto + ausiliare.",
+        "en": "If you disagree, use subject + auxiliary in the opposite form.",
+        "form": "I do / I don't / I am / I'm not",
+        "examples": [
+          {
+            "en": "I love flying. Oh, I don't. I hate it.",
+            "it": "Adoro volare. Oh, io no. Lo odio."
+          },
+          {
+            "en": "I don't drink coffee. Really? I do, all day.",
+            "it": "Non bevo caffè. Davvero? Io sì, tutto il giorno."
+          }
+        ]
+      },
+      {
+        "it": "Nelle domande di cortesia usa domande semplici e aperte e rilancia con And you?",
+        "en": "For polite questions, use simple open questions and ask back with And you?",
+        "form": "How / What / Have you ...?",
+        "examples": [
+          {
+            "en": "How was your journey? Fine, thanks. And you?",
+            "it": "Com'è stato il viaggio? Bene, grazie. E tu?"
+          },
+          {
+            "en": "Are you from around here? No, I'm from Milan.",
+            "it": "È di queste parti? No, sono di Milano."
+          }
+        ]
+      }
+    ],
+    "tip": "Ascolta l'ausiliare della frase dell'altro e riprendilo. Se senti 'I love...' senza ausiliare, pensa a do. Con 'I'm...' pensa a am. Con 'I've...' pensa a have. Poi scegli So se è positiva, Neither se è negativa.",
+    "mistakes": [
+      {
+        "wrong": "Neither I.",
+        "right": "Neither do I.",
+        "why": "dopo Neither serve l'ausiliare prima del soggetto"
+      },
+      {
+        "wrong": "I don't like crowds. Neither I don't.",
+        "right": "I don't like crowds. Neither do I.",
+        "why": "dopo Neither il verbo è positivo: non si ripete il not"
+      },
+      {
+        "wrong": "I work in IT. So I do.",
+        "right": "I work in IT. So do I.",
+        "why": "con So l'ausiliare viene prima del soggetto"
+      },
+      {
+        "wrong": "I am tired. So do I.",
+        "right": "I am tired. So am I.",
+        "why": "l'ausiliare è quello della frase di partenza: am"
+      },
+      {
+        "wrong": "I love hiking. Me too, I am.",
+        "right": "I love hiking. So do I. / Me too.",
+        "why": "non si riprende am: la frase di partenza ha love, quindi do"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I love hiking. So ___ I.",
+      "a": [
+        "do"
+      ],
+      "hint": "love, present simple",
+      "explain": "Frase positiva al present simple: So do I."
+    },
+    {
+      "q": "I don't like crowds. Neither ___ I.",
+      "a": [
+        "do"
+      ],
+      "hint": "don't, present simple",
+      "explain": "Frase negativa: Neither do I."
+    },
+    {
+      "q": "I am really tired. So ___ I.",
+      "a": [
+        "am"
+      ],
+      "hint": "c'è am",
+      "explain": "Si riprende l'ausiliare am."
+    },
+    {
+      "q": "I haven't been here before. Neither ___ I.",
+      "a": [
+        "have"
+      ],
+      "hint": "haven't",
+      "explain": "Si riprende have."
+    },
+    {
+      "q": "I can't stay late. Neither ___ I.",
+      "a": [
+        "can"
+      ],
+      "hint": "can't",
+      "explain": "Si riprende can."
+    },
+    {
+      "q": "She works in IT. So ___ he.",
+      "a": [
+        "does"
+      ],
+      "hint": "he, present simple",
+      "explain": "Con he/she si usa does."
+    },
+    {
+      "q": "I went to the conference last year. So ___ I.",
+      "a": [
+        "did"
+      ],
+      "hint": "went = past simple",
+      "explain": "Past simple: ausiliare did."
+    },
+    {
+      "q": "I wasn't at the meeting. Neither ___ I.",
+      "a": [
+        "was"
+      ],
+      "hint": "wasn't",
+      "explain": "Si riprende was."
+    },
+    {
+      "q": "I love flying. Oh, I ___. I hate it.",
+      "a": [
+        "don't",
+        "do not"
+      ],
+      "hint": "non sei d'accordo",
+      "explain": "Per dire il contrario si usa don't."
+    },
+    {
+      "q": "I don't drink coffee. Really? I ___.",
+      "a": [
+        "do"
+      ],
+      "hint": "non sei d'accordo",
+      "explain": "Contrario di don't: do."
+    },
+    {
+      "q": "I'll be at the dinner tonight. So ___ I.",
+      "a": [
+        "will"
+      ],
+      "hint": "I'll = I will",
+      "explain": "Si riprende will."
+    },
+    {
+      "q": "I'm not good at small talk. Neither ___ I.",
+      "a": [
+        "am"
+      ],
+      "hint": "I'm not",
+      "explain": "Si riprende am."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Iniziare una conversazione",
+      "en": "Hi, I don't think we've met. I'm Luca.",
+      "it": "Ciao, non credo ci siamo conosciuti. Sono Luca."
+    },
+    {
+      "group": "Iniziare una conversazione",
+      "en": "Is this your first time at this event?",
+      "it": "È la prima volta che viene a questo evento?"
+    },
+    {
+      "group": "Iniziare una conversazione",
+      "en": "What did you think of the last talk?",
+      "it": "Che cosa ne ha pensato dell'ultimo intervento?"
+    },
+    {
+      "group": "Iniziare una conversazione",
+      "en": "How do you know the host?",
+      "it": "Come conosce chi ha organizzato?"
+    },
+    {
+      "group": "Iniziare una conversazione",
+      "en": "Mind if I join you?",
+      "it": "Posso unirmi a voi?",
+      "note": "Informale, perfetta alla pausa caffè."
+    },
+    {
+      "group": "Domande di cortesia",
+      "en": "How was your journey?",
+      "it": "Com'è stato il viaggio?"
+    },
+    {
+      "group": "Domande di cortesia",
+      "en": "What do you do for a living?",
+      "it": "Di che cosa si occupa?"
+    },
+    {
+      "group": "Domande di cortesia",
+      "en": "Are you from around here?",
+      "it": "È di queste parti?"
+    },
+    {
+      "group": "Domande di cortesia",
+      "en": "Do you have any plans for the weekend?",
+      "it": "Hai programmi per il fine settimana?"
+    },
+    {
+      "group": "Domande di cortesia",
+      "en": "What do you like to do in your free time?",
+      "it": "Che cosa ti piace fare nel tempo libero?"
+    },
+    {
+      "group": "Presentare le persone",
+      "en": "Anna, I'd like you to meet Marco.",
+      "it": "Anna, vorrei presentarti Marco."
+    },
+    {
+      "group": "Presentare le persone",
+      "en": "Have you two met?",
+      "it": "Vi conoscete già, voi due?"
+    },
+    {
+      "group": "Presentare le persone",
+      "en": "Marco works in design, and Anna is our accessibility expert.",
+      "it": "Marco lavora nel design e Anna è la nostra esperta di accessibilità."
+    },
+    {
+      "group": "Presentare le persone",
+      "en": "You two should talk. You have a lot in common.",
+      "it": "Voi due dovreste parlare. Avete molto in comune."
+    },
+    {
+      "group": "Presentare le persone",
+      "en": "Nice to meet you. I've heard a lot about you.",
+      "it": "Piacere. Ho sentito parlare molto di lei."
+    },
+    {
+      "group": "Rispondere e mostrare interesse",
+      "en": "That sounds interesting. Tell me more.",
+      "it": "Sembra interessante. Dimmi di più."
+    },
+    {
+      "group": "Rispondere e mostrare interesse",
+      "en": "Really? I didn't know that.",
+      "it": "Davvero? Non lo sapevo."
+    },
+    {
+      "group": "Rispondere e mostrare interesse",
+      "en": "Me too. Same here.",
+      "it": "Anch'io. Idem.",
+      "note": "Forme molto comuni nel parlato informale."
+    },
+    {
+      "group": "Rispondere e mostrare interesse",
+      "en": "I couldn't agree more.",
+      "it": "Sono perfettamente d'accordo."
+    },
+    {
+      "group": "Rispondere e mostrare interesse",
+      "en": "That's a good point.",
+      "it": "Giusta osservazione."
+    },
+    {
+      "group": "Concludere la conversazione",
+      "en": "It was great talking to you.",
+      "it": "È stato bello parlare con te."
+    },
+    {
+      "group": "Concludere la conversazione",
+      "en": "I'll let you go, I'm sure you want to mingle.",
+      "it": "Ti lascio andare, di sicuro vuoi salutare altre persone."
+    },
+    {
+      "group": "Concludere la conversazione",
+      "en": "Here's my card. Let's keep in touch.",
+      "it": "Ecco il mio biglietto. Teniamoci in contatto."
+    },
+    {
+      "group": "Concludere la conversazione",
+      "en": "I'll send you a message on LinkedIn.",
+      "it": "Ti mando un messaggio su LinkedIn."
+    },
+    {
+      "group": "Concludere la conversazione",
+      "en": "I'd better get going. Enjoy the rest of the event!",
+      "it": "Meglio che vada. Buon proseguimento!"
+    }
+  ],
+  "dialogue": {
+    "title": "At a web conference",
+    "context": "Alla pausa caffè di una conferenza sul web, Luca incontra Sarah. Poi arriva Tom, un collega di Sarah.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Hi, I don't think we've met. I'm Sarah.",
+        "it": "Ciao, non credo ci siamo conosciuti. Sono Sarah."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Nice to meet you, Sarah. I'm Luca. Is this your first time at this conference?",
+        "it": "Piacere, Sarah. Sono Luca. È la prima volta che viene a questa conferenza?"
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "No, I come every year. What about you? What brings you here?",
+        "it": "No, vengo ogni anno. E lei? Come mai è qui?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I'm a web developer and I'm really into accessibility, so I'm here for the afternoon session.",
+        "it": "Sono sviluppatore web e mi appassiona l'accessibilità, quindi sono qui per la sessione del pomeriggio."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "So am I! I work as an accessibility consultant. How was your journey?",
+        "it": "Anch'io! Lavoro come consulente di accessibilità. Com'è stato il viaggio?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Long, but fine. I don't usually like early flights.",
+        "it": "Lungo, ma bene. Di solito non mi piacciono i voli presto."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Neither do I. I need coffee before anything else.",
+        "it": "Neanch'io. Mi serve il caffè prima di tutto."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Me too. Are you from around here?",
+        "it": "Anch'io. È di queste parti?"
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Actually, I grew up in Manchester, but I live in London now. And you?",
+        "it": "In realtà sono cresciuta a Manchester, ma ora vivo a Londra. E lei?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I'm from Trieste. I'm a big fan of hiking, so I spend my weekends in the mountains.",
+        "it": "Sono di Trieste. Mi piace molto il trekking, quindi passo i fine settimana in montagna."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "That sounds lovely. Oh, here is Tom. Tom, I'd like you to meet Luca.",
+        "it": "Che bello. Oh, ecco Tom. Tom, vorrei presentarti Luca."
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "Nice to meet you, Luca. I've heard a lot about the audit you did for the museum.",
+        "it": "Piacere, Luca. Ho sentito parlare molto dell'audit che hai fatto per il museo."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Really? That's very kind. We worked on it for three months.",
+        "it": "Davvero? Che gentile. Ci abbiamo lavorato per tre mesi."
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "You two have a lot in common. You should keep in touch.",
+        "it": "Voi due avete molto in comune. Dovreste restare in contatto."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Good idea. Here's my business card. I'll send you a message on LinkedIn.",
+        "it": "Buona idea. Ecco il mio biglietto da visita. Ti mando un messaggio su LinkedIn."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Great. It was lovely talking to you both. I'd better get going, the next session starts in two minutes.",
+        "it": "Perfetto. È stato un piacere parlare con voi. Meglio che vada, la prossima sessione inizia tra due minuti."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "Why is Luca at the conference?",
+      "options": [
+        "He is a speaker",
+        "He is interested in accessibility",
+        "He is looking for a new job"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does Sarah say about early flights?",
+      "options": [
+        "She likes them",
+        "She doesn't like them, like Luca",
+        "She never takes flights"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Where did Sarah grow up?",
+      "options": [
+        "London",
+        "Trieste",
+        "Manchester"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "How will Sarah contact Luca?",
+      "options": [
+        "She will send him a message on LinkedIn",
+        "She will call him tonight",
+        "She will email his boss"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Piacere, sono Luca. È la prima volta che viene qui?",
+      "en": "Nice to meet you, I'm Luca. Is this your first time here?",
+      "alt": [
+        "Nice to meet you, I'm Luca. Is it your first time here?"
+      ]
+    },
+    {
+      "it": "Non mi piacciono i voli presto. Neanch'io.",
+      "en": "I don't like early flights. Neither do I.",
+      "alt": [
+        "I don't like early flights. Me neither."
+      ]
+    },
+    {
+      "it": "Lavoro nello sviluppo web. Anch'io.",
+      "en": "I work in web development. So do I.",
+      "alt": [
+        "I work in web development. Me too."
+      ]
+    },
+    {
+      "it": "Vorrei presentarti la mia collega Anna.",
+      "en": "I'd like you to meet my colleague Anna.",
+      "alt": [
+        "I'd like to introduce you to my colleague Anna.",
+        "Let me introduce you to my colleague Anna."
+      ]
+    },
+    {
+      "it": "Com'è stato il viaggio?",
+      "en": "How was your journey?",
+      "alt": [
+        "How was your trip?"
+      ]
+    },
+    {
+      "it": "Ho sentito parlare molto di te.",
+      "en": "I've heard a lot about you.",
+      "alt": [
+        "I have heard a lot about you.", "I've heard so much about you."
+      ]
+    },
+    {
+      "it": "Che cosa ti piace fare nel tempo libero?",
+      "en": "What do you like to do in your free time?",
+      "alt": [
+        "What do you like doing in your free time?"
+      ]
+    },
+    {
+      "it": "Siamo cresciuti nella stessa città.",
+      "en": "We grew up in the same city.",
+      "alt": [
+        "We both grew up in the same city.", "We grew up in the same town."
+      ]
+    },
+    {
+      "it": "Ecco il mio biglietto da visita. Teniamoci in contatto.",
+      "en": "Here is my business card. Let's keep in touch.",
+      "alt": [
+        "Here's my business card. Let's stay in touch."
+      ]
+    },
+    {
+      "it": "Non sono molto bravo nelle chiacchiere. Neanch'io.",
+      "en": "I'm not very good at small talk. Neither am I.",
+      "alt": [
+        "I am not very good at small talk. Me neither."
+      ]
+    },
+    {
+      "it": "Meglio che vada, ho un treno alle sei.",
+      "en": "I'd better get going, I have a train at six.",
+      "alt": [
+        "I had better get going, I have a train at six.",
+        "I'd better go, I have a train at six."
+      ]
+    },
+    {
+      "it": "Ti mando un messaggio su LinkedIn domani.",
+      "en": "I'll send you a message on LinkedIn tomorrow.",
+      "alt": [
+        "I will send you a LinkedIn message tomorrow."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Hai conosciuto Sarah a una conferenza sul web. Scrivile un breve messaggio di follow-up su LinkedIn. Di' che è stato un piacere. Ricorda qualcosa che avete in comune. Proponi di restare in contatto e di sentirvi per un caffè online. Scrivi 5-8 righe.",
+    "taskEn": "You met Sarah at a web conference. Write her a short follow-up message on LinkedIn. Say it was a pleasure. Mention something you have in common. Suggest keeping in touch and having an online coffee. Write 5-8 lines.",
+    "model": "Hi Sarah,\n\nIt was lovely to meet you at the conference yesterday. I really enjoyed our chat about accessibility and hiking.\n\nIt's great that we both work on accessibility audits. I would love to hear more about your experience with large public websites.\n\nWould you like to have an online coffee next week? I am free on Tuesday or Thursday afternoon.\n\nLet's keep in touch.\n\nBest wishes,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Hi, I don't think we've met. I'm Luca.",
+      "What brings you here today?",
+      "I don't like early flights. Neither do I.",
+      "I work in web development. So do I.",
+      "Anna, I'd like you to meet Marco.",
+      "You two have a lot in common.",
+      "It was great talking to you. Let's keep in touch.",
+      "I'd better get going. Enjoy the rest of the event!"
+    ],
+    "prompts": [
+      {
+        "en": "What do you do for a living?",
+        "it": "Di che cosa ti occupi?",
+        "help": "Inizia con: I work as... / I'm a... and I work with..."
+      },
+      {
+        "en": "What do you like to do in your free time?",
+        "it": "Che cosa ti piace fare nel tempo libero?",
+        "help": "Usa: I'm into... / I love... And you?"
+      },
+      {
+        "en": "Is this your first time at this event?",
+        "it": "È la prima volta che vieni a questo evento?",
+        "help": "Rispondi e rilancia: Yes, it is. And you?"
+      },
+      {
+        "en": "How was your journey?",
+        "it": "Com'è stato il viaggio?",
+        "help": "Usa: It was fine / a bit long. And yours?"
+      },
+      {
+        "en": "Introduce two colleagues to each other.",
+        "it": "Presenta due colleghi tra loro.",
+        "help": "Usa: Anna, I'd like you to meet Marco. Marco works in..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: small talk e networking",
+      "show": [
+        "Small talk and networking",
+        "So do I / Neither do I"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione trentotto. Oggi parliamo di conversazione leggera agli eventi e di come conoscere nuove persone in inglese."
+        },
+        {
+          "lang": "it",
+          "text": "Imparerai a dire anch'io e neanch'io nel modo giusto e a fare domande di cortesia."
+        }
+      ]
+    },
+    {
+      "title": "So do I: anch'io",
+      "show": [
+        "I love hiking.",
+        "So do I.",
+        "So + ausiliare + soggetto"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per dire anch'io dopo una frase positiva usi So, poi l'ausiliare, poi il soggetto."
+        },
+        {
+          "lang": "en",
+          "text": "I work in web development. So do I."
+        },
+        {
+          "lang": "en",
+          "text": "I am looking forward to the talk. So am I."
+        }
+      ]
+    },
+    {
+      "title": "Neither do I: neanch'io",
+      "show": [
+        "I don't like crowds.",
+        "Neither do I.",
+        "Neither + ausiliare + soggetto"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Dopo una frase negativa usi Neither, poi l'ausiliare, poi il soggetto. Il verbo resta positivo."
+        },
+        {
+          "lang": "en",
+          "text": "I don't like crowds. Neither do I."
+        },
+        {
+          "lang": "en",
+          "text": "I can't stay late. Neither can I."
+        }
+      ]
+    },
+    {
+      "title": "Stesso ausiliare",
+      "show": [
+        "am - So am I",
+        "have - So have I",
+        "can't - Neither can I",
+        "work - So do I"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Ascolta l'ausiliare della frase dell'altro e riprendilo. Se non c'è, usa do o does."
+        },
+        {
+          "lang": "en",
+          "text": "I'm tired. So am I."
+        },
+        {
+          "lang": "en",
+          "text": "I've been here before. So have I."
+        },
+        {
+          "lang": "en",
+          "text": "She works in IT. So does he."
+        }
+      ]
+    },
+    {
+      "title": "Non sei d'accordo",
+      "show": [
+        "I love flying.",
+        "Oh, I don't.",
+        "I don't drink coffee.",
+        "Really? I do."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Se non sei d'accordo, rispondi con il contrario. Soggetto e ausiliare."
+        },
+        {
+          "lang": "en",
+          "text": "I love flying. Oh, I don't. I hate it."
+        },
+        {
+          "lang": "en",
+          "text": "I don't drink coffee. Really? I do, all day."
+        }
+      ]
+    },
+    {
+      "title": "Domande di cortesia",
+      "show": [
+        "How was your journey?",
+        "What brings you here?",
+        "Are you from around here?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Le domande di small talk sono semplici e aperte. Rispondi con un dettaglio e poi rilancia con And you."
+        },
+        {
+          "lang": "en",
+          "text": "How was your journey? Fine, thanks. And you?"
+        },
+        {
+          "lang": "en",
+          "text": "What brings you here today?"
+        }
+      ]
+    },
+    {
+      "title": "Presentare e concludere",
+      "show": [
+        "I'd like you to meet...",
+        "You have a lot in common.",
+        "Let's keep in touch."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per presentare due persone di' il nome di entrambe e una cosa che hanno in comune. Per chiudere usa una frase gentile."
+        },
+        {
+          "lang": "en",
+          "text": "Anna, I'd like you to meet Marco. You two have a lot in common."
+        },
+        {
+          "lang": "en",
+          "text": "It was great talking to you. Let's keep in touch."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "So + ausiliare + I",
+        "Neither + ausiliare + I",
+        "And you?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. So per le frasi positive, Neither per quelle negative, con lo stesso ausiliare. Poi rilancia con una domanda."
+        },
+        {
+          "lang": "it",
+          "text": "Ora prova: di' tre frasi sul tuo lavoro e rispondi con anch'io e neanch'io."
+        }
+      ]
+    }
+  ]
+}

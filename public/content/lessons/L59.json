@@ -1,0 +1,1289 @@
+{
+  "id": 59,
+  "week": 12,
+  "title": "Una giornata di lavoro completa",
+  "titleEn": "A full working day",
+  "intro": "Oggi ripassi tutto il corso seguendo una giornata di lavoro vera: la mail del mattino, lo stand-up, una chiamata con il cliente, un problema da risolvere, il preventivo e la chiusura. Rivedi le parole più utili e i tempi verbali nelle situazioni in cui li userai davvero.",
+  "goals": [
+    "Ripassare il lessico di base del lavoro in una giornata tipo",
+    "Scegliere il tempo verbale giusto: presente, passato, present perfect, futuro",
+    "Usare modali, condizionali, passivo e discorso indiretto in situazioni reali",
+    "Gestire mail, riunioni, chiamate e piccoli problemi in inglese di seguito"
+  ],
+  "words": [
+    {
+      "en": "deadline",
+      "pron": "dèdlain",
+      "it": "scadenza",
+      "type": "noun",
+      "ex": "The deadline is Friday at five.",
+      "exIt": "La scadenza è venerdì alle cinque."
+    },
+    {
+      "en": "to schedule",
+      "pron": "skèdgiul",
+      "it": "fissare, programmare",
+      "type": "verb",
+      "ex": "Can we schedule a call for Monday morning?",
+      "exIt": "Possiamo fissare una chiamata per lunedì mattina?"
+    },
+    {
+      "en": "to attach",
+      "pron": "atàc",
+      "it": "allegare",
+      "type": "verb",
+      "ex": "I've attached the updated quote.",
+      "exIt": "Ho allegato il preventivo aggiornato."
+    },
+    {
+      "en": "to follow up",
+      "pron": "fòlou àp",
+      "it": "dare seguito, risollecitare",
+      "type": "verb",
+      "ex": "I'm following up on my email from Tuesday.",
+      "exIt": "Ti scrivo di nuovo a proposito della mia mail di martedì."
+    },
+    {
+      "en": "to reschedule",
+      "pron": "riskèdgiul",
+      "it": "spostare (un appuntamento)",
+      "type": "verb",
+      "ex": "Could we reschedule the meeting to Thursday?",
+      "exIt": "Potremmo spostare la riunione a giovedì?"
+    },
+    {
+      "en": "agenda",
+      "pron": "adgènda",
+      "it": "ordine del giorno",
+      "type": "noun",
+      "ex": "I'll send the agenda before the meeting.",
+      "exIt": "Mando l'ordine del giorno prima della riunione."
+    },
+    {
+      "en": "minutes",
+      "pron": "mìnits",
+      "it": "verbale della riunione",
+      "type": "noun",
+      "ex": "Who is taking the minutes today?",
+      "exIt": "Chi scrive il verbale oggi?"
+    },
+    {
+      "en": "stand-up",
+      "pron": "stànd àp",
+      "it": "breve riunione quotidiana in piedi",
+      "type": "noun",
+      "ex": "We have a ten-minute stand-up every morning.",
+      "exIt": "Facciamo una breve riunione in piedi di dieci minuti ogni mattina."
+    },
+    {
+      "en": "ticket",
+      "pron": "tìkit",
+      "it": "segnalazione (nel sistema di assistenza)",
+      "type": "noun",
+      "ex": "I opened a ticket for the login problem.",
+      "exIt": "Ho aperto una segnalazione per il problema di accesso."
+    },
+    {
+      "en": "bug",
+      "pron": "bàg",
+      "it": "errore nel software",
+      "type": "noun",
+      "ex": "We found a bug in the checkout page.",
+      "exIt": "Abbiamo trovato un errore nella pagina di pagamento."
+    },
+    {
+      "en": "to fix",
+      "pron": "fìks",
+      "it": "correggere, riparare",
+      "type": "verb",
+      "ex": "I'll fix it before lunch.",
+      "exIt": "Lo correggo prima di pranzo."
+    },
+    {
+      "en": "to deploy",
+      "pron": "diplòi",
+      "it": "mettere online, distribuire",
+      "type": "verb",
+      "ex": "We deployed the update last night.",
+      "exIt": "Abbiamo messo online l'aggiornamento ieri notte."
+    },
+    {
+      "en": "release",
+      "pron": "rilìis",
+      "it": "versione rilasciata",
+      "type": "noun",
+      "ex": "The next release is planned for Tuesday.",
+      "exIt": "La prossima versione è prevista per martedì."
+    },
+    {
+      "en": "backup",
+      "pron": "bàkap",
+      "it": "copia di sicurezza",
+      "type": "noun",
+      "ex": "Always make a backup before updating.",
+      "exIt": "Fai sempre una copia di sicurezza prima di aggiornare."
+    },
+    {
+      "en": "feedback",
+      "pron": "fìidbak",
+      "it": "riscontro, commenti",
+      "type": "noun",
+      "ex": "Thank you for your feedback on the design.",
+      "exIt": "Grazie dei tuoi commenti sul design."
+    },
+    {
+      "en": "quote",
+      "pron": "kuòut",
+      "it": "preventivo",
+      "type": "noun",
+      "ex": "I'll send you a quote by tomorrow.",
+      "exIt": "Ti mando un preventivo entro domani."
+    },
+    {
+      "en": "invoice",
+      "pron": "ìnvois",
+      "it": "fattura",
+      "type": "noun",
+      "ex": "The invoice is due within thirty days.",
+      "exIt": "La fattura scade entro trenta giorni."
+    },
+    {
+      "en": "to approve",
+      "pron": "aprùuv",
+      "it": "approvare",
+      "type": "verb",
+      "ex": "The client approved the mock-up this morning.",
+      "exIt": "Il cliente ha approvato il mock-up stamattina."
+    },
+    {
+      "en": "budget",
+      "pron": "bàdgit",
+      "it": "budget, preventivo di spesa",
+      "type": "noun",
+      "ex": "We have a limited budget for this phase.",
+      "exIt": "Abbiamo un budget limitato per questa fase."
+    },
+    {
+      "en": "to negotiate",
+      "pron": "nigòuscieit",
+      "it": "negoziare, trattare",
+      "type": "verb",
+      "ex": "We negotiated a better price with the supplier.",
+      "exIt": "Abbiamo negoziato un prezzo migliore con il fornitore."
+    },
+    {
+      "en": "discount",
+      "pron": "dìscaunt",
+      "it": "sconto",
+      "type": "noun",
+      "ex": "We can offer a ten percent discount for annual payment.",
+      "exIt": "Possiamo offrire il dieci per cento di sconto per il pagamento annuale."
+    },
+    {
+      "en": "payment terms",
+      "pron": "pèimant tèrms",
+      "it": "condizioni di pagamento",
+      "type": "noun",
+      "ex": "What are your payment terms?",
+      "exIt": "Quali sono le vostre condizioni di pagamento?"
+    },
+    {
+      "en": "contract",
+      "pron": "kòntrakt",
+      "it": "contratto",
+      "type": "noun",
+      "ex": "The contract needs to be signed by both parties.",
+      "exIt": "Il contratto deve essere firmato da entrambe le parti."
+    },
+    {
+      "en": "to sign off",
+      "pron": "sàin of",
+      "it": "dare l'approvazione finale",
+      "type": "verb",
+      "ex": "Who needs to sign off on the final version?",
+      "exIt": "Chi deve dare l'approvazione finale alla versione definitiva?"
+    },
+    {
+      "en": "accessibility",
+      "pron": "aksesabìliti",
+      "it": "accessibilità",
+      "type": "noun",
+      "ex": "The accessibility audit found twelve issues.",
+      "exIt": "L'audit di accessibilità ha trovato dodici problemi."
+    },
+    {
+      "en": "audit",
+      "pron": "òdit",
+      "it": "verifica, controllo",
+      "type": "noun",
+      "ex": "We're doing an audit of the whole website.",
+      "exIt": "Stiamo facendo una verifica dell'intero sito."
+    },
+    {
+      "en": "to comply with",
+      "pron": "komplài uìd",
+      "it": "essere conforme a",
+      "type": "verb",
+      "ex": "The site must comply with the accessibility regulations.",
+      "exIt": "Il sito deve essere conforme alle norme sull'accessibilità."
+    },
+    {
+      "en": "to recommend",
+      "pron": "rekomènd",
+      "it": "consigliare",
+      "type": "verb",
+      "ex": "I recommend fixing the contrast issues first.",
+      "exIt": "Consiglio di correggere prima i problemi di contrasto."
+    },
+    {
+      "en": "to escalate",
+      "pron": "èskaleit",
+      "it": "portare a un livello superiore",
+      "type": "verb",
+      "ex": "If it's urgent, escalate it to the manager.",
+      "exIt": "Se è urgente, portalo al responsabile."
+    },
+    {
+      "en": "to run late",
+      "pron": "ran lèit",
+      "it": "essere in ritardo (su un impegno)",
+      "type": "phrase",
+      "ex": "Sorry, I'm running late, I'll join in five minutes.",
+      "exIt": "Scusa, sono in ritardo, mi collego tra cinque minuti."
+    },
+    {
+      "en": "to get back to",
+      "pron": "ghèt bàk tu",
+      "it": "richiamare, rispondere più tardi",
+      "type": "phrase",
+      "ex": "I'll get back to you by the end of the day.",
+      "exIt": "Ti rispondo entro la fine della giornata."
+    },
+    {
+      "en": "to catch up",
+      "pron": "kàc àp",
+      "it": "aggiornarsi, mettersi in pari",
+      "type": "verb",
+      "ex": "Let's catch up on Friday and review the progress.",
+      "exIt": "Facciamo il punto venerdì e rivediamo i progressi."
+    },
+    {
+      "en": "to wrap up",
+      "pron": "ràp àp",
+      "it": "concludere",
+      "type": "verb",
+      "ex": "Let's wrap up the meeting here.",
+      "exIt": "Concludiamo la riunione qui."
+    },
+    {
+      "en": "to look into",
+      "pron": "luk ìntu",
+      "it": "esaminare, indagare",
+      "type": "verb",
+      "ex": "I'll look into the problem this afternoon.",
+      "exIt": "Esamino il problema questo pomeriggio."
+    },
+    {
+      "en": "to set up",
+      "pron": "set àp",
+      "it": "configurare, organizzare",
+      "type": "verb",
+      "ex": "I'll set up the test environment tomorrow.",
+      "exIt": "Configuro l'ambiente di test domani."
+    },
+    {
+      "en": "to sort out",
+      "pron": "sòot àut",
+      "it": "sistemare, risolvere",
+      "type": "verb",
+      "ex": "We need to sort out the payment problem.",
+      "exIt": "Dobbiamo sistemare il problema del pagamento."
+    },
+    {
+      "en": "workload",
+      "pron": "uèrkloud",
+      "it": "carico di lavoro",
+      "type": "noun",
+      "ex": "My workload is heavy this week.",
+      "exIt": "Il mio carico di lavoro è pesante questa settimana."
+    },
+    {
+      "en": "on track",
+      "pron": "on tràk",
+      "it": "in linea con il piano",
+      "type": "phrase",
+      "ex": "The project is on track for the launch.",
+      "exIt": "Il progetto è in linea per il lancio."
+    },
+    {
+      "en": "behind schedule",
+      "pron": "bihàind skèdgiul",
+      "it": "in ritardo sul programma",
+      "type": "phrase",
+      "ex": "We're two days behind schedule.",
+      "exIt": "Siamo in ritardo di due giorni sul programma."
+    },
+    {
+      "en": "stakeholder",
+      "pron": "stèikhoulda",
+      "it": "parte interessata",
+      "type": "noun",
+      "ex": "We shared the update with all the stakeholders.",
+      "exIt": "Abbiamo condiviso l'aggiornamento con tutte le parti interessate."
+    },
+    {
+      "en": "milestone",
+      "pron": "màilstoun",
+      "it": "tappa fondamentale",
+      "type": "noun",
+      "ex": "The second milestone is the beta version.",
+      "exIt": "La seconda tappa è la versione beta."
+    },
+    {
+      "en": "scope",
+      "pron": "skòup",
+      "it": "ambito, perimetro del lavoro",
+      "type": "noun",
+      "ex": "That request is outside the scope of the project.",
+      "exIt": "Quella richiesta è fuori dall'ambito del progetto."
+    },
+    {
+      "en": "handover",
+      "pron": "hàndouva",
+      "it": "passaggio di consegne",
+      "type": "noun",
+      "ex": "The handover is planned for next Monday.",
+      "exIt": "Il passaggio di consegne è previsto per lunedì prossimo."
+    },
+    {
+      "en": "to apologise",
+      "pron": "apòlogiaiz",
+      "it": "scusarsi",
+      "type": "verb",
+      "ex": "I apologise for the delay.",
+      "exIt": "Mi scuso per il ritardo."
+    },
+    {
+      "en": "reminder",
+      "pron": "rimàinda",
+      "it": "promemoria",
+      "type": "noun",
+      "ex": "This is a friendly reminder about the invoice.",
+      "exIt": "Questo è un cortese promemoria sulla fattura."
+    },
+    {
+      "en": "availability",
+      "pron": "aveilabìliti",
+      "it": "disponibilità",
+      "type": "noun",
+      "ex": "Please send me your availability for next week.",
+      "exIt": "Per favore mandami la tua disponibilità per la prossima settimana."
+    },
+    {
+      "en": "to confirm",
+      "pron": "konfèrm",
+      "it": "confermare",
+      "type": "verb",
+      "ex": "Could you confirm the date by Thursday?",
+      "exIt": "Potresti confermare la data entro giovedì?"
+    },
+    {
+      "en": "to double-check",
+      "pron": "dàbol cèc",
+      "it": "ricontrollare",
+      "type": "verb",
+      "ex": "Let me double-check the numbers.",
+      "exIt": "Lasciami ricontrollare i numeri."
+    },
+    {
+      "en": "end of day",
+      "pron": "end ov dèi",
+      "it": "fine giornata (abbreviato EOD)",
+      "type": "phrase",
+      "ex": "I'll send you the report by end of day.",
+      "exIt": "Ti mando il report entro fine giornata."
+    },
+    {
+      "en": "to put on hold",
+      "pron": "put on hòuld",
+      "it": "mettere in attesa, sospendere",
+      "type": "phrase",
+      "ex": "The client put the project on hold.",
+      "exIt": "Il cliente ha sospeso il progetto."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "actually",
+      "it": "in realtà",
+      "trap": "Non vuol dire 'attualmente' (= currently). Si usa per correggere o precisare: 'Actually, it's ready.'"
+    },
+    {
+      "en": "eventually",
+      "it": "alla fine",
+      "trap": "Non vuol dire 'eventualmente' (= if needed)."
+    },
+    {
+      "en": "to control",
+      "it": "controllare nel senso di dominare",
+      "trap": "Per 'controllare, verificare' si usa to check. To control vuol dire tenere sotto controllo, comandare."
+    },
+    {
+      "en": "sensible",
+      "it": "ragionevole, di buon senso",
+      "trap": "Non vuol dire 'sensibile' (= sensitive)."
+    }
+  ],
+  "grammar": {
+    "title": "Ripasso generale: i tempi e le strutture in una giornata di lavoro",
+    "explainIt": [
+      "Questa lezione ripassa tutta la grammatica del corso dentro una giornata. Al mattino parli di abitudini e di quello che succede ora: present simple e present continuous. 'I start at nine' (abitudine). 'I'm working on the quote' (adesso). Con le abitudini usa avverbi come always, usually, every day. Con 'ora' usa now, at the moment.",
+      "Per il passato scegli con attenzione. Il past simple dice quando è successo: 'I sent the email yesterday.' Il present perfect collega il passato al presente, senza dire quando: 'I've sent the email, so you can check it.' Si usa con already, yet, just, ever e con for e since. Il past continuous descrive qualcosa in corso quando è successo altro: 'I was testing when the server crashed.'",
+      "Per il futuro hai tre forme. Will per decisioni al momento e promesse: 'I'll call you back.' Be going to per piani e previsioni basate su segnali: 'We're going to launch in May.' Il present continuous per appuntamenti già fissati: 'I'm meeting the client at three.' Dopo when, as soon as, once, before si usa il presente, mai will: 'I'll call you when I arrive.'",
+      "Per chiedere o proporre usa i modali: can, could, would, should, must. 'Could you send me the file?' è gentile. 'Would you like some coffee?' è un'offerta. 'You should back up first' è un consiglio. 'You must sign here' è un obbligo. 'We have to' è un obbligo esterno. I condizionali servono per le ipotesi: 'If we hire another developer, we will finish on time' (probabile) e 'If I were you, I would escalate it' (immaginario).",
+      "Per i fatti senza chiarire chi li ha fatti usa il passivo: 'The server was updated last night.' Per riportare quello che ha detto qualcuno usa il discorso indiretto, e fai un passo indietro nei tempi: 'She said she was running late.' Infine i phrasal verbs: follow up, look into, set up, sort out, catch up, wrap up. Si usano tutti i giorni e rendono il tuo inglese naturale."
+    ],
+    "explainEn": [
+      "This lesson reviews all the grammar of the course inside one working day. In the morning you talk about habits and what is happening now: present simple and present continuous. 'I start at nine' (habit). 'I'm working on the quote' (now). With habits use adverbs like always, usually, every day. For things happening now use now, at the moment.",
+      "For the past, choose carefully. The past simple says when it happened: 'I sent the email yesterday.' The present perfect connects the past to the present, without saying when: 'I've sent the email, so you can check it.' It is used with already, yet, just, ever and with for and since. The past continuous describes something in progress when something else happened: 'I was testing when the server crashed.'",
+      "For the future you have three forms. Will for decisions at the moment and promises: 'I'll call you back.' Be going to for plans and predictions based on signs: 'We're going to launch in May.' The present continuous for fixed arrangements: 'I'm meeting the client at three.' After when, as soon as, once and before use the present, never will: 'I'll call you when I arrive.'",
+      "To ask or offer something use modals: can, could, would, should, must. 'Could you send me the file?' is polite. 'Would you like some coffee?' is an offer. 'You should back up first' is advice. 'You must sign here' is an obligation. 'We have to' is an external obligation. Conditionals are for hypotheses: 'If we hire another developer, we will finish on time' (likely) and 'If I were you, I would escalate it' (imaginary).",
+      "For facts where you do not say who did them use the passive: 'The server was updated last night.' To report what someone said use reported speech, and take a step back in the tenses: 'She said she was running late.' Finally, phrasal verbs: follow up, look into, set up, sort out, catch up, wrap up. They are used every day and make your English natural."
+    ],
+    "rules": [
+      {
+        "it": "Present simple per abitudini e fatti; present continuous per ciò che succede ora o in questo periodo.",
+        "en": "Present simple for habits and facts; present continuous for what is happening now or around now.",
+        "form": "I work / I'm working",
+        "examples": [
+          {
+            "en": "I usually start at nine, but today I'm starting earlier.",
+            "it": "Di solito comincio alle nove, ma oggi comincio prima."
+          },
+          {
+            "en": "We're updating the server at the moment.",
+            "it": "Stiamo aggiornando il server in questo momento."
+          },
+          {
+            "en": "The shop opens at eight every day.",
+            "it": "Il negozio apre alle otto ogni giorno."
+          }
+        ]
+      },
+      {
+        "it": "Past simple per un momento preciso nel passato; present perfect per un fatto passato legato al presente; past continuous per un'azione in corso interrotta da un'altra.",
+        "en": "Past simple for a definite time in the past; present perfect for a past fact connected to now; past continuous for an action in progress interrupted by another.",
+        "form": "I sent / I have sent / I was sending",
+        "examples": [
+          {
+            "en": "I sent the report yesterday afternoon.",
+            "it": "Ho mandato il report ieri pomeriggio."
+          },
+          {
+            "en": "I've already sent the report, please check your inbox.",
+            "it": "Ho già mandato il report, controlla la tua posta."
+          },
+          {
+            "en": "We've worked with this client since 2019.",
+            "it": "Lavoriamo con questo cliente dal 2019."
+          },
+          {
+            "en": "I was testing the form when the page crashed.",
+            "it": "Stavo testando il modulo quando la pagina è andata in crash."
+          }
+        ]
+      },
+      {
+        "it": "Futuro: will per decisioni e promesse, going to per piani, present continuous per appuntamenti. Dopo when e once, presente.",
+        "en": "Future: will for decisions and promises, going to for plans, present continuous for arrangements. After when and once, present.",
+        "form": "will + base / be going to + base / be + -ing",
+        "examples": [
+          {
+            "en": "I'll call you back in ten minutes.",
+            "it": "Ti richiamo tra dieci minuti."
+          },
+          {
+            "en": "We're going to launch the new site in May.",
+            "it": "Lanceremo il nuovo sito a maggio."
+          },
+          {
+            "en": "I'm meeting the client at three tomorrow.",
+            "it": "Domani alle tre incontro il cliente."
+          },
+          {
+            "en": "I'll let you know as soon as I hear from them.",
+            "it": "Ti faccio sapere appena li sento."
+          }
+        ]
+      },
+      {
+        "it": "Modali per richieste, offerte, consigli e obblighi.",
+        "en": "Modals for requests, offers, advice and obligations.",
+        "form": "can / could / would / should / must + verbo base",
+        "examples": [
+          {
+            "en": "Could you send me the file, please?",
+            "it": "Potresti mandarmi il file, per favore?"
+          },
+          {
+            "en": "You should make a backup first.",
+            "it": "Dovresti fare prima un backup."
+          },
+          {
+            "en": "We must comply with the new regulation.",
+            "it": "Dobbiamo rispettare il nuovo regolamento."
+          }
+        ]
+      },
+      {
+        "it": "Condizionali per ipotesi probabili e immaginarie; passivo per fatti senza chi agisce.",
+        "en": "Conditionals for likely and imaginary situations; passive for facts without the doer.",
+        "form": "If + presente, will / If + past, would / be + participio",
+        "examples": [
+          {
+            "en": "If we hire another developer, we will finish on time.",
+            "it": "Se assumiamo un altro sviluppatore, finiremo in tempo."
+          },
+          {
+            "en": "If I were you, I would escalate it.",
+            "it": "Se fossi in te, lo porterei a un livello superiore."
+          },
+          {
+            "en": "The server was updated last night.",
+            "it": "Il server è stato aggiornato ieri notte."
+          }
+        ]
+      },
+      {
+        "it": "Discorso indiretto: un passo indietro nei tempi. Phrasal verbs: verbo + particella con significato proprio.",
+        "en": "Reported speech: one step back in tense. Phrasal verbs: verb + particle with its own meaning.",
+        "form": "He said (that) he was... / look into, set up, sort out",
+        "examples": [
+          {
+            "en": "She said she was running late.",
+            "it": "Ha detto che era in ritardo."
+          },
+          {
+            "en": "He told me he had already sent the invoice.",
+            "it": "Mi ha detto che aveva già mandato la fattura."
+          },
+          {
+            "en": "I'll look into it and sort it out today.",
+            "it": "Lo esamino e lo sistemo oggi."
+          }
+        ]
+      }
+    ],
+    "tip": "Prima di scrivere una frase chiediti due cose: 'Quando?' (momento preciso, collegato al presente o futuro?) e 'Chi?' (chi fa l'azione?). Dalle due risposte scegli il tempo verbale e se usare attivo o passivo.",
+    "mistakes": [
+      {
+        "wrong": "I have sent the file yesterday.",
+        "right": "I sent the file yesterday.",
+        "why": "con yesterday si usa il past simple, non il present perfect"
+      },
+      {
+        "wrong": "I'll call you when I will arrive.",
+        "right": "I'll call you when I arrive.",
+        "why": "dopo when si usa il presente, non il futuro"
+      },
+      {
+        "wrong": "I work here since two years.",
+        "right": "I've worked here for two years.",
+        "why": "con for e since si usa il present perfect"
+      },
+      {
+        "wrong": "He said me that he was late.",
+        "right": "He told me that he was late.",
+        "why": "say non vuole la persona; tell sì"
+      },
+      {
+        "wrong": "If I would have time, I would help.",
+        "right": "If I had time, I would help.",
+        "why": "nell'if clause si usa il past simple, non would"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I usually ___ (start) work at nine.",
+      "a": [
+        "start"
+      ],
+      "hint": "abitudine",
+      "explain": "Abitudine: present simple."
+    },
+    {
+      "q": "Please wait, I ___ (talk) to a client right now.",
+      "a": [
+        "am talking",
+        "'m talking"
+      ],
+      "hint": "adesso",
+      "explain": "Azione in corso: present continuous."
+    },
+    {
+      "q": "I ___ (send) the quote yesterday afternoon.",
+      "a": [
+        "sent"
+      ],
+      "hint": "yesterday",
+      "explain": "Momento preciso: past simple."
+    },
+    {
+      "q": "We ___ (work) with this client since 2019.",
+      "a": [
+        "have worked",
+        "'ve worked",
+        "have been working",
+        "'ve been working"
+      ],
+      "hint": "since",
+      "explain": "Since + present perfect (anche continuous: have been working)."
+    },
+    {
+      "q": "I ___ (test) the form when the page crashed.",
+      "a": [
+        "was testing"
+      ],
+      "hint": "azione in corso nel passato",
+      "explain": "Past continuous per l'azione interrotta."
+    },
+    {
+      "q": "I'll call you as soon as I ___ (arrive).",
+      "a": [
+        "arrive"
+      ],
+      "hint": "dopo as soon as",
+      "explain": "Dopo as soon as si usa il presente."
+    },
+    {
+      "q": "___ you send me the file, please? (richiesta gentile)",
+      "a": [
+        "could",
+        "can",
+        "would"
+      ],
+      "hint": "richiesta educata",
+      "explain": "Could/would per una richiesta gentile."
+    },
+    {
+      "q": "If we hire another developer, we ___ finish on time.",
+      "a": [
+        "will",
+        "'ll"
+      ],
+      "hint": "ipotesi probabile",
+      "explain": "If + presente, will + base."
+    },
+    {
+      "q": "If I ___ you, I would escalate it.",
+      "a": [
+        "were",
+        "was"
+      ],
+      "hint": "ipotesi immaginaria",
+      "explain": "Condizionale: If I were you."
+    },
+    {
+      "q": "The server ___ (update) last night.",
+      "a": [
+        "was updated"
+      ],
+      "hint": "passivo passato",
+      "explain": "Passivo: was + participio passato."
+    },
+    {
+      "q": "She said she ___ (run) late.",
+      "a": [
+        "was running"
+      ],
+      "hint": "discorso indiretto",
+      "explain": "Un passo indietro: am running diventa was running."
+    },
+    {
+      "q": "I'll ___ into the problem this afternoon. (esaminare)",
+      "a": [
+        "look"
+      ],
+      "hint": "phrasal verb",
+      "explain": "Look into = esaminare, indagare."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "La mattina: mail e organizzazione",
+      "en": "I hope you had a good weekend.",
+      "it": "Spero tu abbia passato un buon fine settimana."
+    },
+    {
+      "group": "La mattina: mail e organizzazione",
+      "en": "I'm following up on my email from Tuesday.",
+      "it": "Ti scrivo di nuovo a proposito della mia mail di martedì."
+    },
+    {
+      "group": "La mattina: mail e organizzazione",
+      "en": "Could we reschedule the meeting to Thursday?",
+      "it": "Potremmo spostare la riunione a giovedì?"
+    },
+    {
+      "group": "La mattina: mail e organizzazione",
+      "en": "I've attached the agenda for today's meeting.",
+      "it": "Ho allegato l'ordine del giorno della riunione di oggi."
+    },
+    {
+      "group": "La mattina: mail e organizzazione",
+      "en": "Sorry, I'm running late. I'll join in five minutes.",
+      "it": "Scusa, sono in ritardo. Mi collego tra cinque minuti."
+    },
+    {
+      "group": "Riunioni e chiamate",
+      "en": "Let's get started. First on the agenda is the budget.",
+      "it": "Cominciamo. Il primo punto all'ordine del giorno è il budget."
+    },
+    {
+      "group": "Riunioni e chiamate",
+      "en": "Could you say that again, please?",
+      "it": "Potresti ripetere, per favore?"
+    },
+    {
+      "group": "Riunioni e chiamate",
+      "en": "I'll get back to you by the end of the day.",
+      "it": "Ti rispondo entro la fine della giornata."
+    },
+    {
+      "group": "Riunioni e chiamate",
+      "en": "Let's wrap up and summarise the action points.",
+      "it": "Concludiamo e riassumiamo i punti d'azione."
+    },
+    {
+      "group": "Riunioni e chiamate",
+      "en": "Who is taking the minutes?",
+      "it": "Chi scrive il verbale?"
+    },
+    {
+      "group": "Problemi e supporto",
+      "en": "I'll look into it and let you know.",
+      "it": "Lo esamino e ti faccio sapere."
+    },
+    {
+      "group": "Problemi e supporto",
+      "en": "We found a bug, and we're fixing it now.",
+      "it": "Abbiamo trovato un errore e lo stiamo correggendo ora."
+    },
+    {
+      "group": "Problemi e supporto",
+      "en": "I apologise for the inconvenience.",
+      "it": "Mi scuso per il disagio."
+    },
+    {
+      "group": "Problemi e supporto",
+      "en": "Have you tried clearing the cache?",
+      "it": "Hai provato a svuotare la cache?"
+    },
+    {
+      "group": "Problemi e supporto",
+      "en": "If it's urgent, please escalate it to the manager.",
+      "it": "Se è urgente, portalo al responsabile."
+    },
+    {
+      "group": "Preventivi e pagamenti",
+      "en": "I'll send you a quote by tomorrow.",
+      "it": "Ti mando un preventivo entro domani."
+    },
+    {
+      "group": "Preventivi e pagamenti",
+      "en": "What are your payment terms?",
+      "it": "Quali sono le vostre condizioni di pagamento?"
+    },
+    {
+      "group": "Preventivi e pagamenti",
+      "en": "We could offer a discount if you pay in advance.",
+      "it": "Potremmo offrire uno sconto se paga in anticipo."
+    },
+    {
+      "group": "Preventivi e pagamenti",
+      "en": "This is a friendly reminder about the invoice.",
+      "it": "Questo è un cortese promemoria sulla fattura."
+    },
+    {
+      "group": "Preventivi e pagamenti",
+      "en": "Could you confirm the order in writing?",
+      "it": "Potresti confermare l'ordine per iscritto?"
+    },
+    {
+      "group": "Chiudere la giornata",
+      "en": "Let's catch up on Friday.",
+      "it": "Facciamo il punto venerdì."
+    },
+    {
+      "group": "Chiudere la giornata",
+      "en": "I'll send you the report by end of day.",
+      "it": "Ti mando il report entro fine giornata."
+    },
+    {
+      "group": "Chiudere la giornata",
+      "en": "Thanks for your time today.",
+      "it": "Grazie per il tempo che mi hai dedicato oggi."
+    },
+    {
+      "group": "Chiudere la giornata",
+      "en": "Have a good evening, and see you tomorrow.",
+      "it": "Buona serata, a domani."
+    },
+    {
+      "group": "Chiudere la giornata",
+      "en": "Feel free to get in touch if you have any questions.",
+      "it": "Contattami pure se hai domande."
+    }
+  ],
+  "dialogue": {
+    "title": "One day at the office",
+    "context": "Luca e la collega Sarah ripercorrono la giornata: stand-up del mattino, un problema con un cliente, il preventivo e la chiusura. Passano da una situazione all'altra come in un vero giorno di lavoro.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Morning, Luca. Did you see the client's email? They've found a bug on the checkout page.",
+        "it": "Buongiorno, Luca. Hai visto la mail del cliente? Hanno trovato un errore nella pagina di pagamento."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, I read it. I'll look into it right after the stand-up.",
+        "it": "Sì, l'ho letta. La esamino subito dopo lo stand-up."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Great. So, for the stand-up: what are you working on today?",
+        "it": "Ottimo. Allora, per lo stand-up: su cosa lavori oggi?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yesterday I finished the accessibility audit. Today I'm fixing the contrast issues and writing the report.",
+        "it": "Ieri ho finito l'audit di accessibilità. Oggi sto correggendo i problemi di contrasto e scrivendo il report."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Good. The client is calling at eleven, by the way. They said they were worried about the deadline.",
+        "it": "Bene. A proposito, il cliente chiama alle undici. Hanno detto che erano preoccupati per la scadenza."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I'll explain that we're on track, but if they add new pages, we'll be behind schedule.",
+        "it": "Spiegherò che siamo in linea, ma se aggiungono nuove pagine saremo in ritardo."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Sounds good. Could you also send them a quote for the extra pages?",
+        "it": "Mi sembra giusto. Potresti anche mandargli un preventivo per le pagine extra?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Sure. I've already prepared a draft. I'll attach it to the email after the call.",
+        "it": "Certo. Ho già preparato una bozza. La allego alla mail dopo la chiamata."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "So, how did the call go?",
+        "it": "Allora, com'è andata la chiamata?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Well, they approved the design, but they asked for a ten percent discount.",
+        "it": "Beh, hanno approvato il design, ma hanno chiesto il dieci per cento di sconto."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "What did you say?",
+        "it": "Cosa hai risposto?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I said we could offer five percent if they pay in advance.",
+        "it": "Ho detto che potevamo offrire il cinque per cento se pagavano in anticipo."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Smart. And the bug? Has it been fixed?",
+        "it": "Ottima mossa. E l'errore? È stato corretto?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, I fixed it and deployed the update at two. I'll send them the report by end of day.",
+        "it": "Sì, l'ho corretto e ho messo online l'aggiornamento alle due. Gli mando il report entro fine giornata."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Perfect. If you need help with the invoice, just let me know.",
+        "it": "Perfetto. Se ti serve aiuto con la fattura, fammi sapere."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Thanks. Let's catch up tomorrow morning. Have a good evening.",
+        "it": "Grazie. Facciamo il punto domani mattina. Buona serata."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What did the client find on the checkout page?",
+      "options": [
+        "A bug",
+        "A new design",
+        "A wrong price list"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What did the client ask for on the call?",
+      "options": [
+        "A ten percent discount",
+        "A new logo",
+        "A later deadline"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What did Luca offer in answer?",
+      "options": [
+        "Five percent, if they pay in advance",
+        "Nothing",
+        "Fifty percent"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When did Luca deploy the update?",
+      "options": [
+        "At two",
+        "At eleven",
+        "Tomorrow morning"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Ti scrivo di nuovo a proposito della mia mail di martedì.",
+      "en": "I'm following up on my email from Tuesday.",
+      "alt": [
+        "I'm writing to follow up on my email from Tuesday.",
+        "I'm following up on the email I sent on Tuesday."
+      ]
+    },
+    {
+      "it": "Ho allegato il preventivo aggiornato.",
+      "en": "I've attached the updated quote.",
+      "alt": [
+        "I have attached the updated quote.",
+        "Please find the updated quote attached."
+      ]
+    },
+    {
+      "it": "Potremmo spostare la riunione a giovedì?",
+      "en": "Could we reschedule the meeting to Thursday?",
+      "alt": [
+        "Could we move the meeting to Thursday?",
+        "Would it be possible to reschedule the meeting to Thursday?"
+      ]
+    },
+    {
+      "it": "Ieri ho finito l'audit di accessibilità.",
+      "en": "Yesterday I finished the accessibility audit.",
+      "alt": [
+        "I finished the accessibility audit yesterday.",
+        "Yesterday I completed the accessibility audit."
+      ]
+    },
+    {
+      "it": "Oggi sto correggendo i problemi di contrasto.",
+      "en": "Today I'm fixing the contrast issues.",
+      "alt": [
+        "I'm fixing the contrast issues today.",
+        "Today I am fixing the contrast problems."
+      ]
+    },
+    {
+      "it": "Ti richiamo appena finisco la riunione.",
+      "en": "I'll call you back as soon as I finish the meeting.",
+      "alt": [
+        "I'll call you back as soon as the meeting finishes.",
+        "I'll call you as soon as I finish the meeting."
+      ]
+    },
+    {
+      "it": "Se aggiungono nuove pagine, saremo in ritardo.",
+      "en": "If they add new pages, we will be behind schedule.",
+      "alt": [
+        "If they add new pages, we'll be behind schedule.",
+        "If they add more pages, we'll be late."
+      ]
+    },
+    {
+      "it": "Se fossi in te, porterei il problema al responsabile.",
+      "en": "If I were you, I would escalate the problem to the manager.",
+      "alt": [
+        "If I were you, I'd escalate the problem to the manager.",
+        "If I was you, I would escalate it to the manager."
+      ]
+    },
+    {
+      "it": "Il server è stato aggiornato ieri notte.",
+      "en": "The server was updated last night.",
+      "alt": [
+        "The server got updated last night.",
+        "They updated the server last night."
+      ]
+    },
+    {
+      "it": "Ha detto che era in ritardo.",
+      "en": "She said she was running late.",
+      "alt": [
+        "She said that she was running late.",
+        "She told us she was running late."
+      ]
+    },
+    {
+      "it": "Lavoriamo con questo cliente da tre anni.",
+      "en": "We have worked with this client for three years.",
+      "alt": [
+        "We've worked with this client for three years.",
+        "We've been working with this client for three years."
+      ]
+    },
+    {
+      "it": "Ti mando il report entro fine giornata.",
+      "en": "I'll send you the report by end of day.",
+      "alt": [
+        "I will send you the report by the end of the day.",
+        "I'll send you the report by the end of today."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail di riepilogo di fine giornata al tuo responsabile (8-10 righe). Racconta cosa hai fatto oggi (past simple e present perfect), cosa farai domani (will e going to), un problema che hai risolto e uno che hai segnalato. Usa almeno tre phrasal verbs (look into, sort out, follow up, catch up).",
+    "taskEn": "Write an end-of-day summary email to your manager (8-10 lines). Say what you did today (past simple and present perfect), what you will do tomorrow (will and going to), a problem you solved and one you flagged. Use at least three phrasal verbs (look into, sort out, follow up, catch up).",
+    "model": "Subject: End-of-day update - Tuesday\n\nHi Sarah,\n\nHere is a quick summary of today.\n\nThis morning I looked into the checkout bug and fixed it. The update was deployed at two, and the client has already confirmed that it works.\n\nI've also finished the accessibility report and sent it to the client. They approved the design, so we are on track for the launch.\n\nOne issue: the client asked for a ten percent discount. I said we could offer five percent if they pay in advance, and I'll follow up with a written quote tomorrow.\n\nTomorrow I'm going to sort out the invoice and set up the test environment. Could we catch up on Thursday?\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I'm following up on my email from Tuesday.",
+      "Yesterday I finished the audit, and today I'm writing the report.",
+      "I'll call you back as soon as I finish the meeting.",
+      "If we hire another developer, we will finish on time.",
+      "The server was updated last night.",
+      "She said she was running late.",
+      "Could you confirm the date by Thursday?",
+      "Let's catch up on Friday and wrap up the project."
+    ],
+    "prompts": [
+      {
+        "en": "Describe a typical working day for you, from morning to evening.",
+        "it": "Descrivi una tua giornata di lavoro tipica, dalla mattina alla sera.",
+        "help": "Usa: I usually start... / Then I... / In the afternoon..."
+      },
+      {
+        "en": "What did you do yesterday, and what are you going to do tomorrow?",
+        "it": "Cosa hai fatto ieri e cosa farai domani?",
+        "help": "Usa: Yesterday I... / I've already... / Tomorrow I'm going to..."
+      },
+      {
+        "en": "A client calls about a bug. What do you say?",
+        "it": "Un cliente chiama per un errore. Cosa dici?",
+        "help": "Usa: I'll look into it. / I apologise for the inconvenience. / I'll get back to you by..."
+      },
+      {
+        "en": "You are the supplier. The client wants a ten percent discount. What do you say?",
+        "it": "Tu sei il fornitore e il cliente chiede uno sconto del dieci per cento. Cosa rispondi?",
+        "help": "Usa: We could offer... if... / Could you confirm...?"
+      },
+      {
+        "en": "Tell me about something your colleague said to you today.",
+        "it": "Raccontami qualcosa che ti ha detto oggi un collega.",
+        "help": "Usa: She said (that)... / He asked me if..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: una giornata completa",
+      "show": [
+        "A full working day",
+        "Ripasso di tutto il corso",
+        "Mattina, chiamata, problema, chiusura"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi facciamo un ripasso. Seguiamo una giornata di lavoro dall'inizio alla fine e rivediamo le parole e i tempi verbali più importanti del corso."
+        },
+        {
+          "lang": "en",
+          "text": "Let's go through a full working day."
+        }
+      ]
+    },
+    {
+      "title": "La mattina: mail e organizzazione",
+      "show": [
+        "I'm following up on my email.",
+        "Could we reschedule the meeting?",
+        "I've attached the agenda."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "La giornata inizia con le mail. Usa to follow up per sollecitare, to reschedule per spostare un appuntamento, e to attach per allegare. Ricorda il present perfect per dire che hai già fatto qualcosa."
+        },
+        {
+          "lang": "en",
+          "text": "I've attached the agenda for today's meeting."
+        }
+      ]
+    },
+    {
+      "title": "Presente semplice e continuo",
+      "show": [
+        "I usually start at nine.",
+        "Today I'm starting earlier."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Presente semplice per abitudini e fatti. Presente continuo per quello che succede adesso. Nello stand-up spesso usi entrambi: cosa fai di solito e cosa stai facendo oggi."
+        },
+        {
+          "lang": "en",
+          "text": "I'm fixing the contrast issues today."
+        }
+      ]
+    },
+    {
+      "title": "Passato: past simple e present perfect",
+      "show": [
+        "I sent the quote yesterday.",
+        "I've already sent the quote.",
+        "We've worked together since 2019."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Past simple per un momento preciso, con yesterday o last week. Present perfect per un fatto legato al presente, con already, yet, for e since. Past continuous per un'azione in corso quando è successo altro."
+        },
+        {
+          "lang": "en",
+          "text": "I was testing the form when the page crashed."
+        }
+      ]
+    },
+    {
+      "title": "Futuro, modali e condizionali",
+      "show": [
+        "I'll call you back.",
+        "We're going to launch in May.",
+        "Could you send me the file?",
+        "If we hire another developer..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Will per decisioni e promesse. Going to per piani. Could e would per richieste gentili. Il condizionale con if serve per le ipotesi. Dopo when e as soon as si usa il presente."
+        },
+        {
+          "lang": "en",
+          "text": "If we hire another developer, we will finish on time."
+        }
+      ]
+    },
+    {
+      "title": "Passivo e discorso indiretto",
+      "show": [
+        "The server was updated last night.",
+        "She said she was running late."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il passivo serve quando l'azione conta più di chi la fa. Il discorso indiretto riporta le parole di qualcuno, con un passo indietro nei tempi."
+        },
+        {
+          "lang": "en",
+          "text": "He said he had already sent the invoice."
+        }
+      ]
+    },
+    {
+      "title": "Problemi, preventivi e pagamenti",
+      "show": [
+        "I'll look into it.",
+        "I apologise for the inconvenience.",
+        "What are your payment terms?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nei problemi con il cliente scusati e di' entro quando risponderai. Nei preventivi sii chiaro su prezzi, sconti e condizioni di pagamento."
+        },
+        {
+          "lang": "en",
+          "text": "I'll get back to you by the end of the day."
+        },
+        {
+          "lang": "en",
+          "text": "We could offer a discount if you pay in advance."
+        }
+      ]
+    },
+    {
+      "title": "Chiudere la giornata",
+      "show": [
+        "Let's wrap up.",
+        "Let's catch up on Friday.",
+        "I'll send the report by end of day."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "A fine giornata riassumi cosa hai fatto e cosa farai. Usa wrap up per concludere e catch up per fare il punto."
+        },
+        {
+          "lang": "en",
+          "text": "Thanks for your time today. Have a good evening."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Presente, passato, futuro",
+        "Modali e condizionali",
+        "Passivo e discorso indiretto",
+        "Phrasal verbs"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Scegli il tempo giusto chiedendoti quando e chi. Usa i modali per essere gentile. Ricorda i phrasal verbs. E racconta la tua giornata ad alta voce ogni sera."
+        },
+        {
+          "lang": "en",
+          "text": "I'll see you tomorrow."
+        }
+      ]
+    }
+  ]
+}

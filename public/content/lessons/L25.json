@@ -1,0 +1,1236 @@
+{
+  "id": 25,
+  "week": 5,
+  "title": "Presentazioni: grafici e dati",
+  "titleEn": "Presentations: charts and data",
+  "intro": "Oggi impari a descrivere un grafico ad alta voce: cosa sale, cosa scende, quanto in fretta. È la parte della presentazione dove i clienti ascoltano con più attenzione, perché parli di numeri veri. Ti servono pochi verbi e pochi avverbi, ma usati bene.",
+  "goals": [
+    "Descrivere un andamento con verbi come rise, drop, level off e recover",
+    "Dire quanto in fretta o quanto cambia qualcosa con avverbi come sharply, steadily e slightly",
+    "Presentare un grafico: titolo, assi, legenda e punto principale",
+    "Confrontare periodi diversi, per esempio questo trimestre e quello scorso"
+  ],
+  "words": [
+    {
+      "en": "trend",
+      "pron": "trènd",
+      "it": "andamento, tendenza",
+      "type": "noun",
+      "ex": "The trend is clear: more visitors use their phones.",
+      "exIt": "L'andamento è chiaro: più visitatori usano il telefono."
+    },
+    {
+      "en": "slight",
+      "pron": "slàit",
+      "it": "lieve",
+      "type": "adj",
+      "ex": "There was a slight drop in March.",
+      "exIt": "A marzo c'è stato un lieve calo."
+    },
+    {
+      "en": "bar chart",
+      "pron": "bàar ciàart",
+      "it": "grafico a barre",
+      "type": "noun",
+      "ex": "I used a bar chart to compare the three campaigns.",
+      "exIt": "Ho usato un grafico a barre per confrontare le tre campagne."
+    },
+    {
+      "en": "line graph",
+      "pron": "làin gràaf",
+      "it": "grafico a linee",
+      "type": "noun",
+      "ex": "A line graph is best for showing change over time.",
+      "exIt": "Il grafico a linee è il migliore per mostrare i cambiamenti nel tempo."
+    },
+    {
+      "en": "pie chart",
+      "pron": "pài ciàart",
+      "it": "grafico a torta",
+      "type": "noun",
+      "ex": "The pie chart shows where our visitors come from.",
+      "exIt": "Il grafico a torta mostra da dove arrivano i nostri visitatori."
+    },
+    {
+      "en": "axis",
+      "pron": "àksis",
+      "it": "asse",
+      "type": "noun",
+      "ex": "The vertical axis shows the number of orders.",
+      "exIt": "L'asse verticale mostra il numero di ordini."
+    },
+    {
+      "en": "legend",
+      "pron": "lèdgend",
+      "it": "legenda",
+      "type": "noun",
+      "ex": "The legend explains what each colour means.",
+      "exIt": "La legenda spiega cosa significa ogni colore."
+    },
+    {
+      "en": "label",
+      "pron": "lèibol",
+      "it": "etichetta",
+      "type": "noun",
+      "ex": "Every bar needs a clear label.",
+      "exIt": "Ogni barra ha bisogno di un'etichetta chiara."
+    },
+    {
+      "en": "gradual",
+      "pron": "gràgiual",
+      "it": "graduale",
+      "type": "adj",
+      "ex": "The growth was gradual.",
+      "exIt": "La crescita è stata graduale."
+    },
+    {
+      "en": "data point",
+      "pron": "dèita pòint",
+      "it": "dato, punto del grafico",
+      "type": "noun",
+      "ex": "Each data point is one month of sales.",
+      "exIt": "Ogni punto del grafico è un mese di vendite."
+    },
+    {
+      "en": "outlier",
+      "pron": "àutlaier",
+      "it": "valore anomalo",
+      "type": "noun",
+      "ex": "March is an outlier because of the big campaign.",
+      "exIt": "Marzo è un valore anomalo a causa della grande campagna."
+    },
+    {
+      "en": "baseline",
+      "pron": "bèislain",
+      "it": "valore di partenza",
+      "type": "noun",
+      "ex": "We measured the baseline before the redesign.",
+      "exIt": "Abbiamo misurato il valore di partenza prima del restyling."
+    },
+    {
+      "en": "dramatic",
+      "pron": "dramàtik",
+      "it": "drastico, spettacolare",
+      "type": "adj",
+      "ex": "There was a dramatic fall in errors.",
+      "exIt": "C'è stato un calo drastico degli errori."
+    },
+    {
+      "en": "median",
+      "pron": "mìidian",
+      "it": "mediana",
+      "type": "noun",
+      "ex": "The median is lower because a few users stay very long.",
+      "exIt": "La mediana è più bassa perché pochi utenti restano molto a lungo."
+    },
+    {
+      "en": "forecast",
+      "pron": "fòorkaast",
+      "it": "previsione",
+      "type": "noun",
+      "ex": "Our forecast for next quarter is cautious.",
+      "exIt": "La nostra previsione per il prossimo trimestre è prudente."
+    },
+    {
+      "en": "to rise",
+      "pron": "ràiz",
+      "it": "salire, aumentare",
+      "type": "verb",
+      "ex": "Traffic rose after we launched the blog.",
+      "exIt": "Il traffico è salito dopo il lancio del blog."
+    },
+    {
+      "en": "to climb",
+      "pron": "klàim",
+      "it": "salire (gradualmente)",
+      "type": "verb",
+      "ex": "Sales climbed throughout the summer.",
+      "exIt": "Le vendite sono salite per tutta l'estate."
+    },
+    {
+      "en": "to soar",
+      "pron": "sòor",
+      "it": "schizzare in alto",
+      "type": "verb",
+      "ex": "Downloads soared when the app was featured.",
+      "exIt": "I download sono schizzati in alto quando l'app è stata in vetrina."
+    },
+    {
+      "en": "to surge",
+      "pron": "sèerdg",
+      "it": "balzare, crescere di colpo",
+      "type": "verb",
+      "ex": "Visits surged on the day of the launch.",
+      "exIt": "Le visite sono balzate il giorno del lancio."
+    },
+    {
+      "en": "to drop",
+      "pron": "dròp",
+      "it": "calare, scendere",
+      "type": "verb",
+      "ex": "The bounce rate dropped after the redesign.",
+      "exIt": "La frequenza di rimbalzo è calata dopo il restyling."
+    },
+    {
+      "en": "to fall",
+      "pron": "fòol",
+      "it": "scendere, cadere",
+      "type": "verb",
+      "ex": "Revenue fell in the second half of the year.",
+      "exIt": "Il fatturato è sceso nella seconda metà dell'anno."
+    },
+    {
+      "en": "to rebound",
+      "pron": "ribàund",
+      "it": "riprendersi, rimbalzare",
+      "type": "verb",
+      "ex": "Traffic rebounded in the spring.",
+      "exIt": "Il traffico si è ripreso in primavera."
+    },
+    {
+      "en": "to plunge",
+      "pron": "plàndg",
+      "it": "crollare",
+      "type": "verb",
+      "ex": "Orders plunged when the shop went offline.",
+      "exIt": "Gli ordini sono crollati quando il negozio è andato offline."
+    },
+    {
+      "en": "to level off",
+      "pron": "lèvol òf",
+      "it": "stabilizzarsi, appiattirsi",
+      "type": "verb",
+      "ex": "Growth levelled off in the autumn.",
+      "exIt": "La crescita si è stabilizzata in autunno."
+    },
+    {
+      "en": "to fluctuate",
+      "pron": "flàkciueit",
+      "it": "oscillare",
+      "type": "verb",
+      "ex": "Daily visits fluctuate between four and six hundred.",
+      "exIt": "Le visite giornaliere oscillano tra quattro e seicento."
+    },
+    {
+      "en": "to recover",
+      "pron": "rikàver",
+      "it": "riprendersi",
+      "type": "verb",
+      "ex": "Traffic recovered within two weeks.",
+      "exIt": "Il traffico si è ripreso nel giro di due settimane."
+    },
+    {
+      "en": "to bounce back",
+      "pron": "bàuns bàk",
+      "it": "rimbalzare, risalire subito",
+      "type": "phrase",
+      "ex": "Sales bounced back after the holidays.",
+      "exIt": "Le vendite sono risalite subito dopo le vacanze."
+    },
+    {
+      "en": "to stagnate",
+      "pron": "stagnèit",
+      "it": "ristagnare",
+      "type": "verb",
+      "ex": "Our organic traffic has stagnated over the last six months.",
+      "exIt": "Negli ultimi sei mesi il nostro traffico organico è rimasto fermo."
+    },
+    {
+      "en": "to outperform",
+      "pron": "autparfòrm",
+      "it": "fare meglio di",
+      "type": "verb",
+      "ex": "Mobile outperformed desktop this year.",
+      "exIt": "Quest'anno il mobile ha fatto meglio del desktop."
+    },
+    {
+      "en": "to halve",
+      "pron": "hàav",
+      "it": "dimezzare",
+      "type": "verb",
+      "ex": "The new server halved our loading time.",
+      "exIt": "Il nuovo server ha dimezzato i nostri tempi di caricamento."
+    },
+    {
+      "en": "peak",
+      "pron": "pìik",
+      "it": "picco, massimo",
+      "type": "noun",
+      "ex": "The peak came in December, right before Christmas.",
+      "exIt": "Il picco è arrivato a dicembre, subito prima di Natale."
+    },
+    {
+      "en": "trough",
+      "pron": "tròf",
+      "it": "punto più basso",
+      "type": "noun",
+      "ex": "August was the trough of the year.",
+      "exIt": "Agosto è stato il punto più basso dell'anno."
+    },
+    {
+      "en": "plateau",
+      "pron": "plàtou",
+      "it": "fase di stallo, altopiano",
+      "type": "noun",
+      "ex": "After the plateau, sales started to grow again.",
+      "exIt": "Dopo la fase di stallo, le vendite hanno ricominciato a crescere."
+    },
+    {
+      "en": "spike",
+      "pron": "spàik",
+      "it": "picco improvviso",
+      "type": "noun",
+      "ex": "There was a spike in traffic after the TV interview.",
+      "exIt": "C'è stato un picco di traffico dopo l'intervista in tv."
+    },
+    {
+      "en": "slump",
+      "pron": "slàmp",
+      "it": "periodo di crisi, calo prolungato",
+      "type": "noun",
+      "ex": "The summer slump is normal for our sector.",
+      "exIt": "Il calo estivo è normale nel nostro settore."
+    },
+    {
+      "en": "sharply",
+      "pron": "sciàarpli",
+      "it": "bruscamente, nettamente",
+      "type": "adv",
+      "ex": "Costs rose sharply last year.",
+      "exIt": "I costi sono saliti nettamente l'anno scorso."
+    },
+    {
+      "en": "steadily",
+      "pron": "stèdili",
+      "it": "in modo costante",
+      "type": "adv",
+      "ex": "The number of subscribers has grown steadily.",
+      "exIt": "Il numero di abbonati è cresciuto in modo costante."
+    },
+    {
+      "en": "gradually",
+      "pron": "gràdgiuali",
+      "it": "gradualmente",
+      "type": "adv",
+      "ex": "Conversions gradually improved over six months.",
+      "exIt": "Le conversioni sono migliorate gradualmente in sei mesi."
+    },
+    {
+      "en": "slightly",
+      "pron": "slàitli",
+      "it": "leggermente",
+      "type": "adv",
+      "ex": "Traffic fell slightly in May.",
+      "exIt": "Il traffico è sceso leggermente a maggio."
+    },
+    {
+      "en": "dramatically",
+      "pron": "dramàtikli",
+      "it": "in modo drastico",
+      "type": "adv",
+      "ex": "Page speed improved dramatically.",
+      "exIt": "La velocità delle pagine è migliorata in modo drastico."
+    },
+    {
+      "en": "significantly",
+      "pron": "signìfikantli",
+      "it": "in modo significativo",
+      "type": "adv",
+      "ex": "Returns decreased significantly.",
+      "exIt": "I resi sono diminuiti in modo significativo."
+    },
+    {
+      "en": "marginally",
+      "pron": "màardginali",
+      "it": "di poco, marginalmente",
+      "type": "adv",
+      "ex": "The rate improved only marginally.",
+      "exIt": "Il tasso è migliorato solo di poco."
+    },
+    {
+      "en": "to triple",
+      "pron": "trìpol",
+      "it": "triplicare",
+      "type": "verb",
+      "ex": "Our traffic tripled in a year.",
+      "exIt": "Il nostro traffico è triplicato in un anno."
+    },
+    {
+      "en": "noticeable",
+      "pron": "nòutisabol",
+      "it": "evidente, percepibile",
+      "type": "adj",
+      "ex": "There is a noticeable difference between the two versions.",
+      "exIt": "C'è una differenza evidente tra le due versioni."
+    },
+    {
+      "en": "steady",
+      "pron": "stèdi",
+      "it": "costante, stabile",
+      "type": "adj",
+      "ex": "We saw steady growth all year.",
+      "exIt": "Abbiamo visto una crescita costante tutto l'anno."
+    },
+    {
+      "en": "to amount to",
+      "pron": "amàunt tu",
+      "it": "ammontare a",
+      "type": "phrase",
+      "ex": "Costs amounted to five thousand euros.",
+      "exIt": "I costi ammontavano a cinquemila euro."
+    },
+    {
+      "en": "year-on-year",
+      "pron": "iìr on iìr",
+      "it": "anno su anno",
+      "type": "adj",
+      "ex": "Year-on-year growth was twelve percent.",
+      "exIt": "La crescita anno su anno è stata del dodici per cento."
+    },
+    {
+      "en": "compared to",
+      "pron": "kompèerd tu",
+      "it": "rispetto a",
+      "type": "phrase",
+      "ex": "Compared to last quarter, we are doing much better.",
+      "exIt": "Rispetto al trimestre scorso, stiamo andando molto meglio."
+    },
+    {
+      "en": "to bottom out",
+      "pron": "bòtam àut",
+      "it": "toccare il fondo",
+      "type": "phrase",
+      "ex": "The decline bottomed out in July.",
+      "exIt": "Il calo ha toccato il fondo a luglio."
+    },
+    {
+      "en": "to jump",
+      "pron": "giàmp",
+      "it": "fare un balzo",
+      "type": "verb",
+      "ex": "Traffic jumped on Monday.",
+      "exIt": "Lunedì il traffico ha fatto un balzo."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "actually",
+      "it": "in realtà",
+      "trap": "Non vuol dire 'attualmente' (= currently). Esempio: 'Actually, sales rose' = 'In realtà le vendite sono salite'."
+    },
+    {
+      "en": "graph / graphic",
+      "it": "grafico / grafica",
+      "trap": "Un grafico di dati si dice chart o graph. 'Graphic' di solito è un'immagine o un disegno."
+    },
+    {
+      "en": "to realise",
+      "it": "rendersi conto",
+      "trap": "Non vuol dire 'realizzare' un progetto (= to carry out, to build)."
+    }
+  ],
+  "grammar": {
+    "title": "Descrivere andamenti: verbo + avverbio, verbo + sostantivo",
+    "explainIt": [
+      "Per descrivere un grafico ti servono due ingredienti. Il primo è un verbo che dice la direzione: rise, drop, level off. Il secondo è un avverbio che dice la velocità o la forza: sharply, steadily, slightly.",
+      "Lo schema più semplice è soggetto + verbo + avverbio. Per esempio: 'Sales rose sharply.' Il verbo di solito va al past simple se il periodo è finito (in March, last year) e al present perfect se il cambiamento arriva fino a oggi (since January, over the last year).",
+      "Puoi dire la stessa cosa con un altro schema: there was + aggettivo + sostantivo. Per esempio: 'There was a sharp rise in sales.' Qui l'avverbio diventa aggettivo (sharply diventa sharp) e il verbo diventa sostantivo (rise). Si usa la preposizione in dopo il sostantivo: a rise in sales, a drop in traffic.",
+      "Per dire di quanto è cambiato, usa by: 'Sales rose by ten percent.' Per dire il punto di arrivo, usa to: 'Sales rose to two thousand.' Per dire da dove sei partito, usa from: 'from one thousand to two thousand'. Attenzione: by è la differenza, to è il livello finale.",
+      "Per i tempi: in, during e over indicano il periodo. 'Over the last six months' vuol dire 'negli ultimi sei mesi'. Con since e for di solito si usa il present perfect: 'Traffic has risen since March.' 'Traffic has been stable for two months.'"
+    ],
+    "explainEn": [
+      "To describe a chart you need two things. The first is a verb that shows the direction: rise, drop, level off. The second is an adverb that shows the speed or the size of the change: sharply, steadily, slightly.",
+      "The simplest pattern is subject + verb + adverb. For example: 'Sales rose sharply.' Use the past simple when the period is finished (in March, last year). Use the present perfect when the change continues until now (since January, over the last year).",
+      "You can say the same thing with another pattern: there was + adjective + noun. For example: 'There was a sharp rise in sales.' The adverb becomes an adjective (sharply becomes sharp) and the verb becomes a noun (rise). After the noun, use the preposition in: a rise in sales, a drop in traffic.",
+      "To say how big the change was, use by: 'Sales rose by ten percent.' To say the final level, use to: 'Sales rose to two thousand.' To say where you started, use from: 'from one thousand to two thousand'. Remember: by is the difference, to is the final level.",
+      "For time, use in, during and over. 'Over the last six months' means the same period until now. With since and for, we usually use the present perfect: 'Traffic has risen since March.' 'Traffic has been stable for two months.'"
+    ],
+    "rules": [
+      {
+        "it": "Verbo + avverbio: l'avverbio di solito va dopo il verbo.",
+        "en": "Verb + adverb: the adverb usually goes after the verb.",
+        "form": "soggetto + verbo + avverbio",
+        "examples": [
+          {
+            "en": "Traffic dropped sharply in August.",
+            "it": "Il traffico è calato bruscamente ad agosto."
+          },
+          {
+            "en": "The number of users grew steadily.",
+            "it": "Il numero di utenti è cresciuto in modo costante."
+          },
+          {
+            "en": "Costs fell slightly.",
+            "it": "I costi sono scesi leggermente."
+          }
+        ]
+      },
+      {
+        "it": "There was + aggettivo + sostantivo + in + cosa è cambiato.",
+        "en": "There was + adjective + noun + in + the thing that changed.",
+        "form": "there was a + aggettivo + rise/fall/drop/increase + in + cosa",
+        "examples": [
+          {
+            "en": "There was a dramatic rise in mobile traffic.",
+            "it": "C'è stato un drastico aumento del traffico da mobile."
+          },
+          {
+            "en": "There was a slight fall in conversions.",
+            "it": "C'è stato un leggero calo delle conversioni."
+          }
+        ]
+      },
+      {
+        "it": "By indica di quanto, to indica il valore finale, from indica quello di partenza.",
+        "en": "By shows the size of the change, to shows the final level, from shows the starting level.",
+        "form": "rise by 10 / rise to 200 / rise from 100 to 200",
+        "examples": [
+          {
+            "en": "Visits rose by twenty percent.",
+            "it": "Le visite sono salite del venti per cento."
+          },
+          {
+            "en": "Visits rose to three thousand a day.",
+            "it": "Le visite sono salite a tremila al giorno."
+          },
+          {
+            "en": "Visits rose from two thousand to three thousand.",
+            "it": "Le visite sono salite da duemila a tremila."
+          }
+        ]
+      },
+      {
+        "it": "Per un periodo che arriva fino a oggi usa il present perfect con since, for e over.",
+        "en": "For a period that continues until now, use the present perfect with since, for and over.",
+        "form": "have/has + participio + since/for/over",
+        "examples": [
+          {
+            "en": "Sales have risen steadily since January.",
+            "it": "Le vendite sono salite in modo costante da gennaio."
+          },
+          {
+            "en": "The rate has been flat for three weeks.",
+            "it": "Il tasso è fermo da tre settimane."
+          }
+        ]
+      },
+      {
+        "it": "Per presentare il grafico: riferimento, poi punto principale, poi confronto.",
+        "en": "To present a chart: refer to it, then give the main point, then compare.",
+        "form": "This chart shows... / As you can see... / Compared to...",
+        "examples": [
+          {
+            "en": "This chart shows our traffic over twelve months.",
+            "it": "Questo grafico mostra il nostro traffico in dodici mesi."
+          },
+          {
+            "en": "As you can see, the peak was in December.",
+            "it": "Come potete vedere, il picco è stato a dicembre."
+          },
+          {
+            "en": "Compared to last year, traffic is up by fifteen percent.",
+            "it": "Rispetto all'anno scorso, il traffico è salito del quindici per cento."
+          }
+        ]
+      }
+    ],
+    "tip": "Scegli verbo e avverbio con la stessa forza. Con i verbi neutri (rise, fall, increase) aggiungi l'avverbio: rose sharply, fell slightly. I verbi forti (soar, plunge, surge) contengono già la forza: di solito non serve l'avverbio, e 'soared slightly' non ha senso.",
+    "mistakes": [
+      {
+        "wrong": "Sales increased of ten percent.",
+        "right": "Sales increased by ten percent.",
+        "why": "di quanto cambia = by, non of"
+      },
+      {
+        "wrong": "There was a rise of traffic.",
+        "right": "There was a rise in traffic.",
+        "why": "dopo rise, fall, drop e increase si usa in"
+      },
+      {
+        "wrong": "Traffic rose sharp in May.",
+        "right": "Traffic rose sharply in May.",
+        "why": "dopo il verbo serve l'avverbio, non l'aggettivo"
+      },
+      {
+        "wrong": "Sales are rising since January.",
+        "right": "Sales have been rising since January.",
+        "why": "con since si usa il present perfect (o il present perfect continuous), non il present continuous"
+      },
+      {
+        "wrong": "Sales raised to a thousand.",
+        "right": "Sales rose to a thousand.",
+        "why": "to raise vuole un oggetto. Se qualcosa sale da solo, si usa to rise, che è irregolare: rise, rose, risen"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "Traffic ___ (rise) sharply in March.",
+      "a": [
+        "rose"
+      ],
+      "hint": "past simple di rise",
+      "explain": "Rise è irregolare: rise, rose, risen."
+    },
+    {
+      "q": "There was a sharp drop ___ sales.",
+      "a": [
+        "in"
+      ],
+      "hint": "preposizione dopo drop",
+      "explain": "Si dice a drop in sales."
+    },
+    {
+      "q": "Costs increased ___ five percent.",
+      "a": [
+        "by"
+      ],
+      "hint": "quanto è cambiato",
+      "explain": "By indica la differenza."
+    },
+    {
+      "q": "Revenue rose ___ two million.",
+      "a": [
+        "to"
+      ],
+      "hint": "il valore finale",
+      "explain": "To indica il livello raggiunto."
+    },
+    {
+      "q": "Visits have grown ___ January.",
+      "a": [
+        "since"
+      ],
+      "hint": "punto di partenza nel tempo",
+      "explain": "Since + data, con il present perfect."
+    },
+    {
+      "q": "The number of users grew ___ (steady).",
+      "a": [
+        "steadily"
+      ],
+      "hint": "serve un avverbio",
+      "explain": "Dopo il verbo si usa l'avverbio: steadily."
+    },
+    {
+      "q": "There was a ___ (slightly) fall in conversions.",
+      "a": [
+        "slight"
+      ],
+      "hint": "dopo a, serve un aggettivo",
+      "explain": "Prima del sostantivo si usa l'aggettivo."
+    },
+    {
+      "q": "Sales ___ (fall) last quarter.",
+      "a": [
+        "fell"
+      ],
+      "hint": "past simple di fall",
+      "explain": "Fall, fell, fallen."
+    },
+    {
+      "q": "The rate ___ (stay) flat for two months. Use the present perfect.",
+      "a": [
+        "has stayed",
+        "has remained",
+        "has been"
+      ],
+      "hint": "for two months, fino a oggi",
+      "explain": "For + periodo fino a oggi, present perfect."
+    },
+    {
+      "q": "Orders ___ (double) last year.",
+      "a": [
+        "doubled"
+      ],
+      "hint": "past simple regolare",
+      "explain": "Aggiungi -ed: doubled."
+    },
+    {
+      "q": "___ to last year, traffic is up.",
+      "a": [
+        "compared"
+      ],
+      "hint": "rispetto a",
+      "explain": "Compared to last year = rispetto all'anno scorso."
+    },
+    {
+      "q": "Growth ___ (level) off in September.",
+      "a": [
+        "levelled",
+        "leveled"
+      ],
+      "hint": "past simple, raddoppia la l in inglese britannico",
+      "explain": "Levelled in inglese britannico, leveled in americano."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Aprire il grafico",
+      "en": "This chart shows traffic over the last year.",
+      "it": "Questo grafico mostra il traffico dell'ultimo anno."
+    },
+    {
+      "group": "Aprire il grafico",
+      "en": "On the horizontal axis you can see the months.",
+      "it": "Sull'asse orizzontale potete vedere i mesi."
+    },
+    {
+      "group": "Aprire il grafico",
+      "en": "The legend explains the colours.",
+      "it": "La legenda spiega i colori."
+    },
+    {
+      "group": "Aprire il grafico",
+      "en": "Let me walk you through this graph.",
+      "it": "Vi spiego il grafico passo per passo.",
+      "note": "Molto usata, suona professionale"
+    },
+    {
+      "group": "Descrivere un cambiamento",
+      "en": "There was a sharp rise in the second quarter.",
+      "it": "C'è stato un netto aumento nel secondo trimestre."
+    },
+    {
+      "group": "Descrivere un cambiamento",
+      "en": "Sales dropped by fifteen percent.",
+      "it": "Le vendite sono calate del quindici per cento."
+    },
+    {
+      "group": "Descrivere un cambiamento",
+      "en": "The figures levelled off in the autumn.",
+      "it": "I dati si sono stabilizzati in autunno."
+    },
+    {
+      "group": "Descrivere un cambiamento",
+      "en": "Traffic peaked in December.",
+      "it": "Il traffico ha raggiunto il picco a dicembre."
+    },
+    {
+      "group": "Descrivere un cambiamento",
+      "en": "After that, it recovered quickly.",
+      "it": "Dopo, si è ripreso in fretta."
+    },
+    {
+      "group": "Evidenziare un punto",
+      "en": "I'd like to draw your attention to this peak.",
+      "it": "Vorrei attirare la vostra attenzione su questo picco."
+    },
+    {
+      "group": "Evidenziare un punto",
+      "en": "What's interesting here is the drop in August.",
+      "it": "La cosa interessante qui è il calo di agosto."
+    },
+    {
+      "group": "Evidenziare un punto",
+      "en": "As you can see, the trend is going up.",
+      "it": "Come potete vedere, la tendenza è in salita."
+    },
+    {
+      "group": "Evidenziare un punto",
+      "en": "The key point is that mobile is growing fast.",
+      "it": "Il punto chiave è che il mobile cresce in fretta."
+    },
+    {
+      "group": "Confrontare",
+      "en": "Compared to last year, we have doubled our traffic.",
+      "it": "Rispetto all'anno scorso abbiamo raddoppiato il traffico."
+    },
+    {
+      "group": "Confrontare",
+      "en": "In contrast, desktop visits have fallen.",
+      "it": "Al contrario, le visite da desktop sono calate."
+    },
+    {
+      "group": "Confrontare",
+      "en": "This is roughly twice as much as in 2023.",
+      "it": "È circa il doppio rispetto al 2023."
+    },
+    {
+      "group": "Confrontare",
+      "en": "Both lines follow a similar pattern.",
+      "it": "Entrambe le linee seguono un andamento simile."
+    },
+    {
+      "group": "Spiegare le cause",
+      "en": "The spike was caused by a newsletter.",
+      "it": "Il picco è stato causato da una newsletter."
+    },
+    {
+      "group": "Spiegare le cause",
+      "en": "This is mainly due to the new design.",
+      "it": "Questo è dovuto soprattutto al nuovo design."
+    },
+    {
+      "group": "Spiegare le cause",
+      "en": "We think it is a seasonal effect.",
+      "it": "Pensiamo sia un effetto stagionale."
+    },
+    {
+      "group": "Spiegare le cause",
+      "en": "That outlier is a one-off event.",
+      "it": "Quel valore anomalo è un evento isolato."
+    },
+    {
+      "group": "Chiudere e prevedere",
+      "en": "To sum up, the data is moving in the right direction.",
+      "it": "Riassumendo, i dati vanno nella direzione giusta."
+    },
+    {
+      "group": "Chiudere e prevedere",
+      "en": "Our forecast is a steady rise over the next quarter.",
+      "it": "La nostra previsione è un aumento costante nel prossimo trimestre."
+    },
+    {
+      "group": "Chiudere e prevedere",
+      "en": "We expect the figure to level off.",
+      "it": "Ci aspettiamo che il dato si stabilizzi."
+    },
+    {
+      "group": "Chiudere e prevedere",
+      "en": "Are there any questions about the data?",
+      "it": "Ci sono domande sui dati?"
+    }
+  ],
+  "dialogue": {
+    "title": "Presenting the quarterly traffic report",
+    "context": "Luca presenta a Sarah, una cliente, il report del traffico del suo sito. Mostra un grafico a linee con i dodici mesi.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thanks for joining. Let me walk you through this graph.",
+        "it": "Grazie di essere qui. Vi spiego il grafico passo per passo."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "It shows your website traffic over the last twelve months.",
+        "it": "Mostra il traffico del vostro sito negli ultimi dodici mesi."
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "What does the blue line mean?",
+        "it": "Cosa significa la linea blu?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "The legend says it is mobile traffic. The grey line is desktop.",
+        "it": "La legenda dice che è il traffico da mobile. La linea grigia è il desktop."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "As you can see, mobile rose steadily from January to June.",
+        "it": "Come potete vedere, il mobile è salito costantemente da gennaio a giugno."
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "And what happened in July?",
+        "it": "E cosa è successo a luglio?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "There was a sharp drop, but it is a normal summer slump.",
+        "it": "C'è stato un netto calo, ma è il normale calo estivo."
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "Right. And this big spike in October?",
+        "it": "Capisco. E questo grande picco di ottobre?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "That is an outlier. It was caused by your newsletter.",
+        "it": "È un valore anomalo. È stato causato dalla vostra newsletter."
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "Interesting. So traffic has recovered since then?",
+        "it": "Interessante. Quindi il traffico si è ripreso da allora?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Yes, it has levelled off at around eight thousand visits a month.",
+        "it": "Sì, si è stabilizzato intorno alle ottomila visite al mese."
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "Compared to last year, is that good?",
+        "it": "Rispetto all'anno scorso, è un buon risultato?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "It is roughly double. Year-on-year growth is ninety percent.",
+        "it": "È circa il doppio. La crescita anno su anno è del novanta per cento."
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "That is great. What is your forecast for next quarter?",
+        "it": "Ottimo. Qual è la vostra previsione per il prossimo trimestre?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "We expect a steady rise, but only a slight one.",
+        "it": "Ci aspettiamo un aumento costante, ma solo leggero."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What does the grey line show?",
+      "options": [
+        "Desktop traffic",
+        "Mobile traffic",
+        "Newsletter visits"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Why was there a spike in October?",
+      "options": [
+        "A new design",
+        "The newsletter",
+        "A summer holiday"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What happened to traffic in July?",
+      "options": [
+        "It rose sharply",
+        "It stayed the same",
+        "It dropped sharply"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What is the forecast for next quarter?",
+      "options": [
+        "A slight, steady rise",
+        "A big drop",
+        "A sharp rise"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Questo grafico mostra il traffico degli ultimi sei mesi.",
+      "en": "This chart shows traffic over the last six months.",
+      "alt": [
+        "This graph shows traffic over the last six months.",
+        "This chart shows the traffic for the past six months."
+      ]
+    },
+    {
+      "it": "Le vendite sono salite bruscamente a marzo.",
+      "en": "Sales rose sharply in March.",
+      "alt": [
+        "Sales went up sharply in March.",
+        "There was a sharp rise in sales in March."
+      ]
+    },
+    {
+      "it": "Il traffico è calato del dieci per cento.",
+      "en": "Traffic dropped by ten percent.",
+      "alt": [
+        "Traffic fell by ten percent.",
+        "Traffic fell by ten per cent."
+      ]
+    },
+    {
+      "it": "Come potete vedere, la crescita si è stabilizzata.",
+      "en": "As you can see, growth has levelled off.",
+      "alt": [
+        "As you can see, the growth has leveled off.",
+        "As you can see, growth levelled off."
+      ]
+    },
+    {
+      "it": "Rispetto all'anno scorso, abbiamo raddoppiato le visite.",
+      "en": "Compared to last year, we have doubled our visits.",
+      "alt": [
+        "Compared with last year, our visits have doubled.",
+        "Compared to last year, visits have doubled."
+      ]
+    },
+    {
+      "it": "C'è stato un leggero calo a luglio.",
+      "en": "There was a slight drop in July.",
+      "alt": [
+        "There was a slight fall in July.",
+        "There was a small drop in July."
+      ]
+    },
+    {
+      "it": "Il picco è arrivato a dicembre.",
+      "en": "The peak came in December.",
+      "alt": [
+        "It peaked in December.",
+        "The peak was in December."
+      ]
+    },
+    {
+      "it": "I dati sono cresciuti in modo costante da gennaio.",
+      "en": "The figures have grown steadily since January.",
+      "alt": [
+        "The figures have risen steadily since January.",
+        "The numbers have grown steadily since January.",
+        "The data has grown steadily since January."
+      ]
+    },
+    {
+      "it": "Vorrei evidenziare questo valore anomalo.",
+      "en": "I'd like to highlight this outlier.",
+      "alt": [
+        "I would like to highlight this outlier.",
+        "I'd like to draw your attention to this outlier."
+      ]
+    },
+    {
+      "it": "Il nuovo server ha dimezzato i tempi di caricamento.",
+      "en": "The new server halved the loading time.",
+      "alt": [
+        "The new server has halved the loading time.",
+        "The new server cut the loading time in half."
+      ]
+    },
+    {
+      "it": "La nostra previsione è un aumento costante.",
+      "en": "Our forecast is a steady rise.",
+      "alt": [
+        "Our forecast is steady growth.",
+        "We forecast a steady increase."
+      ]
+    },
+    {
+      "it": "Le iscrizioni sono crollate dopo il guasto.",
+      "en": "Sign-ups plunged after the outage.",
+      "alt": [
+        "Sign-ups collapsed after the outage.",
+        "Registrations plunged after the outage."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi un breve paragrafo (80-100 parole) da mettere sotto un grafico in un report per un cliente. Il grafico mostra le visite mensili al suo sito negli ultimi dodici mesi. Descrivi: l'andamento generale, un picco, un calo, e di quanto sono cresciute le visite rispetto all'anno scorso. Chiudi con una previsione breve.",
+    "taskEn": "Write a short paragraph (80-100 words) to go under a chart in a client report. The chart shows monthly visits to the client's website over the last twelve months. Describe the general trend, a peak, a drop, and how much visits have grown compared to last year. Finish with a short forecast.",
+    "model": "Figure 1 shows monthly visits to your website over the last twelve months.\nOverall, traffic has grown steadily, and visits are now roughly forty percent higher than a year ago.\nThe peak came in November, when visits surged to twelve thousand after the newsletter campaign. There was a sharp drop in August, which is a normal summer slump for your sector, but traffic recovered quickly in September.\nWe expect visits to level off at around ten thousand a month over the next quarter, with a slight rise in the spring."
+  },
+  "speaking": {
+    "shadowing": [
+      "This chart shows traffic over the last twelve months.",
+      "As you can see, sales rose sharply in March.",
+      "There was a slight drop in August.",
+      "Compared to last year, we have doubled our visits.",
+      "The figures levelled off in the autumn.",
+      "I'd like to draw your attention to this peak.",
+      "The spike was caused by a newsletter.",
+      "Our forecast is a steady rise over the next quarter."
+    ],
+    "prompts": [
+      {
+        "en": "Describe a chart you have used in a recent report.",
+        "it": "Descrivi un grafico che hai usato in un report recente.",
+        "help": "Inizia con: This chart shows... / On the horizontal axis..."
+      },
+      {
+        "en": "What was the biggest change in your website traffic this year?",
+        "it": "Qual è stato il cambiamento più grande nel traffico del tuo sito quest'anno?",
+        "help": "Usa: There was a sharp rise / drop in..."
+      },
+      {
+        "en": "Compare this year with last year at work.",
+        "it": "Confronta quest'anno con l'anno scorso al lavoro.",
+        "help": "Usa: Compared to last year... / Year-on-year..."
+      },
+      {
+        "en": "Why do you think there was a spike or a drop?",
+        "it": "Perché secondo te c'è stato un picco o un calo?",
+        "help": "Usa: This is mainly due to... / It was caused by..."
+      },
+      {
+        "en": "What is your forecast for the next three months?",
+        "it": "Qual è la tua previsione per i prossimi tre mesi?",
+        "help": "Usa: We expect... / Our forecast is..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: parlare dei grafici",
+      "show": [
+        "Presentations: charts and data",
+        "rise, drop, level off",
+        "sharply, steadily, slightly"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione venticinque. Oggi impari a descrivere un grafico in inglese. Ti servono due cose: un verbo che dice la direzione e un avverbio che dice la forza."
+        },
+        {
+          "lang": "en",
+          "text": "Sales rose sharply in March."
+        }
+      ]
+    },
+    {
+      "title": "I verbi di direzione",
+      "show": [
+        "su: rise, climb, soar, surge",
+        "giù: drop, fall, decline, plunge",
+        "fermo: level off, stagnate"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per salire hai rise, climb, soar e surge. Soar e surge sono molto forti. Per scendere hai drop, fall e decline. Plunge è un crollo. Per restare fermo usi level off."
+        },
+        {
+          "lang": "en",
+          "text": "Traffic soared. Orders plunged. Growth levelled off."
+        }
+      ]
+    },
+    {
+      "title": "Gli avverbi: velocità e forza",
+      "show": [
+        "forte: sharply, dramatically",
+        "costante: steadily, gradually",
+        "poco: slightly, marginally"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Gli avverbi dicono quanto cambia qualcosa. Sharply e dramatically sono forti. Steadily e gradually dicono che il cambiamento è costante. Slightly e marginally dicono che è poco."
+        },
+        {
+          "lang": "en",
+          "text": "Costs rose slightly. Page speed improved dramatically."
+        }
+      ]
+    },
+    {
+      "title": "Schema uno: verbo più avverbio",
+      "show": [
+        "soggetto + verbo + avverbio",
+        "Traffic dropped sharply.",
+        "Users grew steadily."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il primo schema è il più facile. Soggetto, verbo, avverbio. Se il periodo è finito usa il past simple. Se arriva fino a oggi usa il present perfect, con since o for."
+        },
+        {
+          "lang": "en",
+          "text": "Traffic dropped sharply in August. Sales have grown steadily since January."
+        }
+      ]
+    },
+    {
+      "title": "Schema due: there was",
+      "show": [
+        "there was a + aggettivo + sostantivo + in",
+        "a sharp rise in sales",
+        "a slight drop in traffic"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il secondo schema usa there was. L'avverbio diventa aggettivo e il verbo diventa sostantivo. Dopo il sostantivo metti la preposizione in. Non dire of."
+        },
+        {
+          "lang": "en",
+          "text": "There was a sharp rise in sales. There was a slight drop in traffic."
+        }
+      ]
+    },
+    {
+      "title": "By, to e from",
+      "show": [
+        "by = di quanto",
+        "to = valore finale",
+        "from ... to ... = da ... a ..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Tre piccole parole fanno la differenza. By dice di quanto è cambiato. To dice il valore finale. From dice da dove sei partito."
+        },
+        {
+          "lang": "en",
+          "text": "Visits rose by twenty percent. Visits rose to three thousand. Visits rose from two thousand to three thousand."
+        }
+      ]
+    },
+    {
+      "title": "Presentare il grafico",
+      "show": [
+        "This chart shows...",
+        "As you can see...",
+        "I'd like to draw your attention to..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Quando presenti, dì prima cosa mostra il grafico. Poi guida l'attenzione su un punto. Poi confronta con il passato."
+        },
+        {
+          "lang": "en",
+          "text": "This chart shows traffic over twelve months. As you can see, the peak was in December. Compared to last year, traffic is up."
+        }
+      ]
+    },
+    {
+      "title": "Le espressioni chiave",
+      "show": [
+        "peak, trough, spike, slump",
+        "year-on-year",
+        "compared to last year"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Ricorda queste parole. Peak è il massimo, trough è il minimo. Spike è un picco improvviso. Slump è un periodo di calo. Year-on-year vuol dire anno su anno."
+        },
+        {
+          "lang": "en",
+          "text": "Year-on-year growth was twelve percent."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "verbo + avverbio",
+        "there was a ... in ...",
+        "by, to, from"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Usa un verbo di direzione con un avverbio. Oppure usa there was, un aggettivo e un sostantivo con in. Ricorda by, to e from. Ora scrivi il tuo paragrafo sotto un grafico."
+        },
+        {
+          "lang": "en",
+          "text": "As you can see, the data is moving in the right direction."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": 51,
+  "week": 11,
+  "title": "Marketing e social",
+  "titleEn": "Marketing and social media",
+  "intro": "Oggi impari il linguaggio del marketing digitale: campagne, pubblico, contenuti, metriche e SEO. Impari anche la forma causativa, have something done, per dire che fai fare un lavoro a qualcun altro. Ti serve quando parli con clienti e agenzie dei lavori da far fare su un sito.",
+  "goals": [
+    "Parlare di campagne, pubblico e contenuti con clienti e agenzie",
+    "Capire e commentare le metriche principali (reach, engagement, conversion)",
+    "Usare have/get something done per dire che qualcuno fa un lavoro per te",
+    "Descrivere cosa si fa per migliorare il posizionamento SEO di un sito"
+  ],
+  "words": [
+    { "en": "campaign", "pron": "kampèin", "it": "campagna", "type": "noun", "ex": "The summer campaign starts on 1 June.", "exIt": "La campagna estiva parte il primo giugno." },
+    { "en": "conversion", "pron": "konvèrscion", "it": "conversione (da visitatore a cliente)", "type": "noun", "ex": "The new page improved our conversion rate.", "exIt": "La nuova pagina ha migliorato il tasso di conversione." },
+    { "en": "brand awareness", "pron": "brànd auèanes", "it": "notorietà del marchio", "type": "noun", "ex": "The goal is to increase brand awareness.", "exIt": "L'obiettivo è aumentare la notorietà del marchio." },
+    { "en": "reach", "pron": "rìic", "it": "copertura, persone raggiunte", "type": "noun", "ex": "The post had a reach of 20,000 people.", "exIt": "Il post ha raggiunto 20.000 persone." },
+    { "en": "impressions", "pron": "imprèscionz", "it": "visualizzazioni (di un annuncio)", "type": "noun", "ex": "The ad generated 100,000 impressions.", "exIt": "L'annuncio ha generato 100.000 visualizzazioni." },
+    { "en": "engagement", "pron": "inghèigment", "it": "coinvolgimento, interazioni", "type": "noun", "ex": "Video posts get more engagement than text.", "exIt": "I post video ottengono più interazioni del testo." },
+    { "en": "click-through rate", "pron": "klìk trù rèit", "it": "percentuale di clic (CTR)", "type": "noun", "ex": "The click-through rate was only 0.8%.", "exIt": "La percentuale di clic è stata solo dello 0,8%." },
+    { "en": "conversion rate", "pron": "konvèrscion rèit", "it": "tasso di conversione", "type": "noun", "ex": "We need to improve the conversion rate on the landing page.", "exIt": "Dobbiamo migliorare il tasso di conversione della landing page." },
+    { "en": "to convert", "pron": "konvèrt", "it": "convertire (visitatori in clienti)", "type": "verb", "ex": "Only 2% of visitors convert into customers.", "exIt": "Solo il 2% dei visitatori diventa cliente." },
+    { "en": "funnel", "pron": "fànol", "it": "imbuto di vendita", "type": "noun", "ex": "Most visitors leave early in the funnel.", "exIt": "La maggior parte dei visitatori se ne va all'inizio dell'imbuto." },
+    { "en": "landing page", "pron": "lànding pèidg", "it": "pagina di atterraggio", "type": "noun", "ex": "Each ad leads to a dedicated landing page.", "exIt": "Ogni annuncio porta a una landing page dedicata." },
+    { "en": "hashtag", "pron": "hàsctag", "it": "hashtag", "type": "noun", "ex": "Use a short hashtag for the campaign.", "exIt": "Usa un hashtag breve per la campagna." },
+    { "en": "content strategy", "pron": "kòntent stràtedgi", "it": "strategia dei contenuti", "type": "noun", "ex": "We're building a content strategy for the next year.", "exIt": "Stiamo costruendo una strategia dei contenuti per il prossimo anno." },
+    { "en": "content calendar", "pron": "kòntent kàlenda", "it": "calendario editoriale", "type": "noun", "ex": "The content calendar shows what we post each week.", "exIt": "Il calendario editoriale mostra cosa pubblichiamo ogni settimana." },
+    { "en": "copywriting", "pron": "kòpiraitin", "it": "scrittura pubblicitaria", "type": "noun", "ex": "Good copywriting can double your sales.", "exIt": "Una buona scrittura pubblicitaria può raddoppiare le vendite." },
+    { "en": "to publish", "pron": "pàblisc", "it": "pubblicare", "type": "verb", "ex": "We publish two blog posts a week.", "exIt": "Pubblichiamo due articoli del blog a settimana." },
+    { "en": "to post", "pron": "pòust", "it": "pubblicare (sui social)", "type": "verb", "ex": "I post on LinkedIn every Tuesday.", "exIt": "Pubblico su LinkedIn ogni martedì." },
+    { "en": "follower", "pron": "fòloua", "it": "seguace, follower", "type": "noun", "ex": "We gained 500 new followers this month.", "exIt": "Questo mese abbiamo guadagnato 500 nuovi follower." },
+    { "en": "to go viral", "pron": "gòu vàiral", "it": "diventare virale", "type": "phrase", "ex": "Their video went viral overnight.", "exIt": "Il loro video è diventato virale da un giorno all'altro." },
+    { "en": "influencer", "pron": "ìnfluensa", "it": "influencer", "type": "noun", "ex": "They hired an influencer to promote the product.", "exIt": "Hanno ingaggiato un influencer per promuovere il prodotto." },
+    { "en": "newsletter", "pron": "niùzleta", "it": "newsletter", "type": "noun", "ex": "Our newsletter goes out every Thursday.", "exIt": "La nostra newsletter esce ogni giovedì." },
+    { "en": "subscriber", "pron": "sabscràiba", "it": "iscritto, abbonato", "type": "noun", "ex": "The newsletter has 3,000 subscribers.", "exIt": "La newsletter ha 3.000 iscritti." },
+    { "en": "open rate", "pron": "òupen rèit", "it": "tasso di apertura (email)", "type": "noun", "ex": "The open rate was 28%, which is good.", "exIt": "Il tasso di apertura è stato del 28%, il che è buono." },
+    { "en": "bounce rate", "pron": "bàuns rèit", "it": "frequenza di rimbalzo", "type": "noun", "ex": "A high bounce rate means people leave quickly.", "exIt": "Un'alta frequenza di rimbalzo significa che la gente se ne va subito." },
+    { "en": "organic traffic", "pron": "orgànik tràfik", "it": "traffico organico, non a pagamento", "type": "noun", "ex": "Organic traffic grew by 40% in six months.", "exIt": "Il traffico organico è cresciuto del 40% in sei mesi." },
+    { "en": "paid ads", "pron": "pèid àdz", "it": "annunci a pagamento", "type": "noun", "ex": "We spend 500 euros a month on paid ads.", "exIt": "Spendiamo 500 euro al mese in annunci a pagamento." },
+    { "en": "organic", "pron": "orgànik", "it": "organico, non a pagamento", "type": "adj", "ex": "We want organic growth, not just paid ads.", "exIt": "Vogliamo una crescita organica, non solo annunci a pagamento." },
+    { "en": "search ranking", "pron": "sèrc rànkin", "it": "posizionamento nei motori di ricerca", "type": "noun", "ex": "Our search ranking improved after the redesign.", "exIt": "Il nostro posizionamento è migliorato dopo il restyling." },
+    { "en": "to rank", "pron": "rànk", "it": "posizionarsi", "type": "verb", "ex": "The site ranks on the first page for that keyword.", "exIt": "Il sito si posiziona in prima pagina per quella parola chiave." },
+    { "en": "backlink", "pron": "bàklink", "it": "collegamento in entrata da un altro sito", "type": "noun", "ex": "Good backlinks help your site rank higher.", "exIt": "Buoni collegamenti in entrata aiutano il sito a posizionarsi meglio." },
+    { "en": "meta description", "pron": "mèta diskrìpscion", "it": "descrizione meta", "type": "noun", "ex": "Each page needs a unique meta description.", "exIt": "Ogni pagina ha bisogno di una meta description unica." },
+    { "en": "sponsored", "pron": "spònserd", "it": "sponsorizzato", "type": "adj", "ex": "This is a sponsored post.", "exIt": "Questo è un post sponsorizzato." },
+    { "en": "analytics", "pron": "analìtiks", "it": "analisi dei dati (strumento)", "type": "noun", "ex": "Let's check the analytics before the meeting.", "exIt": "Controlliamo i dati di analytics prima della riunione." },
+    { "en": "metric", "pron": "mètrik", "it": "metrica, indicatore", "type": "noun", "ex": "Which metrics matter most to your business?", "exIt": "Quali metriche contano di più per la tua attività?" },
+    { "en": "KPI", "pron": "kèi pài ài", "it": "indicatore chiave di prestazione", "type": "noun", "ex": "Our main KPI is the number of leads.", "exIt": "Il nostro KPI principale è il numero di contatti." },
+    { "en": "to repurpose", "pron": "ripèrpos", "it": "riutilizzare per un altro scopo", "type": "verb", "ex": "We repurposed the webinar as a blog post.", "exIt": "Abbiamo riutilizzato il webinar come articolo del blog." },
+    { "en": "viral", "pron": "vàirol", "it": "virale", "type": "adj", "ex": "The video went viral overnight.", "exIt": "Il video è diventato virale in una notte." },
+    { "en": "demographics", "pron": "demogràfiks", "it": "dati demografici", "type": "noun", "ex": "Check the demographics of your audience.", "exIt": "Controlla i dati demografici del tuo pubblico." },
+    { "en": "A/B test", "pron": "èi bì tèst", "it": "test A/B", "type": "noun", "ex": "We ran an A/B test on two headlines.", "exIt": "Abbiamo fatto un test A/B su due titoli." },
+    { "en": "to amplify", "pron": "àmplifai", "it": "amplificare, dare più risonanza", "type": "verb", "ex": "Ads can amplify your message.", "exIt": "Le inserzioni possono dare più risonanza al tuo messaggio." },
+    { "en": "to curate", "pron": "kiurèit", "it": "selezionare e organizzare (contenuti)", "type": "verb", "ex": "She curates the content for our newsletter.", "exIt": "Seleziona e organizza i contenuti della nostra newsletter." },
+    { "en": "tone of voice", "pron": "tòun ov vòis", "it": "tono comunicativo del marchio", "type": "noun", "ex": "Our tone of voice is friendly and informal.", "exIt": "Il nostro tono comunicativo è amichevole e informale." },
+    { "en": "engaging", "pron": "inghèigin", "it": "coinvolgente", "type": "adj", "ex": "We need more engaging content.", "exIt": "Ci serve contenuto più coinvolgente." },
+    { "en": "shareable", "pron": "scèabol", "it": "facile da condividere", "type": "adj", "ex": "Infographics are very shareable.", "exIt": "Le infografiche sono molto facili da condividere." },
+    { "en": "outreach", "pron": "àutriic", "it": "attività di contatto verso l'esterno", "type": "noun", "ex": "Our outreach to bloggers brought new backlinks.", "exIt": "Le nostre attività di contatto con i blogger ci hanno portato nuovi backlink." },
+    { "en": "brand guidelines", "pron": "brànd gàidlainz", "it": "linee guida del marchio", "type": "noun", "ex": "Please follow the brand guidelines for colours and fonts.", "exIt": "Seguite le linee guida del marchio per colori e font." },
+    { "en": "social proof", "pron": "sòuscial prùf", "it": "riprova sociale (recensioni, testimonianze)", "type": "noun", "ex": "Customer reviews are strong social proof.", "exIt": "Le recensioni dei clienti sono una forte riprova sociale." },
+    { "en": "tagline", "pron": "tàglain", "it": "slogan, frase di marca", "type": "noun", "ex": "We need a clear tagline for the homepage.", "exIt": "Serve uno slogan chiaro per la homepage." },
+    { "en": "to retarget", "pron": "ritàrghet", "it": "riproporre annunci a chi ha già visitato", "type": "verb", "ex": "We retarget visitors who abandoned their cart.", "exIt": "Riproponiamo annunci ai visitatori che hanno abbandonato il carrello." },
+    { "en": "niche", "pron": "nìisc", "it": "nicchia", "type": "noun", "ex": "We target a niche market of small shops.", "exIt": "Puntiamo a una nicchia di piccoli negozi." }
+  ],
+  "falseFriends": [
+    { "en": "magazine", "it": "rivista", "trap": "Non è il magazzino: quello si dice warehouse o storeroom." },
+    { "en": "editor", "it": "redattore, chi corregge i testi", "trap": "Non è l'editore: l'editore si dice publisher." },
+    { "en": "actually", "it": "in realtà", "trap": "Non vuol dire 'attualmente': 'currently' o 'at the moment'." }
+  ],
+  "grammar": {
+    "title": "La forma causativa: have / get something done",
+    "explainIt": [
+      "Quando fai fare un lavoro a qualcun altro, in inglese si usa la forma causativa. In italiano diciamo 'Ho fatto rifare il sito' o 'Mi sono fatto tagliare i capelli'. In inglese: 'I had the website redesigned'. Chi fa il lavoro spesso non si dice, perché non è importante.",
+      "La struttura è have + oggetto + participio passato. 'We had the logo redesigned' = abbiamo fatto ridisegnare il logo. Il verbo have si coniuga come sempre: 'We're having the site translated' (stiamo facendo tradurre il sito), 'We will have the texts checked' (faremo controllare i testi).",
+      "Con get si dice la stessa cosa ma è più informale: 'I got my photos retouched'. Get si usa tanto nel parlato quotidiano. In più get può indicare un problema o una cosa non voluta: 'We got our site hacked' (ci hanno hackerato il sito). Anche have può avere questo senso: 'We had our account suspended'.",
+      "Se vuoi dire chi fa il lavoro, usi by: 'We had the site audited by an expert'. Ma di solito non serve, perché si capisce. Attenzione a non confondere con la forma normale: 'I redesigned the site' = l'ho fatto io; 'I had the site redesigned' = l'ho fatto fare a un altro.",
+      "Esiste anche have + persona + verbo base: 'I had my designer change the logo'. Con get invece serve to: 'I got my designer to change the logo'. Nelle domande e nelle negazioni servono gli ausiliari: 'Did you have the pages checked?', 'We didn't have the images optimised'. Si usa spesso per servizi: 'to have your car serviced', 'to have your site backed up'."
+    ],
+    "explainEn": [
+      "When you arrange for someone else to do a job for you, English uses the causative form. In Italian we say 'Ho fatto rifare il sito'. In English: 'I had the website redesigned'. Often we do not say who does the work, because it is not important.",
+      "The structure is have + object + past participle. 'We had the logo redesigned' means someone redesigned the logo for us. Have changes like normal: 'We're having the site translated', 'We will have the texts checked'.",
+      "With get you say the same thing, but it is more informal: 'I got my photos retouched'. Get is very common in everyday speech. Get can also show a problem or something unwanted: 'We got our site hacked'. Have can have this meaning too: 'We had our account suspended'.",
+      "If you want to say who does the work, use by: 'We had the site audited by an expert'. But usually it is not needed. Do not confuse it with the normal form: 'I redesigned the site' means I did it myself; 'I had the site redesigned' means someone else did it.",
+      "There is also have + person + base verb: 'I had my designer change the logo'. With get you need to: 'I got my designer to change the logo'. In questions and negatives you need auxiliaries: 'Did you have the pages checked?', 'We didn't have the images optimised'. It is often used for services: 'to have your site backed up'."
+    ],
+    "rules": [
+      {
+        "it": "Have + oggetto + participio passato: fai fare un lavoro a qualcuno.",
+        "en": "Have + object + past participle: someone does a job for you.",
+        "form": "have + oggetto + participio passato",
+        "examples": [
+          { "en": "We had the new logo designed by a local studio.", "it": "Abbiamo fatto disegnare il nuovo logo a uno studio locale." },
+          { "en": "I'm having the website translated into German.", "it": "Sto facendo tradurre il sito in tedesco." },
+          { "en": "She has her newsletters written by a copywriter.", "it": "Fa scrivere le sue newsletter a un copywriter." }
+        ]
+      },
+      {
+        "it": "Get + oggetto + participio passato: più informale; può indicare anche un problema.",
+        "en": "Get + object + past participle: more informal; it can also show a problem.",
+        "form": "get + oggetto + participio passato",
+        "examples": [
+          { "en": "I need to get my analytics set up properly.", "it": "Devo far configurare bene i miei analytics." },
+          { "en": "They got their Instagram account hacked.", "it": "Gli hanno hackerato l'account Instagram." }
+        ]
+      },
+      {
+        "it": "Have + persona + verbo base: dici chi fa il lavoro. Con get serve to: get + persona + to + verbo.",
+        "en": "Have + person + base verb: you say who does the work. With get you need to: get + person + to + verb.",
+        "form": "have + persona + verbo base",
+        "examples": [
+          { "en": "I'll have my assistant send you the report.", "it": "Farò mandare il report dalla mia assistente." },
+          { "en": "She had the designer change the colours.", "it": "Ha fatto cambiare i colori al grafico." }
+        ]
+      },
+      {
+        "it": "Tempi diversi: cambia solo have/get. Il participio passato resta uguale.",
+        "en": "Different tenses: only have/get changes. The past participle stays the same.",
+        "form": "have/get in ogni tempo (will have, am having, have had, didn't have) + oggetto + participio",
+        "examples": [
+          { "en": "We will have the campaign reviewed before it goes live.", "it": "Faremo rivedere la campagna prima che vada online." },
+          { "en": "Have you had the keywords checked yet?", "it": "Hai già fatto controllare le parole chiave?" },
+          { "en": "We didn't have the images optimised.", "it": "Non abbiamo fatto ottimizzare le immagini." }
+        ]
+      },
+      {
+        "it": "By + chi lo fa: si usa solo se è importante dire chi ha fatto il lavoro.",
+        "en": "By + agent: use it only when it is important to say who did the work.",
+        "form": "have + oggetto + participio + by + agente",
+        "examples": [
+          { "en": "We had the site audited by an accessibility expert.", "it": "Abbiamo fatto controllare il sito da un esperto di accessibilità." },
+          { "en": "They had their ads reviewed by a marketing agency.", "it": "Hanno fatto rivedere i loro annunci da un'agenzia di marketing." }
+        ]
+      }
+    ],
+    "tip": "Pensa all'ordine: have + COSA + participio. 'I had the site redesigned' funziona come 'I had my car washed'. Se metti il participio prima dell'oggetto, la frase cambia senso.",
+    "mistakes": [
+      { "wrong": "I have redesigned the logo by an agency.", "right": "I had the logo redesigned by an agency.", "why": "per dire 'l'ho fatto fare' serve la forma causativa: have + oggetto + participio" },
+      { "wrong": "We had translated the site.", "right": "We had the site translated.", "why": "l'oggetto va prima del participio passato" },
+      { "wrong": "I made redesign the website.", "right": "I had the website redesigned.", "why": "'fare + infinito' non si traduce con make: si usa have + participio" },
+      { "wrong": "Have you the pages checked?", "right": "Have you had the pages checked?", "why": "per il present perfect serve 'have you had' (e per il causativo have è verbo principale)" },
+      { "wrong": "We got hacked our site.", "right": "We got our site hacked.", "why": "ordine: get + oggetto + participio" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "We ___ the logo redesigned last month. (have, past)", "a": ["had"], "hint": "past simple di have", "explain": "Had + oggetto + participio passato." },
+    { "q": "I'm ___ my website translated into French. (have)", "a": ["having"], "hint": "present continuous", "explain": "Is/am/are having + oggetto + participio." },
+    { "q": "She wants to get her photos ___ (retouch).", "a": ["retouched"], "hint": "participio passato", "explain": "Get + oggetto + participio passato." },
+    { "q": "We need to have the pages ___ (check) by a lawyer.", "a": ["checked"], "hint": "participio passato", "explain": "Have + oggetto + participio passato." },
+    { "q": "They got their account ___ (hack) last week.", "a": ["hacked"], "hint": "problema non voluto", "explain": "Get + participio indica anche un problema subito." },
+    { "q": "I'll ___ my designer send you the files.", "a": ["have"], "hint": "persona + verbo base", "explain": "Have + persona + verbo base: 'I'll have my designer send...'. Con get servirebbe to: 'get my designer to send'." },
+    { "q": "Did you ___ the images optimised?", "a": ["have", "get"], "hint": "domanda al past simple", "explain": "Nella domanda usi did + have/get + oggetto + participio." },
+    { "q": "We ___ not have the site audited before the launch. (negativo past)", "a": ["did"], "hint": "ausiliare negativo", "explain": "Negativo: did not (didn't) have + oggetto + participio. Qui not è già scritto." },
+    { "q": "She had her newsletter ___ (write) by a copywriter.", "a": ["written"], "hint": "participio irregolare", "explain": "Participio passato di write = written." },
+    { "q": "They will have the campaign ___ (review) before it goes live.", "a": ["reviewed"], "hint": "participio passato", "explain": "Will have + oggetto + participio passato." },
+    { "q": "We had the site audited ___ an expert. (da)", "a": ["by"], "hint": "preposizione per chi lo fa", "explain": "By + agente indica chi ha fatto il lavoro." },
+    { "q": "I never ___ my keywords checked, so I don't know if they work.", "a": ["had", "got"], "hint": "past simple", "explain": "Past simple di have/get nella causativa." }
+  ],
+  "phrases": [
+    { "group": "Campagne e pubblico", "en": "Who is our target audience?", "it": "Chi è il nostro pubblico di riferimento?" },
+    { "group": "Campagne e pubblico", "en": "The campaign aims to increase brand awareness.", "it": "La campagna mira ad aumentare la notorietà del marchio." },
+    { "group": "Campagne e pubblico", "en": "We'll roll out the campaign in three phases.", "it": "Lanceremo la campagna in tre fasi." },
+    { "group": "Campagne e pubblico", "en": "We want to reach a younger audience.", "it": "Vogliamo raggiungere un pubblico più giovane." },
+    { "group": "Campagne e pubblico", "en": "The ad targets people who visited the pricing page.", "it": "L'annuncio si rivolge a chi ha visitato la pagina dei prezzi." },
+    { "group": "Contenuti", "en": "We need to publish consistently, at least twice a week.", "it": "Dobbiamo pubblicare con costanza, almeno due volte a settimana." },
+    { "group": "Contenuti", "en": "Our tone of voice should be friendly but professional.", "it": "Il nostro tono dovrebbe essere amichevole ma professionale." },
+    { "group": "Contenuti", "en": "Let's have the texts written by a copywriter.", "it": "Facciamo scrivere i testi a un copywriter.", "note": "forma causativa" },
+    { "group": "Contenuti", "en": "This content needs to be more engaging and shareable.", "it": "Questo contenuto deve essere più coinvolgente e condivisibile." },
+    { "group": "Contenuti", "en": "Can we add a clear call to action at the end?", "it": "Possiamo aggiungere un chiaro invito all'azione alla fine?" },
+    { "group": "Metriche", "en": "What does the data tell us about engagement?", "it": "Cosa ci dicono i dati sull'interazione?" },
+    { "group": "Metriche", "en": "The bounce rate is too high on mobile.", "it": "La frequenza di rimbalzo è troppo alta da mobile." },
+    { "group": "Metriche", "en": "Conversions have increased by 15% since the redesign.", "it": "Le conversioni sono aumentate del 15% dal restyling." },
+    { "group": "Metriche", "en": "Which KPIs are we tracking?", "it": "Quali KPI stiamo monitorando?" },
+    { "group": "Metriche", "en": "We need to measure the return on investment.", "it": "Dobbiamo misurare il ritorno sull'investimento." },
+    { "group": "Metriche", "en": "Let's run an A/B test and see which version wins.", "it": "Facciamo un test A/B e vediamo quale versione vince." },
+    { "group": "SEO", "en": "We have had the site optimised for search engines.", "it": "Abbiamo fatto ottimizzare il sito per i motori di ricerca.", "note": "forma causativa" },
+    { "group": "SEO", "en": "Each page should have a unique title and meta description.", "it": "Ogni pagina deve avere un titolo e una meta description unici." },
+    { "group": "SEO", "en": "We're ranking on the first page for our main keyword.", "it": "Siamo in prima pagina per la nostra parola chiave principale." },
+    { "group": "SEO", "en": "Organic traffic usually takes months to grow.", "it": "Il traffico organico di solito richiede mesi per crescere." },
+    { "group": "SEO", "en": "Good backlinks from reliable sites help your ranking.", "it": "Buoni backlink da siti affidabili aiutano il posizionamento." },
+    { "group": "Con agenzie e clienti", "en": "I'd like to have the strategy reviewed by your team.", "it": "Vorrei far rivedere la strategia dal vostro team." },
+    { "group": "Con agenzie e clienti", "en": "What is the budget for paid ads?", "it": "Qual è il budget per gli annunci a pagamento?" },
+    { "group": "Con agenzie e clienti", "en": "Please follow the brand guidelines for all posts.", "it": "Seguite le linee guida del marchio per tutti i post." },
+    { "group": "Con agenzie e clienti", "en": "We'll send you a monthly report with the main metrics.", "it": "Vi manderemo un report mensile con le metriche principali." }
+  ],
+  "dialogue": {
+    "title": "Planning the spring campaign",
+    "context": "Anna, responsabile marketing di un negozio online, parla con Luca (web developer) e con Tom, un consulente SEO, per preparare la campagna di primavera e migliorare il sito.",
+    "lines": [
+      { "s": "A", "name": "Anna", "en": "Let's start with the campaign. Our target audience is women between 25 and 40.", "it": "Cominciamo dalla campagna. Il nostro pubblico sono donne tra i 25 e i 40 anni." },
+      { "s": "B", "name": "Luca", "en": "Good. Last year's landing page had a conversion rate of only 1%.", "it": "Bene. La landing page dell'anno scorso aveva un tasso di conversione dell'1% soltanto." },
+      { "s": "A", "name": "Anna", "en": "I know. This time I want to have the page redesigned by a professional.", "it": "Lo so. Stavolta voglio far ridisegnare la pagina da un professionista." },
+      { "s": "C", "name": "Tom", "en": "I'd also have the texts written by a copywriter. The tone of voice is a bit flat.", "it": "Farei scrivere anche i testi a un copywriter. Il tono è un po' piatto." },
+      { "s": "A", "name": "Anna", "en": "Agreed. What about the SEO? I got my analytics checked and organic traffic is flat.", "it": "D'accordo. E la SEO? Ho fatto controllare gli analytics e il traffico organico è fermo." },
+      { "s": "C", "name": "Tom", "en": "Your meta descriptions are duplicated on thirty pages, and you have almost no backlinks.", "it": "Le tue meta description sono duplicate su trenta pagine e non hai quasi nessun backlink." },
+      { "s": "B", "name": "Luca", "en": "I can have the meta descriptions fixed this week. The backlinks are a longer job.", "it": "Posso far sistemare le meta description questa settimana. I backlink sono un lavoro più lungo." },
+      { "s": "A", "name": "Anna", "en": "Fine. And what about social media? Our reach is good, but engagement is low.", "it": "Bene. E i social? La copertura è buona ma l'interazione è bassa." },
+      { "s": "C", "name": "Tom", "en": "Try videos. They get much more engagement and are easier to share.", "it": "Provate con i video. Ottengono molta più interazione e si condividono più facilmente." },
+      { "s": "A", "name": "Anna", "en": "I'll boost the best posts with a small budget of paid ads.", "it": "Sponsorizzerò i post migliori con un piccolo budget in annunci a pagamento." },
+      { "s": "B", "name": "Luca", "en": "We should run an A/B test on the headline of the landing page.", "it": "Dovremmo fare un test A/B sul titolo della landing page." },
+      { "s": "A", "name": "Anna", "en": "Good idea. Which KPI will we use to decide?", "it": "Buona idea. Quale KPI useremo per decidere?" },
+      { "s": "C", "name": "Tom", "en": "The conversion rate, and the number of leads each week.", "it": "Il tasso di conversione e il numero di contatti ogni settimana." },
+      { "s": "A", "name": "Anna", "en": "Perfect. Luca, can you roll out the new page by the end of March?", "it": "Perfetto. Luca, puoi mettere online la nuova pagina entro fine marzo?" },
+      { "s": "B", "name": "Luca", "en": "Yes, as long as I get the final texts by the tenth.", "it": "Sì, purché io riceva i testi finali entro il dieci." }
+    ]
+  },
+  "listening": [
+    { "q": "What was the conversion rate of last year's landing page?", "options": ["1%", "10%", "25%"], "answer": 0 },
+    { "q": "Who will write the new texts?", "options": ["Luca", "A copywriter", "Tom"], "answer": 1 },
+    { "q": "What does Tom find wrong with the SEO?", "options": ["Missing images", "Duplicated meta descriptions and few backlinks", "No keywords at all"], "answer": 1 },
+    { "q": "What does Tom suggest for social media?", "options": ["Videos", "More hashtags", "Fewer posts"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Abbiamo fatto ridisegnare il logo da uno studio.", "en": "We had the logo redesigned by a studio.", "alt": ["We had the logo redesigned by an agency.", "We got the logo redesigned by a studio."] },
+    { "it": "Sto facendo tradurre il sito in tedesco.", "en": "I'm having the website translated into German.", "alt": ["I am having the site translated into German.", "I'm getting the website translated into German."] },
+    { "it": "Dobbiamo far controllare i testi da un avvocato.", "en": "We need to have the texts checked by a lawyer.", "alt": ["We need to get the texts checked by a lawyer.", "We have to have the texts reviewed by a lawyer."] },
+    { "it": "Il nostro pubblico di riferimento sono i giovani professionisti.", "en": "Our target audience is young professionals.", "alt": ["Our target audience is made up of young professionals.", "Our target audience consists of young professionals."] },
+    { "it": "Il tasso di conversione è solo dell'1%.", "en": "The conversion rate is only 1%.", "alt": ["The conversion rate is only one percent.", "Conversion is only 1%."] },
+    { "it": "Gli hanno hackerato l'account.", "en": "They got their account hacked.", "alt": ["Their account got hacked.", "They had their account hacked."] },
+    { "it": "Abbiamo fatto ottimizzare il sito per i motori di ricerca.", "en": "We had the site optimised for search engines.", "alt": ["We have had the site optimised for search engines.", "We got the site optimised for search engines."] },
+    { "it": "Quali metriche stiamo monitorando?", "en": "Which metrics are we tracking?", "alt": ["What metrics are we monitoring?", "Which metrics are we monitoring?"] },
+    { "it": "Ogni pagina ha bisogno di una meta description unica.", "en": "Each page needs a unique meta description.", "alt": ["Every page needs its own meta description.", "Every page needs a unique meta description."] },
+    { "it": "Il traffico organico è cresciuto del 40% in sei mesi.", "en": "Organic traffic grew by 40% in six months.", "alt": ["Organic traffic has grown by 40% in six months.", "Organic traffic increased by 40% in six months."] },
+    { "it": "Faccio fare i test A/B a un'agenzia.", "en": "I have the A/B tests done by an agency.", "alt": ["I have an agency do the A/B tests.", "I get an agency to do the A/B tests."] },
+    { "it": "Seguite le linee guida del marchio per tutti i post.", "en": "Please follow the brand guidelines for all posts.", "alt": ["Follow the brand guidelines for all posts.", "Please follow the brand guidelines in every post."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a un cliente, il signor Hall, che ha un negozio di biciclette online. Gli proponi un piano per migliorare il marketing del sito. Spiega che avete già fatto ottimizzare le immagini e le meta description (usa la forma causativa), che per i prossimi due mesi consigli di fare scrivere i testi a un copywriter e di fare un test A/B sulla landing page, e quali due metriche monitorerete (traffico organico e tasso di conversione). Chiedi un incontro.",
+    "taskEn": "Write an email to a client, Mr Hall, who has an online bicycle shop. You propose a plan to improve the marketing of his site. Explain that you have already had the images and the meta descriptions optimised (use the causative form), that for the next two months you recommend having the texts written by a copywriter and running an A/B test on the landing page, and which two metrics you will monitor (organic traffic and conversion rate). Ask for a meeting.",
+    "model": "Subject: Marketing plan for the next two months\n\nDear Mr Hall,\n\nI'd like to share a short plan to improve the marketing of your online shop.\n\nSo far, we have had all the product images optimised, and we have had the meta descriptions rewritten on every page. As a result, the site loads faster and each page now has a unique description for search engines.\n\nFor the next two months, I recommend two main steps:\n1. Having the texts on the home page and the landing page written by a professional copywriter, with a clear call to action.\n2. Running an A/B test on two versions of the landing page to see which one converts better.\n\nWe will monitor two key metrics: organic traffic and conversion rate. I will send you a short report at the end of each month.\n\nCould we arrange a call next week to go through the plan? I'm free on Tuesday and Thursday afternoon.\n\nBest regards,\nLuca Rossi"
+  },
+  "speaking": {
+    "shadowing": [
+      "Who is our target audience?",
+      "We had the logo redesigned by a local studio.",
+      "I'd like to have the texts checked by a copywriter.",
+      "The conversion rate is only one percent.",
+      "Organic traffic usually takes months to grow.",
+      "Let's run an A/B test and see which version wins.",
+      "We're having the website translated into German.",
+      "Video posts get more engagement than text."
+    ],
+    "prompts": [
+      { "en": "What would you get done on your website if you had a bigger budget?", "it": "Cosa faresti fare per il tuo sito se avessi un budget maggiore?", "help": "Usa: I'd have the texts rewritten / I'd get the design updated." },
+      { "en": "Tell me about a campaign you know. Who was the target audience?", "it": "Parlami di una campagna che conosci. Chi era il pubblico?", "help": "Usa: The campaign targeted... / The goal was brand awareness." },
+      { "en": "Which metrics would you watch to see if a site is successful?", "it": "Quali metriche guarderesti per capire se un sito ha successo?", "help": "Usa: I'd look at the bounce rate / conversion rate / organic traffic." },
+      { "en": "What is SEO and why does it matter?", "it": "Cos'è la SEO e perché è importante?", "help": "Usa: SEO means... / It helps people find the site / keywords, backlinks." },
+      { "en": "What did you have done to your computer or phone recently?", "it": "Cosa hai fatto fare di recente al tuo computer o telefono?", "help": "Usa: I had my phone repaired / I got my laptop cleaned." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: marketing e social",
+      "show": ["Marketing e social", "Campagne, metriche, SEO"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo di marketing digitale: campagne, pubblico, contenuti, metriche e SEO. E impariamo a dire che facciamo fare un lavoro a qualcun altro." },
+        { "lang": "en", "text": "We had the website redesigned by a professional." }
+      ]
+    },
+    {
+      "title": "Il lessico del marketing",
+      "show": ["target audience", "campaign", "brand awareness", "reach"],
+      "say": [
+        { "lang": "it", "text": "Il pubblico di riferimento si dice target audience. Una campagna ha un obiettivo, per esempio la notorietà del marchio, brand awareness." },
+        { "lang": "en", "text": "Our target audience is small business owners." }
+      ]
+    },
+    {
+      "title": "Le metriche",
+      "show": ["engagement", "conversion rate", "bounce rate", "KPI"],
+      "say": [
+        { "lang": "it", "text": "Le metriche misurano i risultati. Il tasso di conversione dice quanti visitatori diventano clienti. Il bounce rate dice quanti se ne vanno subito." },
+        { "lang": "en", "text": "The conversion rate is only one percent." }
+      ]
+    },
+    {
+      "title": "La forma causativa con have",
+      "show": ["have + oggetto + participio", "We had the logo redesigned"],
+      "say": [
+        { "lang": "it", "text": "Per dire che fai fare un lavoro a qualcun altro, usa have, poi l'oggetto, poi il participio passato. L'ordine è importante." },
+        { "lang": "en", "text": "We had the logo redesigned." }
+      ]
+    },
+    {
+      "title": "Get e il problema subito",
+      "show": ["get + oggetto + participio", "We got our site hacked"],
+      "say": [
+        { "lang": "it", "text": "Get fa la stessa cosa ma in modo più informale. Con get puoi anche dire che hai subito un problema, come un attacco hacker." },
+        { "lang": "en", "text": "They got their account hacked." }
+      ]
+    },
+    {
+      "title": "Chi fa il lavoro e i tempi",
+      "show": ["by + agente", "have + persona + verbo base", "I'm having the site translated"],
+      "say": [
+        { "lang": "it", "text": "Se vuoi dire chi fa il lavoro, aggiungi by. Puoi usare tutti i tempi, cambia solo il verbo have." },
+        { "lang": "en", "text": "I'm having the website translated into German." }
+      ]
+    },
+    {
+      "title": "SEO e contenuti",
+      "show": ["keyword", "backlink", "organic traffic", "call to action"],
+      "say": [
+        { "lang": "it", "text": "Nella SEO contano le parole chiave, i backlink e il traffico organico. Nei contenuti non dimenticare mai l'invito all'azione, la call to action." },
+        { "lang": "en", "text": "Organic traffic usually takes months to grow." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["have + oggetto + participio", "Campagne, metriche, SEO"],
+      "say": [
+        { "lang": "it", "text": "Ricorda: have più oggetto più participio passato. Con questa forma parli di tutto ciò che fai fare agli altri, anche nel lavoro." },
+        { "lang": "en", "text": "I'd like to have the strategy reviewed by your team." }
+      ]
+    }
+  ]
+}

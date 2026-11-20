@@ -1,0 +1,1258 @@
+{
+  "id": 40,
+  "week": 8,
+  "title": "Ripasso dei tempi verbali",
+  "titleEn": "Review of the tenses",
+  "intro": "Oggi ripassi tutti i tempi verbali che hai incontrato finora e impari a scegliere quello giusto. Parti da una domanda semplice: quando è successo, e quanto è collegato a ora? Rivedi anche 50 verbi molto frequenti, usati in frasi di lavoro con tempi diversi.",
+  "goals": [
+    "Scegliere tra present simple e present continuous",
+    "Distinguere past simple, present perfect e present perfect continuous",
+    "Usare past continuous e past perfect per raccontare una storia",
+    "Parlare del futuro con will, going to e present continuous"
+  ],
+  "words": [
+    {
+      "en": "to be",
+      "pron": "bi",
+      "it": "essere, stare",
+      "type": "verb",
+      "ex": "I am in a meeting, I was at the office yesterday, and I have been here since nine.",
+      "exIt": "Sono in riunione, ieri ero in ufficio e sono qui dalle nove."
+    },
+    {
+      "en": "to have",
+      "pron": "hav",
+      "it": "avere",
+      "type": "verb",
+      "ex": "We have a call at three. We had a long meeting yesterday.",
+      "exIt": "Abbiamo una chiamata alle tre. Ieri abbiamo avuto una lunga riunione."
+    },
+    {
+      "en": "to do",
+      "pron": "du",
+      "it": "fare",
+      "type": "verb",
+      "ex": "What do you do? I do accessibility audits. I did one last week.",
+      "exIt": "Che lavoro fai? Faccio audit di accessibilità. Ne ho fatto uno la settimana scorsa."
+    },
+    {
+      "en": "to go",
+      "pron": "gòu",
+      "it": "andare",
+      "type": "verb",
+      "ex": "I go to the office on Tuesdays. I went there yesterday.",
+      "exIt": "Vado in ufficio il martedì. Ci sono andato ieri."
+    },
+    {
+      "en": "to get",
+      "pron": "gèt",
+      "it": "ottenere, ricevere, diventare",
+      "type": "verb",
+      "ex": "I got your email this morning and I will reply today.",
+      "exIt": "Ho ricevuto la tua mail stamattina e risponderò oggi."
+    },
+    {
+      "en": "to make",
+      "pron": "mèik",
+      "it": "fare, produrre, creare",
+      "type": "verb",
+      "ex": "She is making a new design. She has made three versions already.",
+      "exIt": "Sta facendo un nuovo design. Ne ha già fatte tre versioni."
+    },
+    {
+      "en": "to take",
+      "pron": "tèik",
+      "it": "prendere, richiedere (tempo)",
+      "type": "verb",
+      "ex": "The migration took two weeks. It will take longer next time.",
+      "exIt": "La migrazione è durata due settimane. La prossima volta ci vorrà di più."
+    },
+    {
+      "en": "to come",
+      "pron": "kàm",
+      "it": "venire",
+      "type": "verb",
+      "ex": "Anna is coming to the meeting. Did you come by train?",
+      "exIt": "Anna viene alla riunione. Sei venuto in treno?"
+    },
+    {
+      "en": "to see",
+      "pron": "sìi",
+      "it": "vedere, capire",
+      "type": "verb",
+      "ex": "I see your point. I saw the report yesterday.",
+      "exIt": "Capisco il tuo punto di vista. Ho visto il report ieri."
+    },
+    {
+      "en": "to know",
+      "pron": "nòu",
+      "it": "sapere, conoscere",
+      "type": "verb",
+      "ex": "I know the client well. I have known him for ten years.",
+      "exIt": "Conosco bene il cliente. Lo conosco da dieci anni."
+    },
+    {
+      "en": "to think",
+      "pron": "tìnk",
+      "it": "pensare, credere",
+      "type": "verb",
+      "ex": "I think we should wait. I was thinking about the budget.",
+      "exIt": "Penso che dovremmo aspettare. Stavo pensando al budget."
+    },
+    {
+      "en": "to want",
+      "pron": "uònt",
+      "it": "volere",
+      "type": "verb",
+      "ex": "The client wants a new logo. He wanted it yesterday.",
+      "exIt": "Il cliente vuole un nuovo logo. Lo voleva ieri."
+    },
+    {
+      "en": "to use",
+      "pron": "iùuz",
+      "it": "usare",
+      "type": "verb",
+      "ex": "We use Git every day. We have used it for five years.",
+      "exIt": "Usiamo Git ogni giorno. Lo usiamo da cinque anni."
+    },
+    {
+      "en": "to find",
+      "pron": "fàind",
+      "it": "trovare",
+      "type": "verb",
+      "ex": "I found a bug while I was testing the form.",
+      "exIt": "Ho trovato un bug mentre testavo il modulo."
+    },
+    {
+      "en": "to give",
+      "pron": "gìv",
+      "it": "dare",
+      "type": "verb",
+      "ex": "I'll give you the link tomorrow. He gave me the file this morning.",
+      "exIt": "Ti darò il link domani. Mi ha dato il file stamattina."
+    },
+    {
+      "en": "to tell",
+      "pron": "tèl",
+      "it": "dire, raccontare",
+      "type": "verb",
+      "ex": "I told him yesterday. I will tell the team on Monday.",
+      "exIt": "Gliel'ho detto ieri. Lo dirò al team lunedì."
+    },
+    {
+      "en": "to work",
+      "pron": "uèrk",
+      "it": "lavorare, funzionare",
+      "type": "verb",
+      "ex": "I work from home. I have worked here for six years. I am working on a new site.",
+      "exIt": "Lavoro da casa. Lavoro qui da sei anni. Sto lavorando a un nuovo sito."
+    },
+    {
+      "en": "to call",
+      "pron": "kòol",
+      "it": "chiamare, telefonare",
+      "type": "verb",
+      "ex": "I'll call you after the meeting. He called twice this morning.",
+      "exIt": "Ti chiamo dopo la riunione. Ha chiamato due volte stamattina."
+    },
+    {
+      "en": "to try",
+      "pron": "trài",
+      "it": "provare, cercare di",
+      "type": "verb",
+      "ex": "I tried to open the file, but it failed. I am trying again now.",
+      "exIt": "Ho provato ad aprire il file, ma non ha funzionato. Ora riprovo."
+    },
+    {
+      "en": "to ask",
+      "pron": "àask",
+      "it": "chiedere",
+      "type": "verb",
+      "ex": "I asked the client for more details. I have asked twice.",
+      "exIt": "Ho chiesto al cliente più dettagli. L'ho già chiesto due volte."
+    },
+    {
+      "en": "to need",
+      "pron": "nìid",
+      "it": "aver bisogno di",
+      "type": "verb",
+      "ex": "We need a decision. We needed it last week.",
+      "exIt": "Ci serve una decisione. Ci serviva la settimana scorsa."
+    },
+    {
+      "en": "to feel",
+      "pron": "fìil",
+      "it": "sentire, sentirsi",
+      "type": "verb",
+      "ex": "I feel better today. I felt ill yesterday.",
+      "exIt": "Oggi mi sento meglio. Ieri stavo male."
+    },
+    {
+      "en": "to become",
+      "pron": "bikàm",
+      "it": "diventare",
+      "type": "verb",
+      "ex": "She became team leader last year. He is becoming an expert.",
+      "exIt": "È diventata capo team l'anno scorso. Sta diventando un esperto."
+    },
+    {
+      "en": "to leave",
+      "pron": "lìiv",
+      "it": "partire, lasciare",
+      "type": "verb",
+      "ex": "My train leaves at six. I left the office at five.",
+      "exIt": "Il mio treno parte alle sei. Ho lasciato l'ufficio alle cinque."
+    },
+    {
+      "en": "to put",
+      "pron": "pùt",
+      "it": "mettere",
+      "type": "verb",
+      "ex": "I put the files in the shared folder yesterday.",
+      "exIt": "Ieri ho messo i file nella cartella condivisa."
+    },
+    {
+      "en": "to mean",
+      "pron": "mìin",
+      "it": "voler dire, significare",
+      "type": "verb",
+      "ex": "What does this word mean? I didn't mean to confuse you.",
+      "exIt": "Che cosa significa questa parola? Non volevo confonderti."
+    },
+    {
+      "en": "to keep",
+      "pron": "kìip",
+      "it": "tenere, continuare a",
+      "type": "verb",
+      "ex": "Keep me updated. He has kept all the receipts.",
+      "exIt": "Tienimi aggiornato. Ha tenuto tutte le ricevute."
+    },
+    {
+      "en": "to let",
+      "pron": "lèt",
+      "it": "lasciare, permettere",
+      "type": "verb",
+      "ex": "Let me check and I'll let you know.",
+      "exIt": "Lasciami controllare e ti faccio sapere."
+    },
+    {
+      "en": "to begin",
+      "pron": "bigìn",
+      "it": "cominciare",
+      "type": "verb",
+      "ex": "The meeting begins at ten. We began the project in May.",
+      "exIt": "La riunione comincia alle dieci. Abbiamo cominciato il progetto a maggio."
+    },
+    {
+      "en": "to show",
+      "pron": "scòu",
+      "it": "mostrare",
+      "type": "verb",
+      "ex": "I'll show you the new design. She showed us the results.",
+      "exIt": "Ti mostrerò il nuovo design. Ci ha mostrato i risultati."
+    },
+    {
+      "en": "to hear",
+      "pron": "hìir",
+      "it": "sentire (con le orecchie), venire a sapere",
+      "type": "verb",
+      "ex": "I heard that you got the contract. Congratulations!",
+      "exIt": "Ho sentito che hai ottenuto il contratto. Complimenti!"
+    },
+    {
+      "en": "to run",
+      "pron": "ràn",
+      "it": "correre, far funzionare",
+      "type": "verb",
+      "ex": "We run tests every night. The script has been running for an hour.",
+      "exIt": "Facciamo i test ogni notte. Lo script gira da un'ora."
+    },
+    {
+      "en": "to move",
+      "pron": "mùuv",
+      "it": "spostare, trasferirsi",
+      "type": "verb",
+      "ex": "We moved to a new office last year.",
+      "exIt": "L'anno scorso ci siamo trasferiti in un nuovo ufficio."
+    },
+    {
+      "en": "to live",
+      "pron": "liv",
+      "it": "vivere, abitare",
+      "type": "verb",
+      "ex": "I live in Trieste. I have lived here all my life.",
+      "exIt": "Abito a Trieste. Ho sempre vissuto qui."
+    },
+    {
+      "en": "to believe",
+      "pron": "bilìiv",
+      "it": "credere",
+      "type": "verb",
+      "ex": "I believe this is the best option.",
+      "exIt": "Credo che questa sia l'opzione migliore."
+    },
+    {
+      "en": "to bring",
+      "pron": "bring",
+      "it": "portare",
+      "type": "verb",
+      "ex": "Please bring your laptop. He brought the documents yesterday.",
+      "exIt": "Per favore porta il portatile. Ieri ha portato i documenti."
+    },
+    {
+      "en": "to happen",
+      "pron": "hàpen",
+      "it": "succedere",
+      "type": "verb",
+      "ex": "What happened? Something has happened to the server.",
+      "exIt": "Che cosa è successo? È successo qualcosa al server."
+    },
+    {
+      "en": "to write",
+      "pron": "ràit",
+      "it": "scrivere",
+      "type": "verb",
+      "ex": "I am writing a report. I wrote the last one in March.",
+      "exIt": "Sto scrivendo un report. Ho scritto l'ultimo a marzo."
+    },
+    {
+      "en": "to provide",
+      "pron": "provàid",
+      "it": "fornire",
+      "type": "verb",
+      "ex": "We provide support to small companies.",
+      "exIt": "Forniamo assistenza alle piccole aziende."
+    },
+    {
+      "en": "to lose",
+      "pron": "lùuz",
+      "it": "perdere",
+      "type": "verb",
+      "ex": "I have lost my password. We lost the client last year.",
+      "exIt": "Ho perso la password. Abbiamo perso il cliente l'anno scorso."
+    },
+    {
+      "en": "to pay",
+      "pron": "pèi",
+      "it": "pagare",
+      "type": "verb",
+      "ex": "The client will pay next week. He has already paid.",
+      "exIt": "Il cliente pagherà la settimana prossima. Ha già pagato."
+    },
+    {
+      "en": "to meet",
+      "pron": "mìit",
+      "it": "incontrare, conoscere",
+      "type": "verb",
+      "ex": "We meet every Monday. I met her at a conference.",
+      "exIt": "Ci incontriamo ogni lunedì. L'ho conosciuta a una conferenza."
+    },
+    {
+      "en": "to include",
+      "pron": "inklùud",
+      "it": "includere",
+      "type": "verb",
+      "ex": "The price includes hosting for one year.",
+      "exIt": "Il prezzo include un anno di hosting."
+    },
+    {
+      "en": "to continue",
+      "pron": "kontìniu",
+      "it": "continuare",
+      "type": "verb",
+      "ex": "Let's continue after lunch.",
+      "exIt": "Continuiamo dopo pranzo."
+    },
+    {
+      "en": "to learn",
+      "pron": "lèrn",
+      "it": "imparare",
+      "type": "verb",
+      "ex": "I am learning TypeScript. I learned React in 2020.",
+      "exIt": "Sto imparando TypeScript. Ho imparato React nel 2020."
+    },
+    {
+      "en": "to change",
+      "pron": "cèindg",
+      "it": "cambiare",
+      "type": "verb",
+      "ex": "The client has changed the brief again.",
+      "exIt": "Il cliente ha cambiato di nuovo il brief."
+    },
+    {
+      "en": "to lead",
+      "pron": "lìid",
+      "it": "guidare, condurre",
+      "type": "verb",
+      "ex": "She leads a team of six developers.",
+      "exIt": "Guida un team di sei sviluppatori."
+    },
+    {
+      "en": "to understand",
+      "pron": "anderstànd",
+      "it": "capire",
+      "type": "verb",
+      "ex": "I don't understand the error message. Do you understand it?",
+      "exIt": "Non capisco il messaggio di errore. Tu lo capisci?"
+    },
+    {
+      "en": "to send",
+      "pron": "sènd",
+      "it": "mandare, inviare",
+      "type": "verb",
+      "ex": "I sent you the file an hour ago. I will send the rest later.",
+      "exIt": "Ti ho mandato il file un'ora fa. Manderò il resto più tardi."
+    },
+    {
+      "en": "to build",
+      "pron": "bìld",
+      "it": "costruire, sviluppare",
+      "type": "verb",
+      "ex": "We are building a new website. We built the old one in 2018.",
+      "exIt": "Stiamo costruendo un nuovo sito. Abbiamo costruito il vecchio nel 2018."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to retire",
+      "it": "andare in pensione",
+      "trap": "Non vuol dire solo ritirarsi: nel lavoro significa andare in pensione."
+    },
+    {
+      "en": "to pretend",
+      "it": "fingere",
+      "trap": "Non vuol dire 'pretendere'. Pretendere si dice to demand o to expect."
+    },
+    {
+      "en": "to assist",
+      "it": "aiutare",
+      "trap": "Non vuol dire 'assistere' a un evento: quello si dice to attend. To assist vuol dire aiutare, dare una mano."
+    },
+    {
+      "en": "to realise",
+      "it": "rendersi conto",
+      "trap": "Non vuol dire 'realizzare' nel senso di fare. Realizzare un progetto si dice to carry out o to deliver."
+    }
+  ],
+  "grammar": {
+    "title": "Tutti i tempi messi a confronto",
+    "explainIt": [
+      "Per scegliere un tempo verbale, fatti due domande. La prima: quando succede? Ora, prima o dopo. La seconda, per le azioni passate: l'azione è collegata al presente? Se sì, usa un tempo con have, cioè il present perfect. Se no, usa il past simple.",
+      "Presente. Il present simple è per abitudini e fatti: 'I work in Trieste.' 'The site loads fast.' Il present continuous è per ciò che succede ora o in questo periodo: 'I am working on a new site.' Con verbi di stato come know, want, need, like non si usa il continuous.",
+      "Passato. Il past simple è per un'azione finita in un momento passato, spesso con yesterday, last week, in 2020, ago: 'I sent the file yesterday.' Il present perfect è per un'azione passata che ha un effetto ora, o per un periodo non finito: 'I have sent the file' (ora la puoi aprire), 'I have worked here for six years' (e lavoro ancora qui). Il present perfect continuous insiste sulla durata: 'I have been working on this since nine.'",
+      "Storie nel passato. Il past continuous descrive lo sfondo: 'I was testing the form when I found a bug.' Il past perfect è per ciò che è avvenuto prima di un altro momento nel passato: 'When I arrived, the meeting had already started.'",
+      "Futuro. Will è per decisioni nel momento e previsioni: 'I'll call you.' 'It will take two days.' Going to è per piani già decisi e per ciò che si vede arrivare: 'We are going to launch in June.' Il present continuous è per accordi già fissati: 'I'm meeting the client on Friday.'",
+      "Un trucco per non sbagliare: segnali di tempo. Con yesterday, last, ago, in 2020 usa il past simple. Con for, since, already, yet, ever, just, so far usa il present perfect. Con now, at the moment, currently usa il present continuous. Con always, usually, every day usa il present simple."
+    ],
+    "explainEn": [
+      "To choose a tense, ask yourself two questions. First: when does it happen? Now, before, or after. Second, for past actions: is the action connected to the present? If yes, use a tense with have, the present perfect. If not, use the past simple.",
+      "Present. We use the present simple for habits and facts: 'I work in Trieste.' 'The site loads fast.' The present continuous is for what is happening now or in this period: 'I am working on a new site.' With state verbs like know, want, need and like we do not use the continuous.",
+      "Past. We use the past simple for a finished action at a time in the past, often with yesterday, last week, in 2020, ago: 'I sent the file yesterday.' The present perfect is for a past action with a result now, or for an unfinished period: 'I have sent the file' (you can open it now), 'I have worked here for six years' (and I still work here). The present perfect continuous stresses duration: 'I have been working on this since nine.'",
+      "Stories in the past. The past continuous describes the background: 'I was testing the form when I found a bug.' The past perfect is for something that happened before another moment in the past: 'When I arrived, the meeting had already started.'",
+      "Future. We use will for decisions made at the moment and for predictions: 'I'll call you.' 'It will take two days.' We use going to for plans already decided and for things we can see coming: 'We are going to launch in June.' The present continuous is for fixed arrangements: 'I'm meeting the client on Friday.'",
+      "A trick to avoid mistakes: time signals. With yesterday, last, ago, in 2020 use the past simple. With for, since, already, yet, ever, just, so far use the present perfect. With now, at the moment, currently use the present continuous. With always, usually, every day use the present simple."
+    ],
+    "rules": [
+      {
+        "it": "Present simple per abitudini e fatti. Present continuous per ciò che succede ora.",
+        "en": "Present simple for habits and facts. Present continuous for what is happening now.",
+        "form": "work / works  -  am / is / are + working",
+        "examples": [
+          {
+            "en": "I usually work from home.",
+            "it": "Di solito lavoro da casa."
+          },
+          {
+            "en": "I am working from the office today.",
+            "it": "Oggi lavoro dall'ufficio."
+          },
+          {
+            "en": "She knows the answer. (not: is knowing)",
+            "it": "Lei conosce la risposta."
+          }
+        ]
+      },
+      {
+        "it": "Past simple per un'azione finita in un momento del passato. Present perfect quando c'è un legame con ora o il periodo non è finito.",
+        "en": "Past simple for a finished action at a past time. Present perfect when there is a link to now or the period is not finished.",
+        "form": "worked  -  have / has + participio",
+        "examples": [
+          {
+            "en": "I sent the report yesterday.",
+            "it": "Ho mandato il report ieri."
+          },
+          {
+            "en": "I have sent the report. You can read it now.",
+            "it": "Ho mandato il report. Ora puoi leggerlo."
+          },
+          {
+            "en": "We have worked together since 2022.",
+            "it": "Lavoriamo insieme dal 2022."
+          }
+        ]
+      },
+      {
+        "it": "Present perfect continuous per un'azione iniziata nel passato e ancora in corso, o appena finita con effetti visibili.",
+        "en": "Present perfect continuous for an action that began in the past and is still going on, or has just stopped with visible results.",
+        "form": "have / has + been + verbo-ing",
+        "examples": [
+          {
+            "en": "I have been testing the site since nine.",
+            "it": "Sto testando il sito dalle nove."
+          },
+          {
+            "en": "She has been waiting for an hour.",
+            "it": "Aspetta da un'ora."
+          }
+        ]
+      },
+      {
+        "it": "Past continuous per lo sfondo di una storia. Past perfect per ciò che è successo prima di un altro momento passato.",
+        "en": "Past continuous for the background of a story. Past perfect for what happened before another past moment.",
+        "form": "was / were + -ing  -  had + participio",
+        "examples": [
+          {
+            "en": "I was updating the plugin when the site crashed.",
+            "it": "Stavo aggiornando il plugin quando il sito è andato in crash."
+          },
+          {
+            "en": "When I arrived, the client had already left.",
+            "it": "Quando sono arrivato, il cliente era già andato via."
+          }
+        ]
+      },
+      {
+        "it": "Futuro: will per decisioni e previsioni, going to per piani, present continuous per accordi fissati.",
+        "en": "Future: will for decisions and predictions, going to for plans, present continuous for fixed arrangements.",
+        "form": "will + verbo  -  am / is / are going to + verbo  -  am / is / are + -ing",
+        "examples": [
+          {
+            "en": "I'll send you the quote this afternoon.",
+            "it": "Ti mando il preventivo nel pomeriggio."
+          },
+          {
+            "en": "We are going to redesign the homepage.",
+            "it": "Rifaremo il design della homepage."
+          },
+          {
+            "en": "I'm meeting the client at ten tomorrow.",
+            "it": "Domani alle dieci incontro il cliente."
+          }
+        ]
+      },
+      {
+        "it": "Nelle frasi con if e when per il futuro, dopo if e when usa il present simple, non will.",
+        "en": "In future sentences with if and when, use the present simple after if and when, not will.",
+        "form": "if / when + present simple, will + verbo",
+        "examples": [
+          {
+            "en": "If you send me the files, I will start tomorrow.",
+            "it": "Se mi mandi i file, comincio domani."
+          },
+          {
+            "en": "I will call you when I arrive.",
+            "it": "Ti chiamo quando arrivo."
+          }
+        ]
+      }
+    ],
+    "tip": "Prima di scrivere cerca il segnale di tempo: yesterday, ago, last (past simple); for, since, already, yet (present perfect); now, at the moment (continuous); always, every (present simple); tomorrow, next (futuro).",
+    "mistakes": [
+      {
+        "wrong": "I have sent the file yesterday.",
+        "right": "I sent the file yesterday.",
+        "why": "con yesterday si usa il past simple"
+      },
+      {
+        "wrong": "I am working here since 2020.",
+        "right": "I have been working here since 2020. / I have worked here since 2020.",
+        "why": "con since e for e un'azione ancora in corso serve il present perfect"
+      },
+      {
+        "wrong": "I am knowing the answer.",
+        "right": "I know the answer.",
+        "why": "know è un verbo di stato: non si usa il continuous"
+      },
+      {
+        "wrong": "I will call you when I will arrive.",
+        "right": "I will call you when I arrive.",
+        "why": "dopo when e if si usa il present simple"
+      },
+      {
+        "wrong": "When I arrived, the meeting already started.",
+        "right": "When I arrived, the meeting had already started.",
+        "why": "l'azione avvenuta prima richiede il past perfect"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I usually ___ (work) from home on Fridays.",
+      "a": [
+        "work"
+      ],
+      "hint": "usually",
+      "explain": "Abitudine → present simple."
+    },
+    {
+      "q": "At the moment I ___ (write) a report.",
+      "a": [
+        "am writing",
+        "'m writing"
+      ],
+      "hint": "at the moment",
+      "explain": "Azione in corso ora → present continuous."
+    },
+    {
+      "q": "I ___ (send) you the quote yesterday.",
+      "a": [
+        "sent"
+      ],
+      "hint": "yesterday",
+      "explain": "Momento preciso nel passato → past simple."
+    },
+    {
+      "q": "We ___ (work) together since 2022.",
+      "a": [
+        "have worked",
+        "'ve worked",
+        "have been working",
+        "'ve been working"
+      ],
+      "hint": "since",
+      "explain": "Since indica un'azione che continua → present perfect."
+    },
+    {
+      "q": "She ___ (wait) for an hour and she is still here.",
+      "a": [
+        "has been waiting",
+        "'s been waiting"
+      ],
+      "hint": "durata",
+      "explain": "Durata fino a ora → present perfect continuous."
+    },
+    {
+      "q": "I ___ (test) the form when I found a bug.",
+      "a": [
+        "was testing"
+      ],
+      "hint": "sfondo nel passato",
+      "explain": "Azione in corso nel passato → past continuous."
+    },
+    {
+      "q": "When I arrived, the meeting ___ (already, start).",
+      "a": [
+        "had already started",
+        "had started already"
+      ],
+      "hint": "prima di un momento passato",
+      "explain": "Azione precedente → past perfect."
+    },
+    {
+      "q": "Hold on, I ___ (call) him now.",
+      "a": [
+        "will call",
+        "'ll call"
+      ],
+      "hint": "decisione al momento",
+      "explain": "Decisione al momento → will."
+    },
+    {
+      "q": "We ___ (launch) the site in June. It is all planned.",
+      "a": [
+        "are going to launch",
+        "'re going to launch",
+        "are launching",
+        "'re launching"
+      ],
+      "hint": "piano deciso",
+      "explain": "Piano già deciso → going to o present continuous."
+    },
+    {
+      "q": "I will call you when I ___ (arrive).",
+      "a": [
+        "arrive"
+      ],
+      "hint": "dopo when",
+      "explain": "Dopo when si usa il present simple per il futuro."
+    },
+    {
+      "q": "I ___ (not, know) the answer.",
+      "a": [
+        "don't know",
+        "do not know"
+      ],
+      "hint": "verbo di stato",
+      "explain": "Know non si usa in forma continua."
+    },
+    {
+      "q": "Have you ever ___ (be) to Berlin?",
+      "a": [
+        "been"
+      ],
+      "hint": "ever",
+      "explain": "Esperienza di vita → present perfect: have been."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Segnali di tempo (presente)",
+      "en": "I usually start work at nine.",
+      "it": "Di solito comincio a lavorare alle nove."
+    },
+    {
+      "group": "Segnali di tempo (presente)",
+      "en": "At the moment I'm working on a new project.",
+      "it": "Al momento sto lavorando a un nuovo progetto."
+    },
+    {
+      "group": "Segnali di tempo (presente)",
+      "en": "We have a stand-up every morning.",
+      "it": "Abbiamo una riunione rapida ogni mattina."
+    },
+    {
+      "group": "Segnali di tempo (presente)",
+      "en": "Currently, we are looking for a new designer.",
+      "it": "Al momento stiamo cercando un nuovo designer."
+    },
+    {
+      "group": "Segnali di tempo (presente)",
+      "en": "I always check the logs first.",
+      "it": "Controllo sempre prima i log.",
+      "note": "Always va prima del verbo principale."
+    },
+    {
+      "group": "Segnali di tempo (passato)",
+      "en": "I sent you the file two hours ago.",
+      "it": "Ti ho mandato il file due ore fa."
+    },
+    {
+      "group": "Segnali di tempo (passato)",
+      "en": "We launched the site last month.",
+      "it": "Abbiamo lanciato il sito il mese scorso."
+    },
+    {
+      "group": "Segnali di tempo (passato)",
+      "en": "Back in 2020, I started as a freelancer.",
+      "it": "Nel 2020 ho iniziato come freelance."
+    },
+    {
+      "group": "Segnali di tempo (passato)",
+      "en": "I was testing the form when the power went off.",
+      "it": "Stavo testando il modulo quando è saltata la corrente."
+    },
+    {
+      "group": "Segnali di tempo (passato)",
+      "en": "By the time I arrived, they had already finished.",
+      "it": "Quando sono arrivato, avevano già finito."
+    },
+    {
+      "group": "Present perfect: for, since, already, yet",
+      "en": "I've worked here for six years.",
+      "it": "Lavoro qui da sei anni."
+    },
+    {
+      "group": "Present perfect: for, since, already, yet",
+      "en": "We've been in touch since January.",
+      "it": "Siamo in contatto da gennaio."
+    },
+    {
+      "group": "Present perfect: for, since, already, yet",
+      "en": "Have you finished the report yet?",
+      "it": "Hai già finito il report?"
+    },
+    {
+      "group": "Present perfect: for, since, already, yet",
+      "en": "I've already sent the invoice.",
+      "it": "Ho già mandato la fattura."
+    },
+    {
+      "group": "Present perfect: for, since, already, yet",
+      "en": "I haven't heard back from the client yet.",
+      "it": "Non ho ancora avuto risposta dal cliente."
+    },
+    {
+      "group": "Present perfect: for, since, already, yet",
+      "en": "Have you ever worked with a screen reader?",
+      "it": "Hai mai lavorato con uno screen reader?"
+    },
+    {
+      "group": "Il futuro",
+      "en": "I'll check it and get back to you.",
+      "it": "Controllo e ti rispondo.",
+      "note": "Decisione presa sul momento: will."
+    },
+    {
+      "group": "Il futuro",
+      "en": "We are going to launch in June.",
+      "it": "Lanceremo a giugno."
+    },
+    {
+      "group": "Il futuro",
+      "en": "I'm meeting the client on Friday at ten.",
+      "it": "Incontro il cliente venerdì alle dieci."
+    },
+    {
+      "group": "Il futuro",
+      "en": "I think it will take about two weeks.",
+      "it": "Penso che ci vorranno circa due settimane."
+    },
+    {
+      "group": "Il futuro",
+      "en": "If you send me the files, I'll start tomorrow.",
+      "it": "Se mi mandi i file, comincio domani."
+    },
+    {
+      "group": "Raccontare una sequenza",
+      "en": "First I analysed the site, then I wrote the report.",
+      "it": "Prima ho analizzato il sito, poi ho scritto il report."
+    },
+    {
+      "group": "Raccontare una sequenza",
+      "en": "While I was waiting, I answered some emails.",
+      "it": "Mentre aspettavo, ho risposto ad alcune mail."
+    },
+    {
+      "group": "Raccontare una sequenza",
+      "en": "After I had fixed the bug, I tested the page again.",
+      "it": "Dopo aver risolto il bug, ho testato di nuovo la pagina."
+    },
+    {
+      "group": "Raccontare una sequenza",
+      "en": "I've been working on this since this morning.",
+      "it": "Ci sto lavorando da stamattina."
+    }
+  ],
+  "dialogue": {
+    "title": "A project update",
+    "context": "Luca fa il punto sul sito di un cliente con Sarah, la project manager. Nella conversazione usano molti tempi verbali diversi.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Hi Luca. What are you working on at the moment?",
+        "it": "Ciao Luca. A che cosa stai lavorando al momento?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I'm fixing the accessibility issues on the client's website. I've been working on it since Monday.",
+        "it": "Sto risolvendo i problemi di accessibilità sul sito del cliente. Ci lavoro da lunedì."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "How many issues have you fixed so far?",
+        "it": "Quanti problemi hai risolto finora?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I've fixed about sixty. I found a serious problem yesterday while I was testing the checkout form.",
+        "it": "Ne ho risolti una sessantina. Ieri ho trovato un problema grave mentre testavo il modulo di pagamento."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "What was wrong?",
+        "it": "Che cosa non andava?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "The error messages were not read by the screen reader. The developer who built the form had forgotten the ARIA labels.",
+        "it": "I messaggi di errore non venivano letti dallo screen reader. Lo sviluppatore che ha costruito il modulo aveva dimenticato le etichette ARIA."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "I see. Have you told the client yet?",
+        "it": "Capisco. L'hai già detto al cliente?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Not yet. I'm going to call them this afternoon. I will send them a short report first.",
+        "it": "Non ancora. Li chiamerò oggi pomeriggio. Prima manderò loro un breve report."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Good. When will you finish everything?",
+        "it": "Bene. Quando finirai tutto?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "If nothing changes, I'll finish by Friday. I'm meeting the developers on Thursday to check the last fixes.",
+        "it": "Se non cambia nulla, finirò entro venerdì. Giovedì incontro gli sviluppatori per controllare le ultime correzioni."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Perfect. By the way, did you receive my email about the new budget?",
+        "it": "Perfetto. A proposito, hai ricevuto la mia mail sul nuovo budget?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, I got it this morning, but I haven't read it carefully yet.",
+        "it": "Sì, l'ho ricevuta stamattina, ma non l'ho ancora letta con attenzione."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "No problem. We need the final numbers when you have finished.",
+        "it": "Nessun problema. Ci servono i numeri finali quando avrai finito."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I'll prepare them as soon as I finish the audit. The client usually pays within thirty days, so we are safe.",
+        "it": "Li preparo appena finisco l'audit. Di solito il cliente paga entro trenta giorni, quindi siamo tranquilli."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "How long has Luca been working on the client's website?",
+      "options": [
+        "Since Monday",
+        "For a year",
+        "Since this morning"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What was Luca doing when he found the serious problem?",
+      "options": [
+        "He was writing a report",
+        "He was testing the checkout form",
+        "He was calling the client"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is Luca going to do this afternoon?",
+      "options": [
+        "Meet the developers",
+        "Call the client",
+        "Finish the audit"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When will Luca finish, if nothing changes?",
+      "options": [
+        "By Thursday",
+        "By Friday",
+        "By next month"
+      ],
+      "answer": 1
+    }
+  ],
+  "translations": [
+    {
+      "it": "Di solito lavoro da casa, ma oggi sono in ufficio.",
+      "en": "I usually work from home, but today I am in the office.",
+      "alt": [
+        "I usually work from home, but today I'm at the office.",
+        "Usually I work from home, but I am in the office today."
+      ]
+    },
+    {
+      "it": "Ti ho mandato il preventivo ieri.",
+      "en": "I sent you the quote yesterday.",
+      "alt": [
+        "I sent the quote to you yesterday.", "I sent you the estimate yesterday."
+      ]
+    },
+    {
+      "it": "Ho già mandato la fattura.",
+      "en": "I have already sent the invoice.",
+      "alt": [
+        "I've already sent the invoice.",
+        "I have sent the invoice already."
+      ]
+    },
+    {
+      "it": "Lavoriamo con questo cliente dal 2021.",
+      "en": "We have worked with this client since 2021.",
+      "alt": [
+        "We've worked with this client since 2021.",
+        "We have been working with this client since 2021."
+      ]
+    },
+    {
+      "it": "Stavo testando il modulo quando ho trovato un errore.",
+      "en": "I was testing the form when I found an error.",
+      "alt": [
+        "I was testing the form when I found a bug."
+      ]
+    },
+    {
+      "it": "Quando sono arrivato, la riunione era già iniziata.",
+      "en": "When I arrived, the meeting had already started.",
+      "alt": [
+        "When I got there, the meeting had already started.",
+        "By the time I arrived, the meeting had already started."
+      ]
+    },
+    {
+      "it": "Ti chiamo appena arrivo in ufficio.",
+      "en": "I will call you as soon as I get to the office.",
+      "alt": [
+        "I'll call you as soon as I arrive at the office.",
+        "I'll call you when I get to the office."
+      ]
+    },
+    {
+      "it": "Lanceremo il nuovo sito a giugno.",
+      "en": "We are going to launch the new site in June.",
+      "alt": [
+        "We're launching the new site in June.",
+        "We will launch the new site in June."
+      ]
+    },
+    {
+      "it": "Domani alle dieci incontro il cliente.",
+      "en": "I'm meeting the client at ten tomorrow.",
+      "alt": [
+        "I am meeting the client tomorrow at ten.",
+        "I'm going to meet the client at ten tomorrow."
+      ]
+    },
+    {
+      "it": "Non conosco ancora la risposta.",
+      "en": "I don't know the answer yet.",
+      "alt": [
+        "I do not know the answer yet.",
+        "I still don't know the answer."
+      ]
+    },
+    {
+      "it": "Aspetto la tua risposta da due giorni.",
+      "en": "I have been waiting for your reply for two days.",
+      "alt": [
+        "I've been waiting for your answer for two days.",
+        "I've been waiting for your reply for two days."
+      ]
+    },
+    {
+      "it": "Se mi mandi i file, comincio subito.",
+      "en": "If you send me the files, I will start right away.",
+      "alt": [
+        "If you send me the files, I'll start straight away.",
+        "If you send me the files, I'll start immediately."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail di aggiornamento al cliente sul progetto. Racconta che cosa hai fatto (past simple), che cosa hai già completato (present perfect), a che cosa stai lavorando ora (present continuous) e che cosa farai (will o going to). Chiudi con una domanda al cliente. Scrivi 6-8 righe.",
+    "taskEn": "Write a project update email to the client. Say what you did (past simple), what you have already completed (present perfect), what you are working on now (present continuous) and what you will do (will or going to). Close with a question to the client. Write 6-8 lines.",
+    "model": "Subject: Project update\n\nDear Mr Brown,\n\nI am writing to give you a short update on your website.\n\nLast week I finished the audit and sent you the report. Since then, I have fixed most of the critical issues. At the moment I am testing the checkout form with a screen reader.\n\nI am going to meet the developers on Thursday to check the last fixes. If everything goes well, I will send you the final report on Friday.\n\nWould you like a short call to go through the results?\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I usually work from home, but today I am in the office.",
+      "I sent you the file yesterday.",
+      "I have worked here for six years.",
+      "I have been testing the site since nine.",
+      "I was updating the plugin when the site crashed.",
+      "When I arrived, the meeting had already started.",
+      "I'll call you as soon as I arrive.",
+      "We are going to launch the new site in June."
+    ],
+    "prompts": [
+      {
+        "en": "What are you working on at the moment?",
+        "it": "A che cosa stai lavorando al momento?",
+        "help": "Usa il present continuous: I'm working on..."
+      },
+      {
+        "en": "Tell me what you did yesterday.",
+        "it": "Dimmi che cosa hai fatto ieri.",
+        "help": "Usa il past simple: I woke up, I went, I sent..."
+      },
+      {
+        "en": "How long have you been working in your current job?",
+        "it": "Da quanto tempo fai il tuo lavoro attuale?",
+        "help": "Usa: I've been working here for... / since..."
+      },
+      {
+        "en": "What happened the last time you had a problem with a client?",
+        "it": "Che cosa è successo l'ultima volta che hai avuto un problema con un cliente?",
+        "help": "Usa past simple e past continuous: I was... when..."
+      },
+      {
+        "en": "What are your plans for next week?",
+        "it": "Quali sono i tuoi programmi per la prossima settimana?",
+        "help": "Usa: I'm going to... / I'm meeting... / I'll probably..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: ripasso dei tempi",
+      "show": [
+        "Review of the tenses",
+        "Quando? Collegato a ora?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione quaranta. Oggi ripassiamo tutti i tempi verbali e impariamo a scegliere quello giusto."
+        },
+        {
+          "lang": "it",
+          "text": "Per scegliere ti servono due domande. Quando succede? E c'è un legame con il presente?"
+        }
+      ]
+    },
+    {
+      "title": "Presente: simple e continuous",
+      "show": [
+        "I work from home.",
+        "I am working from the office today.",
+        "NO: I am knowing"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il present simple è per abitudini e fatti. Il present continuous è per ciò che succede adesso. I verbi di stato come know non vogliono il continuous."
+        },
+        {
+          "lang": "en",
+          "text": "I usually work from home, but today I am working from the office."
+        }
+      ]
+    },
+    {
+      "title": "Past simple e present perfect",
+      "show": [
+        "I sent the file yesterday.",
+        "I have sent the file.",
+        "since / for / already / yet"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Con un momento preciso nel passato usi il past simple. Con un legame con ora usi il present perfect."
+        },
+        {
+          "lang": "en",
+          "text": "I sent the report yesterday. I have already sent the invoice."
+        },
+        {
+          "lang": "en",
+          "text": "We have worked together since 2022."
+        }
+      ]
+    },
+    {
+      "title": "Present perfect continuous",
+      "show": [
+        "have been + -ing",
+        "I have been working since nine."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per insistere sulla durata usa have been più il verbo in forma ing."
+        },
+        {
+          "lang": "en",
+          "text": "I have been testing the site since nine."
+        },
+        {
+          "lang": "en",
+          "text": "She has been waiting for an hour."
+        }
+      ]
+    },
+    {
+      "title": "Raccontare una storia: past continuous e past perfect",
+      "show": [
+        "was testing when...",
+        "had already started"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il past continuous descrive lo sfondo. Il past perfect indica ciò che è successo prima."
+        },
+        {
+          "lang": "en",
+          "text": "I was testing the form when I found a bug."
+        },
+        {
+          "lang": "en",
+          "text": "When I arrived, the meeting had already started."
+        }
+      ]
+    },
+    {
+      "title": "Il futuro: will, going to, present continuous",
+      "show": [
+        "I'll call you.",
+        "We are going to launch in June.",
+        "I'm meeting the client at ten."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Will è per decisioni al momento e previsioni. Going to per i piani. Il present continuous per gli appuntamenti già fissati."
+        },
+        {
+          "lang": "en",
+          "text": "I'll call you now. We are going to launch in June. I'm meeting the client on Friday."
+        }
+      ]
+    },
+    {
+      "title": "If e when con il futuro",
+      "show": [
+        "If you send, I will start.",
+        "NO: when I will arrive"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Dopo if e when, per parlare del futuro, si usa il present simple. Mai will."
+        },
+        {
+          "lang": "en",
+          "text": "I will call you when I arrive."
+        }
+      ]
+    },
+    {
+      "title": "Segnali di tempo",
+      "show": [
+        "yesterday, ago, last  →  past simple",
+        "for, since, already, yet  →  present perfect",
+        "now, at the moment  →  continuous"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Un trucco finale: cerca il segnale di tempo. Yesterday, ago e last portano al past simple. For, since, already e yet portano al present perfect."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Quando? + collegato a ora?",
+        "Segnali di tempo",
+        "Pratica ogni giorno"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Chiediti quando e se c'è un legame con ora. Poi controlla i segnali di tempo. Ora racconta ad alta voce che cosa hai fatto oggi, che cosa fai ora e che cosa farai domani."
+        }
+      ]
+    }
+  ]
+}

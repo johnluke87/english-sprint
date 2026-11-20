@@ -1,0 +1,330 @@
+{
+  "id": 13,
+  "week": 3,
+  "title": "Chiedere e offrire aiuto",
+  "titleEn": "Asking for and offering help",
+  "intro": "Oggi impari a chiedere una mano ai colleghi e a offrirla ai clienti, con il tono giusto. In inglese una richiesta troppo secca suona maleducata, e un'offerta confusa non viene capita. Con poche frasi sicure chiedi aiuto senza imbarazzo e ringrazi come si deve.",
+  "goals": [
+    "Chiedere un favore con Would you mind + -ing e Could you...?",
+    "Offrire aiuto con Shall I...? e Can I...?",
+    "Decidere sul momento con I'll... (promesse e offerte spontanee)",
+    "Accettare, rifiutare con garbo e ringraziare in modo naturale"
+  ],
+  "words": [
+    { "en": "to give someone a hand", "pron": "ghìv sàmuan a hànd", "it": "dare una mano a qualcuno", "type": "phrase", "ex": "Can you give me a hand with the staging server?", "exIt": "Puoi darmi una mano con il server di staging?" },
+    { "en": "to lend a hand", "pron": "lènd a hànd", "it": "dare una mano, aiutare", "type": "phrase", "ex": "Everyone lent a hand before the launch.", "exIt": "Tutti hanno dato una mano prima del lancio." },
+    { "en": "to help out", "pron": "hèlp àut", "it": "aiutare (in un momento di bisogno)", "type": "verb", "ex": "I can help out with the testing tomorrow.", "exIt": "Posso dare una mano con i test domani." },
+    { "en": "to assist", "pron": "asìst", "it": "assistere, aiutare (formale)", "type": "verb", "ex": "Our team will assist you during the migration.", "exIt": "Il nostro team vi assisterà durante la migrazione." },
+    { "en": "assistance", "pron": "asìstans", "it": "assistenza, aiuto", "type": "noun", "ex": "Thank you for your assistance with the audit.", "exIt": "Grazie per la sua assistenza con l'audit." },
+    { "en": "to fill in for", "pron": "fìl ìn fòr", "it": "sostituire temporaneamente", "type": "verb", "ex": "Can you fill in for me at the meeting?", "exIt": "Puoi sostituirmi alla riunione?" },
+    { "en": "favour", "pron": "fèivar", "it": "favore (americano: favor)", "type": "noun", "ex": "Could I ask you a favour?", "exIt": "Posso chiederti un favore?" },
+    { "en": "to owe", "pron": "òu", "it": "dovere (qualcosa a qualcuno)", "type": "verb", "ex": "I owe you a coffee for helping me yesterday.", "exIt": "Ti devo un caffè per l'aiuto di ieri." },
+    { "en": "to appreciate", "pron": "aprìscieit", "it": "apprezzare, essere grato per", "type": "verb", "ex": "I really appreciate your quick reply.", "exIt": "Apprezzo molto la tua risposta rapida." },
+    { "en": "grateful", "pron": "grèitful", "it": "grato, riconoscente", "type": "adj", "ex": "I'd be grateful if you could look at this today.", "exIt": "Ti sarei grato se potessi guardarlo oggi." },
+    { "en": "to thank", "pron": "tènk", "it": "ringraziare", "type": "verb", "ex": "I'd like to thank everyone who helped with the launch.", "exIt": "Vorrei ringraziare tutti quelli che hanno aiutato con il lancio." },
+    { "en": "helpful", "pron": "hèlpful", "it": "utile, disponibile", "type": "adj", "ex": "The support team was very helpful.", "exIt": "Il team di assistenza è stato molto disponibile." },
+    { "en": "generous", "pron": "gènerus", "it": "generoso", "type": "adj", "ex": "That's very generous of you, thank you.", "exIt": "È molto generoso da parte tua, grazie." },
+    { "en": "kind", "pron": "kàind", "it": "gentile", "type": "adj", "ex": "It's very kind of you to offer.", "exIt": "È molto gentile da parte tua offrirti." },
+    { "en": "to bail out", "pron": "bèil àut", "it": "tirare fuori dai guai", "type": "verb", "ex": "Thanks for bailing me out with the report.", "exIt": "Grazie per avermi tirato fuori dai guai con il report." },
+    { "en": "swamped", "pron": "suòmpt", "it": "sommerso di lavoro", "type": "adj", "ex": "I'm swamped this week with three launches.", "exIt": "Questa settimana sono sommerso con tre lanci." },
+    { "en": "stuck", "pron": "stàk", "it": "bloccato", "type": "adj", "ex": "I'm stuck on this bug. Do you have a minute?", "exIt": "Sono bloccato su questo bug. Hai un minuto?" },
+    { "en": "to be tied up", "pron": "bi tàid àp", "it": "essere preso, non avere un attimo libero", "type": "phrase", "ex": "I'm tied up until three. Can we talk after that?", "exIt": "Sono preso fino alle tre. Possiamo parlare dopo?" },
+    { "en": "to spare", "pron": "spèr", "it": "dedicare, concedere (tempo)", "type": "verb", "ex": "Can you spare ten minutes for a quick question?", "exIt": "Puoi dedicarmi dieci minuti per una domanda veloce?" },
+    { "en": "workload", "pron": "uèrklòud", "it": "carico di lavoro", "type": "noun", "ex": "My workload is very heavy this month.", "exIt": "Il mio carico di lavoro è molto pesante questo mese." },
+    { "en": "to free up", "pron": "frìi àp", "it": "liberare (tempo, risorse)", "type": "verb", "ex": "I can free up two hours on Thursday.", "exIt": "Posso liberare due ore giovedì." },
+    { "en": "to lighten the load", "pron": "làiten de lòud", "it": "alleggerire il carico di lavoro", "type": "phrase", "ex": "A new tool would lighten the load.", "exIt": "Un nuovo strumento alleggerirebbe il carico di lavoro." },
+    { "en": "to make time", "pron": "mèik tàim", "it": "trovare il tempo", "type": "phrase", "ex": "I'll make time to look at it today.", "exIt": "Troverò il tempo di guardarlo oggi." },
+    { "en": "to put in a good word", "pron": "pùt in a gùd uèrd", "it": "mettere una buona parola", "type": "phrase", "ex": "Could you put in a good word for me with the client?", "exIt": "Potresti mettere una buona parola per me con il cliente?" },
+    { "en": "to sort out", "pron": "sòrt àut", "it": "sistemare, risolvere", "type": "phrase", "ex": "Let me sort this out for you.", "exIt": "Lascia, lo sistemo io." },
+    { "en": "to look into", "pron": "lùk ìntu", "it": "indagare, verificare", "type": "phrase", "ex": "I'll look into it and get back to you.", "exIt": "Verifico e ti faccio sapere." },
+    { "en": "to cover for", "pron": "kàver for", "it": "sostituire, fare le veci di", "type": "phrase", "ex": "Could you cover for me on Friday? I have a dentist appointment.", "exIt": "Potresti sostituirmi venerdì? Ho un appuntamento dal dentista." },
+    { "en": "to step in", "pron": "stèp ìn", "it": "intervenire, farsi avanti", "type": "phrase", "ex": "Marco stepped in when the developer got sick.", "exIt": "Marco è intervenuto quando lo sviluppatore si è ammalato." },
+    { "en": "to pitch in", "pron": "pìcc ìn", "it": "contribuire, dare una mano al gruppo", "type": "phrase", "ex": "Everyone pitched in to finish the report on time.", "exIt": "Tutti hanno dato una mano per finire il report in tempo." },
+    { "en": "to offer", "pron": "òfer", "it": "offrire, proporsi", "type": "verb", "ex": "She offered to review my code.", "exIt": "Si è offerta di rivedere il mio codice." },
+    { "en": "to volunteer", "pron": "volantìer", "it": "offrirsi volontario", "type": "verb", "ex": "Nobody volunteered to write the documentation.", "exIt": "Nessuno si è offerto volontario per scrivere la documentazione." },
+    { "en": "to turn down", "pron": "tèrn dàun", "it": "rifiutare (un'offerta)", "type": "phrase", "ex": "He turned down my offer of help.", "exIt": "Ha rifiutato la mia offerta di aiuto." },
+    { "en": "to rely on", "pron": "rilài on", "it": "fare affidamento su", "type": "phrase", "ex": "Our clients rely on us to keep the site online.", "exIt": "I nostri clienti contano su di noi per tenere il sito online." },
+    { "en": "to count on", "pron": "kàunt on", "it": "contare su", "type": "phrase", "ex": "You can count on me for the presentation.", "exIt": "Puoi contare su di me per la presentazione." },
+    { "en": "to walk someone through", "pron": "uòok sàmuan trùu", "it": "guidare qualcuno passo passo", "type": "phrase", "ex": "I can walk you through the new admin panel.", "exIt": "Posso guidarti passo passo nel nuovo pannello di amministrazione." },
+    { "en": "guidance", "pron": "gàidans", "it": "indicazioni, orientamento", "type": "noun", "ex": "We need some guidance on how to fix these errors.", "exIt": "Ci servono indicazioni su come correggere questi errori." },
+    { "en": "advice", "pron": "advàis", "it": "consiglio, consigli (non numerabile)", "type": "noun", "ex": "Can I ask your advice about the hosting plan?", "exIt": "Posso chiederti un consiglio sul piano di hosting?" },
+    { "en": "a heads-up", "pron": "a hèdz àp", "it": "un avviso in anticipo", "type": "noun", "ex": "Thanks for the heads-up about the server downtime.", "exIt": "Grazie per l'avviso sul fermo del server." },
+    { "en": "to bother", "pron": "bòder", "it": "disturbare", "type": "verb", "ex": "Sorry to bother you, but do you have a second?", "exIt": "Scusa il disturbo, ma hai un secondo?" },
+    { "en": "trouble", "pron": "tràbol", "it": "fastidio, disturbo, guaio", "type": "noun", "ex": "Thanks for your help. I hope it wasn't too much trouble.", "exIt": "Grazie dell'aiuto. Spero di non averti disturbato troppo." },
+    { "en": "to mind", "pron": "màind", "it": "dispiacere, avere qualcosa in contrario", "type": "verb", "ex": "Do you mind if I open the window?", "exIt": "Ti dispiace se apro la finestra?" },
+    { "en": "to insist", "pron": "insìst", "it": "insistere", "type": "verb", "ex": "Let me pay for lunch. I insist.", "exIt": "Lascia che paghi io il pranzo. Insisto." },
+    { "en": "to lend", "pron": "lènd", "it": "prestare", "type": "verb", "ex": "Could you lend me your charger for an hour?", "exIt": "Potresti prestarmi il tuo caricabatterie per un'ora?" },
+    { "en": "to borrow", "pron": "bòrou", "it": "prendere in prestito", "type": "verb", "ex": "Can I borrow your laptop for the demo?", "exIt": "Posso prendere in prestito il tuo portatile per la demo?" },
+    { "en": "to return the favour", "pron": "ritèrn de fèivar", "it": "ricambiare il favore", "type": "phrase", "ex": "Thanks, I'll return the favour someday.", "exIt": "Grazie, un giorno ricambierò il favore." },
+    { "en": "to pass on", "pron": "pàas on", "it": "inoltrare, riferire", "type": "phrase", "ex": "I'll pass on your request to the design team.", "exIt": "Riferirò la tua richiesta al team di design." },
+    { "en": "to get back to", "pron": "ghèt bàk tu", "it": "ricontattare, rispondere più tardi a", "type": "phrase", "ex": "I'll get back to you by the end of the day.", "exIt": "Ti rispondo entro la fine della giornata." },
+    { "en": "willing", "pron": "uìling", "it": "disponibile, ben disposto", "type": "adj", "ex": "I'm willing to stay late if it helps.", "exIt": "Sono disposto a restare fino a tardi se serve." },
+    { "en": "no worries", "pron": "nòu uàriz", "it": "nessun problema, figurati", "type": "phrase", "ex": "No worries, take your time.", "exIt": "Nessun problema, fai con calma." },
+    { "en": "much appreciated", "pron": "màcc aprìscieitid", "it": "molto gradito, grazie mille", "type": "phrase", "ex": "Thanks for the quick fix. Much appreciated!", "exIt": "Grazie per la correzione rapida. Molto gradita!" }
+  ],
+  "falseFriends": [
+    { "en": "to assist", "it": "aiutare", "trap": "Non vuol dire 'assistere' a uno spettacolo. Per quello si dice to attend o to watch." },
+    { "en": "to attend", "it": "partecipare a", "trap": "Non vuol dire 'attendere' (aspettare). Aspettare si dice to wait." },
+    { "en": "advice", "it": "consiglio", "trap": "È non numerabile: non si dice 'an advice' né 'advices'. Si dice 'a piece of advice' o 'some advice'." }
+  ],
+  "grammar": {
+    "title": "Would you mind + -ing, Shall I...? e I'll...",
+    "explainIt": [
+      "Per chiedere un favore in modo educato usa Would you mind + verbo in -ing. Esempio: Would you mind checking this page? Letteralmente: Ti dispiacerebbe controllare questa pagina? Dopo mind il verbo prende sempre -ing, mai l'infinito.",
+      "Attenzione alla risposta. Mind vuol dire 'dispiacere, avere qualcosa in contrario': la domanda in pratica è 'ti dispiace?'. Quindi, se va bene, rispondi No, not at all oppure Of course not. Se dici Yes, I mind, vuol dire che ti dispiace e quindi rifiuti.",
+      "Per offrire aiuto ci sono due forme comuni. Shall I + verbo base: Shall I send you the file? (molto usata in inglese britannico). Can I + verbo base: Can I help you with that? (più diretta, si usa ovunque). Sono entrambe cortesi: scegli quella che ti suona più naturale.",
+      "Quando decidi di aiutare in quel preciso momento usa I'll + verbo base. Esempio: I'll send it now. I'll take care of it. Non usare il present simple e non dire I help you: la decisione spontanea vuole will. Se invece il piano era già deciso prima, usa be going to.",
+      "Per le richieste dirette hai anche Could you...? e Can you...?. Could you è più cortese. Aggiungi please e un po' di contesto: Could you send me the logo today, please? Con i colleghi che conosci bene va benissimo anche Can you give me a hand?"
+    ],
+    "explainEn": [
+      "To ask for a favour politely, use Would you mind + verb with -ing. For example: Would you mind checking this page? After mind, the verb always takes -ing, never the infinitive.",
+      "Be careful with the answer. Mind means 'to object' or 'to be bothered', so the question really means 'is it a problem for you?'. If you are happy to help, say No, not at all or Of course not. If you say Yes, I mind, you are refusing.",
+      "There are two common ways to offer help. Shall I + base verb: Shall I send you the file? (very common in British English). Can I + base verb: Can I help you with that? (more direct, used everywhere). Both are polite.",
+      "Use I'll + base verb when you decide to help at that exact moment. For example: I'll send it now. I'll take care of it. Do not use the present simple here: I help you is wrong. If the plan was already decided before, use be going to.",
+      "For direct requests you can also use Could you...? and Can you...?. Could you is more polite. Add please and some context: Could you send me the logo today, please? With close colleagues, Can you give me a hand? is fine."
+    ],
+    "rules": [
+      {
+        "it": "Would you mind + -ing serve per chiedere un favore con molta cortesia.",
+        "en": "Would you mind + -ing is a very polite way to ask for a favour.",
+        "form": "Would you mind + verbo-ing + ...?",
+        "examples": [
+          { "en": "Would you mind sending me the logo again?", "it": "Ti dispiacerebbe rimandarmi il logo?" },
+          { "en": "Would you mind helping me with this form?", "it": "Ti dispiacerebbe aiutarmi con questo modulo?" },
+          { "en": "Would you mind not sharing this link yet?", "it": "Ti dispiacerebbe non condividere ancora questo link?" }
+        ]
+      },
+      {
+        "it": "Per rispondere di sì a Would you mind...? si dice No, not at all, perché la domanda vuol dire 'ti dispiace?'.",
+        "en": "To say yes to Would you mind...?, answer No, not at all, because the question means 'is it a problem for you?'.",
+        "form": "No, not at all. / Of course not. / Sure, no problem.",
+        "examples": [
+          { "en": "Would you mind waiting a minute? - No, not at all.", "it": "Ti dispiace aspettare un minuto? - No, per niente." },
+          { "en": "Would you mind checking my code? - Of course not. Send it over.", "it": "Ti dispiace controllare il mio codice? - Certo che no. Mandamelo." }
+        ]
+      },
+      {
+        "it": "Shall I e Can I + verbo base servono per offrire aiuto. Shall si usa soprattutto con I e we.",
+        "en": "Shall I and Can I + base verb are used to offer help. Shall is mainly used with I and we.",
+        "form": "Shall I + verbo base? / Can I + verbo base?",
+        "examples": [
+          { "en": "Shall I book the meeting room?", "it": "Prenoto io la sala riunioni?" },
+          { "en": "Can I help you with the setup?", "it": "Posso aiutarti con la configurazione?" },
+          { "en": "Shall we start with the homepage?", "it": "Cominciamo dalla home page?" }
+        ]
+      },
+      {
+        "it": "I'll + verbo base si usa per un'offerta o una promessa decisa sul momento.",
+        "en": "I'll + base verb is used for an offer or a promise decided at the moment of speaking.",
+        "form": "I'll (I will) + verbo base",
+        "examples": [
+          { "en": "The printer is jammed. I'll call the technician.", "it": "La stampante è inceppata. Chiamo io il tecnico." },
+          { "en": "I'll send you the notes after the call.", "it": "Ti mando gli appunti dopo la chiamata." },
+          { "en": "I'll look into it right away.", "it": "Me ne occupo subito." }
+        ]
+      },
+      {
+        "it": "Could you...? e Can you...? sono richieste dirette. Could è più cortese. Con le persone che non conosci usa could e aggiungi please.",
+        "en": "Could you...? and Can you...? are direct requests. Could is more polite. With people you do not know, use could and add please.",
+        "form": "Could you + verbo base + please?",
+        "examples": [
+          { "en": "Could you send me the report by noon, please?", "it": "Potresti mandarmi il report entro mezzogiorno, per favore?" },
+          { "en": "Can you give me a hand with the migration?", "it": "Puoi darmi una mano con la migrazione?" }
+        ]
+      }
+    ],
+    "tip": "Pensa a Would you mind come a una porta cortese: dopo mind c'è sempre -ing. E ricorda il trucco della risposta: per dire sì, dici NO (No, not at all). Per le offerte, I'll è la parola magica: decidi e aiuti subito.",
+    "mistakes": [
+      { "wrong": "Would you mind to send me the file?", "right": "Would you mind sending me the file?", "why": "dopo mind si usa il gerundio -ing, mai to + infinito" },
+      { "wrong": "Do you mind to help me? - Yes, of course.", "right": "Do you mind helping me? - No, not at all.", "why": "Yes significa che ti dispiace; per accettare dì No, not at all" },
+      { "wrong": "Can I to help you?", "right": "Can I help you?", "why": "dopo can e shall il verbo è alla forma base, senza to" },
+      { "wrong": "Wait, I help you with that.", "right": "Wait, I'll help you with that.", "why": "per una decisione sul momento serve will, non il present simple" },
+      { "wrong": "Can you give me an advice?", "right": "Can you give me some advice?", "why": "advice non è numerabile: niente an e niente plurale" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "Would you mind ___ (open) the window?", "a": ["opening"], "hint": "dopo mind", "explain": "Dopo Would you mind si usa il verbo in -ing." },
+    { "q": "Would you mind ___ (check) these numbers for me?", "a": ["checking"], "hint": "dopo mind", "explain": "Would you mind + -ing." },
+    { "q": "Do you mind ___ (wait) a few minutes? - No, not at all.", "a": ["waiting"], "hint": "dopo mind", "explain": "Anche Do you mind si usa con -ing." },
+    { "q": "___ I send you the file now?", "a": ["shall", "can"], "hint": "offerta di aiuto con I", "explain": "Shall I e Can I servono per offrire aiuto." },
+    { "q": "___ we start with the homepage? (proposta: iniziamo?)", "a": ["shall"], "hint": "proposta con we", "explain": "Shall we... per proporre qualcosa insieme." },
+    { "q": "The phone is ringing. - I ___ get it.", "a": ["will", "'ll", "i'll"], "hint": "decisione sul momento", "explain": "Decisione spontanea → I'll + verbo base." },
+    { "q": "I forgot the password. - Don't worry, I ___ reset it for you.", "a": ["will", "'ll", "i'll"], "hint": "offerta spontanea", "explain": "Offerta fatta in quel momento → will." },
+    { "q": "Could you give me a hand? - Sure, I'd be ___ to help.", "a": ["happy", "glad", "pleased"], "hint": "contento", "explain": "I'd be happy/glad to help è una risposta cortese." },
+    { "q": "Can I ask your ___ about the contract? (consiglio, non numerabile)", "a": ["advice"], "hint": "non numerabile", "explain": "Advice non ha plurale e non vuole an." },
+    { "q": "Would you mind ___ (not / use) my desk for lunch?", "a": ["not using"], "hint": "forma negativa", "explain": "Negativo: mind + not + -ing." },
+    { "q": "Thanks for covering for me. I ___ you one.", "a": ["owe"], "hint": "ti devo un favore", "explain": "I owe you one = ti devo un favore." },
+    { "q": "Let me sort it out. It's ___ trouble at all.", "a": ["no"], "hint": "nessun disturbo", "explain": "It's no trouble (at all) = nessun disturbo." }
+  ],
+  "phrases": [
+    { "group": "Chiedere un favore", "en": "Could I ask you a favour?", "it": "Posso chiederti un favore?", "note": "apre bene qualsiasi richiesta" },
+    { "group": "Chiedere un favore", "en": "Would you mind taking a look at this?", "it": "Ti dispiacerebbe dare un'occhiata a questo?" },
+    { "group": "Chiedere un favore", "en": "Do you have a minute?", "it": "Hai un minuto?", "note": "informale, tra colleghi" },
+    { "group": "Chiedere un favore", "en": "I was wondering if you could help me with something.", "it": "Mi chiedevo se potessi aiutarmi con una cosa.", "note": "molto cortese, anche con i clienti" },
+    { "group": "Chiedere un favore", "en": "Sorry to bother you, but...", "it": "Scusa il disturbo, ma...", "note": "prima di interrompere qualcuno" },
+    { "group": "Offrire aiuto", "en": "Can I give you a hand?", "it": "Posso darti una mano?" },
+    { "group": "Offrire aiuto", "en": "Shall I take care of that?", "it": "Me ne occupo io?" },
+    { "group": "Offrire aiuto", "en": "Let me know if you need anything.", "it": "Fammi sapere se ti serve qualcosa." },
+    { "group": "Offrire aiuto", "en": "I'd be happy to help.", "it": "Lo faccio volentieri.", "note": "tono professionale e positivo" },
+    { "group": "Offrire aiuto", "en": "I can walk you through it, if you like.", "it": "Posso guidarti passo passo, se vuoi." },
+    { "group": "Accettare un aiuto", "en": "That would be great, thank you.", "it": "Sarebbe fantastico, grazie." },
+    { "group": "Accettare un aiuto", "en": "That's very kind of you.", "it": "È molto gentile da parte tua." },
+    { "group": "Accettare un aiuto", "en": "Yes, please. That would really help.", "it": "Sì, grazie. Mi aiuterebbe molto." },
+    { "group": "Rifiutare con garbo", "en": "Thanks, but I think I can manage.", "it": "Grazie, ma credo di farcela senza aiuto." },
+    { "group": "Rifiutare con garbo", "en": "That's very kind, but I'm all set.", "it": "Molto gentile, ma sono a posto così.", "note": "tipico americano" },
+    { "group": "Rifiutare con garbo", "en": "I'd love to help, but I'm swamped this week.", "it": "Mi piacerebbe aiutare, ma questa settimana sono sommerso.", "note": "rifiutare restando cordiale" },
+    { "group": "Rifiutare con garbo", "en": "I'm afraid I can't help with that right now.", "it": "Temo di non poter aiutare adesso.", "note": "I'm afraid ammorbidisce il no" },
+    { "group": "Ringraziare", "en": "Thanks a lot for your help.", "it": "Grazie mille per l'aiuto." },
+    { "group": "Ringraziare", "en": "I really appreciate it.", "it": "Grazie davvero, lo apprezzo molto." },
+    { "group": "Ringraziare", "en": "I owe you one.", "it": "Ti devo un favore.", "note": "informale" },
+    { "group": "Ringraziare", "en": "Thank you so much for your support.", "it": "Grazie di cuore per il supporto." },
+    { "group": "Rispondere ai ringraziamenti", "en": "No problem at all.", "it": "Nessun problema." },
+    { "group": "Rispondere ai ringraziamenti", "en": "My pleasure.", "it": "Con piacere.", "note": "elegante, per i clienti" },
+    { "group": "Rispondere ai ringraziamenti", "en": "Anytime.", "it": "Quando vuoi." },
+    { "group": "Rispondere ai ringraziamenti", "en": "Don't mention it.", "it": "Di niente." }
+  ],
+  "dialogue": {
+    "title": "A favour before the launch",
+    "context": "Luca sta preparando la messa online del sito di un cliente. È bloccato su un problema e chiede aiuto alla collega Sarah, che è molto impegnata ma trova il modo di aiutarlo.",
+    "lines": [
+      { "s": "A", "name": "Luca", "en": "Hi Sarah, sorry to bother you. Do you have a minute?", "it": "Ciao Sarah, scusa il disturbo. Hai un minuto?" },
+      { "s": "B", "name": "Sarah", "en": "I'm a bit swamped, but go ahead. What's up?", "it": "Sono un po' sommersa, ma dimmi pure. Che c'è?" },
+      { "s": "A", "name": "Luca", "en": "I'm stuck on the contact form. It works on my laptop, but not on the live server.", "it": "Sono bloccato sul modulo di contatto. Funziona sul mio portatile, ma non sul server online." },
+      { "s": "B", "name": "Sarah", "en": "Would you mind sending me the error message?", "it": "Ti dispiacerebbe mandarmi il messaggio di errore?" },
+      { "s": "A", "name": "Luca", "en": "No, not at all. I'll send it right now.", "it": "No, per niente. Te lo mando subito." },
+      { "s": "B", "name": "Sarah", "en": "Thanks. Shall I look at the server settings too?", "it": "Grazie. Guardo anche le impostazioni del server?" },
+      { "s": "A", "name": "Luca", "en": "That would be great. I really appreciate it.", "it": "Sarebbe perfetto. Grazie davvero." },
+      { "s": "B", "name": "Sarah", "en": "I think I see the problem. The mail settings are wrong.", "it": "Credo di aver capito il problema. Le impostazioni della posta sono sbagliate." },
+      { "s": "A", "name": "Luca", "en": "Really? Could you walk me through the fix?", "it": "Davvero? Potresti guidarmi nella correzione?" },
+      { "s": "B", "name": "Sarah", "en": "Sure. Actually, I'll sort it out myself. It will only take two minutes.", "it": "Certo. Anzi, la sistemo io. Ci vogliono solo due minuti." },
+      { "s": "A", "name": "Luca", "en": "That's very kind of you. I owe you one.", "it": "Sei molto gentile. Ti devo un favore." },
+      { "s": "B", "name": "Sarah", "en": "No worries. By the way, could you cover for me on Friday afternoon?", "it": "Figurati. A proposito, potresti sostituirmi venerdì pomeriggio?" },
+      { "s": "A", "name": "Luca", "en": "Of course. I'm happy to return the favour.", "it": "Certo. Sono felice di ricambiare il favore." },
+      { "s": "B", "name": "Sarah", "en": "Great. It's fixed now. You can go live.", "it": "Perfetto. È sistemato. Puoi mettere il sito online." },
+      { "s": "A", "name": "Luca", "en": "Thanks a lot. Much appreciated!", "it": "Grazie mille. Gentilissima!" }
+    ]
+  },
+  "listening": [
+    { "q": "What is Luca's problem?", "options": ["The contact form does not work on the live server", "He lost the password to the server", "The client does not like the design"], "answer": 0 },
+    { "q": "What does Sarah first ask Luca to send?", "options": ["The server password", "The error message", "A screenshot of the homepage"], "answer": 1 },
+    { "q": "Who finally fixes the mail settings?", "options": ["Luca, with Sarah's help", "The client", "Sarah"], "answer": 2 },
+    { "q": "What favour does Sarah ask in return?", "options": ["To cover for her on Friday afternoon", "To write the documentation", "To lend her a laptop"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Ti dispiacerebbe controllare questo link?", "en": "Would you mind checking this link?", "alt": ["Would you mind having a look at this link?", "Would you mind taking a look at this link?"] },
+    { "it": "Posso chiederti un favore?", "en": "Could I ask you a favour?", "alt": ["Can I ask you a favour?", "May I ask you a favour?"] },
+    { "it": "Ti mando io il file adesso.", "en": "I'll send you the file now.", "alt": ["I will send you the file now.", "I'll send the file to you now."] },
+    { "it": "Vuoi che ti dia una mano con la presentazione?", "en": "Shall I give you a hand with the presentation?", "alt": ["Do you want me to give you a hand with the presentation?", "Can I give you a hand with the presentation?"] },
+    { "it": "Sono sommerso di lavoro questa settimana.", "en": "I'm swamped this week.", "alt": ["I'm swamped with work this week.", "I have a very heavy workload this week."] },
+    { "it": "Grazie, apprezzo molto il tuo aiuto.", "en": "Thanks, I really appreciate your help.", "alt": ["Thank you, I really appreciate your help.", "Thanks, I appreciate your help a lot."] },
+    { "it": "Ti sarei grato se potessi guardarlo oggi.", "en": "I'd be grateful if you could look at it today.", "alt": ["I would be grateful if you could look at it today.", "I'd be grateful if you could take a look at it today."] },
+    { "it": "Mi occupo io del cliente, non preoccuparti.", "en": "I'll take care of the client, don't worry.", "alt": ["Don't worry, I'll take care of the client.", "I'll deal with the client, don't worry."] },
+    { "it": "Mi spiace, oggi non posso aiutarti.", "en": "I'm sorry, I can't help you today.", "alt": ["I'm afraid I can't help you today.", "Sorry, I'm not able to help you today."] },
+    { "it": "Puoi contare su di noi per il supporto.", "en": "You can count on us for support.", "alt": ["You can rely on us for support.", "You can count on our support."] },
+    { "it": "Posso guidarti passo passo, se vuoi.", "en": "I can walk you through it, if you like.", "alt": ["I can walk you through it if you want.", "I can guide you through it step by step, if you like."] },
+    { "it": "Ti devo un favore. Ti sono molto grato.", "en": "I owe you one. I'm very grateful.", "alt": ["I owe you a favour. I'm very grateful.", "I owe you one. I'm really grateful."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a un collega di un altro reparto. Devi chiedergli un favore: ti serve che controlli il testo alternativo delle immagini di un sito prima di venerdì. Usa Would you mind + -ing, spiega perché ti serve, offri qualcosa in cambio (per esempio il tuo aiuto la settimana dopo) e ringrazia. Scrivi 5-8 righe.",
+    "taskEn": "Write an email to a colleague in another department. Ask him for a favour: you need him to check the alt text of the images on a website before Friday. Use Would you mind + -ing, explain why you need it, offer something in return (for example your help next week) and say thank you. Write 5-8 lines.",
+    "model": "Subject: Quick favour before Friday\n\nHi Marco,\n\nI hope you're well. Could I ask you a favour?\n\nWould you mind checking the alt text of the images on the new client website? I need to send the accessibility report on Friday, and I'm a bit swamped with other tasks this week.\n\nIt shouldn't take more than twenty minutes. I can walk you through what to look for, if that helps.\n\nI'd be very grateful for your help, and I'm happy to return the favour next week.\n\nThanks a lot,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Would you mind checking this page for me?",
+      "Shall I send you the file now?",
+      "I'll take care of it, don't worry.",
+      "I'd be happy to help.",
+      "I'm swamped this week, but I can help on Friday.",
+      "That's very kind of you. I really appreciate it.",
+      "I owe you one.",
+      "No worries, anytime."
+    ],
+    "prompts": [
+      { "en": "Who helped you the last time you were stuck on a problem at work?", "it": "Chi ti ha aiutato l'ultima volta che non riuscivi a risolvere un problema al lavoro?", "help": "Inizia con: Last time, a colleague helped me with... / I was stuck on..." },
+      { "en": "How do you ask a colleague for a favour?", "it": "Come chiedi un favore a un collega?", "help": "Usa: I usually say... Would you mind...? / Could I ask you...?" },
+      { "en": "Offer to help a colleague who has too much work.", "it": "Offri aiuto a un collega che ha troppo lavoro.", "help": "Usa: Shall I...? / Can I give you a hand with...? / I'll take care of..." },
+      { "en": "How do you say no politely when you are too busy?", "it": "Come dici di no con garbo quando hai troppo da fare?", "help": "Usa: I'd love to, but... / I'm afraid I can't... / Maybe next week?" },
+      { "en": "Thank a client who has given you a lot of support.", "it": "Ringrazia un cliente che ti ha dato molto supporto.", "help": "Usa: I really appreciate... / Thank you so much for... / It was a pleasure." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: chiedere e offrire aiuto",
+      "show": ["Asking for and offering help", "Would you mind + -ing", "Shall I...? / I'll..."],
+      "say": [
+        { "lang": "it", "text": "Lezione tredici. Oggi impari a chiedere aiuto e a offrirlo, con il tono giusto. Al lavoro serve ogni giorno: con i colleghi, con i clienti, con i fornitori." },
+        { "lang": "en", "text": "Could I ask you a favour?" }
+      ]
+    },
+    {
+      "title": "Would you mind + -ing",
+      "show": ["Would you mind + verbo-ing?", "Would you mind checking this page?", "Mai: Would you mind to check"],
+      "say": [
+        { "lang": "it", "text": "Per chiedere un favore con molta cortesia usa Would you mind, e poi il verbo con ing. Dopo mind non si usa mai l'infinito con to." },
+        { "lang": "en", "text": "Would you mind checking this page?" },
+        { "lang": "en", "text": "Would you mind sending me the logo again?" }
+      ]
+    },
+    {
+      "title": "Attenzione alla risposta",
+      "show": ["Would you mind...?", "Sì, va bene: No, not at all", "Yes, I mind = rifiuto"],
+      "say": [
+        { "lang": "it", "text": "Attenzione al trucco. Mind vuol dire dispiacere, quindi la domanda è: ti dispiace? Se va bene, rispondi no. Se dici yes, stai rifiutando. Quindi: No, not at all, oppure Of course not." },
+        { "lang": "en", "text": "Would you mind waiting a minute? No, not at all." }
+      ]
+    },
+    {
+      "title": "Offrire aiuto: Shall I e Can I",
+      "show": ["Shall I + verbo base?", "Can I + verbo base?", "Shall I send you the file?"],
+      "say": [
+        { "lang": "it", "text": "Per offrire aiuto usa Shall I oppure Can I, seguiti dal verbo base, senza to. Shall I è molto britannico. Can I è più diretto." },
+        { "lang": "en", "text": "Shall I send you the file?" },
+        { "lang": "en", "text": "Can I help you with that?" }
+      ]
+    },
+    {
+      "title": "Decidere sul momento: I'll",
+      "show": ["I'll + verbo base", "The phone is ringing. I'll get it.", "Non: I help you"],
+      "say": [
+        { "lang": "it", "text": "Quando decidi di aiutare proprio adesso, usa I will, in forma corta I'll, più il verbo base. Non usare il presente semplice. È una decisione spontanea." },
+        { "lang": "en", "text": "I'll take care of it." },
+        { "lang": "en", "text": "I'll look into it right away." }
+      ]
+    },
+    {
+      "title": "Le richieste dirette",
+      "show": ["Could you...? più cortese", "Can you...? più informale", "Aggiungi please"],
+      "say": [
+        { "lang": "it", "text": "Per le richieste dirette puoi usare Could you oppure Can you. Could you è più cortese. Aggiungi sempre please, e un po' di contesto." },
+        { "lang": "en", "text": "Could you send me the report by noon, please?" }
+      ]
+    },
+    {
+      "title": "Espressioni chiave",
+      "show": ["Do you have a minute?", "I'd be happy to help.", "I owe you one.", "No worries. / My pleasure."],
+      "say": [
+        { "lang": "it", "text": "Ecco le frasi da portarti a casa. Per cominciare, chiedi se l'altra persona ha tempo. Per accettare o ringraziare, usa frasi calde e brevi." },
+        { "lang": "en", "text": "Do you have a minute?" },
+        { "lang": "en", "text": "I'd be happy to help." },
+        { "lang": "en", "text": "I really appreciate it. I owe you one." }
+      ]
+    },
+    {
+      "title": "Dire di no con garbo",
+      "show": ["I'd love to, but...", "I'm afraid I can't...", "Thanks, but I can manage."],
+      "say": [
+        { "lang": "it", "text": "A volte devi rifiutare. Non dire solo no. Usa I'd love to, but, oppure I'm afraid, e spiega il motivo. Il tono resta cordiale." },
+        { "lang": "en", "text": "I'd love to help, but I'm swamped this week." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Would you mind + -ing", "Shall I / Can I + verbo base", "I'll = decisione sul momento", "Ringrazia sempre"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Per chiedere: Would you mind, più ing. Per offrire: Shall I oppure Can I. Per decidere sul momento: I'll. E alla fine ringrazia sempre, con calore." },
+        { "lang": "en", "text": "Thanks a lot. Much appreciated!" }
+      ]
+    }
+  ]
+}

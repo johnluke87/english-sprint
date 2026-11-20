@@ -1,0 +1,1195 @@
+{
+  "id": 46,
+  "week": 10,
+  "title": "Pitch: convincere",
+  "titleEn": "Pitching",
+  "intro": "Oggi impari a presentare un'idea o un servizio in modo convincente: il problema, la soluzione, il valore e la richiesta finale. Impari anche a dare forza alle frasi con il do rafforzativo e con le frasi scisse, come 'What we need is...'.",
+  "goals": [
+    "Strutturare un pitch: problema, soluzione, valore, call to action",
+    "Parlare di vantaggi e risultati misurabili",
+    "Usare do, does e did per dare enfasi",
+    "Usare le frasi scisse: What we need is... / It is the speed that..."
+  ],
+  "words": [
+    {
+      "en": "to maximise",
+      "pron": "màksimaiz",
+      "it": "massimizzare",
+      "type": "verb",
+      "ex": "This plan will maximise your online sales.",
+      "exIt": "Questo piano massimizzerà le vendite online."
+    },
+    {
+      "en": "to accelerate",
+      "pron": "aksèlereit",
+      "it": "accelerare",
+      "type": "verb",
+      "ex": "Our tool accelerates the testing process.",
+      "exIt": "Il nostro strumento accelera il processo di test."
+    },
+    {
+      "en": "pain point",
+      "pron": "pèin pòint",
+      "it": "punto dolente, problema sentito dal cliente",
+      "type": "noun",
+      "ex": "Slow checkout is a big pain point for shops.",
+      "exIt": "Un checkout lento è un grosso punto dolente per i negozi."
+    },
+    {
+      "en": "to unlock",
+      "pron": "anlòk",
+      "it": "sbloccare, aprire",
+      "type": "verb",
+      "ex": "A faster site can unlock new customers.",
+      "exIt": "Un sito più veloce può aprire la strada a nuovi clienti."
+    },
+    {
+      "en": "solution",
+      "pron": "solùscen",
+      "it": "soluzione",
+      "type": "noun",
+      "ex": "Our solution works on any device.",
+      "exIt": "La nostra soluzione funziona su qualsiasi dispositivo."
+    },
+    {
+      "en": "to transform",
+      "pron": "transfòrm",
+      "it": "trasformare",
+      "type": "verb",
+      "ex": "We can transform your old site into a modern one.",
+      "exIt": "Possiamo trasformare il vecchio sito in uno moderno."
+    },
+    {
+      "en": "innovative",
+      "pron": "ìnoveitiv",
+      "it": "innovativo",
+      "type": "adj",
+      "ex": "This is an innovative way to manage bookings.",
+      "exIt": "È un modo innovativo di gestire le prenotazioni."
+    },
+    {
+      "en": "to solve",
+      "pron": "sòlv",
+      "it": "risolvere (un problema)",
+      "type": "verb",
+      "ex": "We solve the problem of slow pages.",
+      "exIt": "Risolviamo il problema delle pagine lente."
+    },
+    {
+      "en": "turnkey",
+      "pron": "tèrnkii",
+      "it": "chiavi in mano",
+      "type": "adj",
+      "ex": "We offer a turnkey solution, ready to use.",
+      "exIt": "Offriamo una soluzione chiavi in mano, pronta all'uso."
+    },
+    {
+      "en": "payoff",
+      "pron": "pèiof",
+      "it": "ritorno, risultato",
+      "type": "noun",
+      "ex": "The payoff is a site that sells more every month.",
+      "exIt": "Il risultato è un sito che vende di più ogni mese."
+    },
+    {
+      "en": "selling point",
+      "pron": "sèling pòint",
+      "it": "punto di forza commerciale",
+      "type": "noun",
+      "ex": "Speed is our main selling point.",
+      "exIt": "La velocità è il nostro principale punto di forza."
+    },
+    {
+      "en": "to reduce",
+      "pron": "ridiùs",
+      "it": "ridurre",
+      "type": "verb",
+      "ex": "This tool reduces the number of errors.",
+      "exIt": "Questo strumento riduce il numero di errori."
+    },
+    {
+      "en": "to appeal",
+      "pron": "apìil",
+      "it": "attirare, piacere",
+      "type": "verb",
+      "ex": "The new design appeals to younger customers.",
+      "exIt": "Il nuovo design piace ai clienti più giovani."
+    },
+    {
+      "en": "to impress",
+      "pron": "imprès",
+      "it": "fare colpo, colpire",
+      "type": "verb",
+      "ex": "I want to impress the investors with a short demo.",
+      "exIt": "Voglio fare colpo sugli investitori con una breve demo."
+    },
+    {
+      "en": "to resonate",
+      "pron": "rèzoneit",
+      "it": "fare presa, risuonare",
+      "type": "verb",
+      "ex": "Your message must resonate with the audience.",
+      "exIt": "Il messaggio deve fare presa sul pubblico."
+    },
+    {
+      "en": "to empower",
+      "pron": "impàuer",
+      "it": "dare autonomia a, mettere in grado di",
+      "type": "verb",
+      "ex": "We empower editors to update the site on their own.",
+      "exIt": "Mettiamo gli editor in grado di aggiornare il sito in autonomia."
+    },
+    {
+      "en": "seamless",
+      "pron": "sìimles",
+      "it": "fluido, senza interruzioni",
+      "type": "adj",
+      "ex": "We offer a seamless experience across all devices.",
+      "exIt": "Offriamo un'esperienza fluida su tutti i dispositivi."
+    },
+    {
+      "en": "scalable",
+      "pron": "skèilabol",
+      "it": "scalabile, che può crescere",
+      "type": "adj",
+      "ex": "The system is scalable for thousands of users.",
+      "exIt": "Il sistema è scalabile per migliaia di utenti."
+    },
+    {
+      "en": "to generate",
+      "pron": "gènereit",
+      "it": "generare",
+      "type": "verb",
+      "ex": "The new landing page generated fifty leads.",
+      "exIt": "La nuova pagina di destinazione ha generato cinquanta contatti."
+    },
+    {
+      "en": "quick win",
+      "pron": "kuìk uìn",
+      "it": "risultato rapido e facile",
+      "type": "noun",
+      "ex": "Fixing the page speed is a quick win.",
+      "exIt": "Sistemare la velocità della pagina è un risultato rapido e facile."
+    },
+    {
+      "en": "user-friendly",
+      "pron": "iùser frèndli",
+      "it": "facile da usare, intuitivo",
+      "type": "adj",
+      "ex": "The new admin panel is very user-friendly.",
+      "exIt": "Il nuovo pannello di amministrazione è molto intuitivo."
+    },
+    {
+      "en": "elevator pitch",
+      "pron": "èleveiter pìc",
+      "it": "presentazione lampo",
+      "type": "noun",
+      "ex": "Prepare a thirty-second elevator pitch.",
+      "exIt": "Prepara una presentazione lampo di trenta secondi."
+    },
+    {
+      "en": "tangible",
+      "pron": "tàndgibol",
+      "it": "tangibile, concreto",
+      "type": "adj",
+      "ex": "You will see tangible results in three months.",
+      "exIt": "Vedrai risultati concreti in tre mesi."
+    },
+    {
+      "en": "to win over",
+      "pron": "uìn òuver",
+      "it": "conquistare, convincere",
+      "type": "phrase",
+      "ex": "A clear demo helped us win over the client.",
+      "exIt": "Una demo chiara ci ha aiutato a conquistare il cliente."
+    },
+    {
+      "en": "proven",
+      "pron": "prùuven",
+      "it": "collaudato, dimostrato",
+      "type": "adj",
+      "ex": "It's a proven method used by many companies.",
+      "exIt": "È un metodo collaudato usato da molte aziende."
+    },
+    {
+      "en": "to pave the way",
+      "pron": "pèiv de uèi",
+      "it": "aprire la strada",
+      "type": "phrase",
+      "ex": "This pilot will pave the way for a larger project.",
+      "exIt": "Questo progetto pilota aprirà la strada a un progetto più grande."
+    },
+    {
+      "en": "case study",
+      "pron": "kèis stàdi",
+      "it": "caso di studio, esempio di cliente",
+      "type": "noun",
+      "ex": "I can send you a case study from a similar client.",
+      "exIt": "Posso mandarti un caso di studio di un cliente simile."
+    },
+    {
+      "en": "future-proof",
+      "pron": "fiùucer prùuf",
+      "it": "a prova di futuro",
+      "type": "adj",
+      "ex": "We build future-proof websites.",
+      "exIt": "Costruiamo siti a prova di futuro."
+    },
+    {
+      "en": "competitive edge",
+      "pron": "kompètitiv èdg",
+      "it": "vantaggio competitivo",
+      "type": "noun",
+      "ex": "A faster site gives you a competitive edge.",
+      "exIt": "Un sito più veloce ti dà un vantaggio competitivo."
+    },
+    {
+      "en": "market gap",
+      "pron": "màarket gàp",
+      "it": "vuoto di mercato, bisogno non coperto",
+      "type": "noun",
+      "ex": "We found a market gap for accessible templates.",
+      "exIt": "Abbiamo trovato un vuoto di mercato per i template accessibili."
+    },
+    {
+      "en": "opportunity",
+      "pron": "oportiùniti",
+      "it": "opportunità",
+      "type": "noun",
+      "ex": "This is a great opportunity to reach new customers.",
+      "exIt": "Questa è un'ottima opportunità per raggiungere nuovi clienti."
+    },
+    {
+      "en": "target audience",
+      "pron": "tàrghet òdiens",
+      "it": "pubblico di riferimento",
+      "type": "noun",
+      "ex": "Who is your target audience?",
+      "exIt": "Chi è il vostro pubblico di riferimento?"
+    },
+    {
+      "en": "unique selling point",
+      "pron": "iunìik sèling pòint",
+      "it": "punto di forza unico, elemento distintivo (USP)",
+      "type": "noun",
+      "ex": "Our unique selling point is free accessibility testing.",
+      "exIt": "Il nostro elemento distintivo sono i test di accessibilità gratuiti."
+    },
+    {
+      "en": "proposition",
+      "pron": "propozìscen",
+      "it": "proposta di valore, offerta",
+      "type": "noun",
+      "ex": "Our value proposition is simple: faster sites, more sales.",
+      "exIt": "La nostra proposta di valore è semplice: siti più veloci, più vendite."
+    },
+    {
+      "en": "vision",
+      "pron": "vìgen",
+      "it": "visione",
+      "type": "noun",
+      "ex": "Our vision is a web that works for everyone.",
+      "exIt": "La nostra visione è un web che funzioni per tutti."
+    },
+    {
+      "en": "pilot",
+      "pron": "pàilot",
+      "it": "progetto pilota, prova su piccola scala",
+      "type": "noun",
+      "ex": "We suggest a two-month pilot.",
+      "exIt": "Proponiamo un progetto pilota di due mesi."
+    },
+    {
+      "en": "trial",
+      "pron": "tràial",
+      "it": "prova, periodo di prova",
+      "type": "noun",
+      "ex": "Start with a free trial and see the results.",
+      "exIt": "Comincia con una prova gratuita e guarda i risultati."
+    },
+    {
+      "en": "hassle-free",
+      "pron": "hàsol frìi",
+      "it": "senza problemi, senza fastidi",
+      "type": "adj",
+      "ex": "We offer a hassle-free migration.",
+      "exIt": "Offriamo una migrazione senza fastidi."
+    },
+    {
+      "en": "next step",
+      "pron": "nèkst stèp",
+      "it": "prossimo passo",
+      "type": "noun",
+      "ex": "The next step is to schedule a demo.",
+      "exIt": "Il prossimo passo è fissare una demo."
+    },
+    {
+      "en": "to subscribe",
+      "pron": "sabskràib",
+      "it": "abbonarsi, iscriversi",
+      "type": "verb",
+      "ex": "Subscribe today and save thirty percent.",
+      "exIt": "Abbonati oggi e risparmia il trenta per cento."
+    },
+    {
+      "en": "investment",
+      "pron": "invèstment",
+      "it": "investimento",
+      "type": "noun",
+      "ex": "It's a small investment for a big result.",
+      "exIt": "È un piccolo investimento per un grande risultato."
+    },
+    {
+      "en": "to captivate",
+      "pron": "kàptiveit",
+      "it": "catturare l'attenzione, affascinare",
+      "type": "verb",
+      "ex": "A strong story can captivate the audience.",
+      "exIt": "Una storia forte può catturare l'attenzione del pubblico."
+    },
+    {
+      "en": "at stake",
+      "pron": "at stèik",
+      "it": "in gioco",
+      "type": "phrase",
+      "ex": "There is a lot at stake in this launch.",
+      "exIt": "C'è molto in gioco in questo lancio."
+    },
+    {
+      "en": "compelling",
+      "pron": "kompèling",
+      "it": "convincente, che attira",
+      "type": "adj",
+      "ex": "That is a compelling reason to act now.",
+      "exIt": "È un motivo convincente per agire adesso."
+    },
+    {
+      "en": "persuasive",
+      "pron": "persuèisiv",
+      "it": "persuasivo",
+      "type": "adj",
+      "ex": "You gave a very persuasive presentation.",
+      "exIt": "Hai fatto una presentazione molto persuasiva."
+    },
+    {
+      "en": "to inspire",
+      "pron": "inspàier",
+      "it": "ispirare",
+      "type": "verb",
+      "ex": "A good pitch should inspire trust.",
+      "exIt": "Una buona presentazione deve ispirare fiducia."
+    },
+    {
+      "en": "to persuade",
+      "pron": "persuèid",
+      "it": "persuadere (a fare qualcosa)",
+      "type": "verb",
+      "ex": "We persuaded the client to test the new design.",
+      "exIt": "Abbiamo convinto il cliente a testare il nuovo design."
+    },
+    {
+      "en": "to differentiate",
+      "pron": "diferènscieit",
+      "it": "distinguere, differenziare",
+      "type": "verb",
+      "ex": "Accessibility differentiates us from other agencies.",
+      "exIt": "L'accessibilità ci distingue da altre agenzie."
+    },
+    {
+      "en": "to pitch",
+      "pron": "pìc",
+      "it": "presentare un'idea per convincere",
+      "type": "verb",
+      "ex": "I'm pitching our new service to a client tomorrow.",
+      "exIt": "Domani presento il nostro nuovo servizio a un cliente."
+    },
+    {
+      "en": "bold",
+      "pron": "bòuld",
+      "it": "audace, deciso",
+      "type": "adj",
+      "ex": "We made a bold offer: results or your money back.",
+      "exIt": "Abbiamo fatto un'offerta audace: risultati o soldi indietro."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to convince",
+      "it": "convincere",
+      "trap": "Non è un vero falso amico, ma attenzione alla costruzione: convince someone that... (far credere), persuade someone to... (far fare). Oggi si sente spesso anche convince someone to..."
+    },
+    {
+      "en": "proposition",
+      "it": "proposta di valore",
+      "trap": "Non è solo 'proposizione' grammaticale: nel marketing è l'offerta di valore."
+    }
+  ],
+  "grammar": {
+    "title": "L'enfasi: do e does rafforzativi, frasi scisse",
+    "explainIt": [
+      "In un pitch devi dare forza a quello che dici. In inglese ci sono due modi semplici. Il primo è usare do, does o did prima del verbo base in una frase affermativa. Di solito non si fa: si dice 'We offer support'. Ma con l'enfasi si dice 'We do offer support', per dire 'davvero, lo offriamo'. Il do si pronuncia più forte.",
+      "Il do rafforzativo serve in tre casi: per contraddire un dubbio (We do have a backup), per insistere (I do think this is the best option) e per confermare con forza (It did work!). Con la terza persona singolare si usa does e il verbo resta senza s: She does know the system. Al passato si usa did: We did finish on time. Non dire 'We did finished'.",
+      "Il secondo modo sono le frasi scisse (cleft sentences). Si 'spezza' la frase in due parti per mettere in evidenza quello che conta. La forma con what: What we need is a faster site. What matters is the result. What I like about this plan is that it's simple. Dopo is, si può usare un nome, to più verbo base, oppure that più frase.",
+      "L'altra forma scissa usa it is o it was seguito dalla parte importante e da that o who. It is the speed that makes the difference. It was the client who suggested the change. Si usa per correggere o per sottolineare una cosa in particolare. In un pitch funziona benissimo: It's the results that matter.",
+      "Un consiglio: non esagerare. Se ogni frase ha l'enfasi, nessuna si distingue. Scegli due o tre punti chiave del tuo pitch e dai forza solo a quelli. E in un pitch parlato, alza la voce o fai una pausa prima della parte importante."
+    ],
+    "explainEn": [
+      "In a pitch you need to give strength to what you say. In English there are two simple ways. The first is to use do, does or did before the base verb in an affirmative sentence. Normally we don't do this: we say 'We offer support'. But with emphasis we say 'We do offer support', which means 'we really do offer it'. We stress the word do.",
+      "The emphatic do is used in three cases: to answer a doubt (We do have a backup), to insist (I do think this is the best option) and to confirm strongly (It did work!). With he, she and it we use does and the verb has no s: She does know the system. In the past we use did: We did finish on time. We never say 'We did finished'.",
+      "The second way is the cleft sentence. We 'split' the sentence into two parts to put the focus on what matters. The form with what: What we need is a faster site. What matters is the result. What I like about this plan is that it's simple. After is, we can use a noun, to plus the base verb, or that plus a clause.",
+      "The other cleft form uses it is or it was followed by the important part and that or who. It is the speed that makes the difference. It was the client who suggested the change. We use it to correct something or to underline one thing. In a pitch it works very well: It's the results that matter.",
+      "One piece of advice: do not overuse it. If every sentence has emphasis, nothing stands out. Choose two or three key points in your pitch and emphasise only those. And in a spoken pitch, raise your voice or pause just before the important part."
+    ],
+    "rules": [
+      {
+        "it": "Do, does, did + verbo base nelle frasi affermative per dare forza. Il verbo non prende né s né -ed.",
+        "en": "Do, does, did + base verb in affirmative sentences for emphasis. The verb takes no s and no -ed.",
+        "form": "do / does / did + verbo base",
+        "examples": [
+          {
+            "en": "We do offer free support for the first year.",
+            "it": "Offriamo davvero assistenza gratuita per il primo anno."
+          },
+          {
+            "en": "She does understand the problem.",
+            "it": "Lei il problema lo capisce davvero."
+          },
+          {
+            "en": "It did save us a lot of time!",
+            "it": "Ci ha fatto davvero risparmiare tanto tempo!"
+          }
+        ]
+      },
+      {
+        "it": "Si usa il do rafforzativo per rispondere a un dubbio o per insistere su un punto.",
+        "en": "We use emphatic do to answer a doubt or to insist on a point.",
+        "form": "I do think... / You do need...",
+        "examples": [
+          {
+            "en": "I do think this is the right option for you.",
+            "it": "Penso davvero che questa sia l'opzione giusta per te."
+          },
+          {
+            "en": "You do need a mobile version.",
+            "it": "Una versione mobile ti serve davvero."
+          }
+        ]
+      },
+      {
+        "it": "Frase scissa con What: What + soggetto + verbo + is + parte importante.",
+        "en": "Cleft sentence with What: What + subject + verb + is + the important part.",
+        "form": "What + S + V + is + nome / to + verbo / that + frase",
+        "examples": [
+          {
+            "en": "What we need is a faster website.",
+            "it": "Quello di cui abbiamo bisogno è un sito più veloce."
+          },
+          {
+            "en": "What matters is the result.",
+            "it": "Quello che conta è il risultato."
+          },
+          {
+            "en": "What I like most is that it's easy to use.",
+            "it": "Quello che mi piace di più è che è facile da usare."
+          }
+        ]
+      },
+      {
+        "it": "Frase scissa con It is / It was ... that: mette in evidenza una persona, una cosa o un tempo.",
+        "en": "Cleft sentence with It is / It was ... that: it puts the focus on a person, a thing or a time.",
+        "form": "It is / It was + parte importante + that / who + frase",
+        "examples": [
+          {
+            "en": "It is the speed that makes the difference.",
+            "it": "È la velocità che fa la differenza."
+          },
+          {
+            "en": "It was the client who asked for the change.",
+            "it": "È stato il cliente a chiedere la modifica."
+          },
+          {
+            "en": "It's not the price that worries them. It's the risk.",
+            "it": "Non è il prezzo che li preoccupa. È il rischio."
+          }
+        ]
+      }
+    ],
+    "tip": "Per l'enfasi parlata, il do va pronunciato più forte e più lungo: 'We DO offer support'. Per le frasi scisse, immagina di spezzare la frase in due e di mettere in primo piano solo la parte che vuoi fare ricordare. Usale due o tre volte in tutto il pitch, non di più.",
+    "mistakes": [
+      {
+        "wrong": "We do offered a free trial.",
+        "right": "We did offer a free trial.",
+        "why": "al passato si usa did, e dopo did il verbo va alla forma base"
+      },
+      {
+        "wrong": "She does knows the system.",
+        "right": "She does know the system.",
+        "why": "dopo does il verbo non prende la s"
+      },
+      {
+        "wrong": "What we need it is a faster site.",
+        "right": "What we need is a faster site.",
+        "why": "non si ripete il soggetto: 'what we need' è già il soggetto"
+      },
+      {
+        "wrong": "It is the speed what makes the difference.",
+        "right": "It is the speed that makes the difference.",
+        "why": "nella frase scissa con it is si usa that, non what"
+      },
+      {
+        "wrong": "The thing what we need is more time.",
+        "right": "What we need is more time.",
+        "why": "what vuol dire già 'quello che': non serve the thing davanti"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "We ___ offer free support. It's included in the price. (emphasis)",
+      "a": [
+        "do"
+      ],
+      "hint": "enfasi, soggetto we",
+      "explain": "Do rafforzativo: We do offer."
+    },
+    {
+      "q": "She ___ understand the problem. She just needs more time. (emphasis)",
+      "a": [
+        "does"
+      ],
+      "hint": "soggetto she",
+      "explain": "Does + verbo base, senza s."
+    },
+    {
+      "q": "I'm sure we ___ finish on time. We checked everything. (emphasis, past)",
+      "a": [
+        "did"
+      ],
+      "hint": "passato: did",
+      "explain": "Did + verbo base nel passato."
+    },
+    {
+      "q": "What we need ___ a faster site.",
+      "a": [
+        "is"
+      ],
+      "hint": "frase scissa con what",
+      "explain": "What we need is + nome."
+    },
+    {
+      "q": "What matters ___ the result, not the process. (is/are)",
+      "a": [
+        "is"
+      ],
+      "hint": "frase scissa",
+      "explain": "What matters is..."
+    },
+    {
+      "q": "It is the speed ___ makes the difference.",
+      "a": [
+        "that"
+      ],
+      "hint": "frase scissa con it",
+      "explain": "It is ... that + frase."
+    },
+    {
+      "q": "It was the client ___ asked for the change. (who/what)",
+      "a": [
+        "who",
+        "that"
+      ],
+      "hint": "persona",
+      "explain": "Con una persona: who (o that)."
+    },
+    {
+      "q": "What I like about this tool ___ that it's simple. (is/are)",
+      "a": [
+        "is"
+      ],
+      "hint": "frase scissa lunga",
+      "explain": "What I like ... is that + frase."
+    },
+    {
+      "q": "We do ___ a backup every night. (have/has/had)",
+      "a": [
+        "have"
+      ],
+      "hint": "dopo do il verbo base",
+      "explain": "Do + verbo base: have."
+    },
+    {
+      "q": "It's not the price ___ worries them. It's the risk. (that/what)",
+      "a": [
+        "that"
+      ],
+      "hint": "frase scissa",
+      "explain": "It's not ... that ..."
+    },
+    {
+      "q": "I do ___ that this is the best option. (think/thinking/thought)",
+      "a": [
+        "think"
+      ],
+      "hint": "verbo base dopo do",
+      "explain": "I do think."
+    },
+    {
+      "q": "What we offer ___ a full accessibility audit. (is/are)",
+      "a": [
+        "is"
+      ],
+      "hint": "frase scissa",
+      "explain": "What we offer is..."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Aprire un pitch",
+      "en": "Let me start with a question: how much time do you spend on this task?",
+      "it": "Comincio con una domanda: quanto tempo dedichi a questa attività?"
+    },
+    {
+      "group": "Aprire un pitch",
+      "en": "Imagine a website that works for everyone.",
+      "it": "Immagina un sito che funzioni per tutti."
+    },
+    {
+      "group": "Aprire un pitch",
+      "en": "Thank you for giving us the opportunity to present.",
+      "it": "Grazie per averci dato l'opportunità di presentare."
+    },
+    {
+      "group": "Aprire un pitch",
+      "en": "In the next ten minutes, I'll show you three things.",
+      "it": "Nei prossimi dieci minuti vi mostrerò tre cose."
+    },
+    {
+      "group": "Il problema",
+      "en": "Many shops lose customers because their checkout is slow.",
+      "it": "Molti negozi perdono clienti perché il checkout è lento."
+    },
+    {
+      "group": "Il problema",
+      "en": "The challenge is that most sites are not accessible.",
+      "it": "La sfida è che la maggior parte dei siti non è accessibile."
+    },
+    {
+      "group": "Il problema",
+      "en": "What worries our clients is the cost of mistakes.",
+      "it": "Quello che preoccupa i nostri clienti è il costo degli errori."
+    },
+    {
+      "group": "Il problema",
+      "en": "This is a problem that affects everyone.",
+      "it": "È un problema che riguarda tutti."
+    },
+    {
+      "group": "La soluzione",
+      "en": "That's where we come in.",
+      "it": "È qui che entriamo in gioco noi.",
+      "note": "frase tipica di un pitch"
+    },
+    {
+      "group": "La soluzione",
+      "en": "We do offer a complete solution.",
+      "it": "Offriamo davvero una soluzione completa."
+    },
+    {
+      "group": "La soluzione",
+      "en": "Our service solves this problem in three steps.",
+      "it": "Il nostro servizio risolve questo problema in tre passi."
+    },
+    {
+      "group": "La soluzione",
+      "en": "What makes us different is our focus on accessibility.",
+      "it": "Quello che ci rende diversi è l'attenzione all'accessibilità."
+    },
+    {
+      "group": "Il valore",
+      "en": "You will save time and reduce errors.",
+      "it": "Risparmierai tempo e ridurrai gli errori."
+    },
+    {
+      "group": "Il valore",
+      "en": "It's a small investment for a big return.",
+      "it": "È un piccolo investimento per un grande ritorno."
+    },
+    {
+      "group": "Il valore",
+      "en": "We have a proven track record in this field.",
+      "it": "Abbiamo una solida esperienza, con risultati dimostrati, in questo settore."
+    },
+    {
+      "group": "Il valore",
+      "en": "The results are measurable and visible within weeks.",
+      "it": "I risultati sono misurabili e visibili in poche settimane."
+    },
+    {
+      "group": "Il valore",
+      "en": "It's not about cost. It's about value.",
+      "it": "Non è una questione di costo. È una questione di valore."
+    },
+    {
+      "group": "Call to action",
+      "en": "The next step is a short demo.",
+      "it": "Il prossimo passo è una breve demo."
+    },
+    {
+      "group": "Call to action",
+      "en": "Why don't we start with a small pilot?",
+      "it": "Perché non cominciamo con un piccolo progetto pilota?"
+    },
+    {
+      "group": "Call to action",
+      "en": "Let's schedule a call for next week.",
+      "it": "Fissiamo una chiamata per la prossima settimana."
+    },
+    {
+      "group": "Call to action",
+      "en": "I'd love to hear your thoughts.",
+      "it": "Mi farebbe piacere sentire cosa ne pensi."
+    },
+    {
+      "group": "Call to action",
+      "en": "Shall we move forward?",
+      "it": "Andiamo avanti?"
+    },
+    {
+      "group": "Chiusura",
+      "en": "To sum up, we offer speed, quality and support.",
+      "it": "Riassumendo, offriamo velocità, qualità e assistenza."
+    },
+    {
+      "group": "Chiusura",
+      "en": "Thank you for your time. Any questions?",
+      "it": "Grazie del tempo. Domande?"
+    },
+    {
+      "group": "Chiusura",
+      "en": "The bottom line is simple: more customers, less stress.",
+      "it": "In sintesi è semplice: più clienti, meno stress."
+    }
+  ],
+  "dialogue": {
+    "title": "Pitching to a new client",
+    "context": "Luca presenta a Rachel, responsabile marketing di un negozio online, un servizio di rifacimento del sito con attenzione all'accessibilità. Rachel è interessata ma ancora un po' incerta.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thanks for meeting me, Rachel. Let me start with a question: how many customers leave your site before they buy?",
+        "it": "Grazie di avermi incontrato, Rachel. Comincio con una domanda: quanti clienti lasciano il vostro sito prima di comprare?"
+      },
+      {
+        "s": "B",
+        "name": "Rachel",
+        "en": "Quite a lot, actually. About seventy percent leave at the checkout.",
+        "it": "In realtà parecchi. Circa il settanta per cento se ne va al checkout."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "That's a big pain point. What I see is a slow page and a form that is hard to use.",
+        "it": "È un grosso punto dolente. Quello che vedo è una pagina lenta e un modulo difficile da usare."
+      },
+      {
+        "s": "B",
+        "name": "Rachel",
+        "en": "Yes, that's true. We do get complaints about the form.",
+        "it": "Sì, è vero. In effetti riceviamo lamentele sul modulo."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "That's where we come in. We rebuild the checkout so that it is fast, simple and accessible to everyone.",
+        "it": "È qui che entriamo in gioco noi. Ricostruiamo il checkout in modo che sia veloce, semplice e accessibile a tutti."
+      },
+      {
+        "s": "B",
+        "name": "Rachel",
+        "en": "Accessible? Is that really important for sales?",
+        "it": "Accessibile? È davvero importante per le vendite?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "It really is. Around one person in six has some kind of disability. It's these customers that most shops lose.",
+        "it": "Lo è davvero. Circa una persona su sei ha una qualche forma di disabilità. Sono proprio questi i clienti che la maggior parte dei negozi perde."
+      },
+      {
+        "s": "B",
+        "name": "Rachel",
+        "en": "I see. What kind of results can I expect?",
+        "it": "Capisco. Che tipo di risultati posso aspettarmi?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "We have a proven track record. In a similar case, we increased conversions by twenty percent in three months.",
+        "it": "Abbiamo risultati dimostrati. In un caso simile abbiamo aumentato le conversioni del venti per cento in tre mesi."
+      },
+      {
+        "s": "B",
+        "name": "Rachel",
+        "en": "That's impressive. But what is the cost?",
+        "it": "È impressionante. Ma quanto costa?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "It's a small investment for a big return. What matters is that the investment pays for itself within six months.",
+        "it": "È un piccolo investimento per un grande ritorno. Quello che conta è che l'investimento si ripaga in sei mesi."
+      },
+      {
+        "s": "B",
+        "name": "Rachel",
+        "en": "Okay. I'd like some time to discuss it with my team.",
+        "it": "Va bene. Vorrei un po' di tempo per discuterne con il mio team."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Of course. Why don't we start with a small pilot? Just one page, for free. You will see the difference.",
+        "it": "Certo. Perché non cominciamo con un piccolo progetto pilota? Solo una pagina, gratis. Vedrete la differenza."
+      },
+      {
+        "s": "B",
+        "name": "Rachel",
+        "en": "That sounds fair. Send me a short proposal and I'll reply by Friday.",
+        "it": "Mi sembra giusto. Mandami una breve proposta e ti rispondo entro venerdì."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Great. I'll send it this afternoon. Thank you for your time.",
+        "it": "Perfetto. Te la mando nel pomeriggio. Grazie del tempo."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What percentage of customers leave at the checkout?",
+      "options": [
+        "Twenty percent",
+        "Seventy percent",
+        "Fifty percent"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What did Luca's company achieve in a similar case?",
+      "options": [
+        "Doubled the traffic",
+        "Increased conversions by twenty percent",
+        "Reduced the costs by half"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does Luca propose as the next step?",
+      "options": [
+        "A free pilot on one page",
+        "A new contract",
+        "A full redesign"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When will Rachel reply?",
+      "options": [
+        "Today",
+        "By Friday",
+        "Next month"
+      ],
+      "answer": 1
+    }
+  ],
+  "translations": [
+    {
+      "it": "Offriamo davvero assistenza gratuita per il primo anno.",
+      "en": "We do offer free support for the first year.",
+      "alt": [
+        "We do offer free support during the first year."
+      ]
+    },
+    {
+      "it": "Penso davvero che sia l'opzione migliore.",
+      "en": "I do think it is the best option.",
+      "alt": [
+        "I do think it's the best option.",
+        "I really do think this is the best option."
+      ]
+    },
+    {
+      "it": "Quello di cui abbiamo bisogno è un sito più veloce.",
+      "en": "What we need is a faster website.",
+      "alt": [
+        "What we need is a faster site.",
+        "What we need is a quicker website."
+      ]
+    },
+    {
+      "it": "Quello che conta è il risultato.",
+      "en": "What matters is the result.",
+      "alt": [
+        "What matters is the outcome.",
+        "What's important is the result."
+      ]
+    },
+    {
+      "it": "È la velocità che fa la differenza.",
+      "en": "It is the speed that makes the difference.",
+      "alt": [
+        "It's the speed that makes the difference.",
+        "It's speed that makes the difference."
+      ]
+    },
+    {
+      "it": "È stato il cliente a proporre la modifica.",
+      "en": "It was the client who suggested the change.",
+      "alt": [
+        "It was the client that suggested the change.",
+        "It was the client who proposed the change."
+      ]
+    },
+    {
+      "it": "Il nostro servizio risolve questo problema in tre passi.",
+      "en": "Our service solves this problem in three steps.",
+      "alt": [
+        "Our service solves this problem in three simple steps."
+      ]
+    },
+    {
+      "it": "È un piccolo investimento per un grande ritorno.",
+      "en": "It is a small investment for a big return.",
+      "alt": [
+        "It's a small investment for a big return."
+      ]
+    },
+    {
+      "it": "Il prossimo passo è fissare una breve demo.",
+      "en": "The next step is to schedule a short demo.",
+      "alt": [
+        "The next step is to book a short demo.",
+        "The next step is a short demo."
+      ]
+    },
+    {
+      "it": "Perché non cominciamo con un progetto pilota?",
+      "en": "Why don't we start with a pilot?",
+      "alt": [
+        "Why don't we start with a pilot project?",
+        "Why not start with a pilot?"
+      ]
+    },
+    {
+      "it": "I risultati sono misurabili e visibili dopo poche settimane.",
+      "en": "The results are measurable and visible after a few weeks.",
+      "alt": [
+        "The results are measurable and visible within a few weeks.",
+        "The results are measurable and visible in a few weeks."
+      ]
+    },
+    {
+      "it": "Quello che ci rende diversi è l'attenzione all'accessibilità.",
+      "en": "What makes us different is our focus on accessibility.",
+      "alt": [
+        "What makes us different is our attention to accessibility.",
+        "What sets us apart is our focus on accessibility."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail di pitch a un potenziale cliente (un negozio online). Descrivi il suo problema (checkout lento, poco accessibile), presenta la tua soluzione, spiega il valore con un risultato misurabile e chiudi con una call to action (una demo o un piccolo pilota). Usa almeno un do rafforzativo e due frasi scisse.",
+    "taskEn": "Write a pitch email to a potential client (an online shop). Describe their problem (slow checkout, poor accessibility), present your solution, explain the value with a measurable result and close with a call to action (a demo or a small pilot). Use at least one emphatic do and two cleft sentences.",
+    "model": "Subject: A faster, more accessible checkout for your shop\n\nHi Rachel,\n\nThank you for meeting me yesterday. As promised, here is a short proposal.\n\nWhat worries you most is that seventy percent of customers leave at the checkout. It is the slow page and the complicated form that cause this problem. And many users with disabilities simply cannot complete the order.\n\nThat's where we come in. We rebuild the checkout so that it is fast, simple and accessible to everyone. We do offer a full accessibility audit, and we do provide support for the first year.\n\nWhat matters is the result. In a similar project, we increased conversions by twenty percent in three months. It's a small investment for a big return.\n\nThe next step is simple: why don't we start with a free pilot on one page? You will see the difference within two weeks.\n\nCould we schedule a short call this week?\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "What we need is a faster website.",
+      "We do offer free support for the first year.",
+      "It is the speed that makes the difference.",
+      "That's where we come in.",
+      "It's a small investment for a big return.",
+      "What matters is the result.",
+      "Why don't we start with a small pilot?",
+      "The bottom line is simple: more customers, less stress."
+    ],
+    "prompts": [
+      {
+        "en": "Pitch your service to a new client in thirty seconds.",
+        "it": "Presenta il tuo servizio a un nuovo cliente in trenta secondi.",
+        "help": "Struttura: problem, solution, value, call to action"
+      },
+      {
+        "en": "What is your unique selling point?",
+        "it": "Qual è il tuo punto di forza unico?",
+        "help": "Usa: What makes us different is... / It is our... that..."
+      },
+      {
+        "en": "What is the biggest pain point for your clients?",
+        "it": "Qual è il problema più sentito dai tuoi clienti?",
+        "help": "Usa: The biggest pain point is... / What worries them is..."
+      },
+      {
+        "en": "How do you measure the results of your work?",
+        "it": "Come misuri i risultati del tuo lavoro?",
+        "help": "Usa: We measure... / The results are measurable..."
+      },
+      {
+        "en": "Convince me to start a small pilot with you.",
+        "it": "Convincimi a cominciare un piccolo progetto pilota con te.",
+        "help": "Usa: We do offer... / The next step is..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: il pitch",
+      "show": [
+        "Pitch: convincere",
+        "Problema",
+        "Soluzione",
+        "Valore",
+        "Call to action"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi impari a convincere. Un buon pitch ha quattro parti: il problema, la soluzione, il valore e la richiesta finale. E ha frasi con forza. Vediamo come si fa in inglese."
+        },
+        {
+          "lang": "en",
+          "text": "Let me start with a question."
+        }
+      ]
+    },
+    {
+      "title": "Problema e soluzione",
+      "show": [
+        "pain point",
+        "challenge",
+        "solution",
+        "That's where we come in"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Prima descrivi il problema del cliente, il suo pain point. Poi presenta la soluzione. Una frase tipica è: that's where we come in, è qui che entriamo in gioco noi."
+        },
+        {
+          "lang": "en",
+          "text": "Many shops lose customers at the checkout. That's where we come in."
+        }
+      ]
+    },
+    {
+      "title": "Il do rafforzativo",
+      "show": [
+        "We offer support",
+        "We do offer support",
+        "do / does / did + verbo base"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il primo modo per dare enfasi è il do rafforzativo. Normalmente diciamo we offer support. Con l'enfasi diciamo we do offer support, cioè lo offriamo davvero. Il verbo dopo do resta alla forma base, senza s e senza ed."
+        },
+        {
+          "lang": "en",
+          "text": "We do offer free support. She does know the system. It did work."
+        }
+      ]
+    },
+    {
+      "title": "Quando usare il do rafforzativo",
+      "show": [
+        "rispondere a un dubbio",
+        "insistere",
+        "confermare"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lo usi per rispondere a un dubbio, per insistere su un punto, per confermare con forza. Nel parlato si pronuncia più forte la parola do. Non usarlo nelle frasi negative: lì c'è già do not."
+        },
+        {
+          "lang": "en",
+          "text": "I do think this is the best option for you."
+        }
+      ]
+    },
+    {
+      "title": "Frasi scisse con what",
+      "show": [
+        "What we need is...",
+        "What matters is...",
+        "What I like is that..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il secondo modo sono le frasi scisse. Si spezza la frase in due. Si comincia con what, poi il soggetto e il verbo, poi is, e infine la parte importante. In questo modo la parte importante arriva per ultima e resta in mente."
+        },
+        {
+          "lang": "en",
+          "text": "What we need is a faster website. What matters is the result."
+        }
+      ]
+    },
+    {
+      "title": "Frasi scisse con it is",
+      "show": [
+        "It is the speed that...",
+        "It was the client who..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Un'altra forma usa it is o it was. Si mette la parte importante tra it is e that, o who se è una persona. Serve per sottolineare una cosa in particolare."
+        },
+        {
+          "lang": "en",
+          "text": "It is the speed that makes the difference. It was the client who asked for the change."
+        }
+      ]
+    },
+    {
+      "title": "Il valore e la call to action",
+      "show": [
+        "measurable results",
+        "proven track record",
+        "The next step is...",
+        "Why don't we start with a pilot?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per mostrare il valore usa numeri e risultati misurabili. Poi chiudi con una call to action chiara: una demo, una chiamata, un piccolo progetto pilota."
+        },
+        {
+          "lang": "en",
+          "text": "We increased conversions by twenty percent. The next step is a short demo."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "problema, soluzione, valore, azione",
+        "do per l'enfasi",
+        "What... is / It is... that"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Un pitch ha un problema, una soluzione, un valore e una richiesta finale. Per dare forza usa do, does e did, oppure le frasi scisse con what e con it is. Ma non esagerare: due o tre frasi forti bastano."
+        },
+        {
+          "lang": "en",
+          "text": "Thank you for your time. Any questions?"
+        }
+      ]
+    }
+  ]
+}

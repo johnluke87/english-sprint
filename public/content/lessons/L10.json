@@ -1,0 +1,319 @@
+{
+  "id": 10,
+  "week": 2,
+  "title": "I verbi irregolari che servono davvero",
+  "titleEn": "The irregular verbs you really need",
+  "intro": "Oggi ripassi 50 verbi irregolari che usi di continuo al lavoro: send, write, make, take, build, pay e tanti altri. Per ogni verbo impari l'infinito, il passato e il participio passato. Poi impari a usarli bene nel past simple e nel present perfect, senza errori da principiante.",
+  "goals": [
+    "Conoscere infinito, passato e participio di 50 verbi irregolari",
+    "Riconoscere i gruppi di verbi che si comportano allo stesso modo",
+    "Usare il past simple e il present perfect con i verbi irregolari",
+    "Raccontare cosa hai fatto questa settimana al lavoro senza esitare"
+  ],
+  "words": [
+    { "en": "to be – was/were – been", "pron": "bìi", "it": "essere, stare", "type": "verb", "ex": "I was in a meeting when you called.", "exIt": "Ero in riunione quando hai chiamato." },
+    { "en": "to have – had – had", "pron": "hàv", "it": "avere", "type": "verb", "ex": "We had a problem with the server yesterday.", "exIt": "Ieri abbiamo avuto un problema con il server." },
+    { "en": "to do – did – done", "pron": "dù", "it": "fare", "type": "verb", "ex": "I've done all the tests, and everything works.", "exIt": "Ho fatto tutti i test e funziona tutto." },
+    { "en": "to go – went – gone", "pron": "gòu", "it": "andare", "type": "verb", "ex": "The site went live on Monday.", "exIt": "Il sito è andato online lunedì." },
+    { "en": "to get – got – got", "pron": "gèt", "it": "ottenere, ricevere, arrivare", "type": "verb", "ex": "I got your message this morning.", "exIt": "Ho ricevuto il tuo messaggio stamattina." },
+    { "en": "to make – made – made", "pron": "mèik", "it": "fare, creare", "type": "verb", "ex": "We made a few changes to the design.", "exIt": "Abbiamo fatto alcune modifiche al design." },
+    { "en": "to take – took – taken", "pron": "tèik", "it": "prendere, richiedere (tempo)", "type": "verb", "ex": "The update took about two hours.", "exIt": "L'aggiornamento ha richiesto circa due ore." },
+    { "en": "to give – gave – given", "pron": "ghìv", "it": "dare", "type": "verb", "ex": "She gave us very useful feedback.", "exIt": "Ci ha dato un riscontro molto utile." },
+    { "en": "to say – said – said", "pron": "sèi", "it": "dire", "type": "verb", "ex": "The client said he liked the new logo.", "exIt": "Il cliente ha detto che gli piaceva il nuovo logo." },
+    { "en": "to see – saw – seen", "pron": "sìi", "it": "vedere", "type": "verb", "ex": "I saw the error on the login page.", "exIt": "Ho visto l'errore nella pagina di accesso." },
+    { "en": "to know – knew – known", "pron": "nòu", "it": "sapere, conoscere", "type": "verb", "ex": "I didn't know the password had changed.", "exIt": "Non sapevo che la password fosse cambiata." },
+    { "en": "to think – thought – thought", "pron": "tìnk", "it": "pensare, ritenere", "type": "verb", "ex": "We thought it was a network problem.", "exIt": "Pensavamo fosse un problema di rete." },
+    { "en": "to tell – told – told", "pron": "tèl", "it": "dire a qualcuno, raccontare", "type": "verb", "ex": "I told Anna about the delay.", "exIt": "Ho detto ad Anna del ritardo." },
+    { "en": "to find – found – found", "pron": "fàind", "it": "trovare", "type": "verb", "ex": "We found the cause of the problem.", "exIt": "Abbiamo trovato la causa del problema." },
+    { "en": "to come – came – come", "pron": "kàm", "it": "venire", "type": "verb", "ex": "Most visitors came from search engines.", "exIt": "La maggior parte dei visitatori è arrivata dai motori di ricerca." },
+    { "en": "to put – put – put", "pron": "pùt", "it": "mettere", "type": "verb", "ex": "I put the files in the shared folder.", "exIt": "Ho messo i file nella cartella condivisa." },
+    { "en": "to send – sent – sent", "pron": "sènd", "it": "mandare, inviare", "type": "verb", "ex": "I've sent you the link by email.", "exIt": "Ti ho mandato il link per mail." },
+    { "en": "to write – wrote – written", "pron": "ràit", "it": "scrivere", "type": "verb", "ex": "She wrote the report on Friday.", "exIt": "Ha scritto il report venerdì." },
+    { "en": "to read – read – read", "pron": "rìid", "it": "leggere", "type": "verb", "ex": "I read the contract twice before I signed.", "exIt": "Ho letto il contratto due volte prima di firmare.", "note": "il passato si scrive uguale ma si pronuncia red" },
+    { "en": "to build – built – built", "pron": "bìld", "it": "costruire", "type": "verb", "ex": "We built the shop in six weeks.", "exIt": "Abbiamo costruito il negozio in sei settimane." },
+    { "en": "to buy – bought – bought", "pron": "bài", "it": "comprare", "type": "verb", "ex": "They bought a new domain for the project.", "exIt": "Hanno comprato un nuovo dominio per il progetto." },
+    { "en": "to pay – paid – paid", "pron": "pèi", "it": "pagare", "type": "verb", "ex": "The client paid the first instalment last week.", "exIt": "Il cliente ha pagato la prima rata la settimana scorsa." },
+    { "en": "to meet – met – met", "pron": "mìit", "it": "incontrare, conoscere", "type": "verb", "ex": "I met the new designer yesterday.", "exIt": "Ieri ho conosciuto la nuova grafica." },
+    { "en": "to lead – led – led", "pron": "lìid", "it": "guidare, dirigere", "type": "verb", "ex": "Anna led the project from the start.", "exIt": "Anna ha guidato il progetto fin dall'inizio." },
+    { "en": "to run – ran – run", "pron": "ràn", "it": "eseguire, far girare; gestire", "type": "verb", "ex": "I ran the tests again after the update.", "exIt": "Ho rilanciato i test dopo l'aggiornamento." },
+    { "en": "to keep – kept – kept", "pron": "kìip", "it": "tenere, mantenere", "type": "verb", "ex": "We kept all the old versions in the archive.", "exIt": "Abbiamo tenuto tutte le vecchie versioni nell'archivio." },
+    { "en": "to leave – left – left", "pron": "lìiv", "it": "lasciare, partire", "type": "verb", "ex": "I left the office at six.", "exIt": "Sono uscito dall'ufficio alle sei." },
+    { "en": "to bring – brought – brought", "pron": "brìng", "it": "portare", "type": "verb", "ex": "She brought her laptop to the meeting.", "exIt": "Ha portato il portatile alla riunione." },
+    { "en": "to begin – began – begun", "pron": "bighìn", "it": "iniziare", "type": "verb", "ex": "The audit began on Monday morning.", "exIt": "L'audit è iniziato lunedì mattina." },
+    { "en": "to hear – heard – heard", "pron": "hìer", "it": "sentire, venire a sapere", "type": "verb", "ex": "I heard that the client wants a new design.", "exIt": "Ho sentito dire che il cliente vuole un nuovo design." },
+    { "en": "to speak – spoke – spoken", "pron": "spìik", "it": "parlare", "type": "verb", "ex": "I spoke to the manager this morning.", "exIt": "Stamattina ho parlato con il responsabile." },
+    { "en": "to set – set – set", "pron": "sèt", "it": "impostare, fissare", "type": "verb", "ex": "I set the password to expire after 90 days.", "exIt": "Ho impostato la password in modo che scada dopo 90 giorni." },
+    { "en": "to become – became – become", "pron": "bikàm", "it": "diventare", "type": "verb", "ex": "The site became much faster after the update.", "exIt": "Il sito è diventato molto più veloce dopo l'aggiornamento." },
+    { "en": "to understand – understood – understood", "pron": "anderstànd", "it": "capire", "type": "verb", "ex": "I understood the problem after your explanation.", "exIt": "Ho capito il problema dopo la tua spiegazione." },
+    { "en": "to win – won – won", "pron": "uìn", "it": "vincere", "type": "verb", "ex": "We won the contract for the new website.", "exIt": "Abbiamo vinto l'appalto per il nuovo sito." },
+    { "en": "to lose – lost – lost", "pron": "lùuz", "it": "perdere", "type": "verb", "ex": "We lost two hours because of the power cut.", "exIt": "Abbiamo perso due ore a causa del blackout." },
+    { "en": "to spend – spent – spent", "pron": "spènd", "it": "spendere; passare (tempo)", "type": "verb", "ex": "I spent the whole morning fixing a small bug.", "exIt": "Ho passato tutta la mattina a risolvere un piccolo bug." },
+    { "en": "to sell – sold – sold", "pron": "sèl", "it": "vendere", "type": "verb", "ex": "The shop sold over a hundred items in the first week.", "exIt": "Il negozio ha venduto più di cento articoli nella prima settimana." },
+    { "en": "to teach – taught – taught", "pron": "tìic", "it": "insegnare", "type": "verb", "ex": "She taught the team how to use the new tool.", "exIt": "Ha insegnato al team come usare il nuovo strumento." },
+    { "en": "to choose – chose – chosen", "pron": "ciùuz", "it": "scegliere", "type": "verb", "ex": "The client has chosen the second design.", "exIt": "Il cliente ha scelto il secondo design." },
+    { "en": "to break – broke – broken", "pron": "brèik", "it": "rompere, danneggiare", "type": "verb", "ex": "The update broke the search function.", "exIt": "L'aggiornamento ha rotto la funzione di ricerca." },
+    { "en": "to grow – grew – grown", "pron": "gròu", "it": "crescere, far crescere", "type": "verb", "ex": "Traffic grew by 30 percent last year.", "exIt": "Il traffico è cresciuto del 30 per cento l'anno scorso." },
+    { "en": "to let – let – let", "pron": "lèt", "it": "lasciare, permettere", "type": "verb", "ex": "Let me know when you've seen it.", "exIt": "Fammi sapere quando l'hai visto.", "note": "to let me know = farmi sapere" },
+    { "en": "to cut – cut – cut", "pron": "kàt", "it": "tagliare, ridurre", "type": "verb", "ex": "We cut the loading time by half.", "exIt": "Abbiamo dimezzato il tempo di caricamento." },
+    { "en": "to feel – felt – felt", "pron": "fìil", "it": "sentire, sentirsi", "type": "verb", "ex": "I felt the design was too crowded.", "exIt": "Mi sembrava che il design fosse troppo affollato." },
+    { "en": "to forget – forgot – forgotten", "pron": "forghèt", "it": "dimenticare", "type": "verb", "ex": "I forgot to save the file, so I lost my changes.", "exIt": "Mi sono dimenticato di salvare il file, così ho perso le modifiche." },
+    { "en": "to mean – meant – meant", "pron": "mìin", "it": "significare, voler dire", "type": "verb", "ex": "What did you mean by 'accessible'?", "exIt": "Cosa intendevi con 'accessibile'?" },
+    { "en": "to catch – caught – caught", "pron": "kàc", "it": "prendere, cogliere, scoprire", "type": "verb", "ex": "The test caught the error before the launch.", "exIt": "Il test ha scoperto l'errore prima del lancio." },
+    { "en": "to stand – stood – stood", "pron": "stànd", "it": "stare in piedi, sopportare", "type": "verb", "ex": "I stood at the back of the room during the presentation.", "exIt": "Durante la presentazione sono rimasto in piedi in fondo alla sala." },
+    { "en": "to drive – drove – driven", "pron": "dràiv", "it": "guidare (un mezzo); trainare, portare risultati", "type": "verb", "ex": "The new campaign drove a lot of traffic to the site.", "exIt": "La nuova campagna ha portato molto traffico al sito." }
+  ],
+  "falseFriends": [
+    { "en": "to lose / loose", "it": "perdere / allentare", "trap": "Lose (perdere) ha una sola o: 'I lost the file'. Loose (allentato) è un aggettivo: 'a loose cable'. Si confondono spesso, anche per iscritto." },
+    { "en": "to lead / lead", "it": "guidare / piombo", "trap": "Il verbo to lead (lìid) ha il passato led (lèd). Il nome lead si pronuncia lèd quando vuol dire 'piombo'. Nel marketing invece a lead (lìid) è un cliente potenziale." },
+    { "en": "to say / to tell", "it": "dire", "trap": "Dopo tell serve la persona: 'tell me', 'tell him'. Dopo say no: 'say that...'. Non si dice 'He said me'." }
+  ],
+  "grammar": {
+    "title": "I verbi irregolari: gruppi, past simple e present perfect",
+    "explainIt": [
+      "I verbi regolari fanno passato e participio con -ed: work, worked, worked. I verbi irregolari no: ognuno ha una forma sua. Sono pochi, circa duecento, ma sono i più usati: i primi cinquanta coprono quasi tutto quello che dici al lavoro. Per ogni verbo servono tre forme: infinito, passato semplice (past simple) e participio passato (past participle).",
+      "Il passato semplice si usa per un fatto finito, in un momento preciso: 'I sent the file yesterday.' Il participio passato si usa con have per il present perfect: 'I have sent the file.' Con yesterday, last week, in 2023, ago si usa il past simple. Senza un momento preciso, o per un risultato che conta adesso, si usa il present perfect.",
+      "Per non impazzire, impara i verbi a gruppi. Gruppo uno: tre forme uguali, per esempio put, set, let, cut, read. Gruppo due: passato e participio uguali, per esempio send, sent, sent; build, built, built; keep, kept, kept; pay, paid, paid. Un sotto-gruppo molto utile finisce in -ght: buy, bought; bring, brought; think, thought; teach, taught; catch, caught. Gruppo tre: tre forme diverse, per esempio write, wrote, written; take, took, taken; give, gave, given; speak, spoke, spoken; break, broke, broken.",
+      "Nelle frasi negative e nelle domande al passato semplice, il verbo principale torna all'infinito, perché il passato lo porta did. 'I didn't send it.' Non 'I didn't sent it.' 'Did you write the report?' Non 'Did you wrote?' Questa regola vale per tutti i verbi, regolari e irregolari. Con was e were (il passato di be) invece non si usa did: 'Were you there?', 'I wasn't ready.'",
+      "Due coppie che si confondono: go ha due participi. Gone vuol dire 'andato e non è ancora tornato': 'She has gone to the client.' Been vuol dire 'è stato e ora è tornato': 'I've been to Milan.' Anche get ha il participio got in inglese britannico e gotten in quello americano. Infine, il verbo read si scrive uguale in tutte e tre le forme, ma al passato si pronuncia 'red'."
+    ],
+    "explainEn": [
+      "Regular verbs make the past and the past participle with -ed: work, worked, worked. Irregular verbs do not: each one has its own form. There are only about two hundred, but they are the most common ones. The first fifty cover almost everything you say at work. For each verb you need three forms: the base form, the past simple and the past participle.",
+      "We use the past simple for a finished action at a clear time: 'I sent the file yesterday.' We use the past participle with have for the present perfect: 'I have sent the file.' With yesterday, last week, in 2023 and ago, use the past simple. Without a clear time, or for a result that matters now, use the present perfect.",
+      "To learn them more easily, study the verbs in groups. Group one: three equal forms, for example put, set, let, cut, read. Group two: the past and the participle are the same, for example send, sent, sent; build, built, built; keep, kept, kept; pay, paid, paid. A very useful subgroup ends in -ght: buy, bought; bring, brought; think, thought; teach, taught; catch, caught. Group three: three different forms, for example write, wrote, written; take, took, taken; give, gave, given; speak, spoke, spoken; break, broke, broken.",
+      "In negative sentences and in questions in the past simple, the main verb goes back to the base form, because did carries the past. 'I didn't send it.' Not 'I didn't sent it.' 'Did you write the report?' Not 'Did you wrote?' This rule is true for all verbs, regular and irregular. With was and were, the past of be, we do not use did: 'Were you there?', 'I wasn't ready.'",
+      "Two pairs are easy to mix up. Go has two participles. Gone means 'went and has not come back': 'She has gone to the client.' Been means 'went and came back': 'I've been to Milan.' Get has the participle got in British English and gotten in American English. Finally, the verb read is spelled the same in all three forms, but the past is pronounced 'red'."
+    ],
+    "rules": [
+      {
+        "it": "Gruppo 1: tre forme uguali. Non cambiano mai. Il tempo si capisce dal contesto.",
+        "en": "Group 1: three equal forms. They never change. The context shows the tense.",
+        "form": "put – put – put; set – set – set; let – let – let; cut – cut – cut; read – read – read",
+        "examples": [
+          { "en": "I put the files in the folder yesterday.", "it": "Ieri ho messo i file nella cartella." },
+          { "en": "We cut the loading time by half.", "it": "Abbiamo dimezzato il tempo di caricamento." },
+          { "en": "I've read your proposal twice.", "it": "Ho letto la tua proposta due volte." }
+        ]
+      },
+      {
+        "it": "Gruppo 2: passato e participio sono uguali. Impara una forma sola per due.",
+        "en": "Group 2: the past and the participle are the same. Learn one form for two.",
+        "form": "send – sent – sent; build – built – built; keep – kept – kept; pay – paid – paid; buy – bought – bought",
+        "examples": [
+          { "en": "I sent the quote last week.", "it": "Ho mandato il preventivo la settimana scorsa." },
+          { "en": "I've sent the quote already.", "it": "Ho già mandato il preventivo." },
+          { "en": "She has bought a new laptop.", "it": "Ha comprato un nuovo portatile." }
+        ]
+      },
+      {
+        "it": "Gruppo 3: tre forme diverse. Sono quelle da studiare di più, soprattutto il participio.",
+        "en": "Group 3: three different forms. These need the most practice, especially the participle.",
+        "form": "write – wrote – written; take – took – taken; give – gave – given; break – broke – broken",
+        "examples": [
+          { "en": "She wrote the report on Monday.", "it": "Ha scritto il report lunedì." },
+          { "en": "She has written the report.", "it": "Ha scritto il report." },
+          { "en": "Who has taken my notes?", "it": "Chi ha preso i miei appunti?" }
+        ]
+      },
+      {
+        "it": "Past simple per un momento preciso nel passato; present perfect (have + participio) quando il tempo non è detto o il risultato conta ora.",
+        "en": "Past simple for a clear time in the past; present perfect (have + participle) when the time is not stated or the result matters now.",
+        "form": "past simple = forma 2; present perfect = have/has + forma 3",
+        "examples": [
+          { "en": "I went to the client's office yesterday.", "it": "Ieri sono andato nell'ufficio del cliente." },
+          { "en": "I have already read the report.", "it": "Ho già letto il report." },
+          { "en": "Have you seen the new design yet?", "it": "Hai già visto il nuovo design?" }
+        ]
+      },
+      {
+        "it": "Negativo e domanda al passato: did + infinito. Il verbo non si mette di nuovo al passato.",
+        "en": "Negative and question in the past: did + base form. The verb does not go into the past again.",
+        "form": "didn't + infinito; Did + soggetto + infinito?",
+        "examples": [
+          { "en": "I didn't send the file, because I forgot the password.", "it": "Non ho mandato il file perché mi ero dimenticato la password." },
+          { "en": "Did you write to the client?", "it": "Hai scritto al cliente?" },
+          { "en": "What did you say to him?", "it": "Cosa gli hai detto?" }
+        ]
+      }
+    ],
+    "tip": "Non studiare l'elenco in ordine alfabetico: impara tre verbi al giorno, a voce alta, sempre con una frase tua di lavoro. Ripeti le tre forme come una filastrocca: write, wrote, written. Se c'è have, serve la terza forma: I have written, non I have wrote.",
+    "mistakes": [
+      { "wrong": "I have sent it yesterday.", "right": "I sent it yesterday.", "why": "con yesterday si usa il past simple, non il present perfect" },
+      { "wrong": "I didn't sent the file.", "right": "I didn't send the file.", "why": "dopo didn't il verbo torna all'infinito" },
+      { "wrong": "She has wrote the report.", "right": "She has written the report.", "why": "con have serve il participio passato: written, non wrote" },
+      { "wrong": "I buyed a new laptop.", "right": "I bought a new laptop.", "why": "buy è irregolare: bought" },
+      { "wrong": "He has went to the client's office.", "right": "He has gone to the client's office.", "why": "il participio di go è gone, non went" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I ___ (send) the quote yesterday.", "a": ["sent"], "hint": "yesterday: past simple", "explain": "Send è irregolare: sent. Con yesterday si usa il past simple." },
+    { "q": "She has ___ (write) the report.", "a": ["written"], "hint": "have + participio", "explain": "Participio di write: written." },
+    { "q": "In 2024 we ___ (build) the whole site in six weeks.", "a": ["built"], "hint": "in 2024: past simple", "explain": "Build – built – built." },
+    { "q": "I didn't ___ (send) the file.", "a": ["send"], "hint": "dopo didn't", "explain": "Dopo didn't il verbo è all'infinito." },
+    { "q": "Have you ___ (see) the new design yet?", "a": ["seen"], "hint": "participio", "explain": "See – saw – seen." },
+    { "q": "Last week he ___ (take) three days to fix the bug.", "a": ["took"], "hint": "last week: past simple", "explain": "Take – took – taken." },
+    { "q": "They have ___ (buy) a new domain.", "a": ["bought"], "hint": "participio", "explain": "Buy – bought – bought." },
+    { "q": "I ___ (spend) the whole morning on this problem.", "a": ["spent", "have spent", "'ve spent"], "hint": "spend è irregolare", "explain": "Spend – spent – spent. Se la mattina è finita: spent; se è ancora mattina va bene anche have spent." },
+    { "q": "The update has ___ (break) the search function.", "a": ["broken"], "hint": "participio", "explain": "Break – broke – broken." },
+    { "q": "Did you ___ (tell) the client about the delay?", "a": ["tell"], "hint": "dopo did", "explain": "Dopo did serve l'infinito." },
+    { "q": "She has ___ (go) to the client's office. (non è ancora tornata)", "a": ["gone"], "hint": "gone o been?", "explain": "Gone = andata e non ancora tornata." },
+    { "q": "We ___ (win) the contract last month.", "a": ["won"], "hint": "past simple", "explain": "Win – won – won." }
+  ],
+  "phrases": [
+    { "group": "Make e do", "en": "Let's make a decision today.", "it": "Prendiamo una decisione oggi.", "note": "di solito si dice make a decision; take a decision si sente nell'inglese britannico più formale" },
+    { "group": "Make e do", "en": "I made a mistake in the invoice.", "it": "Ho fatto un errore nella fattura." },
+    { "group": "Make e do", "en": "Can you do me a favour?", "it": "Mi puoi fare un favore?" },
+    { "group": "Make e do", "en": "I've done my best, but it's not finished.", "it": "Ho fatto del mio meglio, ma non è finito." },
+    { "group": "Make e do", "en": "It doesn't make sense to me.", "it": "Per me non ha senso." },
+    { "group": "Take, give e get", "en": "It took me three hours to fix it.", "it": "Ci ho messo tre ore a risolverlo.", "note": "it takes me + tempo" },
+    { "group": "Take, give e get", "en": "Let's take a short break.", "it": "Facciamo una breve pausa." },
+    { "group": "Take, give e get", "en": "Can you give me some feedback?", "it": "Mi puoi dare un riscontro?" },
+    { "group": "Take, give e get", "en": "I'll get back to you tomorrow.", "it": "Ti ricontatto domani.", "note": "get back to = ricontattare" },
+    { "group": "Take, give e get", "en": "I got your message.", "it": "Ho ricevuto il tuo messaggio." },
+    { "group": "Comunicare e tenere i contatti", "en": "Let me know if you have any questions.", "it": "Fammi sapere se hai domande." },
+    { "group": "Comunicare e tenere i contatti", "en": "I'll keep you posted.", "it": "Ti tengo aggiornato." },
+    { "group": "Comunicare e tenere i contatti", "en": "Did you tell him about the delay?", "it": "Gli hai detto del ritardo?" },
+    { "group": "Comunicare e tenere i contatti", "en": "I spoke to the client this morning.", "it": "Ho parlato con il cliente stamattina." },
+    { "group": "Comunicare e tenere i contatti", "en": "I heard the launch was a success.", "it": "Ho sentito che il lancio è stato un successo." },
+    { "group": "Fatti e risultati", "en": "We built it from scratch.", "it": "L'abbiamo costruito da zero." },
+    { "group": "Fatti e risultati", "en": "We won the contract.", "it": "Abbiamo vinto l'appalto." },
+    { "group": "Fatti e risultati", "en": "The company grew very fast last year.", "it": "L'azienda è cresciuta molto in fretta l'anno scorso." },
+    { "group": "Fatti e risultati", "en": "We lost a lot of time because of that bug.", "it": "Abbiamo perso molto tempo a causa di quel bug." },
+    { "group": "Fatti e risultati", "en": "We cut costs by ten percent.", "it": "Abbiamo ridotto i costi del dieci per cento." },
+    { "group": "Raccontare la settimana", "en": "I began the week with a long meeting.", "it": "Ho iniziato la settimana con una lunga riunione." },
+    { "group": "Raccontare la settimana", "en": "I spent most of Tuesday on the audit.", "it": "Ho passato quasi tutto martedì sull'audit." },
+    { "group": "Raccontare la settimana", "en": "I forgot to attach the file, sorry.", "it": "Mi sono dimenticato di allegare il file, scusa." },
+    { "group": "Raccontare la settimana", "en": "I left the office early on Thursday.", "it": "Giovedì sono uscito presto dall'ufficio." },
+    { "group": "Raccontare la settimana", "en": "I didn't understand the question, so I asked again.", "it": "Non ho capito la domanda, così ho chiesto di nuovo." }
+  ],
+  "dialogue": {
+    "title": "What did you do this week?",
+    "context": "Il venerdì pomeriggio Luca e la collega Giulia si raccontano com'è andata la settimana di lavoro, usando molti verbi irregolari.",
+    "lines": [
+      { "s": "A", "name": "Giulia", "en": "Hi Luca, how was your week?", "it": "Ciao Luca, com'è andata la settimana?" },
+      { "s": "B", "name": "Luca", "en": "Busy! I began on Monday with a long meeting, and I spent most of Tuesday on the audit.", "it": "Piena! Ho iniziato lunedì con una lunga riunione e ho passato quasi tutto martedì sull'audit." },
+      { "s": "A", "name": "Giulia", "en": "Did you find anything serious?", "it": "Hai trovato qualcosa di grave?" },
+      { "s": "B", "name": "Luca", "en": "Yes. I found four big problems, and I wrote them all down in the report.", "it": "Sì. Ho trovato quattro problemi grossi e li ho scritti tutti nel report." },
+      { "s": "A", "name": "Giulia", "en": "Have you sent it to the client yet?", "it": "L'hai già mandato al cliente?" },
+      { "s": "B", "name": "Luca", "en": "Not yet. I forgot to add the screenshots, so I'm doing that now. I'll send it today.", "it": "Non ancora. Mi sono dimenticato di aggiungere gli screenshot, quindi lo sto facendo adesso. Lo mando oggi." },
+      { "s": "A", "name": "Giulia", "en": "Good. I spoke to them on Wednesday, and they said they wanted a quote for the repairs.", "it": "Bene. Ho parlato con loro mercoledì e hanno detto che volevano un preventivo per le correzioni." },
+      { "s": "B", "name": "Luca", "en": "Great. Did they tell you the budget?", "it": "Ottimo. Ti hanno detto il budget?" },
+      { "s": "A", "name": "Giulia", "en": "No, they didn't say. I don't think it's very big, because they've already spent a lot on the redesign.", "it": "No, non l'hanno detto. Penso non sia grande, perché hanno già speso molto per il rinnovo grafico." },
+      { "s": "B", "name": "Luca", "en": "I see. By the way, I heard you won the contract with the hotel.", "it": "Capisco. A proposito, ho sentito che hai vinto l'appalto con l'hotel." },
+      { "s": "A", "name": "Giulia", "en": "Yes! We built the first version in two weeks, and the owner chose our design.", "it": "Sì! Abbiamo costruito la prima versione in due settimane e il proprietario ha scelto il nostro design." },
+      { "s": "B", "name": "Luca", "en": "Congratulations. Did you lose any time because of the new tool?", "it": "Complimenti. Avete perso tempo con il nuovo strumento?" },
+      { "s": "A", "name": "Giulia", "en": "A little. It took us a day to understand how it works, but Marco taught us the shortcuts.", "it": "Un po'. Ci è voluto un giorno per capire come funziona, ma Marco ci ha insegnato le scorciatoie." },
+      { "s": "B", "name": "Luca", "en": "Nice. Let me know if you need help next week.", "it": "Bene. Fammi sapere se ti serve una mano la settimana prossima." },
+      { "s": "A", "name": "Giulia", "en": "Thanks, I will. Have a good weekend!", "it": "Grazie, lo farò. Buon fine settimana!" }
+    ]
+  },
+  "listening": [
+    { "q": "What did Luca do on Tuesday?", "options": ["He spent most of the day on the audit", "He had a long meeting", "He went to the client's office"], "answer": 0 },
+    { "q": "Why hasn't Luca sent the report yet?", "options": ["He lost the file", "He forgot to add the screenshots", "The client didn't answer"], "answer": 1 },
+    { "q": "What did the client want?", "options": ["A new logo", "A quote for the repairs", "A phone call"], "answer": 1 },
+    { "q": "Who taught the team the shortcuts?", "options": ["Marco", "Luca", "The client"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Ho mandato il preventivo ieri.", "en": "I sent the quote yesterday.", "alt": ["I sent you the quote yesterday."] },
+    { "it": "Ha già scritto il report?", "en": "Has she already written the report?", "alt": ["Has she written the report yet?", "Did she write the report already?"] },
+    { "it": "Abbiamo costruito il sito in sei settimane.", "en": "We built the website in six weeks.", "alt": ["We built the site in six weeks."] },
+    { "it": "Non ho capito la domanda.", "en": "I didn't understand the question.", "alt": ["I did not understand the question."] },
+    { "it": "Il cliente ha scelto il secondo design.", "en": "The client chose the second design.", "alt": ["The client has chosen the second design."] },
+    { "it": "Ci ho messo tre ore a trovare l'errore.", "en": "It took me three hours to find the error.", "alt": ["It took me three hours to find the bug."] },
+    { "it": "Mi sono dimenticato di salvare il file.", "en": "I forgot to save the file.", "alt": ["I forgot to save the document."] },
+    { "it": "L'aggiornamento ha rotto il modulo di contatto.", "en": "The update broke the contact form.", "alt": ["The update has broken the contact form."] },
+    { "it": "Ieri ho parlato con il responsabile.", "en": "I spoke to the manager yesterday.", "alt": ["I spoke with the manager yesterday.", "Yesterday I spoke to the manager."] },
+    { "it": "Abbiamo perso due ore a causa del problema.", "en": "We lost two hours because of the problem.", "alt": ["We lost two hours due to the problem."] },
+    { "it": "Hai già visto la nuova versione?", "en": "Have you seen the new version yet?", "alt": ["Have you already seen the new version?"] },
+    { "it": "Ho sentito che avete vinto il contratto.", "en": "I heard that you won the contract.", "alt": ["I heard you won the contract."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una breve mail al tuo responsabile con il resoconto della settimana. Usa almeno otto verbi irregolari al past simple o al present perfect (per esempio begin, write, send, find, spend, take, meet, speak, build, forget). Racconta cosa hai fatto, cosa hai trovato, cosa non hai ancora finito e cosa farai la settimana prossima. Chiudi con una frase gentile.",
+    "taskEn": "Write a short email to your manager with a summary of your week. Use at least eight irregular verbs in the past simple or the present perfect (for example begin, write, send, find, spend, take, meet, speak, build, forget). Say what you did, what you found, what you have not finished yet and what you will do next week. Finish with a polite sentence.",
+    "model": "Subject: Weekly update\n\nHi Paolo,\n\nHere is a quick summary of my week.\n\nI began on Monday by meeting the client about the new shop. On Tuesday and Wednesday I spent most of my time on the accessibility audit. I found four serious problems, and I wrote them all in the report. I haven't sent the report yet, because I forgot to add the screenshots. I'll send it tomorrow morning.\n\nI also spoke to the designer, and we chose the final colours. The first version of the homepage is ready: we built it in two days.\n\nNext week I'm going to fix the contact form and run the final tests.\n\nLet me know if you'd like to talk about anything.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I sent the quote yesterday, and I've already written the report.",
+      "We built the whole site in six weeks.",
+      "I spent the whole morning on one small bug.",
+      "She has chosen the second design.",
+      "I didn't understand the question, so I asked again.",
+      "It took me three hours to find the error.",
+      "I forgot to save the file, so I lost my changes.",
+      "Let me know if you have any questions."
+    ],
+    "prompts": [
+      { "en": "What did you do last weekend?", "it": "Cosa hai fatto lo scorso fine settimana?", "help": "Usa: I went... I met... I bought... I spent..." },
+      { "en": "What have you done today at work?", "it": "Cosa hai fatto oggi al lavoro?", "help": "Usa il present perfect: I've written... I've sent..." },
+      { "en": "Tell me about the last big project you finished.", "it": "Raccontami l'ultimo grande progetto che hai finito.", "help": "Usa: We began... We built... I found... We won..." },
+      { "en": "Describe a mistake you made at work, and what you learned.", "it": "Descrivi un errore che hai fatto al lavoro e cosa hai imparato.", "help": "Usa: I forgot... I lost... I broke... I understood..." },
+      { "en": "Did you speak English yesterday? When, and with whom?", "it": "Hai parlato inglese ieri? Quando e con chi?", "help": "Usa: I spoke to... I didn't speak... I told..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: i 50 verbi irregolari",
+      "show": ["The irregular verbs you really need", "50 verbi, 3 forme ciascuno"],
+      "say": [
+        { "lang": "it", "text": "Oggi ripassi cinquanta verbi irregolari. Sono i più usati al lavoro. Per ognuno impari tre forme: infinito, passato e participio passato." },
+        { "lang": "en", "text": "send, sent, sent. write, wrote, written." }
+      ]
+    },
+    {
+      "title": "Past simple e present perfect",
+      "show": ["Past simple: forma 2", "Present perfect: have + forma 3", "yesterday = past simple"],
+      "say": [
+        { "lang": "it", "text": "Il passato semplice usa la seconda forma, per un momento preciso. Il present perfect usa have più il participio. Con yesterday si usa sempre il passato semplice." },
+        { "lang": "en", "text": "I sent the file yesterday. I have sent the file." }
+      ]
+    },
+    {
+      "title": "Gruppo 1: tre forme uguali",
+      "show": ["put – put – put", "set – set – set", "let – let – let", "cut – cut – cut", "read – read – read"],
+      "say": [
+        { "lang": "it", "text": "Il primo gruppo è il più facile. Le tre forme sono uguali. Ricorda solo che read, al passato, si pronuncia red." },
+        { "lang": "en", "text": "I put the files in the folder. We cut the loading time. I read the contract twice." }
+      ]
+    },
+    {
+      "title": "Gruppo 2: passato e participio uguali",
+      "show": ["send – sent – sent", "build – built – built", "keep – kept – kept", "buy – bought – bought", "pay – paid – paid"],
+      "say": [
+        { "lang": "it", "text": "Nel secondo gruppo passato e participio sono uguali. Impari una forma per due. I verbi in ght, come buy, bring, think e teach, sono molto comuni." },
+        { "lang": "en", "text": "I sent the quote. I have sent the quote. She bought a laptop. She has bought a laptop." }
+      ]
+    },
+    {
+      "title": "Gruppo 3: tre forme diverse",
+      "show": ["write – wrote – written", "take – took – taken", "give – gave – given", "speak – spoke – spoken", "break – broke – broken"],
+      "say": [
+        { "lang": "it", "text": "Nel terzo gruppo le tre forme sono diverse. Sono quelle da studiare di più, soprattutto il participio." },
+        { "lang": "en", "text": "She wrote the report. She has written the report. It took three hours. It has taken three hours." }
+      ]
+    },
+    {
+      "title": "Negativo e domanda",
+      "show": ["I didn't send it.", "Did you write to the client?", "No: I didn't sent"],
+      "say": [
+        { "lang": "it", "text": "Nel negativo e nella domanda al passato, il verbo torna all'infinito. Il passato lo porta did. Non mettere il passato due volte." },
+        { "lang": "en", "text": "I didn't send the file. Did you write to the client?" }
+      ]
+    },
+    {
+      "title": "Gone e been",
+      "show": ["She has gone to the client.", "I've been to Milan."],
+      "say": [
+        { "lang": "it", "text": "Go ha due participi. Gone vuol dire andato e non ancora tornato. Been vuol dire andato e tornato." },
+        { "lang": "en", "text": "She has gone to the client's office. I have been to Milan twice." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["3 forme per verbo", "3 gruppi", "did + infinito"],
+      "say": [
+        { "lang": "it", "text": "Ricapitolando. Studia i verbi a gruppi. Ripeti sempre le tre forme ad alta voce. Con did il verbo resta all'infinito. Impara tre verbi al giorno e in poco più di due settimane li sai tutti." },
+        { "lang": "en", "text": "I began on Monday, I wrote the report, and I sent it on Friday." }
+      ]
+    }
+  ]
+}

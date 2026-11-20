@@ -1,0 +1,325 @@
+{
+  "id": 47,
+  "week": 10,
+  "title": "Gestire le obiezioni",
+  "titleEn": "Handling objections",
+  "intro": "Oggi impari a rispondere ai dubbi di un cliente senza litigare: riconoscere la preoccupazione, rassicurare, dare garanzie. Impari anche a usare although, even though, despite, in spite of e however per riconoscere un punto e poi rispondere.",
+  "goals": [
+    "Riconoscere un dubbio del cliente prima di rispondere",
+    "Rassicurare con garanzie, prove e esempi concreti",
+    "Usare although, even though, despite, in spite of e however",
+    "Rispondere a obiezioni su prezzo, tempi e rischi"
+  ],
+
+  "words": [
+    { "en": "to allay", "pron": "alèi", "it": "calmare, dissipare (dubbi)", "type": "verb", "ex": "I want to allay your concerns about security.", "exIt": "Voglio dissipare i dubbi sulla sicurezza." },
+    { "en": "to cave in", "pron": "kèiv in", "it": "cedere, arrendersi", "type": "phrase", "ex": "The client caved in when we showed the audit report.", "exIt": "Il cliente ha ceduto quando gli abbiamo mostrato il report dell'audit." },
+    { "en": "to rebut", "pron": "ribàt", "it": "confutare, ribattere", "type": "verb", "ex": "She rebutted every point in the report.", "exIt": "Ha confutato ogni punto del report." },
+    { "en": "risk", "pron": "rìsk", "it": "rischio", "type": "noun", "ex": "There is almost no risk for you.", "exIt": "Per te non c'è quasi nessun rischio." },
+    { "en": "fair point", "pron": "fèar pòint", "it": "giusta osservazione", "type": "phrase", "ex": "That is a fair point, let me check the numbers.", "exIt": "È una giusta osservazione, controllo i numeri." },
+    { "en": "downside", "pron": "dàunsaid", "it": "lato negativo", "type": "noun", "ex": "What is the downside of this option?", "exIt": "Qual è il lato negativo di questa opzione?" },
+    { "en": "hidden cost", "pron": "hìden kòst", "it": "costo nascosto", "type": "noun", "ex": "There are no hidden costs in our offer.", "exIt": "Nella nostra offerta non ci sono costi nascosti." },
+    { "en": "small print", "pron": "smòol prìnt", "it": "clausole scritte in piccolo", "type": "noun", "ex": "Please read the small print before you sign.", "exIt": "Leggi le clausole scritte in piccolo prima di firmare." },
+    { "en": "cancellation", "pron": "kanselèiscion", "it": "annullamento, disdetta", "type": "noun", "ex": "You can ask for a cancellation within thirty days.", "exIt": "Puoi chiedere l'annullamento entro trenta giorni." },
+    { "en": "to hold off", "pron": "hòuld òf", "it": "rimandare, aspettare", "type": "phrase", "ex": "Please hold off signing until you read the terms.", "exIt": "Aspetta a firmare finché non hai letto le condizioni." },
+    { "en": "uncertain", "pron": "ansèrten", "it": "incerto", "type": "adj", "ex": "The client is uncertain about the budget.", "exIt": "Il cliente è incerto sul budget." },
+    { "en": "apprehensive", "pron": "aprihènsiv", "it": "preoccupato, in ansia", "type": "adj", "ex": "He felt apprehensive about the new system.", "exIt": "Era in ansia per il nuovo sistema." },
+    { "en": "legitimate", "pron": "lidgìtimet", "it": "legittimo, giustificato", "type": "adj", "ex": "Your worry about security is legitimate.", "exIt": "La tua preoccupazione per la sicurezza è legittima." },
+    { "en": "hesitant", "pron": "hèzitant", "it": "titubante, esitante", "type": "adj", "ex": "The client seems hesitant about the new design.", "exIt": "Il cliente sembra titubante sul nuovo design." },
+    { "en": "reluctant", "pron": "rilàktant", "it": "riluttante, poco incline", "type": "adj", "ex": "They are reluctant to change supplier.", "exIt": "Sono riluttanti a cambiare fornitore." },
+    { "en": "sceptical", "pron": "skèptikol", "it": "scettico", "type": "adj", "ex": "I was sceptical at first, but the demo convinced me.", "exIt": "All'inizio ero scettico, ma la demo mi ha convinto." },
+    { "en": "cautious", "pron": "kòscios", "it": "cauto, prudente", "type": "adj", "ex": "It is wise to be cautious with a new system.", "exIt": "È saggio essere prudenti con un nuovo sistema." },
+    { "en": "to reject", "pron": "ridgèkt", "it": "respingere, rifiutare", "type": "verb", "ex": "They rejected the first proposal.", "exIt": "Hanno respinto la prima proposta." },
+    { "en": "to dismiss", "pron": "dismìs", "it": "liquidare, non dare peso a", "type": "verb", "ex": "I don't want to dismiss your concerns.", "exIt": "Non voglio liquidare le tue preoccupazioni." },
+    { "en": "to question", "pron": "kuèscen", "it": "mettere in dubbio, interrogare", "type": "verb", "ex": "Nobody questioned the quality of our work.", "exIt": "Nessuno ha messo in dubbio la qualità del nostro lavoro." },
+    { "en": "wary", "pron": "uèari", "it": "diffidente, cauto", "type": "adj", "ex": "Customers are wary of paying in advance.", "exIt": "I clienti sono diffidenti verso il pagamento anticipato." },
+    { "en": "to waver", "pron": "uèiver", "it": "vacillare, esitare", "type": "verb", "ex": "The client wavered before signing.", "exIt": "Il cliente ha esitato prima di firmare." },
+    { "en": "to refute", "pron": "rifiùut", "it": "smentire, confutare", "type": "verb", "ex": "We can refute that claim with the audit results.", "exIt": "Possiamo smentire quell'affermazione con i risultati dell'audit." },
+    { "en": "to mitigate", "pron": "mìtigheit", "it": "attenuare, ridurre l'impatto di", "type": "verb", "ex": "Regular backups mitigate the risk of data loss.", "exIt": "I backup regolari riducono il rischio di perdita di dati." },
+    { "en": "to minimise", "pron": "mìnimaiz", "it": "ridurre al minimo", "type": "verb", "ex": "We minimise the risk with weekly tests.", "exIt": "Riduciamo al minimo il rischio con test settimanali." },
+    { "en": "to deliver on", "pron": "dilìver on", "it": "mantenere (una promessa), rispettare", "type": "phrase", "ex": "We always deliver on what we promise.", "exIt": "Rispettiamo sempre ciò che promettiamo." },
+    { "en": "secure", "pron": "sikiùar", "it": "sicuro, protetto", "type": "adj", "ex": "All payments are secure.", "exIt": "Tutti i pagamenti sono sicuri." },
+    { "en": "to safeguard", "pron": "sèifgaard", "it": "salvaguardare, proteggere", "type": "verb", "ex": "We safeguard your data with encryption.", "exIt": "Proteggiamo i tuoi dati con la cifratura." },
+    { "en": "trustworthy", "pron": "tràstuerdi", "it": "degno di fiducia", "type": "adj", "ex": "They need a trustworthy partner.", "exIt": "Hanno bisogno di un partner affidabile." },
+    { "en": "credible", "pron": "krèdibol", "it": "credibile", "type": "adj", "ex": "Our case studies make the offer more credible.", "exIt": "I nostri casi studio rendono l'offerta più credibile." },
+    { "en": "proof", "pron": "prùuf", "it": "prova, dimostrazione", "type": "noun", "ex": "We can give you proof of the results.", "exIt": "Possiamo darti la prova dei risultati." },
+    { "en": "to set the record straight", "pron": "sèt de rèkord strèit", "it": "chiarire come stanno le cose", "type": "phrase", "ex": "Let me set the record straight about the price.", "exIt": "Lascia che chiarisca come stanno le cose sul prezzo." },
+    { "en": "fixed price", "pron": "fìkst pràis", "it": "prezzo fisso", "type": "noun", "ex": "We offer a fixed price, with no surprises.", "exIt": "Offriamo un prezzo fisso, senza sorprese." },
+    { "en": "assurance", "pron": "asciùarens", "it": "rassicurazione, garanzia verbale", "type": "noun", "ex": "I can give you my assurance that we will deliver.", "exIt": "Ti garantisco che consegneremo." },
+    { "en": "no-obligation", "pron": "nòu ablighèiscen", "it": "senza impegno", "type": "adj", "ex": "We offer a no-obligation quote.", "exIt": "Offriamo un preventivo senza impegno." },
+    { "en": "money-back guarantee", "pron": "màni bàk garantìi", "it": "garanzia soddisfatti o rimborsati", "type": "noun", "ex": "We have a thirty-day money-back guarantee.", "exIt": "Abbiamo una garanzia soddisfatti o rimborsati di trenta giorni." },
+    { "en": "lock-in", "pron": "lòk in", "it": "vincolo, dipendenza da un fornitore", "type": "noun", "ex": "There is no lock-in. You own your code.", "exIt": "Non c'è vincolo. Il codice è tuo." },
+    { "en": "budget constraint", "pron": "bàdget konstrèint", "it": "limite di budget", "type": "noun", "ex": "We understand you have a budget constraint.", "exIt": "Capiamo che avete un limite di budget." },
+    { "en": "pricey", "pron": "pràisi", "it": "caro, un po' costoso (informale)", "type": "adj", "ex": "I know it sounds a bit pricey.", "exIt": "So che sembra un po' caro." },
+    { "en": "to put your mind at rest", "pron": "pùt iòr màind at rèst", "it": "tranquillizzare", "type": "phrase", "ex": "Let me put your mind at rest: your data is safe.", "exIt": "Lascia che ti tranquillizzi: i dati sono al sicuro." },
+    { "en": "worth it", "pron": "uèrt it", "it": "che ne vale la pena", "type": "phrase", "ex": "It's an investment, but it's worth it.", "exIt": "È un investimento, ma ne vale la pena." },
+    { "en": "to stand by", "pron": "stànd bài", "it": "sostenere, mantenere (una promessa)", "type": "phrase", "ex": "We stand by our work.", "exIt": "Garantiamo il nostro lavoro." },
+    { "en": "upfront cost", "pron": "apfrànt kòst", "it": "costo iniziale", "type": "noun", "ex": "The upfront cost is low, you pay the rest monthly.", "exIt": "Il costo iniziale è basso, il resto si paga ogni mese." },
+    { "en": "no strings attached", "pron": "nòu strìngz atàct", "it": "senza vincoli", "type": "phrase", "ex": "The free trial comes with no strings attached.", "exIt": "La prova gratuita è senza vincoli." },
+    { "en": "a safety net", "pron": "a sèifti nèt", "it": "una rete di sicurezza", "type": "noun", "ex": "The money-back guarantee is a safety net for the client.", "exIt": "La garanzia di rimborso è una rete di sicurezza per il cliente." },
+    { "en": "caveat", "pron": "kàviat", "it": "riserva, avvertenza", "type": "noun", "ex": "One caveat: the price excludes hosting.", "exIt": "Una riserva: il prezzo non include l'hosting." },
+    { "en": "leeway", "pron": "lìiuei", "it": "margine di manovra", "type": "noun", "ex": "We have some leeway on the delivery date.", "exIt": "Abbiamo un po' di margine sulla data di consegna." },
+    { "en": "to back out", "pron": "bàk àut", "it": "tirarsi indietro", "type": "phrase", "ex": "The client backed out at the last minute.", "exIt": "Il cliente si è tirato indietro all'ultimo momento." },
+    { "en": "trial period", "pron": "tràial pìiriod", "it": "periodo di prova", "type": "noun", "ex": "You have a thirty-day trial period.", "exIt": "Hai un periodo di prova di trenta giorni." },
+    { "en": "free of charge", "pron": "frìi ov ciàardg", "it": "gratuito, senza costi", "type": "phrase", "ex": "The first review is free of charge.", "exIt": "La prima revisione è gratuita." }
+  ],
+
+  "falseFriends": [
+    { "en": "sceptical", "it": "scettico", "trap": "Si scrive sceptical in britannico e skeptical in americano. Attenzione alla pronuncia: si dice con la k, skèptikol." },
+    { "en": "to ensure", "it": "assicurare che", "trap": "Non confonderlo con 'insure' (assicurare con una polizza) né con 'assure' (rassicurare una persona)." }
+  ],
+
+  "grammar": {
+    "title": "Concessione e contrasto: although, even though, despite, in spite of, however",
+    "explainIt": [
+      "Quando rispondi a un'obiezione, spesso devi dire due cose: 'hai ragione, ma...'. In inglese si usano le parole di concessione e contrasto. Così riconosci il punto del cliente e poi dai la tua risposta, senza dire 'no' in modo secco.",
+      "Although e even though vogliono dopo una frase intera con soggetto e verbo: Although the price is high, the quality is excellent. Even though è più forte di although e si usa per qualcosa di sorprendente: Even though it is new, it is very stable. Tutte e due si traducono con 'anche se' o 'sebbene'. Puoi mettere la frase con although all'inizio (con la virgola) o alla fine (senza virgola).",
+      "Despite e in spite of vogliono dopo un nome o una forma in -ing, non una frase completa: Despite the delay, we finished on time. In spite of the costs, it is worth it. Despite being small, the team is very fast. Si traducono con 'nonostante'. Mai 'despite of': si dice despite oppure in spite of. Se vuoi usare despite con una frase intera, aggiungi the fact that: Despite the fact that it is expensive, it is worth it.",
+      "However è diverso: è un avverbio che unisce due frasi separate. Si mette di solito all'inizio di una nuova frase, con la virgola dopo: The price is high. However, the quality is excellent. Può stare anche a metà frase tra virgole: The price, however, is fair. Si traduce con 'tuttavia' o 'però'. Dopo un punto e virgola si può usare anche: The price is high; however, it is worth it.",
+      "In un'obiezione una struttura molto usata è: I understand your concern. However, ... oppure Although I understand your concern, I think... Questa forma è gentile perché prima riconosci il dubbio e poi rispondi. Evita 'but' da solo all'inizio di una risposta secca: suona più brusco."
+    ],
+    "explainEn": [
+      "When you answer an objection, you often have to say two things: 'you are right, but...'. In English we use words of concession and contrast. In this way you recognise the client's point and then give your answer, without a direct 'no'.",
+      "After although and even though we need a full clause with subject and verb: Although the price is high, the quality is excellent. Even though is stronger than although and we use it for something surprising: Even though it is new, it is very stable. Both mean 'anche se'. The although clause can come first (with a comma) or last (without a comma).",
+      "After despite and in spite of we need a noun or an -ing form, not a full clause: Despite the delay, we finished on time. In spite of the costs, it is worth it. Despite being small, the team is very fast. Both mean 'nonostante'. We never say 'despite of': we say despite or in spite of. If you want to use despite with a full clause, add the fact that: Despite the fact that it is expensive, it is worth it.",
+      "However is different: it is an adverb that links two separate sentences. We usually put it at the start of a new sentence, with a comma after it: The price is high. However, the quality is excellent. It can also come in the middle between commas: The price, however, is fair. After a semicolon we can also use it: The price is high; however, it is worth it.",
+      "A very common structure in objections is: I understand your concern. However, ... or Although I understand your concern, I think... This form is polite because you first recognise the doubt and then reply. Avoid a bare 'but' at the start of a short answer: it sounds more abrupt."
+    ],
+    "rules": [
+      {
+        "it": "Although e even though + frase completa (soggetto + verbo).",
+        "en": "Although and even though + a full clause (subject + verb).",
+        "form": "although / even though + soggetto + verbo, frase principale",
+        "examples": [
+          { "en": "Although the price is high, the quality is excellent.", "it": "Anche se il prezzo è alto, la qualità è eccellente." },
+          { "en": "Even though the tool is new, it is very stable.", "it": "Anche se lo strumento è nuovo, è molto stabile." },
+          { "en": "We finished on time, even though we had problems.", "it": "Abbiamo finito in tempo, anche se abbiamo avuto problemi." }
+        ]
+      },
+      {
+        "it": "Despite e in spite of + nome o forma in -ing. Mai 'despite of'.",
+        "en": "Despite and in spite of + noun or -ing form. Never 'despite of'.",
+        "form": "despite / in spite of + nome / -ing",
+        "examples": [
+          { "en": "Despite the delay, the client was happy.", "it": "Nonostante il ritardo, il cliente era contento." },
+          { "en": "In spite of the cost, it is worth it.", "it": "Nonostante il costo, ne vale la pena." },
+          { "en": "Despite being a small team, we deliver fast.", "it": "Pur essendo un piccolo team, consegniamo in fretta." }
+        ]
+      },
+      {
+        "it": "Despite the fact that + frase completa: per usare despite con soggetto e verbo.",
+        "en": "Despite the fact that + a full clause: to use despite with a subject and verb.",
+        "form": "despite the fact that + soggetto + verbo",
+        "examples": [
+          { "en": "Despite the fact that it is expensive, it saves money.", "it": "Nonostante sia costoso, fa risparmiare." },
+          { "en": "In spite of the fact that the tool is free, support is excellent.", "it": "Nonostante lo strumento sia gratuito, l'assistenza è eccellente." }
+        ]
+      },
+      {
+        "it": "However unisce due frasi separate: punto, However, virgola.",
+        "en": "However links two separate sentences: full stop, However, comma.",
+        "form": ". However, + nuova frase",
+        "examples": [
+          { "en": "The price is higher. However, it includes two years of support.", "it": "Il prezzo è più alto. Tuttavia include due anni di assistenza." },
+          { "en": "The setup takes time. It is, however, a one-time cost.", "it": "L'avvio richiede tempo. È però un costo una tantum." }
+        ]
+      },
+      {
+        "it": "Per rispondere a un'obiezione: riconosci il punto, poi rispondi (I understand... However, ...).",
+        "en": "To answer an objection: acknowledge the point, then reply (I understand... However, ...).",
+        "form": "I understand + dubbio. However, + risposta",
+        "examples": [
+          { "en": "I understand your concern. However, we offer a full refund.", "it": "Capisco la tua preoccupazione. Tuttavia offriamo un rimborso completo." },
+          { "en": "Although I see your point, I think the risk is low.", "it": "Anche se capisco il tuo punto di vista, penso che il rischio sia basso." }
+        ]
+      }
+    ],
+    "tip": "Ricorda la regola in due righe: although e even though vogliono una frase (soggetto più verbo), despite e in spite of vogliono un nome o -ing. However sta da solo, con il punto prima e la virgola dopo. E mai 'despite of'.",
+    "mistakes": [
+      { "wrong": "Despite of the delay, we finished on time.", "right": "Despite the delay, we finished on time.", "why": "si dice despite oppure in spite of, mai despite of" },
+      { "wrong": "Although the price is high, but the quality is good.", "right": "Although the price is high, the quality is good.", "why": "although e but insieme sono ridondanti: ne serve uno solo" },
+      { "wrong": "Despite the price is high, it is worth it.", "right": "Although the price is high, it is worth it.", "why": "dopo despite non va una frase con soggetto e verbo; usa although" },
+      { "wrong": "The price is high, however the quality is excellent.", "right": "The price is high. However, the quality is excellent.", "why": "however non unisce due frasi con la sola virgola: serve un punto (o un punto e virgola)" },
+      { "wrong": "In spite the delay, we finished.", "right": "In spite of the delay, we finished.", "why": "in spite vuole of" }
+    ]
+  },
+
+  "grammarExercises": [
+    { "q": "___ the price is high, the quality is excellent.", "a": ["although", "even though", "though"], "hint": "dopo c'è una frase completa", "explain": "Although o even though + frase." },
+    { "q": "___ the delay, we finished on time.", "a": ["despite", "in spite of"], "hint": "dopo c'è un nome", "explain": "Despite o in spite of + nome." },
+    { "q": "The setup takes time. ___, it is a one-time cost.", "a": ["however"], "hint": "tuttavia, nuova frase", "explain": "However unisce due frasi separate." },
+    { "q": "We succeeded in spite ___ the problems. (of/to)", "a": ["of"], "hint": "in spite ...", "explain": "In spite of." },
+    { "q": "Despite ___ small, the team is very fast. (be)", "a": ["being"], "hint": "forma in -ing", "explain": "Despite + -ing." },
+    { "q": "___ it is a new tool, it is very stable. (although/despite)", "a": ["although"], "hint": "dopo c'è soggetto e verbo", "explain": "Although vuole una frase intera." },
+    { "q": "Despite the ___ that it is expensive, it is worth it. (fact/matter)", "a": ["fact"], "hint": "despite + the ... that", "explain": "Despite the fact that + frase." },
+    { "q": "I understand your concern. ___, we offer a full refund.", "a": ["however"], "hint": "risposta gentile", "explain": "However dopo il punto." },
+    { "q": "___ I like the idea, I think it is too risky. (although/despite)", "a": ["although"], "hint": "I like è una frase completa", "explain": "Although + soggetto + verbo." },
+    { "q": "They signed the contract ___ though they had some doubts. (even/in spite)", "a": ["even"], "hint": "anche se (forte)", "explain": "Even though." },
+    { "q": "In spite ___ the costs, it is worth it. (of/from)", "a": ["of"], "hint": "in spite ...", "explain": "In spite of." },
+    { "q": "The price, ___, is fair. (however/although)", "a": ["however"], "hint": "tra virgole, a metà frase", "explain": "However può stare tra virgole." }
+  ],
+
+  "phrases": [
+    { "group": "Riconoscere il dubbio", "en": "I understand your concern.", "it": "Capisco la tua preoccupazione." },
+    { "group": "Riconoscere il dubbio", "en": "That's a valid point.", "it": "È un punto valido." },
+    { "group": "Riconoscere il dubbio", "en": "I see where you're coming from.", "it": "Capisco il tuo punto di vista." },
+    { "group": "Riconoscere il dubbio", "en": "Fair enough.", "it": "Giusto. / Hai ragione." },
+    { "group": "Riconoscere il dubbio", "en": "I appreciate you raising this.", "it": "Apprezzo che tu lo abbia sollevato." },
+    { "group": "Rispondere con garbo", "en": "Although it may look expensive, it saves money in the long run.", "it": "Anche se può sembrare costoso, a lungo termine fa risparmiare." },
+    { "group": "Rispondere con garbo", "en": "However, we offer a full refund.", "it": "Tuttavia, offriamo un rimborso completo." },
+    { "group": "Rispondere con garbo", "en": "Despite the extra cost, the return is clear.", "it": "Nonostante il costo in più, il ritorno è evidente." },
+    { "group": "Rispondere con garbo", "en": "That said, the risk is very low.", "it": "Detto questo, il rischio è molto basso.", "note": "that said = tuttavia, molto usata nel parlato" },
+    { "group": "Rispondere con garbo", "en": "Let me explain how we deal with that.", "it": "Lascia che ti spieghi come gestiamo la cosa." },
+    { "group": "Rassicurare", "en": "Let me reassure you that your data is safe.", "it": "Lascia che ti rassicuri: i tuoi dati sono al sicuro." },
+    { "group": "Rassicurare", "en": "There is no risk for you.", "it": "Per te non c'è nessun rischio." },
+    { "group": "Rassicurare", "en": "You can cancel at any time.", "it": "Puoi disdire in qualsiasi momento." },
+    { "group": "Rassicurare", "en": "We will confirm everything in writing.", "it": "Confermeremo tutto per iscritto." },
+    { "group": "Rassicurare", "en": "I can give you my word.", "it": "Ti do la mia parola." },
+    { "group": "Garanzie e prove", "en": "We offer a thirty-day money-back guarantee.", "it": "Offriamo una garanzia soddisfatti o rimborsati di trenta giorni." },
+    { "group": "Garanzie e prove", "en": "Here is proof of our results.", "it": "Ecco la prova dei nostri risultati." },
+    { "group": "Garanzie e prove", "en": "We have worked with similar clients before.", "it": "Abbiamo già lavorato con clienti simili." },
+    { "group": "Garanzie e prove", "en": "The first review is free of charge.", "it": "La prima revisione è gratuita." },
+    { "group": "Garanzie e prove", "en": "You will have a thirty-day trial period.", "it": "Avrai un periodo di prova di trenta giorni." },
+    { "group": "Prezzo e compromessi", "en": "I know it sounds pricey, but it is worth it.", "it": "So che sembra caro, ma ne vale la pena." },
+    { "group": "Prezzo e compromessi", "en": "Let's find a compromise.", "it": "Troviamo un compromesso." },
+    { "group": "Prezzo e compromessi", "en": "We can adjust the plan to your budget.", "it": "Possiamo adattare il piano al vostro budget." },
+    { "group": "Prezzo e compromessi", "en": "What would make this easier for you?", "it": "Cosa ti renderebbe le cose più facili?" },
+    { "group": "Prezzo e compromessi", "en": "Is there anything else holding you back?", "it": "C'è altro che ti trattiene?" }
+  ],
+
+  "dialogue": {
+    "title": "Answering client doubts",
+    "context": "Luca ha presentato a Mark, titolare di uno studio di consulenza, la proposta per un nuovo sito. Mark ha alcuni dubbi su prezzo, tempi e sicurezza.",
+    "lines": [
+      { "s": "A", "name": "Mark", "en": "Thanks for the proposal, Luca. I have some concerns before we sign.", "it": "Grazie per la proposta, Luca. Ho alcune preoccupazioni prima di firmare." },
+      { "s": "B", "name": "Luca", "en": "Of course. I'm glad you raised them. What worries you most?", "it": "Certo. Sono contento che tu le abbia sollevate. Cosa ti preoccupa di più?" },
+      { "s": "A", "name": "Mark", "en": "Mostly the price. It's quite pricey for a small company like ours.", "it": "Soprattutto il prezzo. È piuttosto caro per una piccola azienda come la nostra." },
+      { "s": "B", "name": "Luca", "en": "That's a fair point. Although the price is higher than a template, you get a custom site that you can grow.", "it": "È un punto giusto. Anche se il prezzo è più alto di un template, ottieni un sito su misura che potrai far crescere." },
+      { "s": "A", "name": "Mark", "en": "I see. And what about the timing? We can't afford a long delay.", "it": "Capisco. E i tempi? Non possiamo permetterci un lungo ritardo." },
+      { "s": "B", "name": "Luca", "en": "I understand. Despite the complexity, we can deliver in six weeks. And we will confirm the dates in writing.", "it": "Capisco. Nonostante la complessità, possiamo consegnare in sei settimane. E confermeremo le date per iscritto." },
+      { "s": "A", "name": "Mark", "en": "Hmm. I'm still a bit hesitant. What if we don't like the result?", "it": "Mmm. Sono ancora un po' titubante. E se il risultato non ci piace?" },
+      { "s": "B", "name": "Luca", "en": "Fair enough. That's why we offer a thirty-day trial period and a money-back guarantee.", "it": "Giusto. Per questo offriamo un periodo di prova di trenta giorni e una garanzia di rimborso." },
+      { "s": "A", "name": "Mark", "en": "Even though it sounds good, I'm worried about security. We store client data.", "it": "Anche se suona bene, sono preoccupato per la sicurezza. Conserviamo dati dei clienti." },
+      { "s": "B", "name": "Luca", "en": "That is a legitimate concern. We use encryption and daily backups to safeguard your data. As proof, I can show you what we did for another client.", "it": "È una preoccupazione legittima. Usiamo la cifratura e backup giornalieri per proteggere i vostri dati. Come prova, posso mostrarti cosa abbiamo fatto per un altro cliente." },
+      { "s": "A", "name": "Mark", "en": "That would help. Also, will we be locked in with you?", "it": "Mi sarebbe utile. Inoltre, resteremo legati a voi?" },
+      { "s": "B", "name": "Luca", "en": "No. There is no lock-in. You own the code, and you can move to another supplier at any time.", "it": "No. Non c'è alcun vincolo. Il codice è vostro, e potete passare a un altro fornitore in qualsiasi momento." },
+      { "s": "A", "name": "Mark", "en": "Okay, that's reassuring. Let's discuss the budget again. Maybe we can find a compromise.", "it": "Va bene, è rassicurante. Riparliamo del budget. Forse possiamo trovare un compromesso." },
+      { "s": "B", "name": "Luca", "en": "Sure. We can start with a smaller scope and add features later. I'll send you a new quote today.", "it": "Certo. Possiamo cominciare con un ambito più piccolo e aggiungere funzioni dopo. Oggi ti mando un nuovo preventivo." }
+    ]
+  },
+
+  "listening": [
+    { "q": "What is Mark's first concern?", "options": ["The price", "The colours", "The language"], "answer": 0 },
+    { "q": "How long will the delivery take?", "options": ["Six weeks", "Six months", "Three weeks"], "answer": 0 },
+    { "q": "What does Luca offer if the client doesn't like the result?", "options": ["A new designer", "A money-back guarantee", "A discount on hosting"], "answer": 1 },
+    { "q": "What does Luca say about lock-in?", "options": ["There is a two-year contract", "There is no lock-in", "It costs extra"], "answer": 1 }
+  ],
+
+  "translations": [
+    { "it": "Capisco la tua preoccupazione sul prezzo.", "en": "I understand your concern about the price.", "alt": ["I understand your concern about the cost.", "I understand your worry about the price."] },
+    { "it": "Anche se il prezzo è alto, la qualità è eccellente.", "en": "Although the price is high, the quality is excellent.", "alt": ["Even though the price is high, the quality is excellent.", "Although the price is high, the quality is great."] },
+    { "it": "Nonostante il ritardo, abbiamo finito in tempo.", "en": "Despite the delay, we finished on time.", "alt": ["In spite of the delay, we finished on time.", "We finished on time despite the delay."] },
+    { "it": "Il costo è più alto. Tuttavia, include due anni di assistenza.", "en": "The cost is higher. However, it includes two years of support.", "alt": ["The price is higher. However, it includes two years of support."] },
+    { "it": "Offriamo una garanzia di rimborso di trenta giorni.", "en": "We offer a thirty-day money-back guarantee.", "alt": ["We offer a 30-day money-back guarantee.", "We offer a money-back guarantee of thirty days."] },
+    { "it": "Non c'è nessun rischio per voi.", "en": "There is no risk for you.", "alt": ["There is no risk to you.", "There's no risk for you."] },
+    { "it": "Confermeremo tutto per iscritto.", "en": "We will confirm everything in writing.", "alt": ["We'll confirm everything in writing.", "We will put everything in writing."] },
+    { "it": "So che sembra caro, ma ne vale la pena.", "en": "I know it sounds expensive, but it is worth it.", "alt": ["I know it sounds pricey, but it's worth it.", "I know it seems expensive, but it is worth it."] },
+    { "it": "Il codice è vostro. Non c'è nessun vincolo.", "en": "You own the code. There is no lock-in.", "alt": ["The code is yours. There is no lock-in."] },
+    { "it": "Troviamo un compromesso sulle tempistiche.", "en": "Let's find a compromise on the timeline.", "alt": ["Let's find a compromise on the timing.", "Let's reach a compromise on the schedule."] },
+    { "it": "Anche se lo strumento è nuovo, è molto affidabile.", "en": "Even though the tool is new, it is very reliable.", "alt": ["Although the tool is new, it is very reliable.", "Even though the tool is new, it's very reliable."] },
+    { "it": "È un punto valido. Ci penso e ti rispondo domani.", "en": "That's a valid point. I'll think about it and reply tomorrow.", "alt": ["That's a valid point. I'll think about it and get back to you tomorrow.", "That is a valid point. I will think about it and answer tomorrow."] }
+  ],
+
+  "writing": {
+    "taskIt": "Un cliente ti ha scritto che ha tre dubbi: il prezzo è alto, i tempi sono lunghi e ha paura di non essere soddisfatto. Rispondi con una mail gentile. Riconosci ogni dubbio, rassicura con una garanzia o un fatto concreto e usa almeno although o even though, despite o in spite of, e however.",
+    "taskEn": "A client wrote to you with three doubts: the price is high, the timeline is long and they are afraid they will not be satisfied. Reply with a polite email. Acknowledge each doubt, reassure with a guarantee or a concrete fact and use at least although or even though, despite or in spite of, and however.",
+    "model": "Hi Mark,\n\nThank you for your email. I understand your concerns, and I'm glad you raised them.\n\nFirst, the price. Although it is higher than a template, the site is built for your business and you own the code. Despite the extra cost, most of our clients see a return within six months.\n\nSecond, the timeline. Six weeks may seem long. However, this includes two rounds of testing, which reduces the risk of problems after the launch. We will confirm all dates in writing.\n\nFinally, your worry about the result. Even though we have very good feedback from clients, we want you to feel safe. That's why we offer a thirty-day trial period and a full money-back guarantee.\n\nIf you like, we can schedule a call this week to discuss it.\n\nBest regards,\nLuca"
+  },
+
+  "speaking": {
+    "shadowing": [
+      "I understand your concern. However, we offer a full refund.",
+      "Although the price is high, the quality is excellent.",
+      "Despite the delay, we finished on time.",
+      "In spite of the costs, it is worth it.",
+      "Let me reassure you that your data is safe.",
+      "That's a valid point. Fair enough.",
+      "There is no lock-in. You own the code.",
+      "Let's find a compromise."
+    ],
+    "prompts": [
+      { "en": "A client says your price is too high. How do you answer?", "it": "Un cliente dice che il tuo prezzo è troppo alto. Come rispondi?", "help": "Usa: I understand... However... / Although it may look..." },
+      { "en": "What guarantees do you offer to your clients?", "it": "Quali garanzie offri ai tuoi clienti?", "help": "Usa: We offer... / You can... / There is no..." },
+      { "en": "Tell me about a client who was sceptical. What did you do?", "it": "Raccontami di un cliente scettico. Cosa hai fatto?", "help": "Usa: Even though he was sceptical, we..." },
+      { "en": "How do you reduce the risk in a new project?", "it": "Come riduci il rischio in un nuovo progetto?", "help": "Usa: We minimise the risk with... / We ensure that..." },
+      { "en": "Why should I choose you and not another company?", "it": "Perché dovrei scegliere te e non un'altra azienda?", "help": "Usa: Despite being small... / What makes us different..." }
+    ]
+  },
+
+  "video": [
+    {
+      "title": "Introduzione: le obiezioni",
+      "show": ["Gestire le obiezioni", "Riconoscere, rassicurare, rispondere"],
+      "say": [
+        { "lang": "it", "text": "Oggi impari a gestire le obiezioni dei clienti. Un'obiezione non è un no: è un dubbio. Se lo gestisci bene, spesso diventa un sì. Il metodo è semplice: riconosci, rassicura, rispondi." },
+        { "lang": "en", "text": "I understand your concern. Let me explain." }
+      ]
+    },
+    {
+      "title": "Riconoscere il dubbio",
+      "show": ["I understand your concern", "That's a valid point", "Fair enough"],
+      "say": [
+        { "lang": "it", "text": "Prima di rispondere, riconosci il dubbio. Così il cliente si sente ascoltato. Puoi dire: I understand your concern. That's a valid point. Oppure: fair enough." },
+        { "lang": "en", "text": "That's a valid point. I see where you're coming from." }
+      ]
+    },
+    {
+      "title": "Although ed even though",
+      "show": ["although + frase", "even though + frase"],
+      "say": [
+        { "lang": "it", "text": "Although ed even though vogliono dire anche se. Dopo si mette una frase completa, con soggetto e verbo. Even though è un po' più forte." },
+        { "lang": "en", "text": "Although the price is high, the quality is excellent. Even though it is new, it is very stable." }
+      ]
+    },
+    {
+      "title": "Despite e in spite of",
+      "show": ["despite + nome o -ing", "in spite of + nome o -ing", "MAI despite of"],
+      "say": [
+        { "lang": "it", "text": "Despite e in spite of vogliono dire nonostante. Dopo si mette un nome o una forma in -ing, non una frase completa. Attenzione: non si dice mai despite of. Si dice despite oppure in spite of." },
+        { "lang": "en", "text": "Despite the delay, we finished on time. In spite of the cost, it is worth it." }
+      ]
+    },
+    {
+      "title": "However",
+      "show": ["However, + nuova frase", "punto, However, virgola"],
+      "say": [
+        { "lang": "it", "text": "However vuol dire tuttavia. Si usa per unire due frasi separate: prima un punto, poi however, poi la virgola. Non unire le due frasi con la sola virgola." },
+        { "lang": "en", "text": "The price is higher. However, it includes two years of support." }
+      ]
+    },
+    {
+      "title": "Rassicurare con garanzie",
+      "show": ["money-back guarantee", "trial period", "in writing", "no lock-in"],
+      "say": [
+        { "lang": "it", "text": "Per rassicurare il cliente dai fatti concreti. Una garanzia di rimborso, un periodo di prova, una conferma per iscritto, nessun vincolo. Parole semplici e promesse chiare." },
+        { "lang": "en", "text": "We offer a thirty-day money-back guarantee. There is no lock-in." }
+      ]
+    },
+    {
+      "title": "Prezzo e compromesso",
+      "show": ["I know it sounds pricey", "worth it", "Let's find a compromise"],
+      "say": [
+        { "lang": "it", "text": "Il prezzo è l'obiezione più comune. Non dire subito di no. Riconosci il dubbio, spiega il valore e proponi un compromesso, per esempio un progetto più piccolo per cominciare." },
+        { "lang": "en", "text": "I know it sounds pricey, but it is worth it. Let's find a compromise." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["although + frase", "despite + nome", "However, ...", "riconosci, rassicura, rispondi"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Although e even though vogliono una frase. Despite e in spite of vogliono un nome. However sta all'inizio di una nuova frase. E il metodo: riconosci il dubbio, rassicura con fatti, rispondi con garbo." },
+        { "lang": "en", "text": "I understand your concern. However, we offer a full refund." }
+      ]
+    }
+  ]
+}

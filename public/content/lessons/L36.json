@@ -1,0 +1,1222 @@
+{
+  "id": 36,
+  "week": 8,
+  "title": "Colloquio di lavoro: l'esperienza",
+  "titleEn": "Job interview: your experience",
+  "intro": "Oggi impari a raccontare la tua carriera in un colloquio di lavoro in inglese: ruoli passati, responsabilità e risultati. Usi insieme present perfect, past simple e past perfect per dire cosa hai fatto, quando lo hai fatto e cosa era successo prima. Ti serve per colloqui, presentazioni ai clienti e per spiegare il tuo percorso.",
+  "goals": [
+    "Presentare la tua carriera in modo chiaro e ordinato",
+    "Scegliere il tempo giusto: present perfect, past simple o past perfect",
+    "Descrivere ruoli, responsabilità e risultati con verbi forti",
+    "Rispondere alle domande classiche sul passato lavorativo"
+  ],
+  "words": [
+    {
+      "en": "employer",
+      "pron": "implòier",
+      "it": "datore di lavoro",
+      "type": "noun",
+      "ex": "My last employer was a small agency.",
+      "exIt": "Il mio ultimo datore di lavoro era una piccola agenzia."
+    },
+    {
+      "en": "vacancy",
+      "pron": "vèikansi",
+      "it": "posto vacante",
+      "type": "noun",
+      "ex": "There's a vacancy in our team.",
+      "exIt": "C'è un posto vacante nel nostro team."
+    },
+    {
+      "en": "position",
+      "pron": "pozìscion",
+      "it": "posizione lavorativa",
+      "type": "noun",
+      "ex": "I'm applying for the senior position.",
+      "exIt": "Mi candido per la posizione senior."
+    },
+    {
+      "en": "to apply",
+      "pron": "aplài",
+      "it": "candidarsi",
+      "type": "verb",
+      "ex": "I applied for the job last week.",
+      "exIt": "Mi sono candidato per il posto la settimana scorsa."
+    },
+    {
+      "en": "track record",
+      "pron": "tràk rèkord",
+      "it": "storico dei risultati",
+      "type": "noun",
+      "ex": "She has a strong track record in e-commerce.",
+      "exIt": "Ha un ottimo storico di risultati nell'e-commerce."
+    },
+    {
+      "en": "cover letter",
+      "pron": "càver lèter",
+      "it": "lettera di presentazione",
+      "type": "noun",
+      "ex": "I wrote a short cover letter for the application.",
+      "exIt": "Ho scritto una breve lettera di presentazione per la candidatura."
+    },
+    {
+      "en": "salary",
+      "pron": "sàlari",
+      "it": "stipendio",
+      "type": "noun",
+      "ex": "The salary is fair for the role.",
+      "exIt": "Lo stipendio è adeguato al ruolo."
+    },
+    {
+      "en": "to oversee",
+      "pron": "ouversìi",
+      "it": "supervisionare",
+      "type": "verb",
+      "ex": "I oversaw the whole migration.",
+      "exIt": "Ho supervisionato l'intera migrazione."
+    },
+    {
+      "en": "to head",
+      "pron": "hed",
+      "it": "dirigere, guidare",
+      "type": "verb",
+      "ex": "She heads the design department.",
+      "exIt": "Dirige il reparto design."
+    },
+    {
+      "en": "pay rise",
+      "pron": "pèi ràiz",
+      "it": "aumento di stipendio",
+      "type": "noun",
+      "ex": "I asked for a pay rise after the project.",
+      "exIt": "Ho chiesto un aumento dopo il progetto."
+    },
+    {
+      "en": "to resign",
+      "pron": "rizàin",
+      "it": "dare le dimissioni",
+      "type": "verb",
+      "ex": "I resigned to start my own business.",
+      "exIt": "Mi sono dimesso per avviare un'attività mia."
+    },
+    {
+      "en": "to be promoted",
+      "pron": "bi promòutid",
+      "it": "essere promosso",
+      "type": "phrase",
+      "ex": "I was promoted after two years.",
+      "exIt": "Sono stato promosso dopo due anni."
+    },
+    {
+      "en": "agency",
+      "pron": "èigensi",
+      "it": "agenzia",
+      "type": "noun",
+      "ex": "I worked for a digital agency for six years.",
+      "exIt": "Ho lavorato per un'agenzia digitale per sei anni."
+    },
+    {
+      "en": "redundancy",
+      "pron": "ridàndansi",
+      "it": "licenziamento per riduzione di personale",
+      "type": "noun",
+      "ex": "The company announced several redundancies.",
+      "exIt": "L'azienda ha annunciato diversi licenziamenti."
+    },
+    {
+      "en": "to relocate",
+      "pron": "rilocèit",
+      "it": "trasferirsi",
+      "type": "verb",
+      "ex": "I relocated to Milan for work.",
+      "exIt": "Mi sono trasferito a Milano per lavoro."
+    },
+    {
+      "en": "to switch",
+      "pron": "suìcc",
+      "it": "cambiare (strada, settore)",
+      "type": "verb",
+      "ex": "I switched from design to development.",
+      "exIt": "Sono passato dal design allo sviluppo."
+    },
+    {
+      "en": "accomplishment",
+      "pron": "akòmplisciment",
+      "it": "risultato raggiunto",
+      "type": "noun",
+      "ex": "My biggest accomplishment was the new platform.",
+      "exIt": "Il mio risultato più importante è stata la nuova piattaforma."
+    },
+    {
+      "en": "to supervise",
+      "pron": "siùpervaiz",
+      "it": "coordinare e controllare",
+      "type": "verb",
+      "ex": "I supervised a team of four developers.",
+      "exIt": "Ho coordinato un team di quattro sviluppatori."
+    },
+    {
+      "en": "to rebuild",
+      "pron": "ribìld",
+      "it": "ricostruire",
+      "type": "verb",
+      "ex": "I rebuilt the whole checkout page.",
+      "exIt": "Ho ricostruito tutta la pagina di pagamento."
+    },
+    {
+      "en": "to redesign",
+      "pron": "ridizàin",
+      "it": "riprogettare",
+      "type": "verb",
+      "ex": "I redesigned the navigation menu.",
+      "exIt": "Ho riprogettato il menu di navigazione."
+    },
+    {
+      "en": "to boost",
+      "pron": "bùust",
+      "it": "far crescere, aumentare",
+      "type": "verb",
+      "ex": "The redesign boosted traffic by 40 percent.",
+      "exIt": "Il restyling ha fatto crescere il traffico del 40 per cento."
+    },
+    {
+      "en": "to streamline",
+      "pron": "strìimlain",
+      "it": "semplificare, rendere più efficiente",
+      "type": "verb",
+      "ex": "I streamlined our deployment process.",
+      "exIt": "Ho reso più efficiente il nostro processo di pubblicazione."
+    },
+    {
+      "en": "to excel at",
+      "pron": "eksèl at",
+      "it": "eccellere in",
+      "type": "phrase",
+      "ex": "I excel at solving complex problems.",
+      "exIt": "Eccello nel risolvere problemi complessi."
+    },
+    {
+      "en": "turning point",
+      "pron": "tèrning point",
+      "it": "svolta",
+      "type": "noun",
+      "ex": "That project was a turning point in my career.",
+      "exIt": "Quel progetto è stato una svolta nella mia carriera."
+    },
+    {
+      "en": "in-house",
+      "pron": "ìn haus",
+      "it": "interno all'azienda",
+      "type": "adj",
+      "ex": "We had an in-house design team.",
+      "exIt": "Avevamo un team di design interno."
+    },
+    {
+      "en": "freelance",
+      "pron": "frìilans",
+      "it": "freelance, che lavora in proprio",
+      "type": "adj",
+      "ex": "I was a freelance designer for five years.",
+      "exIt": "Sono stato designer freelance per cinque anni."
+    },
+    {
+      "en": "trainee",
+      "pron": "treinìi",
+      "it": "tirocinante, persona in formazione",
+      "type": "noun",
+      "ex": "I started as a trainee in a small studio.",
+      "exIt": "Ho iniziato come tirocinante in un piccolo studio."
+    },
+    {
+      "en": "senior",
+      "pron": "sìinior",
+      "it": "con molta esperienza, di livello alto",
+      "type": "adj",
+      "ex": "I have worked as a senior developer since 2020.",
+      "exIt": "Dal 2020 lavoro come sviluppatore senior."
+    },
+    {
+      "en": "junior",
+      "pron": "giùnior",
+      "it": "alle prime esperienze",
+      "type": "adj",
+      "ex": "I started in a junior role.",
+      "exIt": "Ho iniziato in un ruolo junior."
+    },
+    {
+      "en": "workplace",
+      "pron": "uèrkpleis",
+      "it": "luogo di lavoro",
+      "type": "noun",
+      "ex": "I like a friendly workplace.",
+      "exIt": "Mi piace un ambiente di lavoro cordiale."
+    },
+    {
+      "en": "to be made redundant",
+      "pron": "bi meid ridàndant",
+      "it": "essere licenziato per riduzione di personale",
+      "type": "phrase",
+      "ex": "The company closed, so I was made redundant.",
+      "exIt": "L'azienda ha chiuso e mi hanno licenziato per riduzione di personale."
+    },
+    {
+      "en": "line manager",
+      "pron": "lain mànidger",
+      "it": "responsabile diretto",
+      "type": "noun",
+      "ex": "My line manager was very supportive.",
+      "exIt": "Il mio responsabile diretto mi sosteneva molto."
+    },
+    {
+      "en": "team lead",
+      "pron": "tiim liid",
+      "it": "capo squadra",
+      "type": "noun",
+      "ex": "I became team lead in 2022.",
+      "exIt": "Sono diventato capo squadra nel 2022."
+    },
+    {
+      "en": "to get promoted",
+      "pron": "ghet promòutid",
+      "it": "ottenere una promozione",
+      "type": "phrase",
+      "ex": "I got promoted after two years.",
+      "exIt": "Ho avuto una promozione dopo due anni."
+    },
+    {
+      "en": "to hire",
+      "pron": "hàier",
+      "it": "assumere",
+      "type": "verb",
+      "ex": "I helped hire three new developers.",
+      "exIt": "Ho aiutato ad assumere tre nuovi sviluppatori."
+    },
+    {
+      "en": "to onboard",
+      "pron": "ònbord",
+      "it": "inserire un nuovo assunto",
+      "type": "verb",
+      "ex": "I onboarded all the new interns.",
+      "exIt": "Ho seguito l'inserimento di tutti i nuovi stagisti."
+    },
+    {
+      "en": "internship",
+      "pron": "ìnternscip",
+      "it": "stage, tirocinio",
+      "type": "noun",
+      "ex": "I did an internship at a software company.",
+      "exIt": "Ho fatto uno stage in un'azienda di software."
+    },
+    {
+      "en": "to take charge",
+      "pron": "tèik ciàrg",
+      "it": "prendere in mano, assumere la guida",
+      "type": "phrase",
+      "ex": "I took charge of the project when my manager left.",
+      "exIt": "Ho preso in mano il progetto quando il mio responsabile se n'è andato."
+    },
+    {
+      "en": "to graduate",
+      "pron": "gràdgiueit",
+      "it": "laurearsi, diplomarsi",
+      "type": "verb",
+      "ex": "I graduated in 2015.",
+      "exIt": "Mi sono laureato nel 2015."
+    },
+    {
+      "en": "career gap",
+      "pron": "carìer gap",
+      "it": "periodo senza lavoro",
+      "type": "noun",
+      "ex": "I can explain the career gap in my CV.",
+      "exIt": "Posso spiegare il periodo senza lavoro nel mio CV."
+    },
+    {
+      "en": "to expand",
+      "pron": "ekspànd",
+      "it": "espandersi",
+      "type": "verb",
+      "ex": "The agency expanded into mobile apps.",
+      "exIt": "L'agenzia si è espansa nelle app per cellulari."
+    },
+    {
+      "en": "interviewer",
+      "pron": "ìnterviuer",
+      "it": "chi conduce il colloquio",
+      "type": "noun",
+      "ex": "The interviewer asked about my last role.",
+      "exIt": "Chi conduceva il colloquio ha chiesto del mio ultimo ruolo."
+    },
+    {
+      "en": "to land",
+      "pron": "land",
+      "it": "ottenere (un lavoro)",
+      "type": "verb",
+      "ex": "I landed my first job right after university.",
+      "exIt": "Ho ottenuto il mio primo lavoro subito dopo l'università."
+    },
+    {
+      "en": "to get up to speed",
+      "pron": "ghet ap tu spiid",
+      "it": "mettersi al passo",
+      "type": "phrase",
+      "ex": "I got up to speed within two weeks.",
+      "exIt": "Mi sono messo al passo in due settimane."
+    },
+    {
+      "en": "to take the initiative",
+      "pron": "teik di inìsciativ",
+      "it": "prendere l'iniziativa",
+      "type": "phrase",
+      "ex": "I took the initiative to fix the old code.",
+      "exIt": "Ho preso l'iniziativa di sistemare il vecchio codice."
+    },
+    {
+      "en": "to meet a target",
+      "pron": "miit a tàrghet",
+      "it": "raggiungere un obiettivo",
+      "type": "phrase",
+      "ex": "We met every target last year.",
+      "exIt": "L'anno scorso abbiamo raggiunto tutti gli obiettivi."
+    },
+    {
+      "en": "to work your way up",
+      "pron": "uèrk ior uèi ap",
+      "it": "fare carriera dal basso",
+      "type": "phrase",
+      "ex": "I worked my way up from junior to lead.",
+      "exIt": "Ho fatto carriera da junior a responsabile."
+    },
+    {
+      "en": "to quit",
+      "pron": "cuit",
+      "it": "lasciare, smettere",
+      "type": "verb",
+      "ex": "I quit my job to start my own business.",
+      "exIt": "Ho lasciato il lavoro per avviare un'attività mia."
+    },
+    {
+      "en": "apprenticeship",
+      "pron": "aprèntiscip",
+      "it": "apprendistato",
+      "type": "noun",
+      "ex": "I did a three-year apprenticeship.",
+      "exIt": "Ho fatto un apprendistato di tre anni."
+    },
+    {
+      "en": "gap",
+      "pron": "gap",
+      "it": "periodo di pausa, lacuna",
+      "type": "noun",
+      "ex": "I have a six-month gap in my CV.",
+      "exIt": "Ho un periodo di pausa di sei mesi nel mio curriculum."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to graduate",
+      "it": "laurearsi",
+      "trap": "Non vuol dire 'graduare'. Si dice 'I graduated in law' o 'I graduated from the University of Milan'."
+    },
+    {
+      "en": "actual",
+      "it": "reale, vero",
+      "trap": "Non vuol dire 'attuale' (= current)."
+    },
+    {
+      "en": "stage",
+      "it": "fase, palcoscenico",
+      "trap": "Non è lo 'stage' di lavoro. Lo stage si dice internship."
+    }
+  ],
+  "grammar": {
+    "title": "Raccontare la carriera: present perfect, past simple e past perfect",
+    "explainIt": [
+      "Quando racconti la tua carriera usi tre tempi insieme. Ognuno ha un compito diverso. Se li scegli bene, il racconto è chiaro e professionale.",
+      "PRESENT PERFECT (have/has + participio): lo usi per l'esperienza fino ad oggi, senza dire quando. 'I have managed ten projects.' Lo usi anche per ciò che dura ancora, con for e since: 'I have worked here for four years' (e lavoro ancora qui). Si usa anche con ever, never, already, yet. Non puoi usarlo con un momento preciso finito: non si dice 'I have joined in 2019'.",
+      "PAST SIMPLE: lo usi per fatti finiti, con un momento o un periodo preciso. 'I joined the company in 2019.' 'I worked there for three years' (ora non lavoro più lì). Usalo per raccontare la storia: cosa hai fatto, passo per passo. Con tempi come last year, in 2018, two years ago, yesterday.",
+      "PAST PERFECT (had + participio): lo usi per una cosa avvenuta prima di un'altra cosa nel passato. 'By the time I left, I had launched twelve websites.' Prima ho lanciato i siti, poi sono andato via. 'I had worked freelance before I joined the agency.' Serve a spiegare l'ordine degli eventi. Non è obbligatorio quando l'ordine è già chiaro con before o after.",
+      "Un trucco. Fai una linea del tempo. Se l'azione continua fino ad oggi, usa present perfect. Se è finita in un momento preciso, usa past simple. Se è finita prima di un altro momento del passato, usa past perfect. In un colloquio, di solito inizi con il present perfect per il quadro generale, poi racconti i dettagli con il past simple."
+    ],
+    "explainEn": [
+      "When you tell the story of your career, you use three tenses together. Each tense has a different job. If you choose them well, your story is clear and professional.",
+      "PRESENT PERFECT (have/has + past participle): you use it for experience up to now, without saying when. 'I have managed ten projects.' You also use it for things that continue now, with for and since: 'I have worked here for four years' (and I still work here). It is also used with ever, never, already, yet. You cannot use it with a finished, exact time: we don't say 'I have joined in 2019'.",
+      "PAST SIMPLE: you use it for finished events with an exact time or period. 'I joined the company in 2019.' 'I worked there for three years' (I don't work there now). Use it to tell the story: what you did, step by step. It goes with time words like last year, in 2018, two years ago, yesterday.",
+      "PAST PERFECT (had + past participle): you use it for something that happened before another thing in the past. 'By the time I left, I had launched twelve websites.' First I launched the sites, then I left. 'I had worked freelance before I joined the agency.' It explains the order of events. It is not always needed when the order is already clear with before or after.",
+      "A trick. Draw a timeline. If the action continues until today, use present perfect. If it finished at an exact moment, use past simple. If it finished before another moment in the past, use past perfect. In an interview, you usually start with the present perfect for the big picture, and then tell the details with the past simple."
+    ],
+    "rules": [
+      {
+        "it": "Present perfect: esperienza fino ad oggi o azione che continua (for/since).",
+        "en": "Present perfect: experience up to now, or an action that continues (for/since).",
+        "form": "have/has + participio",
+        "examples": [
+          {
+            "en": "I have worked in web development for eight years.",
+            "it": "Lavoro nello sviluppo web da otto anni."
+          },
+          {
+            "en": "I've managed more than thirty client projects.",
+            "it": "Ho gestito più di trenta progetti per clienti."
+          },
+          {
+            "en": "I haven't worked in a large company yet.",
+            "it": "Non ho ancora lavorato in una grande azienda."
+          }
+        ]
+      },
+      {
+        "it": "Past simple: fatti finiti con un momento o un periodo preciso.",
+        "en": "Past simple: finished events with an exact time or period.",
+        "form": "verbo al passato (-ed o irregolare)",
+        "examples": [
+          {
+            "en": "I joined the agency in 2019 and left in 2022.",
+            "it": "Sono entrato nell'agenzia nel 2019 e me ne sono andato nel 2022."
+          },
+          {
+            "en": "I led a team of four developers for two years.",
+            "it": "Ho guidato un team di quattro sviluppatori per due anni."
+          },
+          {
+            "en": "Last year, we launched a new online shop.",
+            "it": "L'anno scorso abbiamo lanciato un nuovo negozio online."
+          }
+        ]
+      },
+      {
+        "it": "Past perfect: un'azione passata che viene prima di un'altra azione passata.",
+        "en": "Past perfect: a past action that happened before another past action.",
+        "form": "had + participio",
+        "examples": [
+          {
+            "en": "By the time I left, I had trained five new colleagues.",
+            "it": "Quando me ne sono andato, avevo formato cinque nuovi colleghi."
+          },
+          {
+            "en": "I had already worked as a freelancer before I joined the agency.",
+            "it": "Avevo già lavorato come freelance prima di entrare nell'agenzia."
+          },
+          {
+            "en": "The team had finished the design when I arrived.",
+            "it": "Il team aveva finito il design quando sono arrivato."
+          }
+        ]
+      },
+      {
+        "it": "Insieme: present perfect per il quadro generale, past simple per i dettagli, past perfect per l'ordine.",
+        "en": "Together: present perfect for the big picture, past simple for the details, past perfect for the order.",
+        "form": "have done → did → had done",
+        "examples": [
+          {
+            "en": "I've worked in IT for ten years. I started as an intern, and I'd learned to code before I joined my first company.",
+            "it": "Lavoro nell'IT da dieci anni. Ho iniziato come stagista e avevo imparato a programmare prima di entrare nella mia prima azienda."
+          },
+          {
+            "en": "I've led three teams. In 2021 I took over a team that had lost its manager.",
+            "it": "Ho guidato tre team. Nel 2021 ho preso in carico un team che aveva perso il suo responsabile."
+          }
+        ]
+      }
+    ],
+    "tip": "Nel colloquio inizia con 'I've worked in... for...' per presentare il quadro. Poi usa 'In 2019, I joined...' per i dettagli. Usa 'had' solo per spiegare cosa era già successo prima.",
+    "mistakes": [
+      {
+        "wrong": "I have joined the company in 2019.",
+        "right": "I joined the company in 2019.",
+        "why": "con un anno preciso si usa il past simple"
+      },
+      {
+        "wrong": "I work here since 2019.",
+        "right": "I have worked here since 2019.",
+        "why": "per un'azione che inizia nel passato e continua ora serve il present perfect con since"
+      },
+      {
+        "wrong": "I have worked there for three years. (ma ora lavori altrove)",
+        "right": "I worked there for three years.",
+        "why": "se l'esperienza è finita si usa il past simple"
+      },
+      {
+        "wrong": "When I left, I launched twelve sites. (prima di partire)",
+        "right": "By the time I left, I had launched twelve sites.",
+        "why": "per un'azione precedente a un'altra passata serve il past perfect"
+      },
+      {
+        "wrong": "I had been promoted yesterday.",
+        "right": "I was promoted yesterday.",
+        "why": "con yesterday e senza un'altra azione passata, basta il past simple"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I ___ (work) in web development for eight years. (e lavoro ancora)",
+      "a": [
+        "have worked",
+        "'ve worked",
+        "have been working"
+      ],
+      "hint": "dura ancora",
+      "explain": "Azione che continua con for: present perfect."
+    },
+    {
+      "q": "I ___ (join) the agency in 2019.",
+      "a": [
+        "joined"
+      ],
+      "hint": "anno preciso",
+      "explain": "Anno preciso: past simple."
+    },
+    {
+      "q": "She ___ (be) a team lead since 2021.",
+      "a": [
+        "has been",
+        "'s been"
+      ],
+      "hint": "since",
+      "explain": "Since + present perfect."
+    },
+    {
+      "q": "By the time I left, I ___ (launch) twelve websites.",
+      "a": [
+        "had launched",
+        "'d launched"
+      ],
+      "hint": "prima di andare via",
+      "explain": "Prima di un altro momento passato: past perfect."
+    },
+    {
+      "q": "I have never ___ (work) abroad. (finora)",
+      "a": [
+        "worked"
+      ],
+      "hint": "never",
+      "explain": "Never + present perfect: have never worked."
+    },
+    {
+      "q": "Last year, we ___ (launch) a new online shop.",
+      "a": [
+        "launched"
+      ],
+      "hint": "last year",
+      "explain": "Last year: past simple."
+    },
+    {
+      "q": "I ___ (already, learn) to code before I joined the company.",
+      "a": [
+        "had already learned",
+        "'d already learned",
+        "had already learnt",
+        "'d already learnt"
+      ],
+      "hint": "prima di joined",
+      "explain": "Prima di un'altra azione passata: past perfect."
+    },
+    {
+      "q": "I ___ (work) there for three years, then I resigned.",
+      "a": [
+        "worked"
+      ],
+      "hint": "è finito",
+      "explain": "Esperienza finita: past simple."
+    },
+    {
+      "q": "How long have you ___ (live) in Milan? (e vivi ancora lì)",
+      "a": [
+        "lived"
+      ],
+      "hint": "dura ancora",
+      "explain": "How long + present perfect per azione ancora in corso."
+    },
+    {
+      "q": "When I arrived, the team ___ (finish) the design.",
+      "a": [
+        "had finished",
+        "'d finished"
+      ],
+      "hint": "prima del mio arrivo",
+      "explain": "Past perfect: prima di arrived."
+    },
+    {
+      "q": "I ___ (be) promoted in 2022 and moved to Rome.",
+      "a": [
+        "was"
+      ],
+      "hint": "2022",
+      "explain": "Anno preciso: past simple (was promoted)."
+    },
+    {
+      "q": "I ___ (manage) more than thirty projects so far.",
+      "a": [
+        "have managed",
+        "'ve managed"
+      ],
+      "hint": "so far",
+      "explain": "So far = fino ad ora: present perfect."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Presentare il tuo percorso",
+      "en": "I've worked in web development for eight years.",
+      "it": "Lavoro nello sviluppo web da otto anni."
+    },
+    {
+      "group": "Presentare il tuo percorso",
+      "en": "I started my career as a junior developer.",
+      "it": "Ho iniziato la carriera come sviluppatore junior."
+    },
+    {
+      "group": "Presentare il tuo percorso",
+      "en": "I have a background in design and coding.",
+      "it": "Ho una formazione in design e programmazione."
+    },
+    {
+      "group": "Presentare il tuo percorso",
+      "en": "I specialise in accessible websites.",
+      "it": "Sono specializzato in siti accessibili."
+    },
+    {
+      "group": "Presentare il tuo percorso",
+      "en": "I worked my way up from junior to team lead.",
+      "it": "Ho fatto carriera da junior a capo squadra."
+    },
+    {
+      "group": "Ruoli e responsabilità",
+      "en": "I was in charge of client projects.",
+      "it": "Ero responsabile dei progetti dei clienti."
+    },
+    {
+      "group": "Ruoli e responsabilità",
+      "en": "I reported directly to the head of IT.",
+      "it": "Rispondevo direttamente al responsabile IT."
+    },
+    {
+      "group": "Ruoli e responsabilità",
+      "en": "I led a team of four developers.",
+      "it": "Guidavo un team di quattro sviluppatori."
+    },
+    {
+      "group": "Ruoli e responsabilità",
+      "en": "I took on more responsibility over time.",
+      "it": "Con il tempo ho assunto più responsabilità."
+    },
+    {
+      "group": "Ruoli e responsabilità",
+      "en": "I took the initiative to improve our process.",
+      "it": "Ho preso l'iniziativa di migliorare il nostro processo."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "I launched twelve websites in two years.",
+      "it": "Ho lanciato dodici siti in due anni."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "We boosted traffic by 40 percent.",
+      "it": "Abbiamo fatto crescere il traffico del 40 per cento."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "I streamlined our deployment process.",
+      "it": "Ho reso più efficiente il nostro processo di pubblicazione."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "We delivered every project on time.",
+      "it": "Abbiamo consegnato ogni progetto in tempo."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "My biggest accomplishment was the new platform.",
+      "it": "Il mio risultato più importante è stata la nuova piattaforma."
+    },
+    {
+      "group": "Spiegare i cambiamenti",
+      "en": "I felt it was time to move on.",
+      "it": "Sentivo che era ora di cambiare."
+    },
+    {
+      "group": "Spiegare i cambiamenti",
+      "en": "I left because I wanted new challenges.",
+      "it": "Me ne sono andato perché volevo nuove sfide."
+    },
+    {
+      "group": "Spiegare i cambiamenti",
+      "en": "I switched from design to development.",
+      "it": "Sono passato dal design allo sviluppo."
+    },
+    {
+      "group": "Spiegare i cambiamenti",
+      "en": "I took a career break to study full-time.",
+      "it": "Ho fatto una pausa dal lavoro per studiare a tempo pieno."
+    },
+    {
+      "group": "Spiegare i cambiamenti",
+      "en": "My contract ended, so I started to freelance.",
+      "it": "Il mio contratto è finito, quindi ho iniziato a lavorare come libero professionista."
+    },
+    {
+      "group": "Rispondere alle domande classiche",
+      "en": "Could you walk me through your CV?",
+      "it": "Può raccontarmi il suo CV?"
+    },
+    {
+      "group": "Rispondere alle domande classiche",
+      "en": "What was your biggest accomplishment in your last role?",
+      "it": "Qual è stato il suo risultato più importante nell'ultimo ruolo?"
+    },
+    {
+      "group": "Rispondere alle domande classiche",
+      "en": "Why did you leave your last job?",
+      "it": "Perché ha lasciato l'ultimo lavoro?"
+    },
+    {
+      "group": "Rispondere alle domande classiche",
+      "en": "Can you give me an example?",
+      "it": "Può farmi un esempio?"
+    },
+    {
+      "group": "Rispondere alle domande classiche",
+      "en": "That's a good question. Let me think.",
+      "it": "È una buona domanda. Mi lasci pensare."
+    }
+  ],
+  "dialogue": {
+    "title": "An interview for a senior role",
+    "context": "Luca fa un colloquio per un posto da sviluppatore web senior in un'agenzia. L'intervistatrice, Helen, gli chiede del suo percorso. Luca risponde usando present perfect, past simple e past perfect.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Thanks for coming in, Luca. Could you walk me through your career so far?",
+        "it": "Grazie di essere venuto, Luca. Può raccontarmi il suo percorso finora?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Of course. I've worked in web development for ten years. I started as an intern, and I'd already built a few small sites before I graduated.",
+        "it": "Certo. Lavoro nello sviluppo web da dieci anni. Ho iniziato come stagista e avevo già creato qualche piccolo sito prima di laurearmi."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Interesting. And what did you do after your internship?",
+        "it": "Interessante. E cosa ha fatto dopo lo stage?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I joined a small agency in Milan in 2016. I worked there for four years and I was promoted to team lead in 2018.",
+        "it": "Sono entrato in una piccola agenzia a Milano nel 2016. Ho lavorato lì per quattro anni e nel 2018 sono stato promosso capo squadra."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "What were your main responsibilities as team lead?",
+        "it": "Quali erano le sue responsabilità principali come capo squadra?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I was in charge of client projects and I led a team of four developers. By the time I left, we had launched more than thirty websites.",
+        "it": "Ero responsabile dei progetti dei clienti e guidavo un team di quattro sviluppatori. Quando me ne sono andato, avevamo lanciato più di trenta siti."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Impressive. Why did you leave in 2020?",
+        "it": "Notevole. Perché se n'è andato nel 2020?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I felt it was time to move on. I wanted to specialise in accessibility, so I started working freelance.",
+        "it": "Sentivo che era ora di cambiare. Volevo specializzarmi in accessibilità, quindi ho iniziato a lavorare come libero professionista."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "And how has freelancing been?",
+        "it": "E com'è stato lavorare in proprio?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Very rewarding. I've audited more than forty websites, and I've worked with clients in five countries.",
+        "it": "Molto gratificante. Ho fatto l'audit di più di quaranta siti e ho lavorato con clienti in cinque Paesi."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "What was your biggest accomplishment?",
+        "it": "Qual è stato il suo risultato più importante?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Last year, I redesigned a bank's website. We boosted its accessibility score from 60 to 95, and the client had never had such good results.",
+        "it": "L'anno scorso ho rifatto il sito di una banca. Abbiamo portato il punteggio di accessibilità da 60 a 95 e il cliente non aveva mai avuto risultati così buoni."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "That's a strong track record. Have you ever worked in a large team?",
+        "it": "È un ottimo storico di risultati. Ha mai lavorato in un grande team?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Not full-time, no. But I've collaborated with large teams on several projects, and I got up to speed quickly each time.",
+        "it": "Non a tempo pieno, no. Ma ho collaborato con grandi team su vari progetti e ogni volta mi sono messo al passo in fretta."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Good. Thank you, Luca. That gives me a clear picture of your background.",
+        "it": "Bene. Grazie, Luca. Mi dà un quadro chiaro del suo percorso."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "How long has Luca worked in web development?",
+      "options": [
+        "Four years",
+        "Ten years",
+        "Two years"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When was Luca promoted to team lead?",
+      "options": [
+        "In 2016",
+        "In 2018",
+        "In 2020"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Why did Luca leave the agency?",
+      "options": [
+        "He was made redundant",
+        "He wanted to specialise in accessibility",
+        "He had to relocate"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What was his biggest accomplishment?",
+      "options": [
+        "Improving a bank website's accessibility score",
+        "Starting a new agency",
+        "Writing a book"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Lavoro nello sviluppo web da otto anni.",
+      "en": "I've worked in web development for eight years.",
+      "alt": [
+        "I have worked in web development for eight years.",
+        "I have been working in web development for eight years."
+      ]
+    },
+    {
+      "it": "Sono entrato nell'azienda nel 2019.",
+      "en": "I joined the company in 2019.",
+      "alt": [
+        "I joined the firm in 2019."
+      ]
+    },
+    {
+      "it": "Quando me ne sono andato, avevo lanciato dodici siti.",
+      "en": "By the time I left, I had launched twelve websites.",
+      "alt": [
+        "When I left, I had launched twelve websites.",
+        "By the time I left, I'd launched twelve websites."
+      ]
+    },
+    {
+      "it": "Ho guidato un team di quattro persone per due anni.",
+      "en": "I led a team of four people for two years.",
+      "alt": [
+        "I led a team of four for two years.",
+        "I managed a team of four people for two years."
+      ]
+    },
+    {
+      "it": "Ero responsabile dei progetti dei clienti.",
+      "en": "I was in charge of client projects.",
+      "alt": [
+        "I was responsible for client projects.",
+        "I was in charge of the clients' projects."
+      ]
+    },
+    {
+      "it": "Sono stato promosso dopo due anni.",
+      "en": "I was promoted after two years.",
+      "alt": [
+        "I got a promotion after two years.",
+        "I was promoted two years later."
+      ]
+    },
+    {
+      "it": "Ho fatto crescere il traffico del 40 per cento.",
+      "en": "I boosted traffic by 40 percent.",
+      "alt": [
+        "I increased traffic by 40 percent.",
+        "I boosted the traffic by 40 percent."
+      ]
+    },
+    {
+      "it": "Non ho ancora lavorato all'estero.",
+      "en": "I haven't worked abroad yet.",
+      "alt": [
+        "I have not worked abroad yet.",
+        "I haven't worked overseas yet."
+      ]
+    },
+    {
+      "it": "Avevo già lavorato come freelance prima di entrare nell'agenzia.",
+      "en": "I had already worked as a freelancer before I joined the agency.",
+      "alt": [
+        "I'd already worked as a freelancer before I joined the agency.",
+        "I had already worked freelance before I joined the agency."
+      ]
+    },
+    {
+      "it": "Mi sono specializzato in siti accessibili.",
+      "en": "I specialised in accessible websites.",
+      "alt": [
+        "I specialized in accessible websites.",
+        "I specialised in accessible sites.", "I've specialised in accessible websites."
+      ]
+    },
+    {
+      "it": "Ho lasciato il lavoro perché volevo nuove sfide.",
+      "en": "I left my job because I wanted new challenges.",
+      "alt": [
+        "I left because I wanted new challenges.",
+        "I left my job as I wanted new challenges."
+      ]
+    },
+    {
+      "it": "Quando sono arrivato, il team aveva già finito il design.",
+      "en": "When I arrived, the team had already finished the design.",
+      "alt": [
+        "When I arrived, the team had finished the design.",
+        "By the time I arrived, the team had finished the design."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi la risposta alla domanda di un colloquio: 'Mi racconti il suo percorso professionale'. Presenta in 6-8 righe il quadro generale con il present perfect (da quanti anni lavori, cosa hai fatto finora). Poi racconta due tappe con il past simple e date precise. Usa il past perfect almeno una volta per dire cosa era già successo prima. Concludi con il tuo risultato più importante e perché vuoi questo nuovo lavoro.",
+    "taskEn": "Write the answer to an interview question: 'Walk me through your career'. In 6-8 lines, present the big picture with the present perfect (how many years you have worked, what you have done so far). Then tell two steps with the past simple and exact dates. Use the past perfect at least once to say what had already happened before. Finish with your biggest accomplishment and why you want this new job.",
+    "model": "I've worked in web development for ten years, and I've managed more than thirty projects for clients in several countries.\nI started as an intern in 2014. I had already built a few small sites before I graduated, so I got up to speed quickly. In 2016 I joined a small agency in Milan, where I was promoted to team lead in 2018.\nBy the time I left in 2020, we had launched more than thirty websites. I then moved to freelance work to specialise in accessibility.\nMy biggest accomplishment was redesigning a bank's website, which boosted its accessibility score from 60 to 95.\nNow I'd like to join a larger team and work on more complex projects, which is why this position is a great fit."
+  },
+  "speaking": {
+    "shadowing": [
+      "I've worked in web development for ten years.",
+      "I joined the agency in 2016 and was promoted in 2018.",
+      "By the time I left, we had launched thirty websites.",
+      "I was in charge of client projects and led a team of four.",
+      "I felt it was time to move on and try something new.",
+      "I've audited more than forty websites so far.",
+      "We boosted the accessibility score from sixty to ninety-five.",
+      "I took the initiative to improve our process."
+    ],
+    "prompts": [
+      {
+        "en": "Walk me through your career so far.",
+        "it": "Mi racconti il suo percorso finora.",
+        "help": "Inizia con: I've worked in... for... years. I started as... In 20.., I joined..."
+      },
+      {
+        "en": "What was your biggest accomplishment at work?",
+        "it": "Qual è stato il tuo più grande risultato al lavoro?",
+        "help": "Usa: I launched..., I boosted..., By the time..., we had..."
+      },
+      {
+        "en": "Why did you leave your last job?",
+        "it": "Perché hai lasciato l'ultimo lavoro?",
+        "help": "Usa: I felt it was time to move on. I wanted new challenges."
+      },
+      {
+        "en": "What were your responsibilities in your last role?",
+        "it": "Quali erano le tue responsabilità nell'ultimo ruolo?",
+        "help": "Usa: I was in charge of..., I reported to..., I led..."
+      },
+      {
+        "en": "What have you learned from your experience so far?",
+        "it": "Cosa hai imparato dalla tua esperienza finora?",
+        "help": "Usa: I've learned that..., I've realised that..., I've got better at..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": [
+        "Job interview: your experience",
+        "present perfect, past simple, past perfect"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi impari a raccontare la tua carriera in un colloquio di lavoro in inglese. Usi tre tempi insieme: present perfect, past simple e past perfect."
+        },
+        {
+          "lang": "en",
+          "text": "Could you walk me through your career so far?"
+        }
+      ]
+    },
+    {
+      "title": "Present perfect",
+      "show": [
+        "have / has + participio",
+        "esperienza fino ad oggi",
+        "for e since"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il present perfect serve per l'esperienza fino ad oggi. Lo usi anche per ciò che continua ancora, con for e since. Non lo usi con una data precisa finita."
+        },
+        {
+          "lang": "en",
+          "text": "I've worked in web development for eight years. I've managed more than thirty projects."
+        }
+      ]
+    },
+    {
+      "title": "Past simple",
+      "show": [
+        "fatti finiti",
+        "in 2019, last year, two years ago"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il past simple serve per fatti finiti, con un momento o un periodo preciso. Con una data, usi sempre il past simple."
+        },
+        {
+          "lang": "en",
+          "text": "I joined the agency in 2016. I led a team of four developers for two years."
+        }
+      ]
+    },
+    {
+      "title": "Past perfect",
+      "show": [
+        "had + participio",
+        "prima di un altro momento passato"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il past perfect serve per un'azione che viene prima di un'altra azione nel passato. Usa had più il participio passato."
+        },
+        {
+          "lang": "en",
+          "text": "By the time I left, I had launched twelve websites."
+        }
+      ]
+    },
+    {
+      "title": "I tre tempi insieme",
+      "show": [
+        "quadro generale: present perfect",
+        "dettagli: past simple",
+        "ordine: past perfect"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In un colloquio inizi con il present perfect per il quadro generale. Poi racconti i dettagli con il past simple. Usi il past perfect per spiegare cosa era già successo prima."
+        },
+        {
+          "lang": "en",
+          "text": "I've worked in IT for ten years. I started as an intern. I'd already learned to code before I joined my first company."
+        }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": [
+        "I have joined in 2019   sbagliato",
+        "I joined in 2019   giusto",
+        "I work here since 2019   sbagliato"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Due errori comuni. Con una data precisa non usare il present perfect. E per un'azione che continua, non usare il presente con since, ma il present perfect."
+        },
+        {
+          "lang": "en",
+          "text": "I joined the company in 2019. I have worked here since 2019."
+        }
+      ]
+    },
+    {
+      "title": "Ruoli e responsabilità",
+      "show": [
+        "I was in charge of...",
+        "I reported to...",
+        "I led a team of..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per descrivere il tuo ruolo, usa frasi forti. Ero responsabile di, rispondevo a, guidavo un team."
+        },
+        {
+          "lang": "en",
+          "text": "I was in charge of client projects. I reported to the head of IT."
+        }
+      ]
+    },
+    {
+      "title": "Raccontare i risultati",
+      "show": [
+        "launched",
+        "boosted",
+        "streamlined",
+        "delivered"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Racconta risultati concreti con numeri e verbi di azione. Launched, boosted, streamlined, delivered. Un numero rende il racconto credibile."
+        },
+        {
+          "lang": "en",
+          "text": "We boosted traffic by forty percent. We delivered every project on time."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "present perfect = fino ad oggi",
+        "past simple = finito, con data",
+        "past perfect = prima di un altro fatto"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riepilogo. Present perfect per il quadro generale. Past simple per i dettagli con le date. Past perfect per ciò che era già successo prima. Ora fai gli esercizi e prepara la tua risposta."
+        },
+        {
+          "lang": "en",
+          "text": "I've worked here for ten years. I joined in 2016. I had already learned to code."
+        }
+      ]
+    }
+  ]
+}

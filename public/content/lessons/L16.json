@@ -1,0 +1,324 @@
+{
+  "id": 16,
+  "week": 4,
+  "title": "Preventivi e prezzi",
+  "titleEn": "Quotes and prices",
+  "intro": "Oggi impari a parlare di tariffe, pacchetti, sconti e confronti tra offerte. Ti servono i comparativi e i superlativi per dire che un'offerta è più economica o la migliore. Ti servono anche much, many, few e little per parlare di quantità, e la differenza tra nomi numerabili e non numerabili.",
+  "goals": [
+    "Confrontare due offerte con i comparativi (cheaper than, more expensive than)",
+    "Indicare l'offerta migliore con i superlativi (the cheapest, the most complete)",
+    "Usare much, many, few, little, less, fewer senza errori",
+    "Descrivere tariffe, pacchetti e costi inclusi o esclusi"
+  ],
+  "words": [
+    { "en": "tariff", "pron": "tàrif", "it": "tariffa (luce, telefono, hotel); anche dazio", "type": "noun", "ex": "Our mobile tariff includes unlimited data.", "exIt": "La nostra tariffa telefonica include dati illimitati." },
+    { "en": "price tag", "pron": "pràis tàg", "it": "cartellino del prezzo, costo", "type": "noun", "ex": "The new platform has a big price tag.", "exIt": "La nuova piattaforma ha un costo elevato." },
+    { "en": "flat fee", "pron": "flàt fìi", "it": "tariffa fissa, forfait", "type": "noun", "ex": "We charge a flat fee for the whole project.", "exIt": "Applichiamo una tariffa fissa per l'intero progetto." },
+    { "en": "hourly rate", "pron": "àuarli rèit", "it": "tariffa oraria", "type": "noun", "ex": "My hourly rate depends on the type of work.", "exIt": "La mia tariffa oraria dipende dal tipo di lavoro." },
+    { "en": "retainer", "pron": "ritèiner", "it": "canone mensile per assistenza continuativa", "type": "noun", "ex": "A monthly retainer includes ten hours of support.", "exIt": "Un canone mensile comprende dieci ore di assistenza." },
+    { "en": "package", "pron": "pàkigi", "it": "pacchetto, formula", "type": "noun", "ex": "The premium package includes hosting and maintenance.", "exIt": "Il pacchetto premium comprende hosting e manutenzione." },
+    { "en": "special offer", "pron": "spèscial òfer", "it": "offerta speciale", "type": "noun", "ex": "This special offer ends on Friday.", "exIt": "Questa offerta speciale scade venerdì." },
+    { "en": "promotion", "pron": "promòuscion", "it": "promozione commerciale", "type": "noun", "ex": "We're running a promotion on annual plans.", "exIt": "Stiamo facendo una promozione sui piani annuali." },
+    { "en": "bundle", "pron": "bàndol", "it": "pacchetto di servizi insieme", "type": "noun", "ex": "You save money if you buy the bundle.", "exIt": "Risparmi se compri il pacchetto." },
+    { "en": "surcharge", "pron": "sèrciargi", "it": "supplemento, sovrapprezzo", "type": "noun", "ex": "There is a surcharge for urgent requests.", "exIt": "C'è un supplemento per le richieste urgenti." },
+    { "en": "add-on", "pron": "àd on", "it": "servizio aggiuntivo, extra", "type": "noun", "ex": "Extra languages are an optional add-on.", "exIt": "Le lingue extra sono un servizio aggiuntivo facoltativo." },
+    { "en": "price quote", "pron": "pràis kuòut", "it": "prezzo indicato nel preventivo", "type": "noun", "ex": "The price quote is valid for thirty days.", "exIt": "Il prezzo indicato nel preventivo vale trenta giorni." },
+    { "en": "included", "pron": "inclùdid", "it": "incluso, compreso", "type": "adj", "ex": "Hosting is included in the price.", "exIt": "L'hosting è incluso nel prezzo." },
+    { "en": "excluding VAT", "pron": "eksklùuding vìi èi tìi", "it": "IVA esclusa", "type": "phrase", "ex": "All prices are excluding VAT.", "exIt": "Tutti i prezzi sono IVA esclusa." },
+    { "en": "rate card", "pron": "rèit kàrd", "it": "listino tariffe", "type": "noun", "ex": "I'll send you our rate card.", "exIt": "Ti mando il nostro listino tariffe." },
+    { "en": "introductory offer", "pron": "intradàktori òfer", "it": "offerta di lancio", "type": "noun", "ex": "The introductory offer is valid for new clients only.", "exIt": "L'offerta di lancio vale solo per i nuovi clienti." },
+    { "en": "ballpark figure", "pron": "bòolpark fìgar", "it": "cifra approssimativa", "type": "noun", "ex": "Can you give me a ballpark figure?", "exIt": "Puoi darmi una cifra indicativa?" },
+    { "en": "price hike", "pron": "pràis hàik", "it": "aumento di prezzo", "type": "noun", "ex": "The price hike will start in January.", "exIt": "L'aumento di prezzo partirà a gennaio." },
+    { "en": "volume discount", "pron": "vòliùm dìskaunt", "it": "sconto quantità", "type": "noun", "ex": "We give a volume discount on ten licences or more.", "exIt": "Facciamo uno sconto quantità da dieci licenze in su." },
+    { "en": "price list", "pron": "pràis lìst", "it": "listino prezzi", "type": "noun", "ex": "The price list is on our website.", "exIt": "Il listino prezzi è sul nostro sito." },
+    { "en": "overpriced", "pron": "ouverpràist", "it": "troppo caro, sopravvalutato", "type": "adj", "ex": "I think this package is overpriced.", "exIt": "Penso che questo pacchetto sia troppo caro." },
+    { "en": "competitive", "pron": "kompètitiv", "it": "competitivo, conveniente", "type": "adj", "ex": "Our rates are very competitive.", "exIt": "Le nostre tariffe sono molto competitive." },
+    { "en": "value for money", "pron": "vàliu for màni", "it": "buon rapporto qualità prezzo", "type": "phrase", "ex": "This is the best value for money.", "exIt": "Questo è il miglior rapporto qualità prezzo." },
+    { "en": "premium", "pron": "prìimiam", "it": "di fascia alta, premium", "type": "adj", "ex": "The premium plan includes priority support.", "exIt": "Il piano premium include assistenza prioritaria." },
+    { "en": "basic", "pron": "bèisik", "it": "di base, essenziale", "type": "adj", "ex": "The basic plan has no extra features.", "exIt": "Il piano base non ha funzioni extra." },
+    { "en": "tailored", "pron": "tèilord", "it": "su misura", "type": "adj", "ex": "We offer a tailored solution for each client.", "exIt": "Offriamo una soluzione su misura per ogni cliente." },
+    { "en": "one-off", "pron": "uàn òf", "it": "una tantum, singolo", "type": "adj", "ex": "The design is a one-off cost.", "exIt": "Il design è un costo una tantum." },
+    { "en": "recurring", "pron": "rikèrin", "it": "ricorrente", "type": "adj", "ex": "Hosting is a recurring cost.", "exIt": "L'hosting è un costo ricorrente." },
+    { "en": "price range", "pron": "pràis rèindg", "it": "fascia di prezzo", "type": "noun", "ex": "What price range do you have in mind?", "exIt": "Che fascia di prezzo hai in mente?" },
+    { "en": "setup fee", "pron": "sètap fìi", "it": "quota di attivazione", "type": "noun", "ex": "The setup fee is a one-off cost of 50 euros.", "exIt": "La quota di attivazione è un costo una tantum di 50 euro." },
+    { "en": "subtotal", "pron": "sàbtoutol", "it": "totale parziale", "type": "noun", "ex": "The subtotal is before VAT.", "exIt": "Il totale parziale è prima dell'IVA." },
+    { "en": "grand total", "pron": "grànd tòutol", "it": "totale complessivo", "type": "noun", "ex": "The grand total is two thousand euros.", "exIt": "Il totale complessivo è di duemila euro." },
+    { "en": "to waive", "pron": "uèiv", "it": "rinunciare a, non applicare (una spesa)", "type": "verb", "ex": "We can waive the setup fee.", "exIt": "Possiamo non applicare la quota di attivazione." },
+    { "en": "to adjust", "pron": "adgiàst", "it": "adeguare, ritoccare", "type": "verb", "ex": "We can adjust the offer to your needs.", "exIt": "Possiamo adeguare l'offerta alle vostre esigenze." },
+    { "en": "to include", "pron": "inclùud", "it": "includere, comprendere", "type": "verb", "ex": "The offer includes three rounds of changes.", "exIt": "L'offerta comprende tre giri di modifiche." },
+    { "en": "to exclude", "pron": "eksclùud", "it": "escludere", "type": "verb", "ex": "This price excludes travel costs.", "exIt": "Questo prezzo esclude le spese di viaggio." },
+    { "en": "mark-up", "pron": "màrk àp", "it": "ricarico", "type": "noun", "ex": "We apply a ten per cent mark-up on licences.", "exIt": "Applichiamo un ricarico del dieci per cento sulle licenze." },
+    { "en": "to afford", "pron": "afòrd", "it": "permettersi", "type": "verb", "ex": "We can't afford a complete redesign this year.", "exIt": "Quest'anno non possiamo permetterci un rifacimento completo." },
+    { "en": "to itemise", "pron": "àitemais", "it": "elencare voce per voce", "type": "verb", "ex": "We can itemise every cost in the quote.", "exIt": "Possiamo elencare ogni costo voce per voce nel preventivo." },
+    { "en": "savings", "pron": "sèivinz", "it": "risparmi", "type": "noun", "ex": "The savings are about 200 euros a year.", "exIt": "Il risparmio è di circa 200 euro all'anno." },
+    { "en": "running costs", "pron": "rànin kòsts", "it": "costi di gestione", "type": "noun", "ex": "A bigger site also means higher running costs.", "exIt": "Un sito più grande significa anche costi di gestione più alti." },
+    { "en": "margin", "pron": "màrgin", "it": "margine di guadagno", "type": "noun", "ex": "Our margin on this project is very small.", "exIt": "Il nostro margine su questo progetto è molto piccolo." },
+    { "en": "breakdown", "pron": "brèikdaun", "it": "dettaglio, suddivisione dei costi", "type": "noun", "ex": "Could you send me a breakdown of the costs?", "exIt": "Potresti mandarmi il dettaglio dei costi?" },
+    { "en": "line item", "pron": "làin àitem", "it": "voce di costo", "type": "noun", "ex": "Each line item is explained in the document.", "exIt": "Ogni voce di costo è spiegata nel documento." },
+    { "en": "all-inclusive", "pron": "òol inklùusiv", "it": "tutto compreso", "type": "adj", "ex": "It's an all-inclusive package, with no extras.", "exIt": "È un pacchetto tutto compreso, senza extra." },
+    { "en": "hidden costs", "pron": "hìden kòsts", "it": "costi nascosti", "type": "noun", "ex": "There are no hidden costs.", "exIt": "Non ci sono costi nascosti." },
+    { "en": "tier", "pron": "tìar", "it": "livello, fascia (di un piano)", "type": "noun", "ex": "We have three pricing tiers.", "exIt": "Abbiamo tre fasce di prezzo." },
+    { "en": "subscription", "pron": "sabscrìpscion", "it": "abbonamento", "type": "noun", "ex": "The software is sold as a monthly subscription.", "exIt": "Il software è venduto come abbonamento mensile." },
+    { "en": "licence", "pron": "làisens", "it": "licenza (americano: license)", "type": "noun", "ex": "The licence is valid for one year.", "exIt": "La licenza è valida per un anno." },
+    { "en": "to upgrade", "pron": "apgrèid", "it": "passare a un piano superiore", "type": "verb", "ex": "You can upgrade to the premium plan at any time.", "exIt": "Puoi passare al piano premium in qualsiasi momento." }
+  ],
+  "falseFriends": [
+    { "en": "economic", "it": "economico (dell'economia)", "trap": "Non vuol dire 'a buon mercato'. Economic riguarda l'economia. Per 'poco costoso' usa cheap, affordable o economical." },
+    { "en": "prize", "it": "premio", "trap": "Non vuol dire 'prezzo'. Il prezzo è price; prize è il premio di una gara." },
+    { "en": "fabric", "it": "tessuto", "trap": "Non vuol dire 'fabbrica'. Fabbrica si dice factory." }
+  ],
+  "grammar": {
+    "title": "Comparativi, superlativi, much/many/few/little",
+    "explainIt": [
+      "Per confrontare due cose si usa il comparativo. Con gli aggettivi corti (una sillaba) si aggiunge -er e si usa than: cheap, cheaper than. This plan is cheaper than that one. Con gli aggettivi lunghi (due o più sillabe) si usa more o less davanti: more expensive than, less flexible than. Gli aggettivi in -y cambiano in -ier: easy, easier; busy, busier.",
+      "Per dire che qualcosa è il più o il meno di tutti si usa il superlativo, sempre con the. Aggettivi corti: the cheapest, the biggest. Aggettivi lunghi: the most expensive, the least popular. Gli aggettivi irregolari: good, better, the best; bad, worse, the worst; far, further, the furthest. Per dire che due cose sono uguali usa as ... as: This plan is as good as that one.",
+      "Per le quantità devi sapere se il nome è numerabile o non numerabile. Numerabile: puoi contarlo (one page, two pages). Non numerabile: non puoi contarlo (money, time, information, advice, work, software). Se un nome è non numerabile non ha il plurale e usa il verbo al singolare.",
+      "Many, few, a few vanno con i nomi numerabili plurali: many pages, few options, a few changes. Much, little, a little vanno con i nomi non numerabili: much time, little money, a little help. Much e many si usano soprattutto nelle domande e nelle negative: How much does it cost? How many pages do you need? Nelle affermative si usa a lot of: We have a lot of work.",
+      "Few e little hanno senso negativo (quasi niente, troppo poco). A few e a little hanno senso positivo (alcuni, un po'). I have few clients: ne ho pochi, è un problema. I have a few clients: ne ho alcuni, va bene. Per i confronti: fewer con i numerabili (fewer pages), less con i non numerabili (less money). Anche more serve per entrambi: more pages, more money."
+    ],
+    "explainEn": [
+      "To compare two things, use the comparative. With short adjectives (one syllable) add -er and use than: cheap, cheaper than. This plan is cheaper than that one. With long adjectives (two or more syllables) put more or less before the adjective: more expensive than, less flexible than. Adjectives ending in -y change to -ier: easy, easier; busy, busier.",
+      "To say that something is the most or the least of all, use the superlative, always with the. Short adjectives: the cheapest, the biggest. Long adjectives: the most expensive, the least popular. Irregular adjectives: good, better, the best; bad, worse, the worst; far, further, the furthest. To say that two things are equal, use as ... as: This plan is as good as that one.",
+      "For quantities, you need to know if the noun is countable or uncountable. Countable: you can count it (one page, two pages). Uncountable: you cannot count it (money, time, information, advice, work, software). An uncountable noun has no plural and takes a singular verb.",
+      "Many, few and a few go with plural countable nouns: many pages, few options, a few changes. Much, little and a little go with uncountable nouns: much time, little money, a little help. Much and many are mostly used in questions and negatives: How much does it cost? How many pages do you need? In positive sentences, use a lot of: We have a lot of work.",
+      "Few and little have a negative meaning (almost none, not enough). A few and a little have a positive meaning (some, a small amount). I have few clients: not enough, it is a problem. I have a few clients: some, it is fine. For comparisons: fewer with countable nouns (fewer pages), less with uncountable nouns (less money). More works with both: more pages, more money."
+    ],
+    "rules": [
+      {
+        "it": "Comparativo: aggettivo corto + -er + than; aggettivo lungo: more/less + aggettivo + than.",
+        "en": "Comparative: short adjective + -er + than; long adjective: more/less + adjective + than.",
+        "form": "cheap-er than / more expensive than",
+        "examples": [
+          { "en": "The basic plan is cheaper than the premium plan.", "it": "Il piano base costa meno del piano premium." },
+          { "en": "This hosting is more reliable than the old one.", "it": "Questo hosting è più affidabile del vecchio." },
+          { "en": "Our offer is less expensive than theirs.", "it": "La nostra offerta costa meno della loro." }
+        ]
+      },
+      {
+        "it": "Superlativo: the + aggettivo + -est; the most/least + aggettivo lungo. Irregolari: best, worst, furthest.",
+        "en": "Superlative: the + adjective + -est; the most/least + long adjective. Irregular: best, worst, furthest.",
+        "form": "the cheap-est / the most expensive",
+        "examples": [
+          { "en": "This is the cheapest option.", "it": "Questa è l'opzione più economica." },
+          { "en": "The premium plan is the most complete.", "it": "Il piano premium è il più completo." },
+          { "en": "That was the best offer we received.", "it": "Quella è stata la migliore offerta che abbiamo ricevuto." }
+        ]
+      },
+      {
+        "it": "Uguaglianza: as + aggettivo + as. Differenza: not as + aggettivo + as.",
+        "en": "Equality: as + adjective + as. Difference: not as + adjective + as.",
+        "form": "as ... as / not as ... as",
+        "examples": [
+          { "en": "The basic plan is not as flexible as the premium one.", "it": "Il piano base non è flessibile quanto il premium." },
+          { "en": "Their rate is as high as ours.", "it": "La loro tariffa è alta quanto la nostra." }
+        ]
+      },
+      {
+        "it": "Many, few, a few con i numerabili plurali; much, little, a little con i non numerabili. Nelle affermative usa a lot of.",
+        "en": "Many, few, a few with plural countable nouns; much, little, a little with uncountable nouns. In positive sentences use a lot of.",
+        "form": "many/few + plurale; much/little + non numerabile",
+        "examples": [
+          { "en": "How many pages do you need?", "it": "Quante pagine vi servono?" },
+          { "en": "How much does the hosting cost?", "it": "Quanto costa l'hosting?" },
+          { "en": "We have a lot of clients, but little time.", "it": "Abbiamo molti clienti, ma poco tempo." },
+          { "en": "I have a few questions about the offer.", "it": "Ho alcune domande sull'offerta." }
+        ]
+      },
+      {
+        "it": "Fewer con i nomi numerabili, less con i non numerabili.",
+        "en": "Fewer with countable nouns, less with uncountable nouns.",
+        "form": "fewer + plurale; less + non numerabile",
+        "examples": [
+          { "en": "The cheaper plan has fewer features.", "it": "Il piano più economico ha meno funzioni." },
+          { "en": "With the new plan, we spend less money on hosting.", "it": "Con il nuovo piano spendiamo meno soldi per l'hosting." },
+          { "en": "There is less work this month.", "it": "C'è meno lavoro questo mese." }
+        ]
+      }
+    ],
+    "tip": "Una sillaba: aggiungi -er. Due o più sillabe: metti more. Per i superlativi aggiungi the. Per le quantità chiediti: posso contarlo? Se sì, many o few. Se no, much o little. E ricorda che information, advice e money non si contano mai.",
+    "mistakes": [
+      { "wrong": "This plan is more cheap than that one.", "right": "This plan is cheaper than that one.", "why": "aggettivo corto: -er, non more" },
+      { "wrong": "This is the most cheap option.", "right": "This is the cheapest option.", "why": "superlativo corto: the + -est" },
+      { "wrong": "The offer is more expensive that the other.", "right": "The offer is more expensive than the other.", "why": "il comparativo vuole than, non that" },
+      { "wrong": "We don't have many time.", "right": "We don't have much time.", "why": "time non è numerabile: much, non many" },
+      { "wrong": "The cheaper plan has less features.", "right": "The cheaper plan has fewer features.", "why": "features è numerabile plurale: fewer" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "This plan is ___ (cheap) than the premium plan.", "a": ["cheaper"], "hint": "aggettivo corto", "explain": "Una sillaba: cheap + er." },
+    { "q": "The premium plan is ___ (expensive) than the basic plan.", "a": ["more expensive"], "hint": "aggettivo lungo", "explain": "Più sillabe: more + aggettivo." },
+    { "q": "This is the ___ (cheap) option we have.", "a": ["cheapest"], "hint": "superlativo corto", "explain": "The + cheap + est." },
+    { "q": "It's the ___ (good) value for money.", "a": ["best"], "hint": "irregolare", "explain": "Good, better, the best." },
+    { "q": "The new software is ___ (easy) than the old one.", "a": ["easier"], "hint": "aggettivo in -y", "explain": "-y diventa -ier." },
+    { "q": "How ___ does the hosting cost? (quanto, non numerabile)", "a": ["much"], "hint": "non numerabile", "explain": "Prezzo/costo: How much." },
+    { "q": "How ___ pages do you need? (quante, numerabile)", "a": ["many"], "hint": "numerabile plurale", "explain": "Pages è numerabile: How many." },
+    { "q": "We don't have ___ time today. (molto)", "a": ["much", "a lot of"], "hint": "negativa, non numerabile", "explain": "Time è non numerabile: much." },
+    { "q": "The basic plan has ___ features than the premium. (meno, numerabile)", "a": ["fewer"], "hint": "numerabile", "explain": "Features è numerabile: fewer." },
+    { "q": "With the basic plan, you spend ___ money. (meno, non numerabile)", "a": ["less"], "hint": "non numerabile", "explain": "Money non è numerabile: less." },
+    { "q": "Our rate is not as high ___ theirs. (quanto)", "a": ["as"], "hint": "uguaglianza", "explain": "not as ... as." },
+    { "q": "I need ___ advice about the offer. (un po' di)", "a": ["some", "a little"], "hint": "non numerabile", "explain": "Advice non è numerabile: some o a little." }
+  ],
+  "phrases": [
+    { "group": "Parlare del costo", "en": "How much would it cost to...?", "it": "Quanto costerebbe...?" },
+    { "group": "Parlare del costo", "en": "What's included in the price?", "it": "Cosa è incluso nel prezzo?" },
+    { "group": "Parlare del costo", "en": "Could you give me a ballpark figure?", "it": "Potrebbe darmi una cifra indicativa?", "note": "quando non serve un numero preciso" },
+    { "group": "Parlare del costo", "en": "Does that include VAT?", "it": "Include l'IVA?" },
+    { "group": "Parlare del costo", "en": "Are there any hidden costs?", "it": "Ci sono costi nascosti?" },
+    { "group": "Presentare un'offerta", "en": "We offer three packages: basic, standard and premium.", "it": "Offriamo tre pacchetti: base, standard e premium." },
+    { "group": "Presentare un'offerta", "en": "The price includes hosting for one year.", "it": "Il prezzo include un anno di hosting." },
+    { "group": "Presentare un'offerta", "en": "All prices are excluding VAT.", "it": "Tutti i prezzi sono IVA esclusa." },
+    { "group": "Presentare un'offerta", "en": "This offer is valid for 30 days.", "it": "Questa offerta è valida per 30 giorni." },
+    { "group": "Presentare un'offerta", "en": "We can tailor the package to your needs.", "it": "Possiamo adattare il pacchetto alle vostre esigenze." },
+    { "group": "Confrontare le offerte", "en": "This option is cheaper, but it has fewer features.", "it": "Questa opzione costa meno, ma ha meno funzioni." },
+    { "group": "Confrontare le offerte", "en": "It's the best value for money.", "it": "È il miglior rapporto qualità prezzo." },
+    { "group": "Confrontare le offerte", "en": "It's slightly more expensive, but it includes support.", "it": "Costa un po' di più, ma include l'assistenza." },
+    { "group": "Confrontare le offerte", "en": "Which option is the most popular?", "it": "Quale opzione è la più richiesta?" },
+    { "group": "Confrontare le offerte", "en": "That's much higher than I expected.", "it": "È molto più alto di quanto mi aspettassi." },
+    { "group": "Parlare di sconti e risparmi", "en": "We can offer a ten per cent discount.", "it": "Possiamo offrire uno sconto del dieci per cento." },
+    { "group": "Parlare di sconti e risparmi", "en": "You'll save twenty per cent with the annual plan.", "it": "Con il piano annuale risparmia il venti per cento." },
+    { "group": "Parlare di sconti e risparmi", "en": "We're happy to waive the setup fee.", "it": "Possiamo rinunciare volentieri alla quota di attivazione." },
+    { "group": "Parlare di sconti e risparmi", "en": "It's a one-off cost.", "it": "È un costo una tantum." },
+    { "group": "Parlare di sconti e risparmi", "en": "This is a limited-time promotion.", "it": "È una promozione a tempo limitato." },
+    { "group": "Obiezioni sul prezzo", "en": "It's a bit over our budget.", "it": "È un po' oltre il nostro budget." },
+    { "group": "Obiezioni sul prezzo", "en": "Can you do any better on the price?", "it": "Può farmi un prezzo migliore?" },
+    { "group": "Obiezioni sul prezzo", "en": "We can't afford that this year.", "it": "Quest'anno non possiamo permettercelo." },
+    { "group": "Obiezioni sul prezzo", "en": "Could you send me a breakdown of the costs?", "it": "Potrebbe mandarmi il dettaglio dei costi?" },
+    { "group": "Obiezioni sul prezzo", "en": "I'd like to compare it with another offer.", "it": "Vorrei confrontarla con un'altra offerta." }
+  ],
+  "dialogue": {
+    "title": "Choosing a package",
+    "context": "Elena gestisce un piccolo negozio e vuole un sito nuovo. Luca le presenta tre pacchetti e lei li confronta, chiedendo cosa è incluso e se c'è margine sul prezzo.",
+    "lines": [
+      { "s": "A", "name": "Elena", "en": "Thanks for the offer, Luca. Can you explain the differences between the three packages?", "it": "Grazie per l'offerta, Luca. Puoi spiegarmi le differenze tra i tre pacchetti?" },
+      { "s": "B", "name": "Luca", "en": "Of course. The basic package is the cheapest, but it has fewer features. It includes five pages and no support.", "it": "Certo. Il pacchetto base è il più economico, ma ha meno funzioni. Comprende cinque pagine e nessuna assistenza." },
+      { "s": "A", "name": "Elena", "en": "And the standard one?", "it": "E lo standard?" },
+      { "s": "B", "name": "Luca", "en": "It's more expensive than the basic one, but it includes ten pages, a blog and three months of support.", "it": "Costa più del base, ma comprende dieci pagine, un blog e tre mesi di assistenza." },
+      { "s": "A", "name": "Elena", "en": "What about the premium package?", "it": "E il pacchetto premium?" },
+      { "s": "B", "name": "Luca", "en": "It's the most complete. It has unlimited pages, a shop and a year of support. It's the best value for money if you need to sell online.", "it": "È il più completo. Ha pagine illimitate, un negozio e un anno di assistenza. È il miglior rapporto qualità prezzo se devi vendere online." },
+      { "s": "A", "name": "Elena", "en": "Is VAT included in these prices?", "it": "L'IVA è inclusa in questi prezzi?" },
+      { "s": "B", "name": "Luca", "en": "No, all prices are excluding VAT. There are no hidden costs, though.", "it": "No, tutti i prezzi sono IVA esclusa. Comunque non ci sono costi nascosti." },
+      { "s": "A", "name": "Elena", "en": "I see. The premium package is a bit over my budget. How many rounds of changes does it include?", "it": "Capisco. Il premium è un po' oltre il mio budget. Quanti giri di modifiche comprende?" },
+      { "s": "B", "name": "Luca", "en": "Three rounds. If you need more, there's an hourly rate for extra work.", "it": "Tre giri. Se ne servono altri, c'è una tariffa oraria per il lavoro extra." },
+      { "s": "A", "name": "Elena", "en": "Could you do any better on the price? We don't have much money at the moment.", "it": "Puoi farmi un prezzo migliore? Al momento non abbiamo molti soldi." },
+      { "s": "B", "name": "Luca", "en": "I can waive the setup fee, and I can offer a ten per cent discount on the annual plan.", "it": "Posso non applicare la quota di attivazione e posso offrire uno sconto del dieci per cento sul piano annuale." },
+      { "s": "A", "name": "Elena", "en": "That's much more affordable. Could you send me a breakdown of the costs?", "it": "È molto più accessibile. Potresti mandarmi il dettaglio dei costi?" },
+      { "s": "B", "name": "Luca", "en": "Sure. I'll send it this afternoon, with each line item explained.", "it": "Certo. Te lo mando nel pomeriggio, con ogni voce spiegata." }
+    ]
+  },
+  "listening": [
+    { "q": "Which package is the cheapest?", "options": ["The basic package", "The standard package", "The premium package"], "answer": 0 },
+    { "q": "What does the premium package include?", "options": ["Five pages and no support", "Unlimited pages, a shop and a year of support", "Ten pages and a blog"], "answer": 1 },
+    { "q": "Do the prices include VAT?", "options": ["Yes, always", "Only for the premium package", "No, they exclude VAT"], "answer": 2 },
+    { "q": "What does Luca offer to lower the cost?", "options": ["He waives the setup fee and offers a discount on the annual plan", "He offers a free logo", "He reduces the number of pages"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Questo piano è più economico di quello premium.", "en": "This plan is cheaper than the premium one.", "alt": ["This plan is cheaper than the premium plan.", "This plan is less expensive than the premium one."] },
+    { "it": "È l'opzione più completa che abbiamo.", "en": "It's the most complete option we have.", "alt": ["It is the most complete option we have.", "It's the most complete option that we have."] },
+    { "it": "Quante pagine vi servono?", "en": "How many pages do you need?", "alt": ["How many pages would you like?", "How many pages are you looking for?"] },
+    { "it": "Quanto costerebbe aggiungere un negozio online?", "en": "How much would it cost to add an online shop?", "alt": ["How much would it cost to add an online store?", "How much would adding an online shop cost?"] },
+    { "it": "Il piano base ha meno funzioni.", "en": "The basic plan has fewer features.", "alt": ["The basic package has fewer features.", "The basic plan has fewer functions."] },
+    { "it": "Non abbiamo molto tempo questo mese.", "en": "We don't have much time this month.", "alt": ["We haven't got much time this month.", "We don't have a lot of time this month."] },
+    { "it": "Tutti i prezzi sono IVA esclusa.", "en": "All prices are excluding VAT.", "alt": ["All prices exclude VAT.", "All prices are exclusive of VAT."] },
+    { "it": "Non ci sono costi nascosti.", "en": "There are no hidden costs.", "alt": ["There are no hidden fees.", "There are no hidden charges."] },
+    { "it": "Possiamo non applicare la quota di attivazione.", "en": "We can waive the setup fee.", "alt": ["We can waive the set-up fee.", "We can waive the activation fee."] },
+    { "it": "Potresti mandarmi il dettaglio dei costi?", "en": "Could you send me a breakdown of the costs?", "alt": ["Could you send me a cost breakdown?", "Could you send me a breakdown of the cost?"] },
+    { "it": "Vorrei confrontarla con un'altra offerta.", "en": "I'd like to compare it with another offer.", "alt": ["I would like to compare it with another offer.", "I'd like to compare it to another offer."] },
+    { "it": "Questa offerta è valida per trenta giorni.", "en": "This offer is valid for thirty days.", "alt": ["This offer is valid for 30 days.", "This offer is valid for thirty days only."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente ti ha chiesto di confrontare due piani di hosting: Basic (10 euro al mese, 5 GB, nessun backup) e Pro (25 euro al mese, 50 GB, backup ogni giorno). Scrivi una mail in cui li confronti usando comparativi e superlativi (cheaper, more expensive, the best, fewer, less), dai un consiglio e proponi di fare una chiamata. 6-8 righe.",
+    "taskEn": "A client has asked you to compare two hosting plans: Basic (10 euros a month, 5 GB, no backup) and Pro (25 euros a month, 50 GB, daily backups). Write an email comparing them with comparatives and superlatives (cheaper, more expensive, the best, fewer, less), give your advice and suggest a call. 6-8 lines.",
+    "model": "Subject: Comparison of hosting plans\n\nDear Anna,\n\nThank you for your question. Here is a short comparison of the two plans.\n\nThe Basic plan is cheaper: it costs ten euros a month. However, it has less space, only 5 GB, and it does not include backups.\n\nThe Pro plan is more expensive, at 25 euros a month, but it offers ten times more space and a backup every day. For a shop, it is the safest option and the best value for money.\n\nIn my opinion, Pro is the better choice for your business. If you like, we can have a short call tomorrow to talk about it.\n\nKind regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "This plan is cheaper, but it has fewer features.",
+      "The premium package is the most complete.",
+      "How much would it cost to add a blog?",
+      "How many pages do you need?",
+      "All prices are excluding VAT.",
+      "There are no hidden costs.",
+      "It's the best value for money.",
+      "Could you send me a breakdown of the costs?"
+    ],
+    "prompts": [
+      { "en": "Compare two phones, two cars, or two websites you know.", "it": "Confronta due telefoni, due auto o due siti che conosci.", "help": "Usa: ... is cheaper than... / ... is more ... than... / The best one is..." },
+      { "en": "A client says your offer is too expensive. What do you answer?", "it": "Un cliente dice che la tua offerta è troppo cara. Cosa rispondi?", "help": "Usa: I understand... / It includes... / We can adjust the package..." },
+      { "en": "Explain the difference between a one-off cost and a recurring cost.", "it": "Spiega la differenza tra un costo una tantum e un costo ricorrente.", "help": "Usa: A one-off cost is... / A recurring cost is... for example, hosting." },
+      { "en": "Describe three packages: basic, standard and premium.", "it": "Descrivi tre pacchetti: base, standard e premium.", "help": "Usa: The basic package has... / The most complete package is..." },
+      { "en": "How do you ask a supplier for a breakdown of the costs?", "it": "Come chiedi a un fornitore il dettaglio dei costi?", "help": "Usa: Could you send me a breakdown...? / Is VAT included? / Are there any hidden costs?" }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: preventivi e prezzi",
+      "show": ["Quotes and prices", "Comparativi e superlativi", "much, many, few, little"],
+      "say": [
+        { "lang": "it", "text": "Lezione sedici. Oggi parliamo di tariffe, pacchetti e sconti. Impari a confrontare due offerte e a parlare di quantità." },
+        { "lang": "en", "text": "How much would it cost?" }
+      ]
+    },
+    {
+      "title": "Il comparativo",
+      "show": ["cheap, cheaper than", "more expensive than", "easy, easier"],
+      "say": [
+        { "lang": "it", "text": "Per confrontare due cose usa il comparativo. Con gli aggettivi corti aggiungi er e poi than. Con gli aggettivi lunghi metti more davanti. Gli aggettivi in y cambiano in ier." },
+        { "lang": "en", "text": "This plan is cheaper than that one." },
+        { "lang": "en", "text": "The premium plan is more expensive than the basic plan." }
+      ]
+    },
+    {
+      "title": "Il superlativo",
+      "show": ["the cheapest", "the most expensive", "good, better, the best"],
+      "say": [
+        { "lang": "it", "text": "Per dire il più, il superlativo. Si usa sempre the. Aggettivi corti: est. Aggettivi lunghi: the most. Attenzione agli irregolari: good, better, the best." },
+        { "lang": "en", "text": "This is the cheapest option." },
+        { "lang": "en", "text": "It's the best value for money." }
+      ]
+    },
+    {
+      "title": "Numerabili e non numerabili",
+      "show": ["pages = numerabile", "money, time, advice = non numerabile", "Niente plurale per i non numerabili"],
+      "say": [
+        { "lang": "it", "text": "Prima di scegliere la parola della quantità, chiediti se puoi contare il nome. Pagine, opzioni, funzioni si contano. Denaro, tempo, informazione, consiglio non si contano." },
+        { "lang": "en", "text": "We have a lot of pages, but little time." }
+      ]
+    },
+    {
+      "title": "Much, many, few, little",
+      "show": ["many pages / few options", "much time / little money", "How much? How many?"],
+      "say": [
+        { "lang": "it", "text": "Many e few vanno con i nomi numerabili plurali. Much e little vanno con i non numerabili. Per chiedere il prezzo si dice how much. Per chiedere il numero di pagine si dice how many." },
+        { "lang": "en", "text": "How much does the hosting cost?" },
+        { "lang": "en", "text": "How many pages do you need?" }
+      ]
+    },
+    {
+      "title": "Few contro a few, fewer contro less",
+      "show": ["few = pochi, problema", "a few = alcuni, va bene", "fewer + numerabili", "less + non numerabili"],
+      "say": [
+        { "lang": "it", "text": "Few vuol dire pochi, troppo pochi. A few vuol dire alcuni, e va bene. Per fare confronti, fewer con i numerabili e less con i non numerabili." },
+        { "lang": "en", "text": "The cheaper plan has fewer features." },
+        { "lang": "en", "text": "We spend less money on hosting." }
+      ]
+    },
+    {
+      "title": "Espressioni chiave per i preventivi",
+      "show": ["What's included in the price?", "All prices are excluding VAT.", "There are no hidden costs."],
+      "say": [
+        { "lang": "it", "text": "Ecco le frasi che ti servono per presentare e discutere un'offerta. Cosa è incluso, l'IVA, i costi nascosti." },
+        { "lang": "en", "text": "What's included in the price?" },
+        { "lang": "en", "text": "All prices are excluding VAT." },
+        { "lang": "en", "text": "Could you send me a breakdown of the costs?" }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["cheaper than / more expensive than", "the cheapest / the most complete", "many + plurale, much + non numerabile", "fewer, less"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Comparativo con er o more, più than. Superlativo con the. Many e few con i nomi che conti. Much e little con quelli che non conti. Fewer e less per i confronti." },
+        { "lang": "en", "text": "It's the best value for money." }
+      ]
+    }
+  ]
+}

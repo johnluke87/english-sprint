@@ -1,0 +1,318 @@
+{
+  "id": 54,
+  "week": 11,
+  "title": "Analisi e risultati",
+  "titleEn": "Analysis and findings",
+  "intro": "Oggi impari a presentare dati, ricerche e conclusioni in modo professionale. Il passivo impersonale, come it is said that e X is expected to, è tipico dei report, degli audit e delle comunicazioni ufficiali. Ti serve per scrivere relazioni sui risultati di un audit di accessibilità o di un test di usabilità.",
+  "goals": [
+    "Descrivere dati, ricerche e risultati con il lessico giusto",
+    "Usare il passivo impersonale: it is said that, X is expected to, X is believed to",
+    "Distinguere tra prove, ipotesi e conclusioni",
+    "Scrivere il riassunto dei risultati di un audit o di un'analisi"
+  ],
+  "words": [
+    { "en": "data set", "pron": "dèita sèt", "it": "insieme di dati", "type": "noun", "ex": "The data set includes 5,000 users.", "exIt": "L'insieme di dati comprende 5.000 utenti." },
+    { "en": "to indicate", "pron": "ìndikeit", "it": "indicare", "type": "verb", "ex": "The results indicate a clear trend.", "exIt": "I risultati indicano una tendenza chiara." },
+    { "en": "to reveal", "pron": "rivìil", "it": "rivelare, mostrare", "type": "verb", "ex": "The test revealed several usability problems.", "exIt": "Il test ha rivelato diversi problemi di usabilità." },
+    { "en": "to correlate", "pron": "còrileit", "it": "essere correlato, mettere in relazione", "type": "verb", "ex": "Page speed correlates with sales.", "exIt": "La velocità della pagina è correlata alle vendite." },
+    { "en": "margin of error", "pron": "màrgin ov èra", "it": "margine di errore", "type": "noun", "ex": "The margin of error is three percent.", "exIt": "Il margine di errore è del tre per cento." },
+    { "en": "to imply", "pron": "implài", "it": "implicare, lasciar intendere", "type": "verb", "ex": "This result implies that we need more testing.", "exIt": "Questo risultato implica che servono più test." },
+    { "en": "to measure", "pron": "mègia", "it": "misurare", "type": "verb", "ex": "We measured load time on mobile.", "exIt": "Abbiamo misurato il tempo di caricamento su mobile." },
+    { "en": "to extrapolate", "pron": "ikstràpoleit", "it": "estrapolare", "type": "verb", "ex": "We can extrapolate next year's traffic from this.", "exIt": "Da questo possiamo estrapolare il traffico del prossimo anno." },
+    { "en": "to infer", "pron": "infèr", "it": "dedurre", "type": "verb", "ex": "What can we infer from these numbers?", "exIt": "Cosa possiamo dedurre da questi numeri?" },
+    { "en": "hypothesis", "pron": "haipòtesis", "it": "ipotesi", "type": "noun", "ex": "Our hypothesis is that users leave because of slow loading.", "exIt": "La nostra ipotesi è che gli utenti se ne vadano per il caricamento lento." },
+    { "en": "to test a hypothesis", "pron": "tèst a haipòtesis", "it": "verificare un'ipotesi", "type": "phrase", "ex": "We ran a survey to test the hypothesis.", "exIt": "Abbiamo fatto un sondaggio per verificare l'ipotesi." },
+    { "en": "sample", "pron": "sàmpol", "it": "campione", "type": "noun", "ex": "The sample included 200 users.", "exIt": "Il campione comprendeva 200 utenti." },
+    { "en": "sample size", "pron": "sàmpol sàiz", "it": "dimensione del campione", "type": "noun", "ex": "The sample size is too small to draw conclusions.", "exIt": "La dimensione del campione è troppo piccola per trarre conclusioni." },
+    { "en": "survey", "pron": "sèrvei", "it": "sondaggio, indagine", "type": "noun", "ex": "We sent a survey to all customers.", "exIt": "Abbiamo inviato un sondaggio a tutti i clienti." },
+    { "en": "respondent", "pron": "rispòndent", "it": "intervistato", "type": "noun", "ex": "Sixty percent of respondents found the site easy to use.", "exIt": "Il sessanta per cento degli intervistati ha trovato il sito facile da usare." },
+    { "en": "to validate", "pron": "vàlideit", "it": "convalidare, confermare", "type": "verb", "ex": "The test validated our assumption.", "exIt": "Il test ha convalidato la nostra ipotesi." },
+    { "en": "quantitative", "pron": "cuòntitativ", "it": "quantitativo", "type": "adj", "ex": "We collected quantitative data from the analytics.", "exIt": "Abbiamo raccolto dati quantitativi dagli analytics." },
+    { "en": "qualitative", "pron": "cuòlitativ", "it": "qualitativo", "type": "adj", "ex": "Interviews provide qualitative feedback.", "exIt": "Le interviste forniscono un riscontro qualitativo." },
+    { "en": "statistically significant", "pron": "statìstikali signìfikant", "it": "statisticamente significativo", "type": "phrase", "ex": "The difference is statistically significant.", "exIt": "La differenza è statisticamente significativa." },
+    { "en": "correlation", "pron": "korelèiscion", "it": "correlazione", "type": "noun", "ex": "There is a correlation between page speed and sales.", "exIt": "C'è una correlazione tra velocità della pagina e vendite." },
+    { "en": "causation", "pron": "kozèiscion", "it": "causalità", "type": "noun", "ex": "Correlation does not imply causation.", "exIt": "La correlazione non implica causalità." },
+    { "en": "to verify", "pron": "vèrifai", "it": "verificare", "type": "verb", "ex": "Please verify the figures before the meeting.", "exIt": "Verifica i dati prima della riunione." },
+    { "en": "pattern", "pron": "pàtern", "it": "schema ricorrente", "type": "noun", "ex": "A clear pattern emerged from the data.", "exIt": "Dai dati è emerso uno schema chiaro." },
+    { "en": "insight", "pron": "ìnsait", "it": "intuizione, spunto utile", "type": "noun", "ex": "The survey gave us a useful insight.", "exIt": "Il sondaggio ci ha dato uno spunto utile." },
+    { "en": "variable", "pron": "vèariabol", "it": "variabile", "type": "noun", "ex": "Device type is an important variable.", "exIt": "Il tipo di dispositivo è una variabile importante." },
+    { "en": "consistent with", "pron": "konsìstent uìd", "it": "coerente con", "type": "phrase", "ex": "The results are consistent with our forecast.", "exIt": "I risultati sono coerenti con le nostre previsioni." },
+    { "en": "to account for", "pron": "akàunt fòr", "it": "rappresentare (una quota)", "type": "phrase", "ex": "Mobile users account for 65% of visits.", "exIt": "Gli utenti mobile rappresentano il 65% delle visite." },
+    { "en": "proportion", "pron": "propòrscion", "it": "proporzione, quota", "type": "noun", "ex": "A large proportion of users abandon the form.", "exIt": "Una grande quota di utenti abbandona il modulo." },
+    { "en": "significant", "pron": "signìfikant", "it": "significativo", "type": "adj", "ex": "There was a significant increase in sign-ups.", "exIt": "C'è stato un aumento significativo delle iscrizioni." },
+    { "en": "marginal", "pron": "màrginal", "it": "marginale, minimo", "type": "adj", "ex": "The improvement was only marginal.", "exIt": "Il miglioramento è stato solo marginale." },
+    { "en": "inconclusive", "pron": "inkonklùsiv", "it": "non conclusivo", "type": "adj", "ex": "The results of the test were inconclusive.", "exIt": "I risultati del test non sono stati conclusivi." },
+    { "en": "to interpret", "pron": "intèrpret", "it": "interpretare", "type": "verb", "ex": "Be careful how you interpret these charts.", "exIt": "Fai attenzione a come interpreti questi grafici." },
+    { "en": "evidence-based", "pron": "èvidens bèist", "it": "basato su prove", "type": "adj", "ex": "We prefer an evidence-based approach.", "exIt": "Preferiamo un approccio basato su prove." },
+    { "en": "bias", "pron": "bàias", "it": "pregiudizio, distorsione", "type": "noun", "ex": "The survey may contain some bias.", "exIt": "Il sondaggio può contenere qualche distorsione." },
+    { "en": "peer review", "pron": "pìir rivìu", "it": "revisione tra pari", "type": "noun", "ex": "The study passed peer review.", "exIt": "Lo studio ha superato la revisione tra pari." },
+    { "en": "to emerge", "pron": "imèrdg", "it": "emergere", "type": "verb", "ex": "Three main problems emerged from the interviews.", "exIt": "Dalle interviste sono emersi tre problemi principali." },
+    { "en": "to identify", "pron": "aidèntifai", "it": "individuare, identificare", "type": "verb", "ex": "The audit identified twelve accessibility issues.", "exIt": "L'audit ha individuato dodici problemi di accessibilità." },
+    { "en": "to substantiate", "pron": "sabstànscieit", "it": "comprovare, dimostrare con prove", "type": "verb", "ex": "Can you substantiate this claim?", "exIt": "Puoi comprovare questa affermazione?" },
+    { "en": "key takeaway", "pron": "kìi tèikauei", "it": "punto chiave da ricordare", "type": "noun", "ex": "The key takeaway is that speed matters.", "exIt": "Il punto chiave è che la velocità conta." },
+    { "en": "inference", "pron": "ìnferens", "it": "deduzione, inferenza", "type": "noun", "ex": "That inference is not supported by the data.", "exIt": "Quella deduzione non è supportata dai dati." },
+    { "en": "verification", "pron": "verifikèiscion", "it": "verifica, controllo", "type": "noun", "ex": "The figures need verification.", "exIt": "I dati vanno verificati." },
+    { "en": "to be believed to", "pron": "bi bilìivd tu", "it": "si ritiene che", "type": "phrase", "ex": "The bug is believed to affect older browsers.", "exIt": "Si ritiene che il bug riguardi i browser più vecchi." },
+    { "en": "to be reported to", "pron": "bi ripòrtid tu", "it": "si dice che, risulta che", "type": "phrase", "ex": "The company is reported to be losing customers.", "exIt": "Si dice che l'azienda stia perdendo clienti." },
+    { "en": "to be expected to", "pron": "bi ikspèktid tu", "it": "ci si aspetta che", "type": "phrase", "ex": "Traffic is expected to double next quarter.", "exIt": "Ci si aspetta che il traffico raddoppi il prossimo trimestre." },
+    { "en": "to be known to", "pron": "bi nòun tu", "it": "è noto che", "type": "phrase", "ex": "Slow pages are known to reduce conversions.", "exIt": "È noto che le pagine lente riducono le conversioni." },
+    { "en": "to be thought to", "pron": "bi tòot tu", "it": "si pensa che", "type": "phrase", "ex": "The error is thought to come from the plugin.", "exIt": "Si pensa che l'errore venga dal plugin." },
+    { "en": "to be estimated to", "pron": "bi èstimeitid tu", "it": "si stima che", "type": "phrase", "ex": "The fix is estimated to take two days.", "exIt": "Si stima che la correzione richieda due giorni." },
+    { "en": "interpretation", "pron": "interpretèiscion", "it": "interpretazione", "type": "noun", "ex": "Your interpretation is too optimistic.", "exIt": "La tua interpretazione è troppo ottimistica." },
+    { "en": "on the whole", "pron": "on de hòul", "it": "nel complesso", "type": "phrase", "ex": "On the whole, the results are positive.", "exIt": "Nel complesso i risultati sono positivi." },
+    { "en": "overall", "pron": "ouvaròl", "it": "complessivamente", "type": "adv", "ex": "Overall, the site performs well.", "exIt": "Complessivamente il sito funziona bene." }
+  ],
+  "falseFriends": [
+    { "en": "to assume", "it": "supporre, dare per scontato", "trap": "Non vuol dire 'assumere' una persona (quello è 'to hire'). 'To assume' = supporre." },
+    { "en": "sensible", "it": "ragionevole, sensato", "trap": "Non è 'sensibile': sensibile = sensitive. 'A sensible conclusion' = una conclusione ragionevole." },
+    { "en": "actual", "it": "reale, effettivo", "trap": "Non vuol dire 'attuale': attuale = current. 'The actual cost' = il costo reale." },
+    { "en": "to realise", "it": "rendersi conto", "trap": "Non è 'realizzare' un'opera: quello è 'to carry out'. 'We realised the data was wrong' = ci siamo accorti che i dati erano sbagliati." }
+  ],
+  "grammar": {
+    "title": "Il passivo impersonale: it is said that, X is expected to",
+    "explainIt": [
+      "Nei report, negli audit e nelle notizie si usa spesso il passivo impersonale per riferire cosa si pensa, si dice o si sa, senza dire chi lo pensa. In italiano diciamo 'Si dice che...', 'Si ritiene che...', 'Ci si aspetta che...'. In inglese ci sono due strutture principali.",
+      "La prima è It + verbo passivo + that + frase. 'It is said that the site is slow.' 'It is believed that the bug affects older browsers.' 'It is expected that traffic will double.' 'It has been shown that accessible sites convert better.' Si usa con verbi come say, believe, think, know, report, expect, estimate, consider, suggest.",
+      "La seconda è soggetto + verbo passivo + to + infinito. Il soggetto della frase 'that' passa all'inizio: 'The site is said to be slow.' 'The bug is believed to affect older browsers.' 'Traffic is expected to double.' È più elegante e più corta, molto comune nei report. Per un'azione già avvenuta si usa to have + participio: 'The error is thought to have started in March.'",
+      "Ci sono varie sfumature. 'Is said / reported' = lo dicono ma non è sicuro. 'Is believed / thought' = opinione diffusa. 'Is known' = fatto accertato. 'Is expected' = previsione. 'Is estimated' = stima con numeri. 'Is alleged' = accusa senza prove. Scegli il verbo secondo la forza delle prove.",
+      "Perché usarlo? Perché in un report vuoi un tono oggettivo e prudente. Con 'The audit found...' il tono è molto diretto. Con 'The site is believed to contain...' sei più cauto. Attenzione ai tempi: il verbo passivo dice quando si pensa la cosa (is said oggi, was said in passato); l'infinito dice quando avviene il fatto: to be (stato), to be + -ing (azione in corso), to have + participio (azione passata)."
+    ],
+    "explainEn": [
+      "In reports, audits and the news, the impersonal passive is often used to say what people think, say or know, without saying who. In Italian we say 'Si dice che...', 'Si ritiene che...'. English has two main structures.",
+      "The first is It + passive verb + that + clause. 'It is said that the site is slow.' 'It is believed that the bug affects older browsers.' 'It has been shown that accessible sites convert better.' It is used with verbs such as say, believe, think, know, report, expect, estimate, consider and suggest.",
+      "The second is subject + passive verb + to + infinitive. The subject of the 'that' clause moves to the front: 'The site is said to be slow.' 'Traffic is expected to double.' It is shorter and very common in reports. For a past action, use to have + past participle: 'The error is thought to have started in March.'",
+      "There are different shades of meaning. 'Is said / reported' = people say it, but it is not certain. 'Is believed / thought' = a widespread opinion. 'Is known' = an established fact. 'Is expected' = a forecast. 'Is estimated' = an estimate with numbers. 'Is alleged' = an accusation without proof. Choose the verb according to the strength of the evidence.",
+      "Why use it? In a report you want an objective and careful tone. 'The audit found...' is direct. 'The site is believed to contain...' is more cautious. Pay attention to tenses: the passive verb shows when people think it (is said now, was said in the past); the infinitive shows when the fact happens: to be (state), to be + -ing (action in progress), to have + participle (past action)."
+    ],
+    "rules": [
+      {
+        "it": "It is + participio + that + frase: struttura impersonale base.",
+        "en": "It is + past participle + that + clause: the basic impersonal structure.",
+        "form": "It is said / believed / known / expected that + frase",
+        "examples": [
+          { "en": "It is said that the new version is much faster.", "it": "Si dice che la nuova versione sia molto più veloce." },
+          { "en": "It is believed that the problem is caused by the plugin.", "it": "Si ritiene che il problema sia causato dal plugin." },
+          { "en": "It is expected that sales will increase in spring.", "it": "Ci si aspetta che le vendite aumentino in primavera." }
+        ]
+      },
+      {
+        "it": "Soggetto + is + participio + to + infinito: versione più breve e comune nei report.",
+        "en": "Subject + is + past participle + to + infinitive: a shorter version common in reports.",
+        "form": "soggetto + is said / believed / expected + to + verbo base",
+        "examples": [
+          { "en": "The new version is said to be much faster.", "it": "Si dice che la nuova versione sia molto più veloce." },
+          { "en": "Traffic is expected to double next quarter.", "it": "Ci si aspetta che il traffico raddoppi il prossimo trimestre." },
+          { "en": "The update is believed to fix the security problem.", "it": "Si ritiene che l'aggiornamento risolva il problema di sicurezza." }
+        ]
+      },
+      {
+        "it": "Per un'azione passata: to have + participio passato.",
+        "en": "For a past action: to have + past participle.",
+        "form": "soggetto + is thought / said + to have + participio",
+        "examples": [
+          { "en": "The error is thought to have started in March.", "it": "Si pensa che l'errore sia cominciato a marzo." },
+          { "en": "The company is reported to have lost 20% of its customers.", "it": "Si dice che l'azienda abbia perso il 20% dei clienti." }
+        ]
+      },
+      {
+        "it": "Per un'azione in corso: to be + verbo-ing.",
+        "en": "For an action in progress: to be + verb-ing.",
+        "form": "soggetto + is believed + to be + -ing",
+        "examples": [
+          { "en": "The competitor is thought to be developing a similar product.", "it": "Si pensa che il concorrente stia sviluppando un prodotto simile." },
+          { "en": "Many users are said to be leaving the platform.", "it": "Si dice che molti utenti stiano lasciando la piattaforma." }
+        ]
+      },
+      {
+        "it": "Il verbo giusto dipende dalla forza delle prove: known (certo), expected (previsione), alleged (senza prove).",
+        "en": "The right verb depends on the strength of the evidence: known (sure), expected (forecast), alleged (no proof).",
+        "form": "is known / expected / estimated / alleged to",
+        "examples": [
+          { "en": "Slow pages are known to reduce conversions.", "it": "È noto che le pagine lente riducono le conversioni." },
+          { "en": "The fix is estimated to take two days.", "it": "Si stima che la correzione richieda due giorni." },
+          { "en": "The supplier is alleged to have missed several deadlines.", "it": "Si sostiene che il fornitore abbia mancato diverse scadenze." }
+        ]
+      }
+    ],
+    "tip": "Trucco: parti dalla frase attiva 'People say that the site is slow'. Togli 'People' e metti it: 'It is said that the site is slow'. Oppure porta 'the site' in testa: 'The site is said to be slow'. In italiano è il nostro 'si dice che'.",
+    "mistakes": [
+      { "wrong": "It is expected to double the traffic.", "right": "Traffic is expected to double. / It is expected that traffic will double.", "why": "con 'it' serve that + frase; con 'to' il soggetto va davanti" },
+      { "wrong": "The site is said that is slow.", "right": "The site is said to be slow.", "why": "con il soggetto davanti si usa to + infinito, non that" },
+      { "wrong": "It is said that the site to be slow.", "right": "It is said that the site is slow.", "why": "dopo it ... that serve una frase completa con verbo coniugato" },
+      { "wrong": "The error is thought to started in March.", "right": "The error is thought to have started in March.", "why": "per un'azione passata serve to have + participio" },
+      { "wrong": "The actual traffic is growing fast, as of this week.", "right": "The current traffic is growing fast, as of this week.", "why": "actual vuol dire reale, non attuale: attuale si dice current" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "It is ___ that the new version is faster. (si dice)", "a": ["said"], "hint": "participio di say", "explain": "It is said that + frase." },
+    { "q": "Traffic is expected ___ double next quarter.", "a": ["to"], "hint": "preposizione + infinito", "explain": "Is expected + to + verbo base." },
+    { "q": "The bug is believed to ___ (affect) older browsers.", "a": ["affect"], "hint": "verbo base", "explain": "Is believed to + verbo base." },
+    { "q": "The error is thought to ___ (start) in March. (azione passata)", "a": ["have started"], "hint": "azione passata", "explain": "To have + participio passato." },
+    { "q": "Many users are said to ___ leaving the platform. (in corso)", "a": ["be"], "hint": "azione in corso", "explain": "Said to be + verbo-ing." },
+    { "q": "It is ___ that accessible sites convert better. (è noto)", "a": ["known"], "hint": "participio di know", "explain": "It is known that + frase." },
+    { "q": "The fix is ___ to take two days. (si stima)", "a": ["estimated"], "hint": "stima con numeri", "explain": "Is estimated to + verbo base." },
+    { "q": "The company is reported ___ have lost customers.", "a": ["to"], "hint": "preposizione", "explain": "Is reported to have + participio." },
+    { "q": "It is ___ that the update will fix the issue. (ci si aspetta)", "a": ["expected"], "hint": "previsione", "explain": "It is expected that + frase." },
+    { "q": "Correlation does not imply ___. (causalità)", "a": ["causation"], "hint": "noun", "explain": "Correlation ≠ causation." },
+    { "q": "The results were ___; we need more data. (non conclusivi)", "a": ["inconclusive"], "hint": "adj", "explain": "Inconclusive = non conclusivo." },
+    { "q": "Mobile users ___ for 65% of visits. (rappresentano)", "a": ["account"], "hint": "to account for", "explain": "To account for = rappresentare una quota." }
+  ],
+  "phrases": [
+    { "group": "Presentare i risultati", "en": "The findings are summarised below.", "it": "I risultati sono riassunti qui sotto." },
+    { "group": "Presentare i risultati", "en": "The results indicate a clear trend.", "it": "I risultati indicano una tendenza chiara." },
+    { "group": "Presentare i risultati", "en": "The audit identified twelve issues, three of them critical.", "it": "L'audit ha individuato dodici problemi, tre dei quali critici." },
+    { "group": "Presentare i risultati", "en": "Overall, the results are positive.", "it": "Nel complesso i risultati sono positivi." },
+    { "group": "Presentare i risultati", "en": "A clear pattern emerged from the data.", "it": "Dai dati è emerso uno schema chiaro." },
+    { "group": "Passivo impersonale", "en": "It is said that the site loads slowly on mobile.", "it": "Si dice che il sito si carichi lentamente su mobile." },
+    { "group": "Passivo impersonale", "en": "The problem is believed to be caused by an outdated plugin.", "it": "Si ritiene che il problema sia causato da un plugin obsoleto." },
+    { "group": "Passivo impersonale", "en": "Traffic is expected to double by the end of the year.", "it": "Ci si aspetta che il traffico raddoppi entro la fine dell'anno." },
+    { "group": "Passivo impersonale", "en": "It is estimated that 15% of users have a disability.", "it": "Si stima che il 15% degli utenti abbia una disabilità." },
+    { "group": "Passivo impersonale", "en": "The bug is thought to have been introduced in the last update.", "it": "Si pensa che il bug sia stato introdotto con l'ultimo aggiornamento." },
+    { "group": "Cautela e limiti", "en": "The data suggest, but do not prove, that users prefer shorter forms.", "it": "I dati suggeriscono, ma non provano, che gli utenti preferiscano moduli più brevi." },
+    { "group": "Cautela e limiti", "en": "The sample size is too small to draw firm conclusions.", "it": "Il campione è troppo piccolo per trarre conclusioni solide." },
+    { "group": "Cautela e limiti", "en": "Correlation does not imply causation.", "it": "La correlazione non implica causalità." },
+    { "group": "Cautela e limiti", "en": "One limitation of this study is that it only covers desktop users.", "it": "Un limite di questo studio è che riguarda solo gli utenti desktop." },
+    { "group": "Cautela e limiti", "en": "The results were inconclusive and need further testing.", "it": "I risultati non sono stati conclusivi e richiedono ulteriori test." },
+    { "group": "Prove e dati", "en": "There is strong evidence to support this view.", "it": "Ci sono forti prove a sostegno di questa tesi." },
+    { "group": "Prove e dati", "en": "The difference is statistically significant.", "it": "La differenza è statisticamente significativa." },
+    { "group": "Prove e dati", "en": "Sixty percent of respondents found the form confusing.", "it": "Il sessanta per cento degli intervistati ha trovato il modulo confuso." },
+    { "group": "Prove e dati", "en": "The average load time dropped from 4.1 to 2.3 seconds.", "it": "Il tempo di caricamento medio è sceso da 4,1 a 2,3 secondi." },
+    { "group": "Prove e dati", "en": "Mobile users account for most of the traffic.", "it": "Gli utenti mobile rappresentano la maggior parte del traffico." },
+    { "group": "Conclusioni e raccomandazioni", "en": "On the whole, we can conclude that the redesign was successful.", "it": "Nel complesso possiamo concludere che il restyling è riuscito." },
+    { "group": "Conclusioni e raccomandazioni", "en": "The key takeaway is that accessibility improves usability for everyone.", "it": "Il punto chiave è che l'accessibilità migliora l'usabilità per tutti." },
+    { "group": "Conclusioni e raccomandazioni", "en": "We recommend fixing the critical issues first.", "it": "Raccomandiamo di risolvere prima i problemi critici." },
+    { "group": "Conclusioni e raccomandazioni", "en": "Based on these findings, we propose the following steps.", "it": "In base a questi risultati, proponiamo i seguenti passi." },
+    { "group": "Conclusioni e raccomandazioni", "en": "A follow-up test is expected to confirm the improvement.", "it": "Ci si aspetta che un test successivo confermi il miglioramento." }
+  ],
+  "dialogue": {
+    "title": "Presenting the audit findings",
+    "context": "Luca presenta a Emma, la responsabile del progetto, e a Paul, un manager, i risultati di un audit di accessibilità e di un test con utenti sul sito di un cliente.",
+    "lines": [
+      { "s": "A", "name": "Luca", "en": "Let me summarise the findings of the audit. We identified twenty issues, and five are critical.", "it": "Riassumo i risultati dell'audit. Abbiamo individuato venti problemi, e cinque sono critici." },
+      { "s": "B", "name": "Emma", "en": "What are the most serious ones?", "it": "Quali sono i più gravi?" },
+      { "s": "A", "name": "Luca", "en": "Missing form labels and low colour contrast. Together they account for most of the user complaints.", "it": "Etichette dei moduli mancanti e basso contrasto dei colori. Insieme rappresentano la maggior parte dei reclami." },
+      { "s": "C", "name": "Paul", "en": "Is it known how many users are affected?", "it": "Si sa quanti utenti sono coinvolti?" },
+      { "s": "A", "name": "Luca", "en": "It is estimated that about 15% of visitors have some kind of disability, so it's a significant group.", "it": "Si stima che circa il 15% dei visitatori abbia una qualche disabilità, quindi è un gruppo significativo." },
+      { "s": "B", "name": "Emma", "en": "And the user test? What did it reveal?", "it": "E il test con gli utenti? Cosa ha rivelato?" },
+      { "s": "A", "name": "Luca", "en": "Eight out of ten participants couldn't finish the checkout. The problem is believed to come from the unlabelled fields.", "it": "Otto partecipanti su dieci non sono riusciti a completare l'acquisto. Si ritiene che il problema derivi dai campi senza etichetta." },
+      { "s": "C", "name": "Paul", "en": "Ten participants is a small sample, isn't it?", "it": "Dieci partecipanti sono un campione piccolo, no?" },
+      { "s": "A", "name": "Luca", "en": "True. That is a limitation, so the results are only an indication. But the pattern is very clear.", "it": "Vero. È un limite, quindi i risultati sono solo un'indicazione. Ma lo schema è molto chiaro." },
+      { "s": "B", "name": "Emma", "en": "What do you recommend?", "it": "Cosa raccomandi?" },
+      { "s": "A", "name": "Luca", "en": "Fix the critical issues first. The work is estimated to take about two weeks.", "it": "Risolvere prima i problemi critici. Si stima che il lavoro richieda circa due settimane." },
+      { "s": "C", "name": "Paul", "en": "What do we expect to gain?", "it": "Cosa ci aspettiamo di guadagnare?" },
+      { "s": "A", "name": "Luca", "en": "Conversions are expected to rise by around ten percent. It's known that accessible sites convert better.", "it": "Ci si aspetta che le conversioni aumentino di circa il dieci per cento. È noto che i siti accessibili convertono meglio." },
+      { "s": "B", "name": "Emma", "en": "Overall, then, the findings are encouraging.", "it": "Nel complesso, quindi, i risultati sono incoraggianti." },
+      { "s": "A", "name": "Luca", "en": "Yes. I'll send the full report with all recommendations by Friday.", "it": "Sì. Manderò il report completo con tutte le raccomandazioni entro venerdì." }
+    ]
+  },
+  "listening": [
+    { "q": "How many critical issues did the audit identify?", "options": ["Five", "Fifteen", "Twenty"], "answer": 0 },
+    { "q": "How many participants could not finish the checkout?", "options": ["Two out of ten", "Five out of ten", "Eight out of ten"], "answer": 2 },
+    { "q": "What limitation does Luca mention?", "options": ["The small sample", "The old data", "The missing report"], "answer": 0 },
+    { "q": "How long is the work estimated to take?", "options": ["Two days", "About two weeks", "Two months"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Si dice che la nuova versione sia molto più veloce.", "en": "The new version is said to be much faster.", "alt": ["It is said that the new version is much faster.", "The new version is said to be a lot faster."] },
+    { "it": "Si ritiene che il problema sia causato da un plugin obsoleto.", "en": "The problem is believed to be caused by an outdated plugin.", "alt": ["It is believed that the problem is caused by an outdated plugin.", "The problem is thought to be caused by an out-of-date plugin."] },
+    { "it": "Ci si aspetta che il traffico raddoppi il prossimo anno.", "en": "Traffic is expected to double next year.", "alt": ["It is expected that traffic will double next year.", "It's expected that traffic will double next year."] },
+    { "it": "Si stima che la correzione richieda due giorni.", "en": "The fix is estimated to take two days.", "alt": ["It is estimated that the fix will take two days.", "The fix is estimated to take about two days."] },
+    { "it": "Si pensa che il bug sia stato introdotto con l'ultimo aggiornamento.", "en": "The bug is thought to have been introduced in the last update.", "alt": ["It is thought that the bug was introduced in the last update.", "The bug is believed to have been introduced with the last update."] },
+    { "it": "È noto che le pagine lente riducono le conversioni.", "en": "Slow pages are known to reduce conversions.", "alt": ["It is known that slow pages reduce conversions.", "It is well known that slow pages reduce conversions."] },
+    { "it": "I risultati sono riassunti qui sotto.", "en": "The findings are summarised below.", "alt": ["The results are summarised below.", "The findings are summarized below."] },
+    { "it": "Il campione è troppo piccolo per trarre conclusioni solide.", "en": "The sample is too small to draw firm conclusions.", "alt": ["The sample size is too small to draw firm conclusions.", "The sample is too small to draw reliable conclusions."] },
+    { "it": "La correlazione non implica causalità.", "en": "Correlation does not imply causation.", "alt": ["Correlation doesn't imply causation.", "Correlation does not mean causation."] },
+    { "it": "Gli utenti mobile rappresentano il 65% delle visite.", "en": "Mobile users account for 65% of visits.", "alt": ["Mobile users make up 65% of visits.", "Mobile users account for 65% of the visits."] },
+    { "it": "Nel complesso i risultati sono positivi.", "en": "Overall, the results are positive.", "alt": ["On the whole, the results are positive.", "Overall, the findings are positive."] },
+    { "it": "Raccomandiamo di risolvere prima i problemi critici.", "en": "We recommend fixing the critical issues first.", "alt": ["We recommend that the critical issues be fixed first.", "We recommend fixing the critical problems first."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi la sintesi dei risultati (executive summary) di un audit di accessibilità fatto sul sito di un cliente, in 6-8 righe. Includi: quanti problemi hai trovato (18, di cui 4 critici), due dei problemi principali, una stima dei tempi per correggerli (tre settimane), un'affermazione con il passivo impersonale (per esempio It is estimated that... / The site is believed to...), un limite dell'analisi e una raccomandazione chiara.",
+    "taskEn": "Write the executive summary of an accessibility audit carried out on a client's website, in 6-8 lines. Include: how many issues you found (18, of which 4 critical), two of the main issues, an estimate of the time to fix them (three weeks), a statement using the impersonal passive (for example It is estimated that... / The site is believed to...), a limitation of the analysis and a clear recommendation.",
+    "model": "Executive summary\n\nThe audit of the website identified 18 accessibility issues, of which four are critical. The most serious problems are missing labels on the checkout form and insufficient colour contrast on buttons and links. Together they are believed to prevent many users with disabilities from completing a purchase.\n\nIt is estimated that about 15% of visitors have some form of disability, so the impact on sales is likely to be significant. The corrective work is expected to take about three weeks.\n\nOne limitation of this audit is that only the ten main pages were tested, and the tests were done with two screen readers only. The remaining pages should therefore be checked in a second phase.\n\nWe recommend fixing the four critical issues first, ideally within the next ten days, and then retesting with real users to confirm the improvement."
+  },
+  "speaking": {
+    "shadowing": [
+      "The findings are summarised below.",
+      "It is said that the new version is much faster.",
+      "Traffic is expected to double next quarter.",
+      "The bug is thought to have been introduced in the last update.",
+      "It is estimated that fifteen percent of users have a disability.",
+      "The sample size is too small to draw firm conclusions.",
+      "Correlation does not imply causation.",
+      "On the whole, we can conclude that the redesign was successful."
+    ],
+    "prompts": [
+      { "en": "Summarise the main findings of a test or audit you have done.", "it": "Riassumi i risultati principali di un test o audit che hai fatto.", "help": "Usa: The audit identified... / The results indicate... / Overall..." },
+      { "en": "What do people say about the future of your industry?", "it": "Cosa si dice sul futuro del tuo settore?", "help": "Usa: It is said that... / ... is expected to..." },
+      { "en": "What is the difference between correlation and causation?", "it": "Qual è la differenza tra correlazione e causalità?", "help": "Usa: Two things can happen together without one causing the other." },
+      { "en": "How do you say that a result is not certain?", "it": "Come dici che un risultato non è certo?", "help": "Usa: The data suggest... / The results are inconclusive / It is believed that..." },
+      { "en": "What recommendations would you give a client after an audit?", "it": "Quali raccomandazioni daresti a un cliente dopo un audit?", "help": "Usa: We recommend... / Fix the critical issues first / A follow-up test is expected to..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: analisi e risultati",
+      "show": ["Analisi e risultati", "Il passivo impersonale"],
+      "say": [
+        { "lang": "it", "text": "Oggi impariamo a presentare dati, ricerche e conclusioni. Impariamo anche il passivo impersonale, tipico dei report." },
+        { "lang": "en", "text": "The findings are summarised below." }
+      ]
+    },
+    {
+      "title": "Il lessico dell'analisi",
+      "show": ["findings", "evidence", "sample", "survey"],
+      "say": [
+        { "lang": "it", "text": "Findings sono i risultati. Evidence è la prova. Sample è il campione. Survey è il sondaggio. Sono parole chiave in ogni report." },
+        { "lang": "en", "text": "The sample size is too small to draw firm conclusions." }
+      ]
+    },
+    {
+      "title": "It is said that",
+      "show": ["It is said that + frase", "It is believed that..."],
+      "say": [
+        { "lang": "it", "text": "La prima forma è it, più verbo al passivo, più that. Si usa con say, believe, think, know, expect, estimate." },
+        { "lang": "en", "text": "It is believed that the problem is caused by the plugin." }
+      ]
+    },
+    {
+      "title": "X is expected to",
+      "show": ["soggetto + is expected + to + verbo", "Traffic is expected to double"],
+      "say": [
+        { "lang": "it", "text": "La seconda forma porta il soggetto all'inizio, poi il passivo, poi to e il verbo. È più breve e molto usata." },
+        { "lang": "en", "text": "Traffic is expected to double next quarter." }
+      ]
+    },
+    {
+      "title": "Passato e azione in corso",
+      "show": ["to have + participio", "to be + -ing"],
+      "say": [
+        { "lang": "it", "text": "Per un fatto passato usa to have più participio. Per un'azione in corso usa to be più verbo in ing." },
+        { "lang": "en", "text": "The error is thought to have started in March." }
+      ]
+    },
+    {
+      "title": "Scegliere il verbo giusto",
+      "show": ["is known = certo", "is expected = previsione", "is alleged = senza prove"],
+      "say": [
+        { "lang": "it", "text": "Il verbo mostra quanta certezza hai. Is known indica un fatto certo. Is expected indica una previsione. Is alleged indica un'accusa senza prove." },
+        { "lang": "en", "text": "Slow pages are known to reduce conversions." }
+      ]
+    },
+    {
+      "title": "Cautela e conclusioni",
+      "show": ["suggest, indicate", "inconclusive", "limitation", "We recommend..."],
+      "say": [
+        { "lang": "it", "text": "Un buon report è prudente. Usa suggest e indicate, ammetti i limiti e chiudi con raccomandazioni chiare." },
+        { "lang": "en", "text": "One limitation is the small sample. We recommend fixing the critical issues first." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["It is said that...", "X is expected to...", "Correlazione non è causalità"],
+      "say": [
+        { "lang": "it", "text": "Ricorda le due strutture: it is said that, e X is said to. Usale per un tono oggettivo e prudente nei report." },
+        { "lang": "en", "text": "On the whole, the results are positive." }
+      ]
+    }
+  ]
+}

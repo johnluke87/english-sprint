@@ -1,0 +1,314 @@
+{
+  "id": 33,
+  "week": 7,
+  "title": "Tempo e priorità",
+  "titleEn": "Time and priorities",
+  "intro": "Oggi impari a parlare di tempo, priorità e carico di lavoro: cosa è urgente, cosa si può rimandare, cosa si può delegare. Vedi anche used to, be used to e get used to, tre forme che gli italiani confondono spesso. Ti servono per spiegare ai clienti i tuoi tempi e per raccontare come lavori.",
+  "goals": [
+    "Spiegare le priorità e dire cosa si rimanda o si delega",
+    "Usare used to per le abitudini del passato",
+    "Usare be used to e get used to con la forma in -ing",
+    "Dire di no con gentilezza quando hai troppo lavoro"
+  ],
+  "words": [
+    { "en": "to stay on track", "pron": "stei on trak", "it": "restare in linea con i tempi", "type": "phrase", "ex": "We need to stay on track to launch on Friday.", "exIt": "Dobbiamo restare in linea con i tempi per lanciare venerdì." },
+    { "en": "to block out", "pron": "blok aut", "it": "riservare (tempo in agenda)", "type": "phrase", "ex": "I block out two hours every morning for deep work.", "exIt": "Riservo due ore ogni mattina al lavoro che richiede concentrazione." },
+    { "en": "slot", "pron": "slot", "it": "fascia oraria, spazio libero", "type": "noun", "ex": "Do you have a free slot on Thursday?", "exIt": "Hai una fascia oraria libera giovedì?" },
+    { "en": "to-do list", "pron": "tu dù list", "it": "lista delle cose da fare", "type": "noun", "ex": "My to-do list is getting longer.", "exIt": "La mia lista delle cose da fare si allunga." },
+    { "en": "to dedicate", "pron": "dèdikeit", "it": "dedicare", "type": "verb", "ex": "I dedicate Fridays to admin tasks.", "exIt": "Dedico i venerdì alle pratiche amministrative." },
+    { "en": "to cut down on", "pron": "cat daun on", "it": "ridurre", "type": "phrase", "ex": "We want to cut down on unnecessary meetings.", "exIt": "Vogliamo ridurre le riunioni inutili." },
+    { "en": "to delegate", "pron": "dèligheit", "it": "delegare", "type": "verb", "ex": "You should delegate the small tasks.", "exIt": "Dovresti delegare i compiti piccoli." },
+    { "en": "to organise", "pron": "òrganaiz", "it": "organizzare", "type": "verb", "ex": "I organise my week every Monday.", "exIt": "Organizzo la mia settimana ogni lunedì." },
+    { "en": "to multitask", "pron": "maltitàsk", "it": "fare più cose insieme", "type": "verb", "ex": "I can't multitask during a call.", "exIt": "Non riesco a fare altro durante una chiamata." },
+    { "en": "to procrastinate", "pron": "proucràstineit", "it": "procrastinare", "type": "verb", "ex": "I procrastinate when a task looks boring.", "exIt": "Procrastino quando un compito sembra noioso." },
+    { "en": "distraction", "pron": "distràcscion", "it": "distrazione", "type": "noun", "ex": "Notifications are a big distraction.", "exIt": "Le notifiche sono una grande distrazione." },
+    { "en": "to focus", "pron": "fòucas", "it": "concentrarsi", "type": "verb", "ex": "I focus better in the morning.", "exIt": "Mi concentro meglio la mattina." },
+    { "en": "to juggle", "pron": "giàgol", "it": "destreggiarsi tra", "type": "verb", "ex": "I'm juggling three clients at the moment.", "exIt": "In questo momento mi destreggio tra tre clienti." },
+    { "en": "overwhelmed", "pron": "ouverùelmd", "it": "sopraffatto, sommerso", "type": "adj", "ex": "I feel overwhelmed by all the emails.", "exIt": "Mi sento sommerso da tutte le mail." },
+    { "en": "deadline pressure", "pron": "dèdlain prèscer", "it": "pressione delle scadenze", "type": "noun", "ex": "Deadline pressure makes everyone nervous.", "exIt": "La pressione delle scadenze rende tutti nervosi." },
+    { "en": "to wind down", "pron": "uàind daun", "it": "rallentare, rilassarsi a fine giornata", "type": "phrase", "ex": "I wind down by going for a walk after work.", "exIt": "A fine giornata mi rilasso facendo una passeggiata." },
+    { "en": "to tackle", "pron": "tàcol", "it": "affrontare", "type": "verb", "ex": "Let's tackle the biggest problem first.", "exIt": "Affrontiamo prima il problema più grande." },
+    { "en": "peak hours", "pron": "pìik àuers", "it": "ore di punta", "type": "noun", "ex": "Our servers are busiest during peak hours.", "exIt": "I nostri server sono più carichi nelle ore di punta." },
+    { "en": "to be on top of", "pron": "bi on top ov", "it": "avere la situazione sotto controllo", "type": "phrase", "ex": "I'm on top of my tasks this week.", "exIt": "Questa settimana ho i miei compiti sotto controllo." },
+    { "en": "habit", "pron": "hàbit", "it": "abitudine", "type": "noun", "ex": "Checking email first is a bad habit.", "exIt": "Controllare la mail per prima cosa è una cattiva abitudine." },
+    { "en": "to adapt", "pron": "adàpt", "it": "adattarsi", "type": "verb", "ex": "It took me a while to adapt to the new schedule.", "exIt": "Mi ci è voluto un po' per adattarmi al nuovo orario." },
+    { "en": "to get through", "pron": "ghet trù", "it": "venire a capo di, smaltire", "type": "verb", "ex": "I need to get through these emails today.", "exIt": "Devo smaltire queste mail oggi." },
+    { "en": "to shift", "pron": "scift", "it": "spostare, cambiare", "type": "verb", "ex": "We had to shift our priorities after the client's call.", "exIt": "Abbiamo dovuto cambiare le priorità dopo la chiamata del cliente." },
+    { "en": "to reorganise", "pron": "riòrganaiz", "it": "riorganizzare", "type": "verb", "ex": "We reorganised the tasks by deadline.", "exIt": "Abbiamo riorganizzato i compiti in base alla scadenza." },
+    { "en": "tight schedule", "pron": "tàit skèdgiul", "it": "programma serrato", "type": "noun", "ex": "We're on a tight schedule this month.", "exIt": "Questo mese abbiamo un programma serrato." },
+    { "en": "to say no", "pron": "sei nou", "it": "dire di no", "type": "phrase", "ex": "It's hard to say no to a client.", "exIt": "È difficile dire di no a un cliente." },
+    { "en": "spare time", "pron": "spèer taim", "it": "tempo libero", "type": "noun", "ex": "I don't have much spare time these days.", "exIt": "In questi giorni ho poco tempo libero." },
+    { "en": "to take a break", "pron": "teic a brèic", "it": "fare una pausa", "type": "phrase", "ex": "Let's take a ten-minute break.", "exIt": "Facciamo dieci minuti di pausa." },
+    { "en": "to burn out", "pron": "bern aut", "it": "esaurirsi, andare in burnout", "type": "verb", "ex": "He worked too much and burned out.", "exIt": "Ha lavorato troppo ed è andato in burnout." },
+    { "en": "work-life balance", "pron": "uèrk laif bàlans", "it": "equilibrio tra lavoro e vita privata", "type": "noun", "ex": "A good work-life balance is important to me.", "exIt": "Un buon equilibrio tra lavoro e vita privata è importante per me." },
+    { "en": "to switch off", "pron": "suìcc òf", "it": "staccare la spina", "type": "verb", "ex": "It's hard to switch off after work.", "exIt": "È difficile staccare la spina dopo il lavoro." },
+    { "en": "urgent request", "pron": "èrgent rikuèst", "it": "richiesta urgente", "type": "noun", "ex": "An urgent request arrived just before lunch.", "exIt": "Una richiesta urgente è arrivata poco prima di pranzo." },
+    { "en": "to wrap up early", "pron": "rap ap èrli", "it": "finire in anticipo", "type": "phrase", "ex": "Let's wrap up early today.", "exIt": "Finiamo in anticipo oggi." },
+    { "en": "time frame", "pron": "tàim freim", "it": "arco di tempo", "type": "noun", "ex": "What is the time frame for this project?", "exIt": "Qual è l'arco di tempo previsto per questo progetto?" },
+    { "en": "to hurry", "pron": "hàri", "it": "sbrigarsi", "type": "verb", "ex": "We need to hurry if we want to finish today.", "exIt": "Dobbiamo sbrigarci se vogliamo finire oggi." },
+    { "en": "to stay late", "pron": "stei leit", "it": "restare fino a tardi", "type": "phrase", "ex": "I stayed late to finish the report.", "exIt": "Sono rimasto fino a tardi per finire il report." },
+    { "en": "buffer", "pron": "bàfer", "it": "margine di tempo", "type": "noun", "ex": "Let's add a buffer of one day.", "exIt": "Aggiungiamo un margine di un giorno." },
+    { "en": "to squeeze in", "pron": "skuìiz in", "it": "incastrare", "type": "verb", "ex": "Can you squeeze in a quick call today?", "exIt": "Riesci a incastrare una breve chiamata oggi?" },
+    { "en": "to cut back on", "pron": "cat bac on", "it": "ridurre", "type": "verb", "ex": "I'm cutting back on meetings.", "exIt": "Sto riducendo le riunioni." },
+    { "en": "to keep track of", "pron": "kìip tràk ov", "it": "tenere traccia di", "type": "verb", "ex": "I use a notebook to keep track of tasks.", "exIt": "Uso un quaderno per tenere traccia dei compiti." },
+    { "en": "to stay on top of", "pron": "stei on top ov", "it": "tenere sotto controllo", "type": "verb", "ex": "It's hard to stay on top of everything.", "exIt": "È difficile tenere tutto sotto controllo." },
+    { "en": "overtime", "pron": "òuvertaim", "it": "straordinario", "type": "noun", "ex": "I did a lot of overtime last month.", "exIt": "Il mese scorso ho fatto molto straordinario." },
+    { "en": "to triage", "pron": "trìiagi", "it": "dare un ordine di urgenza", "type": "verb", "ex": "We triage new requests every morning.", "exIt": "Ogni mattina diamo un ordine di urgenza alle nuove richieste." },
+    { "en": "to chunk", "pron": "cianc", "it": "spezzare in parti piccole", "type": "verb", "ex": "Chunk big tasks into smaller steps.", "exIt": "Spezza i compiti grandi in passaggi più piccoli." },
+    { "en": "by the end of the day", "pron": "bai di end ov de dei", "it": "entro la fine della giornata", "type": "phrase", "ex": "I'll send it by the end of the day.", "exIt": "Lo mando entro la fine della giornata." },
+    { "en": "time-consuming", "pron": "tàim kensiùming", "it": "che richiede molto tempo", "type": "adj", "ex": "Manual testing is very time-consuming.", "exIt": "I test manuali richiedono moltissimo tempo." },
+    { "en": "accustomed", "pron": "acàstomd", "it": "abituato (più formale)", "type": "adj", "ex": "I'm accustomed to working under pressure.", "exIt": "Sono abituato a lavorare sotto pressione." },
+    { "en": "efficient", "pron": "ifìscent", "it": "efficiente", "type": "adj", "ex": "This tool makes me more efficient.", "exIt": "Questo strumento mi rende più efficiente." },
+    { "en": "productive", "pron": "prodàctiv", "it": "produttivo", "type": "adj", "ex": "I'm most productive early in the morning.", "exIt": "Sono più produttivo la mattina presto." },
+    { "en": "cut-off time", "pron": "cat of taim", "it": "ora limite", "type": "noun", "ex": "The cut-off time for orders is five o'clock.", "exIt": "L'ora limite per gli ordini è alle cinque." }
+  ],
+  "falseFriends": [
+    { "en": "to attend", "it": "partecipare", "trap": "Non vuol dire 'attendere' (= to wait)." },
+    { "en": "sympathetic", "it": "comprensivo", "trap": "Non vuol dire 'simpatico' (= nice, friendly)." },
+    { "en": "actually", "it": "in realtà", "trap": "Non vuol dire 'attualmente' (= currently)." }
+  ],
+  "grammar": {
+    "title": "Used to, be used to, get used to",
+    "explainIt": [
+      "Queste tre forme si assomigliano ma hanno significati diversi. Fai molta attenzione alla forma del verbo che segue.",
+      "USED TO + verbo base: parla di un'abitudine o di uno stato del passato che ora non c'è più. 'I used to work in an office' = lavoravo in ufficio (ora non più). Il negativo è 'didn't use to' e la domanda è 'Did you use to...?': dopo did si toglie la d. Non si usa per fatti singoli o con numeri precisi: non si dice 'I used to go there twice'.",
+      "BE USED TO + forma in -ing (o nome): vuol dire essere abituato a qualcosa. 'I'm used to working from home' = sono abituato a lavorare da casa. Qui 'to' è una preposizione, per questo dopo vuole -ing. Può stare al presente, passato o futuro con il verbo be: 'I wasn't used to the time difference'.",
+      "GET USED TO + forma in -ing (o nome): vuol dire abituarsi, cioè il processo per diventare abituati. 'I'm getting used to the new tool' = mi sto abituando al nuovo strumento. 'You'll get used to it' = ti ci abituerai.",
+      "Un trucco: se dopo 'to' puoi mettere un nome o un pronome (used to it, used to the noise), allora è la forma con -ing. Se dopo 'used to' c'è un verbo base, è l'abitudine del passato. In italiano usiamo 'solere' o l'imperfetto per used to. Per le altre due diciamo 'essere abituato' e 'abituarsi'."
+    ],
+    "explainEn": [
+      "These three forms look the same but have different meanings. Pay close attention to the form of the verb that follows.",
+      "USED TO + base verb: it talks about a habit or a state in the past that is not true now. 'I used to work in an office' means I worked in an office in the past, but not now. The negative is 'didn't use to' and the question is 'Did you use to...?': after did, we drop the d. We do not use it for single events or with exact numbers: we don't say 'I used to go there twice'.",
+      "BE USED TO + -ing form (or a noun): it means you are accustomed to something. 'I'm used to working from home.' Here 'to' is a preposition, so a verb after it takes -ing. You can use it in the present, past or future with the verb be: 'I wasn't used to the time difference.'",
+      "GET USED TO + -ing form (or a noun): it means to become accustomed to something, the process of changing. 'I'm getting used to the new tool.' 'You'll get used to it.'",
+      "A trick: if you can put a noun or a pronoun after 'to' (used to it, used to the noise), it is the -ing form. If a base verb follows 'used to', it is the past habit. In Italian we use 'solere' or the imperfect for used to. For the other two we say 'essere abituato' and 'abituarsi'."
+    ],
+    "rules": [
+      {
+        "it": "Used to + verbo base: abitudini e situazioni del passato che ora sono finite.",
+        "en": "Used to + base verb: past habits and states that are finished now.",
+        "form": "used to + verbo base",
+        "examples": [
+          { "en": "I used to work late every night.", "it": "Lavoravo fino a tardi ogni sera." },
+          { "en": "We used to have weekly meetings, but now we have daily ones.", "it": "Facevamo riunioni settimanali, ma ora le facciamo ogni giorno." },
+          { "en": "She didn't use to answer emails so quickly.", "it": "Prima non rispondeva alle mail così in fretta." }
+        ]
+      },
+      {
+        "it": "Be used to + -ing: essere abituato a qualcosa. Il verbo be cambia con il tempo e la persona.",
+        "en": "Be used to + -ing: to be accustomed to something. The verb be changes with the tense and the person.",
+        "form": "be used to + -ing / nome",
+        "examples": [
+          { "en": "I'm used to working with tight deadlines.", "it": "Sono abituato a lavorare con scadenze strette." },
+          { "en": "He isn't used to the time difference yet.", "it": "Non è ancora abituato alla differenza di fuso orario." },
+          { "en": "Are you used to using this tool?", "it": "Sei abituato a usare questo strumento?" }
+        ]
+      },
+      {
+        "it": "Get used to + -ing: abituarsi, cioè il cambiamento da nuovo a normale.",
+        "en": "Get used to + -ing: to become accustomed to something, the change from new to normal.",
+        "form": "get used to + -ing / nome",
+        "examples": [
+          { "en": "I'm getting used to working from home.", "it": "Mi sto abituando a lavorare da casa." },
+          { "en": "It took me a month to get used to the new system.", "it": "Mi ci è voluto un mese per abituarmi al nuovo sistema." },
+          { "en": "You'll get used to the noise.", "it": "Ti abituerai al rumore." }
+        ]
+      },
+      {
+        "it": "Domande e negazioni con used to: usa did e use (senza la d).",
+        "en": "Questions and negatives with used to: use did and use (without the d).",
+        "form": "did + soggetto + use to / didn't use to",
+        "examples": [
+          { "en": "Did you use to commute by train?", "it": "Facevi il pendolare in treno?" },
+          { "en": "I didn't use to like meetings, but now I do.", "it": "Prima non mi piacevano le riunioni, ma ora sì." }
+        ]
+      }
+    ],
+    "tip": "Chiediti: sto parlando del passato che è finito (used to + verbo), oppure di abitudine presente o nuova (be/get used to + -ing)? Se puoi sostituire con 'abituato' o 'abituarsi', la forma dopo to ha sempre -ing.",
+    "mistakes": [
+      { "wrong": "I'm used to work late.", "right": "I'm used to working late.", "why": "dopo be used to il verbo va in -ing, perché 'to' è una preposizione" },
+      { "wrong": "I didn't used to like it.", "right": "I didn't use to like it.", "why": "dopo didn't il verbo torna alla forma base: use, senza d" },
+      { "wrong": "I use to work in London.", "right": "I used to work in London.", "why": "per il passato serve used con la d; 'I use to' non esiste in questo senso" },
+      { "wrong": "I used to going to the office every day.", "right": "I used to go to the office every day. (o: I'm used to going...)", "why": "used to + verbo base per il passato; -ing solo con be/get used to" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I ___ to work in an office, but now I work from home. (abitudine passata)", "a": ["used"], "hint": "passato finito", "explain": "Used to + verbo base: abitudine del passato." },
+    { "q": "I'm used to ___ (work) with tight deadlines.", "a": ["working"], "hint": "dopo be used to", "explain": "Be used to + forma in -ing." },
+    { "q": "It took me a month to get used to ___ (use) the new tool.", "a": ["using"], "hint": "get used to + ?", "explain": "Get used to + forma in -ing." },
+    { "q": "She didn't ___ to answer emails so quickly.", "a": ["use"], "hint": "dopo didn't", "explain": "Dopo didn't si usa use, senza la d." },
+    { "q": "___ you use to commute by train? (Facevi...?)", "a": ["did"], "hint": "domanda al passato", "explain": "Domanda: Did you use to...?" },
+    { "q": "We're not ___ to the time difference yet. (abituati)", "a": ["used"], "hint": "essere abituati", "explain": "Be used to + nome." },
+    { "q": "I'm slowly getting used ___ the new schedule.", "a": ["to"], "hint": "preposizione", "explain": "Get used TO + nome o -ing." },
+    { "q": "He ___ to be shy, but now he loves presentations.", "a": ["used"], "hint": "una volta era", "explain": "Used to per un cambiamento rispetto al passato." },
+    { "q": "Are you used to ___ (speak) English at work?", "a": ["speaking"], "hint": "-ing", "explain": "Be used to + -ing." },
+    { "q": "Don't worry, you'll soon get ___ to it.", "a": ["used"], "hint": "abituarsi", "explain": "Get used to it = ti ci abituerai." },
+    { "q": "I ___ to take two hours to commute. Now it's twenty minutes. (impiegavo)", "a": ["used"], "hint": "una volta", "explain": "Used to + verbo base per uno stato passato." },
+    { "q": "I'm not used to ___ (get) so many requests in one day.", "a": ["getting"], "hint": "-ing", "explain": "Be used to + -ing." }
+  ],
+  "phrases": [
+    { "group": "Parlare di priorità", "en": "What's the top priority right now?", "it": "Qual è la priorità numero uno adesso?" },
+    { "group": "Parlare di priorità", "en": "Let's tackle the urgent issues first.", "it": "Affrontiamo prima le questioni urgenti." },
+    { "group": "Parlare di priorità", "en": "This can wait until next week.", "it": "Questo può aspettare fino alla settimana prossima." },
+    { "group": "Parlare di priorità", "en": "I'll break it down into smaller steps.", "it": "Lo scompongo in passaggi più piccoli." },
+    { "group": "Parlare di priorità", "en": "Let's focus on what really matters.", "it": "Concentriamoci su ciò che conta davvero." },
+    { "group": "Dire di no con gentilezza", "en": "I'm swamped this week, I'm afraid.", "it": "Purtroppo questa settimana sono sommerso di lavoro." },
+    { "group": "Dire di no con gentilezza", "en": "I can't fit that in before Friday.", "it": "Non riesco a incastrarlo prima di venerdì." },
+    { "group": "Dire di no con gentilezza", "en": "I'm afraid I'll have to turn this one down.", "it": "Temo di dover rifiutare questa richiesta." },
+    { "group": "Dire di no con gentilezza", "en": "Could we postpone it until next Monday?", "it": "Potremmo rimandarlo a lunedì prossimo?" },
+    { "group": "Dire di no con gentilezza", "en": "I don't have the capacity to take that on right now.", "it": "Adesso non ho modo di occuparmene." },
+    { "group": "Gestire le scadenze", "en": "I'll send it by the end of the day.", "it": "Lo mando entro la fine della giornata." },
+    { "group": "Gestire le scadenze", "en": "We're a bit behind schedule.", "it": "Siamo un po' indietro con i tempi." },
+    { "group": "Gestire le scadenze", "en": "Let's add a buffer, just in case.", "it": "Aggiungiamo un margine, per sicurezza." },
+    { "group": "Gestire le scadenze", "en": "I'll do it first thing tomorrow.", "it": "Lo faccio per prima cosa domani." },
+    { "group": "Gestire le scadenze", "en": "Can you squeeze in a quick review?", "it": "Riesci a incastrare una revisione veloce?" },
+    { "group": "Delegare", "en": "Could you take this on for me?", "it": "Potresti occupartene tu al posto mio?" },
+    { "group": "Delegare", "en": "I'd like to delegate this to Anna.", "it": "Vorrei delegare questo ad Anna." },
+    { "group": "Delegare", "en": "Can you keep track of the open tasks?", "it": "Puoi tenere traccia dei compiti aperti?" },
+    { "group": "Delegare", "en": "I'll hand over the small tasks.", "it": "Passerò ad altri i compiti piccoli." },
+    { "group": "Delegare", "en": "Let's share the load.", "it": "Dividiamoci il lavoro." },
+    { "group": "Abitudini e routine", "en": "I used to work late, but now I finish at six.", "it": "Lavoravo fino a tardi, ma ora finisco alle sei." },
+    { "group": "Abitudini e routine", "en": "I'm used to working under pressure.", "it": "Sono abituato a lavorare sotto pressione." },
+    { "group": "Abitudini e routine", "en": "I'm still getting used to the new routine.", "it": "Mi sto ancora abituando alla nuova routine." },
+    { "group": "Abitudini e routine", "en": "It's hard to switch off after work.", "it": "È difficile staccare la spina dopo il lavoro." },
+    { "group": "Abitudini e routine", "en": "I try to keep a good work-life balance.", "it": "Cerco di mantenere un buon equilibrio tra lavoro e vita privata." }
+  ],
+  "dialogue": {
+    "title": "Too much to do",
+    "context": "Luca è un web developer freelance. Parla con la sua collega Giulia, che gli chiede di prendere un nuovo lavoro. Luca ha già molto da fare e cerca di spiegare le sue priorità.",
+    "lines": [
+      { "s": "A", "name": "Giulia", "en": "Hi Luca, do you have a minute? A new client needs a landing page by the end of the week.", "it": "Ciao Luca, hai un minuto? Un nuovo cliente ha bisogno di una landing page entro la fine della settimana." },
+      { "s": "B", "name": "Luca", "en": "Honestly, I'm swamped. I'm juggling three projects at the moment.", "it": "Sinceramente sono sommerso. In questo momento mi destreggio tra tre progetti." },
+      { "s": "A", "name": "Giulia", "en": "I understand. What's your top priority this week?", "it": "Capisco. Qual è la tua priorità numero uno questa settimana?" },
+      { "s": "B", "name": "Luca", "en": "The accessibility fixes for the bank. It's urgent and the deadline is tight.", "it": "Le correzioni di accessibilità per la banca. È urgente e la scadenza è stretta." },
+      { "s": "A", "name": "Giulia", "en": "Could we postpone the landing page to next Monday? The client is flexible.", "it": "Potremmo rimandare la pagina a lunedì prossimo? Il cliente è flessibile." },
+      { "s": "B", "name": "Luca", "en": "That would help. I used to say yes to everything, but I ended up working overtime every weekend.", "it": "Sarebbe utile. Una volta dicevo sì a tutto, ma finivo per fare straordinari ogni fine settimana." },
+      { "s": "A", "name": "Giulia", "en": "I know the feeling. I used to work until midnight before every launch.", "it": "So cosa vuol dire. Io lavoravo fino a mezzanotte prima di ogni lancio." },
+      { "s": "B", "name": "Luca", "en": "Now I'm getting used to saying no. It's not easy, but it's better for the quality of my work.", "it": "Ora mi sto abituando a dire di no. Non è facile, ma è meglio per la qualità del mio lavoro." },
+      { "s": "A", "name": "Giulia", "en": "Fair enough. Could you at least take a quick look at the brief?", "it": "Giusto. Potresti almeno dare un'occhiata al brief?" },
+      { "s": "B", "name": "Luca", "en": "Sure. I can squeeze that in first thing tomorrow.", "it": "Certo. Riesco a incastrarlo domani per prima cosa." },
+      { "s": "A", "name": "Giulia", "en": "Perfect. And if it looks too big, we could delegate the design part to Marco.", "it": "Perfetto. E se sembra troppo grande, potremmo delegare la parte di design a Marco." },
+      { "s": "B", "name": "Luca", "en": "Good idea. Let's break the project down into small steps and add a buffer, just in case.", "it": "Buona idea. Scomponiamo il progetto in piccoli passi e aggiungiamo un margine, per sicurezza." },
+      { "s": "A", "name": "Giulia", "en": "I'll set up a to-do list and share it with you by the end of the day.", "it": "Preparo una lista delle cose da fare e te la condivido entro fine giornata." },
+      { "s": "B", "name": "Luca", "en": "Thanks, Giulia. I really appreciate you being so understanding.", "it": "Grazie, Giulia. Apprezzo molto la tua comprensione." }
+    ]
+  },
+  "listening": [
+    { "q": "Why does Luca say he is swamped?", "options": ["He is on holiday", "He is juggling three projects", "He has no work"], "answer": 1 },
+    { "q": "What is Luca's top priority this week?", "options": ["Accessibility fixes for the bank", "A new landing page", "Holiday plans"], "answer": 0 },
+    { "q": "What did Luca use to do in the past?", "options": ["Say no to everything", "Say yes to everything", "Work only in the morning"], "answer": 1 },
+    { "q": "When will Luca look at the new brief?", "options": ["Next Monday", "Tonight", "First thing tomorrow"], "answer": 2 }
+  ],
+  "translations": [
+    { "it": "Qual è la priorità numero uno questa settimana?", "en": "What's the top priority this week?", "alt": ["What is the top priority this week?", "What's our number one priority this week?"] },
+    { "it": "Siamo un po' indietro con i tempi.", "en": "We're a bit behind schedule.", "alt": ["We are a bit behind schedule.", "We're slightly behind schedule."] },
+    { "it": "Una volta lavoravo in un'agenzia a Roma.", "en": "I used to work for an agency in Rome.", "alt": ["I used to work at an agency in Rome.", "I used to work in an agency in Rome."] },
+    { "it": "Sono abituato a lavorare con scadenze strette.", "en": "I'm used to working with tight deadlines.", "alt": ["I am used to working with tight deadlines.", "I'm used to working to tight deadlines."] },
+    { "it": "Mi sto abituando a lavorare da casa.", "en": "I'm getting used to working from home.", "alt": ["I am getting used to working from home.", "I'm getting used to working at home."] },
+    { "it": "Possiamo rimandare la riunione a giovedì?", "en": "Can we postpone the meeting to Thursday?", "alt": ["Could we postpone the meeting until Thursday?", "Can we postpone the meeting until Thursday?"] },
+    { "it": "Questa settimana sono sommerso di lavoro.", "en": "I'm swamped with work this week.", "alt": ["I'm swamped this week.", "I am swamped with work this week."] },
+    { "it": "Posso delegare questo compito a Marco?", "en": "Can I delegate this task to Marco?", "alt": ["Could I delegate this task to Marco?", "Can I delegate this to Marco?"] },
+    { "it": "Lo mando entro la fine della giornata.", "en": "I'll send it by the end of the day.", "alt": ["I will send it by the end of the day.", "I'll send it by the end of today."] },
+    { "it": "Scomponiamo il progetto in piccoli passi.", "en": "Let's break the project down into small steps.", "alt": ["Let's break down the project into small steps.", "Let's break the project down into smaller steps."] },
+    { "it": "Non avevo l'abitudine di rispondere alle mail dopo le sei.", "en": "I didn't use to answer emails after six.", "alt": ["I never used to answer emails after six.", "I didn't use to reply to emails after six."] },
+    { "it": "Ti ci abituerai presto.", "en": "You'll get used to it soon.", "alt": ["You will get used to it soon.", "You'll soon get used to it."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente ti chiede un lavoro urgente, ma hai già troppe cose da fare. Scrivi una mail gentile. Ringrazia per la richiesta. Spiega che questa settimana sei sommerso di lavoro e che la tua priorità è un altro progetto. Proponi di rimandare la consegna a una data precisa. Offri di dare un'occhiata alla richiesta domani. Racconta in una frase come lavoravi prima (used to) e come stai cambiando (getting used to). 6-8 righe.",
+    "taskEn": "A client asks you for an urgent job, but you already have too much to do. Write a polite email. Thank them for the request. Explain that you are swamped this week and that your priority is another project. Suggest postponing the delivery to a specific date. Offer to look at the request tomorrow. Tell them in one sentence how you used to work and how you are changing (getting used to). 6-8 lines.",
+    "model": "Dear Mr Rossi,\nThank you for your request. I'd be glad to help, but I'm swamped this week and my top priority is an accessibility project with a tight deadline.\nCould we postpone the delivery to Monday the 25th? I can look at the brief first thing tomorrow and give you a clear estimate by the end of the day.\nI used to say yes to every request, but I'm getting used to planning my time better, so that the quality of my work stays high.\nThank you for your understanding.\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "What's the top priority this week?",
+      "I'm swamped, but I can squeeze it in first thing tomorrow.",
+      "Could we postpone the meeting until Thursday?",
+      "I used to work late, but now I finish at six.",
+      "I'm used to working with tight deadlines.",
+      "I'm still getting used to working from home.",
+      "Let's break the task down into small steps.",
+      "I'll send it by the end of the day."
+    ],
+    "prompts": [
+      { "en": "How do you organise your week?", "it": "Come organizzi la tua settimana?", "help": "Usa: I start by..., I make a to-do list, I prioritise..." },
+      { "en": "What did you use to do in your free time when you were a student?", "it": "Cosa facevi nel tempo libero quando eri studente?", "help": "Usa: I used to play..., I didn't use to..." },
+      { "en": "What kind of work are you used to doing?", "it": "A che tipo di lavoro hai l'abitudine?", "help": "Usa: I'm used to working with..., I'm used to dealing with..." },
+      { "en": "Is there something at work you are getting used to?", "it": "C'è qualcosa al lavoro a cui ti stai abituando?", "help": "Usa: I'm getting used to a new tool / a new routine / a new team." },
+      { "en": "How do you say no when you have too much work?", "it": "Come dici di no quando hai troppo lavoro?", "help": "Usa: I'm afraid I can't fit that in... Could we postpone...?" }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": ["Time and priorities", "used to, be used to, get used to"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo di tempo e priorità. Impari a dire cosa è urgente, cosa rimandare e cosa delegare. Poi vedi tre forme molto confuse: used to, be used to e get used to." },
+        { "lang": "en", "text": "I'm swamped this week, but I can fit it in first thing tomorrow." }
+      ]
+    },
+    {
+      "title": "Used to più verbo base",
+      "show": ["used to + verbo", "I used to work late"],
+      "say": [
+        { "lang": "it", "text": "Used to più il verbo base descrive un'abitudine del passato che ora è finita. È come l'imperfetto italiano, o il verbo solere." },
+        { "lang": "en", "text": "I used to work late every night. Now I finish at six." }
+      ]
+    },
+    {
+      "title": "Domande e negazioni",
+      "show": ["didn't use to", "Did you use to...?"],
+      "say": [
+        { "lang": "it", "text": "Nelle domande e nelle negazioni si usa did o didn't, e use senza la d finale. Dopo did, il verbo torna alla forma base." },
+        { "lang": "en", "text": "Did you use to commute by train? I didn't use to like meetings." }
+      ]
+    },
+    {
+      "title": "Be used to",
+      "show": ["be used to + ing", "I'm used to working at night"],
+      "say": [
+        { "lang": "it", "text": "Be used to vuol dire essere abituato. Qui to è una preposizione, quindi il verbo che segue finisce in ing." },
+        { "lang": "en", "text": "I'm used to working with tight deadlines." }
+      ]
+    },
+    {
+      "title": "Get used to",
+      "show": ["get used to + ing", "abituarsi"],
+      "say": [
+        { "lang": "it", "text": "Get used to vuol dire abituarsi. Descrive il cambiamento da una cosa nuova a una cosa normale. Anche qui, dopo to, il verbo finisce in ing." },
+        { "lang": "en", "text": "I'm getting used to working from home. You'll get used to it." }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": ["I'm used to work   sbagliato", "I'm used to working   giusto"],
+      "say": [
+        { "lang": "it", "text": "L'errore più comune è dire I'm used to work, con il verbo base. Deve essere working. Un altro errore è didn't used to. Dopo didn't si dice use." },
+        { "lang": "en", "text": "I'm used to working late. I didn't use to like it." }
+      ]
+    },
+    {
+      "title": "Priorità e scadenze",
+      "show": ["top priority", "postpone", "tight deadline"],
+      "say": [
+        { "lang": "it", "text": "Per parlare di tempo, usa priority, urgent e tight. Per cambiare una data usa postpone. Per dire di no con gentilezza di' che sei sommerso o che non riesci a incastrare un lavoro." },
+        { "lang": "en", "text": "I'm afraid I can't fit that in before Friday. Could we postpone it until Monday?" }
+      ]
+    },
+    {
+      "title": "Delegare e organizzarsi",
+      "show": ["delegate", "break it down", "keep track of"],
+      "say": [
+        { "lang": "it", "text": "Per organizzare il lavoro, scomponi i compiti in passi piccoli, tieni traccia di ciò che è aperto e delega ciò che puoi." },
+        { "lang": "en", "text": "Let's break the task down into small steps and delegate the design part." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["used to + verbo = passato finito", "be used to + ing = abituato", "get used to + ing = abituarsi"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Used to più verbo per il passato. Be used to più ing per essere abituati. Get used to più ing per abituarsi. Ora fai gli esercizi e scrivi la tua mail." },
+        { "lang": "en", "text": "I used to say yes to everything. Now I'm getting used to planning my time." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "id": 45,
+  "week": 9,
+  "title": "Collocations: le parole che vanno insieme",
+  "titleEn": "Collocations",
+  "intro": "Oggi impari le collocations, cioè le coppie di parole che in inglese stanno sempre insieme, come 'meet a deadline' o 'make a decision'. Se le usi bene, il tuo inglese suona naturale e professionale. Se traduci parola per parola dall'italiano, è facile sbagliare il verbo.",
+  "goals": [
+    "Imparare 50 collocations utili al lavoro",
+    "Scegliere il verbo giusto: make, do, take, have, give, pay, keep",
+    "Smettere di tradurre i verbi parola per parola dall'italiano",
+    "Usare le collocations nelle mail e nelle riunioni"
+  ],
+
+  "words": [
+    { "en": "to meet a deadline", "pron": "mìit a dèdlain", "it": "rispettare una scadenza", "type": "phrase", "ex": "We worked all weekend to meet the deadline.", "exIt": "Abbiamo lavorato tutto il weekend per rispettare la scadenza." },
+    { "en": "to miss a deadline", "pron": "mìs a dèdlain", "it": "non rispettare una scadenza, mancare una scadenza", "type": "phrase", "ex": "I'm sorry, we missed the deadline.", "exIt": "Mi dispiace, abbiamo mancato la scadenza." },
+    { "en": "to raise an issue", "pron": "rèiz an ìsciu", "it": "sollevare un problema", "type": "phrase", "ex": "I'd like to raise an issue about the menu.", "exIt": "Vorrei sollevare un problema sul menu." },
+    { "en": "to raise a concern", "pron": "rèiz a konsèrn", "it": "esprimere una preoccupazione", "type": "phrase", "ex": "Several users raised a concern about privacy.", "exIt": "Diversi utenti hanno espresso una preoccupazione sulla privacy." },
+    { "en": "to make a decision", "pron": "mèik a disìgen", "it": "prendere una decisione", "type": "phrase", "ex": "We need to make a decision by Friday.", "exIt": "Dobbiamo prendere una decisione entro venerdì." },
+    { "en": "to make progress", "pron": "mèik pròugres", "it": "fare progressi", "type": "phrase", "ex": "We're making good progress on the website.", "exIt": "Stiamo facendo buoni progressi sul sito." },
+    { "en": "to make an effort", "pron": "mèik an èfert", "it": "fare uno sforzo", "type": "phrase", "ex": "The team made a real effort to finish early.", "exIt": "Il team ha fatto un vero sforzo per finire presto." },
+    { "en": "to make sense", "pron": "mèik sens", "it": "avere senso", "type": "phrase", "ex": "Does this plan make sense to you?", "exIt": "Questo piano ha senso per te?" },
+    { "en": "to make a difference", "pron": "mèik a dìfrens", "it": "fare la differenza", "type": "phrase", "ex": "Good alt text makes a big difference.", "exIt": "Un buon testo alternativo fa una grande differenza." },
+    { "en": "to make an appointment", "pron": "mèik an apòintment", "it": "fissare un appuntamento", "type": "phrase", "ex": "I'd like to make an appointment for next week.", "exIt": "Vorrei fissare un appuntamento per la prossima settimana." },
+    { "en": "to make a profit", "pron": "mèik a pròfit", "it": "fare un profitto, guadagnare", "type": "phrase", "ex": "The shop made a profit in its first year.", "exIt": "Il negozio ha fatto profitto nel primo anno." },
+    { "en": "to make a suggestion", "pron": "mèik a sagèscen", "it": "fare un suggerimento, proporre", "type": "phrase", "ex": "Can I make a suggestion about the colours?", "exIt": "Posso fare un suggerimento sui colori?" },
+    { "en": "to make a complaint", "pron": "mèik a komplèint", "it": "fare un reclamo", "type": "phrase", "ex": "A customer made a complaint about the delivery.", "exIt": "Un cliente ha fatto un reclamo sulla consegna." },
+    { "en": "to make an offer", "pron": "mèik an òfer", "it": "fare un'offerta", "type": "phrase", "ex": "We'd like to make you an offer.", "exIt": "Vorremmo farti un'offerta." },
+    { "en": "to make an exception", "pron": "mèik an eksèpscion", "it": "fare un'eccezione", "type": "phrase", "ex": "Can you make an exception for this client?", "exIt": "Puoi fare un'eccezione per questo cliente?" },
+    { "en": "to do business", "pron": "du bìznis", "it": "fare affari, lavorare con qualcuno", "type": "phrase", "ex": "We do business with clients in three countries.", "exIt": "Lavoriamo con clienti in tre paesi." },
+    { "en": "to do research", "pron": "du risèrc", "it": "fare ricerca, fare ricerche", "type": "phrase", "ex": "I need to do some research before the meeting.", "exIt": "Devo fare qualche ricerca prima della riunione." },
+    { "en": "to do a good job", "pron": "du a gùd giòb", "it": "fare un buon lavoro", "type": "phrase", "ex": "You did a really good job on the report.", "exIt": "Hai fatto davvero un buon lavoro con il report." },
+    { "en": "to do someone a favour", "pron": "du sàmuan a fèiver", "it": "fare un favore a qualcuno", "type": "phrase", "ex": "Could you do me a favour and check this page?", "exIt": "Mi faresti il favore di controllare questa pagina?" },
+    { "en": "to do your best", "pron": "du iòr bèst", "it": "fare del proprio meglio", "type": "phrase", "ex": "We'll do our best to fix it today.", "exIt": "Faremo del nostro meglio per risolverlo oggi." },
+    { "en": "to do an audit", "pron": "du an òdit", "it": "fare un audit, una verifica", "type": "phrase", "ex": "We will do an accessibility audit of your site.", "exIt": "Faremo un audit di accessibilità del vostro sito." },
+    { "en": "to do damage", "pron": "du dàmidg", "it": "fare danni, causare danni", "type": "phrase", "ex": "A bad review can do a lot of damage.", "exIt": "Una cattiva recensione può fare molti danni." },
+    { "en": "to take a risk", "pron": "tèik a rìsk", "it": "correre un rischio", "type": "phrase", "ex": "Sometimes you have to take a risk to grow.", "exIt": "A volte bisogna correre un rischio per crescere." },
+    { "en": "to take a look", "pron": "tèik a lùk", "it": "dare un'occhiata", "type": "phrase", "ex": "Can you take a look at this error?", "exIt": "Puoi dare un'occhiata a questo errore?" },
+    { "en": "to set an example", "pron": "sèt an igzàampol", "it": "dare l'esempio", "type": "phrase", "ex": "Managers should set an example for the team.", "exIt": "I responsabili dovrebbero dare l'esempio al gruppo." },
+    { "en": "to take part in", "pron": "tèik pàrt in", "it": "partecipare a", "type": "phrase", "ex": "Everyone took part in the workshop.", "exIt": "Tutti hanno partecipato al workshop." },
+    { "en": "to take place", "pron": "tèik plèis", "it": "avere luogo, svolgersi", "type": "phrase", "ex": "The meeting will take place on Zoom.", "exIt": "La riunione si terrà su Zoom." },
+    { "en": "to take advantage of", "pron": "tèik advàntidg ov", "it": "approfittare di, sfruttare", "type": "phrase", "ex": "You should take advantage of the free trial.", "exIt": "Dovresti approfittare della prova gratuita." },
+    { "en": "to file a complaint", "pron": "fàil a komplèint", "it": "presentare un reclamo", "type": "phrase", "ex": "The customer filed a complaint about the late delivery.", "exIt": "Il cliente ha presentato un reclamo per la consegna in ritardo." },
+    { "en": "to conduct an interview", "pron": "kondàkt an ìnterviu", "it": "condurre un colloquio", "type": "phrase", "ex": "I conducted three interviews for the new role.", "exIt": "Ho condotto tre colloqui per il nuovo ruolo." },
+    { "en": "to break the news", "pron": "brèik de niùz", "it": "dare la notizia", "type": "phrase", "ex": "I had to break the news to the client about the delay.", "exIt": "Ho dovuto dare al cliente la notizia del ritardo." },
+    { "en": "to take time", "pron": "tèik tàim", "it": "richiedere tempo", "type": "phrase", "ex": "A full audit takes time.", "exIt": "Un audit completo richiede tempo." },
+    { "en": "to have a meeting", "pron": "hàv a mìiting", "it": "fare una riunione", "type": "phrase", "ex": "We have a meeting with the client at ten.", "exIt": "Abbiamo una riunione con il cliente alle dieci." },
+    { "en": "to have a chat", "pron": "hàv a ciàt", "it": "fare due chiacchiere", "type": "phrase", "ex": "Do you have time for a quick chat?", "exIt": "Hai tempo per due chiacchiere veloci?" },
+    { "en": "to have an impact", "pron": "hàv an ìmpakt", "it": "avere un impatto", "type": "phrase", "ex": "Page speed has an impact on sales.", "exIt": "La velocità della pagina ha un impatto sulle vendite." },
+    { "en": "to have a word with", "pron": "hàv a uèrd uìd", "it": "parlare brevemente con (qualcuno)", "type": "phrase", "ex": "I'll have a word with the designer.", "exIt": "Parlo un attimo con la designer." },
+    { "en": "to have doubts", "pron": "hàv dàuts", "it": "avere dei dubbi", "type": "phrase", "ex": "I have doubts about this timeline.", "exIt": "Ho dei dubbi su queste tempistiche." },
+    { "en": "to give feedback", "pron": "ghìv fìidbak", "it": "dare un riscontro, dare un parere", "type": "phrase", "ex": "Could you give us some feedback on the design?", "exIt": "Potresti darci un parere sul design?" },
+    { "en": "to give a presentation", "pron": "ghìv a prezentèiscen", "it": "fare una presentazione", "type": "phrase", "ex": "I'm giving a presentation on Friday.", "exIt": "Venerdì faccio una presentazione." },
+    { "en": "to give notice", "pron": "ghìv nòutis", "it": "dare il preavviso, dare le dimissioni", "type": "phrase", "ex": "She gave notice last week.", "exIt": "Ha dato le dimissioni la settimana scorsa." },
+    { "en": "to give an example", "pron": "ghìv an igzàmpol", "it": "fare un esempio", "type": "phrase", "ex": "Can you give an example of the problem?", "exIt": "Puoi fare un esempio del problema?" },
+    { "en": "to give permission", "pron": "ghìv permìscen", "it": "dare il permesso, autorizzare", "type": "phrase", "ex": "The client gave us permission to use the photos.", "exIt": "Il cliente ci ha dato il permesso di usare le foto." },
+    { "en": "to run a test", "pron": "ràn a tèst", "it": "fare un test, eseguire un test", "type": "phrase", "ex": "Let's run a test before we go live.", "exIt": "Facciamo un test prima di andare online." },
+    { "en": "to keep in touch", "pron": "kìip in tàc", "it": "restare in contatto", "type": "phrase", "ex": "Let's keep in touch about the project.", "exIt": "Restiamo in contatto sul progetto." },
+    { "en": "to keep a promise", "pron": "kìip a pròmis", "it": "mantenere una promessa", "type": "phrase", "ex": "We always keep our promises to clients.", "exIt": "Manteniamo sempre le promesse fatte ai clienti." },
+    { "en": "to carry out a survey", "pron": "kàri àut a sèrvei", "it": "svolgere un sondaggio", "type": "phrase", "ex": "We carried out a survey among our users.", "exIt": "Abbiamo svolto un sondaggio tra i nostri utenti." },
+    { "en": "to set a goal", "pron": "sèt a gòul", "it": "porsi un obiettivo", "type": "phrase", "ex": "Let's set a goal for the next quarter.", "exIt": "Fissiamo un obiettivo per il prossimo trimestre." },
+    { "en": "to keep a record", "pron": "kìip a rèkord", "it": "tenere un registro", "type": "phrase", "ex": "Please keep a record of all changes.", "exIt": "Per favore tieni un registro di tutte le modifiche." },
+    { "en": "to draw a conclusion", "pron": "dròo a konklùgen", "it": "trarre una conclusione", "type": "phrase", "ex": "It is too early to draw a conclusion.", "exIt": "È troppo presto per trarre una conclusione." },
+    { "en": "to launch a product", "pron": "lònc a pròdakt", "it": "lanciare un prodotto", "type": "phrase", "ex": "We plan to launch the product in June.", "exIt": "Prevediamo di lanciare il prodotto a giugno." }
+  ],
+
+  "falseFriends": [],
+
+  "grammar": {
+    "title": "Make o do, take o have, say o tell e altre coppie fisse",
+    "explainIt": [
+      "Una collocation è una coppia (o un gruppo) di parole che si usano sempre insieme. In inglese non si può scegliere il verbo a caso: si dice make a decision, non do a decision. Non c'è una regola perfetta, ma ci sono delle tendenze che aiutano molto. L'unico modo è impararle in blocco, come 'make a decision', non come parole separate.",
+      "Make si usa di solito quando crei o produci qualcosa che prima non c'era: make a plan, make a decision, make a mistake, make a suggestion, make a profit, make progress. Do si usa di solito per attività e lavori, spesso con parole generiche come work, business, research, a job, a favour, damage: do business, do research, do a good job.",
+      "Take e have sono vicini. Take si usa spesso con azioni brevi e con il tempo: take a break, take a look, take notes, take time, take part in, take place, take action. Have si usa per eventi e conversazioni: have a meeting, have a chat, have a word with, have an impact, have doubts. Un buon trucco: se parli di una riunione o di una chiacchierata, di solito è have.",
+      "Altri verbi importanti sono give (give feedback, give a presentation, give notice, give permission), pay (pay attention) e keep (keep in touch, keep a promise, keep track of). In italiano 'fare attenzione' e 'fare una presentazione' usano fare, ma in inglese servono verbi diversi: pay, give. Attenzione: non si dice 'do attention'. 'Make a presentation' esiste, ma 'give a presentation' è più naturale.",
+      "Say e tell hanno anche collocations proprie. Con say: say hello, say goodbye, say a few words, say no. Con tell: tell the truth, tell a lie, tell a story, tell the difference, tell the time. Esistono anche coppie di aggettivi o avverbi con il nome: heavy traffic (non strong traffic), strong coffee (non heavy coffee), a tight deadline, a busy schedule, a fast connection (non a quick connection per un sito)."
+    ],
+    "explainEn": [
+      "A collocation is a pair or group of words that are normally used together. In English we cannot choose the verb freely: we say 'make a decision', not 'do a decision'. There is no perfect rule, but some patterns help a lot. The best way to learn is to study them as a block, like 'make a decision', and not as separate words.",
+      "We usually use make when we create or produce something new: make a plan, make a decision, make a mistake, make a suggestion, make a profit, make progress. We usually use do for activities and tasks, often with general words like work, business, research, a job, a favour, damage: do business, do research, do a good job.",
+      "Take and have are close. We often use take for short actions and for time: take a break, take a look, take notes, take time, take part in, take place, take action. We use have for events and conversations: have a meeting, have a chat, have a word with, have an impact, have doubts. A good trick: for a meeting or a chat, it is usually have.",
+      "Other important verbs are give (give feedback, give a presentation, give notice, give permission), pay (pay attention) and keep (keep in touch, keep a promise, keep track of). In Italian we often use 'fare' for 'fare attenzione' or 'fare una presentazione', but in English we need different verbs: pay, give. Be careful of the mistakes: we don't say 'do attention', and 'make a presentation' is possible but 'give a presentation' is more natural.",
+      "Say and tell also have their own collocations. With say: say hello, say goodbye, say a few words, say no. With tell: tell the truth, tell a lie, tell a story, tell the difference, tell the time. We also have fixed adjective and noun pairs: heavy traffic (not strong traffic), strong coffee (not heavy coffee), a tight deadline, a busy schedule, a fast connection."
+    ],
+    "rules": [
+      {
+        "it": "Make per creare o produrre: decisioni, piani, errori, suggerimenti, profitti, progressi.",
+        "en": "Make is used to create or produce: decisions, plans, mistakes, suggestions, profits, progress.",
+        "form": "make + a decision / a plan / progress / a suggestion",
+        "examples": [
+          { "en": "We need to make a decision today.", "it": "Dobbiamo prendere una decisione oggi." },
+          { "en": "She made a very useful suggestion.", "it": "Ha fatto un suggerimento molto utile." },
+          { "en": "The team is making progress.", "it": "Il team sta facendo progressi." }
+        ]
+      },
+      {
+        "it": "Do per attività, lavori e parole generiche (work, business, research, a job, a favour, damage).",
+        "en": "Do is used for activities, tasks and general words (work, business, research, a job, a favour, damage).",
+        "form": "do + work / research / business / a favour",
+        "examples": [
+          { "en": "I need to do some research first.", "it": "Prima devo fare qualche ricerca." },
+          { "en": "Could you do me a favour?", "it": "Mi faresti un favore?" },
+          { "en": "We do business with clients in Germany.", "it": "Lavoriamo con clienti in Germania." }
+        ]
+      },
+      {
+        "it": "Take per azioni brevi e per il tempo (break, look, notes, time, part, place, action). Have per riunioni e conversazioni (meeting, chat, word, impact, doubts).",
+        "en": "Take is used for short actions and time (break, look, notes, time, part, place, action). Have is used for meetings and conversations (meeting, chat, word, impact, doubts).",
+        "form": "take a break / have a meeting",
+        "examples": [
+          { "en": "Let's take a break and have a quick chat.", "it": "Facciamo una pausa e due chiacchiere." },
+          { "en": "The workshop will take place in Milan.", "it": "Il workshop si terrà a Milano." },
+          { "en": "Your design has a big impact on conversions.", "it": "Il tuo design ha un grande impatto sulle conversioni." }
+        ]
+      },
+      {
+        "it": "Give, pay e keep hanno le loro coppie: give feedback, give a presentation, pay attention, keep in touch, keep a promise.",
+        "en": "Give, pay and keep have their own pairs: give feedback, give a presentation, pay attention, keep in touch, keep a promise.",
+        "form": "give / pay / keep + nome",
+        "examples": [
+          { "en": "I'll give you some feedback by tomorrow.", "it": "Ti darò un riscontro entro domani." },
+          { "en": "Please pay attention to the details.", "it": "Fai attenzione ai dettagli." },
+          { "en": "We keep track of every change in the code.", "it": "Teniamo traccia di ogni modifica nel codice." }
+        ]
+      },
+      {
+        "it": "Anche aggettivi e nomi hanno coppie fisse: heavy traffic, strong coffee, a tight deadline, a busy schedule. Si possono sostituire solo con altre combinazioni naturali.",
+        "en": "Adjectives and nouns also have fixed pairs: heavy traffic, strong coffee, a tight deadline, a busy schedule. We can only replace them with other natural combinations.",
+        "form": "aggettivo + nome",
+        "examples": [
+          { "en": "We have a tight deadline this week.", "it": "Questa settimana abbiamo una scadenza stretta." },
+          { "en": "The site has heavy traffic on Mondays.", "it": "Il sito ha molto traffico il lunedì." },
+          { "en": "I have a very busy schedule today.", "it": "Oggi ho un programma molto fitto." }
+        ]
+      }
+    ],
+    "tip": "Non studiare mai il verbo da solo. Scrivi nel quaderno l'intera coppia ('make a decision') e una frase tua. Quando un'espressione suona strana, cercala su un dizionario di collocations (per esempio Oxford Collocations o Ludwig) per vedere se è usata davvero.",
+    "mistakes": [
+      { "wrong": "We have to do a decision.", "right": "We have to make a decision.", "why": "una decisione si crea: make" },
+      { "wrong": "I will do a presentation on Monday.", "right": "I will give a presentation on Monday.", "why": "con presentation il verbo più naturale è give (do a presentation è molto informale)" },
+      { "wrong": "Please do attention to the details.", "right": "Please pay attention to the details.", "why": "attention vuole pay" },
+      { "wrong": "Let's make a break.", "right": "Let's take a break.", "why": "la pausa si prende: take a break" },
+      { "wrong": "We have a strong traffic on the site.", "right": "We have heavy traffic on the site.", "why": "traffic si abbina a heavy, non a strong; e senza articolo" }
+    ]
+  },
+
+  "grammarExercises": [
+    { "q": "We need to ___ a decision before Friday. (make/do)", "a": ["make"], "hint": "una decisione si crea", "explain": "Si dice make a decision." },
+    { "q": "Could you ___ me a favour? (make/do)", "a": ["do"], "hint": "favour va con il verbo generico", "explain": "Si dice do someone a favour." },
+    { "q": "Let's ___ a break for ten minutes. (take/have/make)", "a": ["take"], "hint": "una pausa si prende", "explain": "Si dice take a break." },
+    { "q": "We ___ a meeting with the client at ten. (take/have/do)", "a": ["have"], "hint": "riunione = have", "explain": "Si dice have a meeting." },
+    { "q": "Please ___ attention to the error messages. (pay/make/do)", "a": ["pay"], "hint": "attention ha il suo verbo", "explain": "Si dice pay attention." },
+    { "q": "I'm going to ___ a presentation on Monday. (give/make/do)", "a": ["give"], "hint": "il verbo naturale per presentation", "explain": "Si dice give a presentation." },
+    { "q": "We ___ the deadline. It was yesterday and the site isn't ready. (missed/lost)", "a": ["missed"], "hint": "non rispettare una scadenza", "explain": "to miss a deadline = non rispettare una scadenza." },
+    { "q": "The workshop will ___ place in Milan. (take/make/have)", "a": ["take"], "hint": "avere luogo", "explain": "take place = avere luogo." },
+    { "q": "Let's keep in ___ about the project. (touch/contact)", "a": ["touch"], "hint": "restare in contatto", "explain": "keep in touch è la collocation naturale." },
+    { "q": "Our site has ___ traffic in the morning. (heavy/strong)", "a": ["heavy"], "hint": "traffic si abbina a un aggettivo specifico", "explain": "Heavy traffic è la collocation corretta." },
+    { "q": "We want to ___ business with new clients. (do/make)", "a": ["do"], "hint": "business si usa con do", "explain": "do business = fare affari." },
+    { "q": "We need to ___ the cost into account. (take/give)", "a": ["take"], "hint": "tenere conto di", "explain": "take into account = tenere conto di." }
+  ],
+
+  "phrases": [
+    { "group": "Scadenze e priorità", "en": "We have a tight deadline.", "it": "Abbiamo una scadenza stretta." },
+    { "group": "Scadenze e priorità", "en": "I'll do my best to meet the deadline.", "it": "Farò del mio meglio per rispettare la scadenza." },
+    { "group": "Scadenze e priorità", "en": "It is a high priority.", "it": "È una priorità alta." },
+    { "group": "Scadenze e priorità", "en": "I have a busy schedule this week.", "it": "Questa settimana ho un programma fitto." },
+    { "group": "Scadenze e priorità", "en": "We are running behind schedule.", "it": "Siamo in ritardo sul programma." },
+    { "group": "Riunioni e comunicazione", "en": "Let's take a few minutes to review the plan.", "it": "Prendiamoci qualche minuto per rivedere il piano." },
+    { "group": "Riunioni e comunicazione", "en": "I'd like to make a quick point.", "it": "Vorrei fare una breve osservazione." },
+    { "group": "Riunioni e comunicazione", "en": "Could you give us an update?", "it": "Potresti darci un aggiornamento?" },
+    { "group": "Riunioni e comunicazione", "en": "I'll send you a reminder.", "it": "Ti mando un promemoria." },
+    { "group": "Riunioni e comunicazione", "en": "Let's reach a decision today.", "it": "Prendiamo una decisione oggi." },
+    { "group": "Lavoro in team", "en": "She plays an important role in the team.", "it": "Ha un ruolo importante nel team." },
+    { "group": "Lavoro in team", "en": "We need to find a solution.", "it": "Dobbiamo trovare una soluzione." },
+    { "group": "Lavoro in team", "en": "Let's set clear goals for the sprint.", "it": "Fissiamo obiettivi chiari per lo sprint." },
+    { "group": "Lavoro in team", "en": "I'll keep you posted.", "it": "Ti terrò aggiornato.", "note": "molto usata, informale ma professionale" },
+    { "group": "Lavoro in team", "en": "We run a test every night.", "it": "Eseguiamo un test ogni notte." },
+    { "group": "Clienti e prodotti", "en": "We want to build a long-term relationship.", "it": "Vogliamo costruire una relazione a lungo termine." },
+    { "group": "Clienti e prodotti", "en": "I'd like to place an order.", "it": "Vorrei fare un ordine." },
+    { "group": "Clienti e prodotti", "en": "The product will hit the market in June.", "it": "Il prodotto uscirà sul mercato a giugno." },
+    { "group": "Clienti e prodotti", "en": "We provide excellent customer service.", "it": "Offriamo un ottimo servizio clienti." },
+    { "group": "Clienti e prodotti", "en": "Let's start a new project together.", "it": "Cominciamo insieme un nuovo progetto." },
+    { "group": "Aggettivi e nomi che vanno insieme", "en": "We had a heavy workload last week.", "it": "La settimana scorsa abbiamo avuto un carico di lavoro pesante." },
+    { "group": "Aggettivi e nomi che vanno insieme", "en": "It is a major problem.", "it": "È un problema grave." },
+    { "group": "Aggettivi e nomi che vanno insieme", "en": "We need a fast connection.", "it": "Ci serve una connessione veloce." },
+    { "group": "Aggettivi e nomi che vanno insieme", "en": "She gave a clear explanation.", "it": "Ha dato una spiegazione chiara." },
+    { "group": "Aggettivi e nomi che vanno insieme", "en": "That's a common mistake.", "it": "È un errore comune." }
+  ],
+
+  "dialogue": {
+    "title": "Planning a launch",
+    "context": "Una riunione del lunedì: Anna è la project manager, Luca lo sviluppatore. Devono rispettare una scadenza stretta per il lancio di un sito. Usano molte collocations.",
+    "lines": [
+      { "s": "A", "name": "Anna", "en": "Hi Luca. Do you have time for a quick chat about the launch?", "it": "Ciao Luca. Hai tempo per due chiacchiere sul lancio?" },
+      { "s": "B", "name": "Luca", "en": "Sure. I have a busy schedule, but I can take a few minutes.", "it": "Certo. Ho un programma fitto, ma posso dedicarti qualche minuto." },
+      { "s": "A", "name": "Anna", "en": "Thanks. We have a tight deadline. We need to meet it, because the client is giving a presentation on Friday.", "it": "Grazie. Abbiamo una scadenza stretta. Dobbiamo rispettarla, perché venerdì il cliente fa una presentazione." },
+      { "s": "B", "name": "Luca", "en": "Understood. I'm making good progress, but I have doubts about the checkout page.", "it": "Capito. Sto facendo buoni progressi, ma ho dei dubbi sulla pagina di pagamento." },
+      { "s": "A", "name": "Anna", "en": "Can you give an example of the problem?", "it": "Puoi fare un esempio del problema?" },
+      { "s": "B", "name": "Luca", "en": "Yes. On mobile, the button doesn't work well. It could have an impact on sales.", "it": "Sì. Su mobile il pulsante non funziona bene. Potrebbe avere un impatto sulle vendite." },
+      { "s": "A", "name": "Anna", "en": "I see. Let's take a look together. Could you also take notes on the fixes?", "it": "Capisco. Diamo un'occhiata insieme. Puoi anche prendere appunti sulle correzioni?" },
+      { "s": "B", "name": "Luca", "en": "Of course. I'll also do a quick test on three browsers.", "it": "Certo. Farò anche un test veloce su tre browser." },
+      { "s": "A", "name": "Anna", "en": "Great. We also need to take the client's feedback into account. Did they give any?", "it": "Bene. Dobbiamo anche tenere conto del riscontro del cliente. Ne hanno dato qualcuno?" },
+      { "s": "B", "name": "Luca", "en": "Yes. They gave us permission to change the colours. They made a good suggestion about the buttons.", "it": "Sì. Ci hanno dato il permesso di cambiare i colori. Hanno fatto un buon suggerimento sui pulsanti." },
+      { "s": "A", "name": "Anna", "en": "Perfect. Let's make a decision today. We can have another meeting on Wednesday.", "it": "Perfetto. Prendiamo una decisione oggi. Possiamo fare un'altra riunione mercoledì." },
+      { "s": "B", "name": "Luca", "en": "Sounds good. I'll keep you posted. And I'll pay special attention to the mobile layout.", "it": "Ottimo. Ti terrò aggiornata. E starò particolarmente attento al layout mobile." },
+      { "s": "A", "name": "Anna", "en": "Thank you. Let's keep in touch during the week.", "it": "Grazie. Restiamo in contatto durante la settimana." },
+      { "s": "B", "name": "Luca", "en": "Will do. We'll reach the goal, don't worry.", "it": "D'accordo. Raggiungeremo l'obiettivo, non preoccuparti." }
+    ]
+  },
+
+  "listening": [
+    { "q": "Why is the deadline important?", "options": ["The client gives a presentation on Friday", "The team is on holiday", "The budget ends on Monday"], "answer": 0 },
+    { "q": "What does Luca have doubts about?", "options": ["The design", "The checkout page", "The hosting"], "answer": 1 },
+    { "q": "What will Luca test?", "options": ["Three browsers", "Three languages", "Three servers"], "answer": 0 },
+    { "q": "When is the next meeting?", "options": ["Tuesday", "Wednesday", "Friday"], "answer": 1 }
+  ],
+
+  "translations": [
+    { "it": "Dobbiamo rispettare la scadenza di venerdì.", "en": "We need to meet the Friday deadline.", "alt": ["We have to meet the Friday deadline.", "We must meet Friday's deadline.", "We need to meet Friday's deadline."] },
+    { "it": "Posso fare un suggerimento sul design?", "en": "Can I make a suggestion about the design?", "alt": ["May I make a suggestion about the design?", "Could I make a suggestion about the design?"] },
+    { "it": "Mi faresti un favore?", "en": "Could you do me a favour?", "alt": ["Can you do me a favour?", "Would you do me a favour?"] },
+    { "it": "Facciamo una pausa di dieci minuti.", "en": "Let's take a ten-minute break.", "alt": ["Let's take a break for ten minutes.", "Let's have a ten-minute break."] },
+    { "it": "Venerdì faccio una presentazione al cliente.", "en": "I'm giving a presentation to the client on Friday.", "alt": ["I'm going to give a presentation to the client on Friday.", "On Friday I'm giving the client a presentation."] },
+    { "it": "Per favore, fai attenzione ai dettagli.", "en": "Please pay attention to the details.", "alt": ["Please pay attention to the detail.", "Please, pay attention to the details."] },
+    { "it": "Ho dei dubbi su queste tempistiche.", "en": "I have doubts about this timeline.", "alt": ["I have some doubts about these timelines.", "I have doubts about the timing."] },
+    { "it": "Facciamo una riunione mercoledì.", "en": "Let's have a meeting on Wednesday.", "alt": ["Let's hold a meeting on Wednesday.", "We can have a meeting on Wednesday."] },
+    { "it": "Dobbiamo tenere conto del budget.", "en": "We need to take the budget into account.", "alt": ["We have to take the budget into account.", "We must take into account the budget."] },
+    { "it": "Ti tengo aggiornato.", "en": "I'll keep you posted.", "alt": ["I will keep you posted.", "I'll keep you updated."] },
+    { "it": "Dopo una lunga discussione abbiamo raggiunto un accordo.", "en": "After a long discussion, we reached an agreement.", "alt": ["After a long discussion we reached an agreement.", "We reached an agreement after a long discussion."] },
+    { "it": "Una cattiva recensione può fare molti danni.", "en": "A bad review can do a lot of damage.", "alt": ["A bad review can do a lot of harm.", "One bad review can do a lot of damage."] }
+  ],
+
+  "writing": {
+    "taskIt": "Scrivi una mail al cliente per aggiornarlo sul progetto. Di' che state facendo buoni progressi, che avete una scadenza stretta ma farete del vostro meglio per rispettarla, e che hai un dubbio su una pagina. Chiedi un riscontro e proponi una riunione. Usa almeno otto collocations della lezione.",
+    "taskEn": "Write an email to the client to update them on the project. Say that you are making good progress, that you have a tight deadline but will do your best to meet it, and that you have a doubt about one page. Ask for feedback and suggest a meeting. Use at least eight collocations from the lesson.",
+    "model": "Hi Mark,\n\nI'm writing to give you a quick update on the project.\n\nWe are making good progress and the new pages are almost ready. We have a tight deadline, but we will do our best to meet it.\n\nI have some doubts about the contact page. I'd like to make a suggestion: we could simplify the form to have a bigger impact on conversions. Could you give us some feedback before Thursday?\n\nI'd also like to have a short meeting this week to take a look at the final design together. Please let me know if Wednesday works for you.\n\nWe'll keep you posted as we go.\n\nBest regards,\nLuca"
+  },
+
+  "speaking": {
+    "shadowing": [
+      "We need to make a decision today.",
+      "Let's take a break and have a quick chat.",
+      "I'll do my best to meet the deadline.",
+      "Please pay attention to the details.",
+      "Could you give us some feedback?",
+      "I'm giving a presentation on Friday.",
+      "Let's keep in touch about the project.",
+      "We need to take the budget into account."
+    ],
+    "prompts": [
+      { "en": "Tell me about your week. Do you have a busy schedule?", "it": "Raccontami la tua settimana. Hai un programma fitto?", "help": "Usa: I have a busy schedule / a tight deadline..." },
+      { "en": "How do you keep track of your tasks?", "it": "Come tieni traccia delle tue attività?", "help": "Usa: I use... to keep track of..." },
+      { "en": "What was the last decision you made at work?", "it": "Qual è stata l'ultima decisione che hai preso al lavoro?", "help": "Usa: I made a decision to..." },
+      { "en": "Do you ever miss a deadline? What do you do?", "it": "Ti capita di non rispettare una scadenza? Cosa fai?", "help": "Usa: If I miss a deadline, I..." },
+      { "en": "What advice would you give to someone who has to give a presentation?", "it": "Che consiglio daresti a chi deve fare una presentazione?", "help": "Usa: I would pay attention to... / Take notes... / Do your best..." }
+    ]
+  },
+
+  "video": [
+    {
+      "title": "Introduzione: che cos'è una collocation",
+      "show": ["Collocations", "make a decision", "meet a deadline"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo di collocations. Sono coppie di parole che stanno sempre insieme. In italiano diciamo prendere una decisione, ma in inglese non si usa take: si dice make a decision." },
+        { "lang": "en", "text": "We need to make a decision before Friday." }
+      ]
+    },
+    {
+      "title": "Make: creare, produrre",
+      "show": ["make a decision", "make progress", "make a suggestion", "make a profit"],
+      "say": [
+        { "lang": "it", "text": "Make si usa quando crei o produci qualcosa. Una decisione, un piano, un errore, un suggerimento, un profitto. Si usa anche in make progress, fare progressi." },
+        { "lang": "en", "text": "Can I make a suggestion? We are making good progress." }
+      ]
+    },
+    {
+      "title": "Do: attività e lavori",
+      "show": ["do business", "do research", "do a good job", "do someone a favour"],
+      "say": [
+        { "lang": "it", "text": "Do si usa per le attività e i lavori. Do business, fare affari. Do research, fare ricerca. Do a good job, fare un buon lavoro. E do someone a favour, fare un favore a qualcuno." },
+        { "lang": "en", "text": "Could you do me a favour? You did a good job." }
+      ]
+    },
+    {
+      "title": "Take e have",
+      "show": ["take a break", "take a look", "take place", "have a meeting", "have a chat"],
+      "say": [
+        { "lang": "it", "text": "Take si usa per azioni brevi e per il tempo. Si dice take a break, take a look, take notes. Have invece si usa per le riunioni e le conversazioni. Si dice have a meeting, have a chat." },
+        { "lang": "en", "text": "Let's take a break and have a quick chat." }
+      ]
+    },
+    {
+      "title": "Give, pay e keep",
+      "show": ["give feedback", "give a presentation", "pay attention", "keep in touch"],
+      "say": [
+        { "lang": "it", "text": "Attenzione agli errori. In italiano facciamo una presentazione e facciamo attenzione, ma in inglese si dice give a presentation e pay attention. Si dice anche give feedback, keep in touch e keep a promise." },
+        { "lang": "en", "text": "I'm giving a presentation on Friday. Please pay attention." }
+      ]
+    },
+    {
+      "title": "Scadenze e priorità",
+      "show": ["meet a deadline", "miss a deadline", "tight deadline", "busy schedule"],
+      "say": [
+        { "lang": "it", "text": "Al lavoro le scadenze sono ovunque. Una scadenza si rispetta con meet, non con respect. Se non la rispetti, dici miss a deadline. Una scadenza stretta è a tight deadline." },
+        { "lang": "en", "text": "We have a tight deadline, but we will meet it." }
+      ]
+    },
+    {
+      "title": "Aggettivi che vanno con i nomi",
+      "show": ["heavy traffic", "strong coffee", "major problem", "fast connection"],
+      "say": [
+        { "lang": "it", "text": "Anche gli aggettivi hanno i loro compagni. Il traffico è heavy, non strong. Il caffè è strong, non heavy. Un problema serio è a major problem. Per scoprire se una coppia esiste, cercala in un dizionario di collocations." },
+        { "lang": "en", "text": "The site has heavy traffic on Mondays." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Impara il blocco intero", "make, do, take, have", "give, pay, keep"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Impara le collocations come blocchi interi. Make crea, do fa le attività, take e have per pause, riunioni e conversazioni. E ricorda give a presentation, pay attention, keep in touch." },
+        { "lang": "en", "text": "I'll keep you posted. Let's keep in touch." }
+      ]
+    }
+  ]
+}

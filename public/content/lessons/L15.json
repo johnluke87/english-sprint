@@ -1,0 +1,325 @@
+{
+  "id": 15,
+  "week": 3,
+  "title": "Gli articoli e le parole piccole",
+  "titleEn": "Articles and small words",
+  "intro": "Gli articoli a, an, the e le parole piccole come some, any, this, that sono quelle che gli italiani sbagliano di più. Sembrano facili, ma cambiano il senso della frase. Oggi le sistemi con regole chiare, usando come esempi gli oggetti di tutti i giorni in ufficio.",
+  "goals": [
+    "Scegliere tra a, an, the e nessun articolo",
+    "Usare some e any con i nomi plurali e non numerabili",
+    "Distinguere this, that, these, those per indicare vicino e lontano",
+    "Parlare degli oggetti d'ufficio con naturalezza"
+  ],
+  "words": [
+    { "en": "desk", "pron": "dèsk", "it": "scrivania", "type": "noun", "ex": "There is a spare monitor on the desk.", "exIt": "C'è un monitor di scorta sulla scrivania." },
+    { "en": "office chair", "pron": "òfis cèr", "it": "sedia da ufficio", "type": "noun", "ex": "I need a new office chair. This one hurts my back.", "exIt": "Mi serve una sedia da ufficio nuova. Questa mi fa male alla schiena." },
+    { "en": "paperclip", "pron": "pèiperklip", "it": "graffetta", "type": "noun", "ex": "I need a paperclip for these pages.", "exIt": "Mi serve una graffetta per questi fogli." },
+    { "en": "keyboard", "pron": "kìibord", "it": "tastiera", "type": "noun", "ex": "The keyboard is wireless.", "exIt": "La tastiera è senza fili." },
+    { "en": "mouse", "pron": "màus", "it": "mouse (plurale: mice)", "type": "noun", "ex": "Do you have a spare mouse?", "exIt": "Hai un mouse di scorta?" },
+    { "en": "cable", "pron": "chèibol", "it": "cavo", "type": "noun", "ex": "Can you pass me that cable, please?", "exIt": "Puoi passarmi quel cavo, per favore?" },
+    { "en": "charger", "pron": "ciàrgia", "it": "caricabatterie", "type": "noun", "ex": "I left my charger at home.", "exIt": "Ho lasciato il caricabatterie a casa." },
+    { "en": "printer", "pron": "prìnter", "it": "stampante", "type": "noun", "ex": "The printer is out of paper.", "exIt": "La stampante ha finito la carta." },
+    { "en": "scanner", "pron": "scàner", "it": "scanner", "type": "noun", "ex": "Is there a scanner in the office?", "exIt": "C'è uno scanner in ufficio?" },
+    { "en": "stapler", "pron": "stèipler", "it": "pinzatrice, cucitrice", "type": "noun", "ex": "Who took my stapler again?", "exIt": "Chi ha preso di nuovo la mia pinzatrice?" },
+    { "en": "envelope", "pron": "ènveloup", "it": "busta (da lettera)", "type": "noun", "ex": "Please put the signed contract in an envelope.", "exIt": "Per favore, metti il contratto firmato in una busta." },
+    { "en": "notebook", "pron": "nòutbuk", "it": "quaderno, taccuino (o portatile)", "type": "noun", "ex": "I write everything down in my notebook.", "exIt": "Scrivo tutto sul mio quaderno." },
+    { "en": "pen", "pron": "pèn", "it": "penna", "type": "noun", "ex": "Do you have a pen I could borrow?", "exIt": "Hai una penna che posso prendere in prestito?" },
+    { "en": "marker", "pron": "màrker", "it": "pennarello", "type": "noun", "ex": "The markers for the whiteboard are in the drawer.", "exIt": "I pennarelli per la lavagna sono nel cassetto." },
+    { "en": "whiteboard", "pron": "uàitbord", "it": "lavagna bianca", "type": "noun", "ex": "Let me draw it on the whiteboard.", "exIt": "Ve lo disegno alla lavagna." },
+    { "en": "sticky note", "pron": "stìchi nòut", "it": "foglietto adesivo, post-it", "type": "noun", "ex": "I put a sticky note on the screen.", "exIt": "Ho attaccato un post-it sullo schermo." },
+    { "en": "folder", "pron": "fòulder", "it": "cartella (fisica o digitale)", "type": "noun", "ex": "The contract is in the blue folder.", "exIt": "Il contratto è nella cartella blu." },
+    { "en": "binder", "pron": "bàinder", "it": "raccoglitore ad anelli", "type": "noun", "ex": "All the old documents are in the binder.", "exIt": "Tutti i vecchi documenti sono nel raccoglitore." },
+    { "en": "drawer", "pron": "dròo", "it": "cassetto", "type": "noun", "ex": "The keys are in the top drawer.", "exIt": "Le chiavi sono nel primo cassetto." },
+    { "en": "shelf", "pron": "scèlf", "it": "scaffale, mensola (plurale: shelves)", "type": "noun", "ex": "The manuals are on the shelf behind you.", "exIt": "I manuali sono sullo scaffale dietro di te." },
+    { "en": "filing cabinet", "pron": "fàiling càbinet", "it": "schedario, armadietto per documenti", "type": "noun", "ex": "We keep paper contracts in the filing cabinet.", "exIt": "Teniamo i contratti cartacei nello schedario." },
+    { "en": "badge", "pron": "bàdgi", "it": "tesserino, badge", "type": "noun", "ex": "I forgot my badge, so I can't open the door.", "exIt": "Ho dimenticato il badge, quindi non posso aprire la porta." },
+    { "en": "lamp", "pron": "làmp", "it": "lampada", "type": "noun", "ex": "Could you switch on the lamp, please?", "exIt": "Potresti accendere la lampada, per favore?" },
+    { "en": "headphones", "pron": "hèdfòunz", "it": "cuffie", "type": "noun", "ex": "I use headphones during video calls.", "exIt": "Uso le cuffie durante le videochiamate." },
+    { "en": "webcam", "pron": "uèbkam", "it": "webcam", "type": "noun", "ex": "My webcam isn't working.", "exIt": "La mia webcam non funziona." },
+    { "en": "highlighter", "pron": "hàilaiter", "it": "evidenziatore", "type": "noun", "ex": "Use a highlighter to mark the key points.", "exIt": "Usa un evidenziatore per segnare i punti chiave." },
+    { "en": "power strip", "pron": "pàuer strìp", "it": "ciabatta elettrica", "type": "noun", "ex": "Is there a power strip under the desk?", "exIt": "C'è una ciabatta sotto la scrivania?" },
+    { "en": "plug", "pron": "plàg", "it": "spina", "type": "noun", "ex": "This plug doesn't fit the socket.", "exIt": "Questa spina non entra nella presa." },
+    { "en": "socket", "pron": "sòkit", "it": "presa di corrente", "type": "noun", "ex": "There is a free socket next to the window.", "exIt": "C'è una presa libera vicino alla finestra." },
+    { "en": "projector", "pron": "prodgèktor", "it": "proiettore", "type": "noun", "ex": "The projector in the meeting room is broken.", "exIt": "Il proiettore nella sala riunioni è rotto." },
+    { "en": "kettle", "pron": "kètol", "it": "bollitore", "type": "noun", "ex": "The kettle is in the kitchen.", "exIt": "Il bollitore è in cucina." },
+    { "en": "toner", "pron": "tòuner", "it": "toner", "type": "noun", "ex": "We need to order some toner.", "exIt": "Dobbiamo ordinare del toner." },
+    { "en": "to print", "pron": "prìnt", "it": "stampare", "type": "verb", "ex": "Could you print this for me?", "exIt": "Potresti stamparmelo?" },
+    { "en": "to staple", "pron": "stèipol", "it": "pinzare, cucire con la pinzatrice", "type": "verb", "ex": "Please staple the pages together.", "exIt": "Per favore, pinza insieme le pagine." },
+    { "en": "to plug in", "pron": "plàg ìn", "it": "collegare alla corrente, attaccare", "type": "phrase", "ex": "Can you plug in the projector?", "exIt": "Puoi attaccare il proiettore?" },
+    { "en": "to unplug", "pron": "anplàg", "it": "staccare la spina, scollegare", "type": "verb", "ex": "Unplug the router and wait ten seconds.", "exIt": "Stacca il router e aspetta dieci secondi." },
+    { "en": "notepad", "pron": "nòutpad", "it": "blocco note", "type": "noun", "ex": "I always keep a notepad on my desk.", "exIt": "Tengo sempre un blocco note sulla scrivania." },
+    { "en": "another", "pron": "anàder", "it": "un altro, un'altra (in più)", "type": "adj", "ex": "Can I have another sticky note?", "exIt": "Posso avere un altro post-it?" },
+    { "en": "enough", "pron": "inàf", "it": "abbastanza, sufficiente", "type": "adj", "ex": "We don't have enough chairs for the meeting.", "exIt": "Non abbiamo abbastanza sedie per la riunione." },
+    { "en": "each", "pron": "ìicc", "it": "ogni, ciascuno", "type": "adj", "ex": "Each desk has its own socket.", "exIt": "Ogni scrivania ha la sua presa." },
+    { "en": "both", "pron": "bòut", "it": "entrambi, tutti e due", "type": "adj", "ex": "Both monitors are new.", "exIt": "Entrambi i monitor sono nuovi." },
+    { "en": "whole", "pron": "hòul", "it": "intero, tutto", "type": "adj", "ex": "The whole office is without internet.", "exIt": "Tutto l'ufficio è senza internet." },
+    { "en": "several", "pron": "sèveral", "it": "diversi, parecchi", "type": "adj", "ex": "There are several errors on the page.", "exIt": "Ci sono diversi errori nella pagina." },
+    { "en": "anything", "pron": "ènitin", "it": "qualcosa, qualsiasi cosa (nelle domande e negative)", "type": "noun", "ex": "Do you need anything from the shop?", "exIt": "Ti serve qualcosa dal negozio?" },
+    { "en": "something", "pron": "sàmtin", "it": "qualcosa (nelle frasi affermative)", "type": "noun", "ex": "There is something wrong with the printer.", "exIt": "Qualcosa non va con la stampante." },
+    { "en": "nothing", "pron": "nàtin", "it": "niente", "type": "noun", "ex": "There is nothing on my desk.", "exIt": "Non c'è niente sulla mia scrivania." },
+    { "en": "these", "pron": "dìiz", "it": "questi, queste (vicino, plurale)", "type": "adj", "ex": "These cables are mine.", "exIt": "Questi cavi sono miei." },
+    { "en": "those", "pron": "dòuz", "it": "quelli, quelle (lontano, plurale)", "type": "adj", "ex": "Those folders on the shelf are old.", "exIt": "Quelle cartelle sullo scaffale sono vecchie." },
+    { "en": "either", "pron": "àider", "it": "l'uno o l'altro, nemmeno (in negative)", "type": "adj", "ex": "You can use either desk.", "exIt": "Puoi usare l'una o l'altra scrivania." },
+    { "en": "neither", "pron": "nàider", "it": "né l'uno né l'altro", "type": "adj", "ex": "Neither printer works today.", "exIt": "Oggi nessuna delle due stampanti funziona." }
+  ],
+  "falseFriends": [
+    { "en": "library", "it": "biblioteca", "trap": "Non vuol dire 'libreria'. Libreria (negozio) si dice bookshop o bookstore. Library è dove prendi i libri in prestito. In programmazione è anche una libreria di codice." },
+    { "en": "notebook", "it": "quaderno, taccuino", "trap": "Può voler dire anche 'portatile' (computer), ma al lavoro si dice soprattutto laptop. Notebook è il quaderno su cui scrivi appunti." },
+    { "en": "stationery", "it": "cancelleria", "trap": "Non confonderlo con stationary, che vuol dire 'fermo'. Si pronuncia nello stesso modo, ma l'ortografia è diversa." }
+  ],
+  "grammar": {
+    "title": "A, an, the, nessun articolo; some e any; this, that, these, those",
+    "explainIt": [
+      "A e an si usano con i nomi singolari numerabili quando parli di una cosa non precisa o nuova: I need a pen. Usa a prima di un suono di consonante (a desk, a university). Usa an prima di un suono di vocale (an invoice, an hour). Conta il suono, non la lettera.",
+      "The si usa quando chi ascolta sa già di quale cosa parli: perché l'hai già nominata, perché è unica o perché è chiara dal contesto. I have a laptop and a monitor. The monitor is new. Usa the con cose uniche: the internet, the sun, the CEO. Nessun articolo con i nomi al plurale o non numerabili in generale: Printers are expensive. Information is useful.",
+      "Non usare l'articolo con la maggior parte dei nomi di città e paesi, con i pasti, con le lingue e in espressioni fisse: at work, at home, in bed, by email, by car. Si dice: I'm at work, I'll send it by email, I speak Italian. Anche go to work e go to school non vogliono l'articolo.",
+      "Some e any servono con i plurali e i nomi non numerabili. Some si usa nelle frasi affermative e nelle offerte o richieste: I have some files. Would you like some coffee? Any si usa nelle negative e nelle domande: I don't have any files. Do you have any questions? Nelle frasi affermative any vuol dire 'qualsiasi': Any day is fine.",
+      "This e these indicano cose vicine a te. That e those indicano cose lontane. This è singolare, these è plurale. That è singolare, those è plurale: This keyboard is mine. That printer is broken. These cables are new. Those folders are old. Al telefono, this è chi parla (This is Luca) e that è l'altra persona (Is that Anna?)."
+    ],
+    "explainEn": [
+      "A and an are used with singular countable nouns when you talk about something that is not specific or is new: I need a pen. Use a before a consonant sound (a desk, a university). Use an before a vowel sound (an invoice, an hour). It is the sound that matters, not the letter.",
+      "Use the when the listener already knows which thing you mean: because you mentioned it before, because it is unique, or because the context is clear. I have a laptop and a monitor. The monitor is new. Use the with unique things: the internet, the sun, the CEO. Use no article with plural or uncountable nouns in general: Printers are expensive. Information is useful.",
+      "Do not use an article with most names of cities and countries, with meals, with languages and in fixed expressions: at work, at home, in bed, by email, by car. We say: I'm at work, I'll send it by email, I speak Italian. Go to work and go to school also have no article.",
+      "Some and any go with plural and uncountable nouns. Use some in positive sentences and in offers or requests: I have some files. Would you like some coffee? Use any in negative sentences and questions: I don't have any files. Do you have any questions? In positive sentences, any means it does not matter which: Any day is fine.",
+      "This and these point to things near you. That and those point to things far from you. This is singular, these is plural. That is singular, those is plural: This keyboard is mine. That printer is broken. These cables are new. Those folders are old. On the phone, this is the speaker (This is Luca) and that is the other person (Is that Anna?)."
+    ],
+    "rules": [
+      {
+        "it": "A/an con un nome singolare numerabile non precisato o nuovo. An davanti a un suono di vocale.",
+        "en": "Use a/an with a singular countable noun that is not specific or new. An before a vowel sound.",
+        "form": "a + suono consonante / an + suono vocale",
+        "examples": [
+          { "en": "I need a charger and an extension cable.", "it": "Mi servono un caricabatterie e una prolunga." },
+          { "en": "She is an accessibility expert.", "it": "È un'esperta di accessibilità." },
+          { "en": "We waited for an hour.", "it": "Abbiamo aspettato un'ora." }
+        ]
+      },
+      {
+        "it": "The quando chi ascolta sa già quale cosa è: già nominata, unica o chiara dal contesto.",
+        "en": "Use the when the listener knows which thing: already mentioned, unique or clear from context.",
+        "form": "the + nome",
+        "examples": [
+          { "en": "I sent a file. Did you get the file?", "it": "Ho mandato un file. Hai ricevuto il file?" },
+          { "en": "Please close the door.", "it": "Per favore chiudi la porta." },
+          { "en": "The internet is down again.", "it": "Internet è di nuovo fuori uso." }
+        ]
+      },
+      {
+        "it": "Nessun articolo con plurali e non numerabili in senso generale, con pasti, lingue e espressioni fisse.",
+        "en": "No article with plural and uncountable nouns in general, with meals, languages and fixed expressions.",
+        "form": "Ø + plurale / non numerabile",
+        "examples": [
+          { "en": "Good developers need patience.", "it": "I bravi sviluppatori hanno bisogno di pazienza." },
+          { "en": "I'm at work. I'll call you after lunch.", "it": "Sono al lavoro. Ti chiamo dopo pranzo." },
+          { "en": "We usually talk by phone.", "it": "Di solito parliamo al telefono." }
+        ]
+      },
+      {
+        "it": "Some nelle frasi affermative e nelle offerte; any nelle negative e nelle domande.",
+        "en": "Some in positive sentences and offers; any in negatives and questions.",
+        "form": "some (+) / any (-, ?)",
+        "examples": [
+          { "en": "I have some questions about the design.", "it": "Ho alcune domande sul design." },
+          { "en": "I don't have any questions.", "it": "Non ho domande." },
+          { "en": "Would you like some tea?", "it": "Vuoi del tè?" },
+          { "en": "Do you have any spare cables?", "it": "Hai dei cavi di scorta?" }
+        ]
+      },
+      {
+        "it": "This/these per le cose vicine, that/those per le cose lontane. This e that singolari, these e those plurali.",
+        "en": "This/these for near things, that/those for far things. This and that are singular, these and those are plural.",
+        "form": "this/these = vicino; that/those = lontano",
+        "examples": [
+          { "en": "This laptop is mine. That one is Sarah's.", "it": "Questo portatile è mio. Quello è di Sarah." },
+          { "en": "These cables are too short.", "it": "Questi cavi sono troppo corti." },
+          { "en": "Could you pass me those folders?", "it": "Potresti passarmi quelle cartelle?" }
+        ]
+      }
+    ],
+    "tip": "Fatti una domanda: chi ascolta sa già quale cosa? Se sì, usa the. Se è nuova, usa a o an. Se è plurale o non numerabile in generale, niente articolo. E con some e any ricorda: some nel positivo, any nel negativo e nelle domande.",
+    "mistakes": [
+      { "wrong": "I have an appointment at the 3 o'clock.", "right": "I have an appointment at 3 o'clock.", "why": "con le ore non si mette the" },
+      { "wrong": "The information are useful.", "right": "The information is useful.", "why": "information non è numerabile, resta singolare" },
+      { "wrong": "I don't have some questions.", "right": "I don't have any questions.", "why": "nelle negative si usa any" },
+      { "wrong": "She is working at the home today.", "right": "She is working at home today.", "why": "at home è un'espressione fissa senza articolo" },
+      { "wrong": "I need an advice about the contract.", "right": "I need some advice about the contract.", "why": "advice non è numerabile: non usa a e non ha il plurale" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I need ___ pen. (una)", "a": ["a"], "hint": "suono di consonante", "explain": "Pen comincia con consonante → a." },
+    { "q": "She has ___ idea for the logo. (un')", "a": ["an"], "hint": "suono di vocale", "explain": "Idea comincia con vocale → an." },
+    { "q": "He is waiting for the client. It's been ___ hour. (un')", "a": ["an"], "hint": "la h non si pronuncia", "explain": "Hour comincia con suono di vocale." },
+    { "q": "I sent you a file. Did you open ___ file?", "a": ["the"], "hint": "già nominato", "explain": "La seconda volta si usa the." },
+    { "q": "Do you have ___ spare cables? (nelle domande)", "a": ["any"], "hint": "domanda", "explain": "Nelle domande si usa any." },
+    { "q": "I have ___ news for you. (affermativa)", "a": ["some"], "hint": "frase positiva", "explain": "Nelle frasi affermative si usa some." },
+    { "q": "We don't have ___ chairs left. (negativa)", "a": ["any"], "hint": "frase negativa", "explain": "Nelle negative si usa any." },
+    { "q": "___ keyboard in my hand is new. (questa, vicina)", "a": ["this"], "hint": "vicino, singolare", "explain": "This = vicino, singolare." },
+    { "q": "Look at ___ folders over there. (quelle, lontane)", "a": ["those"], "hint": "lontano, plurale", "explain": "Those = lontano, plurale." },
+    { "q": "I'm at ___ today. (a casa)", "a": ["home"], "hint": "senza articolo", "explain": "At home è senza articolo." },
+    { "q": "Would you like ___ coffee? (offerta)", "a": ["some"], "hint": "offerta", "explain": "Nelle offerte si usa some." },
+    { "q": "___ cables here are mine. (questi, vicini)", "a": ["these"], "hint": "vicino, plurale", "explain": "These = vicino, plurale." }
+  ],
+  "phrases": [
+    { "group": "Cercare oggetti in ufficio", "en": "Have you seen my charger?", "it": "Hai visto il mio caricabatterie?" },
+    { "group": "Cercare oggetti in ufficio", "en": "Do you have a spare cable?", "it": "Hai un cavo di scorta?" },
+    { "group": "Cercare oggetti in ufficio", "en": "Where can I find some paper for the printer?", "it": "Dove trovo della carta per la stampante?" },
+    { "group": "Cercare oggetti in ufficio", "en": "Is there a socket near the window?", "it": "C'è una presa vicino alla finestra?" },
+    { "group": "Cercare oggetti in ufficio", "en": "Could you pass me that folder, please?", "it": "Potresti passarmi quella cartella, per favore?" },
+    { "group": "Indicare e descrivere", "en": "This one is mine, and that one is yours.", "it": "Questo è mio e quello è tuo." },
+    { "group": "Indicare e descrivere", "en": "It's on the shelf behind you.", "it": "È sullo scaffale dietro di te." },
+    { "group": "Indicare e descrivere", "en": "It's in the top drawer, on the left.", "it": "È nel primo cassetto, a sinistra." },
+    { "group": "Indicare e descrivere", "en": "Those are the new monitors over there.", "it": "Quelli là sono i monitor nuovi." },
+    { "group": "Indicare e descrivere", "en": "There's something wrong with this plug.", "it": "Qualcosa non va con questa spina." },
+    { "group": "Piccoli guasti d'ufficio", "en": "The printer is out of paper.", "it": "La stampante ha finito la carta." },
+    { "group": "Piccoli guasti d'ufficio", "en": "The projector doesn't work.", "it": "Il proiettore non funziona." },
+    { "group": "Piccoli guasti d'ufficio", "en": "I can't connect to the Wi-Fi.", "it": "Non riesco a collegarmi al Wi-Fi." },
+    { "group": "Piccoli guasti d'ufficio", "en": "Have you tried turning it off and on again?", "it": "Hai provato a spegnere e riaccendere?", "note": "la domanda classica dell'assistenza" },
+    { "group": "Piccoli guasti d'ufficio", "en": "Neither printer is working.", "it": "Nessuna delle due stampanti funziona." },
+    { "group": "Chiedere e dare qualcosa", "en": "Can I borrow your pen for a second?", "it": "Mi presti la penna un attimo?" },
+    { "group": "Chiedere e dare qualcosa", "en": "Do you need anything?", "it": "Ti serve qualcosa?" },
+    { "group": "Chiedere e dare qualcosa", "en": "Help yourself to some coffee.", "it": "Serviti pure del caffè.", "note": "frase gentile da ospite" },
+    { "group": "Chiedere e dare qualcosa", "en": "There's enough for everyone.", "it": "Ce n'è abbastanza per tutti." },
+    { "group": "Chiedere e dare qualcosa", "en": "Here you go.", "it": "Ecco a te.", "note": "quando passi qualcosa a qualcuno" },
+    { "group": "Piccole parole al telefono e in mail", "en": "Hello, this is Luca speaking.", "it": "Buongiorno, sono Luca." },
+    { "group": "Piccole parole al telefono e in mail", "en": "Is that Anna?", "it": "Parlo con Anna?", "note": "al telefono" },
+    { "group": "Piccole parole al telefono e in mail", "en": "I'll send it by email.", "it": "Lo mando per mail." },
+    { "group": "Piccole parole al telefono e in mail", "en": "Let me know if you have any questions.", "it": "Fammi sapere se hai domande." },
+    { "group": "Piccole parole al telefono e in mail", "en": "I'm at work until six.", "it": "Sono al lavoro fino alle sei." }
+  ],
+  "dialogue": {
+    "title": "Setting up the meeting room",
+    "context": "Anna e Luca stanno preparando la sala riunioni per la presentazione a un cliente. Mancano alcune cose e un paio di oggetti non funzionano.",
+    "lines": [
+      { "s": "A", "name": "Anna", "en": "Luca, do you have a minute? I'm setting up the meeting room.", "it": "Luca, hai un minuto? Sto preparando la sala riunioni." },
+      { "s": "B", "name": "Luca", "en": "Sure. What do you need?", "it": "Certo. Cosa ti serve?" },
+      { "s": "A", "name": "Anna", "en": "Is there a spare cable for the projector? This one is too short.", "it": "C'è un cavo di scorta per il proiettore? Questo è troppo corto." },
+      { "s": "B", "name": "Luca", "en": "Yes, there are some cables in the top drawer of that desk over there.", "it": "Sì, ci sono dei cavi nel primo cassetto di quella scrivania là." },
+      { "s": "A", "name": "Anna", "en": "Thanks. Oh, and the whiteboard markers have dried up. Do we have any new ones?", "it": "Grazie. Ah, e i pennarelli della lavagna sono scarichi. Ne abbiamo di nuovi?" },
+      { "s": "B", "name": "Luca", "en": "I think there are some on the shelf behind you. Those blue boxes.", "it": "Credo ce ne siano sullo scaffale dietro di te. Quelle scatole blu." },
+      { "s": "A", "name": "Anna", "en": "Found them. Is there a socket near the table? The projector needs power.", "it": "Trovati. C'è una presa vicino al tavolo? Il proiettore ha bisogno di corrente." },
+      { "s": "B", "name": "Luca", "en": "There's one under the table, but it doesn't work. Use the power strip instead.", "it": "Ce n'è una sotto il tavolo, ma non funziona. Usa invece la ciabatta." },
+      { "s": "A", "name": "Anna", "en": "Okay, I'll plug it in. Could you print ten copies of the agenda?", "it": "Va bene, la attacco. Potresti stampare dieci copie dell'ordine del giorno?" },
+      { "s": "B", "name": "Luca", "en": "Sure, but the printer is out of toner. Let me check if there's any in the cupboard.", "it": "Certo, ma la stampante ha finito il toner. Controllo se ce n'è nell'armadio." },
+      { "s": "A", "name": "Anna", "en": "Thanks. Also, there aren't enough chairs. There are twelve of us, and I only see eight.", "it": "Grazie. Inoltre non ci sono abbastanza sedie. Siamo in dodici e ne vedo solo otto." },
+      { "s": "B", "name": "Luca", "en": "I'll bring some from the kitchen. Neither the client nor his assistant is coming early, so we have time.", "it": "Ne porto qualcuna dalla cucina. Né il cliente né la sua assistente arrivano presto, quindi c'è tempo." },
+      { "s": "A", "name": "Anna", "en": "Perfect. And please test the microphone. Last time there was something wrong with it.", "it": "Perfetto. E per favore prova il microfono. L'ultima volta c'era qualcosa che non andava." },
+      { "s": "B", "name": "Luca", "en": "Will do. Everything will be ready by ten. Don't worry.", "it": "Va bene. Sarà tutto pronto per le dieci. Non preoccuparti." }
+    ]
+  },
+  "listening": [
+    { "q": "Where are the spare cables?", "options": ["In the top drawer of the desk", "On the shelf behind Anna", "In the kitchen"], "answer": 0 },
+    { "q": "What is the problem with the printer?", "options": ["It has no paper", "It has no toner", "It is broken"], "answer": 1 },
+    { "q": "Why does Luca need to go to the kitchen?", "options": ["To make coffee", "To bring some chairs", "To find a power strip"], "answer": 1 },
+    { "q": "What should Luca test before the meeting?", "options": ["The microphone", "The webcam", "The projector"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Mi servono un caricabatterie e una penna.", "en": "I need a charger and a pen.", "alt": ["I need a charger and a pen, please.", "I need a charger and a pen for the meeting."] },
+    { "it": "Hai delle domande sul progetto?", "en": "Do you have any questions about the project?", "alt": ["Have you got any questions about the project?", "Do you have any questions on the project?"] },
+    { "it": "Non ho nessun file da mandarti.", "en": "I don't have any files to send you.", "alt": ["I haven't got any files to send you.", "I don't have any files to send to you."] },
+    { "it": "Questa tastiera è mia, quella è di Marco.", "en": "This keyboard is mine, and that one is Marco's.", "alt": ["This keyboard is mine and that one is Marco's.", "This is my keyboard, and that one is Marco's."] },
+    { "it": "Quei cavi sullo scaffale sono vecchi.", "en": "Those cables on the shelf are old.", "alt": ["The cables on that shelf are old.", "The cables on the shelf are old."] },
+    { "it": "Sono al lavoro fino alle cinque.", "en": "I'm at work until five.", "alt": ["I am at work until five o'clock.", "I'm at work until 5."] },
+    { "it": "Ti mando il documento per mail.", "en": "I'll send you the document by email.", "alt": ["I will send you the document by email.", "I'll email you the document."] },
+    { "it": "La stampante ha finito il toner.", "en": "The printer is out of toner.", "alt": ["The printer has run out of toner.", "The printer's out of toner."] },
+    { "it": "Non ci sono abbastanza sedie per tutti.", "en": "There aren't enough chairs for everyone.", "alt": ["There are not enough chairs for everyone.", "We don't have enough chairs for everyone."] },
+    { "it": "Mi presti una penna?", "en": "Can I borrow a pen?", "alt": ["Could I borrow a pen?", "May I borrow a pen?", "Could you lend me a pen?"] },
+    { "it": "Pronto, sono Luca. Parlo con Anna?", "en": "Hello, this is Luca. Is that Anna?", "alt": ["Hello, Luca speaking. Is that Anna?", "Hi, this is Luca. Is that Anna?"] },
+    { "it": "Ho un'idea per il sito, e un'ora libera.", "en": "I have an idea for the website, and a free hour.", "alt": ["I have an idea for the website and an hour free.", "I've got an idea for the website and a free hour.", "I have an idea for the site, and a free hour."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail breve al responsabile dell'ufficio. Devi segnalare che nella sala riunioni mancano alcune cose per la presentazione di giovedì: un cavo per il proiettore, il toner della stampante e due sedie. Usa gli articoli a, an, the, e some/any dove servono. Chiedi se può provvedere entro mercoledì. 5-7 righe.",
+    "taskEn": "Write a short email to the office manager. Tell him that some things are missing in the meeting room for Thursday's presentation: a cable for the projector, toner for the printer and two chairs. Use the articles a, an, the, and some/any where needed. Ask if he can arrange it by Wednesday. 5-7 lines.",
+    "model": "Subject: Meeting room for Thursday\n\nHi Mark,\n\nI'm preparing the meeting room for Thursday's presentation, and a few things are missing.\n\nThere isn't a spare cable for the projector, and the printer is out of toner. We also don't have enough chairs: we need two more.\n\nCould you arrange these things by Wednesday afternoon? If you have any questions, let me know.\n\nThanks a lot,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I need a charger and an extension cable.",
+      "Do you have any spare cables?",
+      "This one is mine, and that one is yours.",
+      "Those folders on the shelf are old.",
+      "I'm at work until six, and I'll send it by email.",
+      "Would you like some coffee?",
+      "There aren't enough chairs for everyone.",
+      "Is that Anna? This is Luca."
+    ],
+    "prompts": [
+      { "en": "Describe what you can see on your desk.", "it": "Descrivi cosa vedi sulla tua scrivania.", "help": "Inizia con: On my desk there is a... and some... / I have an... next to the..." },
+      { "en": "Ask a colleague for three office things you need.", "it": "Chiedi a un collega tre oggetti d'ufficio che ti servono.", "help": "Usa: Do you have a...? / Can I borrow the...? / Could you pass me that...?" },
+      { "en": "What does your ideal workplace look like?", "it": "Com'è il tuo posto di lavoro ideale?", "help": "Usa: I'd like an office with a... and some... / There shouldn't be any..." },
+      { "en": "The printer is broken. Explain the problem to the IT person.", "it": "La stampante è rotta. Spiega il problema all'informatico.", "help": "Usa: The printer is out of... / There's something wrong with... / It doesn't..." },
+      { "en": "Show me two objects around you: one close, one far away.", "it": "Indica due oggetti intorno a te: uno vicino e uno lontano.", "help": "Usa: This is my... / That is the... over there." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: gli articoli e le parole piccole",
+      "show": ["Articles and small words", "a, an, the, nessun articolo", "some, any, this, that"],
+      "say": [
+        { "lang": "it", "text": "Lezione quindici. Oggi parliamo degli articoli e di altre parole piccole che gli italiani sbagliano spesso. Useremo come esempi gli oggetti che trovi in ufficio." },
+        { "lang": "en", "text": "I need a pen and some paper." }
+      ]
+    },
+    {
+      "title": "A e an",
+      "show": ["a + suono di consonante", "an + suono di vocale", "a desk, an hour"],
+      "say": [
+        { "lang": "it", "text": "A e an servono per una cosa singolare e non precisa. Si usa a prima di un suono di consonante, an prima di un suono di vocale. Conta il suono, non la lettera. Hour comincia con una h muta, quindi si dice an hour." },
+        { "lang": "en", "text": "I need a charger and an extension cable." },
+        { "lang": "en", "text": "We waited for an hour." }
+      ]
+    },
+    {
+      "title": "The: quando si usa",
+      "show": ["The = chi ascolta sa quale", "Già nominato", "The internet, the CEO"],
+      "say": [
+        { "lang": "it", "text": "Si usa the quando chi ascolta sa già di quale cosa parli. Perché l'hai già nominata, o perché è unica. La prima volta dici a, la seconda volta dici the." },
+        { "lang": "en", "text": "I sent a file. Did you open the file?" }
+      ]
+    },
+    {
+      "title": "Nessun articolo",
+      "show": ["Plurali in generale", "at work, at home, by email", "Lingue e pasti"],
+      "say": [
+        { "lang": "it", "text": "A volte non serve nessun articolo. Succede con i plurali e i nomi non numerabili in generale, e con frasi fisse come at work, at home, by email." },
+        { "lang": "en", "text": "I'm at work. I'll send it by email." }
+      ]
+    },
+    {
+      "title": "Some e any",
+      "show": ["some = frasi positive e offerte", "any = negative e domande", "Do you have any questions?"],
+      "say": [
+        { "lang": "it", "text": "Some e any si usano con i plurali e con i nomi non numerabili. Some nelle frasi positive e nelle offerte. Any nelle negative e nelle domande." },
+        { "lang": "en", "text": "I have some questions." },
+        { "lang": "en", "text": "I don't have any questions." },
+        { "lang": "en", "text": "Would you like some coffee?" }
+      ]
+    },
+    {
+      "title": "This, that, these, those",
+      "show": ["this / these = vicino", "that / those = lontano", "This is Luca. Is that Anna?"],
+      "say": [
+        { "lang": "it", "text": "This e these indicano cose vicine. That e those indicano cose lontane. This e that sono singolari. These e those sono plurali. Al telefono, this sei tu, that è l'altra persona." },
+        { "lang": "en", "text": "This keyboard is mine. That printer is broken." },
+        { "lang": "en", "text": "Hello, this is Luca. Is that Anna?" }
+      ]
+    },
+    {
+      "title": "Espressioni chiave in ufficio",
+      "show": ["Do you have a spare cable?", "Can I borrow your pen?", "The printer is out of paper."],
+      "say": [
+        { "lang": "it", "text": "Ecco le frasi pratiche di tutti i giorni. Per chiedere un oggetto, per prendere in prestito, per segnalare un guasto." },
+        { "lang": "en", "text": "Do you have a spare cable?" },
+        { "lang": "en", "text": "Can I borrow your pen for a second?" },
+        { "lang": "en", "text": "The printer is out of toner." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["a / an = nuovo o non preciso", "the = già noto", "some + / any - ?", "this-that, these-those"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. A e an per una cosa nuova. The per una cosa già nota. Some nel positivo, any nel negativo e nelle domande. This e these vicino, that e those lontano." },
+        { "lang": "en", "text": "Let me know if you have any questions." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "id": 4,
+  "week": 1,
+  "title": "Telefonate e videochiamate",
+  "titleEn": "Phone and video calls",
+  "intro": "Oggi impari a rispondere al telefono, a gestire una videochiamata e a chiedere di ripetere quando non capisci. Studi can, could e may per chiedere e dare il permesso, e l'ordine delle parole nelle domande. È la lezione che toglie la paura del telefono in inglese.",
+  "goals": [
+    "Rispondere, passare una chiamata e lasciare un messaggio",
+    "Chiedere di ripetere o di parlare più piano senza imbarazzo",
+    "Usare can, could e may per richieste e permessi",
+    "Fare domande con l'ordine giusto delle parole",
+    "Risolvere problemi di audio e video durante una videochiamata"
+  ],
+  "words": [
+    { "en": "to call back", "pron": "kòl bàk", "it": "richiamare", "type": "verb", "ex": "I'll call you back in ten minutes.", "exIt": "Ti richiamo tra dieci minuti." },
+    { "en": "to hang up", "pron": "hàng àp", "it": "riattaccare", "type": "verb", "ex": "Sorry, I had to hang up. My battery died.", "exIt": "Scusa, ho dovuto riattaccare. Si è scaricata la batteria." },
+    { "en": "to hold on", "pron": "hòuld òn", "it": "restare in linea, aspettare un attimo", "type": "verb", "ex": "Could you hold on a moment, please?", "exIt": "Potrebbe attendere un attimo, per favore?" },
+    { "en": "to put through", "pron": "pùt trù", "it": "passare la linea a qualcuno", "type": "verb", "ex": "I'll put you through to the sales department.", "exIt": "La passo all'ufficio vendite." },
+    { "en": "to transfer", "pron": "transfèr", "it": "trasferire (una chiamata)", "type": "verb", "ex": "I'm going to transfer you to our technical support.", "exIt": "La trasferisco al nostro supporto tecnico." },
+    { "en": "to mute", "pron": "miùut", "it": "disattivare il microfono", "type": "verb", "ex": "Could everyone mute their microphone, please?", "exIt": "Potete disattivare tutti il microfono, per favore?" },
+    { "en": "to unmute", "pron": "anmiùut", "it": "riattivare il microfono", "type": "verb", "ex": "Please unmute yourself before you speak.", "exIt": "Per favore riattiva il microfono prima di parlare." },
+    { "en": "to share", "pron": "scèr", "it": "condividere", "type": "verb", "ex": "Can I share my screen with you?", "exIt": "Posso condividere lo schermo con voi?" },
+    { "en": "to record", "pron": "rikòrd", "it": "registrare", "type": "verb", "ex": "Do you mind if I record the call?", "exIt": "Ti dispiace se registro la chiamata?" },
+    { "en": "to repeat", "pron": "ripìit", "it": "ripetere", "type": "verb", "ex": "Could you repeat that, please?", "exIt": "Potresti ripetere, per favore?" },
+    { "en": "to spell", "pron": "spèl", "it": "scrivere lettera per lettera", "type": "verb", "ex": "How do you spell your surname?", "exIt": "Come si scrive il tuo cognome?" },
+    { "en": "to speak up", "pron": "spìik àp", "it": "parlare più forte", "type": "verb", "ex": "Could you speak up a little? I can hardly hear you.", "exIt": "Potresti parlare un po' più forte? Ti sento a malapena." },
+    { "en": "to break up", "pron": "brèik àp", "it": "interrompersi (della linea o del segnale)", "type": "verb", "ex": "You're breaking up. I can only hear every second word.", "exIt": "Ti sento a scatti. Sento solo una parola su due." },
+    { "en": "to freeze", "pron": "frìiz", "it": "bloccarsi (dello schermo)", "type": "verb", "ex": "Your video keeps freezing.", "exIt": "Il tuo video continua a bloccarsi." },
+    { "en": "to leave a message", "pron": "lìiv a mèssidg", "it": "lasciare un messaggio", "type": "verb", "ex": "Would you like to leave a message?", "exIt": "Vuole lasciare un messaggio?" },
+    { "en": "to pick up", "pron": "pìk àp", "it": "rispondere (al telefono)", "type": "verb", "ex": "I called twice, but nobody picked up.", "exIt": "Ho chiamato due volte, ma nessuno ha risposto." },
+    { "en": "to ring", "pron": "rìng", "it": "squillare", "type": "verb", "ex": "The phone rang for a long time.", "exIt": "Il telefono ha squillato a lungo." },
+    { "en": "connection", "pron": "konèkscion", "it": "connessione", "type": "noun", "ex": "I have a bad connection, so I'm switching to my phone.", "exIt": "Ho una brutta connessione, quindi passo al telefono." },
+    { "en": "signal", "pron": "sìgnal", "it": "segnale (di telefono o rete)", "type": "noun", "ex": "I have no signal on the train.", "exIt": "In treno non ho segnale." },
+    { "en": "line", "pron": "làin", "it": "linea (telefonica)", "type": "noun", "ex": "The line is very bad. I can't hear you.", "exIt": "La linea è pessima. Non ti sento." },
+    { "en": "extension", "pron": "ikstènscion", "it": "interno (numero interno)", "type": "noun", "ex": "Could I have extension 214, please?", "exIt": "Potrei avere l'interno 214, per favore?" },
+    { "en": "voicemail", "pron": "vòismeil", "it": "segreteria telefonica", "type": "noun", "ex": "I left you a voicemail this morning.", "exIt": "Ti ho lasciato un messaggio in segreteria stamattina." },
+    { "en": "microphone", "pron": "màikrofoun", "it": "microfono", "type": "noun", "ex": "Your microphone isn't working. Can you check it?", "exIt": "Il tuo microfono non funziona. Puoi controllarlo?" },
+    { "en": "headset", "pron": "hèdset", "it": "cuffie con microfono", "type": "noun", "ex": "I use a headset for all my video calls.", "exIt": "Uso le cuffie con microfono per tutte le videochiamate." },
+    { "en": "camera", "pron": "kàmera", "it": "videocamera, webcam", "type": "noun", "ex": "Please turn on your camera if you can.", "exIt": "Per favore accendi la videocamera, se puoi." },
+    { "en": "screen", "pron": "skrìin", "it": "schermo", "type": "noun", "ex": "Can everyone see my screen?", "exIt": "Tutti vedono il mio schermo?" },
+    { "en": "echo", "pron": "èkou", "it": "eco", "type": "noun", "ex": "There's an echo. Someone needs to mute.", "exIt": "C'è un'eco. Qualcuno deve disattivare il microfono." },
+    { "en": "lag", "pron": "làg", "it": "ritardo di connessione, latenza", "type": "noun", "ex": "There's a lag of a few seconds in the video.", "exIt": "C'è un ritardo di qualche secondo nel video." },
+    { "en": "link", "pron": "lìnk", "it": "collegamento, link", "type": "noun", "ex": "I'll send you the link to the video call.", "exIt": "Ti mando il link per la videochiamata." },
+    { "en": "chat", "pron": "ciàt", "it": "chat, messaggi scritti", "type": "noun", "ex": "I'll paste the address in the chat.", "exIt": "Incollo l'indirizzo nella chat." },
+    { "en": "recording", "pron": "rikòrding", "it": "registrazione", "type": "noun", "ex": "I'll send you the recording after the call.", "exIt": "Ti mando la registrazione dopo la chiamata." },
+    { "en": "bandwidth", "pron": "bànduid", "it": "larghezza di banda, capacità di rete", "type": "noun", "ex": "My bandwidth is low, so I'll turn off my video.", "exIt": "Ho poca banda, quindi spengo il video." },
+    { "en": "background noise", "pron": "bàkgraund nòiz", "it": "rumore di fondo", "type": "noun", "ex": "There's a lot of background noise on your side.", "exIt": "C'è molto rumore di fondo da te." },
+    { "en": "switchboard", "pron": "suìcbord", "it": "centralino", "type": "noun", "ex": "You've reached the switchboard. How can I help?", "exIt": "Ha chiamato il centralino. Come posso aiutarla?" },
+    { "en": "caller", "pron": "kòler", "it": "chi chiama", "type": "noun", "ex": "The caller wants to speak to the manager.", "exIt": "Chi ha chiamato vuole parlare con il responsabile." },
+    { "en": "clear", "pron": "klìir", "it": "chiaro, nitido", "type": "adj", "ex": "Your sound is very clear. Thanks.", "exIt": "Il tuo audio è molto chiaro. Grazie." },
+    { "en": "muffled", "pron": "màfold", "it": "ovattato, poco chiaro", "type": "adj", "ex": "Your voice sounds muffled. Is your mic covered?", "exIt": "La tua voce suona ovattata. Il microfono è coperto?" },
+    { "en": "unstable", "pron": "anstèibol", "it": "instabile", "type": "adj", "ex": "The Wi-Fi is unstable at the moment.", "exIt": "Il Wi-Fi è instabile al momento." },
+    { "en": "poor", "pron": "pùr", "it": "scarso, scadente", "type": "adj", "ex": "The sound quality is poor today.", "exIt": "La qualità dell'audio oggi è scarsa." },
+    { "en": "audible", "pron": "òdibol", "it": "udibile", "type": "adj", "ex": "Your voice is barely audible.", "exIt": "La tua voce si sente a malapena." },
+    { "en": "engaged", "pron": "inghèigd", "it": "occupato (di linea telefonica, in inglese britannico)", "type": "adj", "ex": "I tried to call, but the line was engaged.", "exIt": "Ho provato a chiamare, ma la linea era occupata." },
+    { "en": "I didn't catch that", "pron": "ai dìdent càc dàt", "it": "non ho capito, non l'ho sentito bene", "type": "phrase", "ex": "Sorry, I didn't catch that. Could you say it again?", "exIt": "Scusa, non ho capito. Puoi ridirlo?" },
+    { "en": "Who's calling?", "pron": "hùus kòling", "it": "Chi parla? Chi la sta chiamando?", "type": "phrase", "ex": "Good morning. Who's calling, please?", "exIt": "Buongiorno. Chi la sta chiamando, per favore?" },
+    { "en": "Speaking.", "pron": "spìiking", "it": "Sono io (risposta a chi chiede di te)", "type": "phrase", "ex": "Hello, can I speak to Luca? - Speaking.", "exIt": "Pronto, posso parlare con Luca? - Sono io." },
+    { "en": "You're on mute", "pron": "iùr on miùut", "it": "hai il microfono spento", "type": "phrase", "ex": "Sorry, you're on mute. We can't hear you.", "exIt": "Scusa, hai il microfono spento. Non ti sentiamo." },
+    { "en": "Can you hear me?", "pron": "càn iù hìir mi", "it": "Mi senti?", "type": "phrase", "ex": "Can you hear me? I think my sound is off.", "exIt": "Mi senti? Credo che il mio audio sia spento." },
+    { "en": "Hold the line", "pron": "hòuld de làin", "it": "Resti in linea", "type": "phrase", "ex": "Please hold the line. I'll check.", "exIt": "Resti in linea. Controllo." },
+    { "en": "briefly", "pron": "brìifli", "it": "brevemente", "type": "adv", "ex": "Could you briefly explain the problem?", "exIt": "Potresti spiegare brevemente il problema?" },
+    { "en": "clearly", "pron": "klìirli", "it": "chiaramente", "type": "adv", "ex": "Could you speak a bit more clearly?", "exIt": "Potresti parlare in modo un po' più chiaro?" },
+    { "en": "slowly", "pron": "slòuli", "it": "lentamente, piano", "type": "adv", "ex": "Could you please speak more slowly?", "exIt": "Potresti parlare più lentamente, per favore?" }
+  ],
+  "falseFriends": [
+    { "en": "to pretend", "it": "fingere", "trap": "Non vuol dire 'pretendere'. Pretendere si dice 'to demand' o 'to expect'." },
+    { "en": "rumour", "it": "voce, pettegolezzo", "trap": "Non vuol dire 'rumore'. Il rumore si dice 'noise'." }
+  ],
+  "grammar": {
+    "title": "Can, could, may e l'ordine delle parole nelle domande",
+    "explainIt": [
+      "Can, could e may sono verbi modali. Hanno tre regole semplici. Non prendono la -s con he, she, it: she can, non she cans. Dopo di loro il verbo è all'infinito senza to: I can help, non I can to help. E le domande si fanno invertendo, senza do o does: Can you hear me? Could she call back?",
+      "Can ha tre usi. Capacità: I can speak English. Permesso: Can I use your phone? Richiesta informale: Can you send me the link? Il contrario è can't (cannot): I can't hear you. Could è il passato di can: I could not open the file. Ma più spesso è la forma cortese: Could you repeat that? Could I speak to Mr Brown? È più educato di can e va bene con i clienti.",
+      "May è formale. Si usa per chiedere permesso con garbo: May I ask who is calling? May I speak to Ms Green? Nelle telefonate di lavoro è molto comune per essere cortesi. Per dare il permesso: You may use the room. Ma in una conversazione normale tra colleghi basta can o could.",
+      "Le domande dirette hanno l'ordine: parola interrogativa, poi ausiliare, poi soggetto, poi verbo. Where do you work? What time does the meeting start? Why can't you join the call? Con be è uguale: Where is the link? Con i modali: When can you call back? Attenzione: il soggetto va sempre dopo l'ausiliare. In italiano possiamo dire Dove lavori? senza ausiliare, ma in inglese serve sempre do, does, can, is o simili.",
+      "Se la domanda è su chi fa l'azione (il soggetto), non serve do o does. Who called you? Who works here? What happened? Si usa il verbo normale, in ordine diritto. Questa è una piccola eccezione: Who called? non Who did call? (tranne per enfasi)."
+    ],
+    "explainEn": [
+      "Can, could and may are modal verbs. They have three simple rules. They never take -s with he, she, it: she can, not she cans. After them we use the infinitive without to: I can help, not I can to help. And we make questions by changing the order, with no do or does: Can you hear me? Could she call back?",
+      "Can has three uses. Ability: I can speak English. Permission: Can I use your phone? Informal request: Can you send me the link? The negative is can't or cannot: I can't hear you. Could is the past of can: I could not open the file. But more often it is the polite form: Could you repeat that? Could I speak to Mr Brown? It is more polite than can and it is good with clients.",
+      "May is formal. We use it to ask for permission politely: May I ask who is calling? May I speak to Ms Green? On business calls it is very common. To give permission: You may use the room. In normal conversation between colleagues can or could is enough.",
+      "Direct questions follow this order: question word, then auxiliary, then subject, then verb. Where do you work? What time does the meeting start? Why can't you join the call? With be it is the same: Where is the link? With modals: When can you call back? In Italian we can say Dove lavori? with no auxiliary, but in English we always need do, does, can, is or similar.",
+      "If the question is about who does the action, which means the subject, we do not need do or does. Who called you? Who works here? What happened? We use the normal verb in straight order. This is a small exception: Who called? not Who did call?"
+    ],
+    "rules": [
+      {
+        "it": "I modali non prendono la -s e vogliono l'infinito senza to.",
+        "en": "Modal verbs take no -s and are followed by the infinitive without to.",
+        "form": "can/could/may + verbo base",
+        "examples": [
+          { "en": "She can join the call at three.", "it": "Lei può collegarsi alla chiamata alle tre." },
+          { "en": "I can't hear you very well.", "it": "Non ti sento molto bene." },
+          { "en": "He could not open the attachment.", "it": "Non è riuscito ad aprire l'allegato." }
+        ]
+      },
+      {
+        "it": "Can per capacità e richieste informali; could è più cortese; may è formale.",
+        "en": "Can for ability and informal requests; could is more polite; may is formal.",
+        "form": "Can you...? / Could you...? / May I...?",
+        "examples": [
+          { "en": "Can you hear me?", "it": "Mi senti?" },
+          { "en": "Could you speak a little more slowly?", "it": "Potresti parlare un po' più lentamente?" },
+          { "en": "May I ask who is calling?", "it": "Posso chiedere chi parla?" }
+        ]
+      },
+      {
+        "it": "Per chiedere permesso: Can I...? Could I...? May I...? Per darlo: Sure, go ahead.",
+        "en": "To ask for permission: Can I...? Could I...? May I...? To give it: Sure, go ahead.",
+        "form": "Can/Could/May + I + verbo",
+        "examples": [
+          { "en": "Could I speak to Mr Brown, please?", "it": "Potrei parlare con il signor Brown, per favore?" },
+          { "en": "Can I share my screen?", "it": "Posso condividere lo schermo?" },
+          { "en": "May I put you on hold for a moment?", "it": "Posso metterla in attesa un momento?" }
+        ]
+      },
+      {
+        "it": "Le domande dirette: parola interrogativa + ausiliare + soggetto + verbo.",
+        "en": "Direct questions: question word + auxiliary + subject + verb.",
+        "form": "Wh- + do/does/can/is + soggetto + verbo",
+        "examples": [
+          { "en": "Where do you work?", "it": "Dove lavori?" },
+          { "en": "What time does the call start?", "it": "A che ora inizia la chiamata?" },
+          { "en": "Why can't you open the file?", "it": "Perché non riesci ad aprire il file?" }
+        ]
+      },
+      {
+        "it": "Se la parola interrogativa è il soggetto, non serve do/does: ordine diretto.",
+        "en": "If the question word is the subject, we do not use do/does: normal order.",
+        "form": "Who/What + verbo",
+        "examples": [
+          { "en": "Who called you this morning?", "it": "Chi ti ha chiamato stamattina?" },
+          { "en": "What happened to the connection?", "it": "Cosa è successo alla connessione?" }
+        ]
+      }
+    ],
+    "tip": "Al telefono, quando hai dubbi, parti sempre con Could I... o Could you... Sono cortesi, sicuri e corretti. Per le domande ricorda: l'ausiliare va PRIMA del soggetto (Can you? Do you? Is it?). Mai la frase italiana dritta.",
+    "mistakes": [
+      { "wrong": "Can you to repeat, please?", "right": "Can you repeat that, please?", "why": "dopo can non si usa to" },
+      { "wrong": "She cans join us at three.", "right": "She can join us at three.", "why": "i modali non prendono la -s" },
+      { "wrong": "Where you work?", "right": "Where do you work?", "why": "in inglese serve do, does o un altro ausiliare nelle domande" },
+      { "wrong": "What does she wants?", "right": "What does she want?", "why": "dopo does il verbo non ha la -s" },
+      { "wrong": "I can't to hear you.", "right": "I can't hear you.", "why": "dopo can't niente to" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "___ you hear me? My microphone is new.", "a": ["can", "could"], "hint": "domanda con modale", "explain": "Can you hear me? è la domanda più comune." },
+    { "q": "___ I speak to Mr Brown, please? (molto cortese)", "a": ["could", "may"], "hint": "cortese o formale", "explain": "Could I o May I sono più cortesi di Can I." },
+    { "q": "She ___ (can) join the call at three.", "a": ["can"], "hint": "she, nessuna -s", "explain": "I modali non prendono la -s." },
+    { "q": "I ___ open the attachment. It's too big. (non riesco)", "a": ["can't", "cannot", "can not"], "hint": "negazione di can", "explain": "Il contrario di can è can't." },
+    { "q": "Where ___ you work?", "a": ["do"], "hint": "domanda con you", "explain": "Parola interrogativa + do + soggetto." },
+    { "q": "What time ___ the call start?", "a": ["does"], "hint": "the call = it", "explain": "Con the call (it) serve does." },
+    { "q": "Could you ___ (repeat) that, please?", "a": ["repeat"], "hint": "dopo could", "explain": "Dopo could il verbo è all'infinito senza to." },
+    { "q": "Who ___ (call) you this morning?", "a": ["called"], "hint": "who è il soggetto", "explain": "Se who è il soggetto, non si usa did: Who called you?" },
+    { "q": "Why ___ you join the call yesterday?", "a": ["couldn't", "could not", "didn't", "did not"], "hint": "passato, negazione", "explain": "Why couldn't you o Why didn't you sono entrambi corretti." },
+    { "q": "___ I share my screen? (chiedi il permesso)", "a": ["can", "could", "may"], "hint": "chiedere permesso", "explain": "Can I, Could I o May I sono tutti corretti." },
+    { "q": "What ___ she do at the company?", "a": ["does"], "hint": "she", "explain": "Con she si usa does." },
+    { "q": "I'm sorry, I ___ (not, can) hear you. The line is breaking up.", "a": ["can't", "cannot", "can not"], "hint": "linea che salta", "explain": "I can't hear you è la frase tipica quando la linea è disturbata." }
+  ],
+  "phrases": [
+    { "group": "Rispondere e presentarsi", "en": "Good morning, Blue Peak, Luca speaking.", "it": "Buongiorno, Blue Peak, sono Luca.", "note": "risposta standard in azienda" },
+    { "group": "Rispondere e presentarsi", "en": "Hello, this is Luca Bianchi from Studio Web.", "it": "Buongiorno, sono Luca Bianchi di Studio Web.", "note": "come ti presenti quando chiami" },
+    { "group": "Rispondere e presentarsi", "en": "Could I speak to Ms Green, please?", "it": "Potrei parlare con la signora Green, per favore?" },
+    { "group": "Rispondere e presentarsi", "en": "May I ask who's calling?", "it": "Posso chiedere chi parla?" },
+    { "group": "Passare e richiamare", "en": "Please hold the line. I'll put you through.", "it": "Resti in linea. La passo." },
+    { "group": "Passare e richiamare", "en": "I'm afraid she's not available at the moment.", "it": "Purtroppo al momento non è disponibile." },
+    { "group": "Passare e richiamare", "en": "Would you like to leave a message?", "it": "Vuole lasciare un messaggio?" },
+    { "group": "Passare e richiamare", "en": "Could you ask her to call me back?", "it": "Potrebbe dirle di richiamarmi?" },
+    { "group": "Passare e richiamare", "en": "I'll call you back in ten minutes.", "it": "Ti richiamo tra dieci minuti." },
+    { "group": "Non ho capito", "en": "Sorry, I didn't catch that.", "it": "Scusa, non ho capito." },
+    { "group": "Non ho capito", "en": "Could you repeat that, please?", "it": "Potresti ripetere, per favore?" },
+    { "group": "Non ho capito", "en": "Could you speak a little more slowly?", "it": "Potresti parlare un po' più lentamente?" },
+    { "group": "Non ho capito", "en": "How do you spell that?", "it": "Come si scrive?" },
+    { "group": "Non ho capito", "en": "Sorry, the line is breaking up.", "it": "Scusa, la linea salta." },
+    { "group": "Non ho capito", "en": "Do you mean that we should start on Monday?", "it": "Intendi che dovremmo cominciare lunedì?", "note": "per controllare di aver capito" },
+    { "group": "Problemi tecnici", "en": "Can you hear me? I can't see your video.", "it": "Mi senti? Non vedo il tuo video." },
+    { "group": "Problemi tecnici", "en": "You're on mute.", "it": "Hai il microfono spento." },
+    { "group": "Problemi tecnici", "en": "My connection is unstable. I'll turn off my camera.", "it": "La mia connessione è instabile. Spengo la videocamera." },
+    { "group": "Problemi tecnici", "en": "I'll try to reconnect.", "it": "Provo a ricollegarmi." },
+    { "group": "Problemi tecnici", "en": "Can everyone see my screen?", "it": "Tutti vedono il mio schermo?" },
+    { "group": "Chiudere la chiamata", "en": "Thank you for calling. Have a nice day.", "it": "Grazie per la chiamata. Buona giornata." },
+    { "group": "Chiudere la chiamata", "en": "Let me summarise what we agreed.", "it": "Riassumo quello che abbiamo concordato." },
+    { "group": "Chiudere la chiamata", "en": "I'll send you a follow-up email.", "it": "Ti mando una mail di riepilogo." },
+    { "group": "Chiudere la chiamata", "en": "Is there anything else I can help you with?", "it": "C'è altro in cui posso esserle utile?" },
+    { "group": "Chiudere la chiamata", "en": "Talk to you soon. Bye for now.", "it": "Ci sentiamo presto. Ciao!" }
+  ],
+  "dialogue": {
+    "title": "A call with a bad connection",
+    "context": "Luca chiama Mr Evans, cliente inglese, per parlare di un problema. La linea è disturbata e poi passano a una videochiamata.",
+    "lines": [
+      { "s": "A", "name": "Receptionist", "en": "Good morning, Evans Print. How can I help you?", "it": "Buongiorno, Evans Print. Come posso aiutarla?" },
+      { "s": "B", "name": "Luca", "en": "Good morning. Could I speak to Mr Evans, please? It's Luca Bianchi from Studio Web.", "it": "Buongiorno. Potrei parlare con il signor Evans, per favore? Sono Luca Bianchi di Studio Web." },
+      { "s": "A", "name": "Receptionist", "en": "Please hold the line. I'll put you through.", "it": "Resti in linea. La passo." },
+      { "s": "C", "name": "Mr Evans", "en": "Hello, Evans speaking. Hi Luca, how can I help?", "it": "Pronto, sono Evans. Ciao Luca, come posso aiutarti?" },
+      { "s": "B", "name": "Luca", "en": "Hello Mr Evans. I'm calling about the contact form on your website. Can you hear me well?", "it": "Buongiorno signor Evans. La chiamo per il modulo di contatto sul vostro sito. Mi sente bene?" },
+      { "s": "C", "name": "Mr Evans", "en": "Not really. The line is breaking up. Could you speak up a little?", "it": "Non proprio. La linea salta. Potrebbe parlare un po' più forte?" },
+      { "s": "B", "name": "Luca", "en": "Sure. Is that better? Maybe we can switch to a video call. I'll send you a link.", "it": "Certo. Va meglio? Forse possiamo passare a una videochiamata. Le mando un link." },
+      { "s": "C", "name": "Mr Evans", "en": "Good idea. Okay, I've joined. Can you see me?", "it": "Buona idea. Ok, mi sono collegato. Mi vede?" },
+      { "s": "B", "name": "Luca", "en": "I can hear you, but I can't see your video. Could you turn on your camera?", "it": "La sento, ma non vedo il suo video. Potrebbe accendere la videocamera?" },
+      { "s": "C", "name": "Mr Evans", "en": "Sorry, it was off. Is it working now?", "it": "Scusi, era spenta. Ora funziona?" },
+      { "s": "B", "name": "Luca", "en": "Yes, it's fine now. Could I share my screen to show you the problem?", "it": "Sì, ora va bene. Posso condividere lo schermo per mostrarle il problema?" },
+      { "s": "C", "name": "Mr Evans", "en": "Of course, go ahead. I can see it. What exactly happens when I click Send?", "it": "Certo, prego. Lo vedo. Cosa succede esattamente quando clicco su Invia?" },
+      { "s": "B", "name": "Luca", "en": "The message doesn't arrive. I think we need to change a setting on the server. It will take about twenty minutes.", "it": "Il messaggio non arriva. Penso che dobbiamo cambiare un'impostazione sul server. Ci vorranno circa venti minuti." },
+      { "s": "C", "name": "Mr Evans", "en": "That's fine. Could you call me back when it's done?", "it": "Va bene. Potrebbe richiamarmi quando è finito?" },
+      { "s": "B", "name": "Luca", "en": "Of course. I'll call you back and send you a follow-up email too.", "it": "Certo. La richiamo e le mando anche una mail di riepilogo." }
+    ]
+  },
+  "listening": [
+    { "q": "What does Luca ask the receptionist for?", "options": ["To speak to Mr Evans", "To leave a message", "To get an extension"], "answer": 0 },
+    { "q": "Why do they switch to a video call?", "options": ["Mr Evans is in a car", "The line is breaking up", "Luca wants to record the call"], "answer": 1 },
+    { "q": "What problem does Mr Evans have with his video at first?", "options": ["His camera is off", "He is on mute", "His screen is frozen"], "answer": 0 },
+    { "q": "What will Luca do after fixing the problem?", "options": ["Send an invoice", "Call Mr Evans back", "Book a meeting"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Potrei parlare con il signor Brown, per favore?", "en": "Could I speak to Mr Brown, please?", "alt": ["May I speak to Mr Brown, please?", "Could I speak with Mr Brown, please?"] },
+    { "it": "Posso chiedere chi parla?", "en": "May I ask who's calling?", "alt": ["May I ask who is calling?", "Could I ask who's calling?", "Who's calling, please?"] },
+    { "it": "Scusa, non ho capito. Puoi ripetere?", "en": "Sorry, I didn't catch that. Could you repeat that?", "alt": ["Sorry, I didn't catch that. Could you repeat it?", "Sorry, I didn't catch that. Can you say it again?"] },
+    { "it": "Ti sento a scatti. La linea salta.", "en": "You're breaking up. The line is bad.", "alt": ["You're breaking up. The connection is bad.", "I can't hear you well. The line is breaking up."] },
+    { "it": "Hai il microfono spento.", "en": "You're on mute.", "alt": ["You are on mute.", "Your microphone is off.", "Your mic is muted."] },
+    { "it": "Posso condividere lo schermo?", "en": "Can I share my screen?", "alt": ["Could I share my screen?", "May I share my screen?"] },
+    { "it": "Potresti parlare più lentamente?", "en": "Could you speak more slowly?", "alt": ["Could you speak a bit more slowly?", "Can you speak more slowly, please?"] },
+    { "it": "Ti richiamo tra dieci minuti.", "en": "I'll call you back in ten minutes.", "alt": ["I will call you back in ten minutes.", "I'll ring you back in ten minutes."] },
+    { "it": "A che ora inizia la riunione?", "en": "What time does the meeting start?", "alt": ["What time is the meeting starting?", "What time will the meeting start?"] },
+    { "it": "Chi ti ha chiamato stamattina?", "en": "Who called you this morning?", "alt": ["Who phoned you this morning?", "Who rang you this morning?"] },
+    { "it": "Non riesco ad aprire il link che mi hai mandato.", "en": "I can't open the link you sent me.", "alt": ["I cannot open the link you sent me.", "I can't open the link that you sent."] },
+    { "it": "Vuole lasciare un messaggio?", "en": "Would you like to leave a message?", "alt": ["Do you want to leave a message?", "Can I take a message?", "Would you like me to take a message?"] }
+  ],
+  "writing": {
+    "taskIt": "Hai appena finito una telefonata con un cliente, Mr Harris, sul modulo di contatto che non funziona. Scrivi una mail di riepilogo. Ringrazialo per la chiamata. Ricorda che avete visto il problema insieme sullo schermo. Scrivi cosa farai tu (cambiare un'impostazione sul server entro domani) e cosa deve fare lui (controllare la casella di posta e dirti se arriva il test). Chiudi cortesemente e offri un'altra chiamata se serve.",
+    "taskEn": "You have just finished a phone call with a client, Mr Harris, about a contact form that is not working. Write a follow-up email. Thank him for the call. Remind him that you looked at the problem together on the screen. Write what you will do (change a setting on the server by tomorrow) and what he needs to do (check his inbox and tell you if the test arrives). Close politely and offer another call if needed.",
+    "model": "Subject: Follow-up to our call\n\nDear Mr Harris,\n\nThank you for the call today. It was useful to look at the contact form together on the screen.\n\nAs we discussed, I will change a setting on the server by tomorrow. After that I'll send a test message.\n\nCould you check your inbox and let me know if the test message arrives? If it doesn't, please also check your spam folder.\n\nIf you have any questions, I can call you again at any time. Please let me know when you are available.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Good morning, Studio Web, Luca speaking.",
+      "Could I speak to Mr Evans, please?",
+      "Sorry, I didn't catch that. Could you repeat it?",
+      "Could you speak a little more slowly?",
+      "You're on mute. We can't hear you.",
+      "Can everyone see my screen?",
+      "Please hold the line. I'll put you through.",
+      "I'll call you back in ten minutes."
+    ],
+    "prompts": [
+      { "en": "Hello, Studio Web. How can I help you?", "it": "Pronto, Studio Web. Come posso aiutarla?", "help": "Could I speak to...? / I'm calling about..." },
+      { "en": "I'm sorry, she's not available. Would you like to leave a message?", "it": "Mi dispiace, non è disponibile. Vuole lasciare un messaggio?", "help": "Yes, could you ask her to call me back? My number is..." },
+      { "en": "You are breaking up. Can you repeat that?", "it": "La sento a scatti. Può ripetere?", "help": "Sure. Is that better? / I'll switch to my phone." },
+      { "en": "What are you calling about?", "it": "Per cosa chiama?", "help": "I'm calling about... / I'd like to ask you something about..." },
+      { "en": "Can you share your screen and show me the problem?", "it": "Puoi condividere lo schermo e mostrarmi il problema?", "help": "Of course. Can you see it? / Let me share my screen." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Telefonare in inglese",
+      "show": ["Lesson 4", "Phone and video calls", "can, could, may"],
+      "say": [
+        { "lang": "it", "text": "Oggi affrontiamo il telefono. Impari a rispondere, a chiedere di ripetere e a gestire una videochiamata." },
+        { "lang": "en", "text": "Good morning. Could I speak to Mr Evans, please?" }
+      ]
+    },
+    {
+      "title": "Can, could e may",
+      "show": ["Can you hear me?", "Could you repeat that?", "May I ask who's calling?"],
+      "say": [
+        { "lang": "it", "text": "Can è informale, could è più cortese, may è formale. Tutti e tre sono modali. Non prendono la s e dopo di loro il verbo non vuole to." },
+        { "lang": "en", "text": "Can you hear me?" },
+        { "lang": "en", "text": "Could you repeat that, please?" },
+        { "lang": "en", "text": "May I ask who is calling?" }
+      ]
+    },
+    {
+      "title": "Chiedere e dare il permesso",
+      "show": ["Can I share my screen?", "Could I speak to Ms Green?", "Sure, go ahead."],
+      "say": [
+        { "lang": "it", "text": "Per chiedere il permesso si usa can I, could I o may I. Per rispondere di sì puoi dire sure, oppure go ahead." },
+        { "lang": "en", "text": "Could I share my screen?" },
+        { "lang": "en", "text": "Sure, go ahead." }
+      ]
+    },
+    {
+      "title": "Le domande: l'ordine delle parole",
+      "show": ["Where do you work?", "What time does the call start?", "Why can't you join?"],
+      "say": [
+        { "lang": "it", "text": "L'ordine è: parola interrogativa, ausiliare, soggetto, verbo. In inglese serve sempre un ausiliare, come do, does o can." },
+        { "lang": "en", "text": "Where do you work?" },
+        { "lang": "en", "text": "What time does the call start?" }
+      ]
+    },
+    {
+      "title": "Quando la parola interrogativa è il soggetto",
+      "show": ["Who called you?", "What happened?"],
+      "say": [
+        { "lang": "it", "text": "Se chiedi chi fa l'azione, non serve do né did. Si dice who called you, non who did call you." },
+        { "lang": "en", "text": "Who called you this morning?" }
+      ]
+    },
+    {
+      "title": "Quando non capisci",
+      "show": ["Sorry, I didn't catch that.", "Could you speak more slowly?", "How do you spell that?"],
+      "say": [
+        { "lang": "it", "text": "Chiedere di ripetere non è un problema. È normale, anche per chi parla bene l'inglese. Usa queste frasi senza vergogna." },
+        { "lang": "en", "text": "Sorry, I didn't catch that." },
+        { "lang": "en", "text": "Could you speak a little more slowly?" },
+        { "lang": "en", "text": "How do you spell that?" }
+      ]
+    },
+    {
+      "title": "Problemi tecnici nelle videochiamate",
+      "show": ["You're on mute.", "You're breaking up.", "Can everyone see my screen?"],
+      "say": [
+        { "lang": "it", "text": "In videochiamata ci sono sempre problemi di audio e video. Ecco le frasi più utili." },
+        { "lang": "en", "text": "You're on mute. We can't hear you." },
+        { "lang": "en", "text": "You're breaking up. Could you turn off your video?" }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Can / Could / May + verbo", "Wh + do/does + soggetto + verbo", "Sorry, I didn't catch that."],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Per chiedere con garbo usa could o may. Per le domande metti l'ausiliare prima del soggetto. E quando non capisci, chiedi di ripetere." },
+        { "lang": "en", "text": "Could you repeat that, please?" }
+      ]
+    }
+  ]
+}

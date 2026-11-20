@@ -1,0 +1,1250 @@
+{
+  "id": 55,
+  "week": 11,
+  "title": "Gestire un progetto internazionale",
+  "titleEn": "Managing an international project",
+  "intro": "Oggi impari a parlare e scrivere di un progetto con fornitori, clienti e colleghi in paesi diversi: rischi, piani, scadenze e rendicontazione. Impari anche a costruire frasi lunghe ma chiare con i participi (having finished, once approved). Ti serve per mail di stato, report e riunioni con team distribuiti.",
+  "goals": [
+    "Descrivere stato, rischi e ritardi di un progetto con fornitori e stakeholder",
+    "Scrivere frasi lunghe e chiare con having + participio e once/when + participio",
+    "Preparare una mail di aggiornamento (status update) per un comitato di direzione",
+    "Gestire fusi orari, passaggi di consegne e rendicontazione in inglese"
+  ],
+  "words": [
+    {
+      "en": "vendor",
+      "pron": "vènda",
+      "it": "fornitore (di prodotti o servizi)",
+      "type": "noun",
+      "ex": "We are changing our hosting vendor next quarter.",
+      "exIt": "Cambieremo il fornitore di hosting il prossimo trimestre."
+    },
+    {
+      "en": "to subcontract",
+      "pron": "sabkontràkt",
+      "it": "dare in subappalto",
+      "type": "verb",
+      "ex": "The agency subcontracted the translations to a freelancer.",
+      "exIt": "L'agenzia ha dato le traduzioni in subappalto a un freelance."
+    },
+    {
+      "en": "sponsor",
+      "pron": "spònsor",
+      "it": "sponsor del progetto (chi lo finanzia e lo sostiene)",
+      "type": "noun",
+      "ex": "The project sponsor approved the new budget.",
+      "exIt": "Lo sponsor del progetto ha approvato il nuovo budget."
+    },
+    {
+      "en": "contingency plan",
+      "pron": "kontìngiensi plàn",
+      "it": "piano di emergenza, piano B",
+      "type": "noun",
+      "ex": "Do we have a contingency plan if the vendor goes bankrupt?",
+      "exIt": "Abbiamo un piano B se il fornitore fallisce?"
+    },
+    {
+      "en": "risk register",
+      "pron": "risk rèdgister",
+      "it": "registro dei rischi",
+      "type": "noun",
+      "ex": "I have added three new items to the risk register.",
+      "exIt": "Ho aggiunto tre nuove voci al registro dei rischi."
+    },
+    {
+      "en": "bottleneck",
+      "pron": "bòtolnek",
+      "it": "collo di bottiglia",
+      "type": "noun",
+      "ex": "Legal approval is the main bottleneck right now.",
+      "exIt": "L'approvazione legale è il principale collo di bottiglia in questo momento."
+    },
+    {
+      "en": "scope creep",
+      "pron": "skòup krìip",
+      "it": "dilatazione incontrollata dei requisiti",
+      "type": "noun",
+      "ex": "Scope creep is the reason we are two weeks late.",
+      "exIt": "La dilatazione dei requisiti è il motivo per cui siamo in ritardo di due settimane."
+    },
+    {
+      "en": "lead time",
+      "pron": "lìid taim",
+      "it": "tempo di consegna, tempo necessario",
+      "type": "noun",
+      "ex": "The lead time for the hardware is six weeks.",
+      "exIt": "Il tempo di consegna dell'hardware è di sei settimane."
+    },
+    {
+      "en": "to align",
+      "pron": "alàin",
+      "it": "allineare, mettere d'accordo",
+      "type": "verb",
+      "ex": "We need to align expectations before the kick-off.",
+      "exIt": "Dobbiamo allineare le aspettative prima del kick-off."
+    },
+    {
+      "en": "buy-in",
+      "pron": "bài in",
+      "it": "adesione, sostegno convinto",
+      "type": "noun",
+      "ex": "Without management buy-in, the project will stall.",
+      "exIt": "Senza il sostegno della direzione il progetto si bloccherà."
+    },
+    {
+      "en": "steering committee",
+      "pron": "stìiring komìti",
+      "it": "comitato di direzione del progetto",
+      "type": "noun",
+      "ex": "I'll present the results to the steering committee on Thursday.",
+      "exIt": "Presenterò i risultati al comitato di direzione giovedì."
+    },
+    {
+      "en": "status update",
+      "pron": "stèitas àpdeit",
+      "it": "aggiornamento sullo stato dei lavori",
+      "type": "noun",
+      "ex": "I'll send a status update every Friday afternoon.",
+      "exIt": "Manderò un aggiornamento sullo stato dei lavori ogni venerdì pomeriggio."
+    },
+    {
+      "en": "governance",
+      "pron": "gàvernans",
+      "it": "regole di gestione e responsabilità (struttura decisionale)",
+      "type": "noun",
+      "ex": "Clear governance avoids arguments about who decides.",
+      "exIt": "Regole di gestione chiare evitano discussioni su chi decide."
+    },
+    {
+      "en": "audit trail",
+      "pron": "òodit trèil",
+      "it": "traccia verificabile delle operazioni",
+      "type": "noun",
+      "ex": "Keep an audit trail of every change request.",
+      "exIt": "Conserva una traccia verificabile di ogni richiesta di modifica."
+    },
+    {
+      "en": "burn rate",
+      "pron": "bèrn reit",
+      "it": "ritmo di consumo del budget",
+      "type": "noun",
+      "ex": "Our burn rate is higher than planned.",
+      "exIt": "Il nostro ritmo di consumo del budget è più alto del previsto."
+    },
+    {
+      "en": "resource allocation",
+      "pron": "risòrs alokèiscion",
+      "it": "assegnazione delle risorse",
+      "type": "noun",
+      "ex": "Resource allocation is the hardest part of multi-project work.",
+      "exIt": "L'assegnazione delle risorse è la parte più difficile quando si lavora su più progetti."
+    },
+    {
+      "en": "to reallocate",
+      "pron": "riàlokeit",
+      "it": "riassegnare (persone o fondi)",
+      "type": "verb",
+      "ex": "We reallocated two developers to the urgent migration.",
+      "exIt": "Abbiamo riassegnato due sviluppatori alla migrazione urgente."
+    },
+    {
+      "en": "outsourcing",
+      "pron": "àutsoosin",
+      "it": "esternalizzazione",
+      "type": "noun",
+      "ex": "Outsourcing the support saved us money but cost us control.",
+      "exIt": "Esternalizzare il supporto ci ha fatto risparmiare ma ci ha tolto controllo."
+    },
+    {
+      "en": "offshore",
+      "pron": "òfscior",
+      "it": "all'estero, in un paese lontano (di team o sedi)",
+      "type": "adj",
+      "ex": "Our offshore team works while we sleep.",
+      "exIt": "Il nostro team all'estero lavora mentre noi dormiamo."
+    },
+    {
+      "en": "critical path",
+      "pron": "krìtikal pàas",
+      "it": "percorso critico (le attività che non possono slittare)",
+      "type": "noun",
+      "ex": "Any delay on the critical path delays the whole launch.",
+      "exIt": "Qualsiasi ritardo sul percorso critico ritarda l'intero lancio."
+    },
+    {
+      "en": "to de-risk",
+      "pron": "dirìsk",
+      "it": "ridurre il rischio di",
+      "type": "verb",
+      "ex": "A small pilot helps to de-risk the rollout.",
+      "exIt": "Un piccolo pilota aiuta a ridurre il rischio del lancio."
+    },
+    {
+      "en": "single point of failure",
+      "pron": "sìngol point ov fèiliar",
+      "it": "punto unico di guasto (se cede lui, cede tutto)",
+      "type": "phrase",
+      "ex": "One person holding all the passwords is a single point of failure.",
+      "exIt": "Una sola persona che ha tutte le password è un punto unico di guasto."
+    },
+    {
+      "en": "to liaise",
+      "pron": "lièiz",
+      "it": "fare da collegamento, coordinarsi",
+      "type": "verb",
+      "ex": "Marta will liaise with the vendor on delivery dates.",
+      "exIt": "Marta farà da collegamento con il fornitore per le date di consegna."
+    },
+    {
+      "en": "overrun",
+      "pron": "òuvaran",
+      "it": "sforamento (di tempi o costi)",
+      "type": "noun",
+      "ex": "We must explain the cost overrun to the board.",
+      "exIt": "Dobbiamo spiegare lo sforamento dei costi al consiglio."
+    },
+    {
+      "en": "go-live",
+      "pron": "gòu làiv",
+      "it": "messa online, data di avvio in produzione",
+      "type": "noun",
+      "ex": "The go-live is set for the first of October.",
+      "exIt": "La messa online è fissata per il primo ottobre."
+    },
+    {
+      "en": "cutover",
+      "pron": "kàtouvar",
+      "it": "passaggio dal sistema vecchio a quello nuovo",
+      "type": "noun",
+      "ex": "The cutover will happen over the weekend.",
+      "exIt": "Il passaggio al nuovo sistema avverrà nel fine settimana."
+    },
+    {
+      "en": "capacity",
+      "pron": "kapàsiti",
+      "it": "capacità, risorse disponibili",
+      "type": "noun",
+      "ex": "The vendor has no capacity to take on more work this month.",
+      "exIt": "Il fornitore questo mese non ha capacità per altro lavoro."
+    },
+    {
+      "en": "to ring-fence",
+      "pron": "rìng fens",
+      "it": "proteggere (un budget) destinandolo solo a un uso",
+      "type": "verb",
+      "ex": "We ring-fenced part of the budget for testing.",
+      "exIt": "Abbiamo riservato una parte del budget solo ai test."
+    },
+    {
+      "en": "to fast-track",
+      "pron": "fàst trak",
+      "it": "accelerare, far passare con priorità",
+      "type": "verb",
+      "ex": "We can fast-track the approval if you send the documents today.",
+      "exIt": "Possiamo accelerare l'approvazione se mandi i documenti oggi."
+    },
+    {
+      "en": "to descope",
+      "pron": "diskòup",
+      "it": "ridurre l'ambito (togliere funzioni dal progetto)",
+      "type": "verb",
+      "ex": "To meet the deadline, we descoped the reporting module.",
+      "exIt": "Per rispettare la scadenza abbiamo tolto dal progetto il modulo dei report."
+    },
+    {
+      "en": "proof of concept",
+      "pron": "prùuf ov kònsept",
+      "it": "prova di fattibilità",
+      "type": "noun",
+      "ex": "We built a proof of concept before signing the contract.",
+      "exIt": "Abbiamo costruito una prova di fattibilità prima di firmare il contratto."
+    },
+    {
+      "en": "phased rollout",
+      "pron": "fèizd ròulaut",
+      "it": "lancio a fasi",
+      "type": "noun",
+      "ex": "A phased rollout reduces the risk of failure.",
+      "exIt": "Un lancio a fasi riduce il rischio di fallimento."
+    },
+    {
+      "en": "to mobilise",
+      "pron": "mòubilaiz",
+      "it": "mobilitare, mettere in campo (persone o risorse)",
+      "type": "verb",
+      "ex": "We mobilised a second team to meet the deadline.",
+      "exIt": "Abbiamo messo in campo un secondo team per rispettare la scadenza."
+    },
+    {
+      "en": "tender",
+      "pron": "tènda",
+      "it": "gara d'appalto, offerta in una gara",
+      "type": "noun",
+      "ex": "We submitted a tender for the city council project.",
+      "exIt": "Abbiamo presentato un'offerta per il progetto del comune."
+    },
+    {
+      "en": "service level agreement",
+      "pron": "sèrvis lèvol agrìimant",
+      "it": "accordo sul livello di servizio (SLA)",
+      "type": "noun",
+      "ex": "The service level agreement guarantees a four-hour response.",
+      "exIt": "L'accordo sul livello di servizio garantisce una risposta in quattro ore."
+    },
+    {
+      "en": "penalty clause",
+      "pron": "pènalti klòoz",
+      "it": "clausola penale",
+      "type": "noun",
+      "ex": "The contract has a penalty clause for late delivery.",
+      "exIt": "Il contratto ha una clausola penale per la consegna in ritardo."
+    },
+    {
+      "en": "force majeure",
+      "pron": "fòos magèr",
+      "it": "causa di forza maggiore",
+      "type": "noun",
+      "ex": "The delay was caused by force majeure, so there is no penalty.",
+      "exIt": "Il ritardo è stato causato da forza maggiore, quindi non c'è penale."
+    },
+    {
+      "en": "to benchmark",
+      "pron": "bèncimaak",
+      "it": "confrontare con un parametro di riferimento",
+      "type": "verb",
+      "ex": "We benchmarked three vendors before choosing one.",
+      "exIt": "Abbiamo confrontato tre fornitori prima di sceglierne uno."
+    },
+    {
+      "en": "to cascade",
+      "pron": "kaskèid",
+      "it": "trasmettere a cascata (informazioni ai livelli sotto)",
+      "type": "verb",
+      "ex": "Please cascade this update to your teams.",
+      "exIt": "Per favore trasmetti questo aggiornamento ai tuoi team."
+    },
+    {
+      "en": "contingent on",
+      "pron": "kontìngient on",
+      "it": "condizionato a, subordinato a",
+      "type": "adj",
+      "ex": "The second payment is contingent on the final approval.",
+      "exIt": "Il secondo pagamento è subordinato all'approvazione finale."
+    },
+    {
+      "en": "request for proposal",
+      "pron": "rikuèst for propòuzal",
+      "it": "richiesta di offerta (RFP)",
+      "type": "noun",
+      "ex": "We sent a request for proposal to five agencies.",
+      "exIt": "Abbiamo mandato una richiesta di offerta a cinque agenzie."
+    },
+    {
+      "en": "to pivot",
+      "pron": "pìvot",
+      "it": "cambiare direzione strategica",
+      "type": "verb",
+      "ex": "After the pilot, we decided to pivot to a mobile-first approach.",
+      "exIt": "Dopo la fase pilota abbiamo deciso di cambiare strategia puntando sul mobile."
+    },
+    {
+      "en": "hypercare",
+      "pron": "hàipakea",
+      "it": "assistenza rafforzata subito dopo il lancio",
+      "type": "noun",
+      "ex": "The hypercare period lasts two weeks after go-live.",
+      "exIt": "Il periodo di assistenza rafforzata dura due settimane dopo la messa online."
+    },
+    {
+      "en": "Gantt chart",
+      "pron": "gànt ciàrt",
+      "it": "diagramma di Gantt (calendario a barre)",
+      "type": "noun",
+      "ex": "The Gantt chart shows all the dependencies.",
+      "exIt": "Il diagramma di Gantt mostra tutte le dipendenze."
+    },
+    {
+      "en": "counterpart",
+      "pron": "kàuntapaat",
+      "it": "controparte, omologo (nell'altra azienda)",
+      "type": "noun",
+      "ex": "My counterpart at the vendor is based in Poland.",
+      "exIt": "Il mio omologo presso il fornitore è in Polonia."
+    },
+    {
+      "en": "attrition",
+      "pron": "atrìscion",
+      "it": "perdita graduale di personale",
+      "type": "noun",
+      "ex": "High attrition at the vendor is a risk for us.",
+      "exIt": "L'alto ricambio di personale del fornitore è un rischio per noi."
+    },
+    {
+      "en": "to underwrite",
+      "pron": "andaràit",
+      "it": "garantire finanziariamente, farsi carico del costo",
+      "type": "verb",
+      "ex": "The sponsor agreed to underwrite the extra costs.",
+      "exIt": "Lo sponsor ha accettato di farsi carico dei costi extra."
+    },
+    {
+      "en": "to procure",
+      "pron": "prokiùa",
+      "it": "acquistare, procurarsi (in senso formale)",
+      "type": "verb",
+      "ex": "The finance team will procure the licences.",
+      "exIt": "Il team amministrativo acquisterà le licenze."
+    },
+    {
+      "en": "to sunset",
+      "pron": "sànset",
+      "it": "dismettere gradualmente (un servizio)",
+      "type": "verb",
+      "ex": "We plan to sunset the old portal in December.",
+      "exIt": "Pensiamo di dismettere il vecchio portale a dicembre."
+    },
+    {
+      "en": "to decommission",
+      "pron": "dikomìscion",
+      "it": "mettere fuori servizio, dismettere",
+      "type": "verb",
+      "ex": "We will decommission the old servers after the cutover.",
+      "exIt": "Metteremo fuori servizio i vecchi server dopo il passaggio al nuovo sistema."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to attend",
+      "it": "partecipare (a una riunione, a un evento)",
+      "trap": "Non vuol dire 'attendere' (= to wait). 'Ten people attended the kick-off' = dieci persone hanno partecipato al kick-off."
+    },
+    {
+      "en": "sponsor",
+      "it": "chi finanzia e sostiene il progetto",
+      "trap": "In un progetto non è la pubblicità: lo sponsor è la persona in direzione che appoggia il progetto e decide sul budget."
+    },
+    {
+      "en": "to resume",
+      "it": "riprendere",
+      "trap": "Non vuol dire 'riassumere' (= to summarise). Resume è anche il CV in inglese americano."
+    }
+  ],
+  "grammar": {
+    "title": "Frasi lunghe e chiare: participi e subordinate",
+    "explainIt": [
+      "Nei report e nelle mail di progetto servono frasi che collegano due azioni senza ripetere il soggetto. In inglese lo fai con i participi. Esempio: 'Having reviewed the plan, we approved the budget.' Vuol dire: prima abbiamo letto il piano, poi abbiamo approvato il budget. È una frase più compatta di 'We reviewed the plan and then we approved the budget'.",
+      "La forma 'having + participio passato' mostra che un'azione è finita prima di un'altra. Il soggetto deve essere lo stesso nelle due parti della frase. 'Having signed the contract, the vendor started work' è giusto perché il vendor ha firmato e il vendor ha iniziato. La forma negativa è 'not having + participio': 'Not having received the files, we could not start.'",
+      "Dopo once, when, if, until puoi accorciare la frase e togliere il soggetto e il verbo essere. 'Once the report is approved, it goes to the client' diventa 'Once approved, the report goes to the client'. Si usa molto nelle istruzioni e nei piani: 'When finished, upload the file here.' Dopo after, before e while si usa invece la forma in -ing: 'After testing the build, he released it.'",
+      "Il participio presente (-ing) dà una causa o un'azione nello stesso momento: 'Working across three time zones, we agreed a single overlap hour.' Il participio passato ha senso passivo: 'Delayed by customs, the servers arrived a week late.' Significa: i server erano stati ritardati dalla dogana.",
+      "Attenzione all'errore più comune: il soggetto della frase principale deve essere anche chi compie l'azione del participio. 'Walking into the meeting, the phone rang' è sbagliato, perché sembra che il telefono camminasse. Meglio: 'As I walked into the meeting, the phone rang.' Controlla sempre: chi fa l'azione?"
+    ],
+    "explainEn": [
+      "In project reports and emails you often need to join two actions without repeating the subject. English uses participles for this. Example: 'Having reviewed the plan, we approved the budget.' It means we reviewed the plan first and then we approved the budget. It is shorter than 'We reviewed the plan and then we approved the budget'.",
+      "The form 'having + past participle' shows that one action finished before another one. The subject must be the same in both parts of the sentence. 'Having signed the contract, the vendor started work' is correct because the vendor signed and the vendor started. The negative form is 'not having + past participle': 'Not having received the files, we could not start.'",
+      "After once, when, if and until you can shorten the clause and remove the subject and the verb to be. 'Once the report is approved, it goes to the client' becomes 'Once approved, the report goes to the client'. This is common in instructions and plans: 'When finished, upload the file here.' After after, before and while, use the -ing form instead: 'After testing the build, he released it.'",
+      "The present participle (-ing) gives a reason or an action at the same time: 'Working across three time zones, we agreed a single overlap hour.' The past participle has a passive meaning: 'Delayed by customs, the servers arrived a week late.' It means the servers had been delayed by customs.",
+      "Be careful with the most common mistake: the subject of the main clause must also be the person or thing doing the participle action. 'Walking into the meeting, the phone rang' is wrong, because it sounds like the phone was walking. Better: 'As I walked into the meeting, the phone rang.' Always check: who is doing the action?"
+    ],
+    "rules": [
+      {
+        "it": "Having + participio passato: un'azione finita prima di un'altra, con lo stesso soggetto.",
+        "en": "Having + past participle: one action is finished before another, with the same subject.",
+        "form": "Having + participio passato, soggetto + verbo",
+        "examples": [
+          {
+            "en": "Having finished the audit, we sent the report to the client.",
+            "it": "Finito l'audit, abbiamo mandato il report al cliente."
+          },
+          {
+            "en": "Having agreed the scope, the two teams started planning.",
+            "it": "Concordato l'ambito, i due team hanno iniziato a pianificare."
+          },
+          {
+            "en": "Not having heard from the vendor, I escalated the issue.",
+            "it": "Non avendo avuto notizie dal fornitore, ho portato il problema più in alto."
+          }
+        ]
+      },
+      {
+        "it": "Once, when, if + participio passato: si accorcia la frase togliendo soggetto e verbo essere. After, before, while + -ing.",
+        "en": "Once, when, if + past participle: shorten the clause by dropping the subject and the verb to be. After, before, while + -ing.",
+        "form": "Once/When + participio passato, ... | After/Before + -ing, ...",
+        "examples": [
+          {
+            "en": "Once approved, the plan goes to the steering committee.",
+            "it": "Una volta approvato, il piano va al comitato di direzione."
+          },
+          {
+            "en": "When completed, the form is sent to finance.",
+            "it": "Una volta compilato, il modulo viene inviato all'amministrazione."
+          },
+          {
+            "en": "After testing the release, we rolled it out in Spain.",
+            "it": "Dopo aver testato la versione, l'abbiamo distribuita in Spagna."
+          }
+        ]
+      },
+      {
+        "it": "Participio presente (-ing): dà il motivo o un'azione contemporanea.",
+        "en": "Present participle (-ing): gives a reason or a simultaneous action.",
+        "form": "-ing, soggetto + verbo",
+        "examples": [
+          {
+            "en": "Working with offshore teams, we always share a written summary.",
+            "it": "Lavorando con team all'estero, condividiamo sempre un riassunto scritto."
+          },
+          {
+            "en": "Knowing the deadline was tight, she reduced the scope.",
+            "it": "Sapendo che la scadenza era stretta, ha ridotto l'ambito."
+          }
+        ]
+      },
+      {
+        "it": "Participio passato a inizio frase: ha valore passivo ed è molto usato nei report.",
+        "en": "Past participle at the start of a sentence: it has a passive meaning and is common in reports.",
+        "form": "Participio passato (+ by ...), soggetto + verbo",
+        "examples": [
+          {
+            "en": "Delayed by customs, the servers arrived a week late.",
+            "it": "Fermati dalla dogana, i server sono arrivati con una settimana di ritardo."
+          },
+          {
+            "en": "Written in plain language, the report was easy to approve.",
+            "it": "Scritto in un linguaggio semplice, il report è stato facile da approvare."
+          }
+        ]
+      },
+      {
+        "it": "Il participio ha lo stesso soggetto della frase principale. Se non è così, usa una frase completa con soggetto proprio.",
+        "en": "The participle has the same subject as the main clause. If not, use a full clause with its own subject.",
+        "form": "Stesso soggetto! Altrimenti: As / Because + soggetto + verbo",
+        "examples": [
+          {
+            "en": "As the vendor was late, we lost two days.",
+            "it": "Poiché il fornitore era in ritardo, abbiamo perso due giorni."
+          },
+          {
+            "en": "Because the budget was cut, we reduced the scope.",
+            "it": "Poiché il budget è stato tagliato, abbiamo ridotto l'ambito."
+          }
+        ]
+      }
+    ],
+    "tip": "Prima di usare un participio all'inizio della frase, chiediti: 'Chi ha fatto questa azione?' Se la risposta è lo stesso soggetto che viene subito dopo la virgola, la frase è giusta. Altrimenti usa as, because o when con un soggetto.",
+    "mistakes": [
+      {
+        "wrong": "Having finished the work, the report was sent.",
+        "right": "Having finished the work, we sent the report.",
+        "why": "il soggetto del participio (noi) deve essere anche il soggetto della frase principale"
+      },
+      {
+        "wrong": "Once the plan will be approved, we start.",
+        "right": "Once the plan is approved, we start.",
+        "why": "dopo once, when, after si usa il presente (o il present perfect), mai il futuro"
+      },
+      {
+        "wrong": "After to test the build, he released it.",
+        "right": "After testing the build, he released it.",
+        "why": "dopo after e before si usa la forma in -ing, non 'to + verbo'"
+      },
+      {
+        "wrong": "Not having the files received, we waited.",
+        "right": "Not having received the files, we waited.",
+        "why": "la negazione va prima di having, e il participio segue subito dopo"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "___ (finish) the audit, we sent the report to the client.",
+      "a": [
+        "having finished"
+      ],
+      "hint": "prima finito, poi mandato",
+      "explain": "Azione finita prima di un'altra, stesso soggetto: having + participio passato."
+    },
+    {
+      "q": "___ approved, the budget goes to finance.",
+      "a": [
+        "once",
+        "when",
+        "once it is",
+        "when it is"
+      ],
+      "hint": "una volta approvato",
+      "explain": "Once + participio passato accorcia 'once it is approved'."
+    },
+    {
+      "q": "___ (work) in three time zones, we agree on one overlap hour.",
+      "a": [
+        "working"
+      ],
+      "hint": "azione contemporanea",
+      "explain": "Il participio presente dà il motivo o la situazione."
+    },
+    {
+      "q": "___ (sign) the contract, the vendor started work on Monday.",
+      "a": [
+        "having signed"
+      ],
+      "hint": "prima firmato",
+      "explain": "Having + participio passato per l'azione precedente."
+    },
+    {
+      "q": "Delayed ___ customs, the servers arrived late.",
+      "a": [
+        "by"
+      ],
+      "hint": "chi ha causato il ritardo",
+      "explain": "Nel participio passato l'agente si introduce con by."
+    },
+    {
+      "q": "The report, ___ (write) by the PMO, lists all the risks.",
+      "a": [
+        "written"
+      ],
+      "hint": "senso passivo",
+      "explain": "Participio passato: il report è stato scritto dal PMO."
+    },
+    {
+      "q": "___ (not receive) the files, we could not start.",
+      "a": [
+        "not having received",
+        "having not received"
+      ],
+      "hint": "negativo, azione precedente",
+      "explain": "Forma negativa: not having + participio passato."
+    },
+    {
+      "q": "After ___ (test) the build, he released it.",
+      "a": [
+        "testing",
+        "having tested"
+      ],
+      "hint": "dopo after",
+      "explain": "Dopo after si usa la forma in -ing (o having + participio)."
+    },
+    {
+      "q": "When ___ (ask) about the delay, the manager changed the subject.",
+      "a": [
+        "asked"
+      ],
+      "hint": "when + participio passato",
+      "explain": "When + participio passato = 'quando gli è stato chiesto'."
+    },
+    {
+      "q": "___ (identify) the risks, we wrote a contingency plan.",
+      "a": [
+        "having identified"
+      ],
+      "hint": "prima identificato",
+      "explain": "Azione precedente con lo stesso soggetto: having identified."
+    },
+    {
+      "q": "Once the supplier ___ (confirm), we will book the flights.",
+      "a": [
+        "confirms",
+        "has confirmed",
+        "'s confirmed"
+      ],
+      "hint": "dopo once non c'è il futuro",
+      "explain": "Dopo once si usa il presente o il present perfect, mai will."
+    },
+    {
+      "q": "Please send me the plan, ___ (include) all the milestones.",
+      "a": [
+        "including"
+      ],
+      "hint": "participio presente",
+      "explain": "Il participio -ing aggiunge un dettaglio: 'comprese tutte le tappe'."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Stato del progetto",
+      "en": "We are currently on track.",
+      "it": "Al momento siamo in linea con il piano.",
+      "note": "frase standard dei report di stato"
+    },
+    {
+      "group": "Stato del progetto",
+      "en": "We are about two weeks behind schedule.",
+      "it": "Siamo in ritardo di circa due settimane.",
+      "note": "dire sempre di quanto"
+    },
+    {
+      "group": "Stato del progetto",
+      "en": "The launch date has slipped to the end of May.",
+      "it": "La data di lancio è slittata a fine maggio."
+    },
+    {
+      "group": "Stato del progetto",
+      "en": "Having completed phase one, we are moving on to testing.",
+      "it": "Completata la prima fase, passiamo ai test."
+    },
+    {
+      "group": "Stato del progetto",
+      "en": "The main deliverables have been signed off.",
+      "it": "I principali deliverable sono stati approvati formalmente."
+    },
+    {
+      "group": "Rischi e problemi",
+      "en": "I'd like to flag a risk with the delivery date.",
+      "it": "Vorrei segnalare un rischio sulla data di consegna."
+    },
+    {
+      "group": "Rischi e problemi",
+      "en": "Let's see how we can mitigate this.",
+      "it": "Vediamo come possiamo ridurre questo rischio."
+    },
+    {
+      "group": "Rischi e problemi",
+      "en": "If this isn't resolved by Friday, we'll have to escalate it.",
+      "it": "Se non si risolve entro venerdì, dovremo portarlo a un livello superiore."
+    },
+    {
+      "group": "Rischi e problemi",
+      "en": "Is there a workaround in the meantime?",
+      "it": "Nel frattempo c'è una soluzione temporanea?"
+    },
+    {
+      "group": "Rischi e problemi",
+      "en": "This is outside the agreed scope.",
+      "it": "Questo è fuori dall'ambito concordato.",
+      "note": "utile contro lo scope creep"
+    },
+    {
+      "group": "Fornitori e fusi orari",
+      "en": "Which time zone are you in?",
+      "it": "In che fuso orario siete?"
+    },
+    {
+      "group": "Fornitori e fusi orari",
+      "en": "Could we find an hour that overlaps for both teams?",
+      "it": "Possiamo trovare un'ora in cui i due team sono entrambi al lavoro?"
+    },
+    {
+      "group": "Fornitori e fusi orari",
+      "en": "What is your usual turnaround on change requests?",
+      "it": "Qual è il vostro tempo di lavorazione abituale sulle richieste di modifica?"
+    },
+    {
+      "group": "Fornitori e fusi orari",
+      "en": "Please confirm in writing so we have an audit trail.",
+      "it": "Per favore conferma per iscritto, così abbiamo una traccia."
+    },
+    {
+      "group": "Fornitori e fusi orari",
+      "en": "Marta will liaise with your team from now on.",
+      "it": "Da adesso sarà Marta a coordinarsi con il vostro team."
+    },
+    {
+      "group": "Riunioni di comitato",
+      "en": "Thank you all for joining despite the time difference.",
+      "it": "Grazie a tutti per aver partecipato nonostante la differenza di orario."
+    },
+    {
+      "group": "Riunioni di comitato",
+      "en": "Let me walk you through the key milestones.",
+      "it": "Vi illustro le tappe principali."
+    },
+    {
+      "group": "Riunioni di comitato",
+      "en": "We need buy-in from every stakeholder before we proceed.",
+      "it": "Serve il consenso di ogni parte interessata prima di procedere."
+    },
+    {
+      "group": "Riunioni di comitato",
+      "en": "Once approved, the plan will be shared with all the teams.",
+      "it": "Una volta approvato, il piano sarà condiviso con tutti i team."
+    },
+    {
+      "group": "Riunioni di comitato",
+      "en": "Who has ownership of this action?",
+      "it": "Chi è responsabile di questa azione?"
+    },
+    {
+      "group": "Rendicontazione",
+      "en": "The budget variance is minus three percent.",
+      "it": "Lo scostamento di budget è meno tre per cento."
+    },
+    {
+      "group": "Rendicontazione",
+      "en": "We forecast a small overrun in the final phase.",
+      "it": "Prevediamo un piccolo sforamento nella fase finale."
+    },
+    {
+      "group": "Rendicontazione",
+      "en": "I'll send a status update every Friday by five.",
+      "it": "Manderò un aggiornamento di stato ogni venerdì entro le cinque."
+    },
+    {
+      "group": "Rendicontazione",
+      "en": "We'll hold a lessons learned session after the launch.",
+      "it": "Faremo una sessione sulle lezioni apprese dopo il lancio."
+    },
+    {
+      "group": "Rendicontazione",
+      "en": "Please see the attached risk register for details.",
+      "it": "Per i dettagli vedi in allegato il registro dei rischi."
+    }
+  ],
+  "dialogue": {
+    "title": "The weekly project call",
+    "context": "Luca coordina un progetto con un fornitore a Bangalore e un cliente a Londra. Parla con Priya, project manager del fornitore, nella chiamata settimanale.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thanks for joining, Priya. I know it's late for you.",
+        "it": "Grazie per esserti collegata, Priya. So che da voi è tardi."
+      },
+      {
+        "s": "B",
+        "name": "Priya",
+        "en": "No problem. Having finished the testing, we have good news.",
+        "it": "Nessun problema. Finiti i test, abbiamo buone notizie."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Great. Are we still on track for the first milestone?",
+        "it": "Ottimo. Siamo ancora in linea per la prima tappa?"
+      },
+      {
+        "s": "B",
+        "name": "Priya",
+        "en": "Mostly. The API is ready, but the payment module is two days behind schedule.",
+        "it": "In gran parte. Le API sono pronte, ma il modulo di pagamento è in ritardo di due giorni."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Is that on the critical path?",
+        "it": "Questo è sul percorso critico?"
+      },
+      {
+        "s": "B",
+        "name": "Priya",
+        "en": "Yes, unfortunately. Delayed by a change request, it blocks the front-end team.",
+        "it": "Sì, purtroppo. Rallentato da una richiesta di modifica, blocca il team front-end."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "I'd like to flag a risk here. This sounds like scope creep.",
+        "it": "Vorrei segnalare un rischio. Mi sembra una dilatazione dei requisiti."
+      },
+      {
+        "s": "B",
+        "name": "Priya",
+        "en": "I agree. The client keeps adding small requests. We need a clear sign-off process.",
+        "it": "Sono d'accordo. Il cliente continua ad aggiungere piccole richieste. Serve un processo di approvazione chiaro."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Let's escalate it to the steering committee. Can you send me the details for the risk register?",
+        "it": "Portiamolo al comitato di direzione. Puoi mandarmi i dettagli per il registro dei rischi?"
+      },
+      {
+        "s": "B",
+        "name": "Priya",
+        "en": "Of course. Once your sponsor approves it, we can reallocate two developers to the payment module.",
+        "it": "Certo. Appena il vostro sponsor lo approva, possiamo riassegnare due sviluppatori al modulo di pagamento."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "That would help. What is the trade-off?",
+        "it": "Sarebbe utile. Qual è il compromesso?"
+      },
+      {
+        "s": "B",
+        "name": "Priya",
+        "en": "The reporting dashboard would slip by a week.",
+        "it": "La dashboard dei report slitterebbe di una settimana."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "That's acceptable. Please confirm it in writing, so we have an audit trail.",
+        "it": "È accettabile. Per favore conferma per iscritto, così abbiamo una traccia."
+      },
+      {
+        "s": "B",
+        "name": "Priya",
+        "en": "Will do. I'll send a status update by the end of my day.",
+        "it": "Lo faccio. Mando un aggiornamento entro la fine della mia giornata."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Perfect. Thanks, and get some rest!",
+        "it": "Perfetto. Grazie, e riposati!"
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "Why is the payment module a problem?",
+      "options": [
+        "It is on the critical path and two days late",
+        "It is ahead of schedule",
+        "It was cancelled by the client"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Luca think the real problem is?",
+      "options": [
+        "A broken API",
+        "Scope creep from the client",
+        "A lack of developers"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What will they do with the problem?",
+      "options": [
+        "Ignore it for a week",
+        "Escalate it to the steering committee",
+        "Cancel the project"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is the trade-off of moving two developers?",
+      "options": [
+        "The dashboard slips by a week",
+        "The budget doubles",
+        "The API will be removed"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Finito l'audit, abbiamo mandato il report al cliente.",
+      "en": "Having finished the audit, we sent the report to the client.",
+      "alt": [
+        "Having completed the audit, we sent the report to the client.",
+        "After finishing the audit, we sent the report to the client."
+      ]
+    },
+    {
+      "it": "Una volta approvato, il piano sarà condiviso con tutti i team.",
+      "en": "Once approved, the plan will be shared with all the teams.",
+      "alt": [
+        "Once it is approved, the plan will be shared with all the teams.",
+        "Once it has been approved, we will share the plan with all the teams."
+      ]
+    },
+    {
+      "it": "Siamo in ritardo di due settimane sul programma.",
+      "en": "We are two weeks behind schedule.",
+      "alt": [
+        "We are two weeks late.",
+        "We are running two weeks behind schedule."
+      ]
+    },
+    {
+      "it": "Vorrei segnalare un rischio sulla data di consegna.",
+      "en": "I'd like to flag a risk with the delivery date.",
+      "alt": [
+        "I would like to flag a risk with the delivery date.",
+        "I'd like to flag a risk regarding the delivery date."
+      ]
+    },
+    {
+      "it": "Se il fornitore non risponde entro venerdì, porteremo il problema al suo direttore.",
+      "en": "If the vendor does not reply by Friday, we will escalate the issue to their director.",
+      "alt": [
+        "If the vendor doesn't reply by Friday, we'll escalate the issue to their director.",
+        "If the supplier does not reply by Friday, we will escalate the problem to their director."
+      ]
+    },
+    {
+      "it": "Non avendo ricevuto i file, non abbiamo potuto iniziare.",
+      "en": "Not having received the files, we could not start.",
+      "alt": [
+        "Not having received the files, we couldn't start.",
+        "As we had not received the files, we could not start."
+      ]
+    },
+    {
+      "it": "Lavoriamo su quattro fusi orari, quindi manderò un riassunto scritto dopo ogni chiamata.",
+      "en": "We work across four time zones, so I'll send a written summary after every call.",
+      "alt": [
+        "We work in four time zones, so I will send a written summary after each call.",
+        "We work in four different time zones, so I'll send a written summary after each call."
+      ]
+    },
+    {
+      "it": "La data di lancio è slittata di una settimana a causa di una richiesta di modifica.",
+      "en": "The launch date has slipped by a week because of a change request.",
+      "alt": [
+        "The launch date slipped by a week because of a change request.",
+        "The launch date has slipped by a week due to a change request."
+      ]
+    },
+    {
+      "it": "Ho aggiunto questo rischio al registro dei rischi.",
+      "en": "I've added this risk to the risk register.",
+      "alt": [
+        "I have added this risk to the risk register.",
+        "I added this risk to the risk register."
+      ]
+    },
+    {
+      "it": "C'è sempre un compromesso tra velocità e qualità.",
+      "en": "There is always a trade-off between speed and quality.",
+      "alt": [
+        "There's always a trade-off between speed and quality.",
+        "There is always a compromise between speed and quality."
+      ]
+    },
+    {
+      "it": "Ci serve il consenso di ogni parte interessata prima di procedere.",
+      "en": "We need buy-in from every stakeholder before we proceed.",
+      "alt": [
+        "We need every stakeholder's buy-in before we proceed.",
+        "We need every stakeholder to agree before we go ahead."
+      ]
+    },
+    {
+      "it": "Manderò un aggiornamento di stato ogni venerdì.",
+      "en": "I'll send a status update every Friday.",
+      "alt": [
+        "I will send a status update every Friday.",
+        "I'll send you a status update each Friday."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail di aggiornamento (status update) al comitato di direzione. Il progetto è un nuovo portale per un cliente, con un fornitore all'estero. Di' che la fase di design è finita in anticipo, che i test sono in ritardo di una settimana per una richiesta di modifica, quali rischi hai segnalato e cosa chiedi al comitato. Usa almeno due frasi con participi (having finished, once approved). Scrivi 6-8 righe.",
+    "taskEn": "Write a status update email to the steering committee. The project is a new portal for a client, with an offshore vendor. Say that the design phase finished ahead of schedule, that testing is one week behind because of a change request, which risks you have flagged and what you ask the committee to do. Use at least two sentences with participles (having finished, once approved). Write 6-8 lines.",
+    "model": "Subject: Project status update - client portal\n\nDear all,\n\nHere is the weekly update on the client portal project.\n\nHaving finished the design phase ahead of schedule, we moved on to development and testing. Testing is now one week behind schedule because of a late change request from the client.\n\nI have added two items to the risk register: possible scope creep and the vendor's limited availability in August. We can mitigate both by agreeing a fixed list of requirements.\n\nOnce approved by the steering committee, the revised plan will be shared with the vendor. Could you please confirm your decision by Thursday?\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Having finished the testing, we are ready to roll out.",
+      "We are currently on track, but there is one risk I'd like to flag.",
+      "Once approved, the plan will be shared with all the teams.",
+      "If this isn't resolved by Friday, we'll have to escalate it.",
+      "Is there a workaround in the meantime?",
+      "Delayed by a change request, the module is two days behind schedule.",
+      "Please confirm in writing so we have an audit trail.",
+      "Let me walk you through the key milestones."
+    ],
+    "prompts": [
+      {
+        "en": "Describe the last project you worked on with people in different places.",
+        "it": "Descrivi l'ultimo progetto fatto con persone in luoghi diversi.",
+        "help": "Inizia con: I worked on a project with... / The team was spread across..."
+      },
+      {
+        "en": "What is the biggest risk in a project like a website redesign?",
+        "it": "Qual è il rischio più grande in un progetto come il rifacimento di un sito?",
+        "help": "Usa: scope creep, bottleneck, dependency, deadline"
+      },
+      {
+        "en": "How do you keep stakeholders informed?",
+        "it": "Come tieni informate le parti interessate?",
+        "help": "Usa: status update, weekly call, written summary"
+      },
+      {
+        "en": "A vendor is late. What do you say to them?",
+        "it": "Un fornitore è in ritardo. Cosa gli dici?",
+        "help": "Usa: I'd like to flag... / If this isn't resolved by... we will escalate"
+      },
+      {
+        "en": "Tell me about a project that went wrong and what you learned.",
+        "it": "Parlami di un progetto andato male e di cosa hai imparato.",
+        "help": "Usa: lessons learned, having..., the root cause was..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: progetti con team in tanti paesi",
+      "show": [
+        "Managing an international project",
+        "Fornitori, rischi, piani, rendicontazione",
+        "Frasi lunghe e chiare con i participi"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi parliamo di progetti internazionali. Imparerai le parole per fornitori, rischi, tappe e rendicontazione. E imparerai a scrivere frasi più lunghe ma chiare, con i participi."
+        },
+        {
+          "lang": "en",
+          "text": "Having finished the design, we are moving on to testing."
+        }
+      ]
+    },
+    {
+      "title": "Lessico: fornitori e stakeholder",
+      "show": [
+        "vendor = fornitore",
+        "stakeholder = parte interessata",
+        "sponsor = chi sostiene il progetto"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Vendor è il fornitore. Stakeholder è chiunque abbia un interesse nel progetto. Lo sponsor è la persona in direzione che sostiene il progetto e decide sul budget."
+        },
+        {
+          "lang": "en",
+          "text": "We need buy-in from every stakeholder before we proceed."
+        }
+      ]
+    },
+    {
+      "title": "Lessico: rischi e ritardi",
+      "show": [
+        "to mitigate = ridurre un rischio",
+        "to escalate = portare più in alto",
+        "to slip = slittare",
+        "scope creep"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Mitigate vuol dire ridurre un rischio. Escalate vuol dire portare un problema a un livello superiore. Slip vuol dire slittare. E scope creep è quando i requisiti crescono senza controllo."
+        },
+        {
+          "lang": "en",
+          "text": "The launch date has slipped by a week because of scope creep."
+        }
+      ]
+    },
+    {
+      "title": "Grammatica 1: having più participio",
+      "show": [
+        "Having + participio passato",
+        "Having finished the audit, we sent the report.",
+        "Prima una cosa, poi l'altra. Stesso soggetto."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Having più participio passato mostra che un'azione è finita prima di un'altra. Il soggetto deve essere lo stesso nelle due parti. Per la negazione, metti not prima di having."
+        },
+        {
+          "lang": "en",
+          "text": "Having finished the audit, we sent the report to the client."
+        },
+        {
+          "lang": "en",
+          "text": "Not having received the files, we could not start."
+        }
+      ]
+    },
+    {
+      "title": "Grammatica 2: once e when con il participio",
+      "show": [
+        "Once approved, the plan goes to the committee.",
+        "When finished, upload the file.",
+        "After testing the build, he released it."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Dopo once e when puoi togliere soggetto e verbo essere. Once approved vuol dire una volta approvato. Dopo after e before usa la forma in ing. E ricorda: dopo once non si usa mai il futuro."
+        },
+        {
+          "lang": "en",
+          "text": "Once approved, the plan will be shared with all the teams."
+        }
+      ]
+    },
+    {
+      "title": "Grammatica 3: participio presente e passato",
+      "show": [
+        "Working across three time zones, we agreed on one overlap hour.",
+        "Delayed by customs, the servers arrived late."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il participio presente in ing dà il motivo o un'azione contemporanea. Il participio passato ha senso passivo. Controlla sempre chi compie l'azione: deve essere il soggetto della frase principale."
+        },
+        {
+          "lang": "en",
+          "text": "Working across three time zones, we agreed on one overlap hour."
+        },
+        {
+          "lang": "en",
+          "text": "Delayed by customs, the servers arrived a week late."
+        }
+      ]
+    },
+    {
+      "title": "Espressioni chiave per lo stato del progetto",
+      "show": [
+        "We are on track.",
+        "We are two weeks behind schedule.",
+        "I'd like to flag a risk.",
+        "Is there a workaround?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Queste frasi servono in ogni riunione di stato. Di' sempre di quanto sei in ritardo, e segnala i rischi presto."
+        },
+        {
+          "lang": "en",
+          "text": "We are about two weeks behind schedule."
+        },
+        {
+          "lang": "en",
+          "text": "I'd like to flag a risk with the delivery date."
+        }
+      ]
+    },
+    {
+      "title": "Espressioni chiave per fornitori e rendicontazione",
+      "show": [
+        "Please confirm in writing.",
+        "I'll send a status update every Friday.",
+        "The budget variance is minus three percent."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Con i fornitori all'estero conviene mettere tutto per iscritto, così hai una traccia. Per la rendicontazione, usa numeri chiari e date precise."
+        },
+        {
+          "lang": "en",
+          "text": "Please confirm in writing, so we have an audit trail."
+        },
+        {
+          "lang": "en",
+          "text": "I'll send a status update every Friday by five."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Having + participio",
+        "Once approved",
+        "Controlla il soggetto",
+        "Segnala i rischi presto"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Having più participio per un'azione finita prima. Once e when più participio per accorciare. Controlla sempre il soggetto. E nei progetti internazionali segnala i rischi presto e scrivi tutto."
+        },
+        {
+          "lang": "en",
+          "text": "Once approved, the plan will be rolled out."
+        }
+      ]
+    }
+  ]
+}

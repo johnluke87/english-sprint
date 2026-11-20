@@ -1,0 +1,320 @@
+{
+  "id": 6,
+  "week": 2,
+  "title": "Progetti e scadenze",
+  "titleEn": "Projects and deadlines",
+  "intro": "Oggi impari a parlare dello stato di un progetto: cosa avete fatto, da quanto tempo ci lavorate, se siete in orario o in ritardo. Studi il present perfect continuous e la differenza tra for e since. È il linguaggio delle riunioni di avanzamento e delle mail al cliente.",
+  "goals": [
+    "Dire da quanto tempo lavori a un progetto",
+    "Usare il present perfect continuous per azioni iniziate nel passato e ancora in corso",
+    "Scegliere tra for e since senza errori",
+    "Descrivere fasi, milestone e stato di avanzamento",
+    "Avvisare con garbo di un ritardo e proporre un nuovo piano"
+  ],
+  "words": [
+    { "en": "to launch", "pron": "lòonc", "it": "lanciare (un prodotto, un sito)", "type": "verb", "ex": "We plan to launch the website in June.", "exIt": "Prevediamo di lanciare il sito a giugno." },
+    { "en": "to kick off", "pron": "kìk òf", "it": "dare il via, iniziare ufficialmente", "type": "verb", "ex": "We'll kick off the project on Monday.", "exIt": "Daremo il via al progetto lunedì." },
+    { "en": "to complete", "pron": "komplìit", "it": "completare, portare a termine", "type": "verb", "ex": "We completed the first phase last week.", "exIt": "Abbiamo completato la prima fase la settimana scorsa." },
+    { "en": "to plan", "pron": "plàn", "it": "pianificare, programmare", "type": "verb", "ex": "We're planning the next sprint on Friday.", "exIt": "Venerdì pianifichiamo il prossimo sprint." },
+    { "en": "to monitor", "pron": "mònitor", "it": "monitorare, tenere sotto controllo", "type": "verb", "ex": "I monitor the progress every day.", "exIt": "Monitoro l'avanzamento ogni giorno." },
+    { "en": "to track", "pron": "tràk", "it": "tracciare, seguire (l'andamento)", "type": "verb", "ex": "We track our hours in a spreadsheet.", "exIt": "Teniamo traccia delle nostre ore in un foglio di calcolo." },
+    { "en": "to prioritise", "pron": "praiòritaiz", "it": "dare priorità a", "type": "verb", "ex": "We need to prioritise the most important pages.", "exIt": "Dobbiamo dare priorità alle pagine più importanti." },
+    { "en": "to assign", "pron": "asàin", "it": "assegnare", "type": "verb", "ex": "I've assigned the first task to Marco.", "exIt": "Ho assegnato il primo compito a Marco." },
+    { "en": "to wrap up", "pron": "ràp àp", "it": "concludere, chiudere", "type": "verb", "ex": "We hope to wrap up the project by Friday.", "exIt": "Speriamo di chiudere il progetto entro venerdì." },
+    { "en": "to slip", "pron": "slìp", "it": "slittare (dei tempi)", "type": "verb", "ex": "The date slipped by two weeks.", "exIt": "La data è slittata di due settimane." },
+    { "en": "to fall behind", "pron": "fòl bihàind", "it": "restare indietro", "type": "verb", "ex": "We've fallen behind because of the late feedback.", "exIt": "Siamo rimasti indietro a causa dei commenti arrivati in ritardo." },
+    { "en": "to speed up", "pron": "spìid àp", "it": "accelerare", "type": "verb", "ex": "How can we speed up the approval process?", "exIt": "Come possiamo accelerare il processo di approvazione?" },
+    { "en": "to implement", "pron": "ìmplement", "it": "implementare, mettere in pratica", "type": "verb", "ex": "We've implemented the new search function.", "exIt": "Abbiamo implementato la nuova funzione di ricerca." },
+    { "en": "to deploy", "pron": "diplòi", "it": "mettere online, distribuire", "type": "verb", "ex": "We deployed the new version on the live server.", "exIt": "Abbiamo messo online la nuova versione sul server di produzione." },
+    { "en": "to approve", "pron": "aprùuv", "it": "approvare", "type": "verb", "ex": "The client has approved the design.", "exIt": "Il cliente ha approvato il design." },
+    { "en": "to sign off", "pron": "sàin òf", "it": "dare l'approvazione finale", "type": "verb", "ex": "Who needs to sign off the final version?", "exIt": "Chi deve dare l'approvazione finale alla versione definitiva?" },
+    { "en": "to hand over", "pron": "hànd òuver", "it": "consegnare (il lavoro), passare le consegne", "type": "verb", "ex": "We'll hand over the website on the 20th.", "exIt": "Consegneremo il sito il 20." },
+    { "en": "to roll out", "pron": "ròul àut", "it": "distribuire gradualmente", "type": "verb", "ex": "We're rolling out the changes in three steps.", "exIt": "Stiamo distribuendo le modifiche in tre passaggi." },
+    { "en": "milestone", "pron": "màilstoun", "it": "tappa fondamentale, milestone", "type": "noun", "ex": "Our next milestone is the first prototype.", "exIt": "La nostra prossima tappa è il primo prototipo." },
+    { "en": "timeline", "pron": "tàimlain", "it": "cronologia, calendario dei lavori", "type": "noun", "ex": "Could you share the timeline for the project?", "exIt": "Potresti condividere il calendario dei lavori del progetto?" },
+    { "en": "phase", "pron": "fèiz", "it": "fase", "type": "noun", "ex": "The first phase is research and planning.", "exIt": "La prima fase è ricerca e pianificazione." },
+    { "en": "stage", "pron": "stèidg", "it": "stadio, momento di un processo", "type": "noun", "ex": "We're at the testing stage now.", "exIt": "Adesso siamo alla fase di test." },
+    { "en": "progress", "pron": "pròugres", "it": "progresso, avanzamento", "type": "noun", "ex": "We've made good progress this week.", "exIt": "Questa settimana abbiamo fatto buoni progressi." },
+    { "en": "resource", "pron": "rizòrs", "it": "risorsa", "type": "noun", "ex": "We don't have enough resources for this phase.", "exIt": "Non abbiamo risorse sufficienti per questa fase." },
+    { "en": "dependency", "pron": "dipèndensi", "it": "dipendenza (tra attività)", "type": "noun", "ex": "There's a dependency between the design and the code.", "exIt": "C'è una dipendenza tra il design e il codice." },
+    { "en": "blocker", "pron": "blòker", "it": "ostacolo che blocca il lavoro", "type": "noun", "ex": "The missing logo is a blocker for the homepage.", "exIt": "Il logo mancante blocca il lavoro sulla homepage." },
+    { "en": "target", "pron": "tàrghet", "it": "obiettivo, traguardo, data prevista", "type": "noun", "ex": "Our target is to launch before the summer.", "exIt": "Il nostro obiettivo è lanciare prima dell'estate." },
+    { "en": "outcome", "pron": "àutkam", "it": "risultato, esito", "type": "noun", "ex": "What is the expected outcome of the project?", "exIt": "Qual è il risultato atteso del progetto?" },
+    { "en": "deliverable", "pron": "delìverabol", "it": "elemento da consegnare, output di progetto", "type": "noun", "ex": "The main deliverable is the new website.", "exIt": "L'elemento principale da consegnare è il nuovo sito." },
+    { "en": "sprint", "pron": "sprìnt", "it": "sprint (ciclo breve di lavoro)", "type": "noun", "ex": "Each sprint lasts two weeks.", "exIt": "Ogni sprint dura due settimane." },
+    { "en": "backlog", "pron": "bàklog", "it": "elenco delle attività da fare, arretrato", "type": "noun", "ex": "We have a long backlog of small fixes.", "exIt": "Abbiamo un lungo elenco di piccole correzioni da fare." },
+    { "en": "roadmap", "pron": "ròudmap", "it": "piano strategico, tabella di marcia", "type": "noun", "ex": "I'll send you the product roadmap for next year.", "exIt": "Ti mando la tabella di marcia del prodotto per il prossimo anno." },
+    { "en": "status", "pron": "stèitas", "it": "stato, situazione", "type": "noun", "ex": "What's the status of the migration?", "exIt": "A che punto è la migrazione?" },
+    { "en": "prototype", "pron": "pròutotaip", "it": "prototipo", "type": "noun", "ex": "We've built a clickable prototype.", "exIt": "Abbiamo realizzato un prototipo cliccabile." },
+    { "en": "wireframe", "pron": "uàierfreim", "it": "wireframe, schema delle pagine", "type": "noun", "ex": "I'll send you the wireframes tomorrow.", "exIt": "Domani ti mando i wireframe." },
+    { "en": "rollout", "pron": "ròulaut", "it": "lancio graduale, messa online", "type": "noun", "ex": "The rollout starts on Tuesday.", "exIt": "Il lancio graduale parte martedì." },
+    { "en": "handover", "pron": "hàndouver", "it": "consegna finale, passaggio di consegne", "type": "noun", "ex": "The handover includes training for your team.", "exIt": "La consegna finale include la formazione del vostro team." },
+    { "en": "ongoing", "pron": "òngouing", "it": "in corso, continuo", "type": "adj", "ex": "The maintenance is an ongoing process.", "exIt": "La manutenzione è un processo continuo." },
+    { "en": "pending", "pron": "pènding", "it": "in attesa, in sospeso", "type": "adj", "ex": "Three tasks are still pending client feedback.", "exIt": "Tre attività sono ancora in attesa dei commenti del cliente." },
+    { "en": "overdue", "pron": "ouverdiù", "it": "in ritardo, scaduto", "type": "adj", "ex": "The invoice is now two weeks overdue.", "exIt": "La fattura è ora in ritardo di due settimane." },
+    { "en": "tight", "pron": "tàit", "it": "stretto, serrato", "type": "adj", "ex": "The schedule is very tight this month.", "exIt": "Il calendario è molto serrato questo mese." },
+    { "en": "realistic", "pron": "rialìstik", "it": "realistico", "type": "adj", "ex": "Is that deadline realistic?", "exIt": "Quella scadenza è realistica?" },
+    { "en": "achievable", "pron": "acìivabol", "it": "raggiungibile, fattibile", "type": "adj", "ex": "This goal is achievable if we all focus.", "exIt": "Questo obiettivo è raggiungibile se ci concentriamo tutti." },
+    { "en": "critical", "pron": "krìtikal", "it": "critico, fondamentale", "type": "adj", "ex": "This step is critical for the launch.", "exIt": "Questo passaggio è fondamentale per il lancio." },
+    { "en": "final", "pron": "fàinal", "it": "finale, definitivo", "type": "adj", "ex": "We're doing the final checks today.", "exIt": "Oggi facciamo i controlli finali." },
+    { "en": "on track", "pron": "on tràk", "it": "in linea con i tempi", "type": "phrase", "ex": "We're on track to finish by the end of the month.", "exIt": "Siamo in linea per finire entro fine mese." },
+    { "en": "behind schedule", "pron": "bihàind skèdgiul", "it": "in ritardo sul programma", "type": "phrase", "ex": "I'm afraid we're a week behind schedule.", "exIt": "Purtroppo siamo una settimana in ritardo sul programma." },
+    { "en": "ahead of schedule", "pron": "ahèd ov skèdgiul", "it": "in anticipo sul programma", "type": "phrase", "ex": "Good news: we're two days ahead of schedule.", "exIt": "Buone notizie: siamo due giorni in anticipo." },
+    { "en": "so far", "pron": "sòu fàr", "it": "finora, fino a ora", "type": "phrase", "ex": "So far, everything has gone well.", "exIt": "Finora è andato tutto bene." },
+    { "en": "since", "pron": "sìns", "it": "da (un momento preciso), dato che", "type": "prep", "ex": "I've been working on this project since January.", "exIt": "Lavoro a questo progetto da gennaio." }
+  ],
+  "falseFriends": [
+    { "en": "to realise", "it": "rendersi conto, capire", "trap": "Non vuol dire 'realizzare' nel senso di costruire. Realizzare un sito si dice 'to build' o 'to create'." },
+    { "en": "to resume", "it": "riprendere, ricominciare", "trap": "Non vuol dire 'riassumere'. Riassumere si dice 'to summarise'. Il 'resume' (nome, USA) è il curriculum." },
+    { "en": "actual", "it": "reale, vero", "trap": "Non vuol dire 'attuale'. Attuale si dice 'current'." }
+  ],
+  "grammar": {
+    "title": "Present perfect continuous, e for / since",
+    "explainIt": [
+      "Il present perfect continuous si usa per un'azione iniziata nel passato che continua ancora adesso, o che è appena finita ma se ne vedono gli effetti. Si forma con have been o has been più il verbo in -ing. Esempio: I have been working on this project for three months. Vuol dire: ho cominciato tre mesi fa e sto ancora lavorando. In italiano diciamo lavoro a questo progetto da tre mesi, con il presente. In inglese NON si usa il present simple.",
+      "For e since indicano da quanto tempo. For si usa con una durata: for three months, for two weeks, for a long time, for ages. Since si usa con un punto di partenza: since Monday, since January, since 2022, since the last meeting. Domande: How long have you been working on this? Risposta: For six weeks. Since the beginning of March.",
+      "Quando usare il present perfect semplice invece del continuous? Il continuous mette l'accento sull'azione, sulla durata, sul processo. Il simple mette l'accento sul risultato. Esempio: I've been writing the report all morning (ho passato la mattina a scriverlo). I've written three reports this week (ne ho finiti tre, conta il numero). Con i verbi di stato come know, like, want e have nel senso di possedere non si usa il continuous: I have known him for years.",
+      "Attenzione alla differenza con il past simple, che hai visto nella lezione uno. Con yesterday, last week e ago serve il past simple. Con for e since il tempo arriva fino a ora, quindi present perfect. Esempio: I have worked here for two years (e lavoro ancora qui). I worked there for two years (e adesso non più). Questa è una distinzione che in italiano non c'è.",
+      "Forma negativa e domanda. Negativa: I haven't been sleeping well. She hasn't been replying to my emails. Domanda: Have you been working long? Has he been waiting for a long time? Attenzione: nei negativi la forma più comune con since e for è il present perfect semplice: I haven't heard from the client since Monday."
+    ],
+    "explainEn": [
+      "We use the present perfect continuous for an action that began in the past and is still going on now, or that has just stopped and we can see the effects. The form is have been or has been plus the verb with -ing. For example: I have been working on this project for three months. It means: I started three months ago and I am still working. In Italian we say lavoro da tre mesi, with the present. In English we do NOT use the present simple.",
+      "For and since say how long. We use for with a period of time: for three months, for two weeks, for a long time, for ages. We use since with a starting point: since Monday, since January, since 2022, since the last meeting. Questions: How long have you been working on this? Answers: For six weeks. Since the beginning of March.",
+      "When do we use the present perfect simple instead of the continuous? The continuous focuses on the action, the duration, the process. The simple focuses on the result. For example: I've been writing the report all morning (I spent the morning on it). I've written three reports this week (I finished three, the number matters). With state verbs like know, like, have and want we do not use the continuous: I have known him for years.",
+      "Be careful with the difference from the past simple. With yesterday, last week and ago we need the past simple. With for and since the time continues until now, so we use the present perfect. For example: I have worked here for two years (and I still work here). I worked there for two years (and not any more). This difference does not exist in Italian.",
+      "Negative and question forms. Negative: I haven't been sleeping well. She hasn't been replying to my emails. Question: Have you been working long? Has he been waiting for a long time? Note: with for and since in negatives, the most common form is the present perfect simple: I haven't heard from the client since Monday."
+    ],
+    "rules": [
+      {
+        "it": "Present perfect continuous: azione iniziata nel passato e ancora in corso.",
+        "en": "Present perfect continuous: an action that began in the past and is still going on.",
+        "form": "have/has + been + verbo-ing",
+        "examples": [
+          { "en": "I've been working on this project since March.", "it": "Lavoro a questo progetto da marzo." },
+          { "en": "We've been waiting for the client's feedback for a week.", "it": "Aspettiamo i commenti del cliente da una settimana." },
+          { "en": "She's been testing the site all morning.", "it": "Sta testando il sito da tutta la mattina." }
+        ]
+      },
+      {
+        "it": "For = per quanto tempo (durata). Since = da quando (punto di partenza).",
+        "en": "For = how long (a period). Since = from when (a starting point).",
+        "form": "for + durata / since + momento",
+        "examples": [
+          { "en": "We've been in touch for three years.", "it": "Siamo in contatto da tre anni." },
+          { "en": "I've been here since nine o'clock.", "it": "Sono qui dalle nove." },
+          { "en": "He hasn't replied since Friday.", "it": "Non risponde da venerdì." }
+        ]
+      },
+      {
+        "it": "How long...? si risponde con il present perfect e for/since.",
+        "en": "How long...? is answered with the present perfect and for/since.",
+        "form": "How long + have/has + soggetto + been + -ing",
+        "examples": [
+          { "en": "How long have you been working here?", "it": "Da quanto lavori qui?" },
+          { "en": "How long has the site been down?", "it": "Da quanto è fermo il sito?" }
+        ]
+      },
+      {
+        "it": "Continuous = azione e durata. Simple = risultato e quantità.",
+        "en": "Continuous = the action and duration. Simple = the result and quantity.",
+        "form": "have been writing / have written",
+        "examples": [
+          { "en": "I've been writing emails all morning.", "it": "Ho scritto mail tutta la mattina." },
+          { "en": "I've written twelve emails today.", "it": "Oggi ho scritto dodici mail." }
+        ]
+      },
+      {
+        "it": "Con for e since il present perfect parla di un tempo che arriva fino a ora. Il past simple parla di un tempo finito.",
+        "en": "With for and since, the present perfect talks about a time up to now. The past simple talks about a finished time.",
+        "form": "I have worked here for 2 years (ancora qui) / I worked there for 2 years (finito)",
+        "examples": [
+          { "en": "I have lived in Milan for ten years.", "it": "Vivo a Milano da dieci anni." },
+          { "en": "I lived in Rome for two years.", "it": "Ho vissuto a Roma per due anni." }
+        ]
+      }
+    ],
+    "tip": "In italiano dici 'lavoro qui da tre anni', con il presente. In inglese serve il present perfect: I've worked here for three years, oppure I've been working here for three years. Quando in italiano c'è 'da' e l'azione continua, pensa a for o since con have been. Per scegliere: durata = for, punto di partenza = since.",
+    "mistakes": [
+      { "wrong": "I work on this project since March.", "right": "I've been working on this project since March.", "why": "azione iniziata nel passato e ancora in corso: present perfect continuous" },
+      { "wrong": "I've been working here since two years.", "right": "I've been working here for two years.", "why": "per una durata si usa for, non since" },
+      { "wrong": "We've been waiting for the client since three days.", "right": "We've been waiting for the client for three days.", "why": "three days è una durata: for" },
+      { "wrong": "I have been knowing him for years.", "right": "I have known him for years.", "why": "know è un verbo di stato: niente continuous" },
+      { "wrong": "I've been working there last year.", "right": "I worked there last year.", "why": "last year è un momento finito: past simple" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I ___ (work) on this project for three months.", "a": ["have been working", "'ve been working"], "hint": "for + durata", "explain": "Azione ancora in corso: present perfect continuous." },
+    { "q": "She ___ (wait) for the client's reply since Monday.", "a": ["has been waiting", "'s been waiting"], "hint": "since + Monday", "explain": "Since Monday: has been waiting." },
+    { "q": "We've been in touch ___ 2022.", "a": ["since"], "hint": "anno preciso", "explain": "Un punto di partenza si dice con since." },
+    { "q": "I've been here ___ two hours.", "a": ["for"], "hint": "durata", "explain": "Two hours è una durata: for." },
+    { "q": "How long ___ (you, work) on this site?", "a": ["have you been working"], "hint": "how long, azione ancora in corso", "explain": "Domanda: How long + have + soggetto + been + -ing." },
+    { "q": "He ___ (not reply) to my emails since last week.", "a": ["hasn't been replying", "has not been replying", "hasn't replied", "has not replied"], "hint": "negativo con since", "explain": "Negazione: hasn't been replying o hasn't replied." },
+    { "q": "I ___ (write) the report all morning, and I'm tired.", "a": ["have been writing", "'ve been writing"], "hint": "all morning, processo", "explain": "Azione con durata e effetto presente: continuous." },
+    { "q": "I ___ (write) three reports this week.", "a": ["have written", "'ve written"], "hint": "numero, risultato", "explain": "Conta il risultato: present perfect semplice." },
+    { "q": "I ___ (know) Marco for ten years.", "a": ["have known", "'ve known"], "hint": "verbo di stato", "explain": "Know non si usa nel continuous." },
+    { "q": "We ___ (finish) the first phase last week.", "a": ["finished"], "hint": "last week", "explain": "Momento finito: past simple." },
+    { "q": "Marco ___ (live) in Milan since 2019.", "a": ["has been living", "'s been living", "has lived", "'s lived"], "hint": "since 2019", "explain": "Ci vive ancora: has been living o has lived, tutti e due vanno bene." },
+    { "q": "She ___ (work) here for two years. (e lavora ancora qui)", "a": ["has worked", "has been working", "'s worked", "'s been working"], "hint": "ancora qui", "explain": "Con for e ancora in corso: present perfect." }
+  ],
+  "phrases": [
+    { "group": "Stato del progetto", "en": "We're on track to launch in June.", "it": "Siamo in linea per il lancio a giugno." },
+    { "group": "Stato del progetto", "en": "We're a bit behind schedule.", "it": "Siamo un po' indietro rispetto ai tempi." },
+    { "group": "Stato del progetto", "en": "We're ahead of schedule.", "it": "Siamo in anticipo sul programma." },
+    { "group": "Stato del progetto", "en": "So far, so good.", "it": "Finora tutto bene.", "note": "modo di dire molto comune" },
+    { "group": "Stato del progetto", "en": "What's the status of the migration?", "it": "A che punto è la migrazione?" },
+    { "group": "Da quanto tempo", "en": "I've been working on this since January.", "it": "Ci lavoro da gennaio." },
+    { "group": "Da quanto tempo", "en": "How long have you been waiting for the files?", "it": "Da quanto aspetti i file?" },
+    { "group": "Da quanto tempo", "en": "We've been waiting for feedback for two weeks.", "it": "Aspettiamo i commenti da due settimane." },
+    { "group": "Da quanto tempo", "en": "I've been in touch with them since last month.", "it": "Sono in contatto con loro dal mese scorso." },
+    { "group": "Fasi e milestone", "en": "The first phase is complete.", "it": "La prima fase è completata." },
+    { "group": "Fasi e milestone", "en": "Our next milestone is the prototype.", "it": "La prossima tappa è il prototipo." },
+    { "group": "Fasi e milestone", "en": "We're now at the testing stage.", "it": "Adesso siamo alla fase di test." },
+    { "group": "Fasi e milestone", "en": "The launch is planned for the end of the month.", "it": "Il lancio è previsto per fine mese." },
+    { "group": "Fasi e milestone", "en": "We need sign-off from the client.", "it": "Ci serve l'approvazione finale del cliente." },
+    { "group": "Ritardi e rischi", "en": "We've run into a problem.", "it": "Abbiamo incontrato un problema." },
+    { "group": "Ritardi e rischi", "en": "The date has slipped by a week.", "it": "La data è slittata di una settimana." },
+    { "group": "Ritardi e rischi", "en": "I'm worried we won't meet the deadline.", "it": "Temo che non rispetteremo la scadenza." },
+    { "group": "Ritardi e rischi", "en": "That's a blocker for us.", "it": "Questo ci blocca il lavoro." },
+    { "group": "Ritardi e rischi", "en": "We need to speed things up.", "it": "Dobbiamo accelerare i tempi." },
+    { "group": "Ritardi e rischi", "en": "Is that deadline realistic?", "it": "Quella scadenza è realistica?" },
+    { "group": "Proporre un piano", "en": "Here's what I suggest.", "it": "Ecco cosa propongo." },
+    { "group": "Proporre un piano", "en": "Let's focus on the most critical tasks first.", "it": "Concentriamoci prima sulle attività più critiche." },
+    { "group": "Proporre un piano", "en": "I'll keep you posted.", "it": "Ti terrò aggiornato.", "note": "frase molto usata per dire che manderai notizie" },
+    { "group": "Proporre un piano", "en": "We'll wrap up the project by Friday.", "it": "Chiuderemo il progetto entro venerdì." },
+    { "group": "Proporre un piano", "en": "Could we move the deadline back by a few days?", "it": "Potremmo posticipare la scadenza di qualche giorno?" }
+  ],
+  "dialogue": {
+    "title": "A project progress call",
+    "context": "Tom, il project manager del cliente, chiede a Luca a che punto è il nuovo sito. Luca spiega cosa ha fatto, da quanto aspetta e cosa serve.",
+    "lines": [
+      { "s": "A", "name": "Tom", "en": "Hi Luca. Thanks for joining. How long have you been working on the new website now?", "it": "Ciao Luca. Grazie di esserti collegato. Da quanto tempo lavori al nuovo sito?" },
+      { "s": "B", "name": "Luca", "en": "Since the beginning of September, so about six weeks. We kicked off on the second.", "it": "Dall'inizio di settembre, quindi circa sei settimane. Abbiamo iniziato il due." },
+      { "s": "A", "name": "Tom", "en": "And what's the status? Are we on track for the launch in November?", "it": "E com'è la situazione? Siamo in linea per il lancio a novembre?" },
+      { "s": "B", "name": "Luca", "en": "So far, we've completed the design phase and the homepage. I've been testing the checkout this week.", "it": "Finora abbiamo completato la fase di design e la homepage. Questa settimana sto testando il pagamento." },
+      { "s": "A", "name": "Tom", "en": "Good progress. Any blockers?", "it": "Buoni progressi. Ci sono blocchi?" },
+      { "s": "B", "name": "Luca", "en": "One. I've been waiting for the product photos for two weeks. Without them, I can't finish the product pages.", "it": "Uno. Aspetto le foto dei prodotti da due settimane. Senza non posso finire le pagine dei prodotti." },
+      { "s": "A", "name": "Tom", "en": "I'm sorry about that. Our photographer has been working on them since last Monday, so they'll be ready by Friday.", "it": "Mi dispiace. Il nostro fotografo ci lavora da lunedì scorso, quindi saranno pronte per venerdì." },
+      { "s": "B", "name": "Luca", "en": "Thanks. If I receive them by Friday, we'll still be on track. If not, we'll fall behind by about a week.", "it": "Grazie. Se le ricevo entro venerdì restiamo in linea. Altrimenti andremo indietro di circa una settimana." },
+      { "s": "A", "name": "Tom", "en": "Understood. Is the November launch still realistic?", "it": "Capito. Il lancio a novembre è ancora realistico?" },
+      { "s": "B", "name": "Luca", "en": "I think so. The schedule is tight, but it's achievable. I suggest we prioritise the product pages and move the blog to a second phase.", "it": "Penso di sì. Il calendario è serrato, ma è fattibile. Suggerisco di dare priorità alle pagine dei prodotti e di spostare il blog a una seconda fase." },
+      { "s": "A", "name": "Tom", "en": "That sounds sensible. Who needs to sign off the final design?", "it": "Mi sembra ragionevole. Chi deve approvare il design finale?" },
+      { "s": "B", "name": "Luca", "en": "Your marketing director. She has been reviewing the layout since Tuesday and she'll send her feedback soon.", "it": "La vostra direttrice marketing. Sta esaminando l'impaginazione da martedì e manderà presto i suoi commenti." },
+      { "s": "A", "name": "Tom", "en": "Perfect. Can you send me a weekly status update every Friday?", "it": "Perfetto. Puoi mandarmi un aggiornamento settimanale ogni venerdì?" },
+      { "s": "B", "name": "Luca", "en": "Of course. I'll keep you posted, and I'll flag any problem immediately.", "it": "Certo. Ti terrò aggiornato e segnalerò subito qualsiasi problema." }
+    ]
+  },
+  "listening": [
+    { "q": "How long has Luca been working on the website?", "options": ["About six weeks", "About six months", "About two weeks"], "answer": 0 },
+    { "q": "What is Luca's problem at the moment?", "options": ["The budget is too low", "He is waiting for the product photos", "The design is not approved"], "answer": 1 },
+    { "q": "What happens if the photos arrive late?", "options": ["The launch is cancelled", "They fall about a week behind", "Luca works at the weekend"], "answer": 1 },
+    { "q": "What does Luca suggest to prioritise?", "options": ["The blog", "The product pages", "The contact page"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Lavoro a questo progetto da marzo.", "en": "I've been working on this project since March.", "alt": ["I have been working on this project since March."] },
+    { "it": "Aspettiamo i commenti del cliente da due settimane.", "en": "We've been waiting for the client's feedback for two weeks.", "alt": ["We have been waiting for the client's feedback for two weeks.", "We've been waiting for feedback from the client for two weeks."] },
+    { "it": "Da quanto tempo lavori qui?", "en": "How long have you been working here?", "alt": ["How long have you worked here?"] },
+    { "it": "Finora è andato tutto bene.", "en": "So far, everything has gone well.", "alt": ["So far everything has gone well.", "So far, so good.", "Everything has gone well so far."] },
+    { "it": "Siamo un po' indietro rispetto ai tempi.", "en": "We're a bit behind schedule.", "alt": ["We are a little behind schedule.", "We're slightly behind schedule."] },
+    { "it": "Siamo in linea per il lancio di giugno.", "en": "We're on track for the June launch.", "alt": ["We are on track to launch in June.", "We're on track for the launch in June."] },
+    { "it": "Non ho sue notizie da lunedì.", "en": "I haven't heard from him since Monday.", "alt": ["I haven't heard from her since Monday.", "I have not heard from him since Monday."] },
+    { "it": "Questa settimana ho testato il sito tutti i giorni.", "en": "I've been testing the site every day this week.", "alt": ["I have been testing the site every day this week.", "I've tested the site every day this week."] },
+    { "it": "La data è slittata di una settimana.", "en": "The date has slipped by a week.", "alt": ["The date slipped by a week.", "The date has been pushed back by a week."] },
+    { "it": "Quella scadenza è realistica?", "en": "Is that deadline realistic?", "alt": ["Is that deadline achievable?", "Is that a realistic deadline?"] },
+    { "it": "Ti terrò aggiornato.", "en": "I'll keep you posted.", "alt": ["I will keep you posted.", "I'll keep you updated.", "I'll keep you informed."] },
+    { "it": "Abbiamo completato la prima fase la settimana scorsa.", "en": "We completed the first phase last week.", "alt": ["We finished the first phase last week."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail al project manager del cliente, Tom, con un aggiornamento sul progetto. Di' da quanto tempo ci lavori (da sei settimane). Elenca cosa avete completato finora e cosa stai facendo adesso con il present perfect continuous. Spiega che sei in ritardo di una settimana perché aspetti i testi del cliente da dieci giorni. Chiedi di mandarli entro venerdì e proponi un nuovo piano.",
+    "taskEn": "Write an email to the client's project manager, Tom, with a project update. Say how long you have been working on it (six weeks). List what you have completed so far and what you are doing now using the present perfect continuous. Explain that you are one week behind because you have been waiting for the client's texts for ten days. Ask him to send them by Friday and suggest a new plan.",
+    "model": "Subject: Project update and request\n\nDear Tom,\n\nI've been working on the new website for six weeks now. So far we have completed the design phase and the homepage, and I've been testing the contact form this week.\n\nUnfortunately we are one week behind schedule. I've been waiting for the texts from your team for ten days, and I can't finish the pages without them.\n\nCould you send me the texts by Friday? If I receive them by then, I can finish the pages in a week and we will still meet the final deadline.\n\nIf not, I suggest that we move the blog to a second phase. I'll keep you posted.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I've been working on this project since March.",
+      "We've been waiting for the client's feedback for two weeks.",
+      "How long have you been working here?",
+      "So far, we've completed the first phase.",
+      "We're on track to launch in June.",
+      "I'm afraid we're a week behind schedule.",
+      "The date has slipped by a few days.",
+      "I'll keep you posted."
+    ],
+    "prompts": [
+      { "en": "How long have you been working in your current job?", "it": "Da quanto tempo fai il tuo lavoro attuale?", "help": "I've been working here for... / since..." },
+      { "en": "What have you been working on this week?", "it": "A cosa hai lavorato questa settimana?", "help": "I've been working on... I've also been..." },
+      { "en": "How long have you been learning English?", "it": "Da quanto tempo studi l'inglese?", "help": "I've been learning English for... / since..." },
+      { "en": "Are you on track with your current project?", "it": "Sei in linea con il tuo progetto attuale?", "help": "Yes, we're on track. / No, we're a bit behind schedule because..." },
+      { "en": "Tell me about a project that went late. What happened?", "it": "Parlami di un progetto andato in ritardo. Cosa è successo?", "help": "We fell behind because... The blocker was... Finally we..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Parlare dello stato di un progetto",
+      "show": ["Lesson 6", "Projects and deadlines", "Present perfect continuous, for and since"],
+      "say": [
+        { "lang": "it", "text": "In questa lezione impari a dire da quanto tempo lavori a un progetto e a che punto sei. È il linguaggio delle riunioni di avanzamento." },
+        { "lang": "en", "text": "How long have you been working on this project?" }
+      ]
+    },
+    {
+      "title": "Present perfect continuous: la forma",
+      "show": ["have been working", "has been waiting", "I've been testing the site."],
+      "say": [
+        { "lang": "it", "text": "Si forma con have been o has been, più il verbo in ing. Si usa per un'azione iniziata nel passato che continua ancora adesso." },
+        { "lang": "en", "text": "I've been working on this project for three months." },
+        { "lang": "en", "text": "She's been waiting for the feedback since Monday." }
+      ]
+    },
+    {
+      "title": "In italiano usiamo il presente",
+      "show": ["Lavoro qui da tre anni.", "I have worked here for three years."],
+      "say": [
+        { "lang": "it", "text": "In italiano diciamo lavoro qui da tre anni, con il presente. In inglese non si può. Si usa il present perfect, perché il tempo arriva fino a ora." },
+        { "lang": "en", "text": "I have worked here for three years." }
+      ]
+    },
+    {
+      "title": "For e since",
+      "show": ["for = durata: for three months", "since = punto di partenza: since March"],
+      "say": [
+        { "lang": "it", "text": "For si usa con una durata, come for two weeks. Since si usa con un punto di partenza, come since Monday o since January." },
+        { "lang": "en", "text": "I've been here for two hours." },
+        { "lang": "en", "text": "I've been here since nine o'clock." }
+      ]
+    },
+    {
+      "title": "Continuous o simple?",
+      "show": ["I've been writing emails all morning.", "I've written twelve emails today."],
+      "say": [
+        { "lang": "it", "text": "Il continuous mette l'accento sull'azione e sulla durata. Il simple mette l'accento sul risultato e sul numero." },
+        { "lang": "en", "text": "I've been writing emails all morning." },
+        { "lang": "en", "text": "I've written twelve emails today." }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": ["Sbagliato: I work here since March.", "Sbagliato: for 2022", "Giusto: I've been working here since March."],
+      "say": [
+        { "lang": "it", "text": "Errore numero uno: usare il presente con since. Errore numero due: confondere for e since. Ricorda: for con la durata, since con il punto di partenza." },
+        { "lang": "en", "text": "I've been working here since March." }
+      ]
+    },
+    {
+      "title": "Frasi per lo stato del progetto",
+      "show": ["We're on track.", "We're behind schedule.", "I'll keep you posted."],
+      "say": [
+        { "lang": "it", "text": "Per dire che sei in linea con i tempi dici on track. Per dire che sei in ritardo dici behind schedule. Per promettere aggiornamenti dici I'll keep you posted." },
+        { "lang": "en", "text": "We're on track to launch in June." },
+        { "lang": "en", "text": "I'm afraid we're a week behind schedule." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["have/has been + -ing", "for + durata, since + momento", "How long have you been...?"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Per azioni iniziate nel passato e ancora in corso usa have been più ing. Con la durata usa for, con il punto di partenza usa since." },
+        { "lang": "en", "text": "How long have you been working here? For three years." }
+      ]
+    }
+  ]
+}

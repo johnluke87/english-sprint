@@ -1,0 +1,314 @@
+{
+  "id": 32,
+  "week": 7,
+  "title": "Dare e ricevere feedback",
+  "titleEn": "Giving and receiving feedback",
+  "intro": "Oggi impari a dare un parere sul lavoro di un collega e a ricevere critiche senza stress. Vedi should have, could have e would have, che servono per parlare di ciò che si poteva fare nel passato. Sono frasi che userai nelle revisioni del lavoro, nelle riunioni e con i clienti.",
+  "goals": [
+    "Usare should have, could have e would have per parlare del passato",
+    "Dare una critica costruttiva con un tono gentile",
+    "Rispondere con calma a un feedback negativo",
+    "Dire cosa è andato bene e cosa si può migliorare"
+  ],
+  "words": [
+    { "en": "strength", "pron": "strèngt", "it": "punto di forza", "type": "noun", "ex": "Her biggest strength is attention to detail.", "exIt": "Il suo punto di forza è l'attenzione ai dettagli." },
+    { "en": "weakness", "pron": "uìicnes", "it": "punto debole", "type": "noun", "ex": "My weakness is public speaking.", "exIt": "Il mio punto debole è parlare in pubblico." },
+    { "en": "to commend", "pron": "komènd", "it": "elogiare", "type": "verb", "ex": "The client commended our fast response.", "exIt": "Il cliente ha elogiato la nostra risposta rapida." },
+    { "en": "constructive", "pron": "constràctiv", "it": "costruttivo", "type": "adj", "ex": "Thanks for the constructive feedback.", "exIt": "Grazie per il feedback costruttivo." },
+    { "en": "criticism", "pron": "crìtisizm", "it": "critica", "type": "noun", "ex": "She took the criticism very well.", "exIt": "Ha preso molto bene la critica." },
+    { "en": "praise", "pron": "prèiz", "it": "lode, complimenti", "type": "noun", "ex": "The client's praise made the team happy.", "exIt": "I complimenti del cliente hanno reso felice la squadra." },
+    { "en": "area for improvement", "pron": "èria for imprùvment", "it": "aspetto da migliorare", "type": "noun", "ex": "Documentation is an area for improvement.", "exIt": "La documentazione è un aspetto da migliorare." },
+    { "en": "harsh", "pron": "harsc", "it": "duro, severo", "type": "adj", "ex": "That comment was a bit harsh.", "exIt": "Quel commento è stato un po' duro." },
+    { "en": "to compliment", "pron": "còmpliment", "it": "fare un complimento", "type": "verb", "ex": "She complimented me on the clear structure.", "exIt": "Mi ha fatto i complimenti per la struttura chiara." },
+    { "en": "to build on", "pron": "bild on", "it": "partire da, costruire su", "type": "phrase", "ex": "Let's build on this good start.", "exIt": "Partiamo da questo buon inizio." },
+    { "en": "to sugarcoat", "pron": "sciùgarkout", "it": "indorare la pillola", "type": "verb", "ex": "I won't sugarcoat it: the deadline is at risk.", "exIt": "Non indorerò la pillola: la scadenza è a rischio." },
+    { "en": "shortcoming", "pron": "sciòrtkaming", "it": "difetto, mancanza", "type": "noun", "ex": "The main shortcoming is the lack of tests.", "exIt": "La mancanza principale è l'assenza di test." },
+    { "en": "blind spot", "pron": "blàind spot", "it": "punto cieco, cosa che non vediamo", "type": "noun", "ex": "Everyone has a blind spot, so ask for feedback.", "exIt": "Tutti hanno un punto cieco, quindi chiedi un parere." },
+    { "en": "tactful", "pron": "tàctful", "it": "delicato, pieno di tatto", "type": "adj", "ex": "Try to be tactful when you disagree.", "exIt": "Cerca di essere delicato quando non sei d'accordo." },
+    { "en": "to reflect on", "pron": "riflèct on", "it": "riflettere su", "type": "phrase", "ex": "Take a minute to reflect on what went well.", "exIt": "Prenditi un minuto per riflettere su cosa è andato bene." },
+    { "en": "defensive", "pron": "difènsiv", "it": "sulla difensiva", "type": "adj", "ex": "Don't get defensive, just listen.", "exIt": "Non metterti sulla difensiva, ascolta e basta." },
+    { "en": "supportive", "pron": "sapòrtiv", "it": "di sostegno, collaborativo", "type": "adj", "ex": "My manager is very supportive.", "exIt": "Il mio responsabile mi sostiene molto." },
+    { "en": "to boost morale", "pron": "bùust moràal", "it": "tirare su il morale", "type": "phrase", "ex": "Positive feedback can boost the team's morale.", "exIt": "Un feedback positivo può tirare su il morale del team." },
+    { "en": "sloppy", "pron": "slòpi", "it": "sciatto, trascurato", "type": "adj", "ex": "The final check was a bit sloppy.", "exIt": "Il controllo finale è stato un po' sciatto." },
+    { "en": "rushed", "pron": "rasct", "it": "fatto di fretta", "type": "adj", "ex": "The last section feels rushed.", "exIt": "L'ultima sezione sembra fatta di fretta." },
+    { "en": "insightful", "pron": "ìnsaitful", "it": "acuto, che fa capire a fondo", "type": "adj", "ex": "That was an insightful comment.", "exIt": "È stato un commento acuto." },
+    { "en": "valuable", "pron": "vàliubol", "it": "prezioso, utile", "type": "adj", "ex": "Your feedback was really valuable.", "exIt": "Il tuo feedback è stato davvero prezioso." },
+    { "en": "to overlook", "pron": "ouverlùc", "it": "trascurare, non notare", "type": "verb", "ex": "We overlooked a small bug in the menu.", "exIt": "Ci è sfuggito un piccolo bug nel menu." },
+    { "en": "to nitpick", "pron": "nìtpic", "it": "fare le pulci, cercare il pelo nell'uovo", "type": "verb", "ex": "I don't want to nitpick, but there's a small typo.", "exIt": "Non voglio fare le pulci, ma c'è un piccolo refuso." },
+    { "en": "performance review", "pron": "perfòrmans rivìu", "it": "valutazione delle prestazioni", "type": "noun", "ex": "My performance review is next week.", "exIt": "La mia valutazione è la settimana prossima." },
+    { "en": "appraisal", "pron": "aprèizol", "it": "valutazione", "type": "noun", "ex": "I have my yearly appraisal on Friday.", "exIt": "Venerdì ho la mia valutazione annuale." },
+    { "en": "well done", "pron": "uèl dàn", "it": "ben fatto, bravo", "type": "phrase", "ex": "Well done on finishing the audit before the deadline.", "exIt": "Bravo per aver finito l'audit prima della scadenza." },
+    { "en": "expectation", "pron": "ekspektèiscion", "it": "aspettativa", "type": "noun", "ex": "The result met our expectations.", "exIt": "Il risultato ha soddisfatto le nostre aspettative." },
+    { "en": "to exceed", "pron": "iksìid", "it": "superare (le aspettative)", "type": "verb", "ex": "You exceeded every goal this quarter.", "exIt": "Hai superato ogni obiettivo in questo trimestre." },
+    { "en": "to fall short", "pron": "fòol sciòrt", "it": "non arrivare al livello richiesto", "type": "verb", "ex": "The first draft fell short of what we wanted.", "exIt": "La prima bozza non era all'altezza di quanto volevamo." },
+    { "en": "to take on board", "pron": "teic on bord", "it": "tenere in considerazione, accettare", "type": "verb", "ex": "I'll take your comments on board.", "exIt": "Terrò conto dei tuoi commenti." },
+    { "en": "to take it personally", "pron": "teic it pèrsonali", "it": "prenderla sul personale", "type": "phrase", "ex": "Please don't take it personally.", "exIt": "Per favore non prenderla sul personale." },
+    { "en": "room for improvement", "pron": "ruum for imprùvment", "it": "margine di miglioramento", "type": "phrase", "ex": "It's good, but there's still room for improvement.", "exIt": "È buono, ma c'è ancora margine di miglioramento." },
+    { "en": "to encourage", "pron": "inchàridg", "it": "incoraggiare", "type": "verb", "ex": "She always encourages us to ask questions.", "exIt": "Ci incoraggia sempre a fare domande." },
+    { "en": "to recognise", "pron": "rècognaiz", "it": "riconoscere (un valore)", "type": "verb", "ex": "The company recognised her effort with a bonus.", "exIt": "L'azienda ha riconosciuto il suo impegno con un bonus." },
+    { "en": "to ask for input", "pron": "ask for ìnput", "it": "chiedere un parere", "type": "phrase", "ex": "I'll ask the team for input before I decide.", "exIt": "Chiederò un parere al team prima di decidere." },
+    { "en": "to refine", "pron": "rifàin", "it": "rifinire, migliorare", "type": "verb", "ex": "We refined the design after the first feedback.", "exIt": "Abbiamo rifinito il design dopo i primi feedback." },
+    { "en": "to reflect", "pron": "riflèct", "it": "rispecchiare, riflettere (mostrare)", "type": "verb", "ex": "The final score reflects the quality of your work.", "exIt": "Il punteggio finale rispecchia la qualità del tuo lavoro." },
+    { "en": "hindsight", "pron": "hàindsait", "it": "il senno di poi", "type": "noun", "ex": "In hindsight, we should have asked earlier.", "exIt": "Con il senno di poi, avremmo dovuto chiedere prima." },
+    { "en": "encouraging", "pron": "inkàridging", "it": "incoraggiante", "type": "adj", "ex": "The client's reaction was very encouraging.", "exIt": "La reazione del cliente è stata molto incoraggiante." },
+    { "en": "to give a heads-up", "pron": "ghiv a hèdz ap", "it": "avvisare in anticipo", "type": "phrase", "ex": "Thanks for giving me a heads-up about the problem.", "exIt": "Grazie per avermi avvisato in anticipo del problema." },
+    { "en": "to appraise", "pron": "aprèiz", "it": "valutare (con un giudizio)", "type": "verb", "ex": "We appraise each project at the end of the year.", "exIt": "Valutiamo ogni progetto alla fine dell'anno." },
+    { "en": "scorecard", "pron": "scòrkard", "it": "scheda di valutazione", "type": "noun", "ex": "The scorecard shows our strengths and weak points.", "exIt": "La scheda di valutazione mostra punti di forza e punti deboli." },
+    { "en": "to follow through", "pron": "fòllou tru", "it": "portare a termine", "type": "verb", "ex": "You need to follow through on your promises.", "exIt": "Devi mantenere ciò che prometti." },
+    { "en": "mentor", "pron": "mèntor", "it": "mentore, guida", "type": "noun", "ex": "My mentor gave me great advice.", "exIt": "Il mio mentore mi ha dato ottimi consigli." },
+    { "en": "to coach", "pron": "kòucc", "it": "seguire, fare da guida", "type": "verb", "ex": "She coaches the junior developers.", "exIt": "Segue gli sviluppatori junior." },
+    { "en": "to nail", "pron": "nèil", "it": "centrare in pieno (informale)", "type": "verb", "ex": "You nailed the presentation!", "exIt": "Hai fatto centro con la presentazione!" },
+    { "en": "spot on", "pron": "spot on", "it": "preciso, esattissimo", "type": "adj", "ex": "Your analysis was spot on.", "exIt": "La tua analisi era precisissima." },
+    { "en": "a step in the right direction", "pron": "a stèp in de ràit dairèkscion", "it": "un passo nella direzione giusta", "type": "phrase", "ex": "The new layout is a step in the right direction.", "exIt": "Il nuovo layout è un passo nella direzione giusta." },
+    { "en": "to give credit", "pron": "ghiv crèdit", "it": "riconoscere il merito", "type": "phrase", "ex": "Let's give credit to the whole team.", "exIt": "Diamo il merito a tutta la squadra." }
+  ],
+  "falseFriends": [
+    { "en": "to regret", "it": "pentirsi, rimpiangere", "trap": "Non vuol dire 'regredire' o 'regalare'. Vuol dire essere dispiaciuti per qualcosa che si è fatto o non si è fatto." },
+    { "en": "sensible", "it": "ragionevole, di buon senso", "trap": "Non vuol dire 'sensibile' (= sensitive)." },
+    { "en": "to realise", "it": "rendersi conto", "trap": "Non vuol dire 'realizzare' nel senso di fare. 'Realizzare un sito' = to build a website." }
+  ],
+  "grammar": {
+    "title": "Should have, could have, would have + participio",
+    "explainIt": [
+      "Queste forme servono per parlare del passato e di cose che non sono successe. Sono formate da un verbo modale (should, could, would) + have + participio passato. Esempio: 'I should have tested the form' = avrei dovuto testare il modulo (ma non l'ho fatto).",
+      "Should have + participio: dici che qualcosa era giusto o meglio, ma non è stato fatto. È un rimprovero o un rimpianto. 'You should have told me' = avresti dovuto dirmelo. Con il negativo, 'shouldn't have + participio', dici che hai fatto qualcosa di sbagliato: 'I shouldn't have sent it' = non avrei dovuto mandarlo.",
+      "Could have + participio: dici che c'era una possibilità o una capacità, ma non è stata usata. 'We could have launched on Monday' = avremmo potuto lanciare lunedì. Attenzione: 'couldn't have' vuol dire che era impossibile. 'It couldn't have been the server' = non può essere stato il server.",
+      "Would have + participio: dici cosa sarebbe successo in una situazione diversa. Spesso si usa con 'if + past perfect': 'If I had known, I would have called you' = se l'avessi saputo, ti avrei chiamato. Nella frase con if non si mette would: mai 'If I would have known'.",
+      "Nel parlato si usano le forme contratte: should've, could've, would've, shouldn't've. Si pronunciano come 'sciudav', 'cudav', 'udav'. Attenzione a non scrivere 'should of': è un errore di chi scrive come sente."
+    ],
+    "explainEn": [
+      "We use these forms to talk about the past and about things that did not happen. They are made with a modal verb (should, could, would) + have + past participle. Example: 'I should have tested the form' means that testing was the right thing to do, but I didn't do it.",
+      "Should have + past participle: you say that something was right or better, but it was not done. It is a criticism or a regret. 'You should have told me.' With the negative, 'shouldn't have + past participle', you say that you did something wrong: 'I shouldn't have sent it.'",
+      "Could have + past participle: you say that there was a possibility or an ability, but it was not used. 'We could have launched on Monday.' Be careful: 'couldn't have' means it was impossible. 'It couldn't have been the server.'",
+      "Would have + past participle: you say what would have happened in a different situation. It is often used with 'if + past perfect': 'If I had known, I would have called you.' In the if-part we do not use would: never 'If I would have known'.",
+      "In speech we use the short forms: should've, could've, would've, shouldn't've. Do not write 'should of'. It is a mistake made by people who write what they hear."
+    ],
+    "rules": [
+      {
+        "it": "Should have + participio: avresti dovuto (critica o rimpianto).",
+        "en": "Should have + past participle: it was the right thing to do, but it wasn't done.",
+        "form": "should have + participio",
+        "examples": [
+          { "en": "I should have checked the contrast ratio.", "it": "Avrei dovuto controllare il rapporto di contrasto." },
+          { "en": "You should have asked me before changing the design.", "it": "Avresti dovuto chiedermelo prima di cambiare il design." },
+          { "en": "We shouldn't have promised that date.", "it": "Non avremmo dovuto promettere quella data." }
+        ]
+      },
+      {
+        "it": "Could have + participio: avresti potuto (possibilità non usata).",
+        "en": "Could have + past participle: it was possible, but it didn't happen.",
+        "form": "could have + participio",
+        "examples": [
+          { "en": "We could have finished earlier with more people.", "it": "Avremmo potuto finire prima con più persone." },
+          { "en": "You could have sent me a message.", "it": "Avresti potuto mandarmi un messaggio." },
+          { "en": "It couldn't have been my code. I didn't touch that file.", "it": "Non può essere stato il mio codice. Non ho toccato quel file." }
+        ]
+      },
+      {
+        "it": "Would have + participio: cosa sarebbe successo in un'altra situazione.",
+        "en": "Would have + past participle: what would have happened in a different situation.",
+        "form": "would have + participio",
+        "examples": [
+          { "en": "I would have helped you if you had asked.", "it": "Ti avrei aiutato se me lo avessi chiesto." },
+          { "en": "If we had tested earlier, we would have found the bug.", "it": "Se avessimo testato prima, avremmo trovato il bug." },
+          { "en": "The client would have been happier with a clearer plan.", "it": "Il cliente sarebbe stato più contento con un piano più chiaro." }
+        ]
+      },
+      {
+        "it": "Per dare un feedback gentile, 'could have' suona più morbido di 'should have'.",
+        "en": "To give gentle feedback, 'could have' sounds softer than 'should have'.",
+        "form": "could have / might have + participio",
+        "examples": [
+          { "en": "You could have added a short summary at the top.", "it": "Avresti potuto aggiungere un breve riassunto in alto." },
+          { "en": "It might have been better to show a prototype first.", "it": "Forse sarebbe stato meglio mostrare prima un prototipo." }
+        ]
+      }
+    ],
+    "tip": "In italiano usi il condizionale passato: 'avrei dovuto', 'avrei potuto'. In inglese è sempre modale + have + participio. Chiediti: era giusto farlo (should), era possibile farlo (could), cosa sarebbe successo (would).",
+    "mistakes": [
+      { "wrong": "I should of sent the file.", "right": "I should have sent the file. (o: I should've sent the file.)", "why": "'of' è un errore di scrittura: la forma contratta è 've" },
+      { "wrong": "If I would have known, I would have called.", "right": "If I had known, I would have called.", "why": "nella parte con if si usa il past perfect, non would" },
+      { "wrong": "I should have sent it yesterday. (ma l'ho mandato davvero)", "right": "I sent it yesterday.", "why": "should have si usa solo per ciò che NON è stato fatto" },
+      { "wrong": "You should have to tell me.", "right": "You should have told me.", "why": "dopo have serve il participio passato, non 'to + verbo'" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I forgot to test the form. I ___ have tested it.", "a": ["should"], "hint": "avrei dovuto", "explain": "Rimpianto per qualcosa non fatto: should have." },
+    { "q": "You ___ have told me earlier. (rimprovero)", "a": ["should"], "hint": "avresti dovuto", "explain": "Critica: should have + participio." },
+    { "q": "We could ___ finished earlier with more people.", "a": ["have"], "hint": "dopo could", "explain": "could have + participio passato." },
+    { "q": "If I had known, I ___ have called you.", "a": ["would"], "hint": "ti avrei chiamato", "explain": "Terza ipotesi: if + past perfect, would have + participio." },
+    { "q": "I should have ___ (send) the file yesterday.", "a": ["sent"], "hint": "participio di send", "explain": "Send è irregolare: sent." },
+    { "q": "We shouldn't have ___ (promise) that deadline.", "a": ["promised"], "hint": "participio regolare", "explain": "Participio di promise: promised." },
+    { "q": "It ___ have been the server. It was fine all day. (impossibile)", "a": ["couldn't", "could not"], "hint": "non può essere stato", "explain": "couldn't have = era impossibile." },
+    { "q": "If we had tested earlier, we would have ___ (find) the bug.", "a": ["found"], "hint": "participio irregolare", "explain": "Find - found - found." },
+    { "q": "She ___ have done better, but she was very tired. (avrebbe potuto)", "a": ["could"], "hint": "capacità non usata", "explain": "Could have = avrebbe potuto." },
+    { "q": "I ___ have helped you if you had asked.", "a": ["would"], "hint": "ti avrei aiutato", "explain": "Would have + participio, con if + past perfect." },
+    { "q": "You shouldn't ___ sent that email without checking.", "a": ["have"], "hint": "non avresti dovuto", "explain": "shouldn't have + participio." },
+    { "q": "If I ___ known about the problem, I would have said something.", "a": ["had", "'d"], "hint": "past perfect", "explain": "If + had + participio, non would." }
+  ],
+  "phrases": [
+    { "group": "Iniziare con una nota positiva", "en": "I really liked how you structured the report.", "it": "Mi è piaciuto molto come hai strutturato il report." },
+    { "group": "Iniziare con una nota positiva", "en": "Great job on the audit. It was very thorough.", "it": "Ottimo lavoro con l'audit. È stato molto accurato." },
+    { "group": "Iniziare con una nota positiva", "en": "You really nailed the client presentation.", "it": "Hai fatto centro con la presentazione al cliente." },
+    { "group": "Iniziare con una nota positiva", "en": "I want to give credit to the whole team.", "it": "Voglio dare il merito a tutta la squadra." },
+    { "group": "Iniziare con una nota positiva", "en": "Your analysis was spot on.", "it": "La tua analisi era precisissima." },
+    { "group": "Dare una critica gentile", "en": "Could I give you some feedback?", "it": "Posso darti un parere?" },
+    { "group": "Dare una critica gentile", "en": "One thing that could be improved is the layout.", "it": "Una cosa che si può migliorare è l'impaginazione." },
+    { "group": "Dare una critica gentile", "en": "You could have added a short summary.", "it": "Avresti potuto aggiungere un breve riassunto." },
+    { "group": "Dare una critica gentile", "en": "It might be better to show a prototype first.", "it": "Forse sarebbe meglio mostrare prima un prototipo." },
+    { "group": "Dare una critica gentile", "en": "I think there's still room for improvement here.", "it": "Penso che qui ci sia ancora margine di miglioramento." },
+    { "group": "Dare una critica gentile", "en": "Don't take this personally, but the last part feels rushed.", "it": "Non prenderla sul personale, ma l'ultima parte sembra fatta di fretta." },
+    { "group": "Ricevere un feedback", "en": "Thanks for the feedback. That's really valuable.", "it": "Grazie per il feedback. È davvero prezioso." },
+    { "group": "Ricevere un feedback", "en": "I'll take that on board.", "it": "Terrò conto di quello che dici." },
+    { "group": "Ricevere un feedback", "en": "Could you elaborate on that?", "it": "Potresti spiegarmi meglio?" },
+    { "group": "Ricevere un feedback", "en": "I need some time to reflect on this.", "it": "Ho bisogno di un po' di tempo per riflettere." },
+    { "group": "Ricevere un feedback", "en": "That's a fair point.", "it": "È un'osservazione giusta." },
+    { "group": "Ammettere un errore", "en": "I should have checked it more carefully.", "it": "Avrei dovuto controllare con più attenzione." },
+    { "group": "Ammettere un errore", "en": "That was an oversight on my part.", "it": "È stata una mia svista." },
+    { "group": "Ammettere un errore", "en": "I take full responsibility for the delay.", "it": "Mi assumo tutta la responsabilità del ritardo." },
+    { "group": "Ammettere un errore", "en": "I apologise for the confusion.", "it": "Mi scuso per la confusione." },
+    { "group": "Ammettere un errore", "en": "In hindsight, I would have done it differently.", "it": "Con il senno di poi, l'avrei fatto in modo diverso." },
+    { "group": "Guardare avanti", "en": "What can I do to get better at this?", "it": "Cosa posso fare per migliorare in questo?" },
+    { "group": "Guardare avanti", "en": "That's a step in the right direction.", "it": "È un passo nella direzione giusta." },
+    { "group": "Guardare avanti", "en": "You're definitely on the right track.", "it": "Sei decisamente sulla buona strada." },
+    { "group": "Guardare avanti", "en": "Let's follow through on these points next week.", "it": "Portiamo avanti questi punti la settimana prossima." }
+  ],
+  "dialogue": {
+    "title": "A performance review",
+    "context": "Emma è la responsabile e Luca è uno sviluppatore web. Parlano della valutazione del suo ultimo progetto, il sito di un cliente. Emma dà un feedback e Luca lo ascolta e risponde.",
+    "lines": [
+      { "s": "A", "name": "Emma", "en": "Thanks for coming, Luca. First of all, great job on the client's website. Your work was very thorough.", "it": "Grazie di essere venuto, Luca. Prima di tutto, ottimo lavoro sul sito del cliente. Il tuo lavoro era molto accurato." },
+      { "s": "B", "name": "Luca", "en": "Thanks, Emma. I really appreciate that.", "it": "Grazie, Emma. Lo apprezzo molto." },
+      { "s": "A", "name": "Emma", "en": "You exceeded our expectations on the accessibility side. The client was impressed.", "it": "Hai superato le nostre aspettative sull'accessibilità. Il cliente è rimasto colpito." },
+      { "s": "B", "name": "Luca", "en": "That's good to hear. I spent a lot of time on the audit.", "it": "Mi fa piacere. Ho dedicato molto tempo all'audit." },
+      { "s": "A", "name": "Emma", "en": "There's one thing that could be improved, though. You should have told me about the delay earlier.", "it": "C'è una cosa che si può migliorare, però. Avresti dovuto dirmi prima del ritardo." },
+      { "s": "B", "name": "Luca", "en": "You're right. I should have sent you an update on Monday. It was an oversight on my part.", "it": "Hai ragione. Avrei dovuto mandarti un aggiornamento lunedì. È stata una mia svista." },
+      { "s": "A", "name": "Emma", "en": "If I had known, I would have moved the client call. We could have avoided the stress.", "it": "Se lo avessi saputo, avrei spostato la chiamata col cliente. Avremmo potuto evitare lo stress." },
+      { "s": "B", "name": "Luca", "en": "I understand. I'll take that on board and I'll send short updates every Friday.", "it": "Capisco. Terrò conto di quello che dici e manderò brevi aggiornamenti ogni venerdì." },
+      { "s": "A", "name": "Emma", "en": "That would be perfect. Another point is the documentation. It feels a bit rushed.", "it": "Sarebbe perfetto. Un altro punto è la documentazione. Sembra un po' fatta di fretta." },
+      { "s": "B", "name": "Luca", "en": "Could you elaborate on that? Which part do you mean?", "it": "Potresti spiegarti meglio? Quale parte intendi?" },
+      { "s": "A", "name": "Emma", "en": "The setup guide. Please don't take it personally. It's just that a new colleague couldn't follow it.", "it": "La guida di installazione. Non prenderla sul personale. È solo che una nuova collega non riusciva a seguirla." },
+      { "s": "B", "name": "Luca", "en": "That's a fair point. In hindsight, I should have asked someone to test it.", "it": "È un'osservazione giusta. Con il senno di poi, avrei dovuto chiedere a qualcuno di provarla." },
+      { "s": "A", "name": "Emma", "en": "Exactly. Overall, you're definitely on the right track, and I'm happy with your progress.", "it": "Esatto. Nel complesso sei decisamente sulla buona strada e sono contenta dei tuoi progressi." },
+      { "s": "B", "name": "Luca", "en": "Thank you. This feedback is really valuable. What can I do to get better at managing deadlines?", "it": "Grazie. Questo feedback è davvero prezioso. Cosa posso fare per migliorare nella gestione delle scadenze?" }
+    ]
+  },
+  "listening": [
+    { "q": "What did Emma praise about Luca's work?", "options": ["His fast typing", "His thorough work and the accessibility results", "His fashion sense"], "answer": 1 },
+    { "q": "What should Luca have done?", "options": ["Told Emma about the delay earlier", "Cancelled the client call", "Rewritten the code"], "answer": 0 },
+    { "q": "What is the problem with the documentation?", "options": ["It is too long", "It is in the wrong language", "It feels rushed and a new colleague couldn't follow it"], "answer": 2 },
+    { "q": "What does Luca promise to do?", "options": ["Send short updates every Friday", "Leave the company", "Hire a new colleague"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Avrei dovuto controllare il contrasto dei colori.", "en": "I should have checked the colour contrast.", "alt": ["I should have checked the color contrast.", "I should have checked the contrast of the colours."] },
+    { "it": "Non avremmo dovuto promettere quella scadenza.", "en": "We shouldn't have promised that deadline.", "alt": ["We should not have promised that deadline.", "We shouldn't have promised that date."] },
+    { "it": "Avresti potuto mandarmi un messaggio.", "en": "You could have sent me a message.", "alt": ["You could have messaged me.", "You could have written to me."] },
+    { "it": "Se lo avessi saputo, ti avrei aiutato.", "en": "If I had known, I would have helped you.", "alt": ["If I'd known, I would have helped you.", "If I had known, I'd have helped you."] },
+    { "it": "Grazie per il feedback, è davvero prezioso.", "en": "Thanks for the feedback. It's really valuable.", "alt": ["Thank you for the feedback. It is really valuable.", "Thanks for your feedback, it's really valuable."] },
+    { "it": "Terrò conto dei tuoi commenti.", "en": "I'll take your comments on board.", "alt": ["I will take your comments on board.", "I'll take your feedback on board."] },
+    { "it": "Non prenderla sul personale.", "en": "Please don't take it personally.", "alt": ["Don't take it personally.", "Don't take this personally."] },
+    { "it": "Il report è molto accurato, ma c'è margine di miglioramento.", "en": "The report is very thorough, but there is room for improvement.", "alt": ["The report is very thorough, but there's room for improvement."] },
+    { "it": "Con il senno di poi, avremmo dovuto testare prima.", "en": "In hindsight, we should have tested earlier.", "alt": ["With hindsight, we should have tested earlier.", "In hindsight, we should have tested sooner."] },
+    { "it": "Potresti approfondire quel punto?", "en": "Could you elaborate on that point?", "alt": ["Could you elaborate on that?", "Can you elaborate on that point?"] },
+    { "it": "Mi assumo la responsabilità dell'errore.", "en": "I take responsibility for the error.", "alt": ["I take responsibility for the mistake.", "I take full responsibility for the error."] },
+    { "it": "Hai superato le aspettative del cliente.", "en": "You exceeded the client's expectations.", "alt": ["You went beyond the client's expectations.", "You exceeded the expectations of the client."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a un collega junior che ha appena finito un sito per un cliente. Inizia con due cose positive. Poi dai due consigli gentili: una cosa che avrebbe potuto fare meglio (could have) e una cosa che avrebbe dovuto fare (should have). Spiega perché sarebbe stato utile. Concludi con una frase di incoraggiamento. Tono gentile e costruttivo, 6-8 righe.",
+    "taskEn": "Write an email to a junior colleague who has just finished a website for a client. Start with two positive points. Then give two gentle pieces of advice: one thing that he could have done better (could have) and one thing that he should have done (should have). Explain why it would have been useful. Finish with a sentence of encouragement. Use a kind and constructive tone, 6-8 lines.",
+    "model": "Hi Marco,\nThank you for your work on the client's website. I really liked the clean layout, and your code was very thorough.\nI'd like to share two small points. You could have added a short summary at the top of the documentation. It would have helped the client find the key information faster. Also, you should have told me about the delay earlier. If I had known, I would have moved the meeting.\nThese are small things, and you're definitely on the right track. Let's talk about it on Friday.\nWell done again,\nEmma"
+  },
+  "speaking": {
+    "shadowing": [
+      "I should have checked it more carefully.",
+      "You could have added a short summary at the top.",
+      "If I had known, I would have called you.",
+      "Thanks for the feedback. That's really valuable.",
+      "I'll take that on board and send an update on Friday.",
+      "Please don't take it personally. It's just a suggestion.",
+      "In hindsight, we should have tested on mobile earlier.",
+      "You exceeded our expectations. Great job."
+    ],
+    "prompts": [
+      { "en": "What is your biggest strength at work?", "it": "Qual è il tuo punto di forza più grande al lavoro?", "help": "Inizia con: My biggest strength is... For example, I..." },
+      { "en": "Tell me about a time you got useful feedback.", "it": "Raccontami di una volta in cui hai ricevuto un feedback utile.", "help": "Usa: My manager told me that... I took it on board and..." },
+      { "en": "What should you have done differently on your last project?", "it": "Cosa avresti dovuto fare in modo diverso nell'ultimo progetto?", "help": "Usa: I should have... If I had..., I would have..." },
+      { "en": "How do you give criticism to a colleague without upsetting them?", "it": "Come dai una critica a un collega senza offenderlo?", "help": "Usa: I start with something positive. I say 'you could have...'. I stay tactful." },
+      { "en": "How do you react when someone criticises your work?", "it": "Come reagisci quando qualcuno critica il tuo lavoro?", "help": "Usa: I try not to get defensive. I ask them to elaborate. I reflect on it." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": ["Giving and receiving feedback", "should have, could have, would have"],
+      "say": [
+        { "lang": "it", "text": "Oggi impari a dare e ricevere un feedback. Vedi anche come parlare di ciò che si poteva fare nel passato, con should have, could have e would have." },
+        { "lang": "en", "text": "I should have checked it more carefully." }
+      ]
+    },
+    {
+      "title": "La forma",
+      "show": ["should have + participio", "could have + participio", "would have + participio"],
+      "say": [
+        { "lang": "it", "text": "Tutte e tre le forme hanno la stessa struttura. Un verbo modale, poi have, poi il participio passato. Nel parlato si dice should've, could've e would've." },
+        { "lang": "en", "text": "I should have sent it. We could have finished earlier. She would have helped." }
+      ]
+    },
+    {
+      "title": "Should have",
+      "show": ["avresti dovuto", "You should have told me"],
+      "say": [
+        { "lang": "it", "text": "Should have vuol dire che era giusto fare una cosa, ma non è stata fatta. È un rimprovero oppure un rimpianto. Con shouldn't have dici che hai fatto qualcosa di sbagliato." },
+        { "lang": "en", "text": "You should have told me earlier. I shouldn't have sent that email." }
+      ]
+    },
+    {
+      "title": "Could have",
+      "show": ["avresti potuto", "It couldn't have been the server"],
+      "say": [
+        { "lang": "it", "text": "Could have vuol dire che era possibile, ma non è successo. Suona più gentile di should have. Couldn't have vuol dire che era impossibile." },
+        { "lang": "en", "text": "You could have added a short summary. It couldn't have been the server." }
+      ]
+    },
+    {
+      "title": "Would have",
+      "show": ["If I had known, I would have called", "mai: If I would have known"],
+      "say": [
+        { "lang": "it", "text": "Would have dice cosa sarebbe successo in un'altra situazione. Con if usa il past perfect, cioè had più il participio. Mai would dopo if." },
+        { "lang": "en", "text": "If I had known, I would have called you." }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": ["should of   sbagliato", "should have   giusto"],
+      "say": [
+        { "lang": "it", "text": "Non scrivere should of. È un errore che nasce dal suono. Scrivi sempre should have, oppure should've." },
+        { "lang": "en", "text": "I should have called. I should've called." }
+      ]
+    },
+    {
+      "title": "Dare un feedback gentile",
+      "show": ["Great job on the audit", "One thing that could be improved...", "You could have added..."],
+      "say": [
+        { "lang": "it", "text": "Per un feedback costruttivo, inizia con una cosa positiva. Poi indica un miglioramento con un tono gentile. Could have è più morbido di should have." },
+        { "lang": "en", "text": "Great job on the audit. One thing that could be improved is the layout." }
+      ]
+    },
+    {
+      "title": "Ricevere un feedback",
+      "show": ["I'll take that on board", "Could you elaborate?", "Don't get defensive"],
+      "say": [
+        { "lang": "it", "text": "Quando ricevi una critica, non metterti sulla difensiva. Ringrazia, chiedi di spiegare meglio e di' che terrai conto dei commenti." },
+        { "lang": "en", "text": "Thanks for the feedback. I'll take that on board. Could you elaborate on that?" }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["should have = era giusto", "could have = era possibile", "would have = sarebbe successo"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Should have per ciò che era giusto. Could have per ciò che era possibile. Would have per ciò che sarebbe successo. Ora fai gli esercizi e scrivi la tua mail di feedback." },
+        { "lang": "en", "text": "In hindsight, I would have done it differently." }
+      ]
+    }
+  ]
+}

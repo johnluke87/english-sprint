@@ -1,0 +1,314 @@
+{
+  "id": 31,
+  "week": 7,
+  "title": "Lavoro di squadra e da remoto",
+  "titleEn": "Teamwork and remote work",
+  "intro": "Oggi impari a parlare del lavoro in squadra e a distanza: chiamate video, fusi orari, chat e strumenti di collaborazione. Vedi anche altri phrasal verbs molto usati negli uffici: catch up, sort out, look into, take over. Ti servono ogni giorno quando lavori con colleghi e clienti in altri Paesi.",
+  "goals": [
+    "Usare i phrasal verbs catch up, sort out, look into, take over, hand over, reach out",
+    "Organizzare una chiamata tra fusi orari diversi",
+    "Scrivere un messaggio chiaro in una chat di squadra",
+    "Gestire i piccoli problemi di una videochiamata"
+  ],
+  "words": [
+    { "en": "to catch up", "pron": "càcc ap", "it": "aggiornarsi, mettersi in pari", "type": "verb", "ex": "Let's catch up on the project after lunch.", "exIt": "Facciamo il punto sul progetto dopo pranzo." },
+    { "en": "breakout room", "pron": "brèikaut rum", "it": "stanza separata per piccoli gruppi", "type": "noun", "ex": "We used breakout rooms to discuss the tasks in small groups.", "exIt": "Abbiamo usato stanze separate per discutere dei compiti in piccoli gruppi." },
+    { "en": "co-working space", "pron": "còu uèrking speis", "it": "spazio di lavoro condiviso", "type": "noun", "ex": "I rent a desk in a co-working space.", "exIt": "Affitto una scrivania in uno spazio di lavoro condiviso." },
+    { "en": "latency", "pron": "lèitensi", "it": "latenza, ritardo", "type": "noun", "ex": "High latency made the video call hard to follow.", "exIt": "L'alta latenza rendeva difficile seguire la videochiamata." },
+    { "en": "remote-first", "pron": "rimòut ferst", "it": "organizzato prima di tutto per il lavoro da remoto", "type": "adj", "ex": "We are a remote-first company.", "exIt": "Siamo un'azienda organizzata prima di tutto per il lavoro da remoto." },
+    { "en": "office hours", "pron": "òfis àuers", "it": "orario d'ufficio, orario di apertura", "type": "noun", "ex": "Our office hours are nine to five, Italian time.", "exIt": "Il nostro orario di lavoro è dalle nove alle cinque, ora italiana." },
+    { "en": "shared inbox", "pron": "scèrd ìnbocs", "it": "casella di posta condivisa", "type": "noun", "ex": "Support emails go to a shared inbox.", "exIt": "Le mail di assistenza arrivano in una casella condivisa." },
+    { "en": "to be offline", "pron": "bi oflàin", "it": "non essere raggiungibile", "type": "phrase", "ex": "I'll be offline until two o'clock.", "exIt": "Non sarò raggiungibile fino alle due." },
+    { "en": "to figure out", "pron": "fìghier aut", "it": "capire, trovare la soluzione", "type": "verb", "ex": "We couldn't figure out why the form failed.", "exIt": "Non siamo riusciti a capire perché il modulo non funzionasse." },
+    { "en": "video call", "pron": "vìdiou col", "it": "videochiamata", "type": "noun", "ex": "We have a video call every Monday morning.", "exIt": "Facciamo una videochiamata ogni lunedì mattina." },
+    { "en": "to team up", "pron": "tiim ap", "it": "fare squadra, unire le forze", "type": "verb", "ex": "I'm teaming up with a designer on this project.", "exIt": "Sto facendo squadra con un designer su questo progetto." },
+    { "en": "task board", "pron": "task bord", "it": "bacheca dei compiti", "type": "noun", "ex": "Move the card to Done on the task board.", "exIt": "Sposta la scheda su Fatto nella bacheca dei compiti." },
+    { "en": "time difference", "pron": "tàim dìferens", "it": "differenza di fuso orario", "type": "noun", "ex": "With the time difference, we can only talk in the morning.", "exIt": "Con la differenza di fuso orario possiamo parlare solo al mattino." },
+    { "en": "to dial in", "pron": "dàial in", "it": "collegarsi alla chiamata", "type": "verb", "ex": "I'll dial in from my home office.", "exIt": "Mi collego dal mio studio a casa." },
+    { "en": "to coordinate with", "pron": "kouòrdineit uid", "it": "coordinarsi con", "type": "phrase", "ex": "I'll coordinate with the design team.", "exIt": "Mi coordino con il team di design." },
+    { "en": "shared document", "pron": "sciérd dòkiument", "it": "documento condiviso", "type": "noun", "ex": "Everyone can edit the shared document.", "exIt": "Tutti possono modificare il documento condiviso." },
+    { "en": "to ping", "pron": "ping", "it": "scrivere un messaggio veloce a qualcuno", "type": "verb", "ex": "Just ping me if anything breaks.", "exIt": "Scrivimi pure se qualcosa si rompe." },
+    { "en": "to hop on a call", "pron": "hop on a col", "it": "fare una chiamata al volo", "type": "phrase", "ex": "Can we hop on a call for five minutes?", "exIt": "Possiamo fare una chiamata al volo di cinque minuti?" },
+    { "en": "to go quiet", "pron": "gou cuàiet", "it": "non farsi sentire", "type": "phrase", "ex": "The client went quiet after we sent the quote.", "exIt": "Il cliente non si è più fatto sentire dopo il preventivo." },
+    { "en": "to tag", "pron": "tag", "it": "taggare, menzionare", "type": "verb", "ex": "I tagged you in the comment.", "exIt": "Ti ho taggato nel commento." },
+    { "en": "remote", "pron": "rimòut", "it": "da remoto, a distanza", "type": "adj", "ex": "Our whole team is remote.", "exIt": "Tutta la nostra squadra lavora da remoto." },
+    { "en": "hybrid", "pron": "hàibrid", "it": "ibrido (in sede e da casa)", "type": "adj", "ex": "We have a hybrid schedule: two days in the office.", "exIt": "Abbiamo un orario ibrido: due giorni in ufficio." },
+    { "en": "asynchronous", "pron": "eisìncronos", "it": "asincrono (non in tempo reale)", "type": "adj", "ex": "We prefer asynchronous updates to long meetings.", "exIt": "Preferiamo aggiornamenti asincroni alle riunioni lunghe." },
+    { "en": "time zone", "pron": "tàim zòun", "it": "fuso orario", "type": "noun", "ex": "We're in different time zones, so it's tricky.", "exIt": "Siamo in fusi orari diversi, quindi è complicato." },
+    { "en": "overlap", "pron": "òuverlap", "it": "sovrapposizione (di orari)", "type": "noun", "ex": "We only have a two-hour overlap each day.", "exIt": "Abbiamo solo due ore di orari in comune al giorno." },
+    { "en": "teammate", "pron": "tìimmeit", "it": "compagno di squadra", "type": "noun", "ex": "My teammates are great at testing.", "exIt": "I miei compagni di squadra sono bravissimi nei test." },
+    { "en": "stand-up", "pron": "stànd ap", "it": "breve riunione quotidiana in piedi", "type": "noun", "ex": "Our stand-up is at nine every day.", "exIt": "La nostra riunione veloce è alle nove ogni giorno." },
+    { "en": "channel", "pron": "cènnol", "it": "canale (di chat)", "type": "noun", "ex": "Post the update in the project channel.", "exIt": "Pubblica l'aggiornamento nel canale del progetto." },
+    { "en": "round-the-clock", "pron": "ràund de clòc", "it": "h24, a ciclo continuo", "type": "adj", "ex": "We offer round-the-clock monitoring.", "exIt": "Offriamo un monitoraggio h24." },
+    { "en": "notification", "pron": "noutifikèiscion", "it": "notifica", "type": "noun", "ex": "I turned off notifications to focus.", "exIt": "Ho disattivato le notifiche per concentrarmi." },
+    { "en": "to dial", "pron": "dàial", "it": "comporre un numero", "type": "verb", "ex": "Dial the number in the meeting invite.", "exIt": "Componi il numero indicato nell'invito alla riunione." },
+    { "en": "quiet hours", "pron": "cuàiet àuers", "it": "ore senza notifiche", "type": "noun", "ex": "Respect the team's quiet hours.", "exIt": "Rispetta le ore senza notifiche del team." },
+    { "en": "screen sharing", "pron": "scriin scèering", "it": "condivisione dello schermo", "type": "noun", "ex": "Screen sharing makes the demo much easier.", "exIt": "La condivisione dello schermo rende la demo molto più facile." },
+    { "en": "shared drive", "pron": "scèrd dràiv", "it": "cartella condivisa online", "type": "noun", "ex": "All the files are on the shared drive.", "exIt": "Tutti i file sono nella cartella condivisa." },
+    { "en": "working hours", "pron": "uèrking àuers", "it": "orario di lavoro", "type": "noun", "ex": "My working hours are nine to five, Rome time.", "exIt": "Il mio orario di lavoro è dalle nove alle cinque, ora di Roma." },
+    { "en": "public holiday", "pron": "pàblic hòlidei", "it": "festività, giorno festivo", "type": "noun", "ex": "Tuesday is a public holiday in Italy, so I'll be offline.", "exIt": "Martedì in Italia è festa, quindi non sarò raggiungibile." },
+    { "en": "bank holiday", "pron": "bank hòlidei", "it": "giorno festivo", "type": "noun", "ex": "Monday is a bank holiday in the UK.", "exIt": "Lunedì è un giorno festivo nel Regno Unito." },
+    { "en": "workspace", "pron": "uèrkspeis", "it": "spazio di lavoro", "type": "noun", "ex": "Please join our new workspace.", "exIt": "Unisciti al nostro nuovo spazio di lavoro." },
+    { "en": "out of office", "pron": "àut ov òfis", "it": "fuori sede, assente", "type": "phrase", "ex": "I'm out of office until Thursday.", "exIt": "Sono assente fino a giovedì." },
+    { "en": "on the same page", "pron": "on de seim peig", "it": "d'accordo, allineati", "type": "phrase", "ex": "Let's make sure we're all on the same page.", "exIt": "Assicuriamoci di essere tutti allineati." },
+    { "en": "bear with me", "pron": "bèer uìd mi", "it": "abbi pazienza", "type": "phrase", "ex": "Bear with me, I'm sharing my screen.", "exIt": "Abbi pazienza, sto condividendo lo schermo." },
+    { "en": "in the loop", "pron": "in de lùup", "it": "al corrente", "type": "phrase", "ex": "Keep me in the loop, please.", "exIt": "Tienimi aggiornato, per favore." },
+    { "en": "to cut out", "pron": "cat aut", "it": "interrompersi (audio)", "type": "verb", "ex": "Your audio keeps cutting out.", "exIt": "Il tuo audio continua a interrompersi." },
+    { "en": "sick leave", "pron": "sic liiv", "it": "congedo per malattia", "type": "noun", "ex": "She is on sick leave this week.", "exIt": "Questa settimana è in congedo per malattia." },
+    { "en": "to drop off", "pron": "drop òf", "it": "perdere la connessione, cadere", "type": "verb", "ex": "I dropped off the call, sorry.", "exIt": "Mi è caduta la linea, scusate." },
+    { "en": "to log off", "pron": "log òf", "it": "disconnettersi, staccare", "type": "verb", "ex": "I usually log off at six.", "exIt": "Di solito stacco alle sei." },
+    { "en": "deputy", "pron": "dèpiuti", "it": "vice, sostituto", "type": "noun", "ex": "My deputy will cover while I'm away.", "exIt": "Il mio vice mi sostituirà mentre sono via." },
+    { "en": "virtual background", "pron": "vèrciual bàkgraund", "it": "sfondo virtuale", "type": "noun", "ex": "Turn on a virtual background if your room is messy.", "exIt": "Attiva uno sfondo virtuale se la stanza è in disordine." },
+    { "en": "to line up", "pron": "lain ap", "it": "organizzare, fissare (una chiamata)", "type": "verb", "ex": "Let's line up a call for Tuesday.", "exIt": "Fissiamo una chiamata per martedì." },
+    { "en": "noise-cancelling", "pron": "nòiz cànseling", "it": "con cancellazione del rumore", "type": "adj", "ex": "I use noise-cancelling headphones at home.", "exIt": "A casa uso cuffie con cancellazione del rumore." }
+  ],
+  "falseFriends": [
+    { "en": "to sort out", "it": "risolvere, sistemare", "trap": "Non vuol dire 'sortire' o 'ordinare per tipo': vuol dire risolvere un problema." },
+    { "en": "college", "it": "università, istituto di studi", "trap": "Non è il collega: il collega si dice colleague." },
+    { "en": "to pretend", "it": "fingere", "trap": "Non vuol dire 'pretendere' (= to demand)." }
+  ],
+  "grammar": {
+    "title": "Phrasal verbs del lavoro (parte 2)",
+    "explainIt": [
+      "Un phrasal verb è un verbo con una piccola parola dopo: up, out, in, over, off, into. Insieme hanno un significato nuovo. 'Catch' vuol dire prendere, 'up' vuol dire su. Ma 'catch up' vuol dire mettersi in pari. Il significato va imparato come una parola sola.",
+      "Alcuni phrasal verbs sono separabili. Puoi mettere l'oggetto in mezzo: 'sort the problem out' oppure 'sort out the problem'. Se l'oggetto è un pronome (it, them, him, her, me, us), va SEMPRE in mezzo: 'sort it out', mai 'sort out it'. Sono separabili: sort out, hand over, take over, loop in, line up, wrap up, pass on.",
+      "Altri phrasal verbs sono inseparabili. L'oggetto va sempre dopo, anche se è un pronome: 'look into the issue', 'look into it'. Sono inseparabili: look into, deal with, rely on, reach out to, run into.",
+      "Alcuni phrasal verbs non hanno oggetto: 'Let's catch up', 'I'll check in tomorrow', 'I dropped off for a second', 'My audio cut out'. Con 'catch up' e 'check in' puoi aggiungere una persona con with o un argomento con on: 'catch up on the project', 'check in with the client'.",
+      "Nelle mail e nelle chat i phrasal verbs sono molto naturali. Nei testi molto formali si usano a volte verbi singoli: look into diventa investigate, sort out diventa resolve, hand over diventa transfer. Impara entrambe le forme."
+    ],
+    "explainEn": [
+      "A phrasal verb is a verb plus a small word like up, out, in, over, off or into. Together they have a new meaning. 'Catch' means to grab something, but 'catch up' means to get up to date. You learn the meaning as one unit.",
+      "Some phrasal verbs are separable. You can put the object in the middle: 'sort the problem out' or 'sort out the problem'. If the object is a pronoun (it, them, him, her, me, us), it ALWAYS goes in the middle: 'sort it out', never 'sort out it'. Separable: sort out, hand over, take over, loop in, line up, wrap up, pass on.",
+      "Other phrasal verbs are inseparable. The object always comes after, even when it is a pronoun: 'look into the issue', 'look into it'. Inseparable: look into, deal with, rely on, reach out to, run into.",
+      "Some phrasal verbs have no object: 'Let's catch up', 'I'll check in tomorrow', 'I dropped off for a second', 'My audio cut out'. With 'catch up' and 'check in' you can add a person with with or a topic with on: 'catch up on the project', 'check in with the client'.",
+      "In emails and chats phrasal verbs sound natural. In very formal texts people sometimes use a single verb: look into becomes investigate, sort out becomes resolve, hand over becomes transfer. Learn both."
+    ],
+    "rules": [
+      {
+        "it": "Con i phrasal verbs separabili il pronome va in mezzo.",
+        "en": "With separable phrasal verbs, a pronoun goes in the middle.",
+        "form": "verbo + pronome + particella",
+        "examples": [
+          { "en": "The bug is serious. Please sort it out today.", "it": "Il bug è grave. Risolvilo oggi, per favore." },
+          { "en": "I'll hand the project over to Anna.", "it": "Passerò il progetto ad Anna." },
+          { "en": "Can you loop me in on the thread?", "it": "Puoi coinvolgermi nella conversazione?" }
+        ]
+      },
+      {
+        "it": "Con i phrasal verbs inseparabili l'oggetto va sempre dopo la particella.",
+        "en": "With inseparable phrasal verbs, the object always comes after the particle.",
+        "form": "verbo + particella + oggetto",
+        "examples": [
+          { "en": "We're looking into it right now.", "it": "Lo stiamo verificando proprio ora." },
+          { "en": "Sam will deal with the account next week.", "it": "Sam si occuperà del cliente la settimana prossima." },
+          { "en": "You can rely on us.", "it": "Puoi contare su di noi." }
+        ]
+      },
+      {
+        "it": "Alcuni phrasal verbs non hanno oggetto: dopo la particella non serve altro.",
+        "en": "Some phrasal verbs have no object and stand alone.",
+        "form": "soggetto + verbo + particella",
+        "examples": [
+          { "en": "Let's catch up on Friday.", "it": "Facciamo il punto venerdì." },
+          { "en": "The audio cut out for a moment.", "it": "L'audio si è interrotto per un momento." },
+          { "en": "I'll log off at six.", "it": "Staccherò alle sei." }
+        ]
+      },
+      {
+        "it": "Con i phrasal verbs a tre parti la preposizione finale è inseparabile.",
+        "en": "With three-part phrasal verbs, the final preposition is inseparable.",
+        "form": "verbo + particella + preposizione + oggetto",
+        "examples": [
+          { "en": "I'll check in with the client tomorrow.", "it": "Domani mi sentirò con il cliente." },
+          { "en": "Can you catch up on the thread before the call?", "it": "Puoi leggerti la conversazione prima della chiamata?" }
+        ]
+      }
+    ],
+    "tip": "Quando impari un phrasal verb, impara subito una frase intera, per esempio 'Let's sort it out'. Così ricordi anche dove va il pronome.",
+    "mistakes": [
+      { "wrong": "Please sort out it.", "right": "Please sort it out.", "why": "con un pronome, i verbi separabili vogliono il pronome in mezzo" },
+      { "wrong": "We are looking it into.", "right": "We are looking into it.", "why": "look into è inseparabile: l'oggetto va dopo" },
+      { "wrong": "I will check in the client tomorrow.", "right": "I will check in with the client tomorrow.", "why": "con una persona serve with" },
+      { "wrong": "Let's catch up us on Monday.", "right": "Let's catch up on Monday.", "why": "catch up non vuole un pronome: in italiano diciamo 'aggiornarci', in inglese basta 'catch up'" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "The login bug is urgent. Please sort ___ out today.", "a": ["it"], "hint": "pronome in mezzo", "explain": "Con sort out il pronome va in mezzo: sort it out." },
+    { "q": "We are ___ into the problem with the form.", "a": ["looking"], "hint": "stiamo indagando", "explain": "Present continuous: we are looking into." },
+    { "q": "I'll hand the files ___ to Anna tomorrow.", "a": ["over"], "hint": "passare il lavoro", "explain": "Hand over = passare, consegnare." },
+    { "q": "Let's ___ up on the project after lunch.", "a": ["catch"], "hint": "mettersi in pari", "explain": "Catch up = aggiornarsi." },
+    { "q": "Can you ___ me in on this thread? (coinvolgere)", "a": ["loop"], "hint": "mettere in copia", "explain": "Loop someone in = coinvolgere in una conversazione." },
+    { "q": "Marta will take ___ my tasks while I'm away.", "a": ["over"], "hint": "prendere in carico", "explain": "Take over = subentrare." },
+    { "q": "Please reach ___ if you need any help.", "a": ["out"], "hint": "contattare", "explain": "Reach out = contattare, farsi sentire." },
+    { "q": "I'll check ___ with the client on Friday.", "a": ["in"], "hint": "fare il punto", "explain": "Check in with someone = sentirsi con qualcuno." },
+    { "q": "We couldn't figure ___ why the page was slow.", "a": ["out"], "hint": "capire", "explain": "Figure out = capire, trovare la soluzione." },
+    { "q": "The client signed ___ on the final design.", "a": ["off"], "hint": "approvare", "explain": "Sign off on = approvare ufficialmente." },
+    { "q": "Your audio keeps cutting ___.", "a": ["out"], "hint": "si interrompe", "explain": "Cut out = interrompersi (audio)." },
+    { "q": "You can rely ___ me for the testing.", "a": ["on"], "hint": "contare su", "explain": "Rely on = contare su." }
+  ],
+  "phrases": [
+    { "group": "Organizzare una chiamata", "en": "When are you free to catch up?", "it": "Quando sei libero per fare il punto?" },
+    { "group": "Organizzare una chiamata", "en": "Let's line up a call for Tuesday morning.", "it": "Fissiamo una chiamata per martedì mattina." },
+    { "group": "Organizzare una chiamata", "en": "What time works for you in your time zone?", "it": "A che ora ti va bene, nel tuo fuso orario?" },
+    { "group": "Organizzare una chiamata", "en": "We only have a short overlap, so let's be quick.", "it": "Abbiamo poco tempo in comune, quindi facciamo in fretta." },
+    { "group": "Organizzare una chiamata", "en": "I'll send a calendar invite.", "it": "Mando un invito sul calendario." },
+    { "group": "Problemi durante la chiamata", "en": "Sorry, you're on mute.", "it": "Scusa, hai il microfono spento.", "note": "frase che sentirai spessissimo" },
+    { "group": "Problemi durante la chiamata", "en": "Your audio is cutting out.", "it": "Il tuo audio si interrompe." },
+    { "group": "Problemi durante la chiamata", "en": "I think my connection is unstable.", "it": "Credo che la mia connessione sia instabile." },
+    { "group": "Problemi durante la chiamata", "en": "Can everyone see my screen?", "it": "Tutti vedono il mio schermo?" },
+    { "group": "Problemi durante la chiamata", "en": "Sorry, I dropped off for a second. Where were we?", "it": "Scusate, sono caduto per un attimo. A che punto eravamo?" },
+    { "group": "Chat di squadra", "en": "Quick heads-up: the site will be down at six.", "it": "Avviso veloce: il sito sarà fermo alle sei." },
+    { "group": "Chat di squadra", "en": "Can you loop in the designer?", "it": "Puoi coinvolgere la designer?" },
+    { "group": "Chat di squadra", "en": "I've tagged you in the comment.", "it": "Ti ho taggato nel commento." },
+    { "group": "Chat di squadra", "en": "Please reply in the thread.", "it": "Rispondi nella conversazione, per favore." },
+    { "group": "Chat di squadra", "en": "Thanks for the update, much appreciated.", "it": "Grazie per l'aggiornamento, molto gradito." },
+    { "group": "Dividersi il lavoro", "en": "Who's taking over this task?", "it": "Chi prende in carico questo compito?" },
+    { "group": "Dividersi il lavoro", "en": "I can take that on.", "it": "Me ne occupo io.", "note": "take on = accettare un compito" },
+    { "group": "Dividersi il lavoro", "en": "I don't have the bandwidth this week.", "it": "Questa settimana non ho la disponibilità." },
+    { "group": "Dividersi il lavoro", "en": "Let's split the workload evenly.", "it": "Dividiamoci il carico di lavoro in parti uguali." },
+    { "group": "Dividersi il lavoro", "en": "I'll hand it over to you on Friday.", "it": "Venerdì lo passo a te." },
+    { "group": "Restare allineati", "en": "Let's make sure we're all on the same page.", "it": "Assicuriamoci di essere tutti allineati." },
+    { "group": "Restare allineati", "en": "Keep me in the loop.", "it": "Tienimi aggiornato." },
+    { "group": "Restare allineati", "en": "I'll check in with you tomorrow.", "it": "Domani ci sentiamo." },
+    { "group": "Restare allineati", "en": "I'm out of office until Monday.", "it": "Sono assente fino a lunedì." },
+    { "group": "Restare allineati", "en": "Let's wrap up here and sort the rest out by email.", "it": "Chiudiamo qui e sistemiamo il resto per mail." }
+  ],
+  "dialogue": {
+    "title": "A remote stand-up",
+    "context": "Luca lavora da Milano, Sarah da Londra e Tom da New York. Hanno la loro riunione veloce quotidiana in videochiamata e devono sistemare un problema sul sito di un cliente.",
+    "lines": [
+      { "s": "A", "name": "Sarah", "en": "Morning, everyone. Luca, you're on mute.", "it": "Buongiorno a tutti. Luca, hai il microfono spento." },
+      { "s": "B", "name": "Luca", "en": "Sorry! Can you hear me now? My headset was acting up.", "it": "Scusate! Mi sentite adesso? Le cuffie facevano i capricci." },
+      { "s": "A", "name": "Sarah", "en": "Yes, loud and clear. Let's start by catching up on the client's site.", "it": "Sì, forte e chiaro. Partiamo dal fare il punto sul sito del cliente." },
+      { "s": "C", "name": "Tom", "en": "The checkout page still crashes on mobile. I'm looking into it, but I can't figure out why.", "it": "La pagina di pagamento va ancora in errore da cellulare. Sto indagando, ma non capisco perché." },
+      { "s": "B", "name": "Luca", "en": "I had a similar problem last month. I'll send you the notes, and I can chip in this afternoon.", "it": "Ho avuto un problema simile il mese scorso. Ti mando gli appunti e oggi pomeriggio posso darti una mano." },
+      { "s": "C", "name": "Tom", "en": "Great, thanks. The overlap is tiny, though. It's six in the morning here.", "it": "Grazie. Però le ore in comune sono pochissime. Qui sono le sei del mattino." },
+      { "s": "A", "name": "Sarah", "en": "Right. Let's line up a call for four o'clock your time, Luca, so Tom can dial in from home.", "it": "Giusto. Fissiamo una chiamata alle quattro, ora tua, Luca, così Tom può collegarsi da casa." },
+      { "s": "B", "name": "Luca", "en": "Works for me. Should I loop in the client?", "it": "Per me va bene. Devo coinvolgere il cliente?" },
+      { "s": "A", "name": "Sarah", "en": "Not yet. Let's sort it out first and then give them a quick heads-up.", "it": "Non ancora. Prima sistemiamo il problema e poi gli diamo un breve avviso." },
+      { "s": "C", "name": "Tom", "en": "Agreed. Also, I'm out of office on Friday, so Anna will take over the release.", "it": "D'accordo. Inoltre venerdì sono assente, quindi Anna prenderà in carico il rilascio." },
+      { "s": "B", "name": "Luca", "en": "Has Anna got everything she needs? I don't want her to be out of the loop.", "it": "Anna ha tutto quello che le serve? Non vorrei che restasse all'oscuro." },
+      { "s": "C", "name": "Tom", "en": "I'll hand over my notes today. She can reach out to me if anything is unclear.", "it": "Oggi le passo i miei appunti. Può contattarmi se qualcosa non è chiaro." },
+      { "s": "A", "name": "Sarah", "en": "Perfect. Let's make sure we're all on the same page, then.", "it": "Perfetto. Assicuriamoci allora di essere tutti allineati." },
+      { "s": "A", "name": "Sarah", "en": "Any last points? No? Then let's wrap up. Thanks, everyone.", "it": "Ultimi punti? No? Allora chiudiamo. Grazie a tutti." }
+    ]
+  },
+  "listening": [
+    { "q": "What is the problem on the client's site?", "options": ["The checkout page crashes on mobile", "The home page is too slow", "The logo is missing"], "answer": 0 },
+    { "q": "Why is the overlap a problem for Tom?", "options": ["He doesn't have a headset", "It is six in the morning for him", "He is on holiday"], "answer": 1 },
+    { "q": "Who will take over the release on Friday?", "options": ["Sarah", "Luca", "Anna"], "answer": 2 },
+    { "q": "What does Sarah want to do before telling the client?", "options": ["Sort the problem out first", "Cancel the project", "Ask for more time"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Facciamo il punto sul progetto domani mattina.", "en": "Let's catch up on the project tomorrow morning.", "alt": ["Let's catch up about the project tomorrow morning."] },
+    { "it": "Ci stiamo lavorando e risolveremo tutto entro oggi.", "en": "We're looking into it and we'll sort it out by the end of today.", "alt": ["We're looking into it and will sort it out today.", "We're looking into it and we'll sort it out today."] },
+    { "it": "Anna prenderà in carico il cliente mentre sono via.", "en": "Anna will take over the client while I'm away.", "alt": ["Anna will take over the account while I'm away.", "Anna will take over the client while I am away."] },
+    { "it": "Puoi coinvolgere Marco in questa conversazione?", "en": "Can you loop Marco in on this thread?", "alt": ["Can you loop in Marco on this thread?", "Could you loop Marco in on this thread?"] },
+    { "it": "Scusa, hai il microfono spento.", "en": "Sorry, you're on mute.", "alt": ["Sorry, you are on mute.", "Sorry, you're muted."] },
+    { "it": "Il tuo audio continua a interrompersi.", "en": "Your audio keeps cutting out.", "alt": ["Your audio keeps breaking up."] },
+    { "it": "Abbiamo solo un'ora di orari in comune.", "en": "We only have a one-hour overlap.", "alt": ["We only have one hour of overlap."] },
+    { "it": "Contattami pure se hai domande.", "en": "Please reach out if you have any questions.", "alt": ["Feel free to reach out if you have any questions.", "Reach out if you have questions."] },
+    { "it": "Questa settimana non ho la disponibilità per un altro progetto.", "en": "I don't have the bandwidth for another project this week.", "alt": ["This week I don't have the bandwidth for another project."] },
+    { "it": "Passerò i miei appunti a Tom prima delle ferie.", "en": "I'll hand my notes over to Tom before my holiday.", "alt": ["I'll hand over my notes to Tom before my holiday.", "I will hand my notes over to Tom before my holiday."] },
+    { "it": "Teniamoci aggiornati per mail.", "en": "Let's keep each other in the loop by email.", "alt": ["Let's keep each other updated by email.", "Let's keep in touch by email."] },
+    { "it": "Il cliente ha approvato il design.", "en": "The client signed off on the design.", "alt": ["The client has signed off on the design.", "The client approved the design."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi un messaggio nella chat di squadra. Avvisa i colleghi che domani sarai assente (out of office). Di' che Anna prenderà in carico il lavoro sul sito del cliente. Di' che hai passato a lei gli appunti. Chiedi a Tom di fissare una chiamata breve oggi e dai un orario. Concludi chiedendo di restare allineati. Usa almeno tre phrasal verbs della lezione.",
+    "taskEn": "Write a message in the team chat. Tell your colleagues that you will be out of office tomorrow. Say that Anna will take over the work on the client's site. Say that you have handed your notes over to her. Ask Tom to line up a short call today and suggest a time. Finish by asking everyone to stay on the same page. Use at least three phrasal verbs from the lesson.",
+    "model": "Hi all,\nQuick heads-up: I'm out of office tomorrow. Anna will take over the work on the client's site, and I've handed my notes over to her this morning.\nTom, could you line up a short call today at four, Rome time? I'd like to check in on the checkout bug before I log off.\nIf anything urgent comes up, please reach out to Anna. Let's make sure we're all on the same page.\nThanks,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Sorry, I was on mute. Can you hear me now?",
+      "Let's catch up on the project after lunch.",
+      "We're looking into it and we'll sort it out today.",
+      "Anna will take over the account while I'm away.",
+      "Can you loop in the designer on this thread?",
+      "We only have a two-hour overlap, so let's be quick.",
+      "Please reach out if you need any help.",
+      "Let's make sure we're all on the same page."
+    ],
+    "prompts": [
+      { "en": "Do you prefer working remotely or in an office? Why?", "it": "Preferisci lavorare da remoto o in ufficio? Perché?", "help": "Inizia con: I prefer working... because..." },
+      { "en": "How do you stay in touch with your team?", "it": "Come resti in contatto con la tua squadra?", "help": "Usa: we use..., I check in with..., we have a stand-up..." },
+      { "en": "Tell me about a problem you sorted out recently.", "it": "Raccontami un problema che hai risolto di recente.", "help": "Usa: I looked into it, I figured out that..., I sorted it out by..." },
+      { "en": "What do you do when your connection is bad during a call?", "it": "Cosa fai quando la connessione è cattiva durante una chiamata?", "help": "Usa: I turn off my camera, I dial in by phone, I ask people to bear with me." },
+      { "en": "How do you hand over your work before a holiday?", "it": "Come passi il tuo lavoro prima delle ferie?", "help": "Usa: I write notes, I hand over to..., I'm out of office." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": ["Teamwork and remote work", "Phrasal verbs, parte 2"],
+      "say": [
+        { "lang": "it", "text": "Iniziamo. Oggi parliamo di lavoro in squadra e da remoto. Impari frasi per chiamate video, chat e fusi orari." },
+        { "lang": "en", "text": "Let's catch up on the project after lunch." }
+      ]
+    },
+    {
+      "title": "Che cos'è un phrasal verb",
+      "show": ["catch + up = aggiornarsi", "verbo + particella = significato nuovo"],
+      "say": [
+        { "lang": "it", "text": "Un phrasal verb è un verbo con una particella, come up, out, in o over. Insieme formano un significato nuovo. Impara il significato come una parola sola." },
+        { "lang": "en", "text": "Let's catch up on Friday." }
+      ]
+    },
+    {
+      "title": "Verbi separabili",
+      "show": ["sort out, hand over, loop in", "sort it out"],
+      "say": [
+        { "lang": "it", "text": "Con i verbi separabili puoi mettere l'oggetto in mezzo. Se l'oggetto è un pronome, deve stare in mezzo." },
+        { "lang": "en", "text": "The bug is serious. Please sort it out today." }
+      ]
+    },
+    {
+      "title": "Verbi inseparabili",
+      "show": ["look into, deal with, rely on", "look into it"],
+      "say": [
+        { "lang": "it", "text": "Con i verbi inseparabili l'oggetto va sempre dopo la particella, anche se è un pronome." },
+        { "lang": "en", "text": "We are looking into it right now." }
+      ]
+    },
+    {
+      "title": "Verbi senza oggetto e a tre parti",
+      "show": ["Let's catch up", "check in with the client"],
+      "say": [
+        { "lang": "it", "text": "Alcuni phrasal verbs non hanno oggetto. Con una persona aggiungi with, con un argomento aggiungi on." },
+        { "lang": "en", "text": "I'll check in with the client tomorrow." }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": ["sort out it   sbagliato", "sort it out   giusto"],
+      "say": [
+        { "lang": "it", "text": "L'errore più comune è mettere il pronome dopo la particella con i verbi separabili. Ricorda sort it out. Con look into invece il pronome va dopo: look into it." },
+        { "lang": "en", "text": "Please sort it out. We are looking into it." }
+      ]
+    },
+    {
+      "title": "Espressioni per le chiamate",
+      "show": ["Sorry, you're on mute", "Your audio is cutting out", "Can everyone see my screen?"],
+      "say": [
+        { "lang": "it", "text": "Queste frasi servono in ogni videochiamata. Ripetile ad alta voce." },
+        { "lang": "en", "text": "Sorry, you're on mute. Your audio is cutting out. Can everyone see my screen?" }
+      ]
+    },
+    {
+      "title": "Dividere il lavoro",
+      "show": ["take over", "hand over", "I don't have the bandwidth"],
+      "say": [
+        { "lang": "it", "text": "Per passare un compito usa hand over. Per prenderlo in carico usa take over. Se non hai tempo, di' che non hai la disponibilità." },
+        { "lang": "en", "text": "Anna will take over. I'll hand over my notes today." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["catch up, sort out, look into", "take over, hand over, reach out", "pronome in mezzo o dopo"],
+      "say": [
+        { "lang": "it", "text": "Oggi hai imparato phrasal verbs molto usati e frasi per lavorare a distanza. Ricorda dove va il pronome. Ora fai gli esercizi e scrivi il tuo messaggio per la squadra." },
+        { "lang": "en", "text": "Let's make sure we're all on the same page." }
+      ]
+    }
+  ]
+}

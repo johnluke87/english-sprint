@@ -1,0 +1,319 @@
+{
+  "id": 3,
+  "week": 1,
+  "title": "Riunioni e appuntamenti",
+  "titleEn": "Meetings and appointments",
+  "intro": "Oggi impari a fissare, spostare e confermare riunioni in inglese. Studi i tre modi più usati per parlare del futuro (will, going to e il present continuous) e le preposizioni in, on e at con il tempo. Sono le frasi che userai ogni settimana con clienti e colleghi.",
+  "goals": [
+    "Proporre, accettare e rifiutare un orario per una riunione",
+    "Usare will, going to e present continuous per il futuro",
+    "Scegliere in, on o at con giorni, mesi e orari",
+    "Spostare, anticipare o annullare un appuntamento con garbo"
+  ],
+  "words": [
+    { "en": "to book", "pron": "bùk", "it": "prenotare, fissare", "type": "verb", "ex": "I've booked the meeting room for ten o'clock.", "exIt": "Ho prenotato la sala riunioni per le dieci." },
+    { "en": "to arrange", "pron": "arèindg", "it": "organizzare, combinare", "type": "verb", "ex": "Can you arrange a meeting with the client?", "exIt": "Puoi organizzare una riunione con il cliente?" },
+    { "en": "to reschedule", "pron": "riskèdgiul", "it": "spostare a un'altra data", "type": "verb", "ex": "Could we reschedule for next Tuesday?", "exIt": "Possiamo spostarla a martedì prossimo?" },
+    { "en": "to invite", "pron": "invàit", "it": "invitare", "type": "verb", "ex": "I'll invite the whole team to the call.", "exIt": "Inviterò tutto il team alla chiamata." },
+    { "en": "to join", "pron": "giòin", "it": "unirsi a, partecipare a", "type": "verb", "ex": "Please join the call five minutes early.", "exIt": "Per favore collegati alla chiamata cinque minuti prima." },
+    { "en": "to remind", "pron": "rimàind", "it": "ricordare a qualcuno", "type": "verb", "ex": "Could you remind me about the meeting tomorrow?", "exIt": "Potresti ricordarmi della riunione di domani?" },
+    { "en": "to propose", "pron": "propòuz", "it": "proporre", "type": "verb", "ex": "I propose that we meet on Wednesday at ten.", "exIt": "Propongo di vederci mercoledì alle dieci." },
+    { "en": "to accept", "pron": "aksèpt", "it": "accettare", "type": "verb", "ex": "She accepted the invitation straight away.", "exIt": "Ha accettato subito l'invito." },
+    { "en": "to decline", "pron": "diklàin", "it": "rifiutare (con garbo)", "type": "verb", "ex": "I'm sorry, I have to decline the invitation.", "exIt": "Mi dispiace, devo rifiutare l'invito." },
+    { "en": "to prepare", "pron": "pripèr", "it": "preparare", "type": "verb", "ex": "I'm going to prepare a short presentation.", "exIt": "Preparerò una breve presentazione." },
+    { "en": "to discuss", "pron": "diskàs", "it": "discutere, parlare di", "type": "verb", "ex": "We need to discuss the new timeline.", "exIt": "Dobbiamo discutere il nuovo calendario dei lavori." },
+    { "en": "to review", "pron": "rivìu", "it": "rivedere, esaminare", "type": "verb", "ex": "Let's review the design together on Friday.", "exIt": "Rivediamo il design insieme venerdì." },
+    { "en": "to bring forward", "pron": "brìng fòruord", "it": "anticipare", "type": "verb", "ex": "Can we bring the meeting forward to ten?", "exIt": "Possiamo anticipare la riunione alle dieci?" },
+    { "en": "to put off", "pron": "pùt òf", "it": "rimandare (in modo informale)", "type": "verb", "ex": "We can't put this off any longer.", "exIt": "Non possiamo più rimandare questa cosa." },
+    { "en": "to run late", "pron": "ràn lèit", "it": "essere in ritardo, andare lunghi", "type": "verb", "ex": "I'm running late, so please start without me.", "exIt": "Sono in ritardo, quindi iniziate senza di me." },
+    { "en": "to clash with", "pron": "clàsc uìd", "it": "sovrapporsi a, coincidere con", "type": "verb", "ex": "Sorry, that time clashes with another meeting.", "exIt": "Scusa, quell'orario coincide con un'altra riunione." },
+    { "en": "to cover", "pron": "càver", "it": "trattare, includere (argomenti)", "type": "verb", "ex": "We'll cover three topics in today's meeting.", "exIt": "Oggi in riunione tratteremo tre argomenti." },
+    { "en": "appointment", "pron": "apòintment", "it": "appuntamento (con un professionista)", "type": "noun", "ex": "I have a dentist's appointment at three.", "exIt": "Ho un appuntamento dal dentista alle tre." },
+    { "en": "agenda", "pron": "adgènda", "it": "ordine del giorno", "type": "noun", "ex": "I'll send you the agenda before the meeting.", "exIt": "Ti mando l'ordine del giorno prima della riunione." },
+    { "en": "calendar", "pron": "kàlender", "it": "calendario, agenda degli impegni", "type": "noun", "ex": "I'll check my calendar and let you know.", "exIt": "Controllo il calendario e ti faccio sapere." },
+    { "en": "invitation", "pron": "invitèiscion", "it": "invito", "type": "noun", "ex": "You'll receive a calendar invitation shortly.", "exIt": "Riceverai a breve un invito sul calendario." },
+    { "en": "reminder", "pron": "rimàinder", "it": "promemoria", "type": "noun", "ex": "I've set a reminder for Monday morning.", "exIt": "Ho impostato un promemoria per lunedì mattina." },
+    { "en": "availability", "pron": "aveilabìliti", "it": "disponibilità", "type": "noun", "ex": "Could you share your availability for next week?", "exIt": "Potresti condividere la tua disponibilità per la prossima settimana?" },
+    { "en": "time slot", "pron": "tàim slòt", "it": "fascia oraria, slot", "type": "noun", "ex": "Do you have a time slot on Friday afternoon?", "exIt": "Hai uno slot libero venerdì pomeriggio?" },
+    { "en": "venue", "pron": "vèniu", "it": "luogo (di un evento)", "type": "noun", "ex": "The venue for the workshop is near the station.", "exIt": "La sede del workshop è vicino alla stazione." },
+    { "en": "attendee", "pron": "atendìi", "it": "partecipante, presente", "type": "noun", "ex": "There will be about twenty attendees.", "exIt": "Ci saranno circa venti partecipanti." },
+    { "en": "topic", "pron": "tòpik", "it": "argomento", "type": "noun", "ex": "The first topic on the agenda is the budget.", "exIt": "Il primo argomento all'ordine del giorno è il budget." },
+    { "en": "weekend", "pron": "uìikend", "it": "fine settimana", "type": "noun", "ex": "I don't work at the weekend.", "exIt": "Non lavoro nel fine settimana." },
+    { "en": "fortnight", "pron": "fòrtnait", "it": "quindici giorni, due settimane", "type": "noun", "ex": "The next release is in a fortnight.", "exIt": "Il prossimo rilascio è tra due settimane." },
+    { "en": "lunch break", "pron": "lànc brèik", "it": "pausa pranzo", "type": "noun", "ex": "Let's meet after the lunch break.", "exIt": "Vediamoci dopo la pausa pranzo." },
+    { "en": "notice", "pron": "nòutis", "it": "preavviso, avviso", "type": "noun", "ex": "Thank you for coming at such short notice.", "exIt": "Grazie di essere venuto con così poco preavviso." },
+    { "en": "convenient", "pron": "konvìinient", "it": "comodo, adatto", "type": "adj", "ex": "Is Thursday at two convenient for you?", "exIt": "Giovedì alle due va bene per te?" },
+    { "en": "tentative", "pron": "tèntativ", "it": "provvisorio, non ancora definitivo", "type": "adj", "ex": "This date is tentative until the client confirms.", "exIt": "Questa data è provvisoria finché il cliente non conferma." },
+    { "en": "flexible", "pron": "flèksibol", "it": "flessibile", "type": "adj", "ex": "I'm flexible on timing, so choose what suits you.", "exIt": "Sono flessibile sugli orari, scegli quello che ti va meglio." },
+    { "en": "busy", "pron": "bìzi", "it": "occupato, pieno di impegni", "type": "adj", "ex": "I'm busy all morning, but free after lunch.", "exIt": "Sono occupato tutta la mattina, ma libero dopo pranzo." },
+    { "en": "free", "pron": "frìi", "it": "libero, senza impegni", "type": "adj", "ex": "Are you free on Monday afternoon?", "exIt": "Sei libero lunedì pomeriggio?" },
+    { "en": "punctual", "pron": "pànkciual", "it": "puntuale", "type": "adj", "ex": "The client is always very punctual.", "exIt": "Il cliente è sempre molto puntuale." },
+    { "en": "late", "pron": "lèit", "it": "tardi, in ritardo", "type": "adj", "ex": "Sorry I'm late. The train was delayed.", "exIt": "Scusa il ritardo. Il treno era in ritardo." },
+    { "en": "early", "pron": "èrli", "it": "presto, in anticipo", "type": "adj", "ex": "I prefer an early meeting, before the phone starts ringing.", "exIt": "Preferisco una riunione presto, prima che il telefono inizi a squillare." },
+    { "en": "sharp", "pron": "sciàrp", "it": "in punto (di orario)", "type": "adv", "ex": "The meeting starts at ten o'clock sharp.", "exIt": "La riunione comincia alle dieci in punto." },
+    { "en": "in advance", "pron": "in advàns", "it": "in anticipo, prima", "type": "phrase", "ex": "Please send me the slides in advance.", "exIt": "Per favore mandami le slide in anticipo." },
+    { "en": "as soon as possible", "pron": "az sùun az pòssibol", "it": "il prima possibile", "type": "phrase", "ex": "Could you reply as soon as possible?", "exIt": "Potresti rispondere il prima possibile?" },
+    { "en": "on time", "pron": "on tàim", "it": "in orario, puntuale", "type": "phrase", "ex": "Please be on time because we have a lot to cover.", "exIt": "Per favore sii puntuale perché abbiamo molto da trattare." },
+    { "en": "in time", "pron": "in tàim", "it": "in tempo, abbastanza presto", "type": "phrase", "ex": "I hope we finish in time for lunch.", "exIt": "Spero di finire in tempo per il pranzo." },
+    { "en": "at short notice", "pron": "at sciòrt nòutis", "it": "con poco preavviso", "type": "phrase", "ex": "I know it's at short notice, but can you join us?", "exIt": "So che è con poco preavviso, ma puoi unirti a noi?" },
+    { "en": "first thing", "pron": "fèrst tìng", "it": "per prima cosa, appena inizia la giornata", "type": "phrase", "ex": "I'll call you first thing tomorrow morning.", "exIt": "Ti chiamo domani mattina come prima cosa." },
+    { "en": "until", "pron": "antìl", "it": "fino a", "type": "prep", "ex": "I'm out of the office until Monday.", "exIt": "Sono fuori ufficio fino a lunedì." },
+    { "en": "during", "pron": "diùring", "it": "durante", "type": "prep", "ex": "Please switch off your phone during the meeting.", "exIt": "Per favore spegni il telefono durante la riunione." },
+    { "en": "within", "pron": "uidìn", "it": "entro, nell'arco di", "type": "prep", "ex": "I'll send you the notes within two hours.", "exIt": "Ti mando gli appunti entro due ore." },
+    { "en": "by", "pron": "bài", "it": "entro (un momento preciso)", "type": "prep", "ex": "Please confirm by Friday at noon.", "exIt": "Per favore conferma entro venerdì a mezzogiorno." }
+  ],
+  "falseFriends": [
+    { "en": "appointment", "it": "appuntamento (con un professionista)", "trap": "Per un incontro di lavoro tra colleghi o con un cliente si dice di solito 'meeting'. Per incontri personali o con un medico, 'appointment'." },
+    { "en": "agenda", "it": "ordine del giorno", "trap": "Non è l'agenda dove segni gli impegni. Quella si dice 'diary' o 'calendar'." },
+    { "en": "fabric", "it": "tessuto", "trap": "Non è una 'fabbrica': quella si dice 'factory'." }
+  ],
+  "grammar": {
+    "title": "Il futuro: will, going to, present continuous. E in, on, at con il tempo",
+    "explainIt": [
+      "In inglese non esiste un solo futuro: ce ne sono diversi, e ognuno ha un'idea diversa. Per le riunioni ne servono tre. Will si usa per decisioni prese sul momento, promesse, offerte e previsioni. Going to si usa per piani già decisi e per previsioni basate su qualcosa che vedi. Il present continuous si usa per accordi già fissati, con un orario o un luogo.",
+      "Will: quando decidi mentre parli. Esempio: Let me check my calendar. I'll call you back in five minutes. Si forma con will più il verbo base: I will, she will, they will. Nel parlato diventa I'll, she'll, they'll. Il negativo è will not o won't. Si usa anche per promesse: I'll send you the agenda tonight.",
+      "Going to: quando il piano è già deciso prima di parlare. Si forma con am, is o are più going to più il verbo base. Esempio: I'm going to prepare the slides tonight. We are going to launch in June. Si usa anche quando vedi un segnale: Look at the traffic. We're going to be late.",
+      "Present continuous per il futuro: si usa quando l'accordo è fissato, di solito con un orario, un luogo o una persona. Esempio: I'm meeting the client on Thursday at three. We're flying to London on Monday. Qui qualcuno ha già deciso e magari prenotato. In italiano è come dire 'giovedì incontro il cliente'.",
+      "Per il tempo: at si usa con gli orari e con alcuni momenti, come at three, at noon, at the weekend. On si usa con i giorni e le date: on Monday, on 5 March, on Friday morning. In si usa con mesi, anni, stagioni e parti del giorno: in March, in 2027, in the morning, in the afternoon. Nota: si dice in the morning ma on Monday morning, e at night."
+    ],
+    "explainEn": [
+      "English has more than one way to talk about the future, and each one has a different idea. For meetings we need three. We use will for decisions made at the moment of speaking, promises, offers and predictions. We use going to for plans that are already decided and for predictions based on evidence. We use the present continuous for fixed arrangements with a time or a place.",
+      "Will: when you decide while you are speaking. For example: Let me check my calendar. I'll call you back in five minutes. The form is will plus the base verb: I will, she will, they will. In speech it becomes I'll, she'll, they'll. The negative is will not or won't. We also use it for promises: I'll send you the agenda tonight.",
+      "Going to: when the plan was decided before you speak. The form is am, is or are plus going to plus the base verb. For example: I'm going to prepare the slides tonight. We are going to launch in June. We also use it when we see a sign: Look at the traffic. We're going to be late.",
+      "Present continuous for the future: we use it when the arrangement is fixed, usually with a time, a place or a person. For example: I'm meeting the client on Thursday at three. We're flying to London on Monday. Someone has already decided, and maybe booked it.",
+      "For time: we use at with clock times and some moments, like at three, at noon and at the weekend. We use on with days and dates: on Monday, on 5 March, on Friday morning. We use in with months, years, seasons and parts of the day: in March, in 2027, in the morning, in the afternoon. Note: we say in the morning but on Monday morning, and at night."
+    ],
+    "rules": [
+      {
+        "it": "Will: decisione sul momento, promessa, offerta, previsione.",
+        "en": "Will: a decision at the moment of speaking, a promise, an offer, a prediction.",
+        "form": "will (I'll) + verbo base",
+        "examples": [
+          { "en": "I'll check my calendar and let you know.", "it": "Controllo il calendario e ti faccio sapere." },
+          { "en": "I'll send you the agenda tonight.", "it": "Ti mando l'ordine del giorno stasera." },
+          { "en": "I think the meeting will be short.", "it": "Penso che la riunione sarà breve." }
+        ]
+      },
+      {
+        "it": "Going to: piano già deciso, o previsione basata su quello che vedi adesso.",
+        "en": "Going to: a plan already decided, or a prediction based on what you see now.",
+        "form": "am/is/are going to + verbo base",
+        "examples": [
+          { "en": "I'm going to prepare the slides tonight.", "it": "Stasera preparo le slide." },
+          { "en": "We're going to move the meeting to Friday.", "it": "Sposteremo la riunione a venerdì." },
+          { "en": "It's already ten. We're going to be late.", "it": "Sono già le dieci. Faremo tardi." }
+        ]
+      },
+      {
+        "it": "Present continuous per il futuro: accordo già fissato, con orario o luogo.",
+        "en": "Present continuous for the future: a fixed arrangement with a time or place.",
+        "form": "am/is/are + verbo-ing + momento futuro",
+        "examples": [
+          { "en": "I'm meeting the client on Thursday at three.", "it": "Incontro il cliente giovedì alle tre." },
+          { "en": "She's flying to Berlin on Monday morning.", "it": "Lunedì mattina vola a Berlino." }
+        ]
+      },
+      {
+        "it": "Con at usi gli orari, con on i giorni e le date, con in mesi, anni e parti del giorno.",
+        "en": "Use at for clock times, on for days and dates, in for months, years and parts of the day.",
+        "form": "at 3 / on Monday / in March",
+        "examples": [
+          { "en": "The meeting starts at ten.", "it": "La riunione comincia alle dieci." },
+          { "en": "We're meeting on 14 June.", "it": "Ci vediamo il 14 giugno." },
+          { "en": "The launch is in September.", "it": "Il lancio è a settembre." }
+        ]
+      },
+      {
+        "it": "Dopo when, as soon as, before e after riferiti al futuro si usa il present simple, non will.",
+        "en": "After when, as soon as, before and after about the future we use the present simple, not will.",
+        "form": "as soon as / when + present simple, will + verbo",
+        "examples": [
+          { "en": "I'll call you as soon as I finish the meeting.", "it": "Ti chiamo appena finisco la riunione." },
+          { "en": "When the client confirms, we will start.", "it": "Quando il cliente conferma, cominciamo." }
+        ]
+      }
+    ],
+    "tip": "Chiediti: ho già deciso o prenotato? Allora present continuous (con un orario) o going to. Sto decidendo adesso, o prometto qualcosa? Allora will. Per il tempo: at è per l'ora, on per il giorno, in per tutto ciò che è più grande (mese, anno, parte del giorno).",
+    "mistakes": [
+      { "wrong": "I will meet the client tomorrow at three.", "right": "I'm meeting the client tomorrow at three.", "why": "per un accordo già fissato è più naturale il present continuous: I'm meeting" },
+      { "wrong": "The meeting is at Monday.", "right": "The meeting is on Monday.", "why": "con i giorni si usa on, non at" },
+      { "wrong": "We'll call you when we will finish.", "right": "We'll call you when we finish.", "why": "dopo when si usa il present simple, non will" },
+      { "wrong": "I meet the client on Friday at three.", "right": "I'm meeting the client on Friday at three.", "why": "per un incontro già fissato serve il present continuous (o going to), non il present simple" },
+      { "wrong": "The launch is on March.", "right": "The launch is in March.", "why": "con i mesi si usa in" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "Let me check my diary. I ___ (call) you back in five minutes.", "a": ["will call", "'ll call"], "hint": "decisione sul momento", "explain": "Decisione presa mentre parli: will." },
+    { "q": "I ___ (meet) the client on Thursday at three. It's in my calendar.", "a": ["am meeting", "'m meeting"], "hint": "già fissato", "explain": "Accordo già fissato con orario: present continuous." },
+    { "q": "We ___ (launch) the new website in June. It's decided.", "a": ["are going to launch", "'re going to launch", "are launching", "'re launching"], "hint": "piano già deciso", "explain": "Piano già deciso: going to, o present continuous con un orario." },
+    { "q": "The meeting starts ___ ten o'clock.", "a": ["at"], "hint": "orario", "explain": "Con le ore si usa at." },
+    { "q": "I'll see you ___ Friday.", "a": ["on"], "hint": "giorno della settimana", "explain": "Con i giorni si usa on." },
+    { "q": "The release is planned ___ October.", "a": ["in"], "hint": "mese", "explain": "Con i mesi si usa in." },
+    { "q": "Can we meet ___ the morning?", "a": ["in"], "hint": "parte del giorno", "explain": "In the morning, in the afternoon, in the evening." },
+    { "q": "I'll send you the notes as soon as the meeting ___ (finish).", "a": ["finishes", "ends"], "hint": "dopo as soon as", "explain": "Dopo as soon as si usa il present simple." },
+    { "q": "Look at those clouds. It ___ (rain).", "a": ["is going to rain", "'s going to rain"], "hint": "previsione con evidenza", "explain": "Vedi un segnale adesso: going to." },
+    { "q": "Sorry, the phone is ringing. I ___ (answer) it.", "a": ["will answer", "'ll answer"], "hint": "decisione immediata", "explain": "Decidi al momento: will." },
+    { "q": "She ___ (fly) to Munich next Monday. The ticket is booked.", "a": ["is flying", "'s flying", "is going to fly", "'s going to fly"], "hint": "biglietto prenotato", "explain": "Accordo già preso: present continuous o going to." },
+    { "q": "We're closed ___ the weekend.", "a": ["at", "on", "over"], "hint": "espressione fissa", "explain": "Si dice at the weekend in inglese britannico, on the weekend in americano. Va bene anche over the weekend." }
+  ],
+  "phrases": [
+    { "group": "Proporre un orario", "en": "Are you free on Thursday afternoon?", "it": "Sei libero giovedì pomeriggio?" },
+    { "group": "Proporre un orario", "en": "How about Wednesday at ten?", "it": "Che ne dici di mercoledì alle dieci?" },
+    { "group": "Proporre un orario", "en": "What time would suit you best?", "it": "Quale orario ti andrebbe meglio?" },
+    { "group": "Proporre un orario", "en": "Could you share your availability for next week?", "it": "Puoi condividere la tua disponibilità per la prossima settimana?" },
+    { "group": "Accettare e confermare", "en": "That works for me.", "it": "Per me va bene.", "note": "risposta più comune e naturale" },
+    { "group": "Accettare e confermare", "en": "Thursday at two is perfect.", "it": "Giovedì alle due è perfetto." },
+    { "group": "Accettare e confermare", "en": "I'll send you a calendar invitation.", "it": "Ti mando un invito sul calendario." },
+    { "group": "Accettare e confermare", "en": "Let's say ten o'clock sharp.", "it": "Diciamo alle dieci in punto." },
+    { "group": "Rifiutare e proporre altro", "en": "I'm afraid I'm busy on Monday.", "it": "Purtroppo lunedì sono occupato." },
+    { "group": "Rifiutare e proporre altro", "en": "That time doesn't work for me. Could we try Tuesday?", "it": "Quell'orario non va bene per me. Possiamo provare martedì?" },
+    { "group": "Rifiutare e proporre altro", "en": "I'm tied up until noon.", "it": "Sono impegnato fino a mezzogiorno.", "note": "tied up = molto occupato" },
+    { "group": "Rifiutare e proporre altro", "en": "Unfortunately that clashes with another meeting.", "it": "Purtroppo coincide con un'altra riunione." },
+    { "group": "Spostare e annullare", "en": "Could we reschedule for next week?", "it": "Possiamo spostarla alla prossima settimana?" },
+    { "group": "Spostare e annullare", "en": "I'm sorry to ask at such short notice.", "it": "Mi dispiace chiederlo con così poco preavviso." },
+    { "group": "Spostare e annullare", "en": "Can we bring the meeting forward to nine?", "it": "Possiamo anticipare la riunione alle nove?" },
+    { "group": "Spostare e annullare", "en": "Something urgent has come up.", "it": "È saltata fuori una cosa urgente.", "note": "motivo comune per spostare" },
+    { "group": "Spostare e annullare", "en": "Let's put it off until next month.", "it": "Rimandiamola al mese prossimo." },
+    { "group": "Ordine del giorno", "en": "I'll send the agenda in advance.", "it": "Mando l'ordine del giorno in anticipo." },
+    { "group": "Ordine del giorno", "en": "We have three topics to cover today.", "it": "Oggi abbiamo tre argomenti da trattare." },
+    { "group": "Ordine del giorno", "en": "Let's get started, shall we?", "it": "Iniziamo, vi va?", "note": "per aprire la riunione" },
+    { "group": "Ordine del giorno", "en": "We have about forty minutes.", "it": "Abbiamo circa quaranta minuti." },
+    { "group": "Ritardi e imprevisti", "en": "Sorry I'm late. I was stuck in traffic.", "it": "Scusate il ritardo. Ero bloccato nel traffico." },
+    { "group": "Ritardi e imprevisti", "en": "I'm running ten minutes late.", "it": "Sono in ritardo di dieci minuti." },
+    { "group": "Ritardi e imprevisti", "en": "Please start without me.", "it": "Per favore iniziate senza di me." },
+    { "group": "Ritardi e imprevisti", "en": "I'll join the call in a couple of minutes.", "it": "Mi collego alla chiamata tra un paio di minuti." }
+  ],
+  "dialogue": {
+    "title": "Arranging a project review",
+    "context": "Luca e Sarah, project manager di un cliente, cercano un giorno per una riunione di revisione del sito. Lui ha un altro impegno e devono spostare.",
+    "lines": [
+      { "s": "A", "name": "Sarah", "en": "Hi Luca. I'd like to arrange a meeting to review the new homepage. Are you free next week?", "it": "Ciao Luca. Vorrei organizzare una riunione per rivedere la nuova homepage. Sei libero la prossima settimana?" },
+      { "s": "B", "name": "Luca", "en": "Let me check my calendar. I'm busy on Monday, and I'm flying to Rome on Tuesday morning.", "it": "Controllo il calendario. Lunedì sono occupato e martedì mattina volo a Roma." },
+      { "s": "A", "name": "Sarah", "en": "No problem. How about Wednesday at ten?", "it": "Nessun problema. Che ne dici di mercoledì alle dieci?" },
+      { "s": "B", "name": "Luca", "en": "Wednesday at ten is perfect. I'll send you a calendar invitation.", "it": "Mercoledì alle dieci è perfetto. Ti mando un invito sul calendario." },
+      { "s": "A", "name": "Sarah", "en": "Great. I'm going to invite our designer too. Is that okay?", "it": "Bene. Inviterò anche il nostro designer. Va bene?" },
+      { "s": "B", "name": "Luca", "en": "Of course. Could you send me the agenda in advance?", "it": "Certo. Potresti mandarmi l'ordine del giorno in anticipo?" },
+      { "s": "A", "name": "Sarah", "en": "Sure. We're going to cover three topics: the layout, the colours and the contact form.", "it": "Certo. Tratteremo tre argomenti: l'impaginazione, i colori e il modulo di contatto." },
+      { "s": "B", "name": "Luca", "en": "Perfect. I'll prepare some notes on accessibility as well.", "it": "Perfetto. Preparerò anche degli appunti sull'accessibilità." },
+      { "s": "A", "name": "Sarah", "en": "Oh no, I've just checked my calendar. Wednesday at ten clashes with a client call.", "it": "Oh no, ho appena guardato il calendario. Mercoledì alle dieci coincide con una chiamata con un cliente." },
+      { "s": "B", "name": "Luca", "en": "That's fine. Could we reschedule for the afternoon? I'm free after two.", "it": "Nessun problema. Possiamo spostarla al pomeriggio? Sono libero dopo le due." },
+      { "s": "A", "name": "Sarah", "en": "Three o'clock suits me. Let's say three sharp, then.", "it": "Le tre mi vanno bene. Diciamo alle tre in punto, allora." },
+      { "s": "B", "name": "Luca", "en": "Done. I'll update the invitation as soon as we finish this call.", "it": "Fatto. Aggiorno l'invito appena finiamo questa chiamata." },
+      { "s": "A", "name": "Sarah", "en": "Thanks. And if you're running late, just let me know.", "it": "Grazie. E se fai tardi, avvisami." },
+      { "s": "B", "name": "Luca", "en": "I will. See you on Wednesday at three!", "it": "Lo farò. Ci vediamo mercoledì alle tre!" }
+    ]
+  },
+  "listening": [
+    { "q": "What are they going to review in the meeting?", "options": ["The new homepage", "The invoice", "The contract"], "answer": 0 },
+    { "q": "Why can't Luca meet on Tuesday?", "options": ["He has a dentist's appointment", "He is flying to Rome", "He is on holiday"], "answer": 1 },
+    { "q": "Why do they change the time on Wednesday?", "options": ["It clashes with a client call", "Luca is late", "The room is not free"], "answer": 0 },
+    { "q": "What time do they finally agree on?", "options": ["Ten o'clock", "Two o'clock", "Three o'clock"], "answer": 2 }
+  ],
+  "translations": [
+    { "it": "Sei libero giovedì pomeriggio?", "en": "Are you free on Thursday afternoon?", "alt": ["Are you available on Thursday afternoon?"] },
+    { "it": "Che ne dici di mercoledì alle dieci?", "en": "How about Wednesday at ten?", "alt": ["What about Wednesday at ten?", "How does Wednesday at ten sound?"] },
+    { "it": "Controllo il calendario e ti faccio sapere.", "en": "I'll check my calendar and let you know.", "alt": ["I will check my calendar and let you know."] },
+    { "it": "Purtroppo lunedì sono occupato.", "en": "Unfortunately I'm busy on Monday.", "alt": ["I'm afraid I'm busy on Monday.", "Sadly I'm busy on Monday."] },
+    { "it": "Possiamo spostare la riunione alla prossima settimana?", "en": "Could we reschedule the meeting for next week?", "alt": ["Can we move the meeting to next week?", "Could we postpone the meeting until next week?"] },
+    { "it": "Giovedì incontro il cliente alle tre.", "en": "I'm meeting the client on Thursday at three.", "alt": ["I'm meeting the client at three on Thursday."] },
+    { "it": "Ti mando l'ordine del giorno in anticipo.", "en": "I'll send you the agenda in advance.", "alt": ["I will send you the agenda in advance.", "I'll send the agenda beforehand."] },
+    { "it": "Il lancio è a settembre.", "en": "The launch is in September.", "alt": ["The launch is planned for September."] },
+    { "it": "Ti chiamo appena finisco la riunione.", "en": "I'll call you as soon as I finish the meeting.", "alt": ["I'll call you as soon as the meeting finishes.", "I will call you as soon as the meeting ends."] },
+    { "it": "Scusate il ritardo. Sono bloccato nel traffico.", "en": "Sorry I'm late. I'm stuck in traffic.", "alt": ["Sorry, I'm running late. I'm stuck in traffic.", "Sorry for being late. I'm stuck in traffic."] },
+    { "it": "Domani preparerò la presentazione.", "en": "I'm going to prepare the presentation tomorrow.", "alt": ["I will prepare the presentation tomorrow.", "Tomorrow I'll prepare the presentation."] },
+    { "it": "Vi mando un invito sul calendario.", "en": "I'll send you a calendar invitation.", "alt": ["I will send you a calendar invite.", "I'll send you a calendar invite."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a un cliente, Mark, per fissare una riunione di revisione del sito. Proponi due momenti diversi, per esempio martedì alle 11 e giovedì alle 15. Digli che manderai l'ordine del giorno in anticipo e che tratterete due argomenti. Spiega che venerdì sei fuori ufficio. Chiedigli di confermare entro mercoledì. Usa will, going to o il present continuous e le preposizioni at, on, in.",
+    "taskEn": "Write an email to a client, Mark, to arrange a review meeting for the website. Suggest two different times, for example Tuesday at 11 and Thursday at 3 pm. Say that you will send the agenda in advance and that you will cover two topics. Explain that you are out of the office on Friday. Ask him to confirm by Wednesday. Use will, going to or the present continuous and the prepositions at, on, in.",
+    "model": "Subject: Meeting to review the website\n\nDear Mark,\n\nI'd like to arrange a meeting to review the new website. Would Tuesday at 11 am or Thursday at 3 pm suit you? Both are fine for me.\n\nI'll send you the agenda in advance. We are going to cover two topics: the homepage design and the contact form.\n\nPlease note that I'm out of the office on Friday, so I can't move the meeting to that day.\n\nCould you confirm by Wednesday which time you prefer? I'll then send you a calendar invitation.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Are you free on Thursday afternoon?",
+      "How about Wednesday at ten o'clock?",
+      "That works for me. I'll send you an invitation.",
+      "I'm afraid that clashes with another meeting.",
+      "Could we reschedule for next week?",
+      "I'm meeting the client on Friday at three.",
+      "We're going to cover three topics today.",
+      "I'll call you as soon as I finish."
+    ],
+    "prompts": [
+      { "en": "What are you doing tomorrow at work?", "it": "Cosa fai domani al lavoro?", "help": "Present continuous: Tomorrow I'm meeting... / I'm working on..." },
+      { "en": "What are you going to do this weekend?", "it": "Cosa farai questo fine settimana?", "help": "I'm going to... / I'm not doing anything special." },
+      { "en": "Can we meet next week? When are you free?", "it": "Ci vediamo la prossima settimana? Quando sei libero?", "help": "I'm free on... at... / I'm busy on..." },
+      { "en": "Your meeting has been moved. How do you react?", "it": "La tua riunione è stata spostata. Come reagisci?", "help": "That's fine. / I'm afraid I can't make that. Could we...?" },
+      { "en": "What will you do first thing tomorrow morning?", "it": "Cosa farai come prima cosa domani mattina?", "help": "I'll... / First thing, I'm going to..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Fissare incontri",
+      "show": ["Lesson 3", "Meetings and appointments", "will, going to, present continuous"],
+      "say": [
+        { "lang": "it", "text": "Oggi impari a fissare e spostare riunioni. Vedrai come parlare del futuro in inglese e come usare in, on e at." },
+        { "lang": "en", "text": "Are you free on Thursday afternoon?" }
+      ]
+    },
+    {
+      "title": "Will: decisioni sul momento",
+      "show": ["I'll check my calendar.", "I'll send you the agenda.", "will = decido adesso, prometto"],
+      "say": [
+        { "lang": "it", "text": "Will si usa quando decidi mentre parli, o quando prometti qualcosa. Nel parlato si accorcia: I will diventa I'll." },
+        { "lang": "en", "text": "Let me check my calendar. I'll call you back in five minutes." }
+      ]
+    },
+    {
+      "title": "Going to: piani già decisi",
+      "show": ["I'm going to prepare the slides.", "We're going to launch in June."],
+      "say": [
+        { "lang": "it", "text": "Going to si usa per un piano già deciso prima di parlare. Si forma con am, is o are, più going to, più il verbo." },
+        { "lang": "en", "text": "I'm going to prepare the slides tonight." },
+        { "lang": "en", "text": "We're going to launch in June." }
+      ]
+    },
+    {
+      "title": "Present continuous per gli accordi",
+      "show": ["I'm meeting the client on Thursday at three."],
+      "say": [
+        { "lang": "it", "text": "Quando l'incontro è già in calendario, con un orario preciso, usa il present continuous. In italiano diciamo giovedì incontro il cliente." },
+        { "lang": "en", "text": "I'm meeting the client on Thursday at three." },
+        { "lang": "en", "text": "She's flying to Berlin on Monday." }
+      ]
+    },
+    {
+      "title": "In, on, at con il tempo",
+      "show": ["at ten o'clock", "on Monday, on 5 March", "in March, in the morning, in 2027"],
+      "say": [
+        { "lang": "it", "text": "At per le ore. On per i giorni e le date. In per i mesi, gli anni e le parti del giorno. Si dice in the morning, ma on Monday morning." },
+        { "lang": "en", "text": "The meeting is at ten, on Wednesday, in March." }
+      ]
+    },
+    {
+      "title": "Dopo when e as soon as",
+      "show": ["I'll call you as soon as I finish.", "Non: as soon as I will finish"],
+      "say": [
+        { "lang": "it", "text": "Dopo when, as soon as, before e after, anche se parli del futuro, usa il present simple. Non mettere will due volte." },
+        { "lang": "en", "text": "I'll call you as soon as I finish the meeting." }
+      ]
+    },
+    {
+      "title": "Espressioni per spostare e confermare",
+      "show": ["That works for me.", "Could we reschedule?", "I'm tied up until noon."],
+      "say": [
+        { "lang": "it", "text": "Per accettare un orario di solito si dice that works for me. Per spostare si chiede con garbo se si può rimandare." },
+        { "lang": "en", "text": "That works for me. Let's say ten o'clock sharp." },
+        { "lang": "en", "text": "I'm afraid that clashes with another meeting. Could we reschedule?" }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["will = decisione sul momento", "going to = piano", "present continuous = accordo fissato"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Will per decisioni e promesse. Going to per i piani. Present continuous per gli accordi già fissati. E ricorda at, on, in." },
+        { "lang": "en", "text": "I'll send you a calendar invitation." }
+      ]
+    }
+  ]
+}

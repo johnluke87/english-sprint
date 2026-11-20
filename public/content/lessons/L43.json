@@ -1,0 +1,329 @@
+{
+  "id": 43,
+  "week": 9,
+  "title": "Falsi amici ed errori tipici degli italiani",
+  "titleEn": "False friends and typical Italian mistakes",
+  "intro": "Oggi impari le parole inglesi che sembrano italiane ma vogliono dire altro, e gli errori che quasi tutti gli italiani fanno. Sono le trappole che al lavoro fanno più danni: una mail con 'actually' o 'eventually' sbagliato può creare un vero malinteso con il cliente.",
+  "goals": [
+    "Riconoscere 50 falsi amici e parole che confondono",
+    "Usare since e for, make e do, say e tell nel modo giusto",
+    "Ricordare che people è plurale e che advice e information non hanno il plurale",
+    "Evitare gli errori italiani più comuni nelle mail e nelle riunioni"
+  ],
+
+  "words": [
+    { "en": "actually", "pron": "àkciuali", "it": "in realtà, a dire il vero (NON 'attualmente', che è 'currently')", "type": "adv", "ex": "Actually, the deadline is Friday, not Monday.", "exIt": "In realtà la scadenza è venerdì, non lunedì." },
+    { "en": "to retire", "pron": "ritàier", "it": "andare in pensione (NON 'ritirare')", "type": "verb", "ex": "My boss will retire next year.", "exIt": "Il mio capo andrà in pensione l'anno prossimo." },
+    { "en": "sympathetic", "pron": "simpatètik", "it": "comprensivo, solidale (NON 'simpatico', che è 'nice' o 'friendly')", "type": "adj", "ex": "The client was sympathetic about the delay.", "exIt": "Il cliente è stato comprensivo per il ritardo." },
+    { "en": "to deceive", "pron": "disìiv", "it": "ingannare (NON 'deludere', che è 'to disappoint')", "type": "verb", "ex": "The ad deceived users with a fake discount.", "exIt": "La pubblicità ha ingannato gli utenti con uno sconto falso." },
+    { "en": "college", "pron": "kòlidg", "it": "istituto di studi superiori, università (NON 'collegio')", "type": "noun", "ex": "I studied computer science at college.", "exIt": "Ho studiato informatica all'università." },
+    { "en": "fabric", "pron": "fàbrik", "it": "tessuto (NON 'fabbrica')", "type": "noun", "ex": "The fabric of the seat is easy to clean.", "exIt": "Il tessuto del sedile è facile da pulire." },
+    { "en": "factory", "pron": "fàktori", "it": "fabbrica, stabilimento", "type": "noun", "ex": "We built a website for a furniture factory.", "exIt": "Abbiamo fatto un sito per una fabbrica di mobili." },
+    { "en": "to pretend", "pron": "pritènd", "it": "far finta, fingere (NON 'pretendere', che è 'to demand' o 'to expect')", "type": "verb", "ex": "Don't pretend you didn't see the error.", "exIt": "Non far finta di non aver visto l'errore." },
+    { "en": "to realize", "pron": "rìalaiz", "it": "rendersi conto (NON 'realizzare' nel senso di costruire)", "type": "verb", "ex": "I realized the form had no labels.", "exIt": "Mi sono reso conto che il modulo non aveva etichette." },
+    { "en": "to contest", "pron": "kontèst", "it": "contestare, mettere in discussione", "type": "verb", "ex": "The client contested the invoice.", "exIt": "Il cliente ha contestato la fattura." },
+    { "en": "morbid", "pron": "mòrbid", "it": "morboso, macabro (NON 'morbido')", "type": "adj", "ex": "He has a morbid interest in security disasters.", "exIt": "Ha un interesse morboso per i disastri della sicurezza." },
+    { "en": "terrific", "pron": "terìfik", "it": "fantastico, ottimo (NON 'terrificante')", "type": "adj", "ex": "The demo was terrific, the client was happy.", "exIt": "La demo è stata fantastica, il cliente era contento." },
+    { "en": "sensible", "pron": "sènsibol", "it": "ragionevole, assennato (NON 'sensibile', che è 'sensitive')", "type": "adj", "ex": "That is a sensible solution.", "exIt": "È una soluzione ragionevole." },
+    { "en": "sensitive", "pron": "sènsitiv", "it": "sensibile; anche 'riservato' (dati sensibili)", "type": "adj", "ex": "Never send sensitive data by plain email.", "exIt": "Non mandare mai dati sensibili in una mail non protetta." },
+    { "en": "lecture", "pron": "lèkcer", "it": "lezione universitaria, conferenza (NON 'lettura', che è 'reading')", "type": "noun", "ex": "She gave a lecture on web accessibility.", "exIt": "Ha tenuto una lezione sull'accessibilità web." },
+    { "en": "location", "pron": "loukèiscen", "it": "posizione, luogo, sede (NON 'locazione', che è 'rental')", "type": "noun", "ex": "What is the location of the meeting?", "exIt": "Dov'è la riunione?" },
+    { "en": "magazine", "pron": "magazìin", "it": "rivista (NON 'magazzino', che è 'warehouse')", "type": "noun", "ex": "Our case study is in a design magazine.", "exIt": "Il nostro caso studio è su una rivista di design." },
+    { "en": "novel", "pron": "nòvol", "it": "romanzo (come aggettivo: nuovo, originale)", "type": "noun", "ex": "I read a novel on the train.", "exIt": "Ho letto un romanzo in treno." },
+    { "en": "preservative", "pron": "prizèrvativ", "it": "conservante (NON 'preservativo', che è 'condom')", "type": "noun", "ex": "This product contains no preservatives.", "exIt": "Questo prodotto non contiene conservanti." },
+    { "en": "rumour", "pron": "rùumer", "it": "voce, pettegolezzo (NON 'rumore', che è 'noise')", "type": "noun", "ex": "There is a rumour that the office will move.", "exIt": "Gira voce che l'ufficio si trasferirà." },
+    { "en": "major", "pron": "mèigior", "it": "importante, grave, principale (non sempre 'maggiore')", "type": "adj", "ex": "We found a major bug in the checkout page.", "exIt": "Abbiamo trovato un bug grave nella pagina di pagamento." },
+    { "en": "information", "pron": "informèiscen", "it": "informazione, informazioni (non si conta: mai 'informations')", "type": "noun", "ex": "I need more information about the project.", "exIt": "Mi servono più informazioni sul progetto." },
+    { "en": "parents", "pron": "pèarents", "it": "genitori (NON 'parenti', che è 'relatives')", "type": "noun", "ex": "My parents live near Milan.", "exIt": "I miei genitori vivono vicino a Milano." },
+    { "en": "educated", "pron": "èdiukeitid", "it": "istruito, colto (NON 'educato', che è 'polite')", "type": "adj", "ex": "He is a very well-educated engineer.", "exIt": "È un ingegnere molto istruito." },
+    { "en": "to teach", "pron": "tìic", "it": "insegnare (NON 'imparare')", "type": "verb", "ex": "She teaches accessibility to new developers.", "exIt": "Insegna l'accessibilità ai nuovi sviluppatori." },
+    { "en": "confident", "pron": "kònfident", "it": "sicuro di sé, fiducioso (NON 'confidente', che è 'confidant')", "type": "adj", "ex": "I'm confident we can finish on time.", "exIt": "Sono fiducioso che finiremo in tempo." },
+    { "en": "conference", "pron": "kònferens", "it": "convegno, congresso (NON la 'conferenza' di una persona sola)", "type": "noun", "ex": "I'm speaking at a developer conference in May.", "exIt": "A maggio parlo a un convegno per sviluppatori." },
+    { "en": "costume", "pron": "kòstium", "it": "abito di scena, costume da maschera (NON 'costume da bagno', che è 'swimsuit')", "type": "noun", "ex": "Everyone wore a costume at the party.", "exIt": "Alla festa erano tutti in maschera." },
+    { "en": "delusion", "pron": "dilùugen", "it": "illusione, convinzione sbagliata (NON 'delusione', che è 'disappointment')", "type": "noun", "ex": "It's a delusion to think the site needs no testing.", "exIt": "È un'illusione pensare che il sito non debba essere testato." },
+    { "en": "abuse", "pron": "abiùus", "it": "maltrattamento, uso scorretto (come verbo: abusare, maltrattare)", "type": "noun", "ex": "We block abuse of the contact form with a captcha.", "exIt": "Blocchiamo gli abusi del modulo di contatto con un captcha." },
+    { "en": "ordinary", "pron": "òrdinari", "it": "normale, comune (NON 'ordinario' nel senso di 'volgare')", "type": "adj", "ex": "It was an ordinary day at the office.", "exIt": "È stata una normale giornata in ufficio." },
+    { "en": "pavement", "pron": "pèivment", "it": "marciapiede (britannico; in americano 'sidewalk')", "type": "noun", "ex": "The new office has wide pavements outside.", "exIt": "Il nuovo ufficio ha marciapiedi larghi all'esterno." },
+    { "en": "to demand", "pron": "dimànd", "it": "pretendere, esigere", "type": "verb", "ex": "The client demands a reply within an hour.", "exIt": "Il cliente pretende una risposta entro un'ora." },
+    { "en": "to introduce", "pron": "introdiùus", "it": "presentare (una persona a un'altra); introdurre (un tema, una novità)", "type": "verb", "ex": "Let me introduce you to our designer.", "exIt": "Ti presento la nostra designer." },
+    { "en": "to resume", "pron": "rizìum", "it": "riprendere, ricominciare (NON 'riassumere', che è 'to summarize')", "type": "verb", "ex": "We will resume the meeting after lunch.", "exIt": "Riprenderemo la riunione dopo pranzo." },
+    { "en": "to earn", "pron": "èrn", "it": "guadagnare (soldi, stima)", "type": "verb", "ex": "Freelancers earn more when they raise their rates.", "exIt": "I freelance guadagnano di più quando alzano le tariffe." },
+    { "en": "diary", "pron": "dàiari", "it": "agenda personale, diario", "type": "noun", "ex": "I've put the meeting in my diary.", "exIt": "Ho segnato la riunione sulla mia agenda." },
+    { "en": "funny", "pron": "fàni", "it": "buffo, divertente (anche: strano)", "type": "adj", "ex": "It's funny, the page works on my phone but not on yours.", "exIt": "È strano, la pagina funziona sul mio telefono ma non sul tuo." },
+    { "en": "to miss", "pron": "mìs", "it": "perdere (un treno, una scadenza), sentire la mancanza", "type": "verb", "ex": "I missed the call because my phone was silent.", "exIt": "Ho perso la chiamata perché avevo il telefono in silenzioso." },
+    { "en": "to stay", "pron": "stèi", "it": "restare, alloggiare (NON 'stare' nel senso di 'essere': 'sto bene' è I'm fine)", "type": "verb", "ex": "I will stay at the hotel near the client's office.", "exIt": "Alloggerò nell'albergo vicino all'ufficio del cliente." },
+    { "en": "genial", "pron": "gìinial", "it": "cordiale, gioviale (NON 'geniale')", "type": "adj", "ex": "Our new manager is a genial man.", "exIt": "Il nostro nuovo responsabile è una persona cordiale." },
+    { "en": "to expect", "pron": "ikspèkt", "it": "aspettarsi, prevedere (NON 'aspettare', che è 'to wait')", "type": "verb", "ex": "I expect the invoice to arrive tomorrow.", "exIt": "Mi aspetto che la fattura arrivi domani." },
+    { "en": "actual", "pron": "àkciual", "it": "reale, vero (NON 'attuale')", "type": "adj", "ex": "What is the actual cost of the project?", "exIt": "Qual è il costo reale del progetto?" },
+    { "en": "economical", "pron": "ekonòmikol", "it": "economico nel senso di conveniente, che fa risparmiare (per 'economico' riferito all'economia si dice 'economic')", "type": "adj", "ex": "This hosting plan is very economical.", "exIt": "Questo piano di hosting è molto conveniente." },
+    { "en": "to resent", "pron": "rizènt", "it": "provare risentimento per, mal sopportare (NON 'risentire', cioè sentire di nuovo)", "type": "verb", "ex": "He resents having to work at weekends.", "exIt": "Mal sopporta di dover lavorare nel fine settimana." },
+    { "en": "for", "pron": "fòr", "it": "per, da (una durata di tempo)", "type": "prep", "ex": "I have worked here for six years.", "exIt": "Lavoro qui da sei anni." },
+    { "en": "to retain", "pron": "ritèin", "it": "mantenere, trattenere (NON 'ritenere')", "type": "verb", "ex": "We want to retain our best clients.", "exIt": "Vogliamo mantenere i nostri migliori clienti." },
+    { "en": "romance", "pron": "roumàns", "it": "storia d'amore (NON 'romanzo')", "type": "noun", "ex": "The film is a romance, not a thriller.", "exIt": "Il film è una storia d'amore, non un thriller." },
+    { "en": "to say", "pron": "sèi", "it": "dire (le parole dette, senza dire a chi)", "type": "verb", "ex": "The client said the logo was too small.", "exIt": "Il cliente ha detto che il logo era troppo piccolo." },
+    { "en": "to convene", "pron": "konvìin", "it": "convocare, riunire (NON 'convenire')", "type": "verb", "ex": "The manager convened a meeting for Friday.", "exIt": "Il responsabile ha convocato una riunione per venerdì." }
+  ],
+
+  "falseFriends": [
+    { "en": "morbid", "it": "macabro, ossessionato dalla morte", "trap": "Non vuol dire 'morbido'. Morbido si dice soft." },
+    { "en": "camera", "it": "macchina fotografica, telecamera", "trap": "Non vuol dire 'camera' da letto. Quella è room o bedroom." },
+    { "en": "gentle", "it": "delicato, dolce", "trap": "Non vuol dire 'gentile' nel senso di cortese. Per cortese usa kind o polite." }
+  ],
+
+  "grammar": {
+    "title": "Gli errori classici: since e for, people, advice e information, make e do, say e tell",
+    "explainIt": [
+      "Since e for vogliono dire entrambi 'da', ma si usano in modo diverso. Since si usa con un punto nel tempo: since Monday, since 2020, since I joined the company. For si usa con una durata: for three days, for two years, for a long time. In tutti e due i casi, con 'da' che continua fino a oggi, si usa il present perfect: I have worked here since 2020. Mai il presente come in italiano.",
+      "People è plurale, anche se non finisce con la s. Si dice people are, mai people is. Se parli di una persona sola, usa person. Lo stesso vale per police (the police are) e per staff nel senso di gruppo di persone, soprattutto in britannico.",
+      "Advice, information, news, work, furniture ed equipment non si possono contare. Non hanno il plurale e non vogliono 'a' o 'an'. Non si dice 'an advice' o 'informations'. Si dice some advice, a piece of advice, some information, a piece of news. Il verbo resta singolare: the news is good.",
+      "Make e do sono tutti e due 'fare', ma make è per creare o produrre qualcosa: a plan, a decision, a mistake, a call. Do è per le attività e i lavori: the testing, some research, your best, the shopping. Per ora basta ricordare questo: nella lezione sulle collocations vedrai molte altre coppie.",
+      "Say e tell sono tutti e due 'dire'. Say è seguito dalle parole dette e non vuole subito la persona: She said it was ready. Se vuoi dire a chi, serve to: She said to me that it was ready. Tell vuole subito la persona: She told me it was ready. Con tell si usano anche truth, lie, story e time: tell the truth, tell a lie, tell the time."
+    ],
+    "explainEn": [
+      "Since and for both translate as 'da' in Italian, but we use them differently. Use since with a point in time: since Monday, since 2020, since I joined the company. Use for with a length of time: for three days, for two years, for a long time. When the time continues until now, we use the present perfect: I have worked here since 2020. We never use the present simple for this.",
+      "People is a plural word, even if it does not end in s. We say 'people are' and never 'people is'. If you talk about one person, use 'person'. The same is true for 'police': the police are here.",
+      "Advice, information, news, work, furniture and equipment are uncountable. They have no plural and we do not use 'a' or 'an' with them. We do not say 'an advice' or 'informations'. We say some advice, a piece of advice, some information, a piece of news. The verb stays singular: the news is good.",
+      "Make and do both mean 'fare' in Italian. We use make to create or produce something: a plan, a decision, a mistake, a call. We use do for activities and tasks: the testing, some research, your best, the shopping. This lesson gives you the basic rule. You will see more fixed pairs in the lesson on collocations.",
+      "Say and tell both mean 'dire'. Say is followed by the words that were spoken and does not take the person directly: She said it was ready. If you want to name the person, you need to: She said to me that it was ready. Tell takes the person directly: She told me it was ready. We also use tell with truth, lie, story and time: tell the truth, tell a lie, tell the time."
+    ],
+    "rules": [
+      {
+        "it": "Since + punto nel tempo, for + durata, con il present perfect.",
+        "en": "Use since with a point in time and for with a length of time, with the present perfect.",
+        "form": "have/has + participio + since + data / for + durata",
+        "examples": [
+          { "en": "We have used this framework since last year.", "it": "Usiamo questo framework dall'anno scorso." },
+          { "en": "I have been in this meeting for two hours.", "it": "Sono in questa riunione da due ore." },
+          { "en": "She has managed the account since March.", "it": "Gestisce il cliente da marzo." }
+        ]
+      },
+      {
+        "it": "People vuole il verbo al plurale. Per una persona sola si dice person.",
+        "en": "People takes a plural verb. For one individual, use person.",
+        "form": "people + are / were / have",
+        "examples": [
+          { "en": "People are leaving the page because it loads slowly.", "it": "Le persone lasciano la pagina perché si carica lentamente." },
+          { "en": "Many people have asked about the new feature.", "it": "Molte persone hanno chiesto della nuova funzione." },
+          { "en": "Ask the person in charge of the project.", "it": "Chiedi alla persona responsabile del progetto." }
+        ]
+      },
+      {
+        "it": "Advice, information, news, work, equipment sono non numerabili: niente s, niente a/an. Per contarli si usa a piece of.",
+        "en": "Advice, information, news, work and equipment are uncountable: no s, no a or an. Use a piece of to count them.",
+        "form": "some / a piece of + advice, information, news",
+        "examples": [
+          { "en": "Here is some information about our prices.", "it": "Ecco alcune informazioni sui nostri prezzi." },
+          { "en": "Can I give you a piece of advice?", "it": "Posso darti un consiglio?" },
+          { "en": "The news about the launch is great.", "it": "La notizia sul lancio è ottima." }
+        ]
+      },
+      {
+        "it": "Make per creare o produrre, do per attività e compiti.",
+        "en": "Use make to create or produce something, and do for activities and tasks.",
+        "form": "make a plan / do the work",
+        "examples": [
+          { "en": "We need to make a decision today.", "it": "Dobbiamo prendere una decisione oggi." },
+          { "en": "I'm doing some research on screen readers.", "it": "Sto facendo alcune ricerche sugli screen reader." },
+          { "en": "Sorry, I made a mistake in the invoice.", "it": "Scusa, ho fatto un errore nella fattura." }
+        ]
+      },
+      {
+        "it": "Say + parole dette, tell + persona. Con say la persona vuole to.",
+        "en": "Say is followed by the words spoken. Tell is followed by the person. With say, the person needs to.",
+        "form": "say (to someone) that... / tell someone that...",
+        "examples": [
+          { "en": "He said the file was missing.", "it": "Ha detto che il file mancava." },
+          { "en": "He told me the file was missing.", "it": "Mi ha detto che il file mancava." },
+          { "en": "Always tell the truth about delays.", "it": "Di' sempre la verità sui ritardi." }
+        ]
+      }
+    ],
+    "tip": "Prima di scrivere una parola che somiglia all'italiano, fermati un secondo e chiediti: 'Ne ho la certezza?'. Se hai dubbi, usa una parola più semplice. Ricordati anche: 'since' = punto, 'for' = lunghezza, e 'people' = plurale, come 'persone'.",
+    "mistakes": [
+      { "wrong": "I work here since three years.", "right": "I have worked here for three years.", "why": "con una durata serve for, e il present perfect (o present perfect continuous)" },
+      { "wrong": "People is very happy with the new design.", "right": "People are very happy with the new design.", "why": "people è plurale" },
+      { "wrong": "Thank you for your advices.", "right": "Thank you for your advice.", "why": "advice non si conta e non ha il plurale" },
+      { "wrong": "He said me to wait.", "right": "He told me to wait.", "why": "se c'è la persona subito dopo, si usa tell" },
+      { "wrong": "Actually we have 40 employees.", "right": "Currently we have 40 employees.", "why": "actually vuol dire 'in realtà', non 'attualmente'" }
+    ]
+  },
+
+  "grammarExercises": [
+    { "q": "I have lived in Turin ___ 2018.", "a": ["since"], "hint": "2018 è un punto nel tempo", "explain": "Con una data o un punto preciso si usa since." },
+    { "q": "She has been our client ___ ten years.", "a": ["for"], "hint": "ten years è una durata", "explain": "Con una durata si usa for." },
+    { "q": "Many people ___ confused by the menu. (be)", "a": ["are", "were"], "hint": "people è plurale", "explain": "People vuole il verbo al plurale: are." },
+    { "q": "Can you give me some ___? I'm not sure which plugin to use. (advice/advices)", "a": ["advice"], "hint": "non ha il plurale", "explain": "Advice non si conta: some advice." },
+    { "q": "I need more ___ about the contract. (information/informations)", "a": ["information"], "hint": "non ha il plurale", "explain": "Information non si conta." },
+    { "q": "Let's ___ a decision before Friday. (make/do)", "a": ["make"], "hint": "una decisione si prende, si crea", "explain": "Si dice make a decision." },
+    { "q": "I will ___ the testing on Monday. (make/do)", "a": ["do"], "hint": "è un'attività", "explain": "Si dice do the testing." },
+    { "q": "She ___ me the deadline was Friday. (said/told)", "a": ["told"], "hint": "c'è me subito dopo", "explain": "Con la persona diretta si usa tell." },
+    { "q": "He ___ that the site was down. (said/told)", "a": ["said"], "hint": "non c'è la persona", "explain": "Senza persona si usa said." },
+    { "q": "The news about the project ___ good. (be)", "a": ["is"], "hint": "news è singolare", "explain": "News non si conta e vuole il verbo singolare." },
+    { "q": "I'm ___ we can finish on time. I trust the team. (confident/confidential)", "a": ["confident"], "hint": "sicuro, fiducioso", "explain": "Confident = sicuro; confidential = riservato." },
+    { "q": "We are ___ for the client's reply. (wait/waiting)", "a": ["waiting"], "hint": "stiamo aspettando: forma in -ing", "explain": "Present continuous: are waiting. Aspettare qualcosa o qualcuno = wait for." }
+  ],
+
+  "phrases": [
+    { "group": "Chiarire le parole", "en": "Actually, I meant the second option.", "it": "In realtà intendevo la seconda opzione.", "note": "actually serve per correggere o precisare, non per dire 'attualmente'" },
+    { "group": "Chiarire le parole", "en": "Currently, we have three developers.", "it": "Attualmente abbiamo tre sviluppatori.", "note": "currently = adesso, in questo periodo" },
+    { "group": "Chiarire le parole", "en": "We will eventually move to the new server.", "it": "Alla fine passeremo al nuovo server.", "note": "eventually = dopo un po', alla fine" },
+    { "group": "Chiarire le parole", "en": "We can add a blog later, if needed.", "it": "Eventualmente possiamo aggiungere un blog più avanti.", "note": "per 'eventualmente' usa if needed, if necessary o possibly" },
+    { "group": "Chiarire le parole", "en": "I'm sorry, I don't follow. Could you say that again?", "it": "Scusa, non ti seguo. Puoi ripeterlo?", "note": "utile quando non capisci una parola" },
+    { "group": "Since e for", "en": "We have worked together since January.", "it": "Lavoriamo insieme da gennaio." },
+    { "group": "Since e for", "en": "I've known him for a long time.", "it": "Lo conosco da molto tempo." },
+    { "group": "Since e for", "en": "How long have you worked here?", "it": "Da quanto tempo lavori qui?" },
+    { "group": "Since e for", "en": "It has been down since this morning.", "it": "È fuori servizio da stamattina." },
+    { "group": "Since e for", "en": "I haven't heard from them for two weeks.", "it": "Non li sento da due settimane." },
+    { "group": "Plurali e non numerabili", "en": "People are asking about the new price.", "it": "La gente chiede del nuovo prezzo." },
+    { "group": "Plurali e non numerabili", "en": "Could I have some information, please?", "it": "Potrei avere alcune informazioni, per favore?" },
+    { "group": "Plurali e non numerabili", "en": "That's a good piece of advice.", "it": "È un buon consiglio." },
+    { "group": "Plurali e non numerabili", "en": "I have some good news for you.", "it": "Ho delle buone notizie per te." },
+    { "group": "Plurali e non numerabili", "en": "We don't have enough equipment.", "it": "Non abbiamo abbastanza attrezzatura." },
+    { "group": "Make, do, say, tell", "en": "Let me make a note of that.", "it": "Lo segno subito." },
+    { "group": "Make, do, say, tell", "en": "I'll do my best to finish today.", "it": "Farò del mio meglio per finire oggi." },
+    { "group": "Make, do, say, tell", "en": "Can you do me a favour?", "it": "Mi fai un favore?" },
+    { "group": "Make, do, say, tell", "en": "Tell me if you have any questions.", "it": "Dimmi se hai domande." },
+    { "group": "Make, do, say, tell", "en": "What did the client say?", "it": "Che cosa ha detto il cliente?" },
+    { "group": "Parole che confondono", "en": "Nice to meet you.", "it": "Piacere di conoscerti." },
+    { "group": "Parole che confondono", "en": "I'm confident about the result.", "it": "Sono fiducioso sul risultato." },
+    { "group": "Parole che confondono", "en": "That is a sensible idea.", "it": "È un'idea sensata." },
+    { "group": "Parole che confondono", "en": "Please check the agenda.", "it": "Controlla l'ordine del giorno, per favore." },
+    { "group": "Parole che confondono", "en": "She's very sympathetic. She understood our delay.", "it": "È molto comprensiva. Ha capito il nostro ritardo." }
+  ],
+
+  "dialogue": {
+    "title": "Small misunderstandings",
+    "context": "Luca, sviluppatore italiano, parla con Emma, project manager inglese, prima di una riunione con un cliente. Alcune parole causano piccoli malintesi.",
+    "lines": [
+      { "s": "A", "name": "Emma", "en": "Hi Luca. Have you seen the agenda for the meeting?", "it": "Ciao Luca. Hai visto l'ordine del giorno della riunione?" },
+      { "s": "B", "name": "Luca", "en": "Yes. But I don't have it in my diary. What time does it start?", "it": "Sì. Ma non ce l'ho sulla mia agenda. A che ora comincia?" },
+      { "s": "A", "name": "Emma", "en": "At three. Actually, I think the client wants to move it to four.", "it": "Alle tre. In realtà, credo che il cliente voglia spostarla alle quattro." },
+      { "s": "B", "name": "Luca", "en": "Eventually? I thought we would only change it if needed.", "it": "Eventualmente? Pensavo che l'avremmo cambiata solo se necessario." },
+      { "s": "A", "name": "Emma", "en": "No, sorry, I said actually, not eventually. They have asked for it twice.", "it": "No, scusa, ho detto actually, non eventually. L'hanno chiesto due volte." },
+      { "s": "B", "name": "Luca", "en": "Ah, I see. In Italian 'eventualmente' means 'if needed'. It's a false friend.", "it": "Ah, ho capito. In italiano 'eventualmente' vuol dire 'se serve'. È un falso amico." },
+      { "s": "A", "name": "Emma", "en": "Exactly. 'Eventually' means 'after some time'. Anyway, the client has been very sympathetic about the delays.", "it": "Esatto. 'Eventually' vuol dire 'dopo un po' di tempo'. Comunque, il cliente è stato molto comprensivo sui ritardi." },
+      { "s": "B", "name": "Luca", "en": "Good. How long have we been working with them?", "it": "Bene. Da quanto lavoriamo con loro?" },
+      { "s": "A", "name": "Emma", "en": "For about two years. Since the first project in 2024.", "it": "Da circa due anni. Dal primo progetto nel 2024." },
+      { "s": "B", "name": "Luca", "en": "Do you want me to prepare a comprehensive report on the accessibility issues?", "it": "Vuoi che prepari un report completo sui problemi di accessibilità?" },
+      { "s": "A", "name": "Emma", "en": "Yes, please. And give me some advice: should we show the sensitive data in the demo?", "it": "Sì, grazie. E dammi un consiglio: dovremmo mostrare i dati sensibili nella demo?" },
+      { "s": "B", "name": "Luca", "en": "No, that's not sensible. I'll use test data. People are very careful about privacy.", "it": "No, non sarebbe ragionevole. Userò dati di prova. La gente è molto attenta alla privacy." },
+      { "s": "A", "name": "Emma", "en": "Perfect. Tell me if you need more information.", "it": "Perfetto. Dimmi se ti servono altre informazioni." },
+      { "s": "B", "name": "Luca", "en": "I will. I'll check the test site and send you the link.", "it": "Lo farò. Controllo il sito di prova e ti mando il link." }
+    ]
+  },
+
+  "listening": [
+    { "q": "What does 'eventually' mean in the dialogue?", "options": ["After some time", "If needed", "At the moment"], "answer": 0 },
+    { "q": "What time may the meeting move to?", "options": ["Three", "Four", "Five"], "answer": 1 },
+    { "q": "How long have they worked with the client?", "options": ["For two years", "For two months", "Since 2020"], "answer": 0 },
+    { "q": "What will Luca use in the demo?", "options": ["Sensitive data", "Real customer data", "Test data"], "answer": 2 }
+  ],
+
+  "translations": [
+    { "it": "In realtà la riunione è domani, non oggi.", "en": "Actually, the meeting is tomorrow, not today.", "alt": ["Actually, the meeting is tomorrow and not today."] },
+    { "it": "Alla fine il cliente ha approvato il progetto.", "en": "Eventually, the client approved the project.", "alt": ["In the end, the client approved the project."] },
+    { "it": "Lavoro in questa azienda da cinque anni.", "en": "I have worked at this company for five years.", "alt": ["I've worked at this company for five years.", "I have been working at this company for five years."] },
+    { "it": "Il sito non funziona da lunedì.", "en": "The site has not worked since Monday.", "alt": ["The site hasn't worked since Monday.", "The site has been down since Monday.", "The site hasn't been working since Monday."] },
+    { "it": "Le persone sono molto contente del nuovo sito.", "en": "People are very happy with the new site.", "alt": ["People are really happy with the new website."] },
+    { "it": "Ti ringrazio per il consiglio.", "en": "Thank you for your advice.", "alt": ["Thanks for your advice.", "Thanks for the advice."] },
+    { "it": "Ho bisogno di altre informazioni sul progetto.", "en": "I need more information about the project.", "alt": ["I need some more information about the project."] },
+    { "it": "Il cliente mi ha detto che la scadenza è venerdì.", "en": "The client told me that the deadline is Friday.", "alt": ["The client told me the deadline is Friday."] },
+    { "it": "Dobbiamo prendere una decisione oggi.", "en": "We need to make a decision today.", "alt": ["We have to make a decision today."] },
+    { "it": "Faccio io i test domani mattina.", "en": "I'll do the testing tomorrow morning.", "alt": ["I will do the tests tomorrow morning.", "I'll do the tests tomorrow morning."] },
+    { "it": "Stiamo aspettando la risposta del cliente.", "en": "We are waiting for the client's reply.", "alt": ["We're waiting for the client's reply.", "We are waiting for the client's answer."] },
+    { "it": "Sono sicuro che finiremo in tempo.", "en": "I'm confident that we will finish on time.", "alt": ["I'm sure we will finish on time.", "I am confident we'll finish on time."] }
+  ],
+
+  "writing": {
+    "taskIt": "Scrivi una mail a un collega inglese. Spiega che alla riunione di giovedì hai dato un'informazione sbagliata: hai detto 'eventually' ma volevi dire 'if needed'. Chiedi scusa, di' da quanto tempo lavori con il cliente e dai un consiglio su come evitare il malinteso. Usa since, for, advice, information e actually.",
+    "taskEn": "Write an email to an English colleague. Explain that in Thursday's meeting you gave wrong information: you said 'eventually' but you meant 'if needed'. Say sorry, say how long you have worked with the client and give some advice on how to avoid the misunderstanding. Use since, for, advice, information and actually.",
+    "model": "Hi Emma,\n\nI wanted to clear up a small misunderstanding from Thursday's meeting.\n\nActually, I used the word 'eventually' when I meant 'if needed'. In Italian, 'eventualmente' means 'if needed', but in English 'eventually' means 'after some time'. Sorry for the confusion. The client now thinks the extra pages will come later, but they are optional.\n\nI have worked with this client since 2024, so I know how they read our emails. For two years we have never had this kind of problem, so I'd like to keep it that way.\n\nMy advice is to use simple words like 'if necessary' when we talk about optional work. I can also send the client some information about the extra pages, if you want.\n\nBest regards,\nLuca"
+  },
+
+  "speaking": {
+    "shadowing": [
+      "Actually, I think there's a small misunderstanding.",
+      "I have worked here for six years.",
+      "I have used this tool since last spring.",
+      "People are asking for a simpler menu.",
+      "Thanks for the advice. It was very helpful.",
+      "Could you send me some more information?",
+      "She told me the deadline was Friday.",
+      "We will eventually move everything to the new server."
+    ],
+    "prompts": [
+      { "en": "How long have you worked as a developer?", "it": "Da quanto tempo lavori come sviluppatore?", "help": "Inizia con: I have worked as... for... / since..." },
+      { "en": "Tell me about a misunderstanding you had with a client.", "it": "Raccontami un malinteso che hai avuto con un cliente.", "help": "Usa: Actually... / I thought... but they meant..." },
+      { "en": "What advice would you give to a new colleague?", "it": "Che consiglio daresti a un nuovo collega?", "help": "Ricorda: advice non ha la s. Usa: My advice is to..." },
+      { "en": "Which English words do you often confuse?", "it": "Quali parole inglesi confondi spesso?", "help": "Esempi: actually, eventually, sensible, sympathetic" },
+      { "en": "What are you working on at the moment?", "it": "A cosa stai lavorando in questo momento?", "help": "Usa: At the moment I'm working on... / I have been working on... since..." }
+    ]
+  },
+
+  "video": [
+    {
+      "title": "Introduzione: i falsi amici",
+      "show": ["Falsi amici ed errori tipici", "actually non vuol dire attualmente", "eventually non vuol dire eventualmente"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo dei falsi amici: parole inglesi che sembrano italiane ma hanno un altro significato. Sono la causa di molti malintesi al lavoro." },
+        { "lang": "en", "text": "Actually, I think there is a small misunderstanding." }
+      ]
+    },
+    {
+      "title": "Actually ed eventually",
+      "show": ["actually = in realtà", "currently = attualmente", "eventually = alla fine", "possibly = eventualmente"],
+      "say": [
+        { "lang": "it", "text": "Actually vuol dire in realtà, non attualmente. Per dire attualmente usa currently. Eventually vuol dire alla fine, dopo un po' di tempo. Per dire eventualmente usa possibly oppure if needed." },
+        { "lang": "en", "text": "Currently we have three developers. Eventually we will have five." }
+      ]
+    },
+    {
+      "title": "Altri falsi amici importanti",
+      "show": ["library = biblioteca", "sensible = ragionevole", "sensitive = sensibile", "to attend = partecipare", "parents = genitori"],
+      "say": [
+        { "lang": "it", "text": "Library è biblioteca, la libreria è bookshop. Sensible è ragionevole, sensitive è sensibile. To attend vuol dire partecipare, mentre aspettare si dice to wait for. Parents sono i genitori." },
+        { "lang": "en", "text": "Will you attend the meeting? Yes, but I'm still waiting for the agenda." }
+      ]
+    },
+    {
+      "title": "Since e for",
+      "show": ["since + punto nel tempo", "for + durata", "present perfect"],
+      "say": [
+        { "lang": "it", "text": "Since e for vogliono dire da. Since si usa con una data o un momento preciso. For si usa con una durata. In tutti e due i casi serve il present perfect, non il presente." },
+        { "lang": "en", "text": "I have worked here since 2020. I have worked here for five years." }
+      ]
+    },
+    {
+      "title": "People, advice e information",
+      "show": ["people are", "some advice", "some information", "the news is"],
+      "say": [
+        { "lang": "it", "text": "People è plurale: people are, mai people is. Advice, information e news non hanno il plurale. Non dire advices o informations. Usa some o a piece of." },
+        { "lang": "en", "text": "People are asking for some information. Thanks for the advice." }
+      ]
+    },
+    {
+      "title": "Make e do",
+      "show": ["make = creare, produrre", "do = attività, compiti", "make a plan, do the work"],
+      "say": [
+        { "lang": "it", "text": "Make e do sono tutti e due fare. Make serve per creare qualcosa: un piano, una decisione, un errore. Do serve per le attività e i lavori: i test, la ricerca, il tuo meglio." },
+        { "lang": "en", "text": "Let's make a plan. I'll do the testing tomorrow." }
+      ]
+    },
+    {
+      "title": "Say e tell",
+      "show": ["say = dire le parole", "tell + persona", "tell the truth"],
+      "say": [
+        { "lang": "it", "text": "Say e tell vogliono dire dire. Con tell metti subito la persona. Con say no: se vuoi nominare la persona serve to." },
+        { "lang": "en", "text": "She said it was ready. She told me it was ready." }
+      ]
+    },
+    {
+      "title": "Riepilogo e consigli",
+      "show": ["Dubbio? Controlla il dizionario", "since = punto, for = durata", "people are, some advice"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Quando una parola somiglia all'italiano, controlla il dizionario. Since è un punto nel tempo, for una durata. People è plurale. Advice e information non hanno il plurale. Con tell c'è la persona, con say no." },
+        { "lang": "en", "text": "When you are not sure, check. It only takes a few seconds." }
+      ]
+    }
+  ]
+}

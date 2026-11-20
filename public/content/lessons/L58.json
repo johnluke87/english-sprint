@@ -1,0 +1,1246 @@
+{
+  "id": 58,
+  "week": 12,
+  "title": "Conversazione fluida",
+  "titleEn": "Fluent conversation",
+  "intro": "Oggi impari le parole piccole che fanno suonare naturale una conversazione: well, the thing is, let me think, to be fair. Servono per prendere tempo senza restare in silenzio, per ammorbidire quello che dici e per riprendere il filo. Le userai in chiamate con clienti, riunioni e colloqui.",
+  "goals": [
+    "Prendere tempo in modo naturale quando cerchi le parole",
+    "Iniziare una risposta con well, so o the thing is",
+    "Ammorbidire un'opinione o una critica (I'd say, sort of, to be fair)",
+    "Riprendere il filo del discorso e reagire con naturalezza"
+  ],
+  "words": [
+    {
+      "en": "well",
+      "pron": "uèl",
+      "it": "beh, allora (apre una risposta)",
+      "type": "adv",
+      "ex": "Well, it depends on the budget.",
+      "exIt": "Beh, dipende dal budget."
+    },
+    {
+      "en": "let me think",
+      "pron": "lèt mi tìnk",
+      "it": "fammi pensare",
+      "type": "phrase",
+      "ex": "Let me think, I'll need to check the schedule.",
+      "exIt": "Fammi pensare, devo controllare il programma."
+    },
+    {
+      "en": "the thing is",
+      "pron": "de tìng iz",
+      "it": "il fatto è che (introduce un problema o un punto)",
+      "type": "phrase",
+      "ex": "The thing is, we don't have enough time.",
+      "exIt": "Il fatto è che non abbiamo abbastanza tempo."
+    },
+    {
+      "en": "to be fair",
+      "pron": "tu bi fèar",
+      "it": "per essere giusti, a onor del vero",
+      "type": "phrase",
+      "ex": "To be fair, the client sent the files late.",
+      "exIt": "A onor del vero, il cliente ha mandato i file in ritardo."
+    },
+    {
+      "en": "come to think of it",
+      "pron": "kàm tu tìnk ov it",
+      "it": "ora che ci penso",
+      "type": "phrase",
+      "ex": "Come to think of it, we haven't tested on mobile.",
+      "exIt": "Ora che ci penso, non abbiamo testato su mobile."
+    },
+    {
+      "en": "speaking of which",
+      "pron": "spìikin ov uìc",
+      "it": "a proposito di questo",
+      "type": "phrase",
+      "ex": "Speaking of which, have you seen the new dashboard?",
+      "exIt": "A proposito di questo, hai visto la nuova dashboard?"
+    },
+    {
+      "en": "as a matter of fact",
+      "pron": "az a màta ov fàkt",
+      "it": "anzi, in effetti",
+      "type": "phrase",
+      "ex": "As a matter of fact, I finished it this morning.",
+      "exIt": "In effetti, l'ho finito stamattina."
+    },
+    {
+      "en": "obviously",
+      "pron": "òbviasli",
+      "it": "ovviamente",
+      "type": "adv",
+      "ex": "Obviously, we'll fix it for free.",
+      "exIt": "Ovviamente lo correggeremo gratis."
+    },
+    {
+      "en": "as far as I know",
+      "pron": "az fàar az ai nòu",
+      "it": "per quanto ne so",
+      "type": "phrase",
+      "ex": "As far as I know, the invoice has been paid.",
+      "exIt": "Per quanto ne so, la fattura è stata pagata."
+    },
+    {
+      "en": "if I'm not mistaken",
+      "pron": "if àim not mistèiken",
+      "it": "se non mi sbaglio",
+      "type": "phrase",
+      "ex": "If I'm not mistaken, the meeting starts at three.",
+      "exIt": "Se non mi sbaglio, la riunione inizia alle tre."
+    },
+    {
+      "en": "how can I put it",
+      "pron": "hàu kan ai pùt it",
+      "it": "come posso dire",
+      "type": "phrase",
+      "ex": "It's, how can I put it, not our best work.",
+      "exIt": "È, come posso dire, non il nostro lavoro migliore."
+    },
+    {
+      "en": "let me see",
+      "pron": "lèt mi sìi",
+      "it": "vediamo, fammi vedere",
+      "type": "phrase",
+      "ex": "Let me see, I think I have Tuesday free.",
+      "exIt": "Vediamo, credo di avere libero martedì."
+    },
+    {
+      "en": "give me a second",
+      "pron": "ghìv mi a sèkond",
+      "it": "dammi un secondo",
+      "type": "phrase",
+      "ex": "Give me a second, I need to open the document.",
+      "exIt": "Dammi un secondo, devo aprire il documento."
+    },
+    {
+      "en": "to tell the truth",
+      "pron": "tu tèl de trùut",
+      "it": "a dire la verità",
+      "type": "phrase",
+      "ex": "To tell the truth, I hadn't read it yet.",
+      "exIt": "A dire la verità, non l'avevo ancora letto."
+    },
+    {
+      "en": "what I mean is",
+      "pron": "uòt ai mìin iz",
+      "it": "quello che voglio dire è",
+      "type": "phrase",
+      "ex": "What I mean is, we can't promise a date.",
+      "exIt": "Quello che voglio dire è che non possiamo promettere una data."
+    },
+    {
+      "en": "where was I",
+      "pron": "uèar uoz ai",
+      "it": "dov'ero rimasto",
+      "type": "phrase",
+      "ex": "Sorry, where was I? Oh yes, the budget.",
+      "exIt": "Scusa, dov'ero rimasto? Ah sì, il budget."
+    },
+    {
+      "en": "as I was saying",
+      "pron": "az ai uoz sèiing",
+      "it": "come stavo dicendo",
+      "type": "phrase",
+      "ex": "As I was saying, the main issue is the timing.",
+      "exIt": "Come stavo dicendo, il problema principale è la tempistica."
+    },
+    {
+      "en": "long story short",
+      "pron": "lòng stòri scòot",
+      "it": "per farla breve",
+      "type": "phrase",
+      "ex": "Long story short, we lost the contract.",
+      "exIt": "Per farla breve, abbiamo perso il contratto."
+    },
+    {
+      "en": "the point is",
+      "pron": "de pòint iz",
+      "it": "il punto è che",
+      "type": "phrase",
+      "ex": "The point is, we need a decision today.",
+      "exIt": "Il punto è che ci serve una decisione oggi."
+    },
+    {
+      "en": "mind you",
+      "pron": "màind iu",
+      "it": "tuttavia, però (aggiunge un'osservazione)",
+      "type": "phrase",
+      "ex": "It's a good price. Mind you, it doesn't include hosting.",
+      "exIt": "È un buon prezzo. Però non include l'hosting."
+    },
+    {
+      "en": "having said that",
+      "pron": "hàvin sèd dat",
+      "it": "detto questo",
+      "type": "phrase",
+      "ex": "It's a nice design. Having said that, it needs work on contrast.",
+      "exIt": "È un bel design. Detto questo, serve lavorare sul contrasto."
+    },
+    {
+      "en": "then again",
+      "pron": "den agèn",
+      "it": "d'altra parte, però",
+      "type": "phrase",
+      "ex": "It's expensive. Then again, it saves a lot of time.",
+      "exIt": "È caro. D'altra parte fa risparmiare molto tempo."
+    },
+    {
+      "en": "good point",
+      "pron": "gùd pòint",
+      "it": "buona osservazione, hai ragione",
+      "type": "phrase",
+      "ex": "Good point, I hadn't thought of that.",
+      "exIt": "Buona osservazione, non ci avevo pensato."
+    },
+    {
+      "en": "I'd say",
+      "pron": "aid sèi",
+      "it": "direi",
+      "type": "phrase",
+      "ex": "I'd say it will take about two weeks.",
+      "exIt": "Direi che ci vorranno circa due settimane."
+    },
+    {
+      "en": "it depends",
+      "pron": "it dipèndz",
+      "it": "dipende",
+      "type": "phrase",
+      "ex": "It depends on what the client wants.",
+      "exIt": "Dipende da cosa vuole il cliente."
+    },
+    {
+      "en": "to some extent",
+      "pron": "tu sam ikstènt",
+      "it": "in una certa misura",
+      "type": "phrase",
+      "ex": "To some extent, the delay was our fault.",
+      "exIt": "In una certa misura, il ritardo è stato colpa nostra."
+    },
+    {
+      "en": "pretty much",
+      "pron": "prìti màc",
+      "it": "più o meno, praticamente",
+      "type": "phrase",
+      "ex": "We're pretty much done with the first phase.",
+      "exIt": "Abbiamo praticamente finito la prima fase."
+    },
+    {
+      "en": "more or less",
+      "pron": "mòor o lès",
+      "it": "più o meno",
+      "type": "phrase",
+      "ex": "The cost is more or less 3,000 euros.",
+      "exIt": "Il costo è più o meno 3.000 euro."
+    },
+    {
+      "en": "literally",
+      "pron": "lìtarali",
+      "it": "letteralmente",
+      "type": "adv",
+      "ex": "The site literally crashed the moment we launched.",
+      "exIt": "Il sito è letteralmente andato in crash appena lanciato."
+    },
+    {
+      "en": "totally",
+      "pron": "tòutali",
+      "it": "assolutamente, del tutto",
+      "type": "adv",
+      "ex": "I totally agree with you.",
+      "exIt": "Sono assolutamente d'accordo con te."
+    },
+    {
+      "en": "right",
+      "pron": "ràit",
+      "it": "giusto, ok (per reagire o confermare)",
+      "type": "adv",
+      "ex": "Right, so the next step is the contract.",
+      "exIt": "Giusto, quindi il prossimo passo è il contratto."
+    },
+    {
+      "en": "to buy time",
+      "pron": "bài tàim",
+      "it": "guadagnare tempo",
+      "type": "phrase",
+      "ex": "I said 'let me see' to buy time.",
+      "exIt": "Ho detto «vediamo» per guadagnare tempo."
+    },
+    {
+      "en": "if you ask me",
+      "pron": "if iu àask mi",
+      "it": "se vuoi il mio parere",
+      "type": "phrase",
+      "ex": "If you ask me, we should start again.",
+      "exIt": "Se vuoi il mio parere, dovremmo ricominciare."
+    },
+    {
+      "en": "the way I see it",
+      "pron": "de uèi ai sii it",
+      "it": "per come la vedo io",
+      "type": "phrase",
+      "ex": "The way I see it, we have two options.",
+      "exIt": "Per come la vedo io, abbiamo due opzioni."
+    },
+    {
+      "en": "let's face it",
+      "pron": "lets fèis it",
+      "it": "ammettiamolo",
+      "type": "phrase",
+      "ex": "Let's face it, the deadline was never realistic.",
+      "exIt": "Ammettiamolo, la scadenza non è mai stata realistica."
+    },
+    {
+      "en": "for what it's worth",
+      "pron": "fo uòt its uèrt",
+      "it": "per quello che vale",
+      "type": "phrase",
+      "ex": "For what it's worth, I think the design is great.",
+      "exIt": "Per quello che vale, penso che il design sia ottimo."
+    },
+    {
+      "en": "to be perfectly honest",
+      "pron": "tu bi pèrfiktli ònist",
+      "it": "a dire il vero (rafforzato)",
+      "type": "phrase",
+      "ex": "To be perfectly honest, I'd rather not.",
+      "exIt": "A dire il vero, preferirei di no."
+    },
+    {
+      "en": "I guess",
+      "pron": "ai ghès",
+      "it": "suppongo, immagino",
+      "type": "phrase",
+      "ex": "I guess we could try it this way.",
+      "exIt": "Immagino che potremmo provare così."
+    },
+    {
+      "en": "I suppose",
+      "pron": "ai sapòuz",
+      "it": "suppongo (più esitante)",
+      "type": "phrase",
+      "ex": "I suppose that works for me.",
+      "exIt": "Suppongo che per me vada bene."
+    },
+    {
+      "en": "so to speak",
+      "pron": "sòu tu spiik",
+      "it": "per così dire",
+      "type": "phrase",
+      "ex": "It's a quick fix, so to speak.",
+      "exIt": "È una soluzione rapida, per così dire."
+    },
+    {
+      "en": "in a way",
+      "pron": "in a uèi",
+      "it": "in un certo senso",
+      "type": "phrase",
+      "ex": "In a way, the delay helped us.",
+      "exIt": "In un certo senso, il ritardo ci ha aiutato."
+    },
+    {
+      "en": "up to a point",
+      "pron": "àp tu a pòint",
+      "it": "fino a un certo punto",
+      "type": "phrase",
+      "ex": "I agree with you, up to a point.",
+      "exIt": "Sono d'accordo con te, fino a un certo punto."
+    },
+    {
+      "en": "believe it or not",
+      "pron": "bilìiv it or not",
+      "it": "che ci crediate o no",
+      "type": "phrase",
+      "ex": "Believe it or not, the server worked on the first try.",
+      "exIt": "Che ci crediate o no, il server ha funzionato al primo tentativo."
+    },
+    {
+      "en": "oddly enough",
+      "pron": "òdli inàf",
+      "it": "stranamente",
+      "type": "phrase",
+      "ex": "Oddly enough, the bug only appears on Tuesdays.",
+      "exIt": "Stranamente, l'errore compare solo di martedì."
+    },
+    {
+      "en": "as it happens",
+      "pron": "az it hàpens",
+      "it": "per caso, guarda caso",
+      "type": "phrase",
+      "ex": "As it happens, I'm free on Thursday.",
+      "exIt": "Guarda caso, giovedì sono libero."
+    },
+    {
+      "en": "what's more",
+      "pron": "uòts mòo",
+      "it": "inoltre, per di più",
+      "type": "phrase",
+      "ex": "It's cheaper, and what's more, it's faster.",
+      "exIt": "Costa meno e, per di più, è più veloce."
+    },
+    {
+      "en": "the funny thing is",
+      "pron": "de fàni ting iz",
+      "it": "la cosa strana è che",
+      "type": "phrase",
+      "ex": "The funny thing is, nobody noticed the error.",
+      "exIt": "La cosa strana è che nessuno ha notato l'errore."
+    },
+    {
+      "en": "and so on",
+      "pron": "and sòu on",
+      "it": "eccetera",
+      "type": "phrase",
+      "ex": "We need a logo, a website, a brochure and so on.",
+      "exIt": "Ci servono un logo, un sito, una brochure e così via."
+    },
+    {
+      "en": "or something",
+      "pron": "or sàmting",
+      "it": "o qualcosa del genere",
+      "type": "phrase",
+      "ex": "Maybe it's a plugin conflict or something.",
+      "exIt": "Forse è un conflitto tra plugin o qualcosa del genere."
+    },
+    {
+      "en": "just a sec",
+      "pron": "giàst a sèk",
+      "it": "un attimo (molto informale)",
+      "type": "phrase",
+      "ex": "Just a sec, I'll grab my notes.",
+      "exIt": "Un attimo, prendo i miei appunti."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "actually",
+      "it": "in realtà",
+      "trap": "Non vuol dire 'attualmente' (= currently). Si usa per correggere o aggiungere: 'Actually, I disagree.'"
+    },
+    {
+      "en": "sympathetic",
+      "it": "comprensivo",
+      "trap": "Non vuol dire 'simpatico' (= nice, friendly). Sympathetic è chi capisce i tuoi problemi."
+    },
+    {
+      "en": "eventually",
+      "it": "alla fine, prima o poi",
+      "trap": "Non vuol dire 'eventualmente' (= if needed, possibly)."
+    }
+  ],
+  "grammar": {
+    "title": "Riempitivi naturali e come guadagnare tempo",
+    "explainIt": [
+      "Quando parli in inglese, non devi avere sempre la frase pronta. I madrelingua usano parole di appoggio per pensare mentre parlano: well, you know, I mean, let me see. Non sono errori, sono strumenti. Usarli ti fa sembrare naturale ed evita i silenzi, che mettono pressione a te e al cliente.",
+      "Per iniziare una risposta puoi usare well o so. 'Well, it depends.' è molto più morbido di 'It depends.' Per introdurre un problema usa 'the thing is' (il fatto è che). 'The thing is, we don't have the budget.' Sono tre parole che ti danno un secondo per ordinare le idee.",
+      "Per prendere tempo usa frasi complete: 'Let me think.' 'Give me a second.' 'Bear with me.' 'Hang on.' Per le domande difficili, 'That's a good question' è una frase classica per guadagnare qualche secondo. Se hai bisogno di cercare un documento, di' 'Bear with me while I find that.' Il cliente capisce che stai lavorando.",
+      "Per ammorbidire una frase usa 'I'd say', 'sort of', 'kind of', 'to some extent' e 'to be fair'. 'I'd say it's too expensive' suona più educato di 'It's too expensive'. Per correggerti usa 'I mean': 'It's finished. I mean, it's almost finished.' Per riprendere il filo: 'Anyway', 'As I was saying', 'Where was I?'.",
+      "Non esagerare: troppi you know e basically stancano chi ascolta e sono sbagliati nella scrittura formale. Usa un riempitivo per frase al massimo, e solo all'inizio o dopo una pausa. Nelle mail e nei report evitali quasi sempre. Nella conversazione, invece, sono normali."
+    ],
+    "explainEn": [
+      "When you speak English you do not always need the sentence ready. Native speakers use small words to think while they speak: well, you know, I mean, let me see. They are not mistakes, they are tools. Using them makes you sound natural and avoids silences, which put pressure on you and on the client.",
+      "To start an answer you can use well or so. 'Well, it depends.' is much softer than 'It depends.' To introduce a problem use 'the thing is'. 'The thing is, we don't have the budget.' These are three words that give you a second to organise your ideas.",
+      "To buy time use full phrases: 'Let me think.' 'Give me a second.' 'Bear with me.' 'Hang on.' For difficult questions, 'That's a good question' is a classic phrase to gain a few seconds. If you need to find a document, say 'Bear with me while I find that.' The client understands that you are working.",
+      "To soften a sentence use 'I'd say', 'sort of', 'kind of', 'to some extent' and 'to be fair'. 'I'd say it's too expensive' sounds more polite than 'It's too expensive'. To correct yourself use 'I mean': 'It's finished. I mean, it's almost finished.' To pick up the thread again: 'Anyway', 'As I was saying', 'Where was I?'.",
+      "Do not overdo it: too many you knows and basicallys tire the listener and are wrong in formal writing. Use one filler per sentence at most, and only at the start or after a pause. In emails and reports avoid them almost always. In conversation, however, they are normal."
+    ],
+    "rules": [
+      {
+        "it": "Inizia la risposta con well, so o the thing is: ti dà tempo e ammorbidisce.",
+        "en": "Start your answer with well, so or the thing is: it gives you time and softens the message.",
+        "form": "Well, ... / So, ... / The thing is, ...",
+        "examples": [
+          {
+            "en": "Well, it depends on the scope.",
+            "it": "Beh, dipende dall'ambito."
+          },
+          {
+            "en": "The thing is, we have only one developer.",
+            "it": "Il fatto è che abbiamo un solo sviluppatore."
+          },
+          {
+            "en": "So, what do you think about option B?",
+            "it": "Allora, cosa ne pensi dell'opzione B?"
+          }
+        ]
+      },
+      {
+        "it": "Prendi tempo con frasi complete: let me think, give me a second, bear with me.",
+        "en": "Buy time with full phrases: let me think, give me a second, bear with me.",
+        "form": "Let me + verbo base / Give me + a second / Bear with me",
+        "examples": [
+          {
+            "en": "Let me check my calendar.",
+            "it": "Controllo il calendario."
+          },
+          {
+            "en": "Bear with me, I'm opening the file.",
+            "it": "Abbi pazienza, sto aprendo il file."
+          },
+          {
+            "en": "That's a good question. Let me think.",
+            "it": "È una buona domanda. Fammi pensare."
+          }
+        ]
+      },
+      {
+        "it": "Ammorbidisci con I'd say, sort of, kind of, to some extent.",
+        "en": "Soften with I'd say, sort of, kind of, to some extent.",
+        "form": "I'd say + frase / sort of + aggettivo",
+        "examples": [
+          {
+            "en": "I'd say we need another week.",
+            "it": "Direi che ci serve un'altra settimana."
+          },
+          {
+            "en": "It's kind of a risky plan.",
+            "it": "È un piano un po' rischioso."
+          }
+        ]
+      },
+      {
+        "it": "Correggiti o spiegati meglio con I mean, what I mean is, in other words.",
+        "en": "Correct or explain yourself with I mean, what I mean is, in other words.",
+        "form": "I mean, ... / In other words, ...",
+        "examples": [
+          {
+            "en": "It's complex. I mean, it has many parts.",
+            "it": "È complesso. Voglio dire, ha molte parti."
+          },
+          {
+            "en": "In other words, we cannot finish on time.",
+            "it": "In altre parole, non possiamo finire in tempo."
+          }
+        ]
+      },
+      {
+        "it": "Riprendi o cambia argomento con anyway, as I was saying, by the way.",
+        "en": "Pick up or change the topic with anyway, as I was saying, by the way.",
+        "form": "Anyway, ... / By the way, ...",
+        "examples": [
+          {
+            "en": "Anyway, let's go back to the agenda.",
+            "it": "Comunque, torniamo all'ordine del giorno."
+          },
+          {
+            "en": "By the way, did you send the invoice?",
+            "it": "A proposito, hai mandato la fattura?"
+          }
+        ]
+      }
+    ],
+    "tip": "Impara tre riempitivi e usali per una settimana, sempre gli stessi: per esempio 'well', 'the thing is' e 'let me think'. Dopo una settimana usarli diventa automatico. Poi aggiungine altri.",
+    "mistakes": [
+      {
+        "wrong": "Eeeh... ehm... (silenzio lungo, versi in italiano)",
+        "right": "Well... let me think...",
+        "why": "usa un riempitivo inglese invece di un verso in italiano"
+      },
+      {
+        "wrong": "Actually, I am working here from two years.",
+        "right": "I've been working here for two years.",
+        "why": "actually non vuol dire attualmente; e con for si usa il present perfect"
+      },
+      {
+        "wrong": "You know, I mean, basically, honestly, I think, you know, it's, like, ...",
+        "right": "Well, honestly, I think it's too expensive.",
+        "why": "un riempitivo per frase, non di più"
+      },
+      {
+        "wrong": "It's expensive, but eventually it's good.",
+        "right": "It's expensive, but then again, it's good.",
+        "why": "eventually vuol dire alla fine: per contrapporre usa then again o having said that"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "Can you finish by Monday? ___, let me check the plan.",
+      "a": [
+        "well",
+        "hmm",
+        "let me see",
+        "let me think"
+      ],
+      "hint": "apre una risposta",
+      "explain": "Well prende tempo e ammorbidisce."
+    },
+    {
+      "q": "___ is, we only have one developer.",
+      "a": [
+        "the thing",
+        "the point",
+        "the problem"
+      ],
+      "hint": "il fatto è che",
+      "explain": "The thing is... introduce un problema."
+    },
+    {
+      "q": "___ with me while I find the document.",
+      "a": [
+        "bear"
+      ],
+      "hint": "abbi pazienza",
+      "explain": "Bear with me = abbi un attimo di pazienza."
+    },
+    {
+      "q": "___ me a second, I need to open the file.",
+      "a": [
+        "give"
+      ],
+      "hint": "dammi un secondo",
+      "explain": "Give me a second."
+    },
+    {
+      "q": "It's expensive. ___ again, it saves a lot of time.",
+      "a": [
+        "then"
+      ],
+      "hint": "d'altra parte",
+      "explain": "Then again = d'altra parte."
+    },
+    {
+      "q": "Sorry, ___ was I? Oh yes, the budget.",
+      "a": [
+        "where"
+      ],
+      "hint": "dov'ero rimasto",
+      "explain": "Where was I? per riprendere il filo."
+    },
+    {
+      "q": "___ I was saying, the main issue is the timing.",
+      "a": [
+        "as"
+      ],
+      "hint": "come stavo dicendo",
+      "explain": "As I was saying = come stavo dicendo."
+    },
+    {
+      "q": "It's a nice design. ___ said that, it needs work on contrast.",
+      "a": [
+        "having"
+      ],
+      "hint": "detto questo",
+      "explain": "Having said that = detto questo."
+    },
+    {
+      "q": "___ the way, did you get my email?",
+      "a": [
+        "by"
+      ],
+      "hint": "a proposito",
+      "explain": "By the way = a proposito."
+    },
+    {
+      "q": "I'd ___ it will take about two weeks. (direi)",
+      "a": [
+        "say"
+      ],
+      "hint": "direi",
+      "explain": "I'd say = direi, ammorbidisce."
+    },
+    {
+      "q": "It's ___ of a risky plan. (un po')",
+      "a": [
+        "kind",
+        "sort"
+      ],
+      "hint": "un po'",
+      "explain": "Kind of / sort of = un po'."
+    },
+    {
+      "q": "___ enough, let's wait until next week. (va bene, ha senso)",
+      "a": [
+        "fair"
+      ],
+      "hint": "accettare un punto",
+      "explain": "Fair enough = va bene, ha senso."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Iniziare una risposta",
+      "en": "Well, it depends on the budget.",
+      "it": "Beh, dipende dal budget."
+    },
+    {
+      "group": "Iniziare una risposta",
+      "en": "So, here's the situation.",
+      "it": "Allora, ecco la situazione."
+    },
+    {
+      "group": "Iniziare una risposta",
+      "en": "That's a good question.",
+      "it": "È una buona domanda.",
+      "note": "serve a guadagnare qualche secondo"
+    },
+    {
+      "group": "Iniziare una risposta",
+      "en": "The thing is, we're short of time.",
+      "it": "Il fatto è che siamo a corto di tempo."
+    },
+    {
+      "group": "Iniziare una risposta",
+      "en": "To be honest, I haven't looked at it yet.",
+      "it": "A dire il vero, non l'ho ancora guardato."
+    },
+    {
+      "group": "Prendere tempo",
+      "en": "Let me think about that for a moment.",
+      "it": "Fammi pensare un momento."
+    },
+    {
+      "group": "Prendere tempo",
+      "en": "Give me a second, I'll check.",
+      "it": "Dammi un secondo, controllo."
+    },
+    {
+      "group": "Prendere tempo",
+      "en": "Bear with me, I'm just opening the file.",
+      "it": "Abbi pazienza, sto aprendo il file."
+    },
+    {
+      "group": "Prendere tempo",
+      "en": "How can I put it?",
+      "it": "Come posso dire?"
+    },
+    {
+      "group": "Prendere tempo",
+      "en": "I'll come back to you on that.",
+      "it": "Ti rispondo su questo più tardi."
+    },
+    {
+      "group": "Ammorbidire e correggere",
+      "en": "I'd say it's a bit too expensive.",
+      "it": "Direi che è un po' troppo caro."
+    },
+    {
+      "group": "Ammorbidire e correggere",
+      "en": "To be fair, the client had a point.",
+      "it": "A onor del vero, il cliente aveva ragione."
+    },
+    {
+      "group": "Ammorbidire e correggere",
+      "en": "I mean, it's not a big problem.",
+      "it": "Voglio dire, non è un grosso problema."
+    },
+    {
+      "group": "Ammorbidire e correggere",
+      "en": "It's kind of complicated.",
+      "it": "È un po' complicato."
+    },
+    {
+      "group": "Ammorbidire e correggere",
+      "en": "Having said that, I see your point.",
+      "it": "Detto questo, capisco il tuo punto di vista."
+    },
+    {
+      "group": "Reagire",
+      "en": "That makes sense.",
+      "it": "Ha senso."
+    },
+    {
+      "group": "Reagire",
+      "en": "Fair enough.",
+      "it": "Va bene, ha senso."
+    },
+    {
+      "group": "Reagire",
+      "en": "Good point. I hadn't thought of that.",
+      "it": "Buona osservazione. Non ci avevo pensato."
+    },
+    {
+      "group": "Reagire",
+      "en": "I see. So you want to move the deadline?",
+      "it": "Capisco. Quindi vuoi spostare la scadenza?"
+    },
+    {
+      "group": "Reagire",
+      "en": "I totally agree.",
+      "it": "Sono assolutamente d'accordo."
+    },
+    {
+      "group": "Riprendere il filo",
+      "en": "Anyway, let's get back to the agenda.",
+      "it": "Comunque, torniamo all'ordine del giorno."
+    },
+    {
+      "group": "Riprendere il filo",
+      "en": "Sorry, where was I?",
+      "it": "Scusa, dov'ero rimasto?"
+    },
+    {
+      "group": "Riprendere il filo",
+      "en": "As I was saying, the timing is the main issue.",
+      "it": "Come stavo dicendo, la tempistica è il problema principale."
+    },
+    {
+      "group": "Riprendere il filo",
+      "en": "By the way, did you get my email?",
+      "it": "A proposito, hai ricevuto la mia mail?"
+    },
+    {
+      "group": "Riprendere il filo",
+      "en": "Long story short, we need more time.",
+      "it": "Per farla breve, ci serve più tempo."
+    }
+  ],
+  "dialogue": {
+    "title": "A tricky question on a client call",
+    "context": "Luca è in chiamata con Karen, una cliente. Lei fa domande difficili su costi e tempi. Luca usa riempitivi e frasi per prendere tempo senza fare silenzio.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "Luca, can you give me a firm launch date? My director is asking.",
+        "it": "Luca, puoi darmi una data di lancio sicura? Me la chiede il mio direttore."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Well, that's a good question. Let me think for a moment.",
+        "it": "Beh, è una buona domanda. Fammi pensare un momento."
+      },
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "Of course. Take your time.",
+        "it": "Certo. Prenditi tutto il tempo che ti serve."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "The thing is, we still need your content. If I'm not mistaken, it was due last Friday.",
+        "it": "Il fatto è che ci serve ancora il vostro contenuto. Se non mi sbaglio, era previsto per lo scorso venerdì."
+      },
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "To be fair, we had a lot of changes on our side.",
+        "it": "A onor del vero, da noi ci sono stati molti cambiamenti."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Fair enough. I understand. Bear with me, I'm checking the plan.",
+        "it": "Va bene. Capisco. Abbi pazienza, controllo il piano."
+      },
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "Sure. Take a look.",
+        "it": "Certo. Dai pure un'occhiata."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Right. I'd say we can launch on the 15th, as long as we get the content by Wednesday.",
+        "it": "Ecco. Direi che possiamo lanciare il 15, se riceviamo i contenuti entro mercoledì."
+      },
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "Wednesday is tight. Is there any flexibility?",
+        "it": "Mercoledì è stretto. C'è un po' di flessibilità?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "It depends. If the content is final, Thursday could work too. Having said that, any new changes would delay us.",
+        "it": "Dipende. Se i contenuti sono definitivi, potrebbe andare bene anche giovedì. Detto questo, qualsiasi nuova modifica ci farebbe slittare."
+      },
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "That makes sense. And the cost? Is it still 8,000 euros?",
+        "it": "Ha senso. E il costo? È ancora 8.000 euro?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Honestly, it's more or less the same. I mean, the extra pages are about 400 euros.",
+        "it": "Sinceramente è più o meno lo stesso. Voglio dire, le pagine extra costano circa 400 euro."
+      },
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "Okay. Then again, we have a small budget reserve.",
+        "it": "Va bene. D'altra parte abbiamo una piccola riserva di budget."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Good. Anyway, shall I send you a written summary after this call?",
+        "it": "Bene. Comunque, ti mando un riassunto scritto dopo questa chiamata?"
+      },
+      {
+        "s": "A",
+        "name": "Karen",
+        "en": "Yes please. Long story short: content on Wednesday, launch on the 15th.",
+        "it": "Sì grazie. Per farla breve: contenuti mercoledì, lancio il 15."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Exactly. I'll send it this afternoon.",
+        "it": "Esatto. Lo mando questo pomeriggio."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What does Karen need from Luca?",
+      "options": [
+        "A firm launch date",
+        "A lower price",
+        "A new logo"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What is the problem with the content?",
+      "options": [
+        "It was due last Friday and is still missing",
+        "It is too long",
+        "It is in the wrong language"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Luca say about the cost?",
+      "options": [
+        "It is more or less the same, plus about 400 euros for extra pages",
+        "It has doubled",
+        "It is free"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What will Luca do after the call?",
+      "options": [
+        "Send a written summary",
+        "Cancel the project",
+        "Call the director"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Beh, dipende dal budget.",
+      "en": "Well, it depends on the budget.",
+      "alt": [
+        "Well, that depends on the budget.",
+        "It depends on the budget."
+      ]
+    },
+    {
+      "it": "Il fatto è che non abbiamo abbastanza tempo.",
+      "en": "The thing is, we don't have enough time.",
+      "alt": [
+        "The thing is, we haven't got enough time.",
+        "The point is, we don't have enough time."
+      ]
+    },
+    {
+      "it": "Fammi pensare un momento.",
+      "en": "Let me think for a moment.",
+      "alt": [
+        "Let me think about it for a moment.",
+        "Give me a moment to think."
+      ]
+    },
+    {
+      "it": "Abbi pazienza, sto aprendo il file.",
+      "en": "Bear with me, I'm opening the file.",
+      "alt": [
+        "Bear with me, I'm just opening the file.",
+        "Please bear with me, I'm opening the file."
+      ]
+    },
+    {
+      "it": "A onor del vero, il cliente ha mandato i file in ritardo.",
+      "en": "To be fair, the client sent the files late.",
+      "alt": [
+        "To be fair, the client sent us the files late.",
+        "In fairness, the client sent the files late."
+      ]
+    },
+    {
+      "it": "Detto questo, capisco il tuo punto di vista.",
+      "en": "Having said that, I see your point.",
+      "alt": [
+        "That said, I see your point.",
+        "Having said that, I understand your point."
+      ]
+    },
+    {
+      "it": "Direi che ci serve un'altra settimana.",
+      "en": "I'd say we need another week.",
+      "alt": [
+        "I would say we need another week.",
+        "I'd say we need one more week."
+      ]
+    },
+    {
+      "it": "Per farla breve, abbiamo perso il contratto.",
+      "en": "Long story short, we lost the contract.",
+      "alt": [
+        "To cut a long story short, we lost the contract.",
+        "In short, we lost the contract."
+      ]
+    },
+    {
+      "it": "Come stavo dicendo, il problema principale è la tempistica.",
+      "en": "As I was saying, the main issue is the timing.",
+      "alt": [
+        "As I was saying, the main problem is the timing.",
+        "As I was saying, the main issue is timing."
+      ]
+    },
+    {
+      "it": "A proposito, hai ricevuto la mia mail?",
+      "en": "By the way, did you get my email?",
+      "alt": [
+        "By the way, did you receive my email?",
+        "By the way, have you received my email?"
+      ]
+    },
+    {
+      "it": "Se non mi sbaglio, la riunione inizia alle tre.",
+      "en": "If I'm not mistaken, the meeting starts at three.",
+      "alt": [
+        "If I am not mistaken, the meeting starts at three.",
+        "If I'm not wrong, the meeting starts at three."
+      ]
+    },
+    {
+      "it": "Ha senso, grazie della spiegazione.",
+      "en": "That makes sense, thanks for explaining.",
+      "alt": [
+        "That makes sense, thank you for the explanation.",
+        "That makes sense, thanks for the explanation."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi la trascrizione di una breve conversazione (8-10 righe) tra te e un cliente che ti chiede se puoi anticipare la consegna di una settimana. Usa almeno cinque espressioni della lezione per prendere tempo, ammorbidire e riprendere il filo (well, let me think, the thing is, I'd say, having said that, anyway). Fai dire a ogni persona 4-5 battute.",
+    "taskEn": "Write the transcript of a short conversation (8-10 lines) between you and a client who asks if you can deliver one week earlier. Use at least five expressions from the lesson to buy time, soften and pick up the thread (well, let me think, the thing is, I'd say, having said that, anyway). Give each person 4-5 lines.",
+    "model": "Client: Could you deliver the site a week earlier?\nLuca: Well, let me think. I need to check the schedule.\nClient: Of course.\nLuca: The thing is, we are waiting for your photos. I'd say we can do it if we get them by Monday.\nClient: Monday is difficult. Could you start with the other pages?\nLuca: That makes sense. Having said that, the product pages depend on the photos.\nClient: Fair enough. I'll ask the photographer today.\nLuca: Great. Anyway, I'll send you a written summary after the call.\nClient: Thank you, that would help."
+  },
+  "speaking": {
+    "shadowing": [
+      "Well, that's a good question. Let me think for a moment.",
+      "The thing is, we only have one developer.",
+      "Bear with me, I'm just opening the file.",
+      "To be fair, the client had a point.",
+      "Having said that, I see your point.",
+      "Long story short, we need more time.",
+      "Anyway, let's get back to the agenda.",
+      "I'd say it will take about two weeks, more or less."
+    ],
+    "prompts": [
+      {
+        "en": "What do you say when you need time to think during a call?",
+        "it": "Cosa dici quando ti serve tempo per pensare durante una chiamata?",
+        "help": "Usa: Let me think. / Give me a second. / Bear with me."
+      },
+      {
+        "en": "Is this the right price? Answer with 'it depends' and explain.",
+        "it": "È il prezzo giusto? Rispondi con 'it depends' e spiega.",
+        "help": "Usa: Well, it depends on... / Having said that..."
+      },
+      {
+        "en": "Tell me about a time a project was late and why.",
+        "it": "Parlami di una volta in cui un progetto era in ritardo e perché.",
+        "help": "Usa: The thing is... / To be fair... / Long story short..."
+      },
+      {
+        "en": "How would you politely say that a plan is a bad idea?",
+        "it": "Come diresti con gentilezza che un piano è una cattiva idea?",
+        "help": "Usa: I'd say... / To be honest... / Then again..."
+      },
+      {
+        "en": "Introduce yourself for 30 seconds, using at least three fillers.",
+        "it": "Presentati per 30 secondi, usando almeno tre riempitivi.",
+        "help": "Usa: Well, ... / I mean, ... / Anyway, ..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: parlare con naturalezza",
+      "show": [
+        "Fluent conversation",
+        "Riempitivi e prendere tempo",
+        "Well, let me think, the thing is"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi parliamo di conversazione fluida. I madrelingua usano parole di appoggio per pensare. Non sono errori. Le imparerai e le userai per parlare con naturalezza."
+        },
+        {
+          "lang": "en",
+          "text": "Well, let me think about that."
+        }
+      ]
+    },
+    {
+      "title": "Iniziare una risposta",
+      "show": [
+        "Well, ...",
+        "So, ...",
+        "The thing is, ..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per iniziare una risposta usa well o so. Per introdurre un problema usa the thing is, che vuol dire il fatto è che. Ti danno un secondo per pensare e ammorbidiscono il messaggio."
+        },
+        {
+          "lang": "en",
+          "text": "Well, it depends on the budget."
+        },
+        {
+          "lang": "en",
+          "text": "The thing is, we only have one developer."
+        }
+      ]
+    },
+    {
+      "title": "Prendere tempo",
+      "show": [
+        "Let me think.",
+        "Give me a second.",
+        "Bear with me.",
+        "Hang on."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per prendere tempo usa frasi complete. Let me think, give me a second, bear with me. Non restare in silenzio e non fare versi in italiano."
+        },
+        {
+          "lang": "en",
+          "text": "Bear with me, I'm opening the file."
+        }
+      ]
+    },
+    {
+      "title": "Ammorbidire quello che dici",
+      "show": [
+        "I'd say...",
+        "sort of, kind of",
+        "To be fair, ..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per essere più gentile ammorbidisci. I'd say vuol dire direi. Sort of e kind of vogliono dire un po'. To be fair vuol dire a onor del vero."
+        },
+        {
+          "lang": "en",
+          "text": "I'd say it's a bit too expensive."
+        },
+        {
+          "lang": "en",
+          "text": "To be fair, the client had a point."
+        }
+      ]
+    },
+    {
+      "title": "Spiegarsi meglio",
+      "show": [
+        "I mean, ...",
+        "In other words, ...",
+        "What I mean is, ..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Se vuoi correggerti o chiarire, usa I mean, in other words o what I mean is. Sono utili quando senti che l'altro non ha capito."
+        },
+        {
+          "lang": "en",
+          "text": "In other words, we need more time."
+        }
+      ]
+    },
+    {
+      "title": "Reagire a quello che dice l'altro",
+      "show": [
+        "That makes sense.",
+        "Fair enough.",
+        "Good point.",
+        "I see."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Reagire è importante. That makes sense vuol dire ha senso. Fair enough vuol dire va bene. Good point vuol dire buona osservazione. Così l'altro sa che stai ascoltando."
+        },
+        {
+          "lang": "en",
+          "text": "Good point, I hadn't thought of that."
+        }
+      ]
+    },
+    {
+      "title": "Riprendere il filo",
+      "show": [
+        "Anyway, ...",
+        "As I was saying, ...",
+        "Where was I?",
+        "By the way, ..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Se ti perdi, di' where was I. Per tornare al tema usa anyway o as I was saying. Per aggiungere qualcosa fuori tema usa by the way."
+        },
+        {
+          "lang": "en",
+          "text": "Sorry, where was I? Oh yes, the budget."
+        }
+      ]
+    },
+    {
+      "title": "Non esagerare",
+      "show": [
+        "Un riempitivo per frase",
+        "Nella scrittura: quasi mai"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Attenzione: troppi riempitivi stancano. Usane uno per frase al massimo. Nelle mail e nei report evitali. Nella conversazione sono normali."
+        },
+        {
+          "lang": "en",
+          "text": "Honestly, I think we should wait."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Well, the thing is",
+        "Let me think, bear with me",
+        "I'd say, to be fair",
+        "Anyway, as I was saying"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Per iniziare usa well e the thing is. Per prendere tempo usa let me think e bear with me. Per ammorbidire usa I'd say e to be fair. Per riprendere usa anyway e as I was saying."
+        },
+        {
+          "lang": "en",
+          "text": "Long story short, practise three fillers every week."
+        }
+      ]
+    }
+  ]
+}

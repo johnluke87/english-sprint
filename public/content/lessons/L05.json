@@ -1,0 +1,325 @@
+{
+  "id": 5,
+  "week": 1,
+  "title": "Numeri, date, prezzi e orari",
+  "titleEn": "Numbers, dates, prices and times",
+  "intro": "Oggi impari a dire e a capire numeri, date, prezzi, percentuali e orari in inglese, che è dove gli italiani sbagliano di più. Studi come si leggono le cifre, how much e how many e i comparativi di base. Con queste regole puoi parlare di costi, tariffe e scadenze senza paura.",
+  "goals": [
+    "Leggere e dire a voce numeri grandi, decimali e percentuali",
+    "Dire date e orari in modo corretto in inglese britannico e americano",
+    "Parlare di prezzi, tariffe e sconti",
+    "Usare how much e how many nel modo giusto",
+    "Fare confronti con i comparativi (cheaper, more expensive, as good as)"
+  ],
+  "words": [
+    { "en": "to cost", "pron": "kòst", "it": "costare", "type": "verb", "ex": "How much does the maintenance cost per month?", "exIt": "Quanto costa la manutenzione al mese?" },
+    { "en": "to charge", "pron": "ciàrdg", "it": "far pagare, addebitare", "type": "verb", "ex": "We charge fifty euros an hour.", "exIt": "Facciamo pagare cinquanta euro l'ora." },
+    { "en": "to pay", "pron": "pèi", "it": "pagare", "type": "verb", "ex": "You can pay by bank transfer.", "exIt": "Puoi pagare con bonifico." },
+    { "en": "to calculate", "pron": "kàlkiuleit", "it": "calcolare", "type": "verb", "ex": "Let me calculate the total for you.", "exIt": "Fammi calcolare il totale." },
+    { "en": "to round", "pron": "ràund", "it": "arrotondare", "type": "verb", "ex": "I rounded the price up to 500 euros.", "exIt": "Ho arrotondato il prezzo a 500 euro." },
+    { "en": "to increase", "pron": "inkrìis", "it": "aumentare", "type": "verb", "ex": "Our traffic increased by twenty percent.", "exIt": "Il nostro traffico è aumentato del venti per cento." },
+    { "en": "to decrease", "pron": "dikrìis", "it": "diminuire", "type": "verb", "ex": "The loading time decreased from four seconds to two.", "exIt": "Il tempo di caricamento è sceso da quattro secondi a due." },
+    { "en": "to double", "pron": "dàbol", "it": "raddoppiare", "type": "verb", "ex": "The number of visitors doubled in March.", "exIt": "Il numero di visitatori è raddoppiato a marzo." },
+    { "en": "to count", "pron": "kàunt", "it": "contare", "type": "verb", "ex": "Let's count how many pages we need.", "exIt": "Contiamo quante pagine ci servono." },
+    { "en": "to divide", "pron": "divàid", "it": "dividere", "type": "verb", "ex": "We'll divide the cost between the two departments.", "exIt": "Divideremo il costo tra i due reparti." },
+    { "en": "to add up", "pron": "àd àp", "it": "sommare, tornare (di conti)", "type": "verb", "ex": "The numbers don't add up. Can you check them?", "exIt": "I conti non tornano. Puoi controllarli?" },
+    { "en": "to multiply", "pron": "màltiplai", "it": "moltiplicare", "type": "verb", "ex": "Multiply the hourly rate by the number of hours.", "exIt": "Moltiplica la tariffa oraria per il numero di ore." },
+    { "en": "price", "pron": "pràis", "it": "prezzo", "type": "noun", "ex": "The price includes hosting for one year.", "exIt": "Il prezzo include un anno di hosting." },
+    { "en": "rate", "pron": "rèit", "it": "tariffa, tasso", "type": "noun", "ex": "My hourly rate is sixty euros.", "exIt": "La mia tariffa oraria è sessanta euro." },
+    { "en": "fee", "pron": "fìi", "it": "compenso, costo di un servizio", "type": "noun", "ex": "There is a monthly fee of twenty euros.", "exIt": "C'è un canone mensile di venti euro." },
+    { "en": "discount", "pron": "dìscaunt", "it": "sconto", "type": "noun", "ex": "We offer a ten percent discount for new clients.", "exIt": "Offriamo uno sconto del dieci per cento ai nuovi clienti." },
+    { "en": "tax", "pron": "tàks", "it": "imposta, tassa", "type": "noun", "ex": "The price does not include tax.", "exIt": "Il prezzo non include le tasse." },
+    { "en": "VAT", "pron": "vìi èi tìi", "it": "IVA", "type": "noun", "ex": "All prices are shown without VAT.", "exIt": "Tutti i prezzi sono indicati senza IVA." },
+    { "en": "total", "pron": "tòutal", "it": "totale", "type": "noun", "ex": "The total comes to 1,250 euros.", "exIt": "Il totale è di 1.250 euro." },
+    { "en": "amount", "pron": "amàunt", "it": "importo, quantità", "type": "noun", "ex": "Please check the amount on the invoice.", "exIt": "Per favore controlla l'importo sulla fattura." },
+    { "en": "percentage", "pron": "persèntidg", "it": "percentuale", "type": "noun", "ex": "What percentage of visitors use a mobile phone?", "exIt": "Quale percentuale di visitatori usa il cellulare?" },
+    { "en": "figure", "pron": "fìgher", "it": "cifra, dato numerico", "type": "noun", "ex": "These figures are from last quarter.", "exIt": "Queste cifre sono dell'ultimo trimestre." },
+    { "en": "currency", "pron": "càrrensi", "it": "valuta", "type": "noun", "ex": "Which currency do you prefer, euros or pounds?", "exIt": "Quale valuta preferisci, euro o sterline?" },
+    { "en": "pound", "pron": "pàund", "it": "sterlina; libbra", "type": "noun", "ex": "The licence costs about forty pounds a year.", "exIt": "La licenza costa circa quaranta sterline all'anno." },
+    { "en": "cent", "pron": "sènt", "it": "centesimo", "type": "noun", "ex": "The price is two euros and fifty cents.", "exIt": "Il prezzo è due euro e cinquanta centesimi." },
+    { "en": "million", "pron": "mìlion", "it": "milione", "type": "noun", "ex": "The site gets about two million visits a year.", "exIt": "Il sito riceve circa due milioni di visite all'anno." },
+    { "en": "billion", "pron": "bìlion", "it": "miliardo", "type": "noun", "ex": "The market is worth around three billion dollars.", "exIt": "Il mercato vale circa tre miliardi di dollari." },
+    { "en": "half", "pron": "hàf", "it": "metà", "type": "noun", "ex": "We need to pay half now and half on delivery.", "exIt": "Dobbiamo pagare metà adesso e metà alla consegna." },
+    { "en": "quarter", "pron": "kuòrter", "it": "un quarto; trimestre", "type": "noun", "ex": "Sales grew in the last quarter of the year.", "exIt": "Le vendite sono cresciute nell'ultimo trimestre dell'anno." },
+    { "en": "average", "pron": "àveridg", "it": "media", "type": "noun", "ex": "The average price is around two hundred euros.", "exIt": "Il prezzo medio è di circa duecento euro." },
+    { "en": "majority", "pron": "magiòriti", "it": "maggioranza", "type": "noun", "ex": "The majority of our clients are small businesses.", "exIt": "La maggior parte dei nostri clienti sono piccole imprese." },
+    { "en": "decimal", "pron": "dèsimal", "it": "decimale", "type": "noun", "ex": "In English we use a decimal point, not a comma.", "exIt": "In inglese si usa il punto decimale, non la virgola." },
+    { "en": "sum", "pron": "sàm", "it": "somma (di denaro)", "type": "noun", "ex": "That's a large sum for a small business.", "exIt": "È una somma alta per una piccola impresa." },
+    { "en": "date", "pron": "dèit", "it": "data", "type": "noun", "ex": "What is the date of the launch?", "exIt": "Qual è la data del lancio?" },
+    { "en": "hundred", "pron": "hàndred", "it": "cento", "type": "noun", "ex": "We have about three hundred products in the shop.", "exIt": "Abbiamo circa trecento prodotti nel negozio." },
+    { "en": "thousand", "pron": "tàuzand", "it": "mille", "type": "noun", "ex": "The project costs about ten thousand euros.", "exIt": "Il progetto costa circa diecimila euro." },
+    { "en": "cheap", "pron": "cìip", "it": "economico, a buon mercato", "type": "adj", "ex": "The cheap option is not always the best.", "exIt": "L'opzione economica non è sempre la migliore." },
+    { "en": "expensive", "pron": "ikspènsiv", "it": "costoso, caro", "type": "adj", "ex": "That hosting plan is too expensive for us.", "exIt": "Quel piano di hosting è troppo caro per noi." },
+    { "en": "affordable", "pron": "afòrdabol", "it": "accessibile (di prezzo)", "type": "adj", "ex": "We offer affordable packages for small businesses.", "exIt": "Offriamo pacchetti accessibili per le piccole imprese." },
+    { "en": "exact", "pron": "igzàkt", "it": "esatto, preciso", "type": "adj", "ex": "What is the exact price with VAT?", "exIt": "Qual è il prezzo esatto con l'IVA?" },
+    { "en": "equal", "pron": "ìikual", "it": "uguale", "type": "adj", "ex": "The two options have equal costs.", "exIt": "Le due opzioni hanno costi uguali." },
+    { "en": "annual", "pron": "àniual", "it": "annuale", "type": "adj", "ex": "The annual fee is 120 euros.", "exIt": "Il canone annuale è di 120 euro." },
+    { "en": "monthly", "pron": "màntli", "it": "mensile", "type": "adj", "ex": "We offer monthly or annual payment plans.", "exIt": "Offriamo piani di pagamento mensili o annuali." },
+    { "en": "weekly", "pron": "uìikli", "it": "settimanale", "type": "adj", "ex": "I send a weekly report every Friday.", "exIt": "Mando un report settimanale ogni venerdì." },
+    { "en": "extra", "pron": "èkstra", "it": "extra, aggiuntivo", "type": "adj", "ex": "There is no extra charge for support.", "exIt": "Non c'è nessun costo aggiuntivo per l'assistenza." },
+    { "en": "roughly", "pron": "ràfli", "it": "all'incirca, più o meno", "type": "adv", "ex": "It will cost roughly two thousand euros.", "exIt": "Costerà all'incirca duemila euro." },
+    { "en": "exactly", "pron": "igzàktli", "it": "esattamente", "type": "adv", "ex": "It's exactly three o'clock.", "exIt": "Sono esattamente le tre." },
+    { "en": "per", "pron": "per", "it": "per (ogni), a", "type": "prep", "ex": "The licence costs ten euros per month.", "exIt": "La licenza costa dieci euro al mese." },
+    { "en": "on average", "pron": "on àveridg", "it": "in media", "type": "phrase", "ex": "On average, a project takes six weeks.", "exIt": "In media un progetto richiede sei settimane." },
+    { "en": "at least", "pron": "at lìist", "it": "almeno, come minimo", "type": "phrase", "ex": "We need at least two weeks for testing.", "exIt": "Ci servono almeno due settimane per i test." }
+  ],
+  "falseFriends": [
+    { "en": "billion", "it": "miliardo", "trap": "Non è 'bilione'. Un milione di milioni (bilione italiano) si dice 'trillion'." },
+    { "en": "decimal point", "it": "punto decimale", "trap": "In inglese si scrive 3.5, con il punto. La virgola si usa per le migliaia: 1,250." },
+    { "en": "pound", "it": "sterlina", "trap": "Non è solo 'libbra': nel lavoro, 'pound' di solito è la sterlina inglese." }
+  ],
+  "grammar": {
+    "title": "Numeri, date e orari. How much, how many e i comparativi",
+    "explainIt": [
+      "Numeri grandi: in inglese si usa la virgola per le migliaia e il punto per i decimali, al contrario dell'italiano. 1,250 si legge one thousand two hundred and fifty. 3.5 si legge three point five. Dopo hundred si mette di solito and (nell'inglese britannico): one hundred and twenty. Con le cifre hundred, thousand, million non c'è la s: three hundred, five thousand, two million. La s c'è solo se non c'è un numero: hundreds of people.",
+      "Prezzi e percentuali: 5.50 euro si legge five euros fifty, oppure five fifty. £2.99 si legge two ninety-nine. 15% si legge fifteen percent. Si dice per month, per hour, per year, oppure a month, an hour, a year: fifty euros an hour. Per sapere il prezzo chiedi: How much is it? How much does it cost? Per i totali: The total is 1,200 euros.",
+      "Date: i giorni usano numeri ordinali (first, second, third, fourth). In inglese britannico: 14 March si dice the fourteenth of March. Si scrive 14 March o 14/03/2027. In inglese americano: March fourteenth, e si scrive 03/14/2027. Attenzione: 03/04/2027 può essere 3 aprile (UK) o 4 marzo (US). Per evitare errori, scrivi il mese in lettere. Gli anni si leggono a coppie: 1999 nineteen ninety-nine, 2027 twenty twenty-seven.",
+      "Orari: 3:00 three o'clock. 3:15 quarter past three oppure three fifteen. 3:30 half past three oppure three thirty. 3:45 quarter to four oppure three forty-five. Nel lavoro si usa am e pm: 9 am, 2:30 pm. Per mezzogiorno noon, per mezzanotte midnight. Per i giorni si usa on, per le ore at: on Friday at 5 pm.",
+      "How much si usa con i nomi non numerabili e per i prezzi: How much time do we have? How much does it cost? How many si usa con i nomi numerabili, al plurale: How many pages do you need? How many people are in the team? Per confrontare: con gli aggettivi corti si aggiunge -er e si usa than: cheaper than, faster than. Con gli aggettivi lunghi si usa more: more expensive than. Il contrario è less o not as... as. Irregolari: good, better; bad, worse. Il pari: as cheap as, the same as."
+    ],
+    "explainEn": [
+      "Big numbers: in English we use a comma for thousands and a point for decimals, the opposite of Italian. 1,250 is read one thousand two hundred and fifty. 3.5 is read three point five. After hundred we usually say and in British English: one hundred and twenty. With a number, hundred, thousand and million have no s: three hundred, five thousand, two million. We only use the s without a number: hundreds of people.",
+      "Prices and percentages: 5.50 euros is read five euros fifty, or five fifty. £2.99 is read two ninety-nine. 15% is read fifteen percent. We say per month, per hour, per year, or a month, an hour, a year: fifty euros an hour. To ask for the price we say: How much is it? How much does it cost? For totals: The total is 1,200 euros.",
+      "Dates: days use ordinal numbers (first, second, third, fourth). In British English: 14 March is said the fourteenth of March. It is written 14 March or 14/03/2027. In American English: March fourteenth, written 03/14/2027. Be careful: 03/04/2027 can be 3 April (UK) or 4 March (US). To avoid mistakes, write the month in letters. Years are read in pairs: 1999 nineteen ninety-nine, 2027 twenty twenty-seven.",
+      "Times: 3:00 three o'clock. 3:15 quarter past three or three fifteen. 3:30 half past three or three thirty. 3:45 quarter to four or three forty-five. In business we use am and pm: 9 am, 2:30 pm. For midday we say noon, for midnight we say midnight. We use on for days and at for times: on Friday at 5 pm.",
+      "We use how much with uncountable nouns and for prices: How much time do we have? How much does it cost? We use how many with countable plural nouns: How many pages do you need? How many people are in the team? To compare: with short adjectives we add -er and use than: cheaper than, faster than. With long adjectives we use more: more expensive than. The opposite is less or not as... as. Irregular: good, better; bad, worse. For equal: as cheap as, the same as."
+    ],
+    "rules": [
+      {
+        "it": "Le cifre: virgola per le migliaia, punto per i decimali. Hundred, thousand e million non prendono la s con un numero.",
+        "en": "Figures: comma for thousands, point for decimals. Hundred, thousand and million take no s after a number.",
+        "form": "1,250 = one thousand two hundred and fifty / 3.5 = three point five",
+        "examples": [
+          { "en": "The project costs 12,500 euros.", "it": "Il progetto costa 12.500 euro." },
+          { "en": "The page loads in 2.5 seconds.", "it": "La pagina si carica in 2,5 secondi." },
+          { "en": "Five thousand people visit the site every day.", "it": "Cinquemila persone visitano il sito ogni giorno." }
+        ]
+      },
+      {
+        "it": "Le date si dicono con i numeri ordinali; UK giorno-mese, US mese-giorno.",
+        "en": "Dates use ordinal numbers; UK is day-month, US is month-day.",
+        "form": "the 14th of March (UK) / March 14th (US)",
+        "examples": [
+          { "en": "The launch is on the 3rd of June.", "it": "Il lancio è il 3 giugno." },
+          { "en": "The deadline is March 14th.", "it": "La scadenza è il 14 marzo." },
+          { "en": "We were founded in 2015.", "it": "Siamo stati fondati nel 2015." }
+        ]
+      },
+      {
+        "it": "Gli orari: o'clock, past, to, am/pm. Per i giorni on, per le ore at.",
+        "en": "Times: o'clock, past, to, am/pm. Use on for days and at for times.",
+        "form": "quarter past / half past / quarter to",
+        "examples": [
+          { "en": "The meeting starts at half past two.", "it": "La riunione inizia alle due e mezza." },
+          { "en": "I'll call you at quarter to nine.", "it": "Ti chiamo alle nove meno un quarto." },
+          { "en": "The shop closes at 6 pm.", "it": "Il negozio chiude alle 18." }
+        ]
+      },
+      {
+        "it": "How much con i non numerabili e i prezzi; how many con i numerabili al plurale.",
+        "en": "How much with uncountable nouns and prices; how many with countable plural nouns.",
+        "form": "How much + singolare / How many + plurale",
+        "examples": [
+          { "en": "How much does a website cost?", "it": "Quanto costa un sito web?" },
+          { "en": "How many pages do you need?", "it": "Di quante pagine hai bisogno?" },
+          { "en": "How much time do we have left?", "it": "Quanto tempo ci resta?" }
+        ]
+      },
+      {
+        "it": "I comparativi: -er than per aggettivi corti, more... than per quelli lunghi; as... as per l'uguaglianza.",
+        "en": "Comparatives: -er than for short adjectives, more... than for long ones; as... as for equality.",
+        "form": "cheaper than / more expensive than / as good as",
+        "examples": [
+          { "en": "This plan is cheaper than the other one.", "it": "Questo piano costa meno dell'altro." },
+          { "en": "The new design is more modern than the old one.", "it": "Il nuovo design è più moderno di quello vecchio." },
+          { "en": "The second quote is as expensive as the first.", "it": "Il secondo preventivo è caro come il primo." }
+        ]
+      }
+    ],
+    "tip": "Ricorda che l'inglese gira i segni: la virgola è per le migliaia (1,250) e il punto per i decimali (3.5). Nel dubbio su una data, scrivi il mese in lettere: 14 March. Per how much e how many chiediti: lo posso contare? Se sì, how many.",
+    "mistakes": [
+      { "wrong": "The project costs 12.500 euros.", "right": "The project costs 12,500 euros.", "why": "in inglese le migliaia hanno la virgola, il punto è per i decimali" },
+      { "wrong": "It costs three thousands euros.", "right": "It costs three thousand euros.", "why": "thousand non prende la s dopo un numero" },
+      { "wrong": "How much pages do you need?", "right": "How many pages do you need?", "why": "pages è numerabile: how many" },
+      { "wrong": "This is more cheap than that.", "right": "This is cheaper than that.", "why": "con aggettivi corti si usa -er, non more" },
+      { "wrong": "The new plan is cheaper that the old one.", "right": "The new plan is cheaper than the old one.", "why": "nei confronti si usa than, non that" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "How ___ does the website cost?", "a": ["much"], "hint": "prezzo", "explain": "Per i prezzi si usa how much." },
+    { "q": "How ___ pages do you need?", "a": ["many"], "hint": "pages è numerabile", "explain": "Nomi numerabili al plurale: how many." },
+    { "q": "The package costs 2,500 euros. (come si legge) two ___ five hundred euros", "a": ["thousand"], "hint": "senza s", "explain": "Dopo un numero thousand non prende la s." },
+    { "q": "This plan is ___ (cheap) than the other one.", "a": ["cheaper"], "hint": "aggettivo corto", "explain": "Cheap è corto: cheaper." },
+    { "q": "The premium plan is ___ (expensive) than the basic one.", "a": ["more expensive"], "hint": "aggettivo lungo", "explain": "Expensive è lungo: more expensive than." },
+    { "q": "The second design is ___ (good) than the first.", "a": ["better"], "hint": "irregolare", "explain": "Good, better, best." },
+    { "q": "The meeting starts at 2:30. It starts at ___ past two.", "a": ["half"], "hint": "e mezza", "explain": "2:30 si dice half past two." },
+    { "q": "The meeting is ___ Friday.", "a": ["on"], "hint": "giorno", "explain": "Con i giorni si usa on." },
+    { "q": "Our rate is sixty euros ___ hour.", "a": ["an", "per"], "hint": "tariffa oraria", "explain": "Si dice sixty euros an hour oppure sixty euros per hour." },
+    { "q": "The page loads in 3.5 seconds. We read it three ___ five.", "a": ["point"], "hint": "decimale", "explain": "Il decimale si legge point." },
+    { "q": "How ___ time do we have left? Only ten minutes.", "a": ["much"], "hint": "time non si conta", "explain": "Time è non numerabile: how much." },
+    { "q": "The second quote is as expensive ___ the first.", "a": ["as"], "hint": "uguaglianza", "explain": "As + aggettivo + as." }
+  ],
+  "phrases": [
+    { "group": "Chiedere e dire il prezzo", "en": "How much does it cost?", "it": "Quanto costa?" },
+    { "group": "Chiedere e dire il prezzo", "en": "The total comes to 1,250 euros plus VAT.", "it": "Il totale è di 1.250 euro più IVA." },
+    { "group": "Chiedere e dire il prezzo", "en": "That's twelve euros fifty.", "it": "Sono dodici euro e cinquanta." },
+    { "group": "Chiedere e dire il prezzo", "en": "Is VAT included?", "it": "L'IVA è inclusa?" },
+    { "group": "Chiedere e dire il prezzo", "en": "We offer a ten percent discount.", "it": "Offriamo uno sconto del dieci per cento." },
+    { "group": "Percentuali e numeri", "en": "Traffic increased by twenty percent.", "it": "Il traffico è aumentato del venti per cento." },
+    { "group": "Percentuali e numeri", "en": "Visitors have doubled since January.", "it": "I visitatori sono raddoppiati da gennaio." },
+    { "group": "Percentuali e numeri", "en": "Roughly half of our users are on mobile.", "it": "Circa la metà dei nostri utenti naviga da cellulare." },
+    { "group": "Percentuali e numeri", "en": "On average, we receive fifty requests a month.", "it": "In media riceviamo cinquanta richieste al mese." },
+    { "group": "Percentuali e numeri", "en": "The majority of users are under thirty-five.", "it": "La maggior parte degli utenti ha meno di trentacinque anni." },
+    { "group": "Date", "en": "The deadline is the fifteenth of May.", "it": "La scadenza è il quindici maggio." },
+    { "group": "Date", "en": "The launch is planned for the end of June.", "it": "Il lancio è previsto per fine giugno." },
+    { "group": "Date", "en": "We start at the beginning of next month.", "it": "Iniziamo all'inizio del mese prossimo." },
+    { "group": "Date", "en": "The invoice is due within thirty days.", "it": "La fattura va pagata entro trenta giorni." },
+    { "group": "Date", "en": "What's today's date?", "it": "Che data è oggi?" },
+    { "group": "Orari", "en": "The meeting starts at ten o'clock sharp.", "it": "La riunione comincia alle dieci in punto." },
+    { "group": "Orari", "en": "Let's meet at quarter past two.", "it": "Vediamoci alle due e un quarto." },
+    { "group": "Orari", "en": "We're open from nine to five.", "it": "Siamo aperti dalle nove alle cinque." },
+    { "group": "Orari", "en": "What time is it in London now?", "it": "Che ore sono ora a Londra?" },
+    { "group": "Orari", "en": "It's an hour behind Italy.", "it": "È un'ora indietro rispetto all'Italia." },
+    { "group": "Confrontare", "en": "This option is cheaper than the other one.", "it": "Questa opzione costa meno dell'altra." },
+    { "group": "Confrontare", "en": "It's a bit more expensive, but it's faster.", "it": "Costa un po' di più, ma è più veloce." },
+    { "group": "Confrontare", "en": "It costs the same as last year.", "it": "Costa come l'anno scorso." },
+    { "group": "Confrontare", "en": "That's twice as much as we planned.", "it": "È il doppio di quanto avevamo previsto." },
+    { "group": "Confrontare", "en": "At least ten days, at most two weeks.", "it": "Almeno dieci giorni, al massimo due settimane." }
+  ],
+  "dialogue": {
+    "title": "Talking about prices and dates",
+    "context": "Luca parla con Helen, che gestisce un negozio online, del costo e dei tempi per rifare il suo sito. Parlano di prezzi, sconti, date e percentuali.",
+    "lines": [
+      { "s": "A", "name": "Helen", "en": "Hi Luca. First of all, how much will the new website cost?", "it": "Ciao Luca. Prima di tutto, quanto costerà il nuovo sito?" },
+      { "s": "B", "name": "Luca", "en": "It depends on the number of pages. For about thirty pages, the total is 6,500 euros plus VAT.", "it": "Dipende dal numero di pagine. Per circa trenta pagine il totale è di 6.500 euro più IVA." },
+      { "s": "A", "name": "Helen", "en": "That's a bit more expensive than I expected. How many hours is that?", "it": "È un po' più caro di quanto mi aspettassi. A quante ore corrisponde?" },
+      { "s": "B", "name": "Luca", "en": "Roughly a hundred and thirty hours, at fifty euros an hour.", "it": "Circa centotrenta ore, a cinquanta euro l'ora." },
+      { "s": "A", "name": "Helen", "en": "Is there any discount if we pay half now and half on delivery?", "it": "C'è uno sconto se paghiamo metà adesso e metà alla consegna?" },
+      { "s": "B", "name": "Luca", "en": "I can give you a five percent discount, so the total comes to 6,175 euros.", "it": "Posso farti uno sconto del cinque per cento, quindi il totale è di 6.175 euro." },
+      { "s": "A", "name": "Helen", "en": "That's better. And when can you finish? Our big sale starts on the 14th of November.", "it": "Meglio così. E quando puoi finire? I nostri grandi saldi iniziano il 14 novembre." },
+      { "s": "B", "name": "Luca", "en": "On average, a project like this takes eight weeks. If we start on the first of September, we can finish at the end of October.", "it": "In media un progetto così richiede otto settimane. Se iniziamo il primo settembre, possiamo finire a fine ottobre." },
+      { "s": "A", "name": "Helen", "en": "That works. Roughly sixty percent of our customers shop on their phone, so mobile is important.", "it": "Va bene. Circa il sessanta per cento dei nostri clienti compra dal telefono, quindi il mobile è importante." },
+      { "s": "B", "name": "Luca", "en": "Understood. I'll also test the page speed. At the moment it loads in 5.2 seconds. We can bring it under two.", "it": "Capito. Testerò anche la velocità delle pagine. Al momento si carica in 5,2 secondi. Possiamo portarla sotto i due." },
+      { "s": "A", "name": "Helen", "en": "Excellent. Can we have a call tomorrow at quarter past ten?", "it": "Ottimo. Possiamo fare una chiamata domani alle dieci e un quarto?" },
+      { "s": "B", "name": "Luca", "en": "Yes, ten fifteen is fine. I'll send you the quote with all the figures by this afternoon.", "it": "Sì, le dieci e un quarto vanno bene. Ti mando il preventivo con tutte le cifre entro questo pomeriggio." },
+      { "s": "A", "name": "Helen", "en": "Perfect. And is the VAT included in the amount you just said?", "it": "Perfetto. E l'IVA è inclusa nell'importo che hai detto?" },
+      { "s": "B", "name": "Luca", "en": "No, that's excluding VAT. With VAT at twenty-two percent, the final total is 7,533.50 euros.", "it": "No, è IVA esclusa. Con l'IVA al ventidue per cento il totale finale è di 7.533,50 euro." }
+    ]
+  },
+  "listening": [
+    { "q": "How much is the website, before VAT and discount?", "options": ["6,500 euros", "5,000 euros", "7,533 euros"], "answer": 0 },
+    { "q": "What discount does Luca offer?", "options": ["Ten percent", "Five percent", "Twenty percent"], "answer": 1 },
+    { "q": "When does Helen's big sale start?", "options": ["On the first of September", "At the end of October", "On the 14th of November"], "answer": 2 },
+    { "q": "What time is the call tomorrow?", "options": ["Quarter past ten", "Half past ten", "Ten o'clock"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Quanto costa un sito web con trenta pagine?", "en": "How much does a thirty-page website cost?", "alt": ["How much does a website with thirty pages cost?", "How much is a website with thirty pages?"] },
+    { "it": "Il totale è di 1.250 euro più IVA.", "en": "The total is 1,250 euros plus VAT.", "alt": ["The total comes to 1,250 euros plus VAT.", "The total is 1,250 euros excluding VAT."] },
+    { "it": "Offriamo uno sconto del dieci per cento.", "en": "We offer a ten percent discount.", "alt": ["We offer a 10% discount.", "We're offering a ten percent discount."] },
+    { "it": "Il traffico è aumentato del venti per cento.", "en": "Traffic increased by twenty percent.", "alt": ["Traffic has increased by twenty percent.", "Traffic went up by twenty percent."] },
+    { "it": "La scadenza è il 14 marzo.", "en": "The deadline is the fourteenth of March.", "alt": ["The deadline is March 14th.", "The deadline is 14 March.", "The deadline is the 14th of March."] },
+    { "it": "La riunione inizia alle due e mezza.", "en": "The meeting starts at half past two.", "alt": ["The meeting starts at two thirty.", "The meeting begins at 2:30."] },
+    { "it": "Questo piano costa meno dell'altro.", "en": "This plan is cheaper than the other one.", "alt": ["This plan is cheaper than the other.", "This plan costs less than the other one."] },
+    { "it": "Quante pagine vi servono?", "en": "How many pages do you need?", "alt": ["How many pages do you want?"] },
+    { "it": "In media riceviamo cinquanta richieste al mese.", "en": "On average we receive fifty requests a month.", "alt": ["On average, we get fifty requests per month.", "We receive fifty requests a month on average."] },
+    { "it": "Costerà all'incirca duemila euro.", "en": "It will cost roughly two thousand euros.", "alt": ["It will cost around two thousand euros.", "It'll cost about two thousand euros."] },
+    { "it": "La nostra tariffa oraria è di sessanta euro.", "en": "Our hourly rate is sixty euros.", "alt": ["We charge sixty euros an hour.", "Our rate is sixty euros an hour."] },
+    { "it": "Ci servono almeno due settimane per i test.", "en": "We need at least two weeks for testing.", "alt": ["We need at least two weeks for the tests.", "We need a minimum of two weeks for testing."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a un cliente, Ms Taylor, con le condizioni economiche e i tempi per il rifacimento del suo sito. Il totale è di 4.800 euro più IVA al ventidue per cento. Dai uno sconto del cinque per cento se paga metà all'inizio. Scrivi che servono circa sei settimane, con inizio il 3 febbraio e consegna il 17 marzo. Fissa una chiamata per giovedì alle 10:30. Usa almeno due confronti (cheaper, more expensive) e how much o how many.",
+    "taskEn": "Write an email to a client, Ms Taylor, with the cost and timing for redesigning her website. The total is 4,800 euros plus VAT at twenty-two percent. Give a five percent discount if she pays half at the start. Write that it takes about six weeks, starting on 3 February and finishing on 17 March. Arrange a call for Thursday at 10:30. Use at least two comparisons (cheaper, more expensive) and how much or how many.",
+    "model": "Subject: Cost and timing for your new website\n\nDear Ms Taylor,\n\nThank you for your interest. Here are the details of the project.\n\nThe total cost is 4,800 euros plus VAT at twenty-two percent. If you pay half at the start, I can offer a five percent discount, so the total becomes 4,560 euros plus VAT.\n\nThe work takes roughly six weeks. We start on the third of February and I will deliver the website on the seventeenth of March.\n\nThe basic package is cheaper than the premium one, but the premium package is more complete and includes training.\n\nHow many pages do you need? Could you let me know before our call? Are you available on Thursday at 10:30?\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "The total comes to twelve hundred and fifty euros plus VAT.",
+      "We offer a ten percent discount for new clients.",
+      "The deadline is the fourteenth of March.",
+      "The meeting starts at half past two.",
+      "How many pages do you need?",
+      "This option is cheaper than the other one.",
+      "On average, a project takes six weeks.",
+      "It will cost roughly two thousand euros."
+    ],
+    "prompts": [
+      { "en": "How much do you charge for a website?", "it": "Quanto fai pagare per un sito?", "help": "It depends, but roughly... euros. I charge ... an hour." },
+      { "en": "What is today's date, and what time is it?", "it": "Che data è oggi, e che ore sono?", "help": "It's the ... of ... It's quarter past..." },
+      { "en": "How many emails do you receive every day?", "it": "Quante mail ricevi ogni giorno?", "help": "On average I receive about... / roughly..." },
+      { "en": "Compare two phones or two cars you know.", "it": "Confronta due telefoni o due auto che conosci.", "help": "A is cheaper than B, but B is more... / as good as..." },
+      { "en": "When is your next deadline?", "it": "Quando è la tua prossima scadenza?", "help": "The deadline is on... / in three weeks. / by the end of..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Numeri, prezzi e date",
+      "show": ["Lesson 5", "Numbers, dates, prices and times"],
+      "say": [
+        { "lang": "it", "text": "In questa lezione impari a dire numeri, date, prezzi e orari. Sono le cose che gli italiani sbagliano più spesso in inglese." },
+        { "lang": "en", "text": "The total comes to twelve hundred euros plus VAT." }
+      ]
+    },
+    {
+      "title": "Numeri grandi e decimali",
+      "show": ["1,250 = one thousand two hundred and fifty", "3.5 = three point five"],
+      "say": [
+        { "lang": "it", "text": "In inglese la virgola è per le migliaia e il punto per i decimali. Cioè il contrario dell'italiano. Dopo un numero, hundred, thousand e million non prendono la s." },
+        { "lang": "en", "text": "One thousand two hundred and fifty euros." },
+        { "lang": "en", "text": "The page loads in three point five seconds." }
+      ]
+    },
+    {
+      "title": "Prezzi e percentuali",
+      "show": ["fifty euros an hour", "ten percent discount", "How much does it cost?"],
+      "say": [
+        { "lang": "it", "text": "Per i prezzi si dice how much. Per le tariffe puoi dire an hour, a month o per year. Le percentuali si leggono con percent." },
+        { "lang": "en", "text": "We charge fifty euros an hour." },
+        { "lang": "en", "text": "We offer a ten percent discount." }
+      ]
+    },
+    {
+      "title": "Le date",
+      "show": ["the 14th of March (UK)", "March 14th (US)", "2027 = twenty twenty-seven"],
+      "say": [
+        { "lang": "it", "text": "In inglese britannico si dice prima il giorno, in americano prima il mese. Per evitare equivoci scrivi il mese in lettere. Gli anni si leggono a coppie." },
+        { "lang": "en", "text": "The deadline is the fourteenth of March." },
+        { "lang": "en", "text": "The year is twenty twenty-seven." }
+      ]
+    },
+    {
+      "title": "Gli orari",
+      "show": ["quarter past three", "half past three", "quarter to four", "9 am, 2 pm"],
+      "say": [
+        { "lang": "it", "text": "Quarter past è un quarto d'ora dopo. Half past è e mezza. Quarter to è meno un quarto. Nel lavoro si usano molto am e pm." },
+        { "lang": "en", "text": "The meeting starts at half past two." },
+        { "lang": "en", "text": "I'll call you at quarter to nine." }
+      ]
+    },
+    {
+      "title": "How much e how many",
+      "show": ["How much does it cost?", "How many pages do you need?"],
+      "say": [
+        { "lang": "it", "text": "How much si usa con i prezzi e con le cose che non puoi contare. How many si usa con le cose che puoi contare, al plurale." },
+        { "lang": "en", "text": "How much time do we have?" },
+        { "lang": "en", "text": "How many pages do you need?" }
+      ]
+    },
+    {
+      "title": "I comparativi di base",
+      "show": ["cheaper than", "more expensive than", "as good as", "better, worse"],
+      "say": [
+        { "lang": "it", "text": "Con gli aggettivi corti aggiungi er e usa than. Con gli aggettivi lunghi usa more. Good diventa better, bad diventa worse. Per dire uguale si usa as, aggettivo, as." },
+        { "lang": "en", "text": "This plan is cheaper than the other one." },
+        { "lang": "en", "text": "The premium plan is more expensive, but it's better." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Virgola = migliaia, punto = decimali", "How much / How many", "cheaper than / more expensive than"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Virgola per le migliaia, punto per i decimali. How much per i prezzi, how many per le cose che si contano. E per confrontare usa er than o more than." },
+        { "lang": "en", "text": "How much does it cost? Roughly two thousand euros." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+{
+  "id": 44,
+  "week": 9,
+  "title": "Ipotesi e rimpianti",
+  "titleEn": "Hypotheses and regrets",
+  "intro": "Oggi impari a parlare di quello che sarebbe potuto succedere nel passato, con il terzo condizionale e i condizionali misti. Ti serve per i post-mortem dei progetti, per spiegare un errore al cliente e per dire con garbo cosa avresti fatto in modo diverso.",
+  "goals": [
+    "Formare e usare il terzo condizionale: if I had known, I would have...",
+    "Usare i condizionali misti per collegare passato e presente",
+    "Esprimere un rimpianto con I wish e if only",
+    "Scrivere un breve post-mortem con le lezioni imparate"
+  ],
+  "words": [
+    {
+      "en": "to wonder",
+      "pron": "uànder",
+      "it": "chiedersi",
+      "type": "verb",
+      "ex": "I wonder what would have happened if we had waited.",
+      "exIt": "Mi chiedo cosa sarebbe successo se avessimo aspettato."
+    },
+    {
+      "en": "to second-guess",
+      "pron": "sèkond ghès",
+      "it": "rimettere in dubbio a posteriori",
+      "type": "verb",
+      "ex": "Stop second-guessing the decision, it is done.",
+      "exIt": "Smetti di rimettere in dubbio la decisione, ormai è fatta."
+    },
+    {
+      "en": "to rethink",
+      "pron": "ritìnk",
+      "it": "ripensare",
+      "type": "verb",
+      "ex": "We should rethink the whole plan.",
+      "exIt": "Dovremmo ripensare tutto il piano."
+    },
+    {
+      "en": "consequence",
+      "pron": "kònsikuens",
+      "it": "conseguenza",
+      "type": "noun",
+      "ex": "The delay had serious consequences for the launch.",
+      "exIt": "Il ritardo ha avuto serie conseguenze sul lancio."
+    },
+    {
+      "en": "to misjudge",
+      "pron": "misgiàdg",
+      "it": "giudicare male",
+      "type": "verb",
+      "ex": "I misjudged how long the migration would take.",
+      "exIt": "Ho giudicato male quanto sarebbe durata la migrazione."
+    },
+    {
+      "en": "a missed opportunity",
+      "pron": "a mìst opertiùniti",
+      "it": "un'occasione persa",
+      "type": "noun",
+      "ex": "Not testing on mobile was a missed opportunity.",
+      "exIt": "Non testare su mobile è stata un'occasione persa."
+    },
+    {
+      "en": "a wrong turn",
+      "pron": "a ròng tern",
+      "it": "una svolta sbagliata",
+      "type": "noun",
+      "ex": "The project took a wrong turn when we changed the scope.",
+      "exIt": "Il progetto ha preso una brutta piega quando abbiamo cambiato l'ambito."
+    },
+    {
+      "en": "to underestimate",
+      "pron": "andèrestimeit",
+      "it": "sottovalutare, stimare per difetto",
+      "type": "verb",
+      "ex": "We underestimated the time needed for testing.",
+      "exIt": "Abbiamo sottovalutato il tempo necessario per i test."
+    },
+    {
+      "en": "to overestimate",
+      "pron": "ouverèstimeit",
+      "it": "sopravvalutare, stimare per eccesso",
+      "type": "verb",
+      "ex": "I overestimated how much the client knew about SEO.",
+      "exIt": "Ho sopravvalutato quanto il cliente sapesse di SEO."
+    },
+    {
+      "en": "to learn the hard way",
+      "pron": "lèrn de hàard uèi",
+      "it": "imparare a proprie spese",
+      "type": "phrase",
+      "ex": "We learned the hard way that backups matter.",
+      "exIt": "Abbiamo imparato a nostre spese che i backup contano."
+    },
+    {
+      "en": "setback",
+      "pron": "sètbak",
+      "it": "contrattempo, battuta d'arresto",
+      "type": "noun",
+      "ex": "The server failure was a major setback.",
+      "exIt": "Il guasto al server è stato un grosso contrattempo."
+    },
+    {
+      "en": "lesson learned",
+      "pron": "lèson lèrnd",
+      "it": "lezione imparata",
+      "type": "phrase",
+      "ex": "Our main lesson learned is to test earlier.",
+      "exIt": "La nostra principale lezione imparata è testare prima."
+    },
+    {
+      "en": "to avoid",
+      "pron": "avòid",
+      "it": "evitare",
+      "type": "verb",
+      "ex": "We could have avoided the problem with a code review.",
+      "exIt": "Avremmo potuto evitare il problema con una revisione del codice."
+    },
+    {
+      "en": "slip-up",
+      "pron": "slìp ap",
+      "it": "svista, piccolo errore",
+      "type": "noun",
+      "ex": "A small slip-up in the config caused the error.",
+      "exIt": "Una piccola svista nella configurazione ha causato l'errore."
+    },
+    {
+      "en": "to foresee",
+      "pron": "forsìi",
+      "it": "prevedere (ciò che accadrà)",
+      "type": "verb",
+      "ex": "Nobody could have foreseen the traffic spike.",
+      "exIt": "Nessuno poteva prevedere il picco di traffico."
+    },
+    {
+      "en": "to own up",
+      "pron": "òun àp",
+      "it": "ammettere apertamente",
+      "type": "phrase",
+      "ex": "He owned up to deleting the file.",
+      "exIt": "Ha ammesso apertamente di aver cancellato il file."
+    },
+    {
+      "en": "to miss out",
+      "pron": "mìs àut",
+      "it": "lasciarsi sfuggire un'occasione",
+      "type": "phrase",
+      "ex": "If we had waited, we would have missed out on the contract.",
+      "exIt": "Se avessimo aspettato, ci saremmo lasciati sfuggire il contratto."
+    },
+    {
+      "en": "sadly",
+      "pron": "sàdli",
+      "it": "purtroppo, tristemente",
+      "type": "adv",
+      "ex": "Sadly, we had no time to test the new feature.",
+      "exIt": "Purtroppo non abbiamo avuto tempo di testare la nuova funzione."
+    },
+    {
+      "en": "to weigh",
+      "pron": "uèi",
+      "it": "pesare, valutare i pro e i contro",
+      "type": "verb",
+      "ex": "We weighed the cost against the benefits.",
+      "exIt": "Abbiamo valutato i costi rispetto ai vantaggi."
+    },
+    {
+      "en": "thankfully",
+      "pron": "tànkfuli",
+      "it": "per fortuna",
+      "type": "adv",
+      "ex": "Thankfully, the client had a recent backup.",
+      "exIt": "Per fortuna il cliente aveva un backup recente."
+    },
+    {
+      "en": "to hesitate",
+      "pron": "hèziteit",
+      "it": "esitare",
+      "type": "verb",
+      "ex": "I hesitated before sending the quote.",
+      "exIt": "Ho esitato prima di mandare il preventivo."
+    },
+    {
+      "en": "ironically",
+      "pron": "airònikali",
+      "it": "paradossalmente",
+      "type": "adv",
+      "ex": "Ironically, the security tool was the cause of the breach.",
+      "exIt": "Paradossalmente, lo strumento di sicurezza è stato la causa della violazione."
+    },
+    {
+      "en": "to rush",
+      "pron": "ràsc",
+      "it": "fare di fretta, affrettare",
+      "type": "verb",
+      "ex": "If we hadn't rushed, we would have found the bug.",
+      "exIt": "Se non avessimo avuto fretta, avremmo trovato il bug."
+    },
+    {
+      "en": "blunder",
+      "pron": "blànder",
+      "it": "gaffe, errore grossolano",
+      "type": "noun",
+      "ex": "Sending the draft to the client was a big blunder.",
+      "exIt": "Mandare la bozza al cliente è stata una gaffe enorme."
+    },
+    {
+      "en": "to reverse",
+      "pron": "rivèrs",
+      "it": "invertire, annullare (una decisione)",
+      "type": "verb",
+      "ex": "The client reversed their decision last night.",
+      "exIt": "Ieri sera il cliente ha fatto marcia indietro sulla sua decisione."
+    },
+    {
+      "en": "to backfire",
+      "pron": "bakfàier",
+      "it": "avere l'effetto opposto, ritorcersi contro",
+      "type": "verb",
+      "ex": "The discount backfired. People thought the product was cheap.",
+      "exIt": "Lo sconto si è ritorto contro di noi. La gente ha pensato che il prodotto fosse scadente."
+    },
+    {
+      "en": "pitfall",
+      "pron": "pìtfol",
+      "it": "insidia, trappola",
+      "type": "noun",
+      "ex": "One common pitfall is not defining the scope.",
+      "exIt": "Un'insidia comune è non definire l'ambito del lavoro."
+    },
+    {
+      "en": "to jeopardise",
+      "pron": "gièpardaiz",
+      "it": "mettere a rischio",
+      "type": "verb",
+      "ex": "A late delivery could jeopardise the whole project.",
+      "exIt": "Una consegna in ritardo potrebbe mettere a rischio tutto il progetto."
+    },
+    {
+      "en": "to stem from",
+      "pron": "stèm fròm",
+      "it": "derivare da, avere origine da",
+      "type": "phrase",
+      "ex": "Most errors stem from unclear requirements.",
+      "exIt": "La maggior parte degli errori deriva da requisiti poco chiari."
+    },
+    {
+      "en": "careless",
+      "pron": "kèrles",
+      "it": "poco attento, sbadato",
+      "type": "adj",
+      "ex": "A careless mistake cost us a day of work.",
+      "exIt": "Un errore di distrazione ci è costato un giorno di lavoro."
+    },
+    {
+      "en": "a close call",
+      "pron": "a klòus kòol",
+      "it": "un pericolo scampato per un pelo",
+      "type": "phrase",
+      "ex": "That was a close call: the server almost crashed during the demo.",
+      "exIt": "C'è mancato poco: il server stava per andare in crash durante la demo."
+    },
+    {
+      "en": "hasty",
+      "pron": "hèisti",
+      "it": "affrettato",
+      "type": "adj",
+      "ex": "It was a hasty decision and we paid for it.",
+      "exIt": "È stata una decisione affrettata e l'abbiamo pagata."
+    },
+    {
+      "en": "reckless",
+      "pron": "rèkles",
+      "it": "sconsiderato, imprudente",
+      "type": "adj",
+      "ex": "Launching without testing was reckless.",
+      "exIt": "Lanciare senza testare è stato imprudente."
+    },
+    {
+      "en": "unforeseen",
+      "pron": "anforsìin",
+      "it": "imprevisto",
+      "type": "adj",
+      "ex": "An unforeseen problem delayed the release.",
+      "exIt": "Un problema imprevisto ha ritardato il rilascio."
+    },
+    {
+      "en": "irreversible",
+      "pron": "irivèrsibol",
+      "it": "irreversibile",
+      "type": "adj",
+      "ex": "Deleting the database is an irreversible action.",
+      "exIt": "Cancellare il database è un'azione irreversibile."
+    },
+    {
+      "en": "unexpected",
+      "pron": "anikspèktid",
+      "it": "inatteso, imprevisto",
+      "type": "adj",
+      "ex": "There was an unexpected change in the brief.",
+      "exIt": "C'è stata una modifica imprevista nel brief."
+    },
+    {
+      "en": "avoidable",
+      "pron": "avòidabol",
+      "it": "evitabile",
+      "type": "adj",
+      "ex": "Most of these errors were avoidable.",
+      "exIt": "La maggior parte di questi errori era evitabile."
+    },
+    {
+      "en": "costly",
+      "pron": "kòstli",
+      "it": "costoso, che costa caro",
+      "type": "adj",
+      "ex": "That mistake was costly for the whole team.",
+      "exIt": "Quell'errore è costato caro a tutto il team."
+    },
+    {
+      "en": "fortunately",
+      "pron": "fòrciunetli",
+      "it": "per fortuna",
+      "type": "adv",
+      "ex": "Fortunately, we had a recent backup.",
+      "exIt": "Per fortuna avevamo un backup recente."
+    },
+    {
+      "en": "to salvage",
+      "pron": "sàlvidg",
+      "it": "salvare, recuperare",
+      "type": "verb",
+      "ex": "We managed to salvage most of the data.",
+      "exIt": "Siamo riusciti a recuperare gran parte dei dati."
+    },
+    {
+      "en": "fallout",
+      "pron": "fòolaut",
+      "it": "strascichi, conseguenze negative",
+      "type": "noun",
+      "ex": "The fallout from the data leak lasted for months.",
+      "exIt": "Gli strascichi della fuga di dati sono durati mesi."
+    },
+    {
+      "en": "repercussion",
+      "pron": "ripercàscion",
+      "it": "ripercussione",
+      "type": "noun",
+      "ex": "The delay had serious repercussions for the client.",
+      "exIt": "Il ritardo ha avuto serie ripercussioni sul cliente."
+    },
+    {
+      "en": "to wish",
+      "pron": "uìsc",
+      "it": "desiderare, avere il rimpianto che (I wish I had...)",
+      "type": "verb",
+      "ex": "I wish I had read the contract more carefully.",
+      "exIt": "Vorrei aver letto il contratto con più attenzione."
+    },
+    {
+      "en": "if only",
+      "pron": "if òunli",
+      "it": "se solo, magari (rimpianto forte)",
+      "type": "phrase",
+      "ex": "If only we had asked for a written approval!",
+      "exIt": "Se solo avessimo chiesto un'approvazione scritta!"
+    },
+    {
+      "en": "in retrospect",
+      "pron": "in rètrospekt",
+      "it": "col senno di poi, guardando indietro",
+      "type": "phrase",
+      "ex": "In retrospect, the plan was too ambitious.",
+      "exIt": "Col senno di poi, il piano era troppo ambizioso."
+    },
+    {
+      "en": "aftermath",
+      "pron": "àaftermat",
+      "it": "conseguenze, dopo l'evento",
+      "type": "noun",
+      "ex": "In the aftermath of the crash, we improved our process.",
+      "exIt": "Dopo il crash, abbiamo migliorato il nostro processo."
+    },
+    {
+      "en": "to succeed",
+      "pron": "saksìid",
+      "it": "riuscire, avere successo",
+      "type": "verb",
+      "ex": "The new checkout succeeded in reducing errors.",
+      "exIt": "Il nuovo checkout è riuscito a ridurre gli errori."
+    },
+    {
+      "en": "to gain",
+      "pron": "ghèin",
+      "it": "guadagnare, ottenere (un vantaggio)",
+      "type": "verb",
+      "ex": "We gained a lot of experience from this project.",
+      "exIt": "Abbiamo acquisito molta esperienza da questo progetto."
+    },
+    {
+      "en": "damage",
+      "pron": "dàmidg",
+      "it": "danno (anche reputazionale)",
+      "type": "noun",
+      "ex": "The delay did some damage to our reputation.",
+      "exIt": "Il ritardo ha danneggiato un po' la nostra reputazione."
+    },
+    {
+      "en": "to take the blame",
+      "pron": "tèik de blèim",
+      "it": "prendersi la colpa",
+      "type": "phrase",
+      "ex": "The manager took the blame for the missed deadline.",
+      "exIt": "Il responsabile si è preso la colpa della scadenza mancata."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to regret",
+      "it": "pentirsi, rimpiangere",
+      "trap": "Non vuol dire 'regredire' né 'rigettare'. È un sentimento di dispiacere."
+    },
+    {
+      "en": "to assume",
+      "it": "dare per scontato",
+      "trap": "Non vuol dire 'assumere' una persona. Assumere = to hire."
+    }
+  ],
+  "grammar": {
+    "title": "Il terzo condizionale e i condizionali misti",
+    "explainIt": [
+      "Il terzo condizionale parla del passato che non possiamo più cambiare. Descrive una situazione immaginaria: immaginiamo un passato diverso da quello vero. Struttura: if + past perfect, would have + participio passato. If I had known, I would have called you. Cioè: non lo sapevo, e non ti ho chiamato.",
+      "Nella frase con if si usa il past perfect: had + participio passato. Nella parte principale si usa would have + participio. Puoi mettere la parte con if all'inizio o alla fine. Con l'if all'inizio si mette la virgola: If we had tested it, we would have found the bug. Alla fine, niente virgola: We would have found the bug if we had tested it.",
+      "Con would puoi usare anche could have (avrei potuto) e might have (forse avrei). If we had started earlier, we could have finished on time. Nella lingua parlata had si contrae: If I'd known, I'd have called. Attenzione: 'd può essere had oppure would. Dopo if è quasi sempre had.",
+      "I condizionali misti uniscono due tempi diversi. Il primo tipo collega un passato a un presente: if + past perfect, would + verbo base. If we had hired a designer, we would have a better website now. Cioè: non abbiamo assunto un designer nel passato, e oggi il sito non è così bello.",
+      "Il secondo tipo collega una situazione sempre vera nel presente a un risultato nel passato: if + past simple, would have + participio. If I were more organised, I would have finished the report yesterday. Per esprimere un rimpianto puoi usare anche I wish e if only con il past perfect: I wish I had asked. If only we had backed up the files. Mai would dopo if o wish nella parte del rimpianto."
+    ],
+    "explainEn": [
+      "The third conditional talks about the past, and we can't change the past. It describes an imaginary situation: we imagine a past that is different from the real one. The structure is: if + past perfect, would have + past participle. If I had known, I would have called you. It means: I didn't know, and I didn't call you.",
+      "In the if-clause we use the past perfect: had + past participle. In the main clause we use would have + past participle. The if-clause can come first or last. When it comes first, we put a comma: If we had tested it, we would have found the bug. When it comes last, there is no comma: We would have found the bug if we had tested it.",
+      "We can also use could have (it was possible) and might have (perhaps) instead of would have. If we had started earlier, we could have finished on time. In speech we contract had: If I'd known, I'd have called. Be careful: 'd can be had or would. After if it is almost always had.",
+      "Mixed conditionals join two different times. The first type links a past action with a present result: if + past perfect, would + base verb. If we had hired a designer, we would have a better website now. It means: we didn't hire a designer in the past, so today the site is not as good.",
+      "The second type links a present or permanent situation with a past result: if + past simple, would have + past participle. If I were more organised, I would have finished the report yesterday. To express regret we can also use I wish and if only with the past perfect: I wish I had asked. If only we had backed up the files. We never use would after if or wish in the regret part."
+    ],
+    "rules": [
+      {
+        "it": "Terzo condizionale: if + past perfect, would have + participio passato. Parla di qualcosa che non è successo.",
+        "en": "Third conditional: if + past perfect, would have + past participle. It talks about something that did not happen.",
+        "form": "if + had + participio, would have + participio",
+        "examples": [
+          {
+            "en": "If we had tested on mobile, we would have found the problem.",
+            "it": "Se avessimo testato su mobile, avremmo trovato il problema."
+          },
+          {
+            "en": "If the client had replied sooner, we would have launched on time.",
+            "it": "Se il cliente avesse risposto prima, avremmo lanciato in tempo."
+          },
+          {
+            "en": "I wouldn't have sent that email if I had known the details.",
+            "it": "Non avrei mandato quella mail se avessi saputo i dettagli."
+          }
+        ]
+      },
+      {
+        "it": "Could have e might have al posto di would have: possibilità o dubbio.",
+        "en": "Could have and might have instead of would have: possibility or uncertainty.",
+        "form": "if + had + participio, could/might have + participio",
+        "examples": [
+          {
+            "en": "If we had hired another developer, we could have finished earlier.",
+            "it": "Se avessimo assunto un altro sviluppatore, avremmo potuto finire prima."
+          },
+          {
+            "en": "If she had seen the error, she might have fixed it.",
+            "it": "Se avesse visto l'errore, forse l'avrebbe sistemato."
+          }
+        ]
+      },
+      {
+        "it": "Condizionale misto 1: passato che ha un effetto sul presente.",
+        "en": "Mixed conditional 1: a past action with a present result.",
+        "form": "if + had + participio, would + verbo base",
+        "examples": [
+          {
+            "en": "If we had signed the contract, we would be working on it now.",
+            "it": "Se avessimo firmato il contratto, ci staremmo lavorando adesso."
+          },
+          {
+            "en": "If he had studied design, he would be a better front-end developer today.",
+            "it": "Se avesse studiato design, oggi sarebbe un front-end developer migliore."
+          }
+        ]
+      },
+      {
+        "it": "Condizionale misto 2: una situazione di sempre che spiega un fatto passato.",
+        "en": "Mixed conditional 2: a permanent present situation that explains a past result.",
+        "form": "if + past simple, would have + participio",
+        "examples": [
+          {
+            "en": "If I were more careful, I wouldn't have made that mistake.",
+            "it": "Se fossi più attento, non avrei fatto quell'errore."
+          },
+          {
+            "en": "If the budget were bigger, we would have hired a tester.",
+            "it": "Se il budget fosse più alto, avremmo assunto un tester."
+          }
+        ]
+      },
+      {
+        "it": "I wish e if only con il past perfect esprimono un rimpianto sul passato.",
+        "en": "I wish and if only with the past perfect express regret about the past.",
+        "form": "I wish + had + participio / If only + had + participio",
+        "examples": [
+          {
+            "en": "I wish I had read the brief again.",
+            "it": "Vorrei aver riletto il brief."
+          },
+          {
+            "en": "If only we had backed up the database!",
+            "it": "Se solo avessimo fatto il backup del database!"
+          }
+        ]
+      }
+    ],
+    "tip": "Pensa a una macchina del tempo: per il passato vai 'un passo più indietro'. Il condizionale presente (if + past simple, would) diventa if + past perfect, would have. E in italiano è facile: se avessi... avrei... Ma attenzione: in inglese mai would dopo if. Non dire 'if I would have known'.",
+    "mistakes": [
+      {
+        "wrong": "If I would have known, I would have called.",
+        "right": "If I had known, I would have called.",
+        "why": "dopo if nel terzo condizionale si usa had, non would have"
+      },
+      {
+        "wrong": "If we tested it, we would have found the bug.",
+        "right": "If we had tested it, we would have found the bug.",
+        "why": "per il passato serve il past perfect, non il past simple"
+      },
+      {
+        "wrong": "I wish I would have asked.",
+        "right": "I wish I had asked.",
+        "why": "con wish riferito al passato si usa il past perfect"
+      },
+      {
+        "wrong": "If she had arrived, we would started.",
+        "right": "If she had arrived, we would have started.",
+        "why": "manca have dopo would"
+      },
+      {
+        "wrong": "If I had known it, I would call you.",
+        "right": "If I had known it, I would have called you.",
+        "why": "un passato non cambiabile vuole would have + participio"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "If we ___ (test) the form, we would have found the bug.",
+      "a": [
+        "had tested",
+        "'d tested"
+      ],
+      "hint": "past perfect",
+      "explain": "Terzo condizionale: if + had + participio."
+    },
+    {
+      "q": "If I had known, I ___ (call) you.",
+      "a": [
+        "would have called",
+        "'d have called"
+      ],
+      "hint": "would have + participio",
+      "explain": "Nella parte principale: would have + participio passato."
+    },
+    {
+      "q": "She would have sent the file if she ___ (see) the email.",
+      "a": [
+        "had seen",
+        "'d seen"
+      ],
+      "hint": "past perfect di see",
+      "explain": "see - saw - seen, quindi had seen."
+    },
+    {
+      "q": "If the client ___ (reply) earlier, we could have finished on time.",
+      "a": [
+        "had replied",
+        "'d replied"
+      ],
+      "hint": "past perfect",
+      "explain": "Terzo condizionale con could have."
+    },
+    {
+      "q": "I wish I ___ (read) the contract more carefully.",
+      "a": [
+        "had read",
+        "'d read"
+      ],
+      "hint": "rimpianto sul passato",
+      "explain": "I wish + past perfect."
+    },
+    {
+      "q": "If only we ___ (back up) the database!",
+      "a": [
+        "had backed up",
+        "'d backed up"
+      ],
+      "hint": "rimpianto sul passato",
+      "explain": "If only + past perfect."
+    },
+    {
+      "q": "We wouldn't have lost the data if we ___ (make) a backup.",
+      "a": [
+        "had made",
+        "'d made"
+      ],
+      "hint": "make - made - made",
+      "explain": "Past perfect dopo if."
+    },
+    {
+      "q": "If I ___ (be) more careful, I wouldn't have made that mistake. (condizionale misto: sono così in generale)",
+      "a": [
+        "were",
+        "was"
+      ],
+      "hint": "past simple di be",
+      "explain": "Condizionale misto: if + past simple. Were è più formale."
+    },
+    {
+      "q": "If we had hired a designer, we ___ a better site now. (have)",
+      "a": [
+        "would have",
+        "'d have"
+      ],
+      "hint": "effetto sul presente: would + verbo base",
+      "explain": "Condizionale misto: would + verbo base (have)."
+    },
+    {
+      "q": "He might ___ the error if he had checked the logs. (find)",
+      "a": [
+        "have found"
+      ],
+      "hint": "might + have + participio",
+      "explain": "Might have + participio passato."
+    },
+    {
+      "q": "If we hadn't rushed, we ___ (not make) so many mistakes.",
+      "a": [
+        "would not have made",
+        "wouldn't have made"
+      ],
+      "hint": "negativo: would not have + participio",
+      "explain": "Terzo condizionale negativo."
+    },
+    {
+      "q": "What ___ you have done if you had known?",
+      "a": [
+        "would"
+      ],
+      "hint": "domanda con would have + participio",
+      "explain": "Domanda al terzo condizionale: What would you have done?"
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Esprimere un rimpianto",
+      "en": "I wish I had asked for more time.",
+      "it": "Vorrei aver chiesto più tempo."
+    },
+    {
+      "group": "Esprimere un rimpianto",
+      "en": "If only we had listened to the user feedback.",
+      "it": "Se solo avessimo ascoltato il feedback degli utenti."
+    },
+    {
+      "group": "Esprimere un rimpianto",
+      "en": "In hindsight, it was a mistake.",
+      "it": "Con il senno di poi, è stato un errore.",
+      "note": "molto usata nei post-mortem"
+    },
+    {
+      "group": "Esprimere un rimpianto",
+      "en": "I regret not asking the client earlier.",
+      "it": "Mi pento di non averlo chiesto prima al cliente."
+    },
+    {
+      "group": "Esprimere un rimpianto",
+      "en": "We should have tested it first.",
+      "it": "Avremmo dovuto testarlo prima.",
+      "note": "should have = dovere nel passato, critica gentile"
+    },
+    {
+      "group": "Ipotesi sul passato",
+      "en": "If we had known, we would have changed the plan.",
+      "it": "Se l'avessimo saputo, avremmo cambiato il piano."
+    },
+    {
+      "group": "Ipotesi sul passato",
+      "en": "Without a backup, we would have lost everything.",
+      "it": "Senza un backup, avremmo perso tutto."
+    },
+    {
+      "group": "Ipotesi sul passato",
+      "en": "It could have been much worse.",
+      "it": "Poteva andare molto peggio."
+    },
+    {
+      "group": "Ipotesi sul passato",
+      "en": "That would have been a better option.",
+      "it": "Sarebbe stata un'opzione migliore."
+    },
+    {
+      "group": "Ipotesi sul passato",
+      "en": "I wouldn't have done it that way.",
+      "it": "Io non l'avrei fatto in quel modo."
+    },
+    {
+      "group": "Conseguenze",
+      "en": "The delay led to a lot of stress.",
+      "it": "Il ritardo ha causato molto stress."
+    },
+    {
+      "group": "Conseguenze",
+      "en": "This resulted in a loss of two days.",
+      "it": "Questo ha causato la perdita di due giorni."
+    },
+    {
+      "group": "Conseguenze",
+      "en": "As a result, the client was not happy.",
+      "it": "Di conseguenza, il cliente non era contento."
+    },
+    {
+      "group": "Conseguenze",
+      "en": "The decision had a big impact on the budget.",
+      "it": "La decisione ha avuto un forte impatto sul budget."
+    },
+    {
+      "group": "Conseguenze",
+      "en": "Fortunately, it didn't affect the launch.",
+      "it": "Per fortuna non ha influito sul lancio."
+    },
+    {
+      "group": "Lezioni imparate",
+      "en": "The key lesson learned is to communicate early.",
+      "it": "La lezione principale è comunicare presto."
+    },
+    {
+      "group": "Lezioni imparate",
+      "en": "Next time, we will check everything twice.",
+      "it": "La prossima volta controlleremo tutto due volte."
+    },
+    {
+      "group": "Lezioni imparate",
+      "en": "We have learned from this experience.",
+      "it": "Abbiamo imparato da questa esperienza."
+    },
+    {
+      "group": "Lezioni imparate",
+      "en": "Going forward, we'll do a code review for every change.",
+      "it": "D'ora in poi faremo una revisione del codice per ogni modifica.",
+      "note": "going forward = d'ora in avanti, molto usata"
+    },
+    {
+      "group": "Lezioni imparate",
+      "en": "Let's turn this into an improvement.",
+      "it": "Trasformiamo questo in un miglioramento."
+    },
+    {
+      "group": "Responsabilità con garbo",
+      "en": "It was my oversight. I apologise.",
+      "it": "È stata una mia svista. Mi scuso."
+    },
+    {
+      "group": "Responsabilità con garbo",
+      "en": "I take full responsibility for the delay.",
+      "it": "Mi assumo la piena responsabilità del ritardo."
+    },
+    {
+      "group": "Responsabilità con garbo",
+      "en": "Nobody is to blame. The brief was unclear.",
+      "it": "Nessuno ha colpa. Il brief non era chiaro."
+    },
+    {
+      "group": "Responsabilità con garbo",
+      "en": "I should have double-checked the file.",
+      "it": "Avrei dovuto ricontrollare il file."
+    },
+    {
+      "group": "Responsabilità con garbo",
+      "en": "We could have handled that better.",
+      "it": "Avremmo potuto gestirla meglio."
+    }
+  ],
+  "dialogue": {
+    "title": "A project post-mortem",
+    "context": "Il progetto del sito per un negozio online è finito con due settimane di ritardo. Il team si riunisce per un post-mortem: Sarah è la project manager, Luca lo sviluppatore, Tom il designer.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Thanks for coming. Let's look at what went wrong, not to blame anyone but to learn from it.",
+        "it": "Grazie di essere venuti. Guardiamo cosa è andato storto, non per dare la colpa a qualcuno ma per imparare."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I'll start. If I had tested the checkout on mobile earlier, I would have found the bug before the client did.",
+        "it": "Comincio io. Se avessi testato il checkout su mobile prima, avrei trovato il bug prima del cliente."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "That's fair. And I think we underestimated the testing time in the quote.",
+        "it": "È giusto. E penso che abbiamo sottovalutato il tempo dei test nel preventivo."
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "Yes. If we had added more testing time, we wouldn't have rushed at the end.",
+        "it": "Sì. Se avessimo aggiunto più tempo per i test, non avremmo fatto tutto di fretta alla fine."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Also, we assumed the client would send the images on time. In hindsight, that was a wrong assumption.",
+        "it": "Inoltre abbiamo dato per scontato che il cliente mandasse le immagini in tempo. Col senno di poi, era un presupposto sbagliato."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Right. If I had asked for a written deadline, we would have known earlier.",
+        "it": "Giusto. Se avessi chiesto una scadenza scritta, l'avremmo saputo prima."
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "I wish I had shared the design files sooner. It's partly my oversight too.",
+        "it": "Vorrei aver condiviso i file del design prima. Anche questa è in parte una mia svista."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "It could have been worse. Fortunately, we had a recent backup when the server failed.",
+        "it": "Poteva andare peggio. Per fortuna avevamo un backup recente quando il server è andato giù."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "True. Without it, we would have lost two weeks of work. That would have been a disaster.",
+        "it": "Vero. Senza di quello avremmo perso due settimane di lavoro. Sarebbe stato un disastro."
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "If we had a better process, we would have avoided most of these problems.",
+        "it": "Se avessimo un processo migliore, avremmo evitato la maggior parte di questi problemi."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Good point. We still don't have a clear process, and that needs to change.",
+        "it": "Buon punto. Non abbiamo ancora un processo chiaro, e questo deve cambiare."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "So what is the main lesson learned?",
+        "it": "Quindi qual è la principale lezione imparata?"
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Communicate early, add buffer time and test on real devices. Going forward, we'll do that on every project.",
+        "it": "Comunicare presto, aggiungere un margine di tempo e testare su dispositivi reali. D'ora in poi lo faremo in ogni progetto."
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "Agreed. Let's write it down and share it with the whole team.",
+        "it": "D'accordo. Mettiamolo per iscritto e condividiamolo con tutto il team."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What did Luca say he would have found earlier?",
+      "options": [
+        "The design problem",
+        "The checkout bug",
+        "The missing images"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What did the team underestimate?",
+      "options": [
+        "The testing time",
+        "The price",
+        "The size of the team"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Why was the backup important?",
+      "options": [
+        "It made the site faster",
+        "It helped when the server failed",
+        "The client asked for it"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is part of the main lesson learned?",
+      "options": [
+        "Use fewer developers",
+        "Test on real devices",
+        "Change the client"
+      ],
+      "answer": 1
+    }
+  ],
+  "translations": [
+    {
+      "it": "Se avessimo testato il sito su mobile, avremmo trovato il problema.",
+      "en": "If we had tested the site on mobile, we would have found the problem.",
+      "alt": [
+        "If we had tested the website on mobile, we would have found the problem."
+      ]
+    },
+    {
+      "it": "Se avessi saputo la scadenza, avrei finito prima.",
+      "en": "If I had known the deadline, I would have finished earlier.",
+      "alt": [
+        "If I'd known the deadline, I would have finished sooner.",
+        "If I had known about the deadline, I'd have finished earlier."
+      ]
+    },
+    {
+      "it": "Vorrei aver chiesto più tempo.",
+      "en": "I wish I had asked for more time.",
+      "alt": [
+        "I wish I'd asked for more time."
+      ]
+    },
+    {
+      "it": "Se solo avessimo fatto un backup!",
+      "en": "If only we had made a backup!",
+      "alt": [
+        "If only we had backed up the files!",
+        "If only we'd made a backup!"
+      ]
+    },
+    {
+      "it": "Senza il backup avremmo perso tutto.",
+      "en": "Without the backup, we would have lost everything.",
+      "alt": [
+        "If we hadn't had a backup, we would have lost everything."
+      ]
+    },
+    {
+      "it": "Con il senno di poi, è stato un errore.",
+      "en": "In hindsight, it was a mistake.",
+      "alt": [
+        "With hindsight, it was a mistake.",
+        "In retrospect, it was a mistake."
+      ]
+    },
+    {
+      "it": "Abbiamo sottovalutato il tempo necessario.",
+      "en": "We underestimated the time we needed.",
+      "alt": [
+        "We underestimated the time needed.",
+        "We underestimated how much time it would take."
+      ]
+    },
+    {
+      "it": "Avremmo dovuto avvisare il cliente prima.",
+      "en": "We should have told the client earlier.",
+      "alt": [
+        "We should have warned the client earlier.",
+        "We should have informed the client sooner."
+      ]
+    },
+    {
+      "it": "Se avessimo assunto un tester, oggi avremmo meno problemi.",
+      "en": "If we had hired a tester, we would have fewer problems now.",
+      "alt": [
+        "If we had hired a tester, we'd have fewer problems today."
+      ]
+    },
+    {
+      "it": "Poteva andare molto peggio.",
+      "en": "It could have been much worse.",
+      "alt": [
+        "It could have been a lot worse."
+      ]
+    },
+    {
+      "it": "Mi assumo la responsabilità dell'errore.",
+      "en": "I take responsibility for the mistake.",
+      "alt": [
+        "I take responsibility for the error.",
+        "I take full responsibility for the mistake."
+      ]
+    },
+    {
+      "it": "La prossima volta controlleremo tutto due volte.",
+      "en": "Next time, we will check everything twice.",
+      "alt": [
+        "Next time we'll check everything twice.",
+        "Next time, we're going to double-check everything."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi un breve post-mortem (mail al team) su un progetto andato in ritardo. Racconta tre cose: cosa è successo, cosa avreste fatto in modo diverso (usa il terzo condizionale almeno due volte) e quale lezione avete imparato. Usa anche I wish o in hindsight.",
+    "taskEn": "Write a short post-mortem email to your team about a project that was late. Say three things: what happened, what you would have done differently (use the third conditional at least twice) and what lesson you learned. Also use I wish or in hindsight.",
+    "model": "Hi team,\n\nHere is a short summary of the website project, which finished two weeks late.\n\nWhat happened: the client sent the images late and we found a serious bug in the checkout on the last day.\n\nWhat we would have done differently: if we had tested on mobile earlier, we would have found the bug sooner. And if we had asked for a written deadline for the images, we would have known about the delay in time. In hindsight, we also underestimated the testing time in the quote. I wish we had added more buffer.\n\nLesson learned: communicate early, ask for written deadlines and test on real devices. Fortunately, we had a recent backup, so we did not lose any data. It could have been much worse.\n\nGoing forward, we will add these three steps to every project plan.\n\nThanks,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "If I had known, I would have called you.",
+      "If we had tested earlier, we would have found the bug.",
+      "I wish I had asked for more time.",
+      "If only we had made a backup.",
+      "In hindsight, it was a mistake.",
+      "It could have been much worse.",
+      "We should have told the client earlier.",
+      "Going forward, we will check everything twice."
+    ],
+    "prompts": [
+      {
+        "en": "Tell me about a project that did not go well. What went wrong?",
+        "it": "Raccontami un progetto che non è andato bene. Cosa è andato storto?",
+        "help": "Inizia con: One project was late because... / If I had..."
+      },
+      {
+        "en": "What would you have done differently?",
+        "it": "Cosa avresti fatto in modo diverso?",
+        "help": "Usa: If I had..., I would have..."
+      },
+      {
+        "en": "Do you have any regrets about your career?",
+        "it": "Hai rimpianti sulla tua carriera?",
+        "help": "Usa: I wish I had... / If only I had..."
+      },
+      {
+        "en": "What was the most important lesson learned in your last project?",
+        "it": "Qual è stata la lezione più importante del tuo ultimo progetto?",
+        "help": "Usa: The key lesson was to..."
+      },
+      {
+        "en": "If you had had more time and money, what would you have improved?",
+        "it": "Se avessi avuto più tempo e soldi, cosa avresti migliorato?",
+        "help": "Usa: I would have improved... / I could have..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: parlare del passato che non cambia",
+      "show": [
+        "Ipotesi e rimpianti",
+        "If I had known, I would have...",
+        "I wish I had..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi parliamo di ipotesi e rimpianti. Quante volte hai detto: se avessi saputo, avrei fatto diversamente? In inglese si usa il terzo condizionale. Serve nei post-mortem e quando devi spiegare un errore."
+        },
+        {
+          "lang": "en",
+          "text": "If I had known, I would have called you."
+        }
+      ]
+    },
+    {
+      "title": "La forma del terzo condizionale",
+      "show": [
+        "if + had + participio",
+        "would have + participio",
+        "If we had tested, we would have found it"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "La forma è semplice. Nella parte con if si usa had più il participio passato. Nella parte principale si usa would have più il participio. Il verbo è al passato, e la cosa non è successa."
+        },
+        {
+          "lang": "en",
+          "text": "If we had tested it, we would have found the bug."
+        }
+      ]
+    },
+    {
+      "title": "Un errore da evitare",
+      "show": [
+        "NO: if I would have known",
+        "SÌ: if I had known"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In italiano diciamo se avessi saputo, e quindi sbagliamo spesso con would. In inglese dopo if non si mette mai would. Si dice if I had known, non if I would have known."
+        },
+        {
+          "lang": "en",
+          "text": "If I had known, I would have asked."
+        }
+      ]
+    },
+    {
+      "title": "Could have e might have",
+      "show": [
+        "could have = avrei potuto",
+        "might have = forse avrei",
+        "should have = avrei dovuto"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Al posto di would have puoi usare could have, che vuol dire avrei potuto, e might have, che vuol dire forse avrei. Should have vuol dire avrei dovuto, ed è la frase tipica del rimpianto."
+        },
+        {
+          "lang": "en",
+          "text": "We could have finished earlier. We should have tested it first."
+        }
+      ]
+    },
+    {
+      "title": "I condizionali misti",
+      "show": [
+        "passato e presente",
+        "If we had hired a designer, we would have a better site now"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nei condizionali misti il passato e il presente si incontrano. Se non hai fatto una cosa ieri, oggi ne vedi l'effetto. If we had hired a designer, we would have a better site now. Il secondo tipo funziona al contrario: una situazione generale spiega un errore del passato."
+        },
+        {
+          "lang": "en",
+          "text": "If I were more careful, I wouldn't have made that mistake."
+        }
+      ]
+    },
+    {
+      "title": "I wish e if only",
+      "show": [
+        "I wish + had + participio",
+        "If only + had + participio"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per esprimere un rimpianto usa I wish oppure if only, seguiti dal past perfect. If only è più forte, un po' più emotivo. Anche qui non si usa would."
+        },
+        {
+          "lang": "en",
+          "text": "I wish I had asked for more time. If only we had made a backup."
+        }
+      ]
+    },
+    {
+      "title": "Frasi utili per un post-mortem",
+      "show": [
+        "In hindsight",
+        "lesson learned",
+        "Going forward",
+        "It could have been worse"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Alcune espressioni sono utilissime. In hindsight vuol dire con il senno di poi. Lesson learned è la lezione imparata. Going forward vuol dire d'ora in poi. E si usa spesso it could have been worse, poteva andare peggio."
+        },
+        {
+          "lang": "en",
+          "text": "In hindsight, it was a mistake. Going forward, we will test earlier."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "if + had + participio, would have + participio",
+        "I wish I had...",
+        "mai would dopo if"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Terzo condizionale: if più had più participio, poi would have più participio. Mai would dopo if. Per i rimpianti usa I wish e if only. E per un post-mortem ricordati di chiudere con una lezione imparata."
+        },
+        {
+          "lang": "en",
+          "text": "The key lesson learned is to communicate early."
+        }
+      ]
+    }
+  ]
+}

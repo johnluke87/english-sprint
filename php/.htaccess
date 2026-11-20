@@ -1,0 +1,21 @@
+# English Sprint (pubblica, senza login): la pagina passa da pagina.php, che legge index.html senza cache.
+# Le API sono in api/index.php; lib/ viene solo incluso.
+DirectoryIndex pagina.php
+
+<FilesMatch "\.php$">
+    Require all denied
+</FilesMatch>
+<FilesMatch "^(pagina|index)\.php$">
+    Require all granted
+</FilesMatch>
+
+<IfModule mod_headers.c>
+    # index.html cambia a ogni versione: niente cache, così arrivano subito i file nuovi
+    <Files "index.html">
+        Header set Cache-Control "no-cache"
+    </Files>
+    # Le lezioni (content/*.json) cambiano poco: cache breve, così gli aggiornamenti arrivano in fretta
+    <FilesMatch "\.json$">
+        Header set Cache-Control "max-age=3600"
+    </FilesMatch>
+</IfModule>

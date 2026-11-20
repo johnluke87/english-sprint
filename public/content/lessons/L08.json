@@ -1,0 +1,319 @@
+{
+  "id": 8,
+  "week": 2,
+  "title": "Il web e la tecnologia",
+  "titleEn": "The web and technology",
+  "intro": "Oggi impari il lessico del tuo mestiere in inglese: siti, server, codice, browser, dispositivi. Impari anche la forma passiva, che nei testi tecnici si usa di continuo: 'The site is hosted on...', 'The page was built with...'. Ti serve per documentazione, report di audit e mail ai clienti.",
+  "goals": [
+    "Descrivere un sito e la sua tecnologia con il lessico giusto",
+    "Costruire frasi al passivo presente e passato",
+    "Capire quando usare il passivo e quando preferire l'attivo",
+    "Spiegare a un cliente come funziona il suo sito in parole semplici"
+  ],
+  "words": [
+    { "en": "website", "pron": "uèbsait", "it": "sito web", "type": "noun", "ex": "The website is built with WordPress.", "exIt": "Il sito è costruito con WordPress." },
+    { "en": "web page", "pron": "uèb pèidg", "it": "pagina web", "type": "noun", "ex": "Each web page has a unique title.", "exIt": "Ogni pagina web ha un titolo unico." },
+    { "en": "server", "pron": "sèrver", "it": "server", "type": "noun", "ex": "The server is located in Frankfurt.", "exIt": "Il server si trova a Francoforte." },
+    { "en": "hosting", "pron": "hòusting", "it": "servizio di hosting", "type": "noun", "ex": "Hosting is paid for once a year.", "exIt": "L'hosting si paga una volta all'anno." },
+    { "en": "domain", "pron": "domèin", "it": "dominio", "type": "noun", "ex": "The domain was registered in 2019.", "exIt": "Il dominio è stato registrato nel 2019." },
+    { "en": "browser", "pron": "bràuzer", "it": "browser", "type": "noun", "ex": "The site works in every modern browser.", "exIt": "Il sito funziona in tutti i browser moderni." },
+    { "en": "source code", "pron": "sòrs kòud", "it": "codice sorgente", "type": "noun", "ex": "The source code is stored in a private repository.", "exIt": "Il codice sorgente è conservato in un repository privato." },
+    { "en": "database", "pron": "dèitabeis", "it": "database", "type": "noun", "ex": "Customer data is kept in a secure database.", "exIt": "I dati dei clienti sono conservati in un database sicuro." },
+    { "en": "framework", "pron": "frèimuerk", "it": "framework, struttura di sviluppo", "type": "noun", "ex": "The front end is built with a modern framework.", "exIt": "Il front end è costruito con un framework moderno." },
+    { "en": "library", "pron": "làibrari", "it": "libreria di codice", "type": "noun", "ex": "We use a small library for the date picker.", "exIt": "Usiamo una piccola libreria per il selettore di date." },
+    { "en": "plugin", "pron": "plàgin", "it": "plugin, estensione", "type": "noun", "ex": "The booking form is created by a plugin.", "exIt": "Il modulo di prenotazione è creato da un plugin." },
+    { "en": "API", "pron": "èi pii ài", "it": "interfaccia per far comunicare programmi", "type": "noun", "ex": "Product data is loaded through an API.", "exIt": "I dati dei prodotti vengono caricati tramite un'API." },
+    { "en": "front end", "pron": "frànt end", "it": "parte visibile del sito, lato utente", "type": "noun", "ex": "I mostly work on the front end.", "exIt": "Lavoro soprattutto sul front end." },
+    { "en": "back end", "pron": "bàk end", "it": "parte nascosta del sito, lato server", "type": "noun", "ex": "The back end is written in PHP.", "exIt": "Il back end è scritto in PHP." },
+    { "en": "responsive", "pron": "rispònsiv", "it": "adattabile a ogni schermo", "type": "adj", "ex": "The layout is fully responsive.", "exIt": "Il layout si adatta a ogni schermo." },
+    { "en": "device", "pron": "divàis", "it": "dispositivo", "type": "noun", "ex": "The site was tested on five different devices.", "exIt": "Il sito è stato provato su cinque dispositivi diversi." },
+    { "en": "screen reader", "pron": "skrìin rìider", "it": "lettore di schermo", "type": "noun", "ex": "The menu can be read by a screen reader.", "exIt": "Il menu può essere letto da un lettore di schermo." },
+    { "en": "to compress", "pron": "komprès", "it": "comprimere", "type": "verb", "ex": "We compress the images to make the site faster.", "exIt": "Comprimiamo le immagini per rendere il sito più veloce." },
+    { "en": "to host", "pron": "hòust", "it": "ospitare (un sito)", "type": "verb", "ex": "Our sites are hosted in Italy.", "exIt": "I nostri siti sono ospitati in Italia." },
+    { "en": "to minify", "pron": "mìnifai", "it": "minimizzare (il codice)", "type": "verb", "ex": "The build tool minifies the CSS files.", "exIt": "Lo strumento di build minimizza i file CSS." },
+    { "en": "to load", "pron": "lòud", "it": "caricarsi (una pagina)", "type": "verb", "ex": "The page loads in under two seconds.", "exIt": "La pagina si carica in meno di due secondi." },
+    { "en": "loading time", "pron": "lòuding tàim", "it": "tempo di caricamento", "type": "noun", "ex": "Large images increase the loading time.", "exIt": "Le immagini grandi aumentano il tempo di caricamento." },
+    { "en": "to store", "pron": "stòr", "it": "conservare, memorizzare", "type": "verb", "ex": "Passwords are never stored in plain text.", "exIt": "Le password non vengono mai conservate in chiaro." },
+    { "en": "to encrypt", "pron": "inkrìpt", "it": "cifrare", "type": "verb", "ex": "All data is encrypted before it is sent.", "exIt": "Tutti i dati vengono cifrati prima di essere inviati." },
+    { "en": "to access", "pron": "àkses", "it": "accedere a", "type": "verb", "ex": "The admin area can only be accessed with a password.", "exIt": "All'area di amministrazione si accede solo con una password." },
+    { "en": "to compile", "pron": "kompàil", "it": "compilare (il codice)", "type": "verb", "ex": "The code is compiled before it goes online.", "exIt": "Il codice viene compilato prima di andare online." },
+    { "en": "to embed", "pron": "imbèd", "it": "incorporare", "type": "verb", "ex": "The video is embedded in the page.", "exIt": "Il video è incorporato nella pagina." },
+    { "en": "version", "pron": "vèrscion", "it": "versione", "type": "noun", "ex": "Which version of PHP is installed on the server?", "exIt": "Quale versione di PHP è installata sul server?" },
+    { "en": "repository", "pron": "ripòsitori", "it": "repository, archivio del codice", "type": "noun", "ex": "The code is kept in a Git repository.", "exIt": "Il codice è conservato in un repository Git." },
+    { "en": "to merge", "pron": "mèrdg", "it": "unire (modifiche del codice)", "type": "verb", "ex": "The changes were merged into the main branch.", "exIt": "Le modifiche sono state unite al ramo principale." },
+    { "en": "branch", "pron": "brànc", "it": "ramo (del codice)", "type": "noun", "ex": "Every new feature is developed in its own branch.", "exIt": "Ogni nuova funzione si sviluppa nel suo ramo." },
+    { "en": "cache", "pron": "kàsc", "it": "cache, memoria temporanea", "type": "noun", "ex": "Images are kept in the browser cache for a week.", "exIt": "Le immagini restano nella cache del browser per una settimana." },
+    { "en": "to sync", "pron": "sìnk", "it": "sincronizzare", "type": "verb", "ex": "The app syncs your data across devices.", "exIt": "L'app sincronizza i dati tra i dispositivi." },
+    { "en": "traffic", "pron": "tràfik", "it": "traffico, visite", "type": "noun", "ex": "Most of the traffic comes from mobile phones.", "exIt": "La maggior parte del traffico arriva dai telefoni." },
+    { "en": "firewall", "pron": "fàierual", "it": "firewall", "type": "noun", "ex": "Suspicious requests are blocked by the firewall.", "exIt": "Le richieste sospette vengono bloccate dal firewall." },
+    { "en": "user interface", "pron": "iùzer ìnterfeis", "it": "interfaccia utente", "type": "noun", "ex": "The user interface was redesigned last year.", "exIt": "L'interfaccia utente è stata ridisegnata l'anno scorso." },
+    { "en": "layout", "pron": "lèiaut", "it": "impaginazione", "type": "noun", "ex": "The layout changes on small screens.", "exIt": "L'impaginazione cambia sugli schermi piccoli." },
+    { "en": "template", "pron": "tèmplit", "it": "modello di pagina", "type": "noun", "ex": "All blog posts are created from the same template.", "exIt": "Tutti gli articoli del blog sono creati dallo stesso modello." },
+    { "en": "CMS", "pron": "sii em ès", "it": "sistema di gestione dei contenuti", "type": "noun", "ex": "Content is managed through a simple CMS.", "exIt": "I contenuti vengono gestiti tramite un semplice CMS." },
+    { "en": "open source", "pron": "òupen sòrs", "it": "a codice aperto", "type": "adj", "ex": "The tool is open source and free to use.", "exIt": "Lo strumento è open source e gratuito." },
+    { "en": "software", "pron": "sòftuer", "it": "software", "type": "noun", "ex": "The software is updated every month.", "exIt": "Il software viene aggiornato ogni mese." },
+    { "en": "hardware", "pron": "hàrduer", "it": "hardware, parte fisica", "type": "noun", "ex": "The hardware was replaced two years ago.", "exIt": "L'hardware è stato sostituito due anni fa." },
+    { "en": "platform", "pron": "plàtform", "it": "piattaforma", "type": "noun", "ex": "The shop is built on a well-known platform.", "exIt": "Il negozio è costruito su una piattaforma conosciuta." },
+    { "en": "cloud", "pron": "klàud", "it": "cloud, servizi in rete", "type": "noun", "ex": "Files are stored in the cloud.", "exIt": "I file sono conservati nel cloud." },
+    { "en": "to scale", "pron": "skèil", "it": "crescere, adattarsi a più carico", "type": "verb", "ex": "The system was designed to scale with the business.", "exIt": "Il sistema è stato progettato per crescere insieme all'attività." },
+    { "en": "to integrate", "pron": "ìntigreit", "it": "integrare", "type": "verb", "ex": "The payment system is integrated with the shop.", "exIt": "Il sistema di pagamento è integrato con il negozio." },
+    { "en": "to optimise", "pron": "òptimaiz", "it": "ottimizzare", "type": "verb", "ex": "All images were optimised for the web.", "exIt": "Tutte le immagini sono state ottimizzate per il web." },
+    { "en": "to render", "pron": "rènder", "it": "visualizzare, generare la pagina", "type": "verb", "ex": "The page is rendered differently in older browsers.", "exIt": "La pagina viene visualizzata in modo diverso nei browser più vecchi." },
+    { "en": "to authenticate", "pron": "otèntikeit", "it": "autenticare, verificare l'identità", "type": "verb", "ex": "Users authenticate with a password and a code.", "exIt": "Gli utenti si autenticano con una password e un codice." },
+    { "en": "to migrate", "pron": "màigreit", "it": "migrare, spostare su un'altra piattaforma", "type": "verb", "ex": "The old site was migrated to a new server.", "exIt": "Il vecchio sito è stato migrato su un nuovo server." }
+  ],
+  "falseFriends": [
+    { "en": "library", "it": "libreria (di codice) o biblioteca", "trap": "Non vuol dire 'libreria' come negozio di libri: quello è bookshop (UK) o bookstore (US)." },
+    { "en": "to compile", "it": "compilare il codice", "trap": "Non vuol dire 'compilare un modulo': per quello si dice to fill in (UK) o to fill out (US) a form." },
+    { "en": "application", "it": "applicazione, programma", "trap": "Oltre a 'programma, app', vuol dire anche 'domanda' (di lavoro, di iscrizione): a job application è una candidatura, non un'applicazione." }
+  ],
+  "grammar": {
+    "title": "La forma passiva al presente e al passato",
+    "explainIt": [
+      "Nella frase attiva il soggetto fa l'azione: 'Our team maintains the site.' Nella frase passiva il soggetto subisce l'azione: 'The site is maintained by our team.' L'inglese tecnico usa molto il passivo, perché spesso ciò che conta è l'oggetto, non chi agisce: il sito, il file, il server.",
+      "Il passivo si forma con il verbo to be più il participio passato. Al presente: am, is, are più il participio. 'The data is stored in the cloud.' 'The emails are sent every morning.' Al passato: was o were più il participio. 'The site was launched in 2022.' 'The files were deleted by mistake.'",
+      "Se vuoi dire chi ha fatto l'azione, usa by. 'The report was written by Anna.' Ma di solito si omette: non serve dire chi, o non si sa, o non è importante. 'The server was restarted at midnight.' Non dici da chi.",
+      "Per la negazione metti not dopo to be: 'The password is not stored.' Per la domanda inverti to be e soggetto: 'Is the site hosted in Italy?' 'Were the images optimised?' Nelle risposte brevi: 'Yes, it is.' 'No, they weren't.'",
+      "In italiano è facile confondere il passivo con il si passivante. 'Il sito si aggiorna ogni mese' diventa 'The site is updated every month.' Non usare un soggetto 'you' o 'they' se vuoi tenere il tono tecnico e neutro. Per i verbi irregolari ricorda il participio: written, built, sent, kept, made, run."
+    ],
+    "explainEn": [
+      "In an active sentence the subject does the action: 'Our team maintains the site.' In a passive sentence the subject receives the action: 'The site is maintained by our team.' Technical English uses the passive a lot, because often the object is more important than the person who acts: the site, the file, the server.",
+      "You make the passive with the verb to be and the past participle. In the present: am, is or are and the participle. 'The data is stored in the cloud.' 'The emails are sent every morning.' In the past: was or were and the participle. 'The site was launched in 2022.' 'The files were deleted by mistake.'",
+      "If you want to say who did the action, use by. 'The report was written by Anna.' But we often leave it out: it is not important, not known, or not needed. 'The server was restarted at midnight.' You do not say by whom.",
+      "For the negative, put not after to be: 'The password is not stored.' For questions, put to be before the subject: 'Is the site hosted in Italy?' 'Were the images optimised?' Short answers: 'Yes, it is.' 'No, they weren't.'",
+      "In Italian it is easy to mix the passive with the impersonal si. 'Il sito si aggiorna ogni mese' becomes 'The site is updated every month.' Remember the participle of irregular verbs: written, built, sent, kept, made, run."
+    ],
+    "rules": [
+      {
+        "it": "Passivo presente: am/is/are + participio passato. Si usa per abitudini, funzionamento, fatti sempre veri.",
+        "en": "Present passive: am/is/are + past participle. Use it for routines, how things work and general facts.",
+        "form": "am / is / are + participio passato",
+        "examples": [
+          { "en": "The site is backed up every night.", "it": "Il sito viene salvato ogni notte." },
+          { "en": "Customer data is stored in a secure database.", "it": "I dati dei clienti sono conservati in un database sicuro." },
+          { "en": "These images are loaded from a separate server.", "it": "Queste immagini vengono caricate da un server separato." }
+        ]
+      },
+      {
+        "it": "Passivo passato: was/were + participio passato. Per azioni finite in un momento del passato.",
+        "en": "Past passive: was/were + past participle. Use it for finished actions in the past.",
+        "form": "was / were + participio passato",
+        "examples": [
+          { "en": "The website was redesigned in March.", "it": "Il sito è stato ridisegnato a marzo." },
+          { "en": "Two plugins were removed last week.", "it": "Due plugin sono stati rimossi la settimana scorsa." },
+          { "en": "The new version was released on Friday.", "it": "La nuova versione è stata rilasciata venerdì." }
+        ]
+      },
+      {
+        "it": "Con by indichi chi fa l'azione, ma solo se è un'informazione utile.",
+        "en": "Use by to say who does the action, but only when that information is useful.",
+        "form": "passivo + by + chi agisce",
+        "examples": [
+          { "en": "The audit was carried out by an external company.", "it": "L'audit è stato eseguito da un'azienda esterna." },
+          { "en": "The menu is generated by a script.", "it": "Il menu è generato da uno script." }
+        ]
+      },
+      {
+        "it": "Negazione e domanda: not dopo to be; nelle domande to be viene prima del soggetto.",
+        "en": "Negative and questions: not goes after to be; in questions to be goes before the subject.",
+        "form": "is/are/was/were + not; Is/Are/Was/Were + soggetto + participio?",
+        "examples": [
+          { "en": "The images aren't optimised yet.", "it": "Le immagini non sono ancora ottimizzate." },
+          { "en": "Is the site hosted in Italy?", "it": "Il sito è ospitato in Italia?" },
+          { "en": "When was the domain registered?", "it": "Quando è stato registrato il dominio?" }
+        ]
+      },
+      {
+        "it": "Usa il passivo quando chi agisce non è importante, non si sa o sarebbe scortese nominarlo. Usa l'attivo quando vuoi un tono più diretto.",
+        "en": "Use the passive when the person who acts is not important, not known, or would sound rude to name. Use the active for a more direct tone.",
+        "form": "attivo = diretto; passivo = neutro",
+        "examples": [
+          { "en": "The files were deleted by mistake.", "it": "I file sono stati cancellati per errore." },
+          { "en": "I deleted the files by mistake.", "it": "Ho cancellato i file per errore." }
+        ]
+      }
+    ],
+    "tip": "Trasforma: prendi l'oggetto della frase attiva e mettilo davanti, poi scrivi to be nel tempo giusto, poi il participio. 'We built the site' diventa 'The site was built'. Se sai dire 'è stato costruito', sai dire 'was built'.",
+    "mistakes": [
+      { "wrong": "The site is host in Italy.", "right": "The site is hosted in Italy.", "why": "dopo to be serve il participio passato, non l'infinito" },
+      { "wrong": "The site built in 2020.", "right": "The site was built in 2020.", "why": "manca il verbo to be" },
+      { "wrong": "The files was deleted yesterday.", "right": "The files were deleted yesterday.", "why": "files è plurale: were" },
+      { "wrong": "The report was wrote by Anna.", "right": "The report was written by Anna.", "why": "participio di write: written" },
+      { "wrong": "It is happened last week.", "right": "It happened last week.", "why": "happen non ha il passivo: i verbi senza complemento oggetto restano attivi" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "The site ___ (host) in Italy.", "a": ["is hosted"], "hint": "presente passivo", "explain": "Presente passivo: is + participio passato." },
+    { "q": "The new version ___ (release) last Friday.", "a": ["was released"], "hint": "last Friday", "explain": "Passato passivo: was + participio passato." },
+    { "q": "All the images ___ (optimise) before the launch.", "a": ["were optimised", "were optimized"], "hint": "plurale, passato", "explain": "Soggetto plurale al passato: were + participio." },
+    { "q": "Passwords ___ (not / store) in plain text.", "a": ["are not stored", "aren't stored"], "hint": "negativo, presente", "explain": "Negativo presente: are not + participio." },
+    { "q": "Is the data ___ (encrypt) before it is sent?", "a": ["encrypted"], "hint": "dopo is serve il participio", "explain": "Passivo presente: is + participio passato (encrypted)." },
+    { "q": "The report ___ (write) by our designer.", "a": ["was written"], "hint": "write è irregolare", "explain": "Participio di write: written." },
+    { "q": "The emails ___ (send) every morning at eight.", "a": ["are sent"], "hint": "abitudine, presente", "explain": "Presente passivo plurale: are sent." },
+    { "q": "When ___ the domain registered?", "a": ["was"], "hint": "domanda al passato, singolare", "explain": "Domanda al passato passivo: When was the domain registered?" },
+    { "q": "The old site ___ (migrate) to a new server last month.", "a": ["was migrated"], "hint": "last month", "explain": "Passato passivo: was migrated." },
+    { "q": "These pages ___ (build) with a template.", "a": ["are built"], "hint": "build è irregolare", "explain": "Participio di build: built." },
+    { "q": "Two plugins ___ (remove) yesterday.", "a": ["were removed"], "hint": "yesterday, plurale", "explain": "Passato passivo plurale: were removed." },
+    { "q": "The admin area ___ (access) only with a password.", "a": ["is accessed", "can be accessed"], "hint": "presente passivo", "explain": "Presente passivo: is accessed (oppure can be accessed)." }
+  ],
+  "phrases": [
+    { "group": "Descrivere un sito", "en": "The site is built with WordPress.", "it": "Il sito è costruito con WordPress." },
+    { "group": "Descrivere un sito", "en": "It's hosted on a shared server.", "it": "È ospitato su un server condiviso." },
+    { "group": "Descrivere un sito", "en": "The front end is written in plain HTML and CSS.", "it": "Il front end è scritto in semplice HTML e CSS." },
+    { "group": "Descrivere un sito", "en": "The layout adapts to any screen size.", "it": "L'impaginazione si adatta a qualsiasi schermo." },
+    { "group": "Descrivere un sito", "en": "It works on all major browsers.", "it": "Funziona su tutti i principali browser." },
+    { "group": "Sicurezza e dati", "en": "Your data is encrypted and stored securely.", "it": "I tuoi dati sono cifrati e conservati in modo sicuro." },
+    { "group": "Sicurezza e dati", "en": "The site is protected by a firewall.", "it": "Il sito è protetto da un firewall." },
+    { "group": "Sicurezza e dati", "en": "Access is limited to authorised users.", "it": "L'accesso è limitato agli utenti autorizzati." },
+    { "group": "Sicurezza e dati", "en": "Backups are made every night.", "it": "I backup vengono fatti ogni notte." },
+    { "group": "Sviluppo e rilascio", "en": "The code is reviewed before it is released.", "it": "Il codice viene controllato prima di essere rilasciato." },
+    { "group": "Sviluppo e rilascio", "en": "The new feature was deployed this morning.", "it": "La nuova funzione è stata pubblicata stamattina." },
+    { "group": "Sviluppo e rilascio", "en": "The changes will be merged tomorrow.", "it": "Le modifiche verranno unite domani.", "note": "will be + participio è il passivo futuro" },
+    { "group": "Sviluppo e rilascio", "en": "It's still being tested.", "it": "È ancora in fase di test.", "note": "being + participio: passivo di un'azione in corso" },
+    { "group": "Sviluppo e rilascio", "en": "The old version is no longer supported.", "it": "La vecchia versione non è più supportata." },
+    { "group": "Spiegare a un cliente", "en": "Think of the server as a computer that is always switched on.", "it": "Pensa al server come a un computer sempre acceso." },
+    { "group": "Spiegare a un cliente", "en": "The page loads slowly because the images are too big.", "it": "La pagina si carica lentamente perché le immagini sono troppo grandi." },
+    { "group": "Spiegare a un cliente", "en": "You can manage the content yourself through the CMS.", "it": "Puoi gestire i contenuti in autonomia tramite il CMS." },
+    { "group": "Spiegare a un cliente", "en": "It's a bit technical, but let me explain it simply.", "it": "È un po' tecnico, ma te lo spiego in modo semplice." },
+    { "group": "Spiegare a un cliente", "en": "In short, the site needs to be updated regularly.", "it": "In breve, il sito va aggiornato regolarmente." },
+    { "group": "Chiedere informazioni tecniche", "en": "Which browser are you using?", "it": "Quale browser stai usando?" },
+    { "group": "Chiedere informazioni tecniche", "en": "Where is the site hosted?", "it": "Dove è ospitato il sito?" },
+    { "group": "Chiedere informazioni tecniche", "en": "Who has access to the admin area?", "it": "Chi ha accesso all'area di amministrazione?" },
+    { "group": "Chiedere informazioni tecniche", "en": "Which version of PHP is being used?", "it": "Quale versione di PHP si sta usando?" },
+    { "group": "Chiedere informazioni tecniche", "en": "Is there a staging environment?", "it": "Esiste un ambiente di prova?" },
+    { "group": "Chiedere informazioni tecniche", "en": "How is the site updated?", "it": "Come viene aggiornato il sito?" }
+  ],
+  "dialogue": {
+    "title": "Taking over a website",
+    "context": "Luca deve prendere in carico il sito di un nuovo cliente. Parla con Tom, il tecnico che lo ha seguito finora, per capire come è fatto il sito.",
+    "lines": [
+      { "s": "A", "name": "Luca", "en": "Hi Tom, thanks for your time. Can you tell me how the site is set up?", "it": "Ciao Tom, grazie del tempo. Mi spieghi com'è impostato il sito?" },
+      { "s": "B", "name": "Tom", "en": "Sure. It was built about three years ago. It's based on WordPress with a custom theme.", "it": "Certo. È stato costruito circa tre anni fa. È basato su WordPress con un tema su misura." },
+      { "s": "A", "name": "Luca", "en": "Where is it hosted?", "it": "Dove è ospitato?" },
+      { "s": "B", "name": "Tom", "en": "On a shared server in Germany. The domain is managed by the client, though.", "it": "Su un server condiviso in Germania. Il dominio però lo gestisce il cliente." },
+      { "s": "A", "name": "Luca", "en": "And what about backups? Are they made automatically?", "it": "E i backup? Si fanno in automatico?" },
+      { "s": "B", "name": "Tom", "en": "Yes, they are made every night and kept for thirty days.", "it": "Sì, si fanno ogni notte e vengono conservati per trenta giorni." },
+      { "s": "A", "name": "Luca", "en": "Good. How is the code managed? Is there a repository?", "it": "Bene. Come viene gestito il codice? C'è un repository?" },
+      { "s": "B", "name": "Tom", "en": "Yes. The source code is kept in a private repository. Every change is reviewed before it is deployed.", "it": "Sì. Il codice sorgente è in un repository privato. Ogni modifica viene controllata prima di essere pubblicata." },
+      { "s": "A", "name": "Luca", "en": "What about the plugins? Are they up to date?", "it": "E i plugin? Sono aggiornati?" },
+      { "s": "B", "name": "Tom", "en": "Most of them are. Two plugins were not updated last month, because they weren't compatible with the new version.", "it": "La maggior parte sì. Due plugin non sono stati aggiornati il mese scorso perché non erano compatibili con la nuova versione." },
+      { "s": "A", "name": "Luca", "en": "I see. Is the site responsive?", "it": "Capisco. Il sito si adatta ai telefoni?" },
+      { "s": "B", "name": "Tom", "en": "Yes, it was tested on several devices. But the loading time on mobile is still quite high.", "it": "Sì, è stato provato su diversi dispositivi. Ma il tempo di caricamento sul telefono è ancora piuttosto alto." },
+      { "s": "A", "name": "Luca", "en": "Why? Are the images optimised?", "it": "Perché? Le immagini sono ottimizzate?" },
+      { "s": "B", "name": "Tom", "en": "Not all of them. That's the first thing I'd look at.", "it": "Non tutte. È la prima cosa che guarderei." },
+      { "s": "A", "name": "Luca", "en": "Great, that's very helpful. Could you send me the access details?", "it": "Perfetto, molto utile. Mi puoi mandare i dati di accesso?" },
+      { "s": "B", "name": "Tom", "en": "Of course. They'll be sent to you in an encrypted message this afternoon.", "it": "Certo. Ti verranno inviati in un messaggio cifrato questo pomeriggio." }
+    ]
+  },
+  "listening": [
+    { "q": "Where is the site hosted?", "options": ["On a shared server in Germany", "In the cloud in Italy", "On Luca's computer"], "answer": 0 },
+    { "q": "How long are the backups kept?", "options": ["Seven days", "Thirty days", "One year"], "answer": 1 },
+    { "q": "Why were two plugins not updated?", "options": ["They were too expensive", "Nobody knew about them", "They weren't compatible with the new version"], "answer": 2 },
+    { "q": "What does Tom suggest looking at first?", "options": ["The images", "The domain", "The firewall"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Il sito è ospitato su un server in Italia.", "en": "The site is hosted on a server in Italy.", "alt": ["The website is hosted on an Italian server."] },
+    { "it": "I backup vengono fatti ogni notte.", "en": "Backups are made every night.", "alt": ["The backups are made every night.", "Backups are done every night."] },
+    { "it": "Il codice viene controllato prima di essere pubblicato.", "en": "The code is reviewed before it is deployed.", "alt": ["The code is checked before it is deployed.", "The code is reviewed before it is published."] },
+    { "it": "La nuova versione è stata rilasciata ieri.", "en": "The new version was released yesterday.", "alt": ["The new version was published yesterday."] },
+    { "it": "Le password non vengono conservate in chiaro.", "en": "Passwords are not stored in plain text.", "alt": ["Passwords aren't stored in plain text."] },
+    { "it": "Quando è stato registrato il dominio?", "en": "When was the domain registered?", "alt": ["When was the domain name registered?"] },
+    { "it": "Le immagini non sono ancora state ottimizzate.", "en": "The images haven't been optimised yet.", "alt": ["The images have not been optimized yet.", "The images aren't optimised yet."] },
+    { "it": "Il sito è stato costruito con un framework moderno.", "en": "The site was built with a modern framework.", "alt": ["The website was built using a modern framework."] },
+    { "it": "Il vecchio sito è stato migrato su un nuovo server.", "en": "The old site was migrated to a new server.", "alt": ["The old website was moved to a new server."] },
+    { "it": "Il sito si adatta a tutti i dispositivi.", "en": "The site adapts to all devices.", "alt": ["The site is responsive on all devices.", "The website adapts to every device.", "The site works on all devices."] },
+    { "it": "Come viene aggiornato il sito?", "en": "How is the site updated?", "alt": ["How is the website updated?"] },
+    { "it": "Il traffico viene monitorato con uno strumento di analisi.", "en": "Traffic is tracked with an analytics tool.", "alt": ["The traffic is tracked with an analytics tool.", "Traffic is monitored with an analytics tool."] }
+  ],
+  "writing": {
+    "taskIt": "Un nuovo cliente ti chiede di descrivere in poche righe come è fatto il suo sito. Scrivi una mail breve e chiara. Spiega con il passivo: con cosa è costruito, dove è ospitato, come sono conservati i dati, ogni quanto si fanno i backup e quando è stato aggiornato l'ultima volta. Usa un tono semplice, senza troppi termini tecnici. Chiudi proponendo una breve chiamata.",
+    "taskEn": "A new client asks you to describe in a few lines how their website is set up. Write a short, clear email. Use the passive to explain what it is built with, where it is hosted, how data is stored, how often backups are made and when it was last updated. Keep the tone simple, without too much technical language. Finish by suggesting a short call.",
+    "model": "Subject: How your website is set up\n\nDear Maria,\n\nHere is a short summary of your website.\n\nThe site was built three years ago with WordPress and a custom theme. It is hosted on a secure server in Germany, and the domain is managed by your company.\n\nCustomer data is stored in an encrypted database, and passwords are never kept in plain text. Backups are made every night and are kept for thirty days.\n\nThe site was last updated in March, when two plugins were replaced. The images are not fully optimised yet, so the pages load a little slowly on mobile phones. I suggest we fix this first.\n\nWould you like a short call this week to go through the details?\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "The site is hosted on a secure server in Italy.",
+      "Backups are made every night and kept for thirty days.",
+      "The new version was released on Friday.",
+      "Passwords are never stored in plain text.",
+      "Every change is reviewed before it is deployed.",
+      "The images were optimised for the web.",
+      "The old site was migrated to a new server.",
+      "Which version of PHP is being used?"
+    ],
+    "prompts": [
+      { "en": "How is your own website built and hosted?", "it": "Come è costruito e ospitato il tuo sito?", "help": "Inizia con: My site is built with... It is hosted on..." },
+      { "en": "Explain to a client what a server is, in simple words.", "it": "Spiega a un cliente cos'è un server, in parole semplici.", "help": "Usa: A server is a computer that... Your website is stored on it." },
+      { "en": "What was the last project you worked on? What was done and what was not done?", "it": "Qual è l'ultimo progetto a cui hai lavorato? Cosa è stato fatto e cosa no?", "help": "Usa il passivo: The pages were redesigned. The forms were not tested." },
+      { "en": "How is data protected on a website?", "it": "Come vengono protetti i dati su un sito?", "help": "Usa: Data is encrypted... Access is limited..." },
+      { "en": "Which tools are used in your daily work?", "it": "Quali strumenti si usano nel tuo lavoro quotidiano?", "help": "Usa: Code is written in... Changes are stored in..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: il linguaggio del web",
+      "show": ["The web and technology", "Lessico + forma passiva"],
+      "say": [
+        { "lang": "it", "text": "In questa lezione impari le parole del web: sito, server, browser, codice. Impari anche la forma passiva, molto usata nei testi tecnici." },
+        { "lang": "en", "text": "The site is hosted on a secure server." }
+      ]
+    },
+    {
+      "title": "Attivo e passivo",
+      "show": ["Attivo: Our team maintains the site.", "Passivo: The site is maintained by our team."],
+      "say": [
+        { "lang": "it", "text": "Nella frase attiva il soggetto fa l'azione. Nella frase passiva il soggetto subisce l'azione. Nel linguaggio tecnico conta spesso l'oggetto, non chi agisce." },
+        { "lang": "en", "text": "Our team maintains the site. The site is maintained by our team." }
+      ]
+    },
+    {
+      "title": "Passivo presente",
+      "show": ["am / is / are + participio passato", "The data is stored in the cloud.", "The emails are sent every morning."],
+      "say": [
+        { "lang": "it", "text": "Al presente il passivo si forma con am, is o are, più il participio passato. Si usa per dire come funziona qualcosa." },
+        { "lang": "en", "text": "The data is stored in the cloud. The emails are sent every morning." }
+      ]
+    },
+    {
+      "title": "Passivo passato",
+      "show": ["was / were + participio passato", "The site was launched in 2022.", "The files were deleted."],
+      "say": [
+        { "lang": "it", "text": "Al passato si usa was o were più il participio. Attenzione al plurale: files vuole were." },
+        { "lang": "en", "text": "The site was launched in 2022. The files were deleted by mistake." }
+      ]
+    },
+    {
+      "title": "By, negazione e domanda",
+      "show": ["by = chi agisce", "not dopo to be", "Is the site hosted in Italy?"],
+      "say": [
+        { "lang": "it", "text": "Usa by solo se vuoi dire chi ha fatto l'azione. Per la negazione metti not dopo to be. Per la domanda metti to be prima del soggetto." },
+        { "lang": "en", "text": "The report was written by Anna. The password is not stored. Is the site hosted in Italy?" }
+      ]
+    },
+    {
+      "title": "Errori da evitare",
+      "show": ["No: The site is host", "Sì: The site is hosted", "No: was wrote", "Sì: was written"],
+      "say": [
+        { "lang": "it", "text": "Dopo to be serve il participio passato. Non l'infinito. E ricorda i participi irregolari, come written, built e sent." },
+        { "lang": "en", "text": "The report was written by Anna. The site was built in 2020." }
+      ]
+    },
+    {
+      "title": "Espressioni per descrivere un sito",
+      "show": ["It's built with WordPress.", "Backups are made every night.", "The code is reviewed before it is released."],
+      "say": [
+        { "lang": "it", "text": "Ecco tre frasi che puoi riusare quando descrivi un sito a un cliente o a un collega." },
+        { "lang": "en", "text": "It's built with WordPress. Backups are made every night. The code is reviewed before it is released." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["to be + participio passato", "presente: is / are", "passato: was / were"],
+      "say": [
+        { "lang": "it", "text": "Ricapitolando. Il passivo è il verbo to be più il participio passato. Al presente usa is o are. Al passato usa was o were. Aggiungi by solo se serve." },
+        { "lang": "en", "text": "The site is updated every month. The old version was removed last week." },
+        { "lang": "it", "text": "Prova a descrivere un tuo sito con cinque frasi al passivo." }
+      ]
+    }
+  ]
+}

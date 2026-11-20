@@ -1,0 +1,1252 @@
+{
+  "id": 22,
+  "week": 5,
+  "title": "Intervenire e interrompere",
+  "titleEn": "Interrupting and taking the floor",
+  "intro": "In una riunione internazionale nessuno aspetta il tuo turno: devi saper prendere la parola, interrompere con garbo, chiedere chiarimenti e riportare la discussione al punto. Oggi impari le frasi giuste e le domande indirette, che rendono ogni richiesta più educata, come in 'Could you tell me where the file is?'.",
+  "goals": [
+    "Prendere la parola e interrompere in modo educato",
+    "Chiedere di ripetere o chiarire quando non hai capito",
+    "Riportare la discussione al punto senza offendere nessuno",
+    "Costruire correttamente le domande indirette con if, whether e le parole interrogative"
+  ],
+  "words": [
+    {
+      "en": "to interrupt",
+      "pron": "interàpt",
+      "it": "interrompere",
+      "type": "verb",
+      "ex": "Sorry to interrupt, but I have a quick question.",
+      "exIt": "Scusa se interrompo, ma ho una domanda veloce."
+    },
+    {
+      "en": "to cut in",
+      "pron": "kàt ìn",
+      "it": "intervenire all'improvviso, interrompere",
+      "type": "verb",
+      "ex": "May I cut in for a second?",
+      "exIt": "Posso intervenire un secondo?"
+    },
+    {
+      "en": "to jump in",
+      "pron": "giàmp ìn",
+      "it": "intervenire, buttarsi nella conversazione",
+      "type": "verb",
+      "ex": "Feel free to jump in at any time.",
+      "exIt": "Sentitevi liberi di intervenire in qualsiasi momento."
+    },
+    {
+      "en": "to chip in",
+      "pron": "cìp ìn",
+      "it": "dire la propria, aggiungere un contributo",
+      "type": "verb",
+      "ex": "Anyone want to chip in?",
+      "exIt": "Qualcuno vuole dire la sua?"
+    },
+    {
+      "en": "to butt in",
+      "pron": "bàt ìn",
+      "it": "intromettersi (poco educato)",
+      "type": "verb",
+      "ex": "I'm sorry to butt in, but that isn't quite right.",
+      "exIt": "Scusa se mi intrometto, ma non è proprio così."
+    },
+    {
+      "en": "to interject",
+      "pron": "interdgèkt",
+      "it": "inserirsi con una frase, interloquire",
+      "type": "verb",
+      "ex": "She interjected with an important point.",
+      "exIt": "È intervenuta con un punto importante."
+    },
+    {
+      "en": "floor",
+      "pron": "flòr",
+      "it": "parola, diritto di parlare",
+      "type": "noun",
+      "ex": "Marco has the floor.",
+      "exIt": "La parola è a Marco."
+    },
+    {
+      "en": "to take the floor",
+      "pron": "tèik de flòr",
+      "it": "prendere la parola",
+      "type": "phrase",
+      "ex": "Let me take the floor for a moment.",
+      "exIt": "Lasciami prendere la parola un momento."
+    },
+    {
+      "en": "to give the floor to",
+      "pron": "ghiv de flòr tu",
+      "it": "dare la parola a",
+      "type": "phrase",
+      "ex": "I'll now give the floor to Anna.",
+      "exIt": "Ora do la parola ad Anna."
+    },
+    {
+      "en": "to let someone finish",
+      "pron": "lèt samuan fìnisc",
+      "it": "lasciare finire qualcuno",
+      "type": "phrase",
+      "ex": "Let her finish, please.",
+      "exIt": "Lasciatela finire, per favore."
+    },
+    {
+      "en": "to hear someone out",
+      "pron": "hìar samuan àut",
+      "it": "ascoltare qualcuno fino in fondo",
+      "type": "phrase",
+      "ex": "Please hear me out before you decide.",
+      "exIt": "Ascoltami fino in fondo prima di decidere."
+    },
+    {
+      "en": "to get a word in",
+      "pron": "gèt a uèrd ìn",
+      "it": "riuscire a dire una parola",
+      "type": "phrase",
+      "ex": "I couldn't get a word in during the whole call.",
+      "exIt": "In tutta la chiamata non sono riuscito a dire una parola."
+    },
+    {
+      "en": "to talk over",
+      "pron": "tòk òuvar",
+      "it": "parlare sopra qualcuno",
+      "type": "verb",
+      "ex": "Please don't talk over each other.",
+      "exIt": "Per favore non parlate uno sopra l'altro."
+    },
+    {
+      "en": "to cut off",
+      "pron": "kàt òf",
+      "it": "troncare, tagliare (la parola)",
+      "type": "verb",
+      "ex": "I didn't mean to cut you off.",
+      "exIt": "Non volevo troncarti la parola."
+    },
+    {
+      "en": "to hold the floor",
+      "pron": "hòuld de flòr",
+      "it": "avere la parola",
+      "type": "phrase",
+      "ex": "Anna still holds the floor.",
+      "exIt": "Anna ha ancora la parola."
+    },
+    {
+      "en": "to clarify",
+      "pron": "klàrifai",
+      "it": "chiarire",
+      "type": "verb",
+      "ex": "Could you clarify what you mean by 'soon'?",
+      "exIt": "Puoi chiarire che cosa intendi con 'presto'?"
+    },
+    {
+      "en": "to elaborate",
+      "pron": "ilàbareit",
+      "it": "approfondire, spiegare meglio",
+      "type": "verb",
+      "ex": "Could you elaborate on that?",
+      "exIt": "Potresti approfondire questo punto?"
+    },
+    {
+      "en": "to rephrase",
+      "pron": "rifrèiz",
+      "it": "riformulare",
+      "type": "verb",
+      "ex": "Let me rephrase my question.",
+      "exIt": "Lasciami riformulare la domanda."
+    },
+    {
+      "en": "in other words",
+      "pron": "in àdar uèrds",
+      "it": "in altre parole",
+      "type": "phrase",
+      "ex": "In other words, we need more time.",
+      "exIt": "In altre parole, ci serve più tempo."
+    },
+    {
+      "en": "to be more specific",
+      "pron": "bi mòr spesìfik",
+      "it": "essere più preciso",
+      "type": "phrase",
+      "ex": "Could you be more specific about the problem?",
+      "exIt": "Potresti essere più preciso sul problema?"
+    },
+    {
+      "en": "to digress",
+      "pron": "daigrèss",
+      "it": "divagare",
+      "type": "verb",
+      "ex": "Sorry, I'm digressing. Let me go back.",
+      "exIt": "Scusate, sto divagando. Torno al punto."
+    },
+    {
+      "en": "tangent",
+      "pron": "tàndgent",
+      "it": "divagazione, digressione",
+      "type": "noun",
+      "ex": "We went off on a tangent about fonts.",
+      "exIt": "Abbiamo divagato sui caratteri tipografici."
+    },
+    {
+      "en": "off topic",
+      "pron": "òf tòpik",
+      "it": "fuori tema",
+      "type": "adj",
+      "ex": "That's a bit off topic, I think.",
+      "exIt": "Credo sia un po' fuori tema."
+    },
+    {
+      "en": "to get back to the point",
+      "pron": "gèt bàk tu de pòint",
+      "it": "tornare al punto",
+      "type": "phrase",
+      "ex": "Let's get back to the point, please.",
+      "exIt": "Torniamo al punto, per favore."
+    },
+    {
+      "en": "to stick to",
+      "pron": "stìk tu",
+      "it": "attenersi a, restare su",
+      "type": "verb",
+      "ex": "Let's stick to the agenda.",
+      "exIt": "Atteniamoci all'ordine del giorno."
+    },
+    {
+      "en": "to the point",
+      "pron": "tu de pòint",
+      "it": "pertinente, essenziale",
+      "type": "phrase",
+      "ex": "Your answer was short and to the point.",
+      "exIt": "La tua risposta è stata breve e pertinente."
+    },
+    {
+      "en": "concise",
+      "pron": "konsàis",
+      "it": "conciso",
+      "type": "adj",
+      "ex": "Please keep your updates concise.",
+      "exIt": "Per favore mantenete gli aggiornamenti concisi."
+    },
+    {
+      "en": "to bear with",
+      "pron": "bèar uìd",
+      "it": "avere pazienza",
+      "type": "phrase",
+      "ex": "Please bear with me while I share my screen.",
+      "exIt": "Abbiate pazienza mentre condivido lo schermo."
+    },
+    {
+      "en": "incidentally",
+      "pron": "insidèntali",
+      "it": "a proposito, tra l'altro",
+      "type": "adv",
+      "ex": "Incidentally, the server will be down on Friday.",
+      "exIt": "A proposito, venerdì il server sarà fuori servizio."
+    },
+    {
+      "en": "speaking of",
+      "pron": "spìiking ov",
+      "it": "a proposito di",
+      "type": "phrase",
+      "ex": "Speaking of deadlines, when is the next one?",
+      "exIt": "A proposito di scadenze, qual è la prossima?"
+    },
+    {
+      "en": "to ramble",
+      "pron": "ràmbol",
+      "it": "dilungarsi, parlare a ruota libera",
+      "type": "verb",
+      "ex": "Sorry, I'm rambling.",
+      "exIt": "Scusate, mi sto dilungando."
+    },
+    {
+      "en": "to wander off",
+      "pron": "uònder òf",
+      "it": "andare fuori tema",
+      "type": "verb",
+      "ex": "We're wandering off the point.",
+      "exIt": "Stiamo andando fuori tema."
+    },
+    {
+      "en": "to slow down",
+      "pron": "slòu dàun",
+      "it": "rallentare",
+      "type": "verb",
+      "ex": "Could you slow down a bit, please?",
+      "exIt": "Potresti andare un po' più piano, per favore?"
+    },
+    {
+      "en": "to catch",
+      "pron": "càc",
+      "it": "afferrare, sentire bene",
+      "type": "verb",
+      "ex": "Sorry, I didn't catch your name.",
+      "exIt": "Scusa, non ho afferrato il tuo nome."
+    },
+    {
+      "en": "to get to the point",
+      "pron": "gèt tu de pòint",
+      "it": "venire al punto",
+      "type": "phrase",
+      "ex": "Let me get to the point.",
+      "exIt": "Vengo subito al punto."
+    },
+    {
+      "en": "to lose track",
+      "pron": "lùuz tràk",
+      "it": "perdere il filo",
+      "type": "phrase",
+      "ex": "I'm sorry, I lost track of the discussion.",
+      "exIt": "Scusate, ho perso il filo della discussione."
+    },
+    {
+      "en": "to mean",
+      "pron": "mìin",
+      "it": "voler dire, intendere",
+      "type": "verb",
+      "ex": "What do you mean by 'compliant'?",
+      "exIt": "Che cosa intendi con 'conforme'?"
+    },
+    {
+      "en": "to raise a point",
+      "pron": "rèiz a pòint",
+      "it": "sollevare una questione",
+      "type": "phrase",
+      "ex": "I'd like to raise a point about the deadline.",
+      "exIt": "Vorrei sollevare una questione sulla scadenza."
+    },
+    {
+      "en": "to pause",
+      "pron": "pòoz",
+      "it": "fare una pausa",
+      "type": "verb",
+      "ex": "Let's pause here for questions.",
+      "exIt": "Facciamo una pausa qui per le domande."
+    },
+    {
+      "en": "to go back to",
+      "pron": "gòu bàk tu",
+      "it": "tornare a",
+      "type": "phrase",
+      "ex": "Can we go back to the previous slide?",
+      "exIt": "Possiamo tornare alla slide precedente?"
+    },
+    {
+      "en": "on that note",
+      "pron": "on dat nòut",
+      "it": "a questo proposito",
+      "type": "phrase",
+      "ex": "On that note, can I add something?",
+      "exIt": "A questo proposito, posso aggiungere una cosa?"
+    },
+    {
+      "en": "to lose the thread",
+      "pron": "lùuz de trèd",
+      "it": "perdere il filo",
+      "type": "phrase",
+      "ex": "I lost the thread. Where are we?",
+      "exIt": "Ho perso il filo. A che punto siamo?"
+    },
+    {
+      "en": "to be on mute",
+      "pron": "bi on miùut",
+      "it": "avere il microfono spento",
+      "type": "phrase",
+      "ex": "Sorry, I was on mute.",
+      "exIt": "Scusate, avevo il microfono spento."
+    },
+    {
+      "en": "to raise your hand",
+      "pron": "rèiz ior hànd",
+      "it": "alzare la mano",
+      "type": "phrase",
+      "ex": "If you have a question, raise your hand.",
+      "exIt": "Se hai una domanda, alza la mano."
+    },
+    {
+      "en": "to wait one's turn",
+      "pron": "uèit uànz tèrn",
+      "it": "aspettare il proprio turno",
+      "type": "phrase",
+      "ex": "Please wait your turn to speak.",
+      "exIt": "Per favore aspettate il vostro turno per parlare."
+    },
+    {
+      "en": "one at a time",
+      "pron": "uàn at a tàim",
+      "it": "uno alla volta",
+      "type": "phrase",
+      "ex": "One at a time, please.",
+      "exIt": "Uno alla volta, per favore."
+    },
+    {
+      "en": "to make a point",
+      "pron": "mèik a pòint",
+      "it": "fare un'osservazione, esporre un punto",
+      "type": "phrase",
+      "ex": "You've made a good point.",
+      "exIt": "Hai fatto un'osservazione giusta."
+    },
+    {
+      "en": "to have a word",
+      "pron": "hàv a uèrd",
+      "it": "scambiare due parole in privato",
+      "type": "phrase",
+      "ex": "Can I have a word after the meeting?",
+      "exIt": "Posso scambiare due parole con te dopo la riunione?"
+    },
+    {
+      "en": "if I may",
+      "pron": "if ai mèi",
+      "it": "se posso, con il tuo permesso",
+      "type": "phrase",
+      "ex": "If I may, I'd like to add something.",
+      "exIt": "Se posso, vorrei aggiungere una cosa."
+    },
+    {
+      "en": "to chime in",
+      "pron": "ciàim ìn",
+      "it": "inserirsi nel discorso, dire la propria",
+      "type": "verb",
+      "ex": "Giulia chimed in with a useful suggestion.",
+      "exIt": "Giulia si è inserita con un suggerimento utile."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to pretend",
+      "it": "fingere",
+      "trap": "Non vuol dire 'pretendere' (= to demand, to insist). Pretend a volte compare nelle riunioni: 'Let's not pretend that...'."
+    },
+    {
+      "en": "to explain",
+      "it": "spiegare",
+      "trap": "Si dice 'explain it to me', non 'explain me'. Il destinatario ha bisogno di to."
+    },
+    {
+      "en": "to realise",
+      "it": "rendersi conto",
+      "trap": "Non vuol dire 'realizzare' nel senso di costruire: to realise = rendersi conto, accorgersi. Per 'realizzare' un sito o un progetto si usa to build, to create o to develop."
+    }
+  ],
+  "grammar": {
+    "title": "Le domande indirette",
+    "explainIt": [
+      "Una domanda diretta è per esempio 'Where is the file?'. Una domanda indiretta è più educata e si usa quando si interrompe, si chiede un favore o si parla con una persona che non si conosce bene: 'Could you tell me where the file is?'. In una riunione sono molto utili perché suonano gentili.",
+      "La regola principale è l'ordine delle parole. Nella domanda diretta il verbo è prima del soggetto: 'Where is the file?'. Nella domanda indiretta si torna all'ordine normale della frase, cioè soggetto + verbo: '... where the file is'. Non si fa l'inversione e non si usano do, does, did.",
+      "Esempio con do: diretta 'What time does the meeting start?'. Indiretta: 'Could you tell me what time the meeting starts?' Notare che does sparisce e il verbo prende la -s della terza persona. Con did sparisce did e il verbo va al passato: 'When did you send it?' diventa 'Can you tell me when you sent it?'.",
+      "Per le domande a cui si risponde sì o no non c'è una parola interrogativa. Si usa if oppure whether: 'Could you tell me if the report is ready?' Whether è più formale, e si usa spesso con or not: 'I wonder whether he is coming or not'.",
+      "Le frasi che introducono una domanda indiretta sono molte: 'Could you tell me...', 'Do you know...', 'Would you mind telling me...', 'I wonder...', 'I'd like to know...', 'Can you explain...'. Se la frase che introduce è una domanda, finisce con il punto interrogativo. Se è un'affermazione, come 'I wonder', si chiude con il punto.",
+      "Ricorda: nella domanda indiretta il verbo non va prima del soggetto. 'Do you know where is the meeting room?' è un errore molto comune. Si dice 'Do you know where the meeting room is?'."
+    ],
+    "explainEn": [
+      "A direct question is, for example, 'Where is the file?'. An indirect question is more polite. We use it when we interrupt, when we ask for a favour, or when we talk to someone we don't know well: 'Could you tell me where the file is?'. They are very useful in meetings because they sound polite.",
+      "The main rule is word order. In a direct question, the verb comes before the subject: 'Where is the file?'. In an indirect question, we use normal word order, subject + verb: '... where the file is'. We do not invert, and we do not use do, does or did.",
+      "For example, with do: the direct question is 'What time does the meeting start?'. The indirect question is 'Could you tell me what time the meeting starts?' Notice that does disappears and the verb takes the third person -s. With did, did disappears and the verb goes into the past: 'When did you send it?' becomes 'Can you tell me when you sent it?'.",
+      "For yes/no questions there is no question word. We use if or whether: 'Could you tell me if the report is ready?' Whether is more formal and is often used with or not: 'I wonder whether he is coming or not'.",
+      "There are many phrases to start an indirect question: 'Could you tell me...', 'Do you know...', 'Would you mind telling me...', 'I wonder...', 'I'd like to know...'. If the opening phrase is a question, the sentence ends with a question mark. If it is a statement, like 'I wonder...', it ends with a full stop.",
+      "Remember: in an indirect question, the verb does not come before the subject. 'Do you know where is the meeting room?' is a very common mistake. The correct form is 'Do you know where the meeting room is?'."
+    ],
+    "rules": [
+      {
+        "it": "Nella domanda indiretta l'ordine è normale: soggetto + verbo, senza inversione.",
+        "en": "In an indirect question, use normal word order: subject + verb.",
+        "form": "Could you tell me + parola interrogativa + soggetto + verbo",
+        "examples": [
+          {
+            "en": "Could you tell me where the meeting room is?",
+            "it": "Potresti dirmi dov'è la sala riunioni?"
+          },
+          {
+            "en": "Do you know when the report is due?",
+            "it": "Sai quando scade il report?"
+          },
+          {
+            "en": "I'd like to know what you mean by that.",
+            "it": "Vorrei sapere che cosa intendi con questo."
+          }
+        ]
+      },
+      {
+        "it": "Nelle domande con do, does, did, l'ausiliare sparisce e il verbo si adatta.",
+        "en": "With do, does and did, the auxiliary disappears and the verb changes.",
+        "form": "What time does it start? → ... what time it starts",
+        "examples": [
+          {
+            "en": "Could you tell me what time the call starts?",
+            "it": "Potresti dirmi a che ora inizia la chiamata?"
+          },
+          {
+            "en": "Do you know why the page loads so slowly?",
+            "it": "Sai perché la pagina si carica così lentamente?"
+          },
+          {
+            "en": "Can you tell me when you sent the file?",
+            "it": "Puoi dirmi quando hai inviato il file?"
+          }
+        ]
+      },
+      {
+        "it": "Per le domande sì o no si usa if oppure whether.",
+        "en": "For yes or no questions, use if or whether.",
+        "form": "Could you tell me if + soggetto + verbo",
+        "examples": [
+          {
+            "en": "Could you tell me if the report is ready?",
+            "it": "Potresti dirmi se il report è pronto?"
+          },
+          {
+            "en": "I wonder whether the client has seen the draft.",
+            "it": "Mi chiedo se il cliente abbia visto la bozza."
+          },
+          {
+            "en": "Do you know if Anna is joining the call?",
+            "it": "Sai se Anna partecipa alla chiamata?"
+          }
+        ]
+      },
+      {
+        "it": "Per interrompere in modo educato si usano formule come 'Sorry to interrupt, but...' e 'If I may...'.",
+        "en": "To interrupt politely, use phrases like 'Sorry to interrupt, but...' and 'If I may...'.",
+        "form": "Sorry to interrupt, but + frase",
+        "examples": [
+          {
+            "en": "Sorry to interrupt, but could I ask something?",
+            "it": "Scusa se interrompo, ma posso chiedere una cosa?"
+          },
+          {
+            "en": "If I may, I'd like to add a point.",
+            "it": "Se posso, vorrei aggiungere un punto."
+          },
+          {
+            "en": "Can I just jump in here for a second?",
+            "it": "Posso intervenire un secondo?"
+          }
+        ]
+      },
+      {
+        "it": "Per chiarire usa formule indirette: 'Could you clarify what you mean by...?' e 'Would you mind explaining...?'",
+        "en": "To ask for clarification, use indirect phrases.",
+        "form": "Would you mind + -ing / Could you clarify + parola interrogativa",
+        "examples": [
+          {
+            "en": "Would you mind explaining that again?",
+            "it": "Ti dispiacerebbe spiegarlo di nuovo?"
+          },
+          {
+            "en": "Could you clarify what you mean by 'compliant'?",
+            "it": "Potresti chiarire che cosa intendi con 'conforme'?"
+          }
+        ]
+      }
+    ],
+    "tip": "Prima la frase gentile (Could you tell me...), poi la domanda come se fosse una frase normale: soggetto e poi verbo. Se senti la voglia di mettere do o does dopo la parola interrogativa, fermati: non servono.",
+    "mistakes": [
+      {
+        "wrong": "Could you tell me where is the file?",
+        "right": "Could you tell me where the file is?",
+        "why": "nella domanda indiretta non c'è inversione"
+      },
+      {
+        "wrong": "Do you know what time does the call start?",
+        "right": "Do you know what time the call starts?",
+        "why": "does sparisce e il verbo prende la s"
+      },
+      {
+        "wrong": "Could you tell me if is the report ready?",
+        "right": "Could you tell me if the report is ready?",
+        "why": "dopo if si usa l'ordine normale"
+      },
+      {
+        "wrong": "I wonder where did he go.",
+        "right": "I wonder where he went.",
+        "why": "senza did, il verbo va al passato"
+      },
+      {
+        "wrong": "Can you explain me this?",
+        "right": "Can you explain this to me?",
+        "why": "explain vuole to prima della persona"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "Could you tell me where the file ___? (be)",
+      "a": [
+        "is"
+      ],
+      "hint": "ordine normale",
+      "explain": "Domanda indiretta: where the file is, senza inversione."
+    },
+    {
+      "q": "Do you know what time the call ___? (start)",
+      "a": [
+        "starts"
+      ],
+      "hint": "does sparisce",
+      "explain": "Senza does il verbo prende la s."
+    },
+    {
+      "q": "Could you tell me ___ the report is ready? (sì o no)",
+      "a": [
+        "if",
+        "whether"
+      ],
+      "hint": "domanda sì o no",
+      "explain": "Per sì o no si usa if o whether."
+    },
+    {
+      "q": "I wonder where he ___. (go, passato)",
+      "a": [
+        "went"
+      ],
+      "hint": "did sparisce",
+      "explain": "Senza did il verbo va al passato."
+    },
+    {
+      "q": "Do you know when the client ___ the draft? (send, passato)",
+      "a": [
+        "sent"
+      ],
+      "hint": "passato",
+      "explain": "Domanda indiretta al passato: soggetto + past simple."
+    },
+    {
+      "q": "Could you tell me why the page ___ so slowly? (load)",
+      "a": [
+        "loads"
+      ],
+      "hint": "terza persona",
+      "explain": "Terza persona singolare: loads."
+    },
+    {
+      "q": "Would you mind ___ that again? (explain)",
+      "a": [
+        "explaining"
+      ],
+      "hint": "dopo mind",
+      "explain": "Dopo would you mind si usa la forma -ing."
+    },
+    {
+      "q": "Sorry to ___, but could I ask a question? (interrompere)",
+      "a": [
+        "interrupt"
+      ],
+      "hint": "formula educata",
+      "explain": "Sorry to interrupt, but... è la formula classica."
+    },
+    {
+      "q": "Let's get back to the ___. (tornare al punto)",
+      "a": [
+        "point"
+      ],
+      "hint": "get back to the...",
+      "explain": "get back to the point = tornare al punto."
+    },
+    {
+      "q": "Could you ___ a little? I can't hear you. (parlare più forte)",
+      "a": [
+        "speak up"
+      ],
+      "hint": "phrasal verb",
+      "explain": "speak up = parlare più forte."
+    },
+    {
+      "q": "I'd like to know what you ___ by that. (intendi)",
+      "a": [
+        "mean"
+      ],
+      "hint": "voler dire",
+      "explain": "what you mean by... = che cosa intendi con..."
+    },
+    {
+      "q": "Could you tell me how much the hosting ___? (cost)",
+      "a": [
+        "costs"
+      ],
+      "hint": "terza persona",
+      "explain": "Domanda indiretta, presente: the hosting costs."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Interrompere con garbo",
+      "en": "Sorry to interrupt, but could I add something?",
+      "it": "Scusa se interrompo, ma posso aggiungere una cosa?"
+    },
+    {
+      "group": "Interrompere con garbo",
+      "en": "If I may, I'd like to say something here.",
+      "it": "Se posso, vorrei dire una cosa a questo punto."
+    },
+    {
+      "group": "Interrompere con garbo",
+      "en": "Can I just jump in here?",
+      "it": "Posso inserirmi un attimo?"
+    },
+    {
+      "group": "Interrompere con garbo",
+      "en": "Sorry, may I come in here?",
+      "it": "Scusa, posso intervenire qui?"
+    },
+    {
+      "group": "Interrompere con garbo",
+      "en": "Hold on a second, I have a question.",
+      "it": "Aspetta un attimo, ho una domanda.",
+      "note": "più informale"
+    },
+    {
+      "group": "Prendere e dare la parola",
+      "en": "Could I say something about that?",
+      "it": "Posso dire qualcosa a riguardo?"
+    },
+    {
+      "group": "Prendere e dare la parola",
+      "en": "Let me finish this point, and then I'll give you the floor.",
+      "it": "Lasciami finire questo punto e poi ti do la parola."
+    },
+    {
+      "group": "Prendere e dare la parola",
+      "en": "Sorry, I didn't mean to cut you off. Please go ahead.",
+      "it": "Scusa, non volevo troncarti. Prego, continua."
+    },
+    {
+      "group": "Prendere e dare la parola",
+      "en": "Marco, you had your hand up. Go ahead.",
+      "it": "Marco, avevi la mano alzata. Prego."
+    },
+    {
+      "group": "Prendere e dare la parola",
+      "en": "Let's take one person at a time.",
+      "it": "Prendiamo una persona alla volta."
+    },
+    {
+      "group": "Chiedere chiarimenti",
+      "en": "Sorry, I didn't catch that. Could you repeat it?",
+      "it": "Scusa, non ho sentito bene. Puoi ripeterlo?"
+    },
+    {
+      "group": "Chiedere chiarimenti",
+      "en": "Could you tell me what you mean by 'compliant'?",
+      "it": "Potresti dirmi che cosa intendi con 'conforme'?"
+    },
+    {
+      "group": "Chiedere chiarimenti",
+      "en": "I'm not sure I follow. Could you explain that again?",
+      "it": "Non so se ho capito bene. Puoi spiegarlo di nuovo?"
+    },
+    {
+      "group": "Chiedere chiarimenti",
+      "en": "Would you mind elaborating on that?",
+      "it": "Ti dispiacerebbe approfondire?"
+    },
+    {
+      "group": "Chiedere chiarimenti",
+      "en": "Do you know if this applies to all pages?",
+      "it": "Sai se questo vale per tutte le pagine?"
+    },
+    {
+      "group": "Chiarire quello che dici",
+      "en": "Let me rephrase that.",
+      "it": "Lasciami riformulare."
+    },
+    {
+      "group": "Chiarire quello che dici",
+      "en": "In other words, we need more time.",
+      "it": "In altre parole, ci serve più tempo."
+    },
+    {
+      "group": "Chiarire quello che dici",
+      "en": "What I mean is that the contrast is too low.",
+      "it": "Voglio dire che il contrasto è troppo basso."
+    },
+    {
+      "group": "Chiarire quello che dici",
+      "en": "To be more specific, I'm talking about the forms.",
+      "it": "Per essere più precisi, parlo dei moduli."
+    },
+    {
+      "group": "Tornare al punto",
+      "en": "Sorry, I'm going off on a tangent. Back to the point.",
+      "it": "Scusate, sto divagando. Torno al punto."
+    },
+    {
+      "group": "Tornare al punto",
+      "en": "Let's stick to the agenda, please.",
+      "it": "Atteniamoci all'ordine del giorno, per favore."
+    },
+    {
+      "group": "Tornare al punto",
+      "en": "That's a good point, but it's a bit off topic.",
+      "it": "È un'osservazione giusta, ma è un po' fuori tema."
+    },
+    {
+      "group": "Tornare al punto",
+      "en": "Can we come back to this later?",
+      "it": "Possiamo riprendere questo discorso dopo?"
+    },
+    {
+      "group": "Tornare al punto",
+      "en": "Let's park this and get back to the main issue.",
+      "it": "Mettiamo da parte questo e torniamo al problema principale."
+    },
+    {
+      "group": "Tornare al punto",
+      "en": "Could we keep it short, as we're running out of time?",
+      "it": "Possiamo essere brevi, visto che il tempo stringe?"
+    }
+  ],
+  "dialogue": {
+    "title": "Taking the floor on a video call",
+    "context": "Videochiamata con un cliente. Laura guida la riunione, Marco presenta il progetto, Elena fa domande. Qualcuno deve interrompere e qualcuno è fuori tema.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Laura",
+        "en": "Thanks for joining, everyone. Marco, would you like to start? I'll give you the floor.",
+        "it": "Grazie a tutti per essere qui. Marco, vuoi iniziare? Ti do la parola."
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "Sure. The new site is almost ready. We just need to fix the forms and...",
+        "it": "Certo. Il nuovo sito è quasi pronto. Dobbiamo solo sistemare i moduli e..."
+      },
+      {
+        "s": "C",
+        "name": "Elena",
+        "en": "Sorry to interrupt, Marco. Could you tell me what you mean by 'fix the forms'?",
+        "it": "Scusa se interrompo, Marco. Potresti dirmi che cosa intendi con 'sistemare i moduli'?"
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "Of course. Let me rephrase that. The labels are missing, so screen readers can't read them.",
+        "it": "Certo. Lasciami riformulare. Mancano le etichette, quindi gli screen reader non riescono a leggerle."
+      },
+      {
+        "s": "C",
+        "name": "Elena",
+        "en": "I see. Do you know how long it will take?",
+        "it": "Capisco. Sai quanto tempo ci vorrà?"
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "About two days. By the way, speaking of the forms, we also changed the font...",
+        "it": "Circa due giorni. A proposito, parlando dei moduli, abbiamo anche cambiato il carattere..."
+      },
+      {
+        "s": "A",
+        "name": "Laura",
+        "en": "Marco, I'm sorry to cut in, but the font is a bit off topic. Let's stick to the agenda.",
+        "it": "Marco, scusa se intervengo, ma il carattere è un po' fuori tema. Atteniamoci all'ordine del giorno."
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "You're right, sorry. I went off on a tangent.",
+        "it": "Hai ragione, scusa. Ho divagato."
+      },
+      {
+        "s": "C",
+        "name": "Elena",
+        "en": "If I may, could I ask something? I'd like to know whether the audit report is ready.",
+        "it": "Se posso, vorrei chiedere una cosa. Vorrei sapere se il report dell'audit è pronto."
+      },
+      {
+        "s": "A",
+        "name": "Laura",
+        "en": "Let me finish this point, Elena, and then I'll give you the floor.",
+        "it": "Lasciami finire questo punto, Elena, e poi ti do la parola."
+      },
+      {
+        "s": "C",
+        "name": "Elena",
+        "en": "Of course, please go ahead. I didn't mean to cut you off.",
+        "it": "Certo, prego. Non volevo troncarti la parola."
+      },
+      {
+        "s": "A",
+        "name": "Laura",
+        "en": "No problem. Now, Elena, you were asking about the report.",
+        "it": "Nessun problema. Allora, Elena, chiedevi del report."
+      },
+      {
+        "s": "C",
+        "name": "Elena",
+        "en": "Yes. Could you tell me when the report will be ready?",
+        "it": "Sì. Potresti dirmi quando sarà pronto il report?"
+      },
+      {
+        "s": "A",
+        "name": "Laura",
+        "en": "I think it'll be ready on Friday. Marco, can you double-check that?",
+        "it": "Credo che sarà pronto venerdì. Marco, puoi ricontrollare?"
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "Sorry, I was on mute. Yes, I'll double-check and send you the date today.",
+        "it": "Scusate, avevo il microfono spento. Sì, ricontrollo e vi mando la data oggi."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What does Elena ask Marco to explain?",
+      "options": [
+        "What 'fix the forms' means",
+        "How much the audit costs",
+        "Why the site is late"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Why does Laura interrupt Marco?",
+      "options": [
+        "She cannot hear him",
+        "He is talking about something off topic",
+        "She wants to end the call"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does Elena want to know at the end?",
+      "options": [
+        "When the report will be ready",
+        "Where the files are",
+        "Who is responsible for the forms"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Why does Marco apologise at the end?",
+      "options": [
+        "He was on mute",
+        "He lost the connection",
+        "He did not know the answer"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Scusa se interrompo, posso fare una domanda?",
+      "en": "Sorry to interrupt, can I ask a question?",
+      "alt": [
+        "Sorry to interrupt, could I ask a question?",
+        "I'm sorry to interrupt, may I ask a question?"
+      ]
+    },
+    {
+      "it": "Potresti dirmi dov'è il file?",
+      "en": "Could you tell me where the file is?",
+      "alt": [
+        "Can you tell me where the file is?",
+        "Do you know where the file is?"
+      ]
+    },
+    {
+      "it": "Sai a che ora inizia la riunione?",
+      "en": "Do you know what time the meeting starts?",
+      "alt": [
+        "Could you tell me what time the meeting starts?",
+        "Do you know when the meeting starts?"
+      ]
+    },
+    {
+      "it": "Mi chiedo se il cliente abbia visto la bozza.",
+      "en": "I wonder if the client has seen the draft.",
+      "alt": [
+        "I wonder whether the client has seen the draft.",
+        "I'm wondering if the client has seen the draft."
+      ]
+    },
+    {
+      "it": "Potresti ripetere, per favore? Non ho sentito bene.",
+      "en": "Could you repeat that, please? I didn't catch it.",
+      "alt": [
+        "Could you say that again, please? I didn't catch it.",
+        "Could you repeat that please? I didn't catch that."
+      ]
+    },
+    {
+      "it": "Non so se ho capito bene. Puoi spiegarlo di nuovo?",
+      "en": "I'm not sure I follow. Can you explain it again?",
+      "alt": [
+        "I'm not sure I follow. Could you explain it again?",
+        "I'm not sure I understand. Could you explain that again?"
+      ]
+    },
+    {
+      "it": "Torniamo al punto, per favore.",
+      "en": "Let's get back to the point, please.",
+      "alt": [
+        "Let's go back to the point, please.",
+        "Let's come back to the point, please."
+      ]
+    },
+    {
+      "it": "Se posso, vorrei aggiungere una cosa.",
+      "en": "If I may, I'd like to add something.",
+      "alt": [
+        "If I may, I would like to add something.",
+        "If I may, I'd like to add one thing."
+      ]
+    },
+    {
+      "it": "Ti dispiacerebbe spiegare meglio?",
+      "en": "Would you mind explaining a bit more?",
+      "alt": [
+        "Would you mind elaborating?",
+        "Would you mind explaining that more?"
+      ]
+    },
+    {
+      "it": "Scusate, sto divagando. Torno al punto.",
+      "en": "Sorry, I'm going off on a tangent. Back to the point.",
+      "alt": [
+        "Sorry, I'm digressing. Back to the point.",
+        "Sorry, I'm going off on a tangent. Let me get back to the point."
+      ]
+    },
+    {
+      "it": "Uno alla volta, per favore.",
+      "en": "One at a time, please.",
+      "alt": [
+        "One person at a time, please."
+      ]
+    },
+    {
+      "it": "Posso sapere quando sarà pronto il report?",
+      "en": "Could I ask when the report will be ready?",
+      "alt": [
+        "Can I ask when the report will be ready?",
+        "Could you tell me when the report will be ready?"
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Un collega, Marco, ha chiesto in una riunione di approfondire un punto che hai presentato, ma non c'era tempo. Scrivi a Marco una mail per rispondere in modo chiaro. Ripeti la sua domanda in forma indiretta, rispondi in tre o quattro frasi e proponi di parlarne dopo, in una breve chiamata. Usa almeno tre domande indirette, per esempio per chiedere quando è libero e se preferisce una chiamata o una mail.",
+    "taskEn": "A colleague, Marco, asked you in a meeting to explain a point you presented, but there was no time. Write an email to Marco to answer clearly. Repeat his question in an indirect form, answer in three or four sentences, and suggest a short call to talk about it. Use at least three indirect questions, for example to ask when he is free and whether he prefers a call or an email.",
+    "model": "Subject: Your question from this morning\n\nHi Marco,\n\nThank you for your question in the meeting. I'm sorry we didn't have time to answer it properly.\n\nYou asked me what I meant by 'fix the forms'. Let me rephrase that. Some form fields have no visible labels, so screen readers cannot read them. In other words, a blind user cannot know what to write in each field. We need to add a label to each field, and this will take about two days.\n\nCould you tell me when you are free for a short call this week? I'd also like to know whether you prefer a call or a written summary. If you can let me know which one is better, I'll prepare it.\n\nBest regards,\nAndrea"
+  },
+  "speaking": {
+    "shadowing": [
+      "Sorry to interrupt, but could I add something?",
+      "Could you tell me what you mean by that?",
+      "I'm not sure I follow. Could you explain it again?",
+      "Do you know when the report will be ready?",
+      "If I may, I'd like to say something here.",
+      "Let's stick to the agenda and get back to the point.",
+      "Sorry, I didn't catch that. Could you repeat it?",
+      "Let me finish this point, and then I'll give you the floor."
+    ],
+    "prompts": [
+      {
+        "en": "How do you politely interrupt someone in a meeting?",
+        "it": "Come interrompi qualcuno con educazione in una riunione?",
+        "help": "Usa: Sorry to interrupt, but... / If I may..."
+      },
+      {
+        "en": "What do you say when you don't understand something?",
+        "it": "Che cosa dici quando non capisci qualcosa?",
+        "help": "Usa: Could you tell me what you mean by...?"
+      },
+      {
+        "en": "Ask me three polite questions about my website.",
+        "it": "Fammi tre domande educate sul mio sito.",
+        "help": "Usa: Could you tell me... / Do you know if..."
+      },
+      {
+        "en": "What do you do when a colleague talks for too long?",
+        "it": "Che cosa fai quando un collega parla troppo?",
+        "help": "Usa: Let's get back to the point / We're running out of time."
+      },
+      {
+        "en": "Describe a meeting where you couldn't get a word in.",
+        "it": "Descrivi una riunione in cui non riuscivi a dire una parola.",
+        "help": "Usa: I couldn't get a word in because..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": [
+        "Interrupting and taking the floor",
+        "Intervenire e interrompere",
+        "Le domande indirette"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In una riunione internazionale devi saper prendere la parola, interrompere con garbo e chiedere chiarimenti. Oggi imparerai come si fa."
+        },
+        {
+          "lang": "it",
+          "text": "In più studiamo le domande indirette, che rendono ogni richiesta più educata."
+        }
+      ]
+    },
+    {
+      "title": "Domanda diretta e indiretta",
+      "show": [
+        "Where is the file?",
+        "Could you tell me where the file is?",
+        "più educata"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Una domanda diretta è breve e secca. Una domanda indiretta è più gentile, perché comincia con una frase di cortesia."
+        },
+        {
+          "lang": "en",
+          "text": "Where is the file?"
+        },
+        {
+          "lang": "en",
+          "text": "Could you tell me where the file is?"
+        }
+      ]
+    },
+    {
+      "title": "L'ordine delle parole",
+      "show": [
+        "Direct: Where is the file?",
+        "Indirect: where the file is",
+        "No inversion"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nella domanda indiretta si torna all'ordine normale: prima il soggetto e poi il verbo. Non c'è inversione."
+        },
+        {
+          "lang": "en",
+          "text": "Do you know where the meeting room is?"
+        },
+        {
+          "lang": "it",
+          "text": "Non si dice where is the meeting room, ma where the meeting room is."
+        }
+      ]
+    },
+    {
+      "title": "Senza do, does e did",
+      "show": [
+        "What time does it start?",
+        "what time it starts",
+        "When did you send it?",
+        "when you sent it"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nelle domande indirette scompaiono do, does e did. Il verbo prende la forma giusta: la s con does, il passato con did."
+        },
+        {
+          "lang": "en",
+          "text": "Could you tell me what time the call starts?"
+        },
+        {
+          "lang": "en",
+          "text": "Can you tell me when you sent it?"
+        }
+      ]
+    },
+    {
+      "title": "Sì o no: if e whether",
+      "show": [
+        "Is the report ready?",
+        "Could you tell me if the report is ready?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per le domande con risposta sì o no, si usa if oppure whether. Whether è un po' più formale."
+        },
+        {
+          "lang": "en",
+          "text": "Could you tell me if the report is ready?"
+        },
+        {
+          "lang": "en",
+          "text": "I wonder whether the client has seen the draft."
+        }
+      ]
+    },
+    {
+      "title": "Interrompere con garbo",
+      "show": [
+        "Sorry to interrupt, but...",
+        "If I may...",
+        "Can I just jump in?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per interrompere con garbo, chiedi sempre il permesso. Ecco tre frasi utili."
+        },
+        {
+          "lang": "en",
+          "text": "Sorry to interrupt, but could I add something?"
+        },
+        {
+          "lang": "en",
+          "text": "If I may, I'd like to say something here."
+        },
+        {
+          "lang": "en",
+          "text": "Can I just jump in for a second?"
+        }
+      ]
+    },
+    {
+      "title": "Chiarire e tornare al punto",
+      "show": [
+        "I'm not sure I follow",
+        "Let me rephrase that",
+        "Let's get back to the point"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Se non capisci, dillo senza paura. E se la discussione va fuori strada, riportala al punto."
+        },
+        {
+          "lang": "en",
+          "text": "I'm not sure I follow. Could you explain that again?"
+        },
+        {
+          "lang": "en",
+          "text": "Let me rephrase that."
+        },
+        {
+          "lang": "en",
+          "text": "Let's get back to the point, please."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Sorry to interrupt, but...",
+        "Could you tell me where... is?",
+        "Do you know if...?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riepilogo. Interrompi con sorry to interrupt, but. Chiedi con could you tell me, e poi l'ordine normale delle parole. Con le domande sì o no usa if."
+        },
+        {
+          "lang": "it",
+          "text": "Ora scrivi la tua mail e ripeti ad alta voce le frasi della lezione. Alla prossima."
+        }
+      ]
+    }
+  ]
+}

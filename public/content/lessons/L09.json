@@ -1,0 +1,318 @@
+{
+  "id": 9,
+  "week": 2,
+  "title": "Spiegare procedure e dare istruzioni",
+  "titleEn": "Explaining procedures",
+  "intro": "Oggi impari a spiegare come si fa una cosa, passo dopo passo: installare un programma, cambiare un'impostazione, usare un modulo. Impari l'imperativo, le parole per mettere in ordine i passaggi e la differenza tra must e have to. Ti serve per guide, mail di assistenza e formazione dei clienti.",
+  "goals": [
+    "Dare istruzioni chiare con l'imperativo",
+    "Mettere i passaggi in ordine con first, then, after that, finally",
+    "Distinguere must, have to, don't have to e mustn't",
+    "Scrivere una breve guida per un cliente che non è tecnico"
+  ],
+  "words": [
+    { "en": "step", "pron": "stèp", "it": "passaggio, fase", "type": "noun", "ex": "The guide has only five steps.", "exIt": "La guida ha solo cinque passaggi." },
+    { "en": "instructions", "pron": "instràkscionz", "it": "istruzioni", "type": "noun", "ex": "Please read the instructions carefully.", "exIt": "Leggi con attenzione le istruzioni." },
+    { "en": "to follow", "pron": "fòlou", "it": "seguire", "type": "verb", "ex": "Follow the steps below to reset your password.", "exIt": "Segui i passaggi qui sotto per reimpostare la password." },
+    { "en": "to install", "pron": "instòl", "it": "installare", "type": "verb", "ex": "First, install the plugin from the Extensions page.", "exIt": "Per prima cosa installa il plugin dalla pagina Estensioni." },
+    { "en": "to configure", "pron": "konfìgher", "it": "configurare", "type": "verb", "ex": "You need to configure the email settings.", "exIt": "Devi configurare le impostazioni della posta." },
+    { "en": "setting", "pron": "sèting", "it": "impostazione", "type": "noun", "ex": "Open the privacy settings and turn off tracking.", "exIt": "Apri le impostazioni della privacy e disattiva il tracciamento." },
+    { "en": "option", "pron": "òpscion", "it": "opzione, voce a scelta", "type": "noun", "ex": "Choose the second option from the list.", "exIt": "Scegli la seconda opzione dall'elenco." },
+    { "en": "default", "pron": "difòlt", "it": "predefinito, impostazione di partenza", "type": "adj", "ex": "Leave the default settings as they are.", "exIt": "Lascia le impostazioni predefinite così come sono." },
+    { "en": "to customise", "pron": "kàstomaiz", "it": "personalizzare", "type": "verb", "ex": "You can customise the colours in the theme options.", "exIt": "Puoi personalizzare i colori nelle opzioni del tema." },
+    { "en": "to select", "pron": "silèkt", "it": "selezionare", "type": "verb", "ex": "Select the file you want to open.", "exIt": "Seleziona il file che vuoi aprire." },
+    { "en": "to click", "pron": "klìk", "it": "cliccare", "type": "verb", "ex": "Click the Save button at the bottom of the page.", "exIt": "Clicca sul pulsante Salva in fondo alla pagina." },
+    { "en": "to tick", "pron": "tìk", "it": "spuntare (una casella)", "type": "verb", "ex": "Tick the box to accept the terms.", "exIt": "Spunta la casella per accettare le condizioni." },
+    { "en": "checkbox", "pron": "cècbòks", "it": "casella di controllo", "type": "noun", "ex": "The checkbox must be ticked before you continue.", "exIt": "La casella va spuntata prima di continuare." },
+    { "en": "button", "pron": "bàton", "it": "pulsante", "type": "noun", "ex": "The button is at the top right.", "exIt": "Il pulsante è in alto a destra." },
+    { "en": "menu", "pron": "mèniu", "it": "menu", "type": "noun", "ex": "Open the menu and choose Settings.", "exIt": "Apri il menu e scegli Impostazioni." },
+    { "en": "drop-down list", "pron": "dròp dàun lìst", "it": "menu a tendina", "type": "noun", "ex": "Pick your country from the drop-down list.", "exIt": "Scegli il tuo paese dal menu a tendina." },
+    { "en": "tab", "pron": "tàb", "it": "scheda", "type": "noun", "ex": "Go to the Advanced tab.", "exIt": "Vai alla scheda Avanzate." },
+    { "en": "to scroll", "pron": "skròul", "it": "scorrere (la pagina)", "type": "verb", "ex": "Scroll down until you see the footer.", "exIt": "Scorri in basso finché non vedi il piè di pagina." },
+    { "en": "to navigate", "pron": "nàvigheit", "it": "spostarsi, andare a una sezione", "type": "verb", "ex": "Navigate to Settings, then Security.", "exIt": "Vai in Impostazioni, poi Sicurezza." },
+    { "en": "to type", "pron": "tàip", "it": "digitare, scrivere a tastiera", "type": "verb", "ex": "Type your email address in the box.", "exIt": "Digita il tuo indirizzo email nel riquadro." },
+    { "en": "to enter", "pron": "ènter", "it": "inserire (dati)", "type": "verb", "ex": "Enter your name and your phone number.", "exIt": "Inserisci il tuo nome e il tuo numero di telefono." },
+    { "en": "to enable", "pron": "inèibol", "it": "attivare, abilitare", "type": "verb", "ex": "Enable two-factor authentication for extra security.", "exIt": "Attiva l'autenticazione a due fattori per più sicurezza." },
+    { "en": "to disable", "pron": "disèibol", "it": "disattivare, disabilitare", "type": "verb", "ex": "Disable the plugin and test the page again.", "exIt": "Disattiva il plugin e prova di nuovo la pagina." },
+    { "en": "to log in", "pron": "lòg ìn", "it": "accedere (con nome utente e password)", "type": "verb", "ex": "Log in to the admin area with your username.", "exIt": "Accedi all'area di amministrazione con il tuo nome utente." },
+    { "en": "to log out", "pron": "lòg àut", "it": "uscire dall'account", "type": "verb", "ex": "Don't forget to log out on shared computers.", "exIt": "Non dimenticare di uscire dall'account sui computer condivisi." },
+    { "en": "to sign up", "pron": "sàin àp", "it": "registrarsi", "type": "verb", "ex": "Sign up for a free account.", "exIt": "Registrati per avere un account gratuito." },
+    { "en": "to download", "pron": "dàunloud", "it": "scaricare", "type": "verb", "ex": "Download the installer from our website.", "exIt": "Scarica il programma di installazione dal nostro sito." },
+    { "en": "to upload", "pron": "àploud", "it": "caricare (un file) sul sito", "type": "verb", "ex": "Upload your logo in PNG format.", "exIt": "Carica il tuo logo in formato PNG." },
+    { "en": "to save", "pron": "sèiv", "it": "salvare", "type": "verb", "ex": "Save your changes before you leave the page.", "exIt": "Salva le modifiche prima di lasciare la pagina." },
+    { "en": "to delete", "pron": "dilìit", "it": "cancellare, eliminare", "type": "verb", "ex": "Delete the old file only after you've made a backup.", "exIt": "Elimina il vecchio file solo dopo aver fatto un backup." },
+    { "en": "to undo", "pron": "andùu", "it": "annullare", "type": "verb", "ex": "Press Control and Z to undo the last action.", "exIt": "Premi Control e Z per annullare l'ultima azione." },
+    { "en": "to refresh", "pron": "rifrèsc", "it": "aggiornare la pagina", "type": "verb", "ex": "Refresh the page to see the changes.", "exIt": "Aggiorna la pagina per vedere le modifiche." },
+    { "en": "to restart", "pron": "ristàrt", "it": "riavviare", "type": "verb", "ex": "Restart your computer after the installation.", "exIt": "Riavvia il computer dopo l'installazione." },
+    { "en": "to reset", "pron": "risèt", "it": "reimpostare, azzerare", "type": "verb", "ex": "Reset your password if you can't log in.", "exIt": "Reimposta la password se non riesci ad accedere." },
+    { "en": "to untick", "pron": "antìk", "it": "togliere la spunta", "type": "verb", "ex": "Untick the box to turn off the newsletter.", "exIt": "Togli la spunta dalla casella per disattivare la newsletter." },
+    { "en": "to proceed", "pron": "prosìid", "it": "procedere", "type": "verb", "ex": "You can proceed to the next step.", "exIt": "Puoi passare al passaggio successivo." },
+    { "en": "to skip", "pron": "skìp", "it": "saltare (un passaggio)", "type": "verb", "ex": "You can skip this step if you already have an account.", "exIt": "Puoi saltare questo passaggio se hai già un account." },
+    { "en": "to make sure", "pron": "mèik sciòr", "it": "assicurarsi", "type": "phrase", "ex": "Make sure the file is not bigger than 5 MB.", "exIt": "Assicurati che il file non superi i 5 MB." },
+    { "en": "to double-check", "pron": "dàbol cèk", "it": "ricontrollare", "type": "verb", "ex": "Double-check the address before you press Send.", "exIt": "Ricontrolla l'indirizzo prima di premere Invia." },
+    { "en": "to toggle", "pron": "tògol", "it": "attivare o disattivare (un interruttore)", "type": "verb", "ex": "Toggle the switch to turn on dark mode.", "exIt": "Usa l'interruttore per attivare la modalità scura." },
+    { "en": "prerequisite", "pron": "prirèkuizit", "it": "prerequisito, cosa che serve prima", "type": "noun", "ex": "An admin account is a prerequisite for this step.", "exIt": "Un account di amministratore è un prerequisito per questo passaggio." },
+    { "en": "optional", "pron": "òpscional", "it": "facoltativo", "type": "adj", "ex": "The phone number field is optional.", "exIt": "Il campo del numero di telefono è facoltativo." },
+    { "en": "mandatory", "pron": "màndatori", "it": "obbligatorio", "type": "adj", "ex": "Fields marked with an asterisk are mandatory.", "exIt": "I campi segnati con l'asterisco sono obbligatori." },
+    { "en": "shortcut", "pron": "sciòrtkat", "it": "scorciatoia", "type": "noun", "ex": "Use the keyboard shortcut to save time.", "exIt": "Usa la scorciatoia da tastiera per risparmiare tempo." },
+    { "en": "guide", "pron": "gàid", "it": "guida", "type": "noun", "ex": "I wrote a short guide for your team.", "exIt": "Ho scritto una breve guida per il vostro team." },
+    { "en": "manual", "pron": "màniual", "it": "manuale", "type": "noun", "ex": "The full manual is available in PDF.", "exIt": "Il manuale completo è disponibile in PDF." },
+    { "en": "wizard", "pron": "uìzard", "it": "procedura guidata", "type": "noun", "ex": "The setup wizard will open automatically.", "exIt": "La procedura guidata di configurazione si aprirà da sola." },
+    { "en": "first of all", "pron": "fèrst ov òl", "it": "prima di tutto", "type": "phrase", "ex": "First of all, check that you are logged in.", "exIt": "Prima di tutto controlla di aver effettuato l'accesso." },
+    { "en": "afterwards", "pron": "àfteruerdz", "it": "dopo, in seguito", "type": "adv", "ex": "Afterwards, you'll receive a confirmation email.", "exIt": "In seguito riceverai una mail di conferma." },
+    { "en": "finally", "pron": "fàinali", "it": "infine", "type": "adv", "ex": "Finally, click Publish.", "exIt": "Infine, clicca su Pubblica." }
+  ],
+  "falseFriends": [
+    { "en": "to control", "it": "comandare, gestire, tenere sotto controllo", "trap": "Non vuol dire 'controllare' nel senso di verificare: quello si dice to check. 'Check the settings' = controlla le impostazioni." }
+  ],
+  "grammar": {
+    "title": "Imperativo, ordine dei passaggi e obblighi (must e have to)",
+    "explainIt": [
+      "L'imperativo si usa per dare istruzioni. In inglese è semplicissimo: è il verbo all'infinito senza to. 'Open the file.' 'Click Save.' 'Enter your password.' Non cambia con tu o voi. Per il negativo metti don't prima del verbo: 'Don't close the window.' Per essere più gentile aggiungi please: 'Please restart the computer.'",
+      "Per mettere i passaggi in ordine usa le parole di sequenza. First (o first of all) per il primo passaggio. Then e next per i passaggi in mezzo. After that per il passaggio successivo. Finally o last per l'ultimo. Esempio: 'First, log in. Then, open the Settings menu. After that, click Security. Finally, press Save.' Dopo la parola di sequenza di solito c'è una virgola.",
+      "Quando dai istruzioni a un cliente, l'imperativo può sembrare troppo diretto. Puoi ammorbidirlo con please, con 'you need to' o con 'you can': 'You need to log in first.' 'You can skip this step.' Nelle guide scritte l'imperativo è la forma normale e non è scortese.",
+      "Per gli obblighi usa must e have to. Tutti e due vogliono dire 'devi'. Must è più forte e viene spesso dalla regola o da chi parla: 'You must enter a password.' Have to indica un obbligo esterno, una procedura: 'You have to log in first.' Nella pratica, in una guida, sono quasi intercambiabili. Must non ha passato né futuro: al passato usa had to, al futuro will have to.",
+      "Attenzione ai negativi, che hanno significati diversi. Mustn't vuol dire 'è vietato': 'You mustn't share your password.' Don't have to vuol dire 'non è necessario': 'You don't have to log in again.' In italiano si traducono tutti e due con 'non devi', ma in inglese sono molto diversi. Dopo must il verbo è all'infinito senza to: 'You must enter', non 'You must to enter'."
+    ],
+    "explainEn": [
+      "We use the imperative to give instructions. In English it is very simple: it is the base form of the verb, without to. 'Open the file.' 'Click Save.' 'Enter your password.' It does not change for one person or many. For the negative, put don't before the verb: 'Don't close the window.' To be more polite, add please: 'Please restart the computer.'",
+      "To put the steps in order, use sequence words. First, or first of all, for the first step. Then and next for the middle steps. After that for the following step. Finally or last for the last one. For example: 'First, log in. Then, open the Settings menu. After that, click Security. Finally, press Save.' After a sequence word there is usually a comma.",
+      "When you give instructions to a client, the imperative can sound a little direct. You can make it softer with please, with 'you need to' or with 'you can': 'You need to log in first.' 'You can skip this step.' In written guides the imperative is the normal form and it is not rude.",
+      "For obligation use must and have to. Both mean that something is necessary. Must is stronger and often comes from a rule or from the speaker: 'You must enter a password.' Have to shows an outside obligation, a procedure: 'You have to log in first.' In a guide they are almost the same. Must has no past or future: in the past use had to, in the future use will have to.",
+      "Be careful with the negatives, because they have different meanings. Mustn't means it is forbidden: 'You mustn't share your password.' Don't have to means it is not necessary: 'You don't have to log in again.' In Italian both are translated 'non devi', but in English they are very different. After must we use the base verb without to. After have to we also use the base verb."
+    ],
+    "rules": [
+      {
+        "it": "L'imperativo è l'infinito senza to. Il negativo si fa con don't. Aggiungi please per essere gentile.",
+        "en": "The imperative is the base verb without to. The negative uses don't. Add please to be polite.",
+        "form": "verbo / Don't + verbo",
+        "examples": [
+          { "en": "Open the Settings menu.", "it": "Apri il menu Impostazioni." },
+          { "en": "Don't delete the old file yet.", "it": "Non eliminare ancora il vecchio file." },
+          { "en": "Please check your email.", "it": "Controlla la tua posta, per favore." }
+        ]
+      },
+      {
+        "it": "Le parole di sequenza mettono in ordine i passaggi: first, then, after that, finally.",
+        "en": "Sequence words put the steps in order: first, then, after that, finally.",
+        "form": "First, ... Then, ... After that, ... Finally, ...",
+        "examples": [
+          { "en": "First, download the file. Then, double-click it.", "it": "Prima scarica il file. Poi fai doppio clic." },
+          { "en": "After that, choose your language.", "it": "Dopodiché, scegli la lingua." },
+          { "en": "Finally, restart the browser.", "it": "Infine riavvia il browser." }
+        ]
+      },
+      {
+        "it": "Must e have to esprimono un obbligo. Must è più forte; have to indica una regola o una procedura esterna.",
+        "en": "Must and have to express obligation. Must is stronger; have to shows a rule or procedure from outside.",
+        "form": "must + verbo; have/has to + verbo",
+        "examples": [
+          { "en": "You must enter a valid email address.", "it": "Devi inserire un indirizzo email valido." },
+          { "en": "You have to log in before you can edit the page.", "it": "Devi accedere prima di poter modificare la pagina." },
+          { "en": "We had to restart the server yesterday.", "it": "Ieri abbiamo dovuto riavviare il server.", "note": "passato: had to" }
+        ]
+      },
+      {
+        "it": "Mustn't vuol dire 'è vietato'; don't have to vuol dire 'non è necessario'.",
+        "en": "Mustn't means 'it is forbidden'; don't have to means 'it is not necessary'.",
+        "form": "mustn't + verbo; don't/doesn't have to + verbo",
+        "examples": [
+          { "en": "You mustn't share your password with anyone.", "it": "Non devi (è vietato) condividere la password con nessuno." },
+          { "en": "You don't have to fill in this field.", "it": "Non è necessario compilare questo campo." },
+          { "en": "Do I have to create an account?", "it": "Devo creare un account?" }
+        ]
+      },
+      {
+        "it": "Per ammorbidire un ordine usa 'you need to', 'you can', 'you should' o 'could you...?'.",
+        "en": "To soften an order, use 'you need to', 'you can', 'you should' or 'could you...?'.",
+        "form": "You need to / You can + verbo",
+        "examples": [
+          { "en": "You need to log in first.", "it": "Devi prima accedere." },
+          { "en": "Could you click the blue button, please?", "it": "Potresti cliccare sul pulsante blu, per favore?" }
+        ]
+      }
+    ],
+    "tip": "Una buona guida ha un solo verbo per riga, all'imperativo, e un solo passaggio per volta. Prova a leggere la tua guida come se fossi un cliente che non sa nulla: se ti perdi, aggiungi un passaggio. Per ricordare must e have to: mustn't = vietato, don't have to = facoltativo.",
+    "mistakes": [
+      { "wrong": "You must to enter a password.", "right": "You must enter a password.", "why": "dopo must non si usa to" },
+      { "wrong": "You mustn't log in again, it's already saved.", "right": "You don't have to log in again, it's already saved.", "why": "mustn't = vietato; per dire 'non è necessario' si usa don't have to" },
+      { "wrong": "First of all you are clicking Settings.", "right": "First of all, click Settings.", "why": "nelle istruzioni si usa l'imperativo, non il presente continuo" },
+      { "wrong": "Please to restart the computer.", "right": "Please restart the computer.", "why": "l'imperativo non ha to" },
+      { "wrong": "Yesterday I must restart the server.", "right": "Yesterday I had to restart the server.", "why": "must non ha il passato: si usa had to" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "___ (open) the Settings menu and click Security.", "a": ["open"], "hint": "imperativo", "explain": "Imperativo: verbo base, senza soggetto e senza to." },
+    { "q": "___ (not / close) the window until the installation is finished.", "a": ["don't close", "do not close"], "hint": "negativo", "explain": "Imperativo negativo: don't + verbo." },
+    { "q": "First, log in. ___, open the menu.", "a": ["then", "next"], "hint": "parola di sequenza", "explain": "Dopo il primo passaggio si usa then o next." },
+    { "q": "___, press Save. (ultimo passaggio)", "a": ["finally", "last", "lastly"], "hint": "ultimo passaggio", "explain": "Per l'ultimo passaggio: finally o last." },
+    { "q": "You ___ enter a password. It's required.", "a": ["must", "have to", "need to"], "hint": "obbligo", "explain": "Obbligo: must o have to." },
+    { "q": "You ___ share your password with anyone. It's forbidden.", "a": ["mustn't", "must not"], "hint": "vietato", "explain": "Mustn't = è vietato." },
+    { "q": "You ___ fill in the phone field. It's optional.", "a": ["don't have to", "do not have to", "needn't", "don't need to"], "hint": "non necessario", "explain": "Don't have to = non è necessario." },
+    { "q": "Yesterday I ___ restart the server.", "a": ["had to"], "hint": "passato", "explain": "Must non ha il passato: had to." },
+    { "q": "___ I have to create an account to download the file?", "a": ["do"], "hint": "domanda con have to", "explain": "Domanda con have to: Do I have to...?" },
+    { "q": "___ (please / restart) the computer after the installation.", "a": ["please restart", "restart"], "hint": "gentile", "explain": "Imperativo con please." },
+    { "q": "She ___ sign the form before Friday. (obbligo, 3a persona)", "a": ["has to", "must"], "hint": "he/she/it", "explain": "Con she si usa has to; must resta uguale." },
+    { "q": "First of all, ___ (make) sure the file is saved.", "a": ["make"], "hint": "imperativo", "explain": "Imperativo: make sure." }
+  ],
+  "phrases": [
+    { "group": "Aprire una guida", "en": "Follow these steps to set up your account.", "it": "Segui questi passaggi per configurare il tuo account." },
+    { "group": "Aprire una guida", "en": "It only takes a few minutes.", "it": "Ci vogliono solo pochi minuti." },
+    { "group": "Aprire una guida", "en": "Before you start, make sure you have your login details.", "it": "Prima di iniziare, assicurati di avere i dati di accesso." },
+    { "group": "Aprire una guida", "en": "You will need a modern browser.", "it": "Ti servirà un browser moderno." },
+    { "group": "Ordinare i passaggi", "en": "First of all, log in to the admin area.", "it": "Prima di tutto, accedi all'area di amministrazione." },
+    { "group": "Ordinare i passaggi", "en": "Then, go to Settings and click General.", "it": "Poi vai in Impostazioni e clicca su Generali." },
+    { "group": "Ordinare i passaggi", "en": "After that, enter the new address in the box.", "it": "Dopodiché, inserisci il nuovo indirizzo nel riquadro." },
+    { "group": "Ordinare i passaggi", "en": "Once you've done that, save your changes.", "it": "Una volta fatto, salva le modifiche.", "note": "once = dopo che, appena" },
+    { "group": "Ordinare i passaggi", "en": "Finally, check that everything works.", "it": "Infine, controlla che tutto funzioni." },
+    { "group": "Dare istruzioni sullo schermo", "en": "Click the blue button in the top right corner.", "it": "Clicca sul pulsante blu in alto a destra." },
+    { "group": "Dare istruzioni sullo schermo", "en": "Scroll down to the bottom of the page.", "it": "Scorri fino in fondo alla pagina." },
+    { "group": "Dare istruzioni sullo schermo", "en": "Choose an option from the drop-down list.", "it": "Scegli un'opzione dal menu a tendina." },
+    { "group": "Dare istruzioni sullo schermo", "en": "Tick the box and press Continue.", "it": "Spunta la casella e premi Continua." },
+    { "group": "Dare istruzioni sullo schermo", "en": "Can you see the menu on the left?", "it": "Vedi il menu sulla sinistra?" },
+    { "group": "Avvertire e consigliare", "en": "Make sure you save your work first.", "it": "Assicurati di salvare prima il lavoro." },
+    { "group": "Avvertire e consigliare", "en": "Don't forget to log out afterwards.", "it": "Non dimenticare di uscire dall'account dopo." },
+    { "group": "Avvertire e consigliare", "en": "Be careful: this action cannot be undone.", "it": "Attenzione: questa azione non si può annullare." },
+    { "group": "Avvertire e consigliare", "en": "You must not share your password.", "it": "Non devi condividere la password.", "note": "must not = divieto" },
+    { "group": "Avvertire e consigliare", "en": "You don't have to do this step if you already have an account.", "it": "Non serve fare questo passaggio se hai già un account." },
+    { "group": "Controllare con il cliente", "en": "Did that work?", "it": "Ha funzionato?" },
+    { "group": "Controllare con il cliente", "en": "Let me know if you get stuck.", "it": "Dimmi se ti blocchi." },
+    { "group": "Controllare con il cliente", "en": "What can you see on your screen now?", "it": "Cosa vedi ora sullo schermo?" },
+    { "group": "Controllare con il cliente", "en": "Could you try refreshing the page?", "it": "Puoi provare ad aggiornare la pagina?" },
+    { "group": "Controllare con il cliente", "en": "Don't worry, it's easy to undo.", "it": "Non preoccuparti, è facile annullare." },
+    { "group": "Controllare con il cliente", "en": "That's it! You're all set.", "it": "Ecco fatto! È tutto pronto." }
+  ],
+  "dialogue": {
+    "title": "Helping a client over the phone",
+    "context": "Una cliente, Elena, deve cambiare la foto del profilo nell'area riservata del suo sito. Luca la guida per telefono, passo dopo passo.",
+    "lines": [
+      { "s": "A", "name": "Elena", "en": "Hi Luca, I need to change the picture on my profile page, but I can't find where.", "it": "Ciao Luca, devo cambiare la foto sulla mia pagina del profilo, ma non trovo dove." },
+      { "s": "B", "name": "Luca", "en": "No problem, it's easy. First of all, are you logged in?", "it": "Nessun problema, è facile. Prima di tutto, hai fatto l'accesso?" },
+      { "s": "A", "name": "Elena", "en": "Yes, I can see my name at the top right.", "it": "Sì, vedo il mio nome in alto a destra." },
+      { "s": "B", "name": "Luca", "en": "Great. Click on your name, and a menu will open. Can you see it?", "it": "Bene. Clicca sul tuo nome e si aprirà un menu. Lo vedi?" },
+      { "s": "A", "name": "Elena", "en": "Yes. There's a list with Profile, Settings and Log out.", "it": "Sì. C'è un elenco con Profilo, Impostazioni e Esci." },
+      { "s": "B", "name": "Luca", "en": "Choose Profile. Then scroll down a little until you see your picture.", "it": "Scegli Profilo. Poi scorri un po' in basso finché vedi la tua foto." },
+      { "s": "A", "name": "Elena", "en": "Okay, I see it. There's a button called Change.", "it": "Ok, la vedo. C'è un pulsante che si chiama Cambia." },
+      { "s": "B", "name": "Luca", "en": "Click it. After that, select the new picture from your computer.", "it": "Cliccaci sopra. Poi seleziona la nuova foto dal tuo computer." },
+      { "s": "A", "name": "Elena", "en": "Do I have to resize it first?", "it": "Devo ridimensionarla prima?" },
+      { "s": "B", "name": "Luca", "en": "You don't have to. The site does it for you. But the file mustn't be bigger than 2 MB.", "it": "Non serve. Lo fa il sito. Ma il file non deve superare i 2 MB." },
+      { "s": "A", "name": "Elena", "en": "Mine is 800 KB, so that's fine. It's uploading now.", "it": "Il mio è di 800 KB, quindi va bene. Si sta caricando." },
+      { "s": "B", "name": "Luca", "en": "Perfect. Now make sure you press Save. Many people forget this step.", "it": "Perfetto. Ora assicurati di premere Salva. Molti dimenticano questo passaggio." },
+      { "s": "A", "name": "Elena", "en": "Done. It says the changes were saved.", "it": "Fatto. Dice che le modifiche sono state salvate." },
+      { "s": "B", "name": "Luca", "en": "Finally, refresh the page to double-check. Can you see the new picture?", "it": "Infine, aggiorna la pagina per ricontrollare. Vedi la nuova foto?" },
+      { "s": "A", "name": "Elena", "en": "Yes! That's it. Thank you so much.", "it": "Sì! Ecco fatto. Grazie mille." },
+      { "s": "B", "name": "Luca", "en": "You're welcome. Don't forget to log out if you're on a shared computer.", "it": "Prego. Non dimenticare di uscire dall'account se usi un computer condiviso." }
+    ]
+  },
+  "listening": [
+    { "q": "What does Elena want to change?", "options": ["Her password", "Her profile picture", "Her email address"], "answer": 1 },
+    { "q": "Does Elena have to resize the picture first?", "options": ["Yes, she must", "No, the site does it for her", "Only on a phone"], "answer": 1 },
+    { "q": "What is the maximum size of the file?", "options": ["2 MB", "800 KB", "5 MB"], "answer": 0 },
+    { "q": "What does Luca say many people forget?", "options": ["To log out", "To press Save", "To refresh the page"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Prima di tutto, accedi all'area di amministrazione.", "en": "First of all, log in to the admin area.", "alt": ["First, log in to the admin area.", "First of all, log into the admin area."] },
+    { "it": "Poi vai in Impostazioni e clicca su Sicurezza.", "en": "Then go to Settings and click Security.", "alt": ["Then, go to Settings and click on Security.", "Next, go to Settings and click Security."] },
+    { "it": "Infine, salva le modifiche.", "en": "Finally, save your changes.", "alt": ["Finally, save the changes.", "Last, save your changes."] },
+    { "it": "Devi inserire un indirizzo email valido.", "en": "You must enter a valid email address.", "alt": ["You have to enter a valid email address.", "You need to enter a valid email address."] },
+    { "it": "Non devi condividere la password con nessuno.", "en": "You mustn't share your password with anyone.", "alt": ["You must not share your password with anyone.", "Never share your password with anyone."] },
+    { "it": "Non è necessario creare un account.", "en": "You don't have to create an account.", "alt": ["You do not have to create an account.", "You don't need to create an account."] },
+    { "it": "Assicurati che il file non superi i 5 MB.", "en": "Make sure the file is not bigger than 5 MB.", "alt": ["Make sure the file isn't bigger than 5 MB.", "Make sure the file is smaller than 5 MB."] },
+    { "it": "Ieri ho dovuto riavviare il server.", "en": "Yesterday I had to restart the server.", "alt": ["I had to restart the server yesterday."] },
+    { "it": "Scorri in basso e spunta la casella.", "en": "Scroll down and tick the box.", "alt": ["Scroll down and check the box.", "Scroll down and tick the checkbox."] },
+    { "it": "Non chiudere la finestra finché l'installazione non è finita.", "en": "Don't close the window until the installation is finished.", "alt": ["Don't close the window until the installation has finished.", "Do not close the window until the installation is complete."] },
+    { "it": "Ho scritto una breve guida per il vostro team.", "en": "I've written a short guide for your team.", "alt": ["I wrote a short guide for your team.", "I have written a short guide for your team."] },
+    { "it": "Dimmi se ti blocchi.", "en": "Let me know if you get stuck.", "alt": ["Tell me if you get stuck.", "Let me know if you're stuck."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente deve cambiare la password dell'area riservata del suo sito, ma non è pratico di computer. Scrivi una mail con una piccola guida di 5 o 6 passaggi. Usa l'imperativo e le parole first, then, after that, finally. Metti almeno un 'make sure', un 'you must' e un 'you don't have to'. Chiudi dicendo che può scriverti se si blocca.",
+    "taskEn": "A client needs to change the password for the private area of their website, but they are not very good with computers. Write an email with a short guide of 5 or 6 steps. Use the imperative and the words first, then, after that, finally. Include at least one 'make sure', one 'you must' and one 'you don't have to'. Finish by saying they can write to you if they get stuck.",
+    "model": "Subject: How to change your password\n\nDear Marco,\n\nHere is a short guide. It only takes two minutes.\n\n1. First of all, go to the login page and enter your username.\n2. Then click the link called Forgot password.\n3. After that, type your email address and press Send.\n4. Open the email we send you and click the link inside. You must do this within one hour.\n5. Enter your new password twice. Make sure it has at least 12 characters.\n6. Finally, press Save and log in with your new password.\n\nYou don't have to remember the old password. Please don't share the new one with anyone.\n\nLet me know if you get stuck, and I'll help you over the phone.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "First of all, log in to the admin area.",
+      "Then click the blue button in the top right corner.",
+      "After that, choose an option from the drop-down list.",
+      "Finally, press Save and refresh the page.",
+      "You must enter a valid email address.",
+      "You mustn't share your password with anyone.",
+      "You don't have to fill in this field.",
+      "Let me know if you get stuck."
+    ],
+    "prompts": [
+      { "en": "Explain how to send a file by email, step by step.", "it": "Spiega come mandare un file per mail, passo dopo passo.", "help": "Inizia con: First of all, open your email. Then, click New message..." },
+      { "en": "How do you install a program on your computer?", "it": "Come si installa un programma sul computer?", "help": "Usa: First, download... Then, double-click... After that... Finally..." },
+      { "en": "Give me three rules that every user must follow on your website.", "it": "Dimmi tre regole che ogni utente deve rispettare sul tuo sito.", "help": "Usa: You must... You mustn't... You have to..." },
+      { "en": "What don't you have to do when you work from home?", "it": "Cosa non serve fare quando lavori da casa?", "help": "Usa: I don't have to... because..." },
+      { "en": "Guide me through changing a setting on your phone.", "it": "Guidami nel cambiare un'impostazione sul tuo telefono.", "help": "Usa: Open Settings. Scroll down. Tap... Then..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: dare istruzioni",
+      "show": ["Explaining procedures", "Imperativo, sequenza, obblighi"],
+      "say": [
+        { "lang": "it", "text": "Oggi impari a spiegare una procedura passo dopo passo, in modo che chiunque ti capisca. Vediamo l'imperativo, le parole di sequenza e i verbi di obbligo." },
+        { "lang": "en", "text": "Follow these steps to set up your account." }
+      ]
+    },
+    {
+      "title": "L'imperativo",
+      "show": ["Open the file.", "Click Save.", "Don't close the window.", "Please restart."],
+      "say": [
+        { "lang": "it", "text": "L'imperativo in inglese è il verbo senza to. Non cambia mai. Per il negativo metti don't prima del verbo. Aggiungi please per essere gentile." },
+        { "lang": "en", "text": "Open the file. Click Save. Don't close the window. Please restart the computer." }
+      ]
+    },
+    {
+      "title": "Mettere i passaggi in ordine",
+      "show": ["First,", "Then,", "After that,", "Finally,"],
+      "say": [
+        { "lang": "it", "text": "Per dare ordine alle istruzioni usa first, then, after that e finally. Dopo la parola di sequenza metti una virgola." },
+        { "lang": "en", "text": "First, log in. Then, open the Settings menu. After that, click Security. Finally, press Save." }
+      ]
+    },
+    {
+      "title": "Must e have to",
+      "show": ["must + verbo", "have to + verbo", "passato: had to"],
+      "say": [
+        { "lang": "it", "text": "Must e have to vogliono dire devi. Must è più forte. Have to indica una regola o una procedura. Dopo must non si mette to. Al passato usa had to." },
+        { "lang": "en", "text": "You must enter a password. You have to log in first. Yesterday I had to restart the server." }
+      ]
+    },
+    {
+      "title": "Mustn't e don't have to",
+      "show": ["mustn't = vietato", "don't have to = non serve"],
+      "say": [
+        { "lang": "it", "text": "Attenzione: i due negativi sono molto diversi. Mustn't vuol dire che è vietato. Don't have to vuol dire che non è necessario." },
+        { "lang": "en", "text": "You mustn't share your password. You don't have to log in again." }
+      ]
+    },
+    {
+      "title": "Errori da evitare",
+      "show": ["No: must to enter", "Sì: must enter", "No: Please to restart", "Sì: Please restart"],
+      "say": [
+        { "lang": "it", "text": "Due errori molto comuni. Non mettere to dopo must. E non mettere to dopo please nell'imperativo." },
+        { "lang": "en", "text": "You must enter a password. Please restart the computer." }
+      ]
+    },
+    {
+      "title": "Espressioni per guidare un cliente",
+      "show": ["Can you see the menu on the left?", "Did that work?", "Let me know if you get stuck.", "That's it! You're all set."],
+      "say": [
+        { "lang": "it", "text": "Quando guidi un cliente al telefono, controlla spesso che ti stia seguendo. Ecco quattro frasi utili." },
+        { "lang": "en", "text": "Can you see the menu on the left? Did that work? Let me know if you get stuck. That's it! You're all set." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["imperativo = verbo senza to", "first, then, after that, finally", "must / have to / mustn't / don't have to"],
+      "say": [
+        { "lang": "it", "text": "Ricapitolando. Usa l'imperativo per le istruzioni. Metti i passaggi in ordine con le parole di sequenza. Ricorda la differenza tra mustn't e don't have to." },
+        { "lang": "en", "text": "First of all, make sure you save your work. You don't have to do anything else." },
+        { "lang": "it", "text": "Ora prova a spiegare a voce alta una procedura che conosci bene." }
+      ]
+    }
+  ]
+}

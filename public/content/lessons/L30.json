@@ -1,0 +1,1227 @@
+{
+  "id": 30,
+  "week": 6,
+  "title": "Scrivere mail perfette",
+  "titleEn": "Writing perfect emails",
+  "intro": "Oggi metti insieme tutto quello che hai imparato per scrivere mail chiare e senza errori. Impari l'ordine delle parole in inglese, la punteggiatura (virgola, apostrofo, punto) e come scrivere frasi brevi. Impari anche a scegliere oggetto, tono e formule di chiusura per ogni situazione.",
+  "goals": [
+    "Scrivere un oggetto chiaro e un'apertura adatta al destinatario",
+    "Rispettare l'ordine delle parole inglese: soggetto, verbo, oggetto, luogo, tempo",
+    "Usare bene virgola, apostrofo e punto, ed evitare gli errori più comuni",
+    "Scrivere mail di sollecito, scuse e follow-up con un tono educato e diretto"
+  ],
+  "words": [
+    {
+      "en": "subject line",
+      "pron": "sàbgekt làin",
+      "it": "oggetto della mail",
+      "type": "noun",
+      "ex": "A clear subject line gets your email read.",
+      "exIt": "Un oggetto chiaro fa leggere la tua mail."
+    },
+    {
+      "en": "greeting",
+      "pron": "grìiting",
+      "it": "saluto iniziale",
+      "type": "noun",
+      "ex": "Use a simple greeting, such as 'Hi Sarah'.",
+      "exIt": "Usa un saluto semplice, come 'Hi Sarah'."
+    },
+    {
+      "en": "salutation",
+      "pron": "saliutèiscian",
+      "it": "formula di apertura, saluto formale",
+      "type": "noun",
+      "ex": "'Dear Ms Brown' is a formal salutation.",
+      "exIt": "'Dear Ms Brown' è una formula di apertura formale."
+    },
+    {
+      "en": "recipient list",
+      "pron": "risìpiant lìst",
+      "it": "elenco dei destinatari",
+      "type": "noun",
+      "ex": "Check the recipient list before you send.",
+      "exIt": "Controlla l'elenco dei destinatari prima di inviare."
+    },
+    {
+      "en": "tone",
+      "pron": "tòun",
+      "it": "tono",
+      "type": "noun",
+      "ex": "The tone of your email should match the situation.",
+      "exIt": "Il tono della tua mail dovrebbe adattarsi alla situazione."
+    },
+    {
+      "en": "recipient",
+      "pron": "risìpiant",
+      "it": "destinatario",
+      "type": "noun",
+      "ex": "Check the recipient before you press send.",
+      "exIt": "Controlla il destinatario prima di premere invio."
+    },
+    {
+      "en": "cc",
+      "pron": "sii sìi",
+      "it": "copia conoscenza",
+      "type": "noun",
+      "ex": "I'll put my manager in cc.",
+      "exIt": "Metterò in copia il mio responsabile."
+    },
+    {
+      "en": "bcc",
+      "pron": "bìi sii sìi",
+      "it": "copia nascosta",
+      "type": "noun",
+      "ex": "Use bcc for a long list of clients.",
+      "exIt": "Usa la copia nascosta per un lungo elenco di clienti."
+    },
+    {
+      "en": "thread",
+      "pron": "trèd",
+      "it": "conversazione, catena di mail",
+      "type": "noun",
+      "ex": "Please read the whole thread first.",
+      "exIt": "Per favore leggi prima tutta la catena di mail."
+    },
+    {
+      "en": "sender",
+      "pron": "sèndar",
+      "it": "mittente",
+      "type": "noun",
+      "ex": "The sender's address looked strange.",
+      "exIt": "L'indirizzo del mittente sembrava strano."
+    },
+    {
+      "en": "typo",
+      "pron": "tàipou",
+      "it": "refuso, errore di battitura",
+      "type": "noun",
+      "ex": "There is a typo in the subject line.",
+      "exIt": "C'è un refuso nell'oggetto."
+    },
+    {
+      "en": "follow-up",
+      "pron": "fòlou àp",
+      "it": "messaggio di seguito, sollecito",
+      "type": "noun",
+      "ex": "I'm writing a follow-up to my email from Monday.",
+      "exIt": "Scrivo un seguito alla mia mail di lunedì."
+    },
+    {
+      "en": "inbox",
+      "pron": "ìnboks",
+      "it": "posta in arrivo",
+      "type": "noun",
+      "ex": "My inbox is full of unread emails.",
+      "exIt": "La mia posta in arrivo è piena di mail non lette."
+    },
+    {
+      "en": "thanks in advance",
+      "pron": "tànks in advàans",
+      "it": "grazie in anticipo",
+      "type": "phrase",
+      "ex": "Thanks in advance for your help.",
+      "exIt": "Grazie in anticipo per il tuo aiuto."
+    },
+    {
+      "en": "paragraph",
+      "pron": "pàragraaf",
+      "it": "paragrafo, capoverso",
+      "type": "noun",
+      "ex": "Keep each paragraph to three or four lines.",
+      "exIt": "Mantieni ogni paragrafo entro tre o quattro righe."
+    },
+    {
+      "en": "punctuation",
+      "pron": "pankciuèiscian",
+      "it": "punteggiatura",
+      "type": "noun",
+      "ex": "Good punctuation makes your email easy to read.",
+      "exIt": "Una buona punteggiatura rende la mail facile da leggere."
+    },
+    {
+      "en": "comma",
+      "pron": "kòma",
+      "it": "virgola",
+      "type": "noun",
+      "ex": "Put a comma after the greeting.",
+      "exIt": "Metti una virgola dopo il saluto."
+    },
+    {
+      "en": "full stop",
+      "pron": "fùl stòp",
+      "it": "punto (britannico)",
+      "type": "noun",
+      "ex": "End every sentence with a full stop.",
+      "exIt": "Chiudi ogni frase con un punto."
+    },
+    {
+      "en": "apostrophe",
+      "pron": "apòstrafi",
+      "it": "apostrofo",
+      "type": "noun",
+      "ex": "'It's' has an apostrophe, but 'its' does not.",
+      "exIt": "'It's' ha l'apostrofo, ma 'its' no."
+    },
+    {
+      "en": "capital letter",
+      "pron": "kàpital lètar",
+      "it": "lettera maiuscola",
+      "type": "noun",
+      "ex": "Days and months start with a capital letter.",
+      "exIt": "I giorni e i mesi iniziano con la lettera maiuscola."
+    },
+    {
+      "en": "word order",
+      "pron": "uèrd òordar",
+      "it": "ordine delle parole",
+      "type": "noun",
+      "ex": "English word order is quite fixed.",
+      "exIt": "L'ordine delle parole in inglese è piuttosto fisso."
+    },
+    {
+      "en": "run-on sentence",
+      "pron": "ràn òn sèntans",
+      "it": "frase che ne unisce due senza la punteggiatura giusta",
+      "type": "noun",
+      "ex": "A run-on sentence is hard to read.",
+      "exIt": "Una frase che ne unisce due senza punteggiatura è difficile da leggere."
+    },
+    {
+      "en": "out-of-office reply",
+      "pron": "àut ov òfis riplài",
+      "it": "risposta automatica di assenza",
+      "type": "noun",
+      "ex": "I'm on holiday, so I set an out-of-office reply.",
+      "exIt": "Sono in vacanza, quindi ho impostato la risposta automatica."
+    },
+    {
+      "en": "regards",
+      "pron": "rigàards",
+      "it": "cordiali saluti",
+      "type": "noun",
+      "ex": "Best regards, Luca",
+      "exIt": "Cordiali saluti, Luca"
+    },
+    {
+      "en": "to reply all",
+      "pron": "riplài òol",
+      "it": "rispondere a tutti",
+      "type": "phrase",
+      "ex": "Please don't reply all to this message.",
+      "exIt": "Per favore non rispondere a tutti su questo messaggio."
+    },
+    {
+      "en": "gentle reminder",
+      "pron": "gièntol rimàindar",
+      "it": "cortese promemoria, sollecito gentile",
+      "type": "phrase",
+      "ex": "This is just a gentle reminder about Friday's deadline.",
+      "exIt": "È solo un cortese promemoria sulla scadenza di venerdì."
+    },
+    {
+      "en": "to loop in",
+      "pron": "lùup ìn",
+      "it": "mettere in copia, coinvolgere",
+      "type": "phrase",
+      "ex": "I'll loop in our designer.",
+      "exIt": "Metterò in copia la nostra designer."
+    },
+    {
+      "en": "spam folder",
+      "pron": "spàm fòuldar",
+      "it": "cartella dello spam",
+      "type": "noun",
+      "ex": "Please check your spam folder. My email may be there.",
+      "exIt": "Controlla la cartella dello spam: la mia mail potrebbe essere lì."
+    },
+    {
+      "en": "to unsubscribe",
+      "pron": "ansabscràib",
+      "it": "annullare l'iscrizione",
+      "type": "verb",
+      "ex": "Click the link to unsubscribe from the newsletter.",
+      "exIt": "Clicca sul link per annullare l'iscrizione alla newsletter."
+    },
+    {
+      "en": "boilerplate",
+      "pron": "bòilarpleit",
+      "it": "testo standard riutilizzabile",
+      "type": "noun",
+      "ex": "I keep a boilerplate paragraph about my services.",
+      "exIt": "Ho un paragrafo standard sui miei servizi."
+    },
+    {
+      "en": "phishing",
+      "pron": "fìscing",
+      "it": "truffa via mail (phishing)",
+      "type": "noun",
+      "ex": "That email looks like a phishing attempt.",
+      "exIt": "Quella mail sembra un tentativo di phishing."
+    },
+    {
+      "en": "autocorrect",
+      "pron": "òotakarekt",
+      "it": "correzione automatica",
+      "type": "noun",
+      "ex": "Autocorrect changed the client's name by mistake.",
+      "exIt": "La correzione automatica ha cambiato per errore il nome del cliente."
+    },
+    {
+      "en": "spellcheck",
+      "pron": "spèlcek",
+      "it": "controllo ortografico",
+      "type": "noun",
+      "ex": "Run the spellcheck before you send it.",
+      "exIt": "Fai il controllo ortografico prima di inviare."
+    },
+    {
+      "en": "scannable",
+      "pron": "skànabol",
+      "it": "facile da scorrere",
+      "type": "adj",
+      "ex": "Use short paragraphs to make your email scannable.",
+      "exIt": "Usa paragrafi brevi per rendere la mail facile da scorrere."
+    },
+    {
+      "en": "rambling",
+      "pron": "ràmbling",
+      "it": "sconclusionato, che divaga",
+      "type": "adj",
+      "ex": "The email was long and rambling.",
+      "exIt": "La mail era lunga e divagava."
+    },
+    {
+      "en": "to skim",
+      "pron": "skìm",
+      "it": "scorrere in fretta, leggere di sfuggita",
+      "type": "verb",
+      "ex": "Most people skim emails.",
+      "exIt": "La maggior parte delle persone scorre le mail in fretta."
+    },
+    {
+      "en": "polite",
+      "pron": "palàit",
+      "it": "educato",
+      "type": "adj",
+      "ex": "A polite email gets a faster answer.",
+      "exIt": "Una mail educata riceve una risposta più rapida."
+    },
+    {
+      "en": "blunt",
+      "pron": "blànt",
+      "it": "brusco, troppo diretto",
+      "type": "adj",
+      "ex": "'Send it now' sounds blunt.",
+      "exIt": "'Send it now' suona brusco."
+    },
+    {
+      "en": "courteous",
+      "pron": "kèrtias",
+      "it": "cortese",
+      "type": "adj",
+      "ex": "Stay courteous, even when you are annoyed.",
+      "exIt": "Resta cortese, anche quando sei infastidito."
+    },
+    {
+      "en": "signature block",
+      "pron": "sìgnaciar blòk",
+      "it": "firma completa con recapiti",
+      "type": "noun",
+      "ex": "Add your phone number to your signature block.",
+      "exIt": "Aggiungi il tuo numero di telefono alla firma."
+    },
+    {
+      "en": "vague",
+      "pron": "vèig",
+      "it": "vago",
+      "type": "adj",
+      "ex": "'Soon' is too vague. Give a date.",
+      "exIt": "'Presto' è troppo vago. Indica una data."
+    },
+    {
+      "en": "numbered list",
+      "pron": "nàmbard lìst",
+      "it": "elenco numerato",
+      "type": "noun",
+      "ex": "Use a numbered list for the steps.",
+      "exIt": "Usa un elenco numerato per i passaggi."
+    },
+    {
+      "en": "friendly",
+      "pron": "frèndli",
+      "it": "cordiale, amichevole",
+      "type": "adj",
+      "ex": "The tone is friendly but professional.",
+      "exIt": "Il tono è cordiale ma professionale."
+    },
+    {
+      "en": "at your earliest convenience",
+      "pron": "at ior èrliast konvìinians",
+      "it": "appena le è possibile",
+      "type": "phrase",
+      "ex": "Please reply at your earliest convenience.",
+      "exIt": "La prego di rispondere appena le è possibile."
+    },
+    {
+      "en": "ASAP",
+      "pron": "èi es èi pìi",
+      "it": "il prima possibile",
+      "type": "phrase",
+      "ex": "Can you send me the file ASAP?",
+      "exIt": "Puoi mandarmi il file il prima possibile?"
+    },
+    {
+      "en": "FYI",
+      "pron": "èf uai ài",
+      "it": "per tua informazione",
+      "type": "phrase",
+      "ex": "FYI, the meeting has moved to Thursday.",
+      "exIt": "Per tua informazione, la riunione è stata spostata a giovedì."
+    },
+    {
+      "en": "EOD",
+      "pron": "ii ou dìi",
+      "it": "entro fine giornata",
+      "type": "phrase",
+      "ex": "I'll send you the report by EOD.",
+      "exIt": "Ti manderò il report entro fine giornata."
+    },
+    {
+      "en": "further to",
+      "pron": "fèrdar tu",
+      "it": "facendo seguito a",
+      "type": "phrase",
+      "ex": "Further to our call, here is the summary.",
+      "exIt": "Facendo seguito alla nostra telefonata, ecco la sintesi."
+    },
+    {
+      "en": "just a quick note",
+      "pron": "giàst a kuìk nòut",
+      "it": "solo due righe veloci",
+      "type": "phrase",
+      "ex": "Just a quick note to say thank you.",
+      "exIt": "Solo due righe per dire grazie."
+    },
+    {
+      "en": "please note",
+      "pron": "plìiz nòut",
+      "it": "si noti che, tenga presente",
+      "type": "phrase",
+      "ex": "Please note that the office is closed on Friday.",
+      "exIt": "Tenga presente che l'ufficio è chiuso venerdì."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "sympathetic",
+      "it": "comprensivo",
+      "trap": "Non vuol dire 'simpatico' (= nice, friendly). Per dire 'simpatico' usa nice o friendly."
+    },
+    {
+      "en": "to pretend",
+      "it": "fingere",
+      "trap": "Non vuol dire 'pretendere' (= to demand, to expect)."
+    },
+    {
+      "en": "annoyed / annoying",
+      "it": "infastidito / fastidioso",
+      "trap": "Con le persone che provano il sentimento si usa -ed (I am annoyed). Con ciò che lo causa si usa -ing (This is annoying)."
+    }
+  ],
+  "grammar": {
+    "title": "Ordine delle parole, punteggiatura e frasi brevi",
+    "explainIt": [
+      "In italiano puoi spostare le parole come vuoi. In inglese l'ordine è molto più fisso. La frase base è soggetto + verbo + oggetto: 'I sent the file.' Non puoi dire 'Sent I the file'. Il soggetto c'è sempre: non puoi dire 'Is raining' o 'Sent the file', serve 'It is raining' e 'I sent the file'.",
+      "Dopo l'oggetto di solito arrivano il luogo e poi il tempo: 'I will send the report to the client on Monday.' Gli avverbi di frequenza (always, never, often, usually) stanno prima del verbo principale, dopo be e dopo l'ausiliare (we have never missed): 'I always check the address.' 'She is never late.' L'aggettivo sta prima del nome: 'a clear subject line', non 'a subject line clear'.",
+      "Le domande hanno l'ordine ausiliare + soggetto + verbo: 'When will you send it?' Nelle domande indirette l'ordine torna normale: 'Could you tell me when you will send it?' e non 'when will you send it'.",
+      "La punteggiatura è più semplice dell'italiano ma ha regole diverse. La virgola va dopo il saluto (Hi Sarah,), dopo un'apertura (However, Unfortunately,) e prima di and, but, so quando uniscono due frasi complete. Non si mette la virgola davanti a that: 'I think that it is ready.' Non si uniscono due frasi con la sola virgola: è un errore chiamato comma splice.",
+      "L'apostrofo ha due usi. Serve per le contrazioni: it's = it is, you're = you are, I've = I have. Serve per il possesso: the client's website. Attenzione a its (di esso) e it's (it is), your (tuo) e you're (you are), their (loro), there (lì) e they're (they are).",
+      "Per le frasi brevi: una frase, un'idea. Una buona frase di una mail ha 15-20 parole. Usa verbi attivi ('I will send the file') al posto di giri lunghi ('The file will be sent by me'). Se una frase è lunga, dividila con un punto. Metti la richiesta principale nelle prime due righe e, se serve, una scadenza precisa."
+    ],
+    "explainEn": [
+      "In Italian you can move words around freely. In English, the order is much more fixed. The basic sentence is subject + verb + object: 'I sent the file.' You cannot say 'Sent I the file'. The subject is always there: you cannot say 'Is raining' or 'Sent the file'. You need 'It is raining' and 'I sent the file'.",
+      "After the object, we usually put the place and then the time: 'I will send the report to the client on Monday.' Adverbs of frequency (always, never, often, usually) go before the main verb, after be and after an auxiliary (we have never missed): 'I always check the address.' 'She is never late.' The adjective goes before the noun: 'a clear subject line', not 'a subject line clear'.",
+      "Questions have the order auxiliary + subject + verb: 'When will you send it?' In indirect questions, the order goes back to normal: 'Could you tell me when you will send it?' and not 'when will you send it'.",
+      "Punctuation is simpler than in Italian, but the rules are different. Use a comma after the greeting (Hi Sarah,), after an opening word (However, Unfortunately,) and before and, but, so when they join two complete sentences. Do not put a comma before that: 'I think that it is ready.' Do not join two sentences with only a comma: this mistake is called a comma splice.",
+      "The apostrophe has two uses. It shows contractions: it's = it is, you're = you are, I've = I have. It shows possession: the client's website. Be careful with its (belonging to it) and it's (it is), your (belonging to you) and you're (you are), their (belonging to them), there (in that place) and they're (they are).",
+      "For short sentences: one sentence, one idea. A good email sentence has 15 to 20 words. Use active verbs ('I will send the file') instead of long forms ('The file will be sent by me'). If a sentence is long, divide it with a full stop. Put your main request in the first two lines and, if needed, a clear deadline."
+    ],
+    "rules": [
+      {
+        "it": "Ordine base: soggetto + verbo + oggetto + luogo + tempo. Il soggetto non si omette mai.",
+        "en": "Basic order: subject + verb + object + place + time. The subject is never left out.",
+        "form": "S + V + O + luogo + tempo",
+        "examples": [
+          {
+            "en": "I sent the report to the client on Monday.",
+            "it": "Ho mandato il report al cliente lunedì."
+          },
+          {
+            "en": "We will meet in the office at nine.",
+            "it": "Ci incontreremo in ufficio alle nove."
+          },
+          {
+            "en": "It is important to reply today.",
+            "it": "È importante rispondere oggi."
+          }
+        ]
+      },
+      {
+        "it": "Gli avverbi di frequenza vanno prima del verbo principale e dopo be.",
+        "en": "Adverbs of frequency go before the main verb and after be.",
+        "form": "always / never / usually + verbo; be + always",
+        "examples": [
+          {
+            "en": "I always check the address before I send.",
+            "it": "Controllo sempre l'indirizzo prima di inviare."
+          },
+          {
+            "en": "She is usually in the office on Mondays.",
+            "it": "Di solito lei è in ufficio il lunedì."
+          },
+          {
+            "en": "We have never missed a deadline.",
+            "it": "Non abbiamo mai mancato una scadenza."
+          }
+        ]
+      },
+      {
+        "it": "La virgola va dopo il saluto, dopo un'apertura e prima di and, but, so tra due frasi complete. Non si mette prima di that.",
+        "en": "Use a comma after the greeting, after an opening word, and before and, but, so between two full sentences. Do not use it before that.",
+        "form": "Hi Sara, / However, ... / frase, but frase",
+        "examples": [
+          {
+            "en": "Hi Sara, thank you for your message.",
+            "it": "Ciao Sara, grazie per il messaggio."
+          },
+          {
+            "en": "I called you yesterday, but you were away.",
+            "it": "Ti ho chiamato ieri, ma eri via."
+          },
+          {
+            "en": "I think that the design is ready.",
+            "it": "Penso che il design sia pronto."
+          }
+        ]
+      },
+      {
+        "it": "L'apostrofo serve per le contrazioni e per il possesso. Its senza apostrofo = di esso.",
+        "en": "The apostrophe shows contractions and possession. Its without an apostrophe means belonging to it.",
+        "form": "it's = it is; the client's site; its name",
+        "examples": [
+          {
+            "en": "It's ready, and you're welcome to test it.",
+            "it": "È pronto e puoi pure testarlo."
+          },
+          {
+            "en": "The client's website has lost its logo.",
+            "it": "Il sito del cliente ha perso il suo logo."
+          }
+        ]
+      },
+      {
+        "it": "Frasi brevi: un'idea per frase, circa 15-20 parole, verbi attivi. Richiesta principale e data nelle prime righe.",
+        "en": "Short sentences: one idea per sentence, about 15 to 20 words, active verbs. Put the main request and the date near the top.",
+        "form": "una frase = un'idea",
+        "examples": [
+          {
+            "en": "Could you send me the logo by Friday?",
+            "it": "Puoi mandarmi il logo entro venerdì?"
+          },
+          {
+            "en": "I'll send you the draft tomorrow. Please check it by Monday.",
+            "it": "Ti mando la bozza domani. Per favore controllala entro lunedì."
+          },
+          {
+            "en": "The page is slow. I think the images are too large.",
+            "it": "La pagina è lenta. Penso che le immagini siano troppo grandi."
+          }
+        ]
+      }
+    ],
+    "tip": "Prima di inviare, rileggi la mail ad alta voce. Se devi respirare nel mezzo di una frase, dividila con un punto. Se non capisci subito chi fa cosa, riscrivi con soggetto, verbo e oggetto nell'ordine giusto.",
+    "mistakes": [
+      {
+        "wrong": "Yesterday sent I you the file.",
+        "right": "I sent you the file yesterday.",
+        "why": "ordine fisso: soggetto + verbo + oggetto + tempo"
+      },
+      {
+        "wrong": "I check always the address.",
+        "right": "I always check the address.",
+        "why": "l'avverbio di frequenza va prima del verbo"
+      },
+      {
+        "wrong": "I think, that it is ready.",
+        "right": "I think that it is ready.",
+        "why": "niente virgola prima di that"
+      },
+      {
+        "wrong": "I called you, you did not answer.",
+        "right": "I called you, but you did not answer.",
+        "why": "due frasi complete unite solo da una virgola (comma splice): serve but, o un punto"
+      },
+      {
+        "wrong": "Your welcome. Its ready.",
+        "right": "You're welcome. It's ready.",
+        "why": "you're = you are, it's = it is"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I ___ check the address before I send. (always)",
+      "a": [
+        "always"
+      ],
+      "hint": "avverbio prima del verbo",
+      "explain": "I always check."
+    },
+    {
+      "q": "I sent the report to the client ___ Monday.",
+      "a": [
+        "on"
+      ],
+      "hint": "giorno della settimana",
+      "explain": "On + giorno."
+    },
+    {
+      "q": "___ welcome to test the new page. (you are)",
+      "a": [
+        "you're",
+        "you are"
+      ],
+      "hint": "contrazione",
+      "explain": "You're = you are."
+    },
+    {
+      "q": "The client's website has lost ___ logo. (belonging to it)",
+      "a": [
+        "its"
+      ],
+      "hint": "possessivo, senza apostrofo",
+      "explain": "Its = di esso."
+    },
+    {
+      "q": "___ ready, so you can test it. (it is)",
+      "a": [
+        "it's",
+        "it is"
+      ],
+      "hint": "contrazione",
+      "explain": "It's = it is."
+    },
+    {
+      "q": "I called you, ___ you did not answer. Add the connector.",
+      "a": [
+        "but"
+      ],
+      "hint": "contrasto",
+      "explain": "Serve but dopo la virgola."
+    },
+    {
+      "q": "Could you tell me when ___ send it? (you / will)",
+      "a": [
+        "you will"
+      ],
+      "hint": "domanda indiretta",
+      "explain": "Ordine normale: you will."
+    },
+    {
+      "q": "She is ___ late. (never)",
+      "a": [
+        "never"
+      ],
+      "hint": "dopo be",
+      "explain": "She is never late."
+    },
+    {
+      "q": "Days and months start with a ___ letter.",
+      "a": [
+        "capital"
+      ],
+      "hint": "maiuscola",
+      "explain": "Capital letter = lettera maiuscola."
+    },
+    {
+      "q": "I am ___ (annoy) because the file is missing.",
+      "a": [
+        "annoyed"
+      ],
+      "hint": "una persona prova il sentimento",
+      "explain": "Persona = -ed."
+    },
+    {
+      "q": "This delay is very ___ (annoy).",
+      "a": [
+        "annoying"
+      ],
+      "hint": "la cosa causa il sentimento",
+      "explain": "Cosa = -ing."
+    },
+    {
+      "q": "A ___ subject line is easy to understand. (clear)",
+      "a": [
+        "clear"
+      ],
+      "hint": "aggettivo prima del nome",
+      "explain": "L'aggettivo va prima del nome."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Oggetto e apertura",
+      "en": "Subject: Question about the invoice for March",
+      "it": "Oggetto: Domanda sulla fattura di marzo",
+      "note": "Oggetto breve, preciso, con l'argomento"
+    },
+    {
+      "group": "Oggetto e apertura",
+      "en": "Hi Sarah,",
+      "it": "Ciao Sarah,",
+      "note": "Informale, tra colleghi"
+    },
+    {
+      "group": "Oggetto e apertura",
+      "en": "Dear Ms Brown,",
+      "it": "Gentile signora Brown,",
+      "note": "Formale, con una persona che non conosci"
+    },
+    {
+      "group": "Oggetto e apertura",
+      "en": "Thank you for your quick reply.",
+      "it": "Grazie per la risposta rapida."
+    },
+    {
+      "group": "Oggetto e apertura",
+      "en": "I'm writing to ask about the new design.",
+      "it": "Ti scrivo per chiedere del nuovo design."
+    },
+    {
+      "group": "Il corpo del messaggio",
+      "en": "Just a quick note to confirm the time.",
+      "it": "Solo due righe per confermare l'orario."
+    },
+    {
+      "group": "Il corpo del messaggio",
+      "en": "Further to our call, here is a short summary.",
+      "it": "Facendo seguito alla nostra telefonata, ecco una breve sintesi."
+    },
+    {
+      "group": "Il corpo del messaggio",
+      "en": "Please note that the office is closed on Friday.",
+      "it": "Tenga presente che l'ufficio è chiuso venerdì."
+    },
+    {
+      "group": "Il corpo del messaggio",
+      "en": "Could you clarify what you mean by 'soon'?",
+      "it": "Può chiarire cosa intende con 'presto'?"
+    },
+    {
+      "group": "Il corpo del messaggio",
+      "en": "I'll loop in our designer.",
+      "it": "Metterò in copia la nostra designer."
+    },
+    {
+      "group": "Sollecitare con garbo",
+      "en": "I'm following up on my email from Monday.",
+      "it": "Ti riscrivo a proposito della mia mail di lunedì."
+    },
+    {
+      "group": "Sollecitare con garbo",
+      "en": "Just a gentle reminder that the deadline is Friday.",
+      "it": "Solo un cortese promemoria: la scadenza è venerdì."
+    },
+    {
+      "group": "Sollecitare con garbo",
+      "en": "Could you confirm receipt of this email?",
+      "it": "Può confermare la ricezione di questa mail?"
+    },
+    {
+      "group": "Sollecitare con garbo",
+      "en": "I would appreciate your reply at your earliest convenience.",
+      "it": "Gradirei una sua risposta appena possibile."
+    },
+    {
+      "group": "Scuse e rifiuti",
+      "en": "I apologise for the delay in replying.",
+      "it": "Mi scuso per il ritardo nella risposta."
+    },
+    {
+      "group": "Scuse e rifiuti",
+      "en": "Sorry about the confusion.",
+      "it": "Scusa per il malinteso."
+    },
+    {
+      "group": "Scuse e rifiuti",
+      "en": "Unfortunately, I won't be able to attend.",
+      "it": "Purtroppo non potrò partecipare."
+    },
+    {
+      "group": "Scuse e rifiuti",
+      "en": "I'm afraid we have to decline this offer.",
+      "it": "Purtroppo dobbiamo declinare questa offerta."
+    },
+    {
+      "group": "Scuse e rifiuti",
+      "en": "Thank you for understanding.",
+      "it": "Grazie per la comprensione."
+    },
+    {
+      "group": "Chiusura",
+      "en": "I'll get back to you by the end of the day.",
+      "it": "Ti rispondo entro la fine della giornata."
+    },
+    {
+      "group": "Chiusura",
+      "en": "Please let me know if you have any questions.",
+      "it": "Fammi sapere se hai domande."
+    },
+    {
+      "group": "Chiusura",
+      "en": "Thanks again for your help.",
+      "it": "Grazie ancora per l'aiuto."
+    },
+    {
+      "group": "Chiusura",
+      "en": "Best regards,",
+      "it": "Cordiali saluti,",
+      "note": "Neutro, va bene quasi sempre"
+    },
+    {
+      "group": "Chiusura",
+      "en": "Kind regards,",
+      "it": "Cordiali saluti,",
+      "note": "Simile a Best regards, molto usato nel Regno Unito"
+    },
+    {
+      "group": "Chiusura",
+      "en": "Speak soon,",
+      "it": "A presto,",
+      "note": "Informale"
+    }
+  ],
+  "dialogue": {
+    "title": "Fixing an email before sending",
+    "context": "Luca ha scritto una mail a un cliente in ritardo con i contenuti. Chiede un parere a Nina, una collega con un inglese molto buono, prima di inviarla.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Nina, could you read my email before I send it? The client is late with the content.",
+        "it": "Nina, puoi leggere la mia mail prima che la invii? Il cliente è in ritardo con i contenuti."
+      },
+      {
+        "s": "B",
+        "name": "Nina",
+        "en": "Sure. The subject line says 'Problem'. That's too vague.",
+        "it": "Certo. L'oggetto dice 'Problem'. È troppo vago."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "What would you write?",
+        "it": "Tu cosa scriveresti?"
+      },
+      {
+        "s": "B",
+        "name": "Nina",
+        "en": "Something like 'Reminder: website content needed by Friday'.",
+        "it": "Qualcosa come 'Reminder: website content needed by Friday'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Good. And the first line? I wrote 'Send me the text now'.",
+        "it": "Bene. E la prima riga? Ho scritto 'Send me the text now'."
+      },
+      {
+        "s": "B",
+        "name": "Nina",
+        "en": "That sounds blunt. Try 'I'm writing to follow up on my email from Monday'.",
+        "it": "Suona brusco. Prova 'I'm writing to follow up on my email from Monday'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "That's much more polite. What about this sentence: 'I called you yesterday, you did not answer'?",
+        "it": "È molto più educato. E questa frase: 'I called you yesterday, you did not answer'?"
+      },
+      {
+        "s": "B",
+        "name": "Nina",
+        "en": "It needs a connector. Write 'I called you yesterday, but you did not answer'.",
+        "it": "Serve un connettivo. Scrivi 'I called you yesterday, but you did not answer'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Right. I also wrote 'I check always my email'. Is that wrong?",
+        "it": "Giusto. Ho scritto anche 'I check always my email'. È sbagliato?"
+      },
+      {
+        "s": "B",
+        "name": "Nina",
+        "en": "Yes. The adverb goes before the verb: 'I always check my email'.",
+        "it": "Sì. L'avverbio va prima del verbo: 'I always check my email'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Understood. Do you think the email is too long?",
+        "it": "Capito. Pensi che la mail sia troppo lunga?"
+      },
+      {
+        "s": "B",
+        "name": "Nina",
+        "en": "A little. Divide the long sentence in two, and put the deadline in the first two lines.",
+        "it": "Un po'. Dividi la frase lunga in due e metti la scadenza nelle prime due righe."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Like this: 'We need the content by Friday. Otherwise, the launch will be delayed.'",
+        "it": "Così: 'We need the content by Friday. Otherwise, the launch will be delayed.'"
+      },
+      {
+        "s": "B",
+        "name": "Nina",
+        "en": "Perfect. Close with 'Please let me know if you have any questions' and 'Kind regards'.",
+        "it": "Perfetto. Chiudi con 'Please let me know if you have any questions' e 'Kind regards'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thanks, Nina. I'll double-check the address and send it now.",
+        "it": "Grazie, Nina. Ricontrollo l'indirizzo e la invio adesso."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What is wrong with the subject line 'Problem'?",
+      "options": [
+        "It is too vague",
+        "It is too long",
+        "It is rude"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Why is 'Send me the text now' a problem?",
+      "options": [
+        "It is too formal",
+        "It sounds blunt",
+        "It has a typo"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does Nina add to 'I called you yesterday, you did not answer'?",
+      "options": [
+        "A full stop",
+        "The word 'and'",
+        "The word 'but'"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What does Nina suggest about the deadline?",
+      "options": [
+        "Put it in the first two lines",
+        "Remove it",
+        "Move it to the end"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Controllo sempre l'indirizzo prima di inviare.",
+      "en": "I always check the address before I send.",
+      "alt": [
+        "I always check the address before sending.",
+        "I always double-check the address before I send."
+      ]
+    },
+    {
+      "it": "Ti ho mandato il file ieri.",
+      "en": "I sent you the file yesterday.",
+      "alt": [
+        "I sent the file to you yesterday.",
+        "Yesterday I sent you the file."
+      ]
+    },
+    {
+      "it": "Solo un cortese promemoria: la scadenza è venerdì.",
+      "en": "Just a gentle reminder that the deadline is Friday.",
+      "alt": [
+        "Just a friendly reminder that the deadline is Friday.",
+        "This is a gentle reminder: the deadline is Friday."
+      ]
+    },
+    {
+      "it": "Ti ho chiamato ieri, ma non hai risposto.",
+      "en": "I called you yesterday, but you did not answer.",
+      "alt": [
+        "I called you yesterday, but you didn't answer.",
+        "I called you yesterday but you didn't pick up."
+      ]
+    },
+    {
+      "it": "Mi scuso per il ritardo nella risposta.",
+      "en": "I apologise for the delay in replying.",
+      "alt": [
+        "I apologize for the delay in replying.",
+        "I apologise for the late reply."
+      ]
+    },
+    {
+      "it": "Purtroppo non potrò partecipare alla riunione.",
+      "en": "Unfortunately, I won't be able to attend the meeting.",
+      "alt": [
+        "Unfortunately, I will not be able to attend the meeting.",
+        "Unfortunately, I can't attend the meeting."
+      ]
+    },
+    {
+      "it": "Puoi chiarire cosa intendi con 'presto'?",
+      "en": "Could you clarify what you mean by 'soon'?",
+      "alt": [
+        "Can you clarify what you mean by 'soon'?",
+        "Could you explain what you mean by 'soon'?"
+      ]
+    },
+    {
+      "it": "Ti rispondo entro la fine della giornata.",
+      "en": "I'll get back to you by the end of the day.",
+      "alt": [
+        "I will get back to you by the end of the day.",
+        "I'll get back to you by EOD."
+      ]
+    },
+    {
+      "it": "Il sito del cliente ha perso il suo logo.",
+      "en": "The client's website has lost its logo.",
+      "alt": [
+        "The client's site has lost its logo.",
+        "The customer's website has lost its logo."
+      ]
+    },
+    {
+      "it": "Metterò in copia la nostra designer.",
+      "en": "I'll loop in our designer.",
+      "alt": [
+        "I will put our designer in cc.",
+        "I'll cc our designer."
+      ]
+    },
+    {
+      "it": "Facendo seguito alla nostra telefonata, ecco una breve sintesi.",
+      "en": "Further to our call, here is a short summary.",
+      "alt": [
+        "Following our call, here is a short summary.",
+        "Further to our phone call, here is a brief summary."
+      ]
+    },
+    {
+      "it": "Fammi sapere se hai domande.",
+      "en": "Please let me know if you have any questions.",
+      "alt": [
+        "Let me know if you have any questions.",
+        "Please let me know if you have questions."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail di sollecito (80-100 parole) a un cliente che non ha ancora mandato i contenuti per il suo sito. Scrivi un oggetto chiaro, un saluto, la richiesta e la scadenza nelle prime due righe, una frase che spiega cosa succede se i contenuti arrivano tardi, una chiusura cortese. Usa frasi brevi, almeno un avverbio di frequenza e almeno una frase con but o so, con la virgola giusta.",
+    "taskEn": "Write a reminder email (80-100 words) to a client who has not yet sent the content for their website. Write a clear subject line, a greeting, the request and the deadline in the first two lines, a sentence that explains what happens if the content arrives late, and a polite closing. Use short sentences, at least one adverb of frequency and at least one sentence with but or so, with the correct comma.",
+    "model": "Subject: Reminder: website content needed by Friday\n\nHi Anna,\n\nI hope you're well. We still need the text and images for the website by Friday, 15 March.\n\nI sent the list on Monday, but I haven't received the files yet. If they arrive later, the launch will be delayed by a few days.\n\nI always try to keep to our schedule, so I'd be grateful if you could send everything by Friday. If anything is unclear, please let me know and I'll clarify.\n\nThank you for your help.\n\nKind regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I'm writing to follow up on my email from Monday.",
+      "Just a gentle reminder that the deadline is Friday.",
+      "I called you yesterday, but you did not answer.",
+      "I always check the address before I send.",
+      "I apologise for the delay in replying.",
+      "Could you clarify what you mean by soon?",
+      "I'll get back to you by the end of the day.",
+      "Please let me know if you have any questions."
+    ],
+    "prompts": [
+      {
+        "en": "How do you write a good subject line?",
+        "it": "Come scrivi un buon oggetto?",
+        "help": "Usa: It should be short, clear and specific. / I include the topic and the date."
+      },
+      {
+        "en": "Explain the difference between 'it's' and 'its'.",
+        "it": "Spiega la differenza tra 'it's' e 'its'.",
+        "help": "It's = it is. Its = belonging to it."
+      },
+      {
+        "en": "How do you chase a client politely?",
+        "it": "Come solleciti con garbo un cliente?",
+        "help": "Usa: Just a gentle reminder... / I'm following up on..."
+      },
+      {
+        "en": "What mistakes do Italians often make in English emails?",
+        "it": "Che errori fanno spesso gli italiani nelle mail in inglese?",
+        "help": "Parla di ordine delle parole, virgole e tono troppo diretto."
+      },
+      {
+        "en": "Describe your usual email routine at work.",
+        "it": "Descrivi come gestisci di solito le mail al lavoro.",
+        "help": "Usa: I usually... / I always... / I never..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: la mail perfetta",
+      "show": [
+        "Writing perfect emails",
+        "ordine delle parole",
+        "punteggiatura e frasi brevi"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione trenta. Oggi impari a scrivere mail chiare e senza errori. Vediamo l'ordine delle parole inglese, la punteggiatura e come scrivere frasi brevi."
+        },
+        {
+          "lang": "en",
+          "text": "Just a quick note to confirm the time."
+        }
+      ]
+    },
+    {
+      "title": "L'oggetto e il tono",
+      "show": [
+        "oggetto breve e preciso",
+        "formale: Dear Ms Brown",
+        "informale: Hi Sarah"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Un buon oggetto dice l'argomento in poche parole. Poi scegli il tono. Con una persona che non conosci usa dear. Con un collega usa hi."
+        },
+        {
+          "lang": "en",
+          "text": "Reminder, website content needed by Friday. Hi Sarah. Dear Ms Brown."
+        }
+      ]
+    },
+    {
+      "title": "Ordine delle parole",
+      "show": [
+        "soggetto + verbo + oggetto",
+        "luogo prima del tempo",
+        "avverbio prima del verbo"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In inglese l'ordine è fisso. Soggetto, verbo, oggetto. Poi il luogo e poi il tempo. Gli avverbi di frequenza vanno prima del verbo principale."
+        },
+        {
+          "lang": "en",
+          "text": "I sent the report to the client on Monday. I always check the address."
+        }
+      ]
+    },
+    {
+      "title": "La virgola",
+      "show": [
+        "dopo il saluto",
+        "prima di but, so, and",
+        "mai prima di that"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "La virgola va dopo il saluto e dopo parole come however. Si mette prima di but o so quando unisce due frasi complete. Non si mette prima di that. Non unire due frasi con la sola virgola."
+        },
+        {
+          "lang": "en",
+          "text": "I called you yesterday, but you did not answer. I think that the design is ready."
+        }
+      ]
+    },
+    {
+      "title": "L'apostrofo",
+      "show": [
+        "it's = it is",
+        "you're = you are",
+        "its = di esso"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "L'apostrofo serve per le contrazioni e per il possesso. Attenzione a its senza apostrofo, che vuol dire di esso. E a your e you're."
+        },
+        {
+          "lang": "en",
+          "text": "It's ready. You're welcome. The website has lost its logo."
+        }
+      ]
+    },
+    {
+      "title": "Frasi brevi",
+      "show": [
+        "una frase, un'idea",
+        "15-20 parole",
+        "richiesta e scadenza all'inizio"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Scrivi una frase per ogni idea. Più o meno quindici o venti parole. Metti la richiesta e la scadenza nelle prime righe. Se la frase è lunga, dividila con un punto."
+        },
+        {
+          "lang": "en",
+          "text": "We need the content by Friday. Otherwise, the launch will be delayed."
+        }
+      ]
+    },
+    {
+      "title": "Sollecitare, scusarsi, chiudere",
+      "show": [
+        "Just a gentle reminder...",
+        "I apologise for the delay.",
+        "Kind regards,"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per sollecitare usa un tono cortese. Per scusarti sii breve e diretto. Per chiudere scegli una formula semplice, come best regards o kind regards."
+        },
+        {
+          "lang": "en",
+          "text": "Just a gentle reminder that the deadline is Friday. I apologise for the delay. Kind regards."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "oggetto chiaro",
+        "ordine fisso",
+        "virgola e apostrofo giusti"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Scrivi un oggetto chiaro. Rispetta l'ordine delle parole. Usa la virgola e l'apostrofo nei posti giusti. Fai frasi brevi e rileggi ad alta voce prima di inviare."
+        },
+        {
+          "lang": "en",
+          "text": "Please let me know if you have any questions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": 11,
+  "week": 3,
+  "title": "Opinioni, accordo e disaccordo",
+  "titleEn": "Opinions, agreeing and disagreeing",
+  "intro": "Oggi impari a dire cosa pensi, a essere d'accordo e a dire di no con garbo. Impari should e ought to, e la regola più tradita dagli italiani: si dice 'I don't think so', non 'I think not'. Ti serve in riunione, nelle trattative e quando devi spiegare a un cliente che un'idea non è la migliore.",
+  "goals": [
+    "Dare la tua opinione in modo chiaro e gentile",
+    "Dire che sei d'accordo, in parte d'accordo o in disaccordo",
+    "Usare should, shouldn't e ought to per consigli e opinioni",
+    "Usare 'I think' e 'I don't think' senza il classico errore"
+  ],
+  "words": [
+    { "en": "opinion", "pron": "opìnion", "it": "opinione, parere", "type": "noun", "ex": "In my opinion, the design is too busy.", "exIt": "Secondo me il design è troppo affollato." },
+    { "en": "viewpoint", "pron": "viùpoint", "it": "punto di vista", "type": "noun", "ex": "I can understand your viewpoint, but I see it differently.", "exIt": "Capisco il tuo punto di vista, ma io la vedo diversamente." },
+    { "en": "perspective", "pron": "perspèktiv", "it": "prospettiva, modo di vedere", "type": "noun", "ex": "From a user's perspective, the form is too long.", "exIt": "Dal punto di vista dell'utente, il modulo è troppo lungo." },
+    { "en": "to argue", "pron": "àrghiu", "it": "sostenere, discutere (anche litigare)", "type": "verb", "ex": "Some people argue that tablets are replacing laptops.", "exIt": "Alcuni sostengono che i tablet stiano sostituendo i portatili." },
+    { "en": "argument", "pron": "àrghiument", "it": "argomento, ragione; anche discussione", "type": "noun", "ex": "That's a strong argument for changing the layout.", "exIt": "È un buon argomento per cambiare l'impaginazione." },
+    { "en": "to take issue with", "pron": "tèik ìsciu uìd", "it": "non essere d'accordo con, contestare", "type": "verb", "ex": "I take issue with the deadline, not with the design.", "exIt": "Contesto la scadenza, non il design." },
+    { "en": "to disagree", "pron": "disagrìi", "it": "non essere d'accordo", "type": "verb", "ex": "I'm afraid I disagree with that.", "exIt": "Temo di non essere d'accordo." },
+    { "en": "to object", "pron": "obgèkt", "it": "obiettare, fare un'obiezione", "type": "verb", "ex": "The client objected to the price.", "exIt": "Il cliente ha obiettato sul prezzo." },
+    { "en": "objection", "pron": "obgècsion", "it": "obiezione", "type": "noun", "ex": "Does anyone have any objections?", "exIt": "Qualcuno ha obiezioni?" },
+    { "en": "to doubt", "pron": "dàut", "it": "dubitare", "type": "verb", "ex": "I doubt that we can finish by Friday.", "exIt": "Dubito che riusciremo a finire entro venerdì." },
+    { "en": "concern", "pron": "konsèrn", "it": "preoccupazione, dubbio", "type": "noun", "ex": "My main concern is the loading time.", "exIt": "La mia preoccupazione principale è il tempo di caricamento." },
+    { "en": "personally", "pron": "pèrsonali", "it": "personalmente", "type": "adv", "ex": "Personally, I prefer the first version.", "exIt": "Personalmente preferisco la prima versione." },
+    { "en": "honestly", "pron": "ònestli", "it": "onestamente, sinceramente", "type": "adv", "ex": "Honestly, I'm not sure it's a good idea.", "exIt": "Sinceramente non sono sicuro che sia una buona idea." },
+    { "en": "frankly", "pron": "fràncli", "it": "francamente", "type": "adv", "ex": "Frankly, the page is too slow.", "exIt": "Francamente, la pagina è troppo lenta." },
+    { "en": "to be convinced", "pron": "bi konvìnst", "it": "essere convinto", "type": "phrase", "ex": "I'm convinced that simple design works better.", "exIt": "Sono convinto che un design semplice funzioni meglio." },
+    { "en": "to assume", "pron": "asiùm", "it": "presumere, dare per scontato", "type": "verb", "ex": "I assumed the client had approved the text.", "exIt": "Avevo dato per scontato che il cliente avesse approvato il testo." },
+    { "en": "assumption", "pron": "asàmpscion", "it": "presupposto, ipotesi", "type": "noun", "ex": "That's a risky assumption.", "exIt": "È un presupposto rischioso." },
+    { "en": "to believe", "pron": "bilìiv", "it": "credere, ritenere", "type": "verb", "ex": "I believe this is the right solution.", "exIt": "Credo che questa sia la soluzione giusta." },
+    { "en": "to have a point", "pron": "hàv a pòint", "it": "avere ragione su un punto", "type": "phrase", "ex": "You have a point, I hadn't thought about that.", "exIt": "Hai ragione, non ci avevo pensato." },
+    { "en": "fair enough", "pron": "fèr inàf", "it": "giusto, d'accordo (concessione)", "type": "phrase", "ex": "Fair enough, let's try your idea first.", "exIt": "Va bene, proviamo prima la tua idea." },
+    { "en": "to side with", "pron": "sàid uìd", "it": "schierarsi con, dare ragione a", "type": "verb", "ex": "I side with Marco on this point.", "exIt": "Su questo punto do ragione a Marco." },
+    { "en": "absolutely", "pron": "àbsolutli", "it": "assolutamente, certo", "type": "adv", "ex": "Absolutely, I couldn't agree more.", "exIt": "Assolutamente, non potrei essere più d'accordo." },
+    { "en": "definitely", "pron": "dèfinitli", "it": "senza dubbio, decisamente", "type": "adv", "ex": "We should definitely test it on mobile.", "exIt": "Dovremmo senz'altro provarlo sul telefono." },
+    { "en": "not necessarily", "pron": "nòt nesesèrili", "it": "non necessariamente", "type": "phrase", "ex": "More features aren't necessarily better.", "exIt": "Più funzioni non sono necessariamente meglio." },
+    { "en": "I'm afraid", "pron": "àim afrèid", "it": "temo, purtroppo (formula di cortesia)", "type": "phrase", "ex": "I'm afraid I don't agree.", "exIt": "Temo di non essere d'accordo.", "note": "non vuol dire 'ho paura' qui" },
+    { "en": "unsure", "pron": "ansciùr", "it": "incerto, non sicuro", "type": "adj", "ex": "I'm still a bit unsure about the colours.", "exIt": "Sono ancora un po' incerto sui colori." },
+    { "en": "to be torn", "pron": "bi tòrn", "it": "essere indeciso, combattuto", "type": "phrase", "ex": "I'm torn between the two designs.", "exIt": "Sono indeciso tra i due design." },
+    { "en": "on the one hand", "pron": "on de uàn hànd", "it": "da una parte", "type": "phrase", "ex": "On the one hand, it's cheaper.", "exIt": "Da una parte costa meno." },
+    { "en": "on the other hand", "pron": "on di àder hànd", "it": "dall'altra parte", "type": "phrase", "ex": "On the other hand, it takes more time.", "exIt": "Dall'altra richiede più tempo." },
+    { "en": "to play devil's advocate", "pron": "plèi dèvolz àdvokat", "it": "fare l'avvocato del diavolo", "type": "phrase", "ex": "Let me play devil's advocate for a moment.", "exIt": "Faccio l'avvocato del diavolo per un momento." },
+    { "en": "although", "pron": "oldòu", "it": "anche se, sebbene", "type": "conj", "ex": "Although the idea is good, it's too expensive.", "exIt": "Anche se l'idea è buona, costa troppo." },
+    { "en": "nevertheless", "pron": "neverdelès", "it": "ciononostante, comunque", "type": "adv", "ex": "It's risky. Nevertheless, I think we should try.", "exIt": "È rischioso. Ciononostante penso che dovremmo provare." },
+    { "en": "in contrast", "pron": "in kòntrast", "it": "al contrario, in contrasto", "type": "phrase", "ex": "In contrast, the old site was very simple.", "exIt": "Al contrario, il vecchio sito era molto semplice." },
+    { "en": "compromise", "pron": "kòmpromaiz", "it": "compromesso", "type": "noun", "ex": "Let's find a compromise that works for both of us.", "exIt": "Troviamo un compromesso che vada bene a entrambi." },
+    { "en": "to challenge", "pron": "cèlendgi", "it": "mettere in discussione", "type": "verb", "ex": "I'd like to challenge that assumption.", "exIt": "Vorrei mettere in discussione quel presupposto." },
+    { "en": "to weigh in", "pron": "uèi ìn", "it": "dire la propria, intervenire nella discussione", "type": "verb", "ex": "Would you like to weigh in on the layout?", "exIt": "Vuoi dire la tua sul layout?" },
+    { "en": "to oppose", "pron": "opòuz", "it": "opporsi a", "type": "verb", "ex": "Nobody opposed the plan.", "exIt": "Nessuno si è opposto al piano." },
+    { "en": "valid", "pron": "vàlid", "it": "valido, fondato", "type": "adj", "ex": "That's a valid point.", "exIt": "È un punto valido." },
+    { "en": "reasonable", "pron": "rìiznabol", "it": "ragionevole", "type": "adj", "ex": "That sounds reasonable to me.", "exIt": "Mi sembra ragionevole." },
+    { "en": "unrealistic", "pron": "anrialìstik", "it": "poco realistico", "type": "adj", "ex": "A one-week deadline is unrealistic.", "exIt": "Una scadenza di una settimana non è realistica." },
+    { "en": "biased", "pron": "bàiast", "it": "di parte, influenzato", "type": "adj", "ex": "I might be biased, because I designed it myself.", "exIt": "Potrei essere di parte, perché l'ho progettato io." },
+    { "en": "evidence", "pron": "èvidens", "it": "prove, dati a sostegno", "type": "noun", "ex": "Do you have any evidence for that?", "exIt": "Hai dei dati a sostegno di questo?" },
+    { "en": "to convince", "pron": "konvìns", "it": "convincere", "type": "verb", "ex": "The numbers convinced the client.", "exIt": "I numeri hanno convinto il cliente." },
+    { "en": "to consider", "pron": "konsìder", "it": "considerare, valutare", "type": "verb", "ex": "Have you considered a simpler menu?", "exIt": "Hai valutato un menu più semplice?" },
+    { "en": "as far as I'm concerned", "pron": "as fàr as àim konsèrnd", "it": "per quanto mi riguarda", "type": "phrase", "ex": "As far as I'm concerned, the page is ready.", "exIt": "Per quanto mi riguarda, la pagina è pronta." },
+    { "en": "in my view", "pron": "in mài viù", "it": "a mio avviso", "type": "phrase", "ex": "In my view, we need more tests.", "exIt": "A mio avviso servono più test." },
+    { "en": "to suppose", "pron": "sapòuz", "it": "supporre, immaginare", "type": "verb", "ex": "I suppose you're right.", "exIt": "Suppongo che tu abbia ragione." },
+    { "en": "to be in favour of", "pron": "bi in fèivor ov", "it": "essere a favore di", "type": "phrase", "ex": "I'm in favour of a simpler design.", "exIt": "Sono a favore di un design più semplice." },
+    { "en": "to be against", "pron": "bi agènst", "it": "essere contrario a", "type": "phrase", "ex": "I'm against adding more animations.", "exIt": "Sono contrario ad aggiungere altre animazioni." },
+    { "en": "to be on the same page", "pron": "bi on de sèim pèigi", "it": "essere sulla stessa lunghezza d'onda", "type": "phrase", "ex": "Let's make sure we're all on the same page.", "exIt": "Assicuriamoci di essere tutti sulla stessa lunghezza d'onda." }
+  ],
+  "falseFriends": [
+    { "en": "to assume", "it": "presumere, dare per scontato", "trap": "Non vuol dire 'assumere' una persona: per quello si dice to hire. 'Assume' = supporre." },
+    { "en": "sensible", "it": "ragionevole, di buon senso", "trap": "Non vuol dire 'sensibile' (= sensitive). 'A sensible idea' è un'idea sensata." },
+    { "en": "to argue", "it": "sostenere; litigare", "trap": "Può voler dire 'litigare': 'They argued all day.' Per 'dare la propria opinione' meglio to say o to think; 'to argue that' = sostenere che." },
+    { "en": "to object", "it": "obiettare", "trap": "Come nome, un object (òbgekt) è un oggetto. Come verbo to object (obgèkt) è obiettare. Cambia anche l'accento." }
+  ],
+  "grammar": {
+    "title": "Should e ought to; I think / I don't think",
+    "explainIt": [
+      "Should è un verbo modale. Si usa per dare un consiglio o un'opinione su cosa è giusto o conveniente fare. 'You should test the form on mobile.' Vuol dire 'dovresti'. Non è un obbligo forte come must: è un consiglio. Dopo should il verbo è all'infinito senza to, e should non cambia mai: non c'è la -s alla terza persona. 'She should call the client.'",
+      "Per il negativo si dice shouldn't (should not): 'You shouldn't change the password so often.' Per la domanda si inverte: 'Should we send the quote today?' Nelle risposte brevi: 'Yes, we should.' 'No, we shouldn't.' Ought to ha lo stesso significato di should, ma è un po' più formale e meno frequente: 'We ought to check the numbers.' Nel negativo si dice ought not to, ma quasi nessuno lo usa: meglio shouldn't.",
+      "Per dare un'opinione, si usa I think più una frase: 'I think we should wait.' Altri verbi simili: I believe, I feel, I suppose, I'm sure. Per ammorbidire puoi aggiungere altre parole: 'I think it might be better to...' oppure 'Personally, I'd say...'. In riunione è meglio non sembrare troppo categorici: la forma gentile è la regola.",
+      "Il negativo è l'errore più comune per gli italiani. 'I think we shouldn't' non è proprio sbagliato, ma suona poco naturale. Di solito si dice 'I don't think we should': il not si sposta su think. Stessa regola con believe e suppose: 'I don't believe it's necessary.' Per rispondere a una domanda con un sì o un no morbido: 'Do you think it's too expensive?' 'I think so.' o 'I don't think so.' Mai 'I think not', che suona molto formale e antico.",
+      "Per essere d'accordo o in disaccordo con garbo, impara qualche formula. D'accordo: 'I agree.' 'Absolutely.' 'You're right.' In parte: 'I see your point, but...' 'That's true, however...' In disaccordo: 'I'm afraid I don't agree.' 'I see it differently.' 'I'm not sure about that.' Il disaccordo diretto, 'You're wrong', è quasi sempre troppo duro nel lavoro."
+    ],
+    "explainEn": [
+      "Should is a modal verb. We use it to give advice or an opinion about what is right or sensible to do. 'You should test the form on mobile.' It means that it is a good idea. It is not a strong obligation like must: it is advice. After should the verb is in the base form without to, and should never changes: there is no -s in the third person. 'She should call the client.'",
+      "The negative is shouldn't (should not): 'You shouldn't change the password so often.' For questions we invert: 'Should we send the quote today?' Short answers: 'Yes, we should.' 'No, we shouldn't.' Ought to has the same meaning as should, but it is a little more formal and less common: 'We ought to check the numbers.' The negative is ought not to, but almost nobody uses it: shouldn't is better.",
+      "To give an opinion we use I think and a clause: 'I think we should wait.' Similar verbs are I believe, I feel, I suppose and I'm sure. To soften your opinion you can add other words: 'I think it might be better to...' or 'Personally, I'd say...'. In a meeting you should not sound too sure: the polite form is the rule.",
+      "The negative is the most common mistake for Italian speakers. 'I think we shouldn't' is not exactly wrong, but it sounds unnatural. We usually say 'I don't think we should': the not moves to think. The same rule works with believe and suppose: 'I don't believe it's necessary.' To answer a question with a soft yes or no: 'Do you think it's too expensive?' 'I think so.' or 'I don't think so.' Never 'I think not', which sounds very formal and old-fashioned.",
+      "To agree or disagree politely, learn a few phrases. To agree: 'I agree.' 'Absolutely.' 'You're right.' To partly agree: 'I see your point, but...' 'That's true, however...' To disagree: 'I'm afraid I don't agree.' 'I see it differently.' 'I'm not sure about that.' Direct disagreement, 'You're wrong', is almost always too strong at work."
+    ],
+    "rules": [
+      {
+        "it": "Should + infinito (senza to) per un consiglio o un'opinione. Non cambia con la persona.",
+        "en": "Should + base verb (without to) for advice or an opinion. It does not change with the person.",
+        "form": "should + verbo",
+        "examples": [
+          { "en": "You should back up the site before the update.", "it": "Dovresti fare un backup del sito prima dell'aggiornamento." },
+          { "en": "She should call the client today.", "it": "Dovrebbe chiamare il cliente oggi." },
+          { "en": "We should test it on mobile.", "it": "Dovremmo provarlo sul telefono." }
+        ]
+      },
+      {
+        "it": "Negativo: shouldn't. Domanda: should + soggetto. Risposta breve: Yes, we should / No, we shouldn't.",
+        "en": "Negative: shouldn't. Question: should + subject. Short answer: Yes, we should / No, we shouldn't.",
+        "form": "shouldn't + verbo; Should + soggetto + verbo?",
+        "examples": [
+          { "en": "You shouldn't use the same password everywhere.", "it": "Non dovresti usare la stessa password ovunque." },
+          { "en": "Should we send the quote today?", "it": "Dovremmo mandare il preventivo oggi?" },
+          { "en": "What should we do next?", "it": "Cosa dovremmo fare ora?" }
+        ]
+      },
+      {
+        "it": "Ought to = should, ma più formale. Si usa meno spesso. Dopo ought c'è to.",
+        "en": "Ought to = should, but more formal and less common. There is always to after ought.",
+        "form": "ought to + verbo",
+        "examples": [
+          { "en": "We ought to check the numbers again.", "it": "Dovremmo ricontrollare i numeri." },
+          { "en": "You ought to tell the client about the delay.", "it": "Dovresti dire al cliente del ritardo." }
+        ]
+      },
+      {
+        "it": "I think + frase per dare un'opinione. Altri verbi: believe, feel, suppose.",
+        "en": "I think + clause to give an opinion. Other verbs: believe, feel, suppose.",
+        "form": "I think / I believe + soggetto + verbo",
+        "examples": [
+          { "en": "I think the first design is better.", "it": "Penso che il primo design sia migliore." },
+          { "en": "I believe we need more time.", "it": "Credo che ci serva più tempo." }
+        ]
+      },
+      {
+        "it": "Il negativo si mette su think: I don't think + frase. Non 'I think... not'. Risposta breve: I don't think so.",
+        "en": "Put the negative on think: I don't think + clause. Not 'I think... not'. Short answer: I don't think so.",
+        "form": "I don't think + soggetto + verbo",
+        "examples": [
+          { "en": "I don't think we should change the logo.", "it": "Non penso che dovremmo cambiare il logo." },
+          { "en": "I don't think it's a good idea.", "it": "Non penso sia una buona idea." },
+          { "en": "Is it too expensive? I don't think so.", "it": "È troppo caro? Non credo." }
+        ]
+      }
+    ],
+    "tip": "Prima di parlare, scegli il livello di garbo. Opinione normale: 'I think...'. Opinione morbida: 'I'm afraid I don't agree' o 'I see it differently'. Disaccordo: parti sempre dal punto che condividi: 'I see your point, but...'. E ricorda: mai 'I think not', sempre 'I don't think so'.",
+    "mistakes": [
+      { "wrong": "I think we shouldn't change the logo.", "right": "I don't think we should change the logo.", "why": "è più naturale mettere il negativo su think, non sul verbo dopo" },
+      { "wrong": "Is it a good idea? I think not.", "right": "Is it a good idea? I don't think so.", "why": "'I think not' è antiquato e molto formale" },
+      { "wrong": "You should to call the client.", "right": "You should call the client.", "why": "dopo should non si mette to (ma dopo ought sì: ought to)" },
+      { "wrong": "She shoulds call the client.", "right": "She should call the client.", "why": "should non cambia alla terza persona" },
+      { "wrong": "I am agree with you.", "right": "I agree with you.", "why": "agree è un verbo, non serve to be" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "You ___ test the form on mobile. (consiglio)", "a": ["should", "ought to"], "hint": "dovresti", "explain": "Consiglio: should (o ought to)." },
+    { "q": "She ___ call the client today.", "a": ["should", "ought to"], "hint": "terza persona", "explain": "Should non cambia: niente -s." },
+    { "q": "We ___ use the same password everywhere. (sconsigliato)", "a": ["shouldn't", "should not", "ought not to"], "hint": "negativo", "explain": "Negativo: shouldn't." },
+    { "q": "___ we send the quote today? (dovremmo...?)", "a": ["should"], "hint": "domanda", "explain": "Domanda: Should we...?" },
+    { "q": "I ___ think we should change the logo. (negativo)", "a": ["don't", "do not"], "hint": "negativo su think", "explain": "Negativo su think: I don't think..." },
+    { "q": "Is it a good idea? I don't think ___.", "a": ["so"], "hint": "risposta breve", "explain": "Risposta breve: I don't think so." },
+    { "q": "We ought ___ check the numbers again.", "a": ["to"], "hint": "ought + ?", "explain": "Dopo ought serve to." },
+    { "q": "I ___ with you. It's a good point. (essere d'accordo)", "a": ["agree"], "hint": "agree non vuole to be", "explain": "Si dice I agree, non I am agree." },
+    { "q": "I'm ___ I don't agree. (formula gentile)", "a": ["afraid"], "hint": "temo", "explain": "I'm afraid I don't agree = temo di non essere d'accordo." },
+    { "q": "I see your ___, but I don't agree. (punto di vista)", "a": ["point"], "hint": "frase fatta", "explain": "I see your point = capisco il tuo punto di vista." },
+    { "q": "You shouldn't ___ (change) the design now.", "a": ["change"], "hint": "dopo shouldn't", "explain": "Dopo shouldn't il verbo è all'infinito." },
+    { "q": "I don't ___ (think) it's a good idea.", "a": ["think"], "hint": "dopo don't", "explain": "Dopo don't il verbo è all'infinito: think." }
+  ],
+  "phrases": [
+    { "group": "Dare un'opinione", "en": "In my opinion, we should simplify the menu.", "it": "Secondo me dovremmo semplificare il menu." },
+    { "group": "Dare un'opinione", "en": "Personally, I think the first version is better.", "it": "Personalmente penso che la prima versione sia migliore." },
+    { "group": "Dare un'opinione", "en": "As far as I'm concerned, we're ready to launch.", "it": "Per quanto mi riguarda, siamo pronti al lancio." },
+    { "group": "Dare un'opinione", "en": "I feel that we need more time.", "it": "Ho l'impressione che ci serva più tempo." },
+    { "group": "Dare un'opinione", "en": "If you ask me, it's too complicated.", "it": "Se vuoi il mio parere, è troppo complicato.", "note": "informale" },
+    { "group": "Essere d'accordo", "en": "I completely agree.", "it": "Sono completamente d'accordo." },
+    { "group": "Essere d'accordo", "en": "You're absolutely right.", "it": "Hai assolutamente ragione." },
+    { "group": "Essere d'accordo", "en": "That's exactly what I was thinking.", "it": "È proprio quello che pensavo." },
+    { "group": "Essere d'accordo", "en": "I couldn't agree more.", "it": "Non potrei essere più d'accordo." },
+    { "group": "Essere d'accordo", "en": "Fair enough.", "it": "Giusto, va bene." },
+    { "group": "Essere in parte d'accordo", "en": "I see your point, but I'm not sure.", "it": "Capisco il tuo punto di vista, ma non sono sicuro." },
+    { "group": "Essere in parte d'accordo", "en": "That's true, but we should also consider the cost.", "it": "È vero, ma dovremmo considerare anche il costo." },
+    { "group": "Essere in parte d'accordo", "en": "I agree up to a point.", "it": "Sono d'accordo fino a un certo punto." },
+    { "group": "Essere in parte d'accordo", "en": "You have a point there.", "it": "Su questo hai ragione." },
+    { "group": "Non essere d'accordo con garbo", "en": "I'm afraid I don't agree.", "it": "Temo di non essere d'accordo." },
+    { "group": "Non essere d'accordo con garbo", "en": "I see it a bit differently.", "it": "Io la vedo un po' diversamente." },
+    { "group": "Non essere d'accordo con garbo", "en": "I'm not sure that's the best option.", "it": "Non sono sicuro che sia l'opzione migliore." },
+    { "group": "Non essere d'accordo con garbo", "en": "I don't think that's realistic.", "it": "Non penso sia realistico." },
+    { "group": "Non essere d'accordo con garbo", "en": "With respect, I think there's another way.", "it": "Con tutto il rispetto, penso ci sia un'altra strada.", "note": "formale" },
+    { "group": "Chiedere l'opinione e cercare un accordo", "en": "What do you think?", "it": "Tu cosa ne pensi?" },
+    { "group": "Chiedere l'opinione e cercare un accordo", "en": "How do you feel about this?", "it": "Cosa ne pensi? Come ti sembra?" },
+    { "group": "Chiedere l'opinione e cercare un accordo", "en": "Do you see any problems with that?", "it": "Ci vedi qualche problema?" },
+    { "group": "Chiedere l'opinione e cercare un accordo", "en": "Can we find a compromise?", "it": "Possiamo trovare un compromesso?" },
+    { "group": "Chiedere l'opinione e cercare un accordo", "en": "Let's agree to disagree.", "it": "Restiamo ciascuno della propria idea.", "note": "chiude una discussione senza litigare" },
+    { "group": "Chiedere l'opinione e cercare un accordo", "en": "Are we all on the same page?", "it": "Siamo tutti sulla stessa lunghezza d'onda?" }
+  ],
+  "dialogue": {
+    "title": "A new homepage",
+    "context": "Luca, Giulia e il cliente Marco discutono la nuova homepage. Marco vorrebbe aggiungere un video a tutto schermo. Luca e Giulia hanno dei dubbi.",
+    "lines": [
+      { "s": "A", "name": "Marco", "en": "I think we should put a big video on the homepage. It looks modern.", "it": "Penso che dovremmo mettere un grande video nella homepage. Fa moderno." },
+      { "s": "B", "name": "Luca", "en": "I see your point. It does look nice. However, I'm worried about the loading time.", "it": "Capisco il tuo punto di vista. È bello da vedere. Però mi preoccupa il tempo di caricamento." },
+      { "s": "A", "name": "Marco", "en": "Do you think it's that bad?", "it": "Pensi sia davvero così grave?" },
+      { "s": "B", "name": "Luca", "en": "I'm afraid so. On mobile, the page could take more than ten seconds.", "it": "Temo di sì. Sul telefono la pagina potrebbe impiegare più di dieci secondi." },
+      { "s": "C", "name": "Giulia", "en": "I agree with Luca. Also, I don't think a video is accessible for everyone.", "it": "Sono d'accordo con Luca. Inoltre non penso che un video sia accessibile a tutti." },
+      { "s": "A", "name": "Marco", "en": "Fair enough. But I really want something that catches people's attention.", "it": "Giusto. Ma voglio davvero qualcosa che catturi l'attenzione." },
+      { "s": "C", "name": "Giulia", "en": "What about a short animation instead? On the one hand, it's lighter. On the other hand, it still looks modern.", "it": "Che ne dici di una breve animazione? Da una parte è più leggera. Dall'altra sembra comunque moderna." },
+      { "s": "A", "name": "Marco", "en": "Hmm. I'm a bit torn. Honestly, I prefer the video.", "it": "Mmm. Sono un po' indeciso. Sinceramente preferisco il video." },
+      { "s": "B", "name": "Luca", "en": "Personally, I think we should test both. We ought to look at the real numbers before we decide.", "it": "Personalmente penso che dovremmo provarli entrambi. Dovremmo guardare i dati reali prima di decidere." },
+      { "s": "A", "name": "Marco", "en": "That sounds reasonable. How long would it take?", "it": "Mi sembra ragionevole. Quanto ci vorrebbe?" },
+      { "s": "B", "name": "Luca", "en": "About a week. We shouldn't rush this.", "it": "Circa una settimana. Non dovremmo avere fretta." },
+      { "s": "C", "name": "Giulia", "en": "And we should ask a few real users what they think.", "it": "E dovremmo chiedere a qualche utente vero cosa ne pensa." },
+      { "s": "A", "name": "Marco", "en": "I don't think we need that. But OK, you have a point.", "it": "Non penso ci serva. Ma va bene, avete ragione." },
+      { "s": "B", "name": "Luca", "en": "Great. So we're on the same page?", "it": "Bene. Quindi siamo sulla stessa lunghezza d'onda?" },
+      { "s": "A", "name": "Marco", "en": "Yes. Let's test both and decide next week.", "it": "Sì. Proviamo tutti e due e decidiamo la settimana prossima." }
+    ]
+  },
+  "listening": [
+    { "q": "What does Marco want on the homepage?", "options": ["A big video", "A photo gallery", "A chat window"], "answer": 0 },
+    { "q": "What is Luca worried about?", "options": ["The price", "The loading time", "The colours"], "answer": 1 },
+    { "q": "What does Giulia suggest as an alternative?", "options": ["A slideshow", "A short animation", "No image at all"], "answer": 1 },
+    { "q": "What do they finally decide to do?", "options": ["Use the video", "Test both options", "Stop the project"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Penso che dovremmo aspettare.", "en": "I think we should wait.", "alt": ["I think that we should wait."] },
+    { "it": "Non penso che dovremmo cambiare il logo.", "en": "I don't think we should change the logo.", "alt": ["I do not think we should change the logo."] },
+    { "it": "Secondo me il design è troppo affollato.", "en": "In my opinion, the design is too busy.", "alt": ["In my opinion, the design is too cluttered.", "In my opinion, the design is too crowded.", "I think the design is too busy."] },
+    { "it": "Capisco il tuo punto di vista, ma non sono d'accordo.", "en": "I see your point, but I don't agree.", "alt": ["I see your point, but I disagree.", "I understand your point, but I don't agree."] },
+    { "it": "Temo di non essere d'accordo.", "en": "I'm afraid I don't agree.", "alt": ["I'm afraid I disagree.", "I am afraid I do not agree."] },
+    { "it": "Dovresti fare un backup prima dell'aggiornamento.", "en": "You should make a backup before the update.", "alt": ["You should back up the site before the update.", "You ought to make a backup before the update."] },
+    { "it": "Non dovremmo avere fretta.", "en": "We shouldn't rush.", "alt": ["We should not rush.", "We shouldn't rush this.", "We shouldn't be in a hurry."] },
+    { "it": "È troppo caro? Non credo.", "en": "Is it too expensive? I don't think so.", "alt": ["Is it too expensive? I don't believe so."] },
+    { "it": "Sono completamente d'accordo con te.", "en": "I completely agree with you.", "alt": ["I totally agree with you.", "I couldn't agree more."] },
+    { "it": "Da una parte costa meno, dall'altra richiede più tempo.", "en": "On the one hand it costs less, on the other hand it takes more time.", "alt": ["On the one hand, it's cheaper. On the other hand, it takes more time."] },
+    { "it": "Possiamo trovare un compromesso?", "en": "Can we find a compromise?", "alt": ["Can we reach a compromise?", "Can we come to a compromise?"] },
+    { "it": "Hai ragione, non ci avevo pensato.", "en": "You have a point, I hadn't thought about that.", "alt": ["You're right, I hadn't thought about that.", "You have a point, I hadn't thought of that."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente ti scrive: vuole aggiungere un video a tutto schermo nella homepage, ma tu pensi che sia una cattiva idea (il sito diventerebbe lento e poco accessibile). Rispondigli con una mail gentile. Riconosci il suo punto di vista, di' che non sei d'accordo spiegando i motivi (usa 'I don't think' e almeno un 'should'), proponi un'alternativa o un test e chiedi la sua opinione.",
+    "taskEn": "A client writes to you: they want to add a full-screen video to the homepage, but you think it is a bad idea (the site would become slow and less accessible). Reply with a polite email. Acknowledge their viewpoint, say you do not agree and explain why (use 'I don't think' and at least one 'should'), propose an alternative or a test, and ask for their opinion.",
+    "model": "Subject: Re: Video on the homepage\n\nDear Marco,\n\nThank you for your idea. I see your point: a video can make a homepage look modern and attractive.\n\nHowever, I'm afraid I don't completely agree. I don't think a full-screen video is the best choice for your site, for two reasons. First, it makes the page much slower, especially on mobile phones. Second, a video is not easy to use for everyone, for example for people who use a screen reader.\n\nI think we should try a short animation instead. It is lighter and still looks modern. We could also test both versions with real visitors for a week and then decide, using the real numbers.\n\nWhat do you think? I'm happy to prepare a quick example if you like.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I think we should wait a little longer.",
+      "I don't think we should change the logo.",
+      "I see your point, but I'm not sure that's realistic.",
+      "I'm afraid I don't completely agree.",
+      "You should always make a backup before an update.",
+      "On the one hand it's cheaper. On the other hand it takes more time.",
+      "Is it too expensive? I don't think so.",
+      "Can we find a compromise that works for both of us?"
+    ],
+    "prompts": [
+      { "en": "Do you think remote work is better than working in an office? Why?", "it": "Pensi che lavorare da remoto sia meglio che in ufficio? Perché?", "help": "Usa: I think... I don't think... On the one hand... On the other hand..." },
+      { "en": "What should a company do to make its website more accessible?", "it": "Cosa dovrebbe fare un'azienda per rendere il sito più accessibile?", "help": "Usa: They should... They shouldn't..." },
+      { "en": "A colleague has an idea you don't like. What do you say?", "it": "Un collega ha un'idea che non ti piace. Cosa dici?", "help": "Usa: I see your point, but... I'm afraid I don't agree..." },
+      { "en": "Give me some advice: how can I improve my English quickly?", "it": "Dammi un consiglio: come posso migliorare il mio inglese in fretta?", "help": "Usa: You should... You ought to... I don't think you should..." },
+      { "en": "Do you think it is a good idea to answer emails in the evening?", "it": "Pensi che sia una buona idea rispondere alle mail la sera?", "help": "Usa: I don't think it is... In my opinion..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: dire cosa pensi",
+      "show": ["Opinions, agreeing and disagreeing", "should, ought to, I think, I don't think"],
+      "say": [
+        { "lang": "it", "text": "Oggi impari a dare la tua opinione, a essere d'accordo e a dire di no con garbo. Vediamo should, ought to e la regola del negativo con think." },
+        { "lang": "en", "text": "I think we should wait a little longer." }
+      ]
+    },
+    {
+      "title": "Should",
+      "show": ["should + infinito senza to", "You should test it on mobile.", "She should call the client."],
+      "say": [
+        { "lang": "it", "text": "Should si usa per un consiglio o un'opinione. Vuol dire dovresti. Dopo should il verbo è senza to e non cambia mai, nemmeno alla terza persona." },
+        { "lang": "en", "text": "You should test it on mobile. She should call the client." }
+      ]
+    },
+    {
+      "title": "Negativo e domanda con should",
+      "show": ["shouldn't", "Should we send it today?", "Yes, we should. No, we shouldn't."],
+      "say": [
+        { "lang": "it", "text": "Il negativo è shouldn't. Nella domanda should va prima del soggetto. Le risposte brevi sono semplici." },
+        { "lang": "en", "text": "You shouldn't use the same password everywhere. Should we send the quote today?" }
+      ]
+    },
+    {
+      "title": "Ought to",
+      "show": ["ought to = should", "più formale", "We ought to check the numbers."],
+      "say": [
+        { "lang": "it", "text": "Ought to ha lo stesso significato di should, ma è un po' più formale. Dopo ought ricorda sempre to. Nel negativo, di solito, si usa shouldn't." },
+        { "lang": "en", "text": "We ought to check the numbers again." }
+      ]
+    },
+    {
+      "title": "I think e I don't think",
+      "show": ["I think we should wait.", "I don't think we should change it.", "No: I think we shouldn't"],
+      "say": [
+        { "lang": "it", "text": "Per dare un'opinione dici I think. Per il negativo, il not va su think. Di solito si dice I don't think we should, non I think we shouldn't. È l'errore più comune per un italiano." },
+        { "lang": "en", "text": "I think we should wait. I don't think we should change the logo." }
+      ]
+    },
+    {
+      "title": "I don't think so",
+      "show": ["Is it too expensive?", "I think so.", "I don't think so.", "No: I think not"],
+      "say": [
+        { "lang": "it", "text": "Per rispondere in breve usa I think so oppure I don't think so. Non dire mai I think not: suona molto antico." },
+        { "lang": "en", "text": "Is it too expensive? I don't think so." }
+      ]
+    },
+    {
+      "title": "Essere d'accordo e dire di no con garbo",
+      "show": ["I completely agree.", "I see your point, but...", "I'm afraid I don't agree.", "I see it differently."],
+      "say": [
+        { "lang": "it", "text": "Ecco le frasi chiave. Per essere d'accordo: I completely agree. Per un accordo parziale: I see your point, but. Per il disaccordo gentile: I'm afraid I don't agree." },
+        { "lang": "en", "text": "I completely agree. I see your point, but I'm not sure. I'm afraid I don't agree." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["should = consiglio", "I don't think we should...", "disaccordo gentile"],
+      "say": [
+        { "lang": "it", "text": "Ricapitolando. Should per i consigli. Negativo su think: I don't think. E per il disaccordo parti sempre da un punto che condividi." },
+        { "lang": "en", "text": "I see your point, but I don't think we should rush." },
+        { "lang": "it", "text": "Ora prova a dare tre opinioni tue, a voce alta." }
+      ]
+    }
+  ]
+}

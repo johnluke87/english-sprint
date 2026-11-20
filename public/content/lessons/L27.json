@@ -1,0 +1,1227 @@
+{
+  "id": 27,
+  "week": 6,
+  "title": "Accessibilità e audit dei siti",
+  "titleEn": "Accessibility and website audits",
+  "intro": "Oggi lavori con il lessico vero di un auditor di accessibilità: WCAG 2.2, success criterion, screen reader, alt text, contrasto, navigazione da tastiera, livelli di conformità. Impari anche il passivo avanzato, che è la forma naturale dei report di audit: la pagina è stata testata, il problema va corretto, l'etichetta deve essere aggiunta.",
+  "goals": [
+    "Usare il lessico tecnico dell'accessibilità e delle WCAG 2.2 in inglese",
+    "Descrivere un problema di accessibilità con il passivo: has been tested, should be fixed, needs to be added",
+    "Spiegare a un cliente lo stato di conformità di un sito, livello A e AA",
+    "Scrivere una voce di report con criterio, problema, impatto e rimedio"
+  ],
+  "words": [
+    {
+      "en": "accessibility",
+      "pron": "aksesibìliti",
+      "it": "accessibilità",
+      "type": "noun",
+      "ex": "Accessibility means that everyone can use the website.",
+      "exIt": "Accessibilità vuol dire che tutti possono usare il sito."
+    },
+    {
+      "en": "WCAG",
+      "pron": "dàbliu sii èi gìi",
+      "it": "WCAG, linee guida per l'accessibilità dei contenuti web",
+      "type": "noun",
+      "ex": "We test the site against WCAG 2.2.",
+      "exIt": "Testiamo il sito rispetto alle WCAG 2.2."
+    },
+    {
+      "en": "success criterion",
+      "pron": "saksès kraitìirion",
+      "it": "criterio di successo",
+      "type": "noun",
+      "ex": "This page fails success criterion 1.1.1, Non-text Content.",
+      "exIt": "Questa pagina non supera il criterio di successo 1.1.1, Contenuti non testuali."
+    },
+    {
+      "en": "conformance level",
+      "pron": "konfòrmans lèvol",
+      "it": "livello di conformità (A, AA, AAA)",
+      "type": "noun",
+      "ex": "The client needs conformance level AA.",
+      "exIt": "Il cliente ha bisogno del livello di conformità AA."
+    },
+    {
+      "en": "contrast ratio",
+      "pron": "kòntraast rèisciou",
+      "it": "rapporto di contrasto",
+      "type": "noun",
+      "ex": "The contrast ratio is only 2 to 1.",
+      "exIt": "Il rapporto di contrasto è solo 2 a 1."
+    },
+    {
+      "en": "alt text",
+      "pron": "àlt tèkst",
+      "it": "testo alternativo",
+      "type": "noun",
+      "ex": "Every informative image needs alt text.",
+      "exIt": "Ogni immagine informativa ha bisogno di un testo alternativo."
+    },
+    {
+      "en": "colour contrast ratio",
+      "pron": "kàlar kòntraast rèisciou",
+      "it": "rapporto di contrasto dei colori",
+      "type": "noun",
+      "ex": "The colour contrast ratio of this text is only 2.8 to 1.",
+      "exIt": "Il rapporto di contrasto di questo testo è solo 2,8 a 1."
+    },
+    {
+      "en": "keyboard navigation",
+      "pron": "kìibord navighèiscian",
+      "it": "navigazione da tastiera",
+      "type": "noun",
+      "ex": "Keyboard navigation does not work in the main menu.",
+      "exIt": "La navigazione da tastiera non funziona nel menu principale."
+    },
+    {
+      "en": "focus indicator",
+      "pron": "fòukas ìndikeitar",
+      "it": "indicatore di focus",
+      "type": "noun",
+      "ex": "The focus indicator is invisible on the buttons.",
+      "exIt": "L'indicatore di focus è invisibile sui pulsanti."
+    },
+    {
+      "en": "ARIA",
+      "pron": "àaria",
+      "it": "ARIA, attributi per rendere accessibili i componenti dinamici",
+      "type": "noun",
+      "ex": "Use ARIA only when native HTML is not enough.",
+      "exIt": "Usa ARIA solo quando l'HTML nativo non basta."
+    },
+    {
+      "en": "landmark",
+      "pron": "làndmaark",
+      "it": "landmark, regione della pagina per orientarsi (main, navigation, banner...)",
+      "type": "noun",
+      "ex": "The page has no main landmark.",
+      "exIt": "La pagina non ha un landmark main."
+    },
+    {
+      "en": "heading structure",
+      "pron": "hèding stràkciar",
+      "it": "struttura dei titoli",
+      "type": "noun",
+      "ex": "The heading structure skips from h1 to h4.",
+      "exIt": "La struttura dei titoli salta da h1 a h4."
+    },
+    {
+      "en": "form label",
+      "pron": "fòrm lèibol",
+      "it": "etichetta di un campo",
+      "type": "noun",
+      "ex": "The email field has no form label.",
+      "exIt": "Il campo email non ha un'etichetta."
+    },
+    {
+      "en": "skip link",
+      "pron": "skìp lìnk",
+      "it": "link per saltare al contenuto",
+      "type": "noun",
+      "ex": "A skip link lets keyboard users jump to the main content.",
+      "exIt": "Un link per saltare al contenuto permette a chi usa la tastiera di andare subito al contenuto principale."
+    },
+    {
+      "en": "captions",
+      "pron": "kàpscianz",
+      "it": "sottotitoli (anche per i suoni)",
+      "type": "noun",
+      "ex": "The videos have no captions.",
+      "exIt": "I video non hanno sottotitoli."
+    },
+    {
+      "en": "transcript",
+      "pron": "trànskript",
+      "it": "trascrizione",
+      "type": "noun",
+      "ex": "Please provide a transcript for the podcast.",
+      "exIt": "Per favore fornite una trascrizione del podcast."
+    },
+    {
+      "en": "assistive technology",
+      "pron": "asìstiv teknòladgi",
+      "it": "tecnologia assistiva",
+      "type": "noun",
+      "ex": "We tested with several types of assistive technology.",
+      "exIt": "Abbiamo testato con diversi tipi di tecnologia assistiva."
+    },
+    {
+      "en": "barrier",
+      "pron": "bàriar",
+      "it": "barriera, ostacolo",
+      "type": "noun",
+      "ex": "The captcha is a serious barrier for blind users.",
+      "exIt": "Il captcha è una barriera seria per gli utenti non vedenti."
+    },
+    {
+      "en": "visual impairment",
+      "pron": "vìgiual impèarment",
+      "it": "disabilità visiva",
+      "type": "noun",
+      "ex": "People with a visual impairment often use screen readers.",
+      "exIt": "Le persone con disabilità visiva usano spesso i lettori di schermo."
+    },
+    {
+      "en": "keyboard trap",
+      "pron": "kìbord tràp",
+      "it": "trappola da tastiera",
+      "type": "noun",
+      "ex": "The video player is a keyboard trap.",
+      "exIt": "Il lettore video è una trappola da tastiera."
+    },
+    {
+      "en": "tab order",
+      "pron": "tàb òrder",
+      "it": "ordine di tabulazione",
+      "type": "noun",
+      "ex": "The tab order does not follow the visual order.",
+      "exIt": "L'ordine di tabulazione non segue l'ordine visivo."
+    },
+    {
+      "en": "link text",
+      "pron": "link tèkst",
+      "it": "testo del link",
+      "type": "noun",
+      "ex": "Link text such as 'click here' is not descriptive.",
+      "exIt": "Un testo di link come 'clicca qui' non è descrittivo."
+    },
+    {
+      "en": "reflow",
+      "pron": "rìiflou",
+      "it": "adattamento del contenuto senza scorrimento orizzontale",
+      "type": "noun",
+      "ex": "The page fails reflow at 320 pixels wide.",
+      "exIt": "La pagina non supera il reflow a 320 pixel di larghezza."
+    },
+    {
+      "en": "target size",
+      "pron": "tàarget sàiz",
+      "it": "dimensione dell'area cliccabile",
+      "type": "noun",
+      "ex": "The icons are too small. At level AA, the target size should be at least 24 by 24 CSS pixels.",
+      "exIt": "Le icone sono troppo piccole. Al livello AA, l'area cliccabile dovrebbe essere di almeno 24 per 24 pixel CSS."
+    },
+    {
+      "en": "semantic HTML",
+      "pron": "simàntik èici tii èm èl",
+      "it": "HTML semantico",
+      "type": "noun",
+      "ex": "Semantic HTML gives screen readers the right information.",
+      "exIt": "L'HTML semantico dà ai lettori di schermo le informazioni giuste."
+    },
+    {
+      "en": "decorative image",
+      "pron": "dèkarativ ìmidg",
+      "it": "immagine decorativa",
+      "type": "noun",
+      "ex": "A decorative image should have an empty alt attribute.",
+      "exIt": "Un'immagine decorativa dovrebbe avere un attributo alt vuoto."
+    },
+    {
+      "en": "accessible name",
+      "pron": "aksèsibol nèim",
+      "it": "nome accessibile (il nome che lo screen reader annuncia)",
+      "type": "noun",
+      "ex": "This icon button has no accessible name.",
+      "exIt": "Questo pulsante con icona non ha un nome accessibile."
+    },
+    {
+      "en": "accessibility statement",
+      "pron": "aksesibìliti stèitment",
+      "it": "dichiarazione di accessibilità",
+      "type": "noun",
+      "ex": "The website must publish an accessibility statement.",
+      "exIt": "Il sito deve pubblicare una dichiarazione di accessibilità."
+    },
+    {
+      "en": "remediation",
+      "pron": "rimiidièiscian",
+      "it": "correzione, intervento di rimedio",
+      "type": "noun",
+      "ex": "Remediation will take about three weeks.",
+      "exIt": "La correzione richiederà circa tre settimane."
+    },
+    {
+      "en": "audit",
+      "pron": "òodit",
+      "it": "audit, verifica approfondita",
+      "type": "noun",
+      "ex": "We completed the accessibility audit on Friday.",
+      "exIt": "Abbiamo concluso l'audit di accessibilità venerdì."
+    },
+    {
+      "en": "manual testing",
+      "pron": "màniual tèsting",
+      "it": "test manuali",
+      "type": "noun",
+      "ex": "Automated tools find only part of the problems, so manual testing is essential.",
+      "exIt": "Gli strumenti automatici trovano solo una parte dei problemi, quindi i test manuali sono essenziali."
+    },
+    {
+      "en": "conformance",
+      "pron": "konfòrmans",
+      "it": "conformità",
+      "type": "noun",
+      "ex": "We checked the conformance level.",
+      "exIt": "Abbiamo verificato il livello di conformità."
+    },
+    {
+      "en": "to violate",
+      "pron": "vàioleit",
+      "it": "violare",
+      "type": "verb",
+      "ex": "This modal dialog violates success criterion 2.1.2.",
+      "exIt": "Questa finestra modale viola il criterio di successo 2.1.2."
+    },
+    {
+      "en": "to remediate",
+      "pron": "rimìidieit",
+      "it": "correggere, porre rimedio",
+      "type": "verb",
+      "ex": "We need to remediate the critical problems first.",
+      "exIt": "Dobbiamo correggere prima i problemi critici."
+    },
+    {
+      "en": "non-compliant",
+      "pron": "non komplàiant",
+      "it": "non conforme",
+      "type": "adj",
+      "ex": "The checkout page is non-compliant.",
+      "exIt": "La pagina di pagamento non è conforme."
+    },
+    {
+      "en": "violation",
+      "pron": "vaiolèiscian",
+      "it": "violazione",
+      "type": "noun",
+      "ex": "We found three violations on the homepage.",
+      "exIt": "Abbiamo trovato tre violazioni nella home."
+    },
+    {
+      "en": "perceivable",
+      "pron": "parsìivabol",
+      "it": "percepibile",
+      "type": "adj",
+      "ex": "Information must be perceivable by all users.",
+      "exIt": "Le informazioni devono essere percepibili da tutti gli utenti."
+    },
+    {
+      "en": "operable",
+      "pron": "òparabol",
+      "it": "utilizzabile, operabile",
+      "type": "adj",
+      "ex": "All functions must be operable with a keyboard.",
+      "exIt": "Tutte le funzioni devono essere utilizzabili con la tastiera."
+    },
+    {
+      "en": "understandable",
+      "pron": "andarstàndabol",
+      "it": "comprensibile",
+      "type": "adj",
+      "ex": "The instructions should be understandable.",
+      "exIt": "Le istruzioni devono essere comprensibili."
+    },
+    {
+      "en": "robust",
+      "pron": "roubàst",
+      "it": "robusto, compatibile con tecnologie diverse",
+      "type": "adj",
+      "ex": "Content must be robust enough to work with assistive technology.",
+      "exIt": "I contenuti devono essere abbastanza robusti da funzionare con le tecnologie assistive."
+    },
+    {
+      "en": "compliant",
+      "pron": "komplàiant",
+      "it": "conforme",
+      "type": "adj",
+      "ex": "The new checkout is fully compliant.",
+      "exIt": "Il nuovo checkout è pienamente conforme."
+    },
+    {
+      "en": "inclusive",
+      "pron": "inklùusiv",
+      "it": "inclusivo",
+      "type": "adj",
+      "ex": "We want an inclusive design for all users.",
+      "exIt": "Vogliamo un design inclusivo per tutti gli utenti."
+    },
+    {
+      "en": "to meet a requirement",
+      "pron": "mìit a rikuàierment",
+      "it": "soddisfare un requisito",
+      "type": "phrase",
+      "ex": "The site meets most requirements at level A.",
+      "exIt": "Il sito soddisfa la maggior parte dei requisiti del livello A."
+    },
+    {
+      "en": "to flag",
+      "pron": "flàg",
+      "it": "segnalare",
+      "type": "verb",
+      "ex": "The tool flagged forty issues, but some are false positives.",
+      "exIt": "Lo strumento ha segnalato quaranta problemi, ma alcuni sono falsi positivi."
+    },
+    {
+      "en": "to pass",
+      "pron": "pàas",
+      "it": "superare (un criterio)",
+      "type": "verb",
+      "ex": "The homepage passes criterion 1.4.3.",
+      "exIt": "La home supera il criterio 1.4.3."
+    },
+    {
+      "en": "colour blindness",
+      "pron": "kàlar blàindnes",
+      "it": "daltonismo",
+      "type": "noun",
+      "ex": "Colour blindness affects many users.",
+      "exIt": "Il daltonismo riguarda molti utenti."
+    },
+    {
+      "en": "false positive",
+      "pron": "fòols pòsitiv",
+      "it": "falso positivo",
+      "type": "noun",
+      "ex": "That warning is a false positive.",
+      "exIt": "Quell'avviso è un falso positivo."
+    },
+    {
+      "en": "automated scan",
+      "pron": "òotomeitid skàn",
+      "it": "scansione automatica",
+      "type": "noun",
+      "ex": "An automated scan is only the first step.",
+      "exIt": "Una scansione automatica è solo il primo passo."
+    },
+    {
+      "en": "accessible",
+      "pron": "aksèsibol",
+      "it": "accessibile",
+      "type": "adj",
+      "ex": "The new site is fully accessible.",
+      "exIt": "Il nuovo sito è pienamente accessibile."
+    },
+    {
+      "en": "to retest",
+      "pron": "riitèst",
+      "it": "ripetere il test",
+      "type": "verb",
+      "ex": "We will retest the pages after the fixes.",
+      "exIt": "Ripeteremo il test delle pagine dopo le correzioni."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to remediate",
+      "it": "porre rimedio",
+      "trap": "Non è 'rimediare' nel senso di trovare in fretta una soluzione di fortuna. È un intervento formale di correzione, tipico dei report."
+    },
+    {
+      "en": "compliant",
+      "it": "conforme",
+      "trap": "Non vuol dire 'compiacente'. Nel lavoro significa che rispetta una norma o uno standard."
+    },
+    {
+      "en": "to control",
+      "it": "comandare, gestire",
+      "trap": "Non vuol dire 'controllare' nel senso di verificare (= to check, to test). Si dice 'check the contrast', non 'control the contrast'."
+    }
+  ],
+  "grammar": {
+    "title": "Passivo avanzato: has been tested, should be fixed, needs to be added",
+    "explainIt": [
+      "Nei report di audit si usa tantissimo il passivo. Il motivo è semplice: ti interessa cosa è successo alla pagina, non chi lo ha fatto. 'The page has been tested' è più tipico di un report rispetto a 'We have tested the page'.",
+      "Il passivo si forma con il verbo be e il participio passato. Il verbo be cambia per mostrare il tempo: is tested, was tested, has been tested, will be tested. Il participio resta uguale.",
+      "Con i verbi modali il passivo si forma con modale + be + participio. Per esempio: 'This should be fixed', 'The alt text must be added', 'The contrast can be improved'. Con should dici un consiglio, con must un obbligo, con can una possibilità.",
+      "Una forma molto usata negli audit è needs to be + participio: 'The label needs to be added.' Esiste anche needs + -ing, più comune nell'inglese britannico: 'The label needs adding.' Il significato è uguale.",
+      "Il present perfect passivo (has been + participio) si usa per dire che un'azione è finita e conta ancora oggi. Il present continuous passivo (is being + participio) si usa per dire che qualcosa si sta facendo adesso: 'The menu is being rebuilt.'",
+      "Se vuoi dire chi ha fatto l'azione, aggiungi by. Ma negli audit di solito non serve. Usa by solo se è importante: 'The report was reviewed by an external expert.'"
+    ],
+    "explainEn": [
+      "In audit reports, the passive is used a lot. The reason is simple: you care about what happened to the page, not who did it. 'The page has been tested' is more typical of a report than 'We have tested the page'.",
+      "The passive is formed with the verb be and the past participle. The verb be changes to show the tense: is tested, was tested, has been tested, will be tested. The past participle stays the same.",
+      "With modal verbs, the passive is formed with modal + be + past participle. For example: 'This should be fixed', 'The alt text must be added', 'The contrast can be improved'. With should you give advice, with must you show an obligation, with can you show a possibility.",
+      "A very common form in audits is needs to be + past participle: 'The label needs to be added.' There is also needs + -ing, which is more common in British English: 'The label needs adding.' The meaning is the same.",
+      "The present perfect passive (has been + past participle) is used when an action is finished and still matters today. The present continuous passive (is being + past participle) is used for something that is happening now: 'The menu is being rebuilt.'",
+      "If you want to say who did the action, add by. But in audits you usually do not need it. Use by only when it matters: 'The report was reviewed by an external expert.'"
+    ],
+    "rules": [
+      {
+        "it": "Passivo presente perfetto: has/have been + participio, per un'azione finita che conta oggi.",
+        "en": "Present perfect passive: has/have been + past participle, for a finished action that matters now.",
+        "form": "has/have been + participio",
+        "examples": [
+          {
+            "en": "The homepage has been tested with a screen reader.",
+            "it": "La home è stata testata con un lettore di schermo."
+          },
+          {
+            "en": "Forty issues have been found so far.",
+            "it": "Finora sono stati trovati quaranta problemi."
+          },
+          {
+            "en": "Alt text has not been added to the banner.",
+            "it": "Il testo alternativo non è stato aggiunto al banner."
+          }
+        ]
+      },
+      {
+        "it": "Passivo con modali: modale + be + participio. Should consiglia, must obbliga, can dice che è possibile.",
+        "en": "Passive with modals: modal + be + past participle. Should advises, must is an obligation, can is a possibility.",
+        "form": "should/must/can + be + participio",
+        "examples": [
+          {
+            "en": "This problem should be fixed first.",
+            "it": "Questo problema andrebbe corretto per primo."
+          },
+          {
+            "en": "Every informative image must be given alt text.",
+            "it": "A ogni immagine informativa deve essere dato un testo alternativo."
+          },
+          {
+            "en": "The contrast can be improved with darker text.",
+            "it": "Il contrasto può essere migliorato con un testo più scuro."
+          }
+        ]
+      },
+      {
+        "it": "Needs to be + participio, oppure needs + -ing (più britannico), per dire cosa va fatto.",
+        "en": "Needs to be + past participle, or needs + -ing (more British), to say what has to be done.",
+        "form": "needs to be + participio / needs + -ing",
+        "examples": [
+          {
+            "en": "The form label needs to be added.",
+            "it": "L'etichetta del modulo va aggiunta."
+          },
+          {
+            "en": "The menu needs rebuilding.",
+            "it": "Il menu va rifatto."
+          },
+          {
+            "en": "The focus order needs to be corrected.",
+            "it": "L'ordine del focus va corretto."
+          }
+        ]
+      },
+      {
+        "it": "Passivo continuo: is/are being + participio, per ciò che si sta facendo adesso.",
+        "en": "Continuous passive: is/are being + past participle, for something that is happening now.",
+        "form": "is/are being + participio",
+        "examples": [
+          {
+            "en": "The checkout is being rebuilt at the moment.",
+            "it": "Il checkout viene ricostruito in questo momento."
+          },
+          {
+            "en": "The remaining issues are being fixed this week.",
+            "it": "I problemi rimasti vengono corretti questa settimana."
+          }
+        ]
+      },
+      {
+        "it": "Passivo futuro e passato: will be + participio, was/were + participio. By si usa solo se chi agisce è importante.",
+        "en": "Future and past passive: will be + past participle, was/were + past participle. Use by only if the agent matters.",
+        "form": "will be + participio / was + participio",
+        "examples": [
+          {
+            "en": "The site will be retested next month.",
+            "it": "Il sito verrà testato di nuovo il mese prossimo."
+          },
+          {
+            "en": "The audit was carried out in October.",
+            "it": "L'audit è stato svolto a ottobre."
+          },
+          {
+            "en": "The report was reviewed by an external expert.",
+            "it": "Il report è stato rivisto da un esperto esterno."
+          }
+        ]
+      }
+    ],
+    "tip": "Nella frase passiva metti in primo piano ciò che hai testato. Per scriverla in fretta: oggetto + be (nel tempo giusto) + participio. Per esempio: the label, needs to be, added. Se riesci a togliere 'by qualcuno' senza perdere significato, il passivo è la scelta giusta.",
+    "mistakes": [
+      {
+        "wrong": "The images has been tested.",
+        "right": "The images have been tested.",
+        "why": "images è plurale, quindi have been"
+      },
+      {
+        "wrong": "This should fixed first.",
+        "right": "This should be fixed first.",
+        "why": "col passivo serve sempre be dopo il modale"
+      },
+      {
+        "wrong": "The label needs to add.",
+        "right": "The label needs to be added.",
+        "why": "il sostantivo subisce l'azione, quindi serve il passivo"
+      },
+      {
+        "wrong": "The site was tested every month since January.",
+        "right": "The site has been tested every month since January.",
+        "why": "since vuole il present perfect"
+      },
+      {
+        "wrong": "The error was happened on the form.",
+        "right": "The error happened on the form.",
+        "why": "to happen è intransitivo e non ha il passivo"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "The homepage has ___ tested with a screen reader.",
+      "a": [
+        "been"
+      ],
+      "hint": "present perfect passivo",
+      "explain": "Has been + participio."
+    },
+    {
+      "q": "This problem should ___ fixed first.",
+      "a": [
+        "be"
+      ],
+      "hint": "modale + be + participio",
+      "explain": "Should be fixed."
+    },
+    {
+      "q": "The alt text needs to ___ added.",
+      "a": [
+        "be"
+      ],
+      "hint": "passivo",
+      "explain": "Needs to be added."
+    },
+    {
+      "q": "All forty images ___ been checked.",
+      "a": [
+        "have"
+      ],
+      "hint": "plurale",
+      "explain": "Images è plurale: have been."
+    },
+    {
+      "q": "The menu ___ being rebuilt at the moment.",
+      "a": [
+        "is"
+      ],
+      "hint": "passivo continuo, singolare",
+      "explain": "Is being rebuilt."
+    },
+    {
+      "q": "The site will ___ retested next month.",
+      "a": [
+        "be"
+      ],
+      "hint": "futuro passivo",
+      "explain": "Will be retested."
+    },
+    {
+      "q": "The audit ___ (carry) out in October.",
+      "a": [
+        "was carried"
+      ],
+      "hint": "passato passivo",
+      "explain": "Was carried out."
+    },
+    {
+      "q": "The contrast must ___ (improve).",
+      "a": [
+        "be improved"
+      ],
+      "hint": "must + passivo",
+      "explain": "Must be improved."
+    },
+    {
+      "q": "The menu needs ___ (rebuild). Use the -ing form.",
+      "a": [
+        "rebuilding"
+      ],
+      "hint": "needs + -ing",
+      "explain": "Needs rebuilding: forma con -ing, più comune nell'inglese britannico."
+    },
+    {
+      "q": "Twelve pages ___ (flag) by the tool so far. Use the present perfect passive.",
+      "a": [
+        "have been flagged"
+      ],
+      "hint": "have been + participio",
+      "explain": "Have been flagged."
+    },
+    {
+      "q": "The report ___ (review) by an external expert last week.",
+      "a": [
+        "was reviewed"
+      ],
+      "hint": "past simple passivo",
+      "explain": "Was reviewed."
+    },
+    {
+      "q": "The links should not ___ (hide) from keyboard users.",
+      "a": [
+        "be hidden"
+      ],
+      "hint": "should not + be + participio",
+      "explain": "Should not be hidden."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Aprire un audit",
+      "en": "The website has been tested against WCAG 2.2 level AA.",
+      "it": "Il sito è stato testato rispetto alle WCAG 2.2 livello AA."
+    },
+    {
+      "group": "Aprire un audit",
+      "en": "The audit covered the ten most important page templates.",
+      "it": "L'audit ha riguardato i dieci template di pagina più importanti."
+    },
+    {
+      "group": "Aprire un audit",
+      "en": "Testing was carried out with NVDA and VoiceOver.",
+      "it": "I test sono stati eseguiti con NVDA e VoiceOver."
+    },
+    {
+      "group": "Aprire un audit",
+      "en": "Both automated and manual testing were used.",
+      "it": "Sono stati usati sia test automatici sia manuali."
+    },
+    {
+      "group": "Descrivere un problema",
+      "en": "The image has no alternative text.",
+      "it": "L'immagine non ha testo alternativo."
+    },
+    {
+      "group": "Descrivere un problema",
+      "en": "The text does not meet the minimum contrast ratio of 4.5 to 1.",
+      "it": "Il testo non rispetta il rapporto di contrasto minimo di 4,5 a 1."
+    },
+    {
+      "group": "Descrivere un problema",
+      "en": "The menu cannot be operated with a keyboard.",
+      "it": "Il menu non può essere usato con la tastiera."
+    },
+    {
+      "group": "Descrivere un problema",
+      "en": "The focus indicator is not visible.",
+      "it": "L'indicatore di focus non è visibile."
+    },
+    {
+      "group": "Descrivere un problema",
+      "en": "The form fields are not labelled correctly.",
+      "it": "I campi del modulo non sono etichettati correttamente."
+    },
+    {
+      "group": "Descrivere un problema",
+      "en": "The heading structure is not logical.",
+      "it": "La struttura dei titoli non è logica."
+    },
+    {
+      "group": "Spiegare l'impatto",
+      "en": "This is a barrier for blind users.",
+      "it": "Questa è una barriera per gli utenti non vedenti."
+    },
+    {
+      "group": "Spiegare l'impatto",
+      "en": "Keyboard users cannot reach the checkout.",
+      "it": "Chi usa la tastiera non riesce a raggiungere il checkout."
+    },
+    {
+      "group": "Spiegare l'impatto",
+      "en": "A screen reader announces this button as unlabelled.",
+      "it": "Un lettore di schermo annuncia questo pulsante come senza etichetta."
+    },
+    {
+      "group": "Spiegare l'impatto",
+      "en": "Users with low vision may not be able to read this text.",
+      "it": "Chi ha una vista debole potrebbe non riuscire a leggere questo testo."
+    },
+    {
+      "group": "Raccomandare il rimedio",
+      "en": "The alt text should be rewritten to describe the purpose of the image.",
+      "it": "Il testo alternativo andrebbe riscritto per descrivere lo scopo dell'immagine."
+    },
+    {
+      "group": "Raccomandare il rimedio",
+      "en": "A visible focus style needs to be added to all links.",
+      "it": "Va aggiunto uno stile di focus visibile a tutti i link."
+    },
+    {
+      "group": "Raccomandare il rimedio",
+      "en": "Native HTML elements should be used instead of ARIA where possible.",
+      "it": "Dove possibile andrebbero usati elementi HTML nativi al posto di ARIA."
+    },
+    {
+      "group": "Raccomandare il rimedio",
+      "en": "The colour of the text must be darkened.",
+      "it": "Il colore del testo deve essere scurito."
+    },
+    {
+      "group": "Raccomandare il rimedio",
+      "en": "We recommend adding a skip link at the top of every page.",
+      "it": "Raccomandiamo di aggiungere un link per saltare al contenuto in cima a ogni pagina."
+    },
+    {
+      "group": "Stato di conformità",
+      "en": "The site partially conforms to WCAG 2.2 level AA.",
+      "it": "Il sito è parzialmente conforme alle WCAG 2.2 livello AA."
+    },
+    {
+      "group": "Stato di conformità",
+      "en": "Most success criteria are met, but five are not.",
+      "it": "La maggior parte dei criteri di successo è soddisfatta, ma cinque no."
+    },
+    {
+      "group": "Stato di conformità",
+      "en": "The critical issues should be fixed before the launch.",
+      "it": "I problemi critici andrebbero corretti prima del lancio."
+    },
+    {
+      "group": "Stato di conformità",
+      "en": "The site will be retested once the fixes have been made.",
+      "it": "Il sito sarà testato di nuovo quando le correzioni saranno state fatte."
+    },
+    {
+      "group": "Stato di conformità",
+      "en": "An accessibility statement needs to be published.",
+      "it": "Va pubblicata una dichiarazione di accessibilità."
+    },
+    {
+      "group": "Parlare con il cliente",
+      "en": "Accessibility is not only a legal requirement. It also helps all your users.",
+      "it": "L'accessibilità non è solo un obbligo di legge. Aiuta anche tutti i vostri utenti."
+    }
+  ],
+  "dialogue": {
+    "title": "Presenting the audit results to a client",
+    "context": "Luca presenta a Helen Brooks, responsabile di un ente pubblico, i risultati dell'audit di accessibilità del loro sito. Lei vuole sapere se il sito è conforme.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Luca, is our website compliant with WCAG?",
+        "it": "Luca, il nostro sito è conforme alle WCAG?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Not yet. It has been tested against WCAG 2.2 level AA, and it partially conforms.",
+        "it": "Non ancora. È stato testato rispetto alle WCAG 2.2 livello AA ed è conforme solo in parte."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "What are the main problems?",
+        "it": "Quali sono i problemi principali?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "First, many images have no alt text, so a screen reader cannot describe them.",
+        "it": "Primo: molte immagini non hanno testo alternativo, quindi un lettore di schermo non può descriverle."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "I see. Is that serious?",
+        "it": "Capisco. È grave?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, it fails success criterion 1.1.1. Alt text needs to be added to every informative image.",
+        "it": "Sì, non supera il criterio di successo 1.1.1. Il testo alternativo va aggiunto a ogni immagine informativa."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "And what else?",
+        "it": "E cos'altro?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "The menu cannot be used with a keyboard, and the focus indicator is invisible.",
+        "it": "Il menu non può essere usato con la tastiera e l'indicatore di focus è invisibile."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "So someone who cannot use a mouse is blocked?",
+        "it": "Quindi chi non può usare il mouse resta bloccato?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Exactly. That is a critical barrier, and it should be fixed first.",
+        "it": "Esatto. È una barriera critica e andrebbe corretta per prima."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "What about the colours?",
+        "it": "E i colori?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "The colour contrast ratio of the grey text is only 2.8 to 1. The minimum for normal text is 4.5 to 1.",
+        "it": "Il rapporto di contrasto del testo grigio è solo 2,8 a 1. Il minimo per il testo normale è 4,5 a 1."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "How long will the remediation take?",
+        "it": "Quanto tempo richiederà la correzione?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "About three weeks. The menu is being rebuilt now, and the rest will be done after that.",
+        "it": "Circa tre settimane. Il menu è in fase di ricostruzione adesso e il resto sarà fatto dopo."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "And then?",
+        "it": "E poi?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "The site will be retested, and an accessibility statement can be published.",
+        "it": "Il sito verrà testato di nuovo e si potrà pubblicare la dichiarazione di accessibilità."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What is wrong with the images?",
+      "options": [
+        "They have no alt text",
+        "They are too large",
+        "They have no captions"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What problem does the menu have?",
+      "options": [
+        "It is too slow",
+        "It cannot be used with a keyboard",
+        "It has no labels"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is the contrast ratio of the grey text?",
+      "options": [
+        "4.5 to 1",
+        "3 to 1",
+        "2.8 to 1"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What will happen after the fixes?",
+      "options": [
+        "The site will be retested",
+        "The site will be closed",
+        "The site will be redesigned"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Il sito è stato testato con un lettore di schermo.",
+      "en": "The site has been tested with a screen reader.",
+      "alt": [
+        "The website has been tested with a screen reader.",
+        "The site was tested with a screen reader."
+      ]
+    },
+    {
+      "it": "Il testo alternativo va aggiunto a ogni immagine informativa.",
+      "en": "Alt text needs to be added to every informative image.",
+      "alt": [
+        "Alt text must be added to every informative image.",
+        "Every informative image needs alt text.",
+        "Alt text needs adding to every informative image."
+      ]
+    },
+    {
+      "it": "Questo problema andrebbe corretto per primo.",
+      "en": "This problem should be fixed first.",
+      "alt": [
+        "This issue should be fixed first.",
+        "This problem should be fixed before the others."
+      ]
+    },
+    {
+      "it": "Il menu non può essere usato con la tastiera.",
+      "en": "The menu cannot be used with a keyboard.",
+      "alt": [
+        "The menu can't be operated with a keyboard.",
+        "The menu cannot be operated with the keyboard."
+      ]
+    },
+    {
+      "it": "Il rapporto di contrasto è inferiore a 4,5 a 1.",
+      "en": "The contrast ratio is lower than 4.5 to 1.",
+      "alt": [
+        "The contrast ratio is below 4.5 to 1.",
+        "The colour contrast ratio is less than 4.5 to 1."
+      ]
+    },
+    {
+      "it": "Il sito è parzialmente conforme alle WCAG 2.2 livello AA.",
+      "en": "The site partially conforms to WCAG 2.2 level AA.",
+      "alt": [
+        "The website is partially compliant with WCAG 2.2 level AA.",
+        "The site is partly compliant with WCAG 2.2 level AA."
+      ]
+    },
+    {
+      "it": "L'indicatore di focus non è visibile.",
+      "en": "The focus indicator is not visible.",
+      "alt": [
+        "The focus indicator isn't visible.",
+        "There is no visible focus indicator."
+      ]
+    },
+    {
+      "it": "Il menu viene ricostruito in questo momento.",
+      "en": "The menu is being rebuilt at the moment.",
+      "alt": [
+        "The menu is being rebuilt right now.",
+        "The menu is currently being rebuilt."
+      ]
+    },
+    {
+      "it": "Il sito verrà testato di nuovo dopo le correzioni.",
+      "en": "The site will be retested after the fixes.",
+      "alt": [
+        "The site will be tested again after the fixes.",
+        "The site will be retested once the fixes have been made."
+      ]
+    },
+    {
+      "it": "Questa è una barriera per gli utenti non vedenti.",
+      "en": "This is a barrier for blind users.",
+      "alt": [
+        "This is a barrier for blind people.",
+        "This is a barrier to blind users."
+      ]
+    },
+    {
+      "it": "Va pubblicata una dichiarazione di accessibilità.",
+      "en": "An accessibility statement needs to be published.",
+      "alt": [
+        "An accessibility statement must be published.",
+        "An accessibility statement should be published."
+      ]
+    },
+    {
+      "it": "I problemi critici sono stati segnalati nel report.",
+      "en": "The critical issues have been flagged in the report.",
+      "alt": [
+        "The critical issues were flagged in the report.",
+        "The critical problems have been flagged in the report."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una voce di un report di audit (100-120 parole) su un problema di accessibilità reale: per esempio un menu non usabile da tastiera, un campo senza etichetta o un testo con poco contrasto. Indica il criterio di successo WCAG, descrivi il problema con il passivo, spiega chi è colpito e raccomanda il rimedio. Usa almeno tre forme passive diverse (has been tested, should be fixed, needs to be added...).",
+    "taskEn": "Write one entry of an audit report (100-120 words) about a real accessibility problem: for example a menu that cannot be used with a keyboard, a field without a label, or text with low contrast. Give the WCAG success criterion, describe the problem using the passive, explain who is affected, and recommend the remedy. Use at least three different passive forms (has been tested, should be fixed, needs to be added...).",
+    "model": "Issue 4: Form fields have no visible labels\nSuccess criterion: 3.3.2 Labels or Instructions (level A).\nThe contact page has been tested with NVDA and a keyboard. The email and message fields have no visible labels: only placeholder text is used. The placeholder disappears as soon as users start typing, so they may forget what each field is for. Users with cognitive disabilities and screen magnifier users are particularly affected, and some screen readers do not announce placeholder text reliably.\nA visible label needs to be added to every field, and it should be associated with the field using the for and id attributes. This issue should be fixed before the launch. The page will be retested after the correction."
+  },
+  "speaking": {
+    "shadowing": [
+      "The website has been tested against WCAG 2.2 level AA.",
+      "Every informative image needs alt text.",
+      "The menu cannot be operated with a keyboard.",
+      "The focus indicator is not visible.",
+      "This problem should be fixed before the launch.",
+      "The colour contrast ratio is lower than 4.5 to 1.",
+      "A screen reader announces this button as unlabelled.",
+      "The site will be retested once the fixes have been made."
+    ],
+    "prompts": [
+      {
+        "en": "What is WCAG, and what are the conformance levels?",
+        "it": "Cos'è WCAG e quali sono i livelli di conformità?",
+        "help": "Inizia con: WCAG are guidelines for... / There are three levels: A, AA and AAA."
+      },
+      {
+        "en": "How do you test a page with a screen reader and a keyboard?",
+        "it": "Come testi una pagina con un lettore di schermo e la tastiera?",
+        "help": "Usa: The page is tested with... / I navigate with the tab key..."
+      },
+      {
+        "en": "Explain a critical accessibility problem to a non-technical client.",
+        "it": "Spiega un problema critico di accessibilità a un cliente non tecnico.",
+        "help": "Usa: This is a barrier for... / It should be fixed because..."
+      },
+      {
+        "en": "What are the four WCAG principles?",
+        "it": "Quali sono i quattro principi delle WCAG?",
+        "help": "Perceivable, operable, understandable, robust."
+      },
+      {
+        "en": "What happens after the remediation?",
+        "it": "Cosa succede dopo la correzione?",
+        "help": "Usa: The site will be retested... / A statement needs to be published..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: l'audit di accessibilità",
+      "show": [
+        "Accessibility and website audits",
+        "WCAG 2.2, screen reader, alt text",
+        "passivo avanzato"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione ventisette. Oggi usi l'inglese come un auditor di accessibilità. Impari il lessico delle WCAG e il passivo, che è la forma tipica dei report di audit."
+        },
+        {
+          "lang": "en",
+          "text": "The website has been tested against WCAG 2.2 level AA."
+        }
+      ]
+    },
+    {
+      "title": "Le parole chiave delle WCAG",
+      "show": [
+        "success criterion",
+        "conformance level A, AA, AAA",
+        "perceivable, operable, understandable, robust"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Le WCAG sono organizzate in quattro principi: perceivable, operable, understandable e robust. Ogni requisito è un success criterion. I livelli di conformità sono tre: A, AA e AAA. Di solito si chiede il livello AA."
+        },
+        {
+          "lang": "en",
+          "text": "This page fails success criterion 1.1.1. The client needs conformance level AA."
+        }
+      ]
+    },
+    {
+      "title": "Gli strumenti e gli utenti",
+      "show": [
+        "screen reader",
+        "assistive technology",
+        "keyboard navigation"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Uno screen reader legge la pagina ad alta voce: è una tecnologia assistiva. Molte persone, poi, navigano solo con la tastiera. Trovano una barriera dove manca il testo alternativo o dove il focus è invisibile."
+        },
+        {
+          "lang": "en",
+          "text": "A screen reader announces this button as unlabelled. Keyboard users cannot reach the checkout."
+        }
+      ]
+    },
+    {
+      "title": "Passivo: come si forma",
+      "show": [
+        "be + participio passato",
+        "is tested, was tested",
+        "has been tested, will be tested"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il passivo si forma con be più il participio passato. Cambia solo il verbo be, per mostrare il tempo. Nei report interessa cosa è successo alla pagina, non chi l'ha fatto."
+        },
+        {
+          "lang": "en",
+          "text": "The page is tested. The page was tested. The page has been tested. The page will be tested."
+        }
+      ]
+    },
+    {
+      "title": "Passivo con i modali",
+      "show": [
+        "should be fixed",
+        "must be added",
+        "can be improved"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Con i modali scrivi modale più be più participio. Should dà un consiglio. Must indica un obbligo. Can dice che è possibile."
+        },
+        {
+          "lang": "en",
+          "text": "This should be fixed first. Alt text must be added. The contrast can be improved."
+        }
+      ]
+    },
+    {
+      "title": "Needs to be e passivo continuo",
+      "show": [
+        "needs to be added",
+        "needs adding",
+        "is being rebuilt"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Needs to be più participio dice cosa va fatto. Puoi anche dire needs più ing, una forma più comune nell'inglese britannico. Per quello che si fa adesso usa is being più participio."
+        },
+        {
+          "lang": "en",
+          "text": "The label needs to be added. The menu needs rebuilding. The menu is being rebuilt at the moment."
+        }
+      ]
+    },
+    {
+      "title": "Una voce di report",
+      "show": [
+        "criterio",
+        "problema",
+        "impatto",
+        "rimedio"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Una buona voce di report ha quattro parti. Il criterio, il problema, l'impatto sugli utenti e il rimedio. Scrivi frasi brevi e usa il passivo senza esagerare."
+        },
+        {
+          "lang": "en",
+          "text": "The text does not meet the minimum contrast ratio. This is a barrier for users with low vision. The colour must be darkened."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "has been tested",
+        "should be fixed",
+        "needs to be added"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Usa has been tested per dire cosa è stato verificato. Usa should be fixed per i consigli. Usa needs to be added per dire cosa manca. Ora scrivi una voce di audit."
+        },
+        {
+          "lang": "en",
+          "text": "The site will be retested after the fixes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": 2,
+  "week": 1,
+  "title": "Presentarsi e parlare del proprio lavoro",
+  "titleEn": "Introducing yourself and your job",
+  "intro": "Oggi impari a presentarti, a dire che lavoro fai e a spiegare cosa stai facendo in questo periodo. Ripassi il present simple e il present continuous, la -s della terza persona e le domande con do e does. È la base di ogni primo incontro con un cliente o un collega.",
+  "goals": [
+    "Presentarti in modo chiaro in 30 secondi",
+    "Descrivere il tuo ruolo, la tua azienda e le tue mansioni",
+    "Scegliere tra present simple e present continuous",
+    "Non dimenticare la -s della terza persona",
+    "Fare e capire domande con do e does"
+  ],
+  "words": [
+    { "en": "to work", "pron": "uèrk", "it": "lavorare", "type": "verb", "ex": "I work for a small digital agency in Milan.", "exIt": "Lavoro per una piccola agenzia digitale a Milano." },
+    { "en": "to manage", "pron": "mànidg", "it": "gestire, dirigere", "type": "verb", "ex": "She manages a team of six developers.", "exIt": "Dirige un team di sei sviluppatori." },
+    { "en": "to develop", "pron": "divèlop", "it": "sviluppare", "type": "verb", "ex": "We develop websites and web applications.", "exIt": "Sviluppiamo siti e applicazioni web." },
+    { "en": "to design", "pron": "dizàin", "it": "progettare, disegnare", "type": "verb", "ex": "He designs the layout of the pages.", "exIt": "Progetta il layout delle pagine." },
+    { "en": "to build", "pron": "bìld", "it": "costruire, realizzare", "type": "verb", "ex": "I build custom themes for WordPress.", "exIt": "Realizzo temi personalizzati per WordPress." },
+    { "en": "to test", "pron": "tèst", "it": "testare, provare", "type": "verb", "ex": "We test every page with a screen reader.", "exIt": "Testiamo ogni pagina con uno screen reader." },
+    { "en": "to maintain", "pron": "meintèin", "it": "mantenere, curare la manutenzione", "type": "verb", "ex": "I maintain the websites of about twenty clients.", "exIt": "Curo la manutenzione dei siti di una ventina di clienti." },
+    { "en": "to lead", "pron": "lìid", "it": "guidare, essere a capo di", "type": "verb", "ex": "She leads the design team.", "exIt": "Guida il team di design." },
+    { "en": "to support", "pron": "sapòrt", "it": "supportare, assistere", "type": "verb", "ex": "We support clients with training and maintenance.", "exIt": "Assistiamo i clienti con formazione e manutenzione." },
+    { "en": "to report to", "pron": "ripòrt tu", "it": "rispondere a (gerarchicamente)", "type": "verb", "ex": "I report to the head of marketing.", "exIt": "Rispondo al responsabile marketing." },
+    { "en": "to specialise in", "pron": "spèsciolaiz in", "it": "specializzarsi in", "type": "verb", "ex": "We specialise in accessible websites.", "exIt": "Siamo specializzati in siti accessibili." },
+    { "en": "to deal with", "pron": "dìil uìd", "it": "occuparsi di, trattare con", "type": "verb", "ex": "I deal with clients and project planning.", "exIt": "Mi occupo dei clienti e della pianificazione dei progetti." },
+    { "en": "to collaborate", "pron": "kolàboreit", "it": "collaborare", "type": "verb", "ex": "I often collaborate with designers and copywriters.", "exIt": "Collaboro spesso con designer e copywriter." },
+    { "en": "to train", "pron": "trèin", "it": "formare, fare formazione a", "type": "verb", "ex": "I train our clients to use the content management system.", "exIt": "Formo i nostri clienti sull'uso del sistema di gestione dei contenuti." },
+    { "en": "to commute", "pron": "komiùut", "it": "fare il pendolare", "type": "verb", "ex": "I commute to the office by train twice a week.", "exIt": "Vado in ufficio in treno due volte a settimana." },
+    { "en": "to attend", "pron": "atènd", "it": "partecipare a, essere presente a", "type": "verb", "ex": "I attend a team meeting every Monday.", "exIt": "Partecipo a una riunione di team ogni lunedì." },
+    { "en": "to take care of", "pron": "tèik chèr ov", "it": "occuparsi di, prendersi cura di", "type": "verb", "ex": "Giulia takes care of all the social media accounts.", "exIt": "Giulia si occupa di tutti gli account social." },
+    { "en": "to coordinate", "pron": "koòrdineit", "it": "coordinare", "type": "verb", "ex": "I coordinate the work between the developers and the client.", "exIt": "Coordino il lavoro tra gli sviluppatori e il cliente." },
+    { "en": "developer", "pron": "divèloper", "it": "sviluppatore", "type": "noun", "ex": "I'm a web developer with ten years of experience.", "exIt": "Sono uno sviluppatore web con dieci anni di esperienza." },
+    { "en": "designer", "pron": "dizàiner", "it": "designer, progettista grafico", "type": "noun", "ex": "Our designer is working on the new logo.", "exIt": "Il nostro designer sta lavorando al nuovo logo." },
+    { "en": "freelancer", "pron": "frìilanser", "it": "libero professionista", "type": "noun", "ex": "I'm a freelancer, so I work with several clients.", "exIt": "Sono un libero professionista, quindi lavoro con diversi clienti." },
+    { "en": "consultant", "pron": "konsàltant", "it": "consulente", "type": "noun", "ex": "She works as an accessibility consultant.", "exIt": "Lavora come consulente di accessibilità." },
+    { "en": "colleague", "pron": "kòliig", "it": "collega", "type": "noun", "ex": "My colleague Paolo is in charge of the servers.", "exIt": "Il mio collega Paolo è responsabile dei server." },
+    { "en": "department", "pron": "dipàrtment", "it": "reparto, ufficio, dipartimento", "type": "noun", "ex": "She works in the IT department.", "exIt": "Lavora nel reparto informatico." },
+    { "en": "company", "pron": "kàmpani", "it": "azienda, società", "type": "noun", "ex": "It's a small company with fifteen employees.", "exIt": "È una piccola azienda con quindici dipendenti." },
+    { "en": "employee", "pron": "imploiìi", "it": "dipendente", "type": "noun", "ex": "We have twelve employees and three freelancers.", "exIt": "Abbiamo dodici dipendenti e tre liberi professionisti." },
+    { "en": "team", "pron": "tìim", "it": "squadra, team", "type": "noun", "ex": "I work in a team of five people.", "exIt": "Lavoro in un team di cinque persone." },
+    { "en": "role", "pron": "ròul", "it": "ruolo", "type": "noun", "ex": "What is your role in the project?", "exIt": "Qual è il tuo ruolo nel progetto?" },
+    { "en": "skill", "pron": "skìl", "it": "competenza, abilità", "type": "noun", "ex": "Communication is a very important skill.", "exIt": "La comunicazione è una competenza molto importante." },
+    { "en": "experience", "pron": "ikspìiriens", "it": "esperienza (professionale)", "type": "noun", "ex": "I have six years of experience in web development.", "exIt": "Ho sei anni di esperienza nello sviluppo web." },
+    { "en": "responsibility", "pron": "risponsabìliti", "it": "responsabilità, incarico", "type": "noun", "ex": "My main responsibility is the quality of the code.", "exIt": "La mia responsabilità principale è la qualità del codice." },
+    { "en": "background", "pron": "bàkgraund", "it": "formazione, percorso, provenienza", "type": "noun", "ex": "I have a background in computer science.", "exIt": "Ho una formazione in informatica." },
+    { "en": "degree", "pron": "digrìi", "it": "laurea", "type": "noun", "ex": "She has a degree in graphic design.", "exIt": "Ha una laurea in design grafico." },
+    { "en": "routine", "pron": "ruutìin", "it": "routine, abitudine quotidiana", "type": "noun", "ex": "My daily routine starts with checking emails.", "exIt": "La mia routine quotidiana inizia con il controllo delle mail." },
+    { "en": "office", "pron": "òfis", "it": "ufficio, sede", "type": "noun", "ex": "Our office is in the city centre.", "exIt": "Il nostro ufficio è in centro città." },
+    { "en": "job title", "pron": "giòb tàitol", "it": "qualifica, titolo professionale", "type": "noun", "ex": "My job title is Senior Front-end Developer.", "exIt": "La mia qualifica è Senior Front-end Developer." },
+    { "en": "field", "pron": "fìild", "it": "settore, campo", "type": "noun", "ex": "I work in the field of digital accessibility.", "exIt": "Lavoro nel campo dell'accessibilità digitale." },
+    { "en": "client", "pron": "clàient", "it": "cliente (di servizi professionali)", "type": "noun", "ex": "Most of my clients are small businesses.", "exIt": "La maggior parte dei miei clienti sono piccole imprese." },
+    { "en": "manager", "pron": "mànidger", "it": "responsabile, capo, direttore", "type": "noun", "ex": "My manager is very flexible about working hours.", "exIt": "Il mio responsabile è molto flessibile sugli orari." },
+    { "en": "self-employed", "pron": "sèlf implòid", "it": "autonomo, lavoratore in proprio", "type": "adj", "ex": "I've been self-employed since 2018.", "exIt": "Lavoro in proprio dal 2018." },
+    { "en": "responsible", "pron": "rispònsibol", "it": "responsabile", "type": "adj", "ex": "I'm responsible for the technical side of the project.", "exIt": "Sono responsabile della parte tecnica del progetto." },
+    { "en": "experienced", "pron": "ikspìirienst", "it": "esperto, con esperienza", "type": "adj", "ex": "We are an experienced team of developers.", "exIt": "Siamo un team esperto di sviluppatori." },
+    { "en": "skilled", "pron": "skìld", "it": "capace, qualificato", "type": "adj", "ex": "She is a skilled designer.", "exIt": "È una designer molto brava." },
+    { "en": "reliable", "pron": "rilàiabol", "it": "affidabile", "type": "adj", "ex": "Clients want a reliable partner, not just a cheap one.", "exIt": "I clienti vogliono un partner affidabile, non solo economico." },
+    { "en": "full-time", "pron": "fùl tàim", "it": "a tempo pieno", "type": "adj", "ex": "I work full-time for a software company.", "exIt": "Lavoro a tempo pieno per un'azienda di software." },
+    { "en": "part-time", "pron": "pàrt tàim", "it": "a tempo parziale", "type": "adj", "ex": "She works part-time, three days a week.", "exIt": "Lavora part-time, tre giorni a settimana." },
+    { "en": "usually", "pron": "iùsuali", "it": "di solito", "type": "adv", "ex": "I usually start work at nine.", "exIt": "Di solito comincio a lavorare alle nove." },
+    { "en": "currently", "pron": "càrrentli", "it": "attualmente, al momento", "type": "adv", "ex": "I'm currently working on an online shop.", "exIt": "Al momento sto lavorando a un negozio online." },
+    { "en": "mainly", "pron": "mèinli", "it": "principalmente", "type": "adv", "ex": "I mainly work with small and medium businesses.", "exIt": "Lavoro principalmente con piccole e medie imprese." },
+    { "en": "regularly", "pron": "règhiularli", "it": "regolarmente, con regolarità", "type": "adv", "ex": "We regularly test our websites for accessibility.", "exIt": "Testiamo regolarmente l'accessibilità dei nostri siti." }
+  ],
+  "falseFriends": [
+    { "en": "college", "it": "università, istituto di studi superiori", "trap": "Non vuol dire 'collega' (colleague) e nemmeno 'collegio'." },
+    { "en": "parents", "it": "genitori", "trap": "Non vuol dire 'parenti'. I parenti sono 'relatives'." },
+    { "en": "to attend", "it": "partecipare, frequentare", "trap": "Non vuol dire 'attendere'. Attendere si dice 'to wait'." }
+  ],
+  "grammar": {
+    "title": "Present simple e present continuous, la -s e le domande con do e does",
+    "explainIt": [
+      "Il present simple descrive cose che sono sempre vere, abitudini e routine. Esempi: I work in Milan. She starts at nine. Lo usiamo con parole come always, usually, often, sometimes, never, every day, on Mondays. Si forma con il verbo base: I work, you work, we work, they work.",
+      "Con he, she e it il verbo prende la -s: he works, she manages, it runs. Ci sono tre casi speciali. I verbi in -s, -sh, -ch, -x, -o prendono -es: she watches, he does, it fixes. I verbi con consonante più y cambiano in -ies: she studies, he tries. Il verbo have diventa has: he has. Questa -s è l'errore più comune degli italiani, perché in italiano il verbo cambia in modo diverso.",
+      "Il present continuous descrive qualcosa che succede adesso o in questo periodo, e che è temporaneo. Si forma con am, is o are più il verbo in -ing: I am working on a new website. We are testing the checkout. Lo usiamo con now, at the moment, currently, this week. In italiano è come 'sto lavorando'. Ma attenzione: l'inglese lo usa anche per periodi più lunghi, come I'm working on a big project this month.",
+      "Alcuni verbi di solito non si usano nel continuous: sono verbi di stato come know, like, want, need, understand, have (per possesso). Si dice I know the answer, non I am knowing. Si dice I need the file, non I am needing the file.",
+      "Domande e negazioni del present simple usano do e does. Do you work from home? Does she manage the team? Con does il verbo torna senza -s: Does she work here? Non Does she works. Nelle negazioni: I don't work on Fridays. He doesn't know. Nel continuous invece si inverte: Are you working today? Is he using the new tool? Per le domande con parola interrogativa: Where do you work? What does she do? What are you doing now?"
+    ],
+    "explainEn": [
+      "We use the present simple for things that are always true, habits and routines. For example: I work in Milan. She starts at nine. We often use it with always, usually, often, sometimes, never, every day and on Mondays. The form is the base verb: I work, you work, we work, they work.",
+      "With he, she and it we add -s: he works, she manages, it runs. There are three special cases. Verbs ending in -s, -sh, -ch, -x and -o take -es: she watches, he does, it fixes. Verbs with a consonant and y change to -ies: she studies, he tries. The verb have becomes has. This -s is the most common mistake for Italian speakers.",
+      "We use the present continuous for something happening now or around now, and for temporary situations. The form is am, is or are plus the verb with -ing: I am working on a new website. We are testing the checkout. We use it with now, at the moment, currently and this week. We can also use it for longer periods, like I'm working on a big project this month.",
+      "Some verbs are not usually used in the continuous: they are state verbs, like know, like, want, need, understand and have for possession. We say I know the answer, not I am knowing. We say I need the file, not I am needing the file.",
+      "Questions and negatives in the present simple use do and does. Do you work from home? Does she manage the team? After does the verb has no -s: Does she work here? Not Does she works. In negatives: I don't work on Fridays. He doesn't know. In the continuous we change the order: Are you working today? Is he using the new tool? Questions with a question word: Where do you work? What does she do? What are you doing now?"
+    ],
+    "rules": [
+      {
+        "it": "Present simple: abitudini, routine, fatti sempre veri. Con he, she, it serve la -s.",
+        "en": "Present simple: habits, routines and permanent facts. With he, she, it we need the -s.",
+        "form": "soggetto + verbo base (+ s con he/she/it)",
+        "examples": [
+          { "en": "I work for a software company.", "it": "Lavoro per un'azienda di software." },
+          { "en": "She starts work at eight thirty.", "it": "Lei comincia a lavorare alle otto e mezza." },
+          { "en": "He usually checks his emails first thing in the morning.", "it": "Di solito controlla le mail appena arriva la mattina." }
+        ]
+      },
+      {
+        "it": "Present continuous: azione in corso adesso o in questo periodo, situazione temporanea.",
+        "en": "Present continuous: an action happening now or around now, a temporary situation.",
+        "form": "am/is/are + verbo-ing",
+        "examples": [
+          { "en": "I'm working on an online shop at the moment.", "it": "In questo momento sto lavorando a un negozio online." },
+          { "en": "We are testing the new menu this week.", "it": "Questa settimana stiamo testando il nuovo menu." },
+          { "en": "She isn't working today; she's at a conference.", "it": "Oggi non lavora: è a una conferenza." }
+        ]
+      },
+      {
+        "it": "Domande e negazioni del present simple: do/does + verbo base. Con does il verbo non prende la -s.",
+        "en": "Present simple questions and negatives: do/does + base verb. After does there is no -s.",
+        "form": "Do/Does + soggetto + verbo? / don't, doesn't + verbo",
+        "examples": [
+          { "en": "Do you work from home?", "it": "Lavori da casa?" },
+          { "en": "Does your manager speak Italian?", "it": "Il tuo responsabile parla italiano?" },
+          { "en": "She doesn't work on Fridays.", "it": "Lei non lavora il venerdì." }
+        ]
+      },
+      {
+        "it": "Gli avverbi di frequenza (always, usually, often, never) stanno prima del verbo, ma dopo be.",
+        "en": "Frequency adverbs (always, usually, often, never) go before the main verb, but after be.",
+        "form": "soggetto + avverbio + verbo / soggetto + be + avverbio",
+        "examples": [
+          { "en": "I usually work from home on Fridays.", "it": "Di solito lavoro da casa il venerdì." },
+          { "en": "She is always on time.", "it": "Lei è sempre puntuale." },
+          { "en": "We never miss a deadline.", "it": "Non sforiamo mai una scadenza." }
+        ]
+      },
+      {
+        "it": "I verbi di stato (know, need, want, like, understand) di solito non si usano nel continuous.",
+        "en": "State verbs (know, need, want, like, understand) are usually not used in the continuous.",
+        "form": "I know / I need / I want (non I am knowing)",
+        "examples": [
+          { "en": "I need the files by Friday.", "it": "Mi servono i file entro venerdì." },
+          { "en": "I understand the problem.", "it": "Capisco il problema." }
+        ]
+      }
+    ],
+    "tip": "Chiediti: è un'abitudine o è un fatto stabile? Present simple. Sta succedendo adesso o in questo periodo? Present continuous. E con he, she, it, controlla sempre la -s. Dopo does il verbo resta senza -s: la -s ce l'ha già does.",
+    "mistakes": [
+      { "wrong": "She work in a bank.", "right": "She works in a bank.", "why": "con he, she, it serve la -s" },
+      { "wrong": "Does she works here?", "right": "Does she work here?", "why": "dopo does il verbo non ha la -s" },
+      { "wrong": "I am knowing your manager.", "right": "I know your manager.", "why": "know è un verbo di stato, non si usa nel continuous" },
+      { "wrong": "I work on a big project at the moment.", "right": "I'm working on a big project at the moment.", "why": "at the moment indica un'azione in corso: present continuous" },
+      { "wrong": "I am usually starting work at nine.", "right": "I usually start work at nine.", "why": "una routine vuole il present simple" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I ___ (work) for a digital agency in Turin.", "a": ["work"], "hint": "fatto stabile", "explain": "Dove lavori di solito: present simple." },
+    { "q": "She ___ (manage) a team of ten people.", "a": ["manages"], "hint": "she", "explain": "Con she il verbo prende la -s." },
+    { "q": "___ you work from home on Fridays?", "a": ["do"], "hint": "domanda con you", "explain": "Con you si usa do." },
+    { "q": "___ your manager speak English?", "a": ["does"], "hint": "domanda con your manager", "explain": "Con he, she, it e un nome singolare si usa does." },
+    { "q": "I ___ (not work) on Saturdays.", "a": ["don't work", "do not work"], "hint": "negazione con I", "explain": "Negazione con I: don't più verbo base." },
+    { "q": "He ___ (not know) the client yet.", "a": ["doesn't know", "does not know"], "hint": "he + negazione", "explain": "Con he: doesn't, e know senza -s." },
+    { "q": "At the moment we ___ (test) the new website.", "a": ["are testing", "'re testing"], "hint": "at the moment", "explain": "Azione in corso: present continuous." },
+    { "q": "What ___ you do? I'm a web developer.", "a": ["do"], "hint": "domanda sul lavoro in generale", "explain": "What do you do? è la domanda standard sul lavoro." },
+    { "q": "She ___ (study) accessibility at the moment.", "a": ["is studying", "'s studying"], "hint": "at the moment", "explain": "Azione temporanea in corso: is studying." },
+    { "q": "He usually ___ (check) his emails at nine.", "a": ["checks"], "hint": "usually", "explain": "Usually indica una routine, e con he serve checks." },
+    { "q": "I ___ (need) the logo by Monday.", "a": ["need"], "hint": "verbo di stato", "explain": "Need è un verbo di stato: present simple." },
+    { "q": "Where ___ she work? In a large company?", "a": ["does"], "hint": "domanda con she", "explain": "Con she serve does." }
+  ],
+  "phrases": [
+    { "group": "Presentarsi", "en": "Hi, I'm Luca. Nice to meet you.", "it": "Ciao, sono Luca. Piacere di conoscerti." },
+    { "group": "Presentarsi", "en": "I'm a web developer and accessibility consultant.", "it": "Sono sviluppatore web e consulente di accessibilità." },
+    { "group": "Presentarsi", "en": "I work for a small agency in Milan.", "it": "Lavoro per una piccola agenzia a Milano." },
+    { "group": "Presentarsi", "en": "I'm self-employed, so I work with several clients.", "it": "Lavoro in proprio, quindi ho diversi clienti." },
+    { "group": "Presentarsi", "en": "What do you do for a living?", "it": "Che lavoro fai?", "note": "domanda comune alle prime presentazioni" },
+    { "group": "Descrivere il lavoro", "en": "I'm responsible for the front end of the site.", "it": "Sono responsabile della parte front end del sito." },
+    { "group": "Descrivere il lavoro", "en": "I deal with clients and project planning.", "it": "Mi occupo dei clienti e della pianificazione dei progetti." },
+    { "group": "Descrivere il lavoro", "en": "My job is to make websites accessible to everyone.", "it": "Il mio lavoro è rendere i siti accessibili a tutti." },
+    { "group": "Descrivere il lavoro", "en": "I report directly to the managing director.", "it": "Rispondo direttamente all'amministratore delegato." },
+    { "group": "Descrivere il lavoro", "en": "We specialise in accessibility audits.", "it": "Siamo specializzati in audit di accessibilità." },
+    { "group": "Descrivere l'azienda", "en": "We're a team of twelve people.", "it": "Siamo un team di dodici persone." },
+    { "group": "Descrivere l'azienda", "en": "The company was founded in 2010.", "it": "L'azienda è stata fondata nel 2010." },
+    { "group": "Descrivere l'azienda", "en": "Our office is in the centre of Bologna.", "it": "Il nostro ufficio è nel centro di Bologna." },
+    { "group": "Descrivere l'azienda", "en": "We mainly work with small and medium businesses.", "it": "Lavoriamo principalmente con piccole e medie imprese." },
+    { "group": "Routine e orari", "en": "I usually start work at nine.", "it": "Di solito comincio a lavorare alle nove." },
+    { "group": "Routine e orari", "en": "I work from home two days a week.", "it": "Lavoro da casa due giorni a settimana." },
+    { "group": "Routine e orari", "en": "I'm currently working on an online shop.", "it": "Al momento sto lavorando a un negozio online." },
+    { "group": "Routine e orari", "en": "I have a team meeting every Monday morning.", "it": "Ho una riunione di team ogni lunedì mattina." },
+    { "group": "Routine e orari", "en": "I'm in the office from nine to six.", "it": "Sono in ufficio dalle nove alle sei." },
+    { "group": "Competenze e studi", "en": "I have six years of experience in web development.", "it": "Ho sei anni di esperienza nello sviluppo web." },
+    { "group": "Competenze e studi", "en": "I have a degree in computer science.", "it": "Ho una laurea in informatica." },
+    { "group": "Competenze e studi", "en": "I'm good at solving problems.", "it": "Sono bravo a risolvere i problemi." },
+    { "group": "Competenze e studi", "en": "I'm used to working with tight deadlines.", "it": "Sono abituato a lavorare con scadenze strette." },
+    { "group": "Fare domande", "en": "What does your company do?", "it": "Di cosa si occupa la tua azienda?" },
+    { "group": "Fare domande", "en": "How long have you worked there?", "it": "Da quanto lavori lì?", "note": "present perfect: lo vedrai meglio nella lezione 6" }
+  ],
+  "dialogue": {
+    "title": "Meeting a new client",
+    "context": "Luca incontra Emma, responsabile marketing di una nuova azienda cliente. Si presentano e parlano del loro lavoro prima della riunione.",
+    "lines": [
+      { "s": "A", "name": "Emma", "en": "Hi, you must be Luca. I'm Emma, the marketing manager at Northwind.", "it": "Ciao, tu devi essere Luca. Sono Emma, la responsabile marketing di Northwind." },
+      { "s": "B", "name": "Luca", "en": "Nice to meet you, Emma. Yes, I'm Luca. I'm a web developer and I specialise in accessibility.", "it": "Piacere, Emma. Sì, sono Luca. Sono sviluppatore web e sono specializzato in accessibilità." },
+      { "s": "A", "name": "Emma", "en": "Interesting. Do you work for an agency?", "it": "Interessante. Lavori per un'agenzia?" },
+      { "s": "B", "name": "Luca", "en": "No, I'm self-employed. I work with small and medium businesses, mainly in Italy and the UK.", "it": "No, lavoro in proprio. Lavoro con piccole e medie imprese, principalmente in Italia e nel Regno Unito." },
+      { "s": "A", "name": "Emma", "en": "That sounds busy. What are you working on at the moment?", "it": "Sembra impegnativo. A cosa stai lavorando in questo momento?" },
+      { "s": "B", "name": "Luca", "en": "I'm building an online shop for a clothing brand. I'm also testing a website with a screen reader.", "it": "Sto costruendo un negozio online per un marchio di abbigliamento. Sto anche testando un sito con uno screen reader." },
+      { "s": "A", "name": "Emma", "en": "Great. And what does a normal day look like for you?", "it": "Ottimo. E com'è una tua giornata normale?" },
+      { "s": "B", "name": "Luca", "en": "I usually start at eight. First I check my emails, then I write code. In the afternoon I speak to clients.", "it": "Di solito comincio alle otto. Prima controllo le mail, poi scrivo codice. Nel pomeriggio parlo con i clienti." },
+      { "s": "A", "name": "Emma", "en": "Do you work from home?", "it": "Lavori da casa?" },
+      { "s": "B", "name": "Luca", "en": "Yes, most days. I go to a coworking space on Wednesdays. And you? How many people are in your team?", "it": "Sì, quasi tutti i giorni. Il mercoledì vado in uno spazio di coworking. E tu? Quante persone ci sono nel tuo team?" },
+      { "s": "A", "name": "Emma", "en": "Eight. I manage the content and the social media, and my colleague Tom looks after the website.", "it": "Otto. Io gestisco i contenuti e i social, e il mio collega Tom si occupa del sito." },
+      { "s": "B", "name": "Luca", "en": "So I'll work with Tom on the project?", "it": "Quindi lavorerò con Tom sul progetto?" },
+      { "s": "A", "name": "Emma", "en": "Yes. He doesn't have much experience with accessibility, so he's really looking forward to learning from you.", "it": "Sì. Non ha molta esperienza di accessibilità, quindi non vede l'ora di imparare da te." },
+      { "s": "B", "name": "Luca", "en": "Perfect. I'm happy to train him. Shall we start the meeting?", "it": "Perfetto. Sono contento di formarlo. Cominciamo la riunione?" }
+    ]
+  },
+  "listening": [
+    { "q": "What is Luca's job?", "options": ["He is a web developer", "He is a marketing manager", "He is a designer"], "answer": 0 },
+    { "q": "Does Luca work for an agency?", "options": ["Yes, a large one", "No, he is self-employed", "Yes, a small one"], "answer": 1 },
+    { "q": "What is Luca doing at the moment?", "options": ["Training Tom", "Writing a report", "Building an online shop"], "answer": 2 },
+    { "q": "What does Tom look after?", "options": ["The website", "The social media", "The content"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Lavoro come sviluppatore web per un'agenzia di Milano.", "en": "I work as a web developer for an agency in Milan.", "alt": ["I'm a web developer and I work for an agency in Milan."] },
+    { "it": "Lei dirige un team di sei persone.", "en": "She manages a team of six people.", "alt": ["She leads a team of six people.", "She manages a team of six."] },
+    { "it": "Di solito comincio a lavorare alle otto.", "en": "I usually start work at eight.", "alt": ["I usually start working at eight.", "I normally start work at eight."] },
+    { "it": "Al momento sto lavorando a un nuovo sito.", "en": "At the moment I'm working on a new website.", "alt": ["I'm working on a new website at the moment.", "I'm currently working on a new website."] },
+    { "it": "Dove lavora il tuo collega?", "en": "Where does your colleague work?", "alt": ["Where does your coworker work?", "Where does your co-worker work?"] },
+    { "it": "Non lavoro il sabato.", "en": "I don't work on Saturdays.", "alt": ["I do not work on Saturdays.", "I don't work on Saturday."] },
+    { "it": "Siamo specializzati in siti accessibili.", "en": "We specialise in accessible websites.", "alt": ["We specialize in accessible websites.", "We are specialised in accessible websites."] },
+    { "it": "Sono responsabile del codice e dei test.", "en": "I'm responsible for the code and the testing.", "alt": ["I am responsible for the code and the tests.", "I'm in charge of the code and the testing."] },
+    { "it": "Hai una laurea in informatica?", "en": "Do you have a degree in computer science?", "alt": ["Have you got a degree in computer science?"] },
+    { "it": "Lavoro in proprio, quindi ho diversi clienti.", "en": "I'm self-employed, so I have several clients.", "alt": ["I work for myself, so I have several clients.", "I'm a freelancer, so I have several clients."] },
+    { "it": "Questa settimana lei non lavora in ufficio.", "en": "She isn't working in the office this week.", "alt": ["She's not working in the office this week.", "She is not working at the office this week."] },
+    { "it": "Collaboro spesso con designer e copywriter.", "en": "I often collaborate with designers and copywriters.", "alt": ["I often work with designers and copywriters."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una breve presentazione di te per una mail a un nuovo cliente, James. Di' come ti chiami, che lavoro fai, per chi lavori e qual è la tua specializzazione. Descrivi una tua giornata tipica in due o tre frasi con il present simple. Poi spiega a cosa stai lavorando in questo periodo con il present continuous. Chiudi dicendo che ti fa piacere collaborare con lui.",
+    "taskEn": "Write a short introduction of yourself for an email to a new client, James. Say your name, your job, who you work for and what you specialise in. Describe a typical day in two or three sentences using the present simple. Then explain what you are working on at the moment using the present continuous. Close by saying you are happy to work with him.",
+    "model": "Subject: Introduction\n\nDear James,\n\nLet me introduce myself. My name is Luca and I'm a web developer and accessibility consultant. I work for myself, and I mainly help small and medium businesses to build websites that everyone can use.\n\nMy day usually starts at eight. First I check my emails, then I write code or test pages with a screen reader. In the afternoon I speak to clients and plan the next steps.\n\nAt the moment I'm working on an online shop and I'm preparing an accessibility audit for another client.\n\nI'm really happy to work with you on this project. Please let me know when you are available for a first call.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Hi, I'm Luca. Nice to meet you.",
+      "I work as a web developer for a small agency.",
+      "She manages a team of six people.",
+      "I usually start work at nine and finish at six.",
+      "At the moment I'm working on an online shop.",
+      "We specialise in accessibility audits.",
+      "Does your manager speak English?",
+      "I don't work on Fridays, but I check my emails."
+    ],
+    "prompts": [
+      { "en": "What do you do for a living?", "it": "Che lavoro fai?", "help": "Inizia con: I'm a... / I work as a... for..." },
+      { "en": "Can you describe a typical working day?", "it": "Puoi descrivere una giornata di lavoro tipica?", "help": "Usa il present simple: I usually... Then I... In the afternoon I..." },
+      { "en": "What are you working on at the moment?", "it": "A cosa stai lavorando in questo momento?", "help": "Usa il present continuous: I'm working on... I'm also preparing..." },
+      { "en": "Who do you work with every day?", "it": "Con chi lavori ogni giorno?", "help": "I work with clients, designers... Attenzione alla -s: my colleague works..." },
+      { "en": "What are you responsible for in your job?", "it": "Di cosa sei responsabile nel tuo lavoro?", "help": "I'm responsible for... / I deal with... / I take care of..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Presentarsi in inglese",
+      "show": ["Lesson 2", "Introducing yourself and your job", "Present simple and present continuous"],
+      "say": [
+        { "lang": "it", "text": "In questa lezione impari a presentarti e a parlare del tuo lavoro. È la prima cosa che serve con un nuovo cliente." },
+        { "lang": "en", "text": "Hi, I'm Luca. I'm a web developer." }
+      ]
+    },
+    {
+      "title": "Present simple: abitudini e fatti stabili",
+      "show": ["I work in Milan.", "She starts at nine.", "always, usually, every day"],
+      "say": [
+        { "lang": "it", "text": "Il present simple serve per abitudini, routine e fatti che non cambiano. Spesso ci sono parole come usually o every day." },
+        { "lang": "en", "text": "I work for a small agency in Milan." },
+        { "lang": "en", "text": "I usually start work at nine." }
+      ]
+    },
+    {
+      "title": "La s della terza persona",
+      "show": ["I work", "she works", "he watches, she studies, it has"],
+      "say": [
+        { "lang": "it", "text": "Con he, she e it il verbo prende la s. Se il verbo finisce in ch, sh o s, prende es. Se finisce in consonante più y, la y diventa ies. Have diventa has." },
+        { "lang": "en", "text": "She manages a team of six people." },
+        { "lang": "en", "text": "He studies accessibility." }
+      ]
+    },
+    {
+      "title": "Present continuous: sta succedendo adesso",
+      "show": ["I'm working on a new site.", "We are testing the menu.", "now, at the moment, this week"],
+      "say": [
+        { "lang": "it", "text": "Il present continuous si forma con am, is o are e il verbo in ing. Descrive qualcosa che succede adesso o in questo periodo." },
+        { "lang": "en", "text": "At the moment I'm working on an online shop." },
+        { "lang": "en", "text": "We are testing the new menu this week." }
+      ]
+    },
+    {
+      "title": "Le domande con do e does",
+      "show": ["Do you work from home?", "Does she manage the team?", "Where does he work?"],
+      "say": [
+        { "lang": "it", "text": "Per fare domande al present simple si usa do o does. Con does il verbo torna senza la s, perché la s è già in does." },
+        { "lang": "en", "text": "Do you work from home?" },
+        { "lang": "en", "text": "Does she work here?" }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": ["Sbagliato: She work here.", "Sbagliato: Does she works?", "Sbagliato: I am knowing"],
+      "say": [
+        { "lang": "it", "text": "Tre errori da evitare. Primo, dimenticare la s con she. Secondo, mettere la s dopo does. Terzo, usare il continuous con verbi come know e need." },
+        { "lang": "en", "text": "She works here. Does she work here? I know the answer." }
+      ]
+    },
+    {
+      "title": "Espressioni chiave per presentarti",
+      "show": ["I'm responsible for...", "I deal with...", "We specialise in..."],
+      "say": [
+        { "lang": "it", "text": "Ecco tre espressioni utili per descrivere il tuo ruolo. Usale quasi in ogni primo incontro." },
+        { "lang": "en", "text": "I'm responsible for the front end of the site." },
+        { "lang": "en", "text": "I deal with clients and project planning." },
+        { "lang": "en", "text": "We specialise in accessibility audits." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Routine = present simple", "Adesso = present continuous", "Do you...? Does she...?"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Per le routine usa il present simple. Per quello che succede ora usa il present continuous. Per le domande usa do e does, e ricordati la s con he, she e it." },
+        { "lang": "en", "text": "What do you do? What are you working on at the moment?" }
+      ]
+    }
+  ]
+}

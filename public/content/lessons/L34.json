@@ -1,0 +1,318 @@
+{
+  "id": 34,
+  "week": 7,
+  "title": "Assistenza clienti e supporto tecnico",
+  "titleEn": "Customer service and tech support",
+  "intro": "Oggi impari il linguaggio dell'assistenza: ticket, segnalazioni, risoluzione dei problemi e passaggio a un livello superiore. Vedi anche le question tags (isn't it? don't you?) e le risposte brevi, che usi sempre al telefono e in chat. Ti servono quando un cliente ti scrive per un problema sul sito.",
+  "goals": [
+    "Aprire, descrivere e seguire un ticket di assistenza",
+    "Fare domande di diagnosi e guidare un cliente passo dopo passo",
+    "Usare le question tags e le risposte brevi nel modo giusto",
+    "Spiegare quando e perché un problema passa a un livello superiore"
+  ],
+  "words": [
+    { "en": "ticket", "pron": "tìchet", "it": "ticket, richiesta di assistenza", "type": "noun", "ex": "I've opened a ticket for your request.", "exIt": "Ho aperto un ticket per la tua richiesta." },
+    { "en": "helpdesk", "pron": "hèlpdesk", "it": "servizio di assistenza", "type": "noun", "ex": "Please contact the helpdesk first.", "exIt": "Contatta prima il servizio di assistenza." },
+    { "en": "first-line support", "pron": "ferst lain sapòrt", "it": "assistenza di primo livello", "type": "noun", "ex": "First-line support handles the simple requests.", "exIt": "L'assistenza di primo livello gestisce le richieste semplici." },
+    { "en": "to log", "pron": "log", "it": "registrare (un ticket)", "type": "verb", "ex": "I'll log it in our system right away.", "exIt": "Lo registro subito nel nostro sistema." },
+    { "en": "inquiry", "pron": "inkuàiri", "it": "richiesta di informazioni", "type": "noun", "ex": "Thank you for your inquiry about our services.", "exIt": "Grazie per la sua richiesta di informazioni sui nostri servizi." },
+    { "en": "bug report", "pron": "bag ripòrt", "it": "segnalazione di un errore", "type": "noun", "ex": "Please send us a detailed bug report.", "exIt": "Ci mandi una segnalazione dettagliata dell'errore, per favore." },
+    { "en": "escalation", "pron": "eskalèiscion", "it": "passaggio a un livello superiore", "type": "noun", "ex": "This case needs an escalation.", "exIt": "Questo caso va passato a un livello superiore." },
+    { "en": "to uninstall", "pron": "aninstòl", "it": "disinstallare", "type": "verb", "ex": "Please uninstall the plugin and install it again.", "exIt": "Disinstalli il plugin e lo installi di nuovo, per favore." },
+    { "en": "resolution", "pron": "resolùscion", "it": "risoluzione, soluzione", "type": "noun", "ex": "We aim for a resolution within 24 hours.", "exIt": "Puntiamo a una risoluzione entro 24 ore." },
+    { "en": "remote access", "pron": "rimòut àcses", "it": "accesso da remoto", "type": "noun", "ex": "With your permission, I'll use remote access to check the screen.", "exIt": "Con il suo permesso, userò l'accesso da remoto per controllare lo schermo." },
+    { "en": "unresolved", "pron": "anrizòlvd", "it": "irrisolto", "type": "adj", "ex": "There are still three unresolved tickets.", "exIt": "Ci sono ancora tre ticket irrisolti." },
+    { "en": "to empathise", "pron": "èmpataiz", "it": "immedesimarsi, capire lo stato d'animo", "type": "verb", "ex": "I empathise with your frustration.", "exIt": "Capisco la sua frustrazione." },
+    { "en": "known issue", "pron": "nòun ìsciu", "it": "problema già noto", "type": "noun", "ex": "This is a known issue, and a fix is coming.", "exIt": "È un problema già noto e una correzione è in arrivo." },
+    { "en": "to get in touch", "pron": "ghet in tàcc", "it": "mettersi in contatto", "type": "phrase", "ex": "Please get in touch if the problem comes back.", "exIt": "Ci contatti se il problema si ripresenta." },
+    { "en": "to acknowledge receipt", "pron": "aknòlidg risìit", "it": "confermare la ricezione", "type": "phrase", "ex": "We acknowledge receipt of your request.", "exIt": "Confermiamo la ricezione della sua richiesta." },
+    { "en": "hotfix", "pron": "hòtfics", "it": "correzione urgente", "type": "noun", "ex": "We deployed a hotfix last night.", "exIt": "Ieri sera abbiamo messo online una correzione urgente." },
+    { "en": "screenshot", "pron": "skrìinsciot", "it": "schermata, cattura dello schermo", "type": "noun", "ex": "Could you send me a screenshot of the error?", "exIt": "Può mandarmi una schermata dell'errore?" },
+    { "en": "compatible", "pron": "kompàtibol", "it": "compatibile", "type": "adj", "ex": "The plugin is not compatible with this version.", "exIt": "Il plugin non è compatibile con questa versione." },
+    { "en": "satisfied", "pron": "sàtisfaid", "it": "soddisfatto", "type": "adj", "ex": "Are you satisfied with the solution?", "exIt": "Questa soluzione la soddisfa?" },
+    { "en": "status page", "pron": "stèitas peig", "it": "pagina di stato del servizio", "type": "noun", "ex": "You can check our status page for updates.", "exIt": "Puoi controllare la nostra pagina di stato per gli aggiornamenti." },
+    { "en": "intermittent", "pron": "intermìtent", "it": "intermittente, a intervalli", "type": "adj", "ex": "It's an intermittent problem, so it's hard to find.", "exIt": "È un problema intermittente, quindi è difficile da trovare." },
+    { "en": "to follow the process", "pron": "fòlou de pròses", "it": "seguire la procedura", "type": "phrase", "ex": "We follow the process for every request.", "exIt": "Seguiamo la procedura per ogni richiesta." },
+    { "en": "steps to reproduce", "pron": "stèps tu riprodiùus", "it": "passaggi per riprodurre l'errore", "type": "noun", "ex": "Please send us the steps to reproduce it.", "exIt": "Mandaci per favore i passaggi per riprodurlo." },
+    { "en": "feedback form", "pron": "fìidbak form", "it": "modulo per dare un parere", "type": "noun", "ex": "Please fill in our feedback form.", "exIt": "Compili il nostro modulo per dare un parere, per favore." },
+    { "en": "to reboot", "pron": "ribùt", "it": "riavviare (il computer)", "type": "verb", "ex": "Try rebooting your router.", "exIt": "Prova a riavviare il router." },
+    { "en": "to clear the cache", "pron": "klìer de kèsc", "it": "svuotare la cache", "type": "phrase", "ex": "Please clear the cache and try again.", "exIt": "Svuota la cache e riprova, per favore." },
+    { "en": "to reinstall", "pron": "riinstòl", "it": "reinstallare", "type": "verb", "ex": "You may need to reinstall the plugin.", "exIt": "Potresti dover reinstallare il plugin." },
+    { "en": "live chat", "pron": "làiv ciàt", "it": "chat in tempo reale", "type": "noun", "ex": "You can reach us through live chat.", "exIt": "Può contattarci tramite chat in tempo reale." },
+    { "en": "support agent", "pron": "sapòrt èigent", "it": "operatore dell'assistenza", "type": "noun", "ex": "A support agent will reply within a day.", "exIt": "Un operatore dell'assistenza risponderà entro un giorno." },
+    { "en": "on hold", "pron": "on hould", "it": "in sospeso, in attesa", "type": "phrase", "ex": "The ticket is on hold until we hear from you.", "exIt": "Il ticket è in sospeso finché non riceviamo sue notizie." },
+    { "en": "to reopen", "pron": "riòupen", "it": "riaprire", "type": "verb", "ex": "I'm sorry, I had to reopen the ticket.", "exIt": "Mi dispiace, ho dovuto riaprire il ticket." },
+    { "en": "to get stuck", "pron": "ghet stàk", "it": "bloccarsi, non riuscire ad andare avanti", "type": "phrase", "ex": "Many users get stuck at the payment step.", "exIt": "Molti utenti si bloccano al passaggio del pagamento." },
+    { "en": "to troubleshoot remotely", "pron": "tràbolsciuut rimòutli", "it": "risolvere un problema a distanza", "type": "phrase", "ex": "We can troubleshoot remotely if you prefer.", "exIt": "Possiamo risolvere il problema a distanza, se preferisce." },
+    { "en": "response time", "pron": "rispòns taim", "it": "tempo di risposta", "type": "noun", "ex": "Our average response time is two hours.", "exIt": "Il nostro tempo medio di risposta è di due ore." },
+    { "en": "turnaround", "pron": "tèrnaraund", "it": "tempo di consegna, tempi di lavorazione", "type": "noun", "ex": "The turnaround for a fix is 48 hours.", "exIt": "Per una correzione i tempi sono di 48 ore." },
+    { "en": "SLA", "pron": "es el èi", "it": "accordo sul livello di servizio", "type": "noun", "ex": "The SLA says we must reply within four hours.", "exIt": "L'accordo di servizio dice che dobbiamo rispondere entro quattro ore." },
+    { "en": "follow-up call", "pron": "fòlou ap col", "it": "chiamata di controllo successiva", "type": "noun", "ex": "I'll schedule a follow-up call for tomorrow.", "exIt": "Fisso una chiamata di controllo per domani." },
+    { "en": "knowledge base", "pron": "nòlidg beis", "it": "archivio di guide e risposte", "type": "noun", "ex": "The answer is in our knowledge base.", "exIt": "La risposta è nel nostro archivio di guide." },
+    { "en": "to keep posted", "pron": "kìip pòustid", "it": "tenere aggiornato", "type": "phrase", "ex": "I'll keep you posted on our progress.", "exIt": "Ti terrò aggiornato sui nostri progressi." },
+    { "en": "canned response", "pron": "kànd rispòns", "it": "risposta pronta", "type": "noun", "ex": "We use a canned response for common questions.", "exIt": "Usiamo una risposta pronta per le domande più comuni." },
+    { "en": "chargeback", "pron": "ciàrgbak", "it": "contestazione di un pagamento", "type": "noun", "ex": "The client opened a chargeback on his card.", "exIt": "Il cliente ha contestato il pagamento sulla sua carta." },
+    { "en": "root cause analysis", "pron": "rùut kòoz anàlisis", "it": "analisi della causa originaria", "type": "noun", "ex": "We'll send you a root cause analysis tomorrow.", "exIt": "Domani le mandiamo un'analisi della causa originaria." },
+    { "en": "customer satisfaction", "pron": "kàstomer satisfàkscion", "it": "soddisfazione del cliente", "type": "noun", "ex": "Customer satisfaction is our top goal.", "exIt": "La soddisfazione del cliente è il nostro obiettivo principale." },
+    { "en": "end user", "pron": "end iùzer", "it": "utente finale", "type": "noun", "ex": "The end users can't log in.", "exIt": "Gli utenti finali non riescono ad accedere." },
+    { "en": "maintenance window", "pron": "mèintenans uìndou", "it": "finestra di manutenzione", "type": "noun", "ex": "The maintenance window is on Sunday at night.", "exIt": "La finestra di manutenzione è domenica notte." },
+    { "en": "to pinpoint", "pron": "pìnpoint", "it": "individuare con precisione", "type": "verb", "ex": "We pinpointed the error in the payment script.", "exIt": "Abbiamo individuato con precisione l'errore nello script di pagamento." },
+    { "en": "stack trace", "pron": "stak treis", "it": "traccia dell'errore del programma", "type": "noun", "ex": "Please paste the stack trace in the ticket.", "exIt": "Incolli la traccia dell'errore nel ticket, per favore." },
+    { "en": "to get to the bottom of", "pron": "ghet tu de bòtom ov", "it": "andare a fondo di", "type": "phrase", "ex": "We'll get to the bottom of this.", "exIt": "Andremo a fondo della questione." },
+    { "en": "walkthrough", "pron": "uòoktru", "it": "guida passo passo", "type": "noun", "ex": "I'll send you a short walkthrough.", "exIt": "Le mando una breve guida passo passo." },
+    { "en": "account manager", "pron": "acàunt mànidger", "it": "account manager, referente commerciale del cliente", "type": "noun", "ex": "I'll ask your account manager to call you.", "exIt": "Chiederò al suo account manager di chiamarla." }
+  ],
+  "falseFriends": [
+    { "en": "to assist", "it": "aiutare", "trap": "Non vuol dire 'assistere' a uno spettacolo (= to attend)." },
+    { "en": "to control", "it": "dominare, gestire", "trap": "Non vuol dire controllare nel senso di verificare (= to check)." },
+    { "en": "support", "it": "assistenza, sostegno", "trap": "'To support' non vuol dire 'supporre' (= to suppose)." }
+  ],
+  "grammar": {
+    "title": "Question tags e risposte brevi",
+    "explainIt": [
+      "La question tag è una piccola domanda alla fine di una frase. Serve a chiedere conferma, come il nostro 'vero?', 'no?', 'non è così?'. Esempio: 'It's working now, isn't it?' = ora funziona, vero? In inglese cambia in base alla frase che precede.",
+      "La regola principale: se la frase è positiva, la tag è negativa. Se la frase è negativa, la tag è positiva. 'You sent the ticket, didn't you?' e 'You didn't send the ticket, did you?'. La tag ripete l'ausiliare della frase: is - isn't, can - can't, have - haven't, will - won't. Se non c'è un ausiliare, si usa do/does/did: 'You like it, don't you?'.",
+      "Casi speciali. Dopo 'I am' la tag è 'aren't I?'. Dopo 'Let's' la tag è 'shall we?'. Dopo un ordine si usa 'will you?' o 'could you?': 'Send me the file, will you?'. Dopo 'there is' si usa 'there': 'There's a problem, isn't there?'. Dopo 'nobody', 'never', 'hardly' la frase è già negativa, quindi la tag è positiva.",
+      "L'intonazione cambia il senso. Se la voce scende alla fine, c'è quasi certezza e chiedi solo conferma. Se la voce sale, fai una vera domanda e non c'è certezza. 'It's fixed, isn't it?' con la voce che scende è: lo so già, confermami. Con la voce che sale è: è davvero sistemato?",
+      "Le risposte brevi: non ripeti tutta la frase. Dici 'Yes' o 'No' + soggetto + ausiliare. 'It's working, isn't it?' 'Yes, it is.' o 'No, it isn't.' Attenzione: in inglese si risponde in base alla realtà, non alla forma della domanda. 'You haven't seen the ticket, have you?' Se non l'hai visto: 'No, I haven't.' Se l'hai visto: 'Yes, I have.'"
+    ],
+    "explainEn": [
+      "A question tag is a small question at the end of a sentence. We use it to ask for confirmation, like the Italian 'vero?' or 'no?'. For example: 'It's working now, isn't it?' It changes according to the sentence before it.",
+      "The main rule: if the sentence is positive, the tag is negative. If the sentence is negative, the tag is positive. 'You sent the ticket, didn't you?' and 'You didn't send the ticket, did you?' The tag repeats the auxiliary verb of the sentence: is - isn't, can - can't, have - haven't, will - won't. If there is no auxiliary, we use do/does/did: 'You like it, don't you?'",
+      "Special cases. After 'I am' the tag is 'aren't I?'. After 'Let's' the tag is 'shall we?'. After an order we use 'will you?' or 'could you?': 'Send me the file, will you?' After 'there is' we use 'there': 'There's a problem, isn't there?' After 'nobody', 'never' and 'hardly' the sentence is already negative, so the tag is positive.",
+      "Intonation changes the meaning. If your voice goes down at the end, you are nearly sure and only ask for confirmation. If your voice goes up, it is a real question and you are not sure. 'It's fixed, isn't it?' with a falling voice means: I know, just confirm. With a rising voice it means: is it really fixed?",
+      "Short answers: you do not repeat the whole sentence. You say 'Yes' or 'No' + subject + auxiliary. 'It's working, isn't it?' 'Yes, it is.' or 'No, it isn't.' Be careful: in English you answer according to the facts, not the form of the question. 'You haven't seen the ticket, have you?' If you have not seen it: 'No, I haven't.' If you have seen it: 'Yes, I have.'"
+    ],
+    "rules": [
+      {
+        "it": "Frase positiva + tag negativa. Frase negativa + tag positiva.",
+        "en": "Positive sentence + negative tag. Negative sentence + positive tag.",
+        "form": "frase positiva, ausiliare + n't + soggetto?",
+        "examples": [
+          { "en": "The site is down, isn't it?", "it": "Il sito è fermo, vero?" },
+          { "en": "You can't log in, can you?", "it": "Non riesci ad accedere, vero?" },
+          { "en": "They've fixed it, haven't they?", "it": "L'hanno sistemato, vero?" }
+        ]
+      },
+      {
+        "it": "Senza ausiliare nella frase, la tag usa do, does o did.",
+        "en": "With no auxiliary in the sentence, the tag uses do, does or did.",
+        "form": "present simple: don't/doesn't; past simple: didn't",
+        "examples": [
+          { "en": "You use the Chrome browser, don't you?", "it": "Usi il browser Chrome, vero?" },
+          { "en": "She sent the report, didn't she?", "it": "Ha mandato il report, vero?" },
+          { "en": "The page doesn't load, does it?", "it": "La pagina non si carica, vero?" }
+        ]
+      },
+      {
+        "it": "Casi speciali: I am → aren't I; Let's → shall we; ordine → will you; there is → isn't there.",
+        "en": "Special cases: I am → aren't I; Let's → shall we; imperative → will you; there is → isn't there.",
+        "form": "aren't I / shall we / will you / isn't there",
+        "examples": [
+          { "en": "I'm on the right page, aren't I?", "it": "Sono sulla pagina giusta, vero?" },
+          { "en": "Let's restart the server, shall we?", "it": "Riavviamo il server, che ne dici?" },
+          { "en": "Hold the line, will you?", "it": "Resti in linea, va bene?" },
+          { "en": "There's a workaround, isn't there?", "it": "C'è una soluzione temporanea, vero?" }
+        ]
+      },
+      {
+        "it": "Risposte brevi: Yes/No + soggetto + ausiliare. Si risponde secondo la realtà.",
+        "en": "Short answers: Yes/No + subject + auxiliary. You answer according to the facts.",
+        "form": "Yes, it is. / No, it isn't. / Yes, I have. / No, I don't.",
+        "examples": [
+          { "en": "You've cleared the cache, haven't you? - Yes, I have.", "it": "Hai svuotato la cache, vero? - Sì." },
+          { "en": "It doesn't work, does it? - No, it doesn't.", "it": "Non funziona, vero? - No, non funziona." },
+          { "en": "Can you see the error? - Yes, I can. / No, I can't.", "it": "Vedi l'errore? - Sì. / No." }
+        ]
+      }
+    ],
+    "tip": "Trasforma la frase in domanda: prendi l'ausiliare, cambia positivo/negativo, aggiungi il pronome. 'He has called' → 'hasn't he?'. Per l'intonazione: voce che scende = confermami, voce che sale = non lo so.",
+    "mistakes": [
+      { "wrong": "It works, isn't?", "right": "It works, doesn't it?", "why": "la tag ripete il soggetto (it) e usa do/does/did se non c'è ausiliare" },
+      { "wrong": "You sent it, no?", "right": "You sent it, didn't you?", "why": "'no?' non è una tag inglese corretta al lavoro: usa l'ausiliare giusto" },
+      { "wrong": "I'm late, amn't I?", "right": "I'm late, aren't I?", "why": "dopo I am la tag è aren't I" },
+      { "wrong": "You haven't called him, have you? - Yes, I haven't.", "right": "You haven't called him, have you? - No, I haven't.", "why": "la risposta segue la realtà: non l'hai chiamato, quindi No, I haven't" },
+      { "wrong": "It's not working, isn't it?", "right": "It's not working, is it?", "why": "frase negativa → tag positiva" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "The site is down, ___ it?", "a": ["isn't"], "hint": "frase positiva", "explain": "Frase positiva → tag negativa: isn't it?" },
+    { "q": "You haven't received the ticket, ___ you?", "a": ["have"], "hint": "frase negativa", "explain": "Frase negativa → tag positiva: have you?" },
+    { "q": "She sent the report, ___ she?", "a": ["didn't"], "hint": "past simple", "explain": "Past simple → didn't she?" },
+    { "q": "You use Chrome, ___ you?", "a": ["don't"], "hint": "present simple", "explain": "Present simple con you → don't you?" },
+    { "q": "I'm on the right page, ___ I?", "a": ["aren't"], "hint": "caso speciale", "explain": "Dopo I am la tag è aren't I?" },
+    { "q": "Let's restart the server, ___ we?", "a": ["shall"], "hint": "dopo Let's", "explain": "Let's → shall we?" },
+    { "q": "Send me the file, ___ you?", "a": ["will", "could", "would", "can"], "hint": "dopo un ordine", "explain": "Dopo un ordine: will you? Sono accettate anche could, would, can." },
+    { "q": "There's a workaround, ___ there?", "a": ["isn't"], "hint": "there is", "explain": "There is → isn't there?" },
+    { "q": "He can't reproduce the error, ___ he?", "a": ["can"], "hint": "negativa", "explain": "Negativa con can't → can he?" },
+    { "q": "It works now, doesn't it? - ___, it does. (sì)", "a": ["yes"], "hint": "risposta breve", "explain": "Risposta: Yes, it does." },
+    { "q": "You haven't tried restarting, have you? - ___, I haven't. (non l'ho fatto)", "a": ["no"], "hint": "secondo la realtà", "explain": "Non l'hai fatto → No, I haven't." },
+    { "q": "They will call back tomorrow, ___ they?", "a": ["won't"], "hint": "will", "explain": "Will → won't they?" }
+  ],
+  "phrases": [
+    { "group": "Rispondere al cliente", "en": "Thanks for getting in touch. I'm here to help.", "it": "Grazie per averci contattato. Sono qui per aiutarla." },
+    { "group": "Rispondere al cliente", "en": "I'm sorry to hear that. Let me look into it.", "it": "Mi dispiace. Ci guardo subito." },
+    { "group": "Rispondere al cliente", "en": "I've opened a ticket for you. The number is 4521.", "it": "Ho aperto un ticket per lei. Il numero è 4521." },
+    { "group": "Rispondere al cliente", "en": "We apologise for the inconvenience.", "it": "Ci scusiamo per il disagio." },
+    { "group": "Rispondere al cliente", "en": "I'll keep you posted.", "it": "Le farò sapere gli sviluppi." },
+    { "group": "Fare domande di diagnosi", "en": "When did the problem start?", "it": "Quando è iniziato il problema?" },
+    { "group": "Fare domande di diagnosi", "en": "What error message do you see?", "it": "Che messaggio di errore vede?" },
+    { "group": "Fare domande di diagnosi", "en": "It happens on every page, doesn't it?", "it": "Succede su ogni pagina, vero?" },
+    { "group": "Fare domande di diagnosi", "en": "Have you tried a different browser?", "it": "Ha provato con un altro browser?" },
+    { "group": "Fare domande di diagnosi", "en": "Could you send me a screenshot?", "it": "Potrebbe mandarmi una schermata?" },
+    { "group": "Guidare passo passo", "en": "Let me walk you through it.", "it": "Le spiego passo passo." },
+    { "group": "Guidare passo passo", "en": "First, clear the cache and restart the browser.", "it": "Prima svuoti la cache e riavvii il browser." },
+    { "group": "Guidare passo passo", "en": "Can you see the button now?", "it": "Vede il pulsante adesso?" },
+    { "group": "Guidare passo passo", "en": "Let me know when you're done.", "it": "Mi faccia sapere quando ha finito." },
+    { "group": "Guidare passo passo", "en": "That should do the trick.", "it": "Dovrebbe bastare." },
+    { "group": "Al telefono", "en": "Could you hold the line, please?", "it": "Può restare in linea, per favore?" },
+    { "group": "Al telefono", "en": "I'll put you through to a technician.", "it": "La metto in contatto con un tecnico." },
+    { "group": "Al telefono", "en": "Can I call you back in ten minutes?", "it": "Posso richiamarla tra dieci minuti?" },
+    { "group": "Al telefono", "en": "Sorry, I didn't catch that. Could you say it again?", "it": "Scusi, non ho capito. Può ripetere?" },
+    { "group": "Al telefono", "en": "Thanks for your patience.", "it": "Grazie per la pazienza." },
+    { "group": "Escalation e risoluzione", "en": "I'm going to escalate this to our senior team.", "it": "Passo il caso al nostro team senior." },
+    { "group": "Escalation e risoluzione", "en": "We found the root cause and a fix is on the way.", "it": "Abbiamo trovato la causa e la correzione è in arrivo." },
+    { "group": "Escalation e risoluzione", "en": "In the meantime, here's a workaround.", "it": "Nel frattempo, ecco una soluzione temporanea." },
+    { "group": "Escalation e risoluzione", "en": "Can you confirm that everything works now?", "it": "Può confermare che ora funziona tutto?" },
+    { "group": "Escalation e risoluzione", "en": "I'll close the ticket, but please reopen it if needed.", "it": "Chiudo il ticket, ma lo riapra pure se serve." }
+  ],
+  "dialogue": {
+    "title": "A support call",
+    "context": "Sofia gestisce il sito web della sua piccola azienda. Chiama l'assistenza tecnica di Luca perché il modulo di contatto non funziona più. Luca fa domande, la guida e infine passa il caso a un collega.",
+    "lines": [
+      { "s": "A", "name": "Luca", "en": "Technical support, Luca speaking. How can I help?", "it": "Assistenza tecnica, parla Luca. Come posso aiutarla?" },
+      { "s": "B", "name": "Sofia", "en": "Hi, the contact form on our website doesn't send anything. It worked yesterday.", "it": "Buongiorno, il modulo di contatto del nostro sito non invia nulla. Ieri funzionava." },
+      { "s": "A", "name": "Luca", "en": "I'm sorry to hear that. You see an error message, don't you?", "it": "Mi dispiace. Vede un messaggio di errore, vero?" },
+      { "s": "B", "name": "Sofia", "en": "Yes, I do. It says: something went wrong.", "it": "Sì. Dice: qualcosa è andato storto." },
+      { "s": "A", "name": "Luca", "en": "Thanks. You haven't changed anything on the site recently, have you?", "it": "Grazie. Di recente non ha cambiato nulla sul sito, vero?" },
+      { "s": "B", "name": "Sofia", "en": "No, I haven't. Well, we updated a plugin on Monday.", "it": "No. Be', lunedì abbiamo aggiornato un plugin." },
+      { "s": "A", "name": "Luca", "en": "That could be the cause. It's an intermittent problem, isn't it? Sometimes it works?", "it": "Potrebbe essere la causa. È un problema intermittente, vero? A volte funziona?" },
+      { "s": "B", "name": "Sofia", "en": "No, it never works. It fails every time.", "it": "No, non funziona mai. Fallisce ogni volta." },
+      { "s": "A", "name": "Luca", "en": "OK, that helps me narrow it down. I've opened a ticket for you. Could you clear the cache and try again?", "it": "Bene, questo mi aiuta a restringere il campo. Ho aperto un ticket per lei. Può svuotare la cache e riprovare?" },
+      { "s": "B", "name": "Sofia", "en": "Done. It still doesn't work, I'm afraid.", "it": "Fatto. Purtroppo non funziona ancora." },
+      { "s": "A", "name": "Luca", "en": "No problem. I'm going to escalate this to our senior developer, Marco. He'll get back to you as soon as possible.", "it": "Nessun problema. Passo il caso al nostro sviluppatore senior, Marco. La ricontatterà il prima possibile." },
+      { "s": "B", "name": "Sofia", "en": "Of course. How long will it take?", "it": "Certo. Quanto ci vorrà?" },
+      { "s": "A", "name": "Luca", "en": "Our response time is two hours. In the meantime, here's a workaround: send us an email at this address.", "it": "Il nostro tempo di risposta è di due ore. Nel frattempo, ecco una soluzione temporanea: ci scriva a questo indirizzo." },
+      { "s": "B", "name": "Sofia", "en": "That's fine, thank you. You'll keep me posted, won't you?", "it": "Va bene, grazie. Mi terrà aggiornata, vero?" },
+      { "s": "A", "name": "Luca", "en": "Of course I will. Thanks for your patience, Sofia.", "it": "Certamente. Grazie per la pazienza, Sofia." }
+    ]
+  },
+  "listening": [
+    { "q": "What is Sofia's problem?", "options": ["The contact form doesn't send anything", "The website is too slow", "She forgot her password"], "answer": 0 },
+    { "q": "What changed on Monday?", "options": ["They updated a plugin", "They changed the logo", "They moved to a new server"], "answer": 0 },
+    { "q": "What does Luca do after the cache doesn't help?", "options": ["He closes the ticket", "He escalates the case to Marco", "He asks Sofia to call tomorrow"], "answer": 1 },
+    { "q": "What workaround does Luca suggest?", "options": ["Use another browser", "Send an email to a given address", "Wait until tomorrow"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Il sito è fermo, vero?", "en": "The site is down, isn't it?", "alt": ["The website is down, isn't it?"] },
+    { "it": "Non ha ricevuto la mail, vero?", "en": "You haven't received the email, have you?", "alt": ["You didn't receive the email, did you?", "You haven't got the email, have you?"] },
+    { "it": "Ha aperto un ticket, vero?", "en": "You opened a ticket, didn't you?", "alt": ["You've opened a ticket, haven't you?", "You have opened a ticket, haven't you?"] },
+    { "it": "Riavviamo il server, che ne dici?", "en": "Let's restart the server, shall we?", "alt": ["Let's reboot the server, shall we?"] },
+    { "it": "Non riesco a riprodurre l'errore.", "en": "I can't reproduce the error.", "alt": ["I can't reproduce the problem.", "I am not able to reproduce the error."] },
+    { "it": "Nel frattempo, ecco una soluzione temporanea.", "en": "In the meantime, here's a workaround.", "alt": ["In the meantime, here is a workaround.", "Meanwhile, here's a workaround."] },
+    { "it": "Passo il caso al nostro tecnico senior.", "en": "I'm going to escalate this to our senior engineer.", "alt": ["I'll escalate this to our senior engineer.", "I'm going to escalate this to our senior technician."] },
+    { "it": "La tengo aggiornata sui progressi.", "en": "I'll keep you posted on our progress.", "alt": ["I will keep you posted on our progress.", "I'll keep you updated on our progress."] },
+    { "it": "Può restare in linea un momento?", "en": "Could you hold the line for a moment?", "alt": ["Could you hold on for a moment?", "Can you hold the line for a moment?"] },
+    { "it": "Ci scusiamo per il disagio.", "en": "We apologise for the inconvenience.", "alt": ["We apologize for the inconvenience.", "We're sorry for the inconvenience."] },
+    { "it": "Ha provato a svuotare la cache?", "en": "Have you tried clearing the cache?", "alt": ["Did you try clearing the cache?", "Have you tried to clear the cache?"] },
+    { "it": "La metto in contatto con un tecnico.", "en": "I'll put you through to a technician.", "alt": ["I'll put you through to one of our technicians.", "I'll transfer you to a technician."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente ti scrive che il suo sito non carica le immagini. Rispondi con una mail di assistenza. Ringrazia per la segnalazione e di' che hai aperto un ticket (dai un numero). Fai due domande per capire il problema, di cui una con una question tag. Dai un consiglio da provare subito (svuotare la cache). Di' che tra due ore lo aggiornerai e che, se serve, passerai il caso al tecnico senior. 6-8 righe.",
+    "taskEn": "A client writes to you that his website doesn't load the images. Reply with a support email. Thank him for the report and say that you have opened a ticket (give a number). Ask two questions to understand the problem, one of them with a question tag. Give one tip to try now (clearing the cache). Say that you will update him in two hours and that, if needed, you will escalate the case to the senior engineer. 6-8 lines.",
+    "model": "Dear Mr Bianchi,\nThank you for getting in touch. I'm sorry to hear about the problem with your images. I've opened a ticket for you: the number is 4572.\nTo understand the problem better, could you tell me when it started? The images don't load on any page, do they?\nIn the meantime, please clear the cache and restart your browser. That should do the trick in many cases.\nI'll keep you posted and will update you within two hours. If we can't solve it, I'll escalate it to our senior engineer.\nKind regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Thanks for getting in touch. How can I help?",
+      "You see an error message, don't you?",
+      "You haven't changed anything recently, have you?",
+      "Let me walk you through the steps.",
+      "Could you hold the line, please?",
+      "I'm going to escalate this to our senior engineer.",
+      "In the meantime, here's a workaround.",
+      "I'll keep you posted. Thanks for your patience."
+    ],
+    "prompts": [
+      { "en": "A client says that the website is down. What do you ask first?", "it": "Un cliente dice che il sito è fermo. Cosa chiedi per prima cosa?", "help": "Usa: When did it start? What do you see? It's down for everyone, isn't it?" },
+      { "en": "How do you explain to a client that you need more time?", "it": "Come spieghi a un cliente che ti serve più tempo?", "help": "Usa: We found the root cause... In the meantime... I'll keep you posted." },
+      { "en": "Tell me about a support request you handled.", "it": "Raccontami una richiesta di assistenza che hai gestito.", "help": "Usa: The client reported... I troubleshot... We rolled back..." },
+      { "en": "When do you escalate a problem to someone else?", "it": "Quando passi un problema a qualcun altro?", "help": "Usa: I escalate it when..., it's too severe..., I can't solve it..." },
+      { "en": "Ask me three questions with question tags about my website.", "it": "Fammi tre domande con le question tags sul mio sito.", "help": "Esempi: It's a WordPress site, isn't it? You haven't updated it, have you? It works on mobile, doesn't it?" }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": ["Customer service and tech support", "Question tags e risposte brevi"],
+      "say": [
+        { "lang": "it", "text": "Oggi impari il linguaggio dell'assistenza clienti. Ticket, segnalazioni, soluzioni e passaggio a un livello superiore. Poi vedi le question tags, che servono per chiedere conferma." },
+        { "lang": "en", "text": "Thanks for getting in touch. I'm here to help." }
+      ]
+    },
+    {
+      "title": "Che cos'è una question tag",
+      "show": ["It's working, isn't it?", "vero? no?"],
+      "say": [
+        { "lang": "it", "text": "Una question tag è una piccola domanda alla fine di una frase. Serve per chiedere conferma, come il nostro vero." },
+        { "lang": "en", "text": "It's working now, isn't it?" }
+      ]
+    },
+    {
+      "title": "La regola principale",
+      "show": ["positiva + negativa", "negativa + positiva"],
+      "say": [
+        { "lang": "it", "text": "Se la frase è positiva, la tag è negativa. Se la frase è negativa, la tag è positiva. La tag ripete l'ausiliare della frase." },
+        { "lang": "en", "text": "You sent the ticket, didn't you? You didn't send the ticket, did you?" }
+      ]
+    },
+    {
+      "title": "Senza ausiliare",
+      "show": ["present: don't, doesn't", "past: didn't"],
+      "say": [
+        { "lang": "it", "text": "Quando nella frase non c'è un ausiliare, usa do, does o did. Per il present simple usa don't o doesn't. Per il past simple usa didn't." },
+        { "lang": "en", "text": "You use Chrome, don't you? She sent the report, didn't she?" }
+      ]
+    },
+    {
+      "title": "Casi speciali",
+      "show": ["I am   aren't I", "Let's   shall we", "ordine   will you"],
+      "say": [
+        { "lang": "it", "text": "Ci sono alcuni casi speciali. Dopo I am usa aren't I. Dopo let's usa shall we. Dopo un ordine usa will you." },
+        { "lang": "en", "text": "I'm on the right page, aren't I? Let's restart it, shall we? Hold the line, will you?" }
+      ]
+    },
+    {
+      "title": "Intonazione e risposte brevi",
+      "show": ["voce che scende = conferma", "voce che sale = domanda vera", "Yes, it is. No, it isn't."],
+      "say": [
+        { "lang": "it", "text": "Se la voce scende, chiedi conferma. Se la voce sale, fai una vera domanda. Per rispondere, usa yes o no più soggetto e ausiliare. Rispondi secondo la realtà." },
+        { "lang": "en", "text": "You haven't seen the ticket, have you? No, I haven't." }
+      ]
+    },
+    {
+      "title": "Fare diagnosi",
+      "show": ["When did it start?", "What error do you see?", "You haven't changed anything, have you?"],
+      "say": [
+        { "lang": "it", "text": "Per capire un problema, fai domande semplici. Quando è iniziato? Che errore vede? Le tag aiutano a confermare ciò che pensi di sapere." },
+        { "lang": "en", "text": "When did the problem start? You haven't changed anything recently, have you?" }
+      ]
+    },
+    {
+      "title": "Escalation e telefono",
+      "show": ["escalate", "hold the line", "in the meantime"],
+      "say": [
+        { "lang": "it", "text": "Quando non puoi risolvere un problema, lo passi a un livello superiore. Spiega al cliente cosa succede e offri una soluzione temporanea." },
+        { "lang": "en", "text": "I'm going to escalate this. In the meantime, here's a workaround." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["positiva + negativa", "negativa + positiva", "Yes, I have. No, I haven't."],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Frase positiva, tag negativa. Frase negativa, tag positiva. Rispondi con yes o no più ausiliare. Ora fai gli esercizi e scrivi la tua mail di assistenza." },
+        { "lang": "en", "text": "I'll keep you posted. Thanks for your patience." }
+      ]
+    }
+  ]
+}

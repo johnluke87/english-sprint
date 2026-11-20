@@ -1,0 +1,1263 @@
+{
+  "id": 21,
+  "week": 5,
+  "title": "Guidare una riunione",
+  "titleEn": "Running a meeting",
+  "intro": "Oggi impari a guidare una riunione in inglese: aprirla, seguire i punti, prendere decisioni, assegnare le azioni e chiuderla. Ti servono anche i phrasal verbs del lavoro, come set up, go over e bring up, che nelle riunioni si sentono continuamente.",
+  "goals": [
+    "Aprire e chiudere una riunione con frasi chiare e professionali",
+    "Seguire i punti all'ordine del giorno e passare da un tema all'altro",
+    "Capire e usare i phrasal verbs del lavoro più frequenti (parte 1)",
+    "Assegnare azioni e scrivere i punti principali del verbale"
+  ],
+  "words": [
+    {
+      "en": "to chair",
+      "pron": "cèar",
+      "it": "presiedere, guidare (una riunione)",
+      "type": "verb",
+      "ex": "Sara will chair the meeting today.",
+      "exIt": "Oggi la riunione la guida Sara."
+    },
+    {
+      "en": "chairperson",
+      "pron": "cèarpersan",
+      "it": "chi presiede, presidente di seduta",
+      "type": "noun",
+      "ex": "The chairperson opens the session at nine.",
+      "exIt": "Chi presiede apre la seduta alle nove."
+    },
+    {
+      "en": "quorum",
+      "pron": "kuòrom",
+      "it": "numero minimo di presenti per decidere",
+      "type": "noun",
+      "ex": "We need a quorum before we can vote.",
+      "exIt": "Serve il numero minimo di presenti prima di votare."
+    },
+    {
+      "en": "minutes",
+      "pron": "mìnits",
+      "it": "verbale",
+      "type": "noun",
+      "ex": "I'll circulate the minutes tomorrow morning.",
+      "exIt": "Domani mattina faccio girare il verbale."
+    },
+    {
+      "en": "action point",
+      "pron": "àkscian pòint",
+      "it": "azione da fare, punto operativo",
+      "type": "noun",
+      "ex": "Each action point has a name and a deadline.",
+      "exIt": "Ogni azione ha un nome e una scadenza."
+    },
+    {
+      "en": "item",
+      "pron": "àitem",
+      "it": "punto (all'ordine del giorno), voce",
+      "type": "noun",
+      "ex": "The first item is the website redesign.",
+      "exIt": "Il primo punto è il rifacimento del sito."
+    },
+    {
+      "en": "to reconvene",
+      "pron": "rikonvìin",
+      "it": "riprendere la seduta, riunirsi di nuovo",
+      "type": "verb",
+      "ex": "We'll reconvene after lunch.",
+      "exIt": "Riprendiamo dopo pranzo."
+    },
+    {
+      "en": "handout",
+      "pron": "hàndaut",
+      "it": "materiale distribuito, scheda",
+      "type": "noun",
+      "ex": "I've put the handout in the shared folder.",
+      "exIt": "Ho messo il materiale nella cartella condivisa."
+    },
+    {
+      "en": "to facilitate",
+      "pron": "fasìliteit",
+      "it": "coordinare, facilitare (un incontro)",
+      "type": "verb",
+      "ex": "Lena will facilitate the workshop.",
+      "exIt": "Lena coordinerà il workshop."
+    },
+    {
+      "en": "apologies",
+      "pron": "apòladgiz",
+      "it": "scuse, assenze giustificate",
+      "type": "noun",
+      "ex": "We have apologies from Marco and Anna.",
+      "exIt": "Marco e Anna si sono scusati: non possono esserci."
+    },
+    {
+      "en": "AOB",
+      "pron": "ei ou bìi",
+      "it": "varie ed eventuali (any other business)",
+      "type": "noun",
+      "ex": "Is there any AOB before we finish?",
+      "exIt": "Ci sono varie ed eventuali prima di chiudere?"
+    },
+    {
+      "en": "timekeeper",
+      "pron": "tàimkiipar",
+      "it": "chi controlla i tempi",
+      "type": "noun",
+      "ex": "Luca will be the timekeeper today.",
+      "exIt": "Oggi Luca controlla i tempi."
+    },
+    {
+      "en": "to moderate",
+      "pron": "mòdareit",
+      "it": "moderare (una discussione)",
+      "type": "verb",
+      "ex": "Tom moderates the discussion with the client.",
+      "exIt": "Tom modera la discussione con il cliente."
+    },
+    {
+      "en": "unanimous",
+      "pron": "iunànimas",
+      "it": "unanime",
+      "type": "adj",
+      "ex": "The decision was unanimous.",
+      "exIt": "La decisione è stata unanime."
+    },
+    {
+      "en": "to adjourn",
+      "pron": "adgèrn",
+      "it": "aggiornare, sospendere (la seduta)",
+      "type": "verb",
+      "ex": "Let's adjourn the discussion until next week.",
+      "exIt": "Aggiorniamo la discussione alla prossima settimana."
+    },
+    {
+      "en": "show of hands",
+      "pron": "scòu ov hènds",
+      "it": "voto per alzata di mano",
+      "type": "phrase",
+      "ex": "Let's have a show of hands on the new date.",
+      "exIt": "Votiamo per alzata di mano sulla nuova data."
+    },
+    {
+      "en": "to nominate",
+      "pron": "nòmineit",
+      "it": "proporre, indicare (una persona)",
+      "type": "verb",
+      "ex": "We nominated Ada to take the minutes.",
+      "exIt": "Abbiamo indicato Ada per scrivere il verbale."
+    },
+    {
+      "en": "to timebox",
+      "pron": "tàimboks",
+      "it": "dare un tempo massimo a",
+      "type": "verb",
+      "ex": "Let's timebox this item to ten minutes.",
+      "exIt": "Diamo a questo punto un massimo di dieci minuti."
+    },
+    {
+      "en": "consensus",
+      "pron": "konsènsas",
+      "it": "accordo generale",
+      "type": "noun",
+      "ex": "We reached a consensus on the colour palette.",
+      "exIt": "Abbiamo raggiunto un accordo sulla palette dei colori."
+    },
+    {
+      "en": "to set up",
+      "pron": "sèt àp",
+      "it": "organizzare, impostare, creare",
+      "type": "verb",
+      "ex": "Can you set up a call with the design team?",
+      "exIt": "Puoi organizzare una chiamata con il team di design?"
+    },
+    {
+      "en": "to carry out",
+      "pron": "kàri àut",
+      "it": "eseguire, svolgere",
+      "type": "verb",
+      "ex": "We carried out a full audit of the site.",
+      "exIt": "Abbiamo svolto un audit completo del sito."
+    },
+    {
+      "en": "to go over",
+      "pron": "gòu òuvar",
+      "it": "ripassare, esaminare",
+      "type": "verb",
+      "ex": "Let's go over the main points again.",
+      "exIt": "Riguardiamo ancora i punti principali."
+    },
+    {
+      "en": "to bring up",
+      "pron": "brìn àp",
+      "it": "sollevare (un argomento)",
+      "type": "verb",
+      "ex": "Thanks for bringing up the cookie banner.",
+      "exIt": "Grazie per aver sollevato il tema del banner dei cookie."
+    },
+    {
+      "en": "to point out",
+      "pron": "pòint àut",
+      "it": "far notare, sottolineare",
+      "type": "verb",
+      "ex": "I'd like to point out that the deadline is fixed.",
+      "exIt": "Vorrei far notare che la scadenza è fissa."
+    },
+    {
+      "en": "to find out",
+      "pron": "fàind àut",
+      "it": "scoprire, informarsi",
+      "type": "verb",
+      "ex": "I'll find out who is in charge of the domain.",
+      "exIt": "Scopro chi gestisce il dominio."
+    },
+    {
+      "en": "to abstain",
+      "pron": "abstèin",
+      "it": "astenersi",
+      "type": "verb",
+      "ex": "Two people abstained from the vote.",
+      "exIt": "Due persone si sono astenute dal voto."
+    },
+    {
+      "en": "to come up with",
+      "pron": "kàm àp uìd",
+      "it": "ideare, trovare (un'idea)",
+      "type": "verb",
+      "ex": "Can anyone come up with a faster solution?",
+      "exIt": "Qualcuno riesce a trovare una soluzione più veloce?"
+    },
+    {
+      "en": "to defer",
+      "pron": "difèr",
+      "it": "rimandare, rinviare",
+      "type": "verb",
+      "ex": "We deferred the budget discussion to May.",
+      "exIt": "Abbiamo rinviato la discussione sul budget a maggio."
+    },
+    {
+      "en": "round the table",
+      "pron": "ràund de tèibol",
+      "it": "giro di interventi, a turno",
+      "type": "phrase",
+      "ex": "Let's go round the table and hear from everyone.",
+      "exIt": "Facciamo un giro di interventi e sentiamo tutti."
+    },
+    {
+      "en": "standing item",
+      "pron": "stànding àitem",
+      "it": "punto fisso all'ordine del giorno",
+      "type": "noun",
+      "ex": "Security is a standing item on our agenda.",
+      "exIt": "La sicurezza è un punto fisso del nostro ordine del giorno."
+    },
+    {
+      "en": "to run out of",
+      "pron": "ràn àut ov",
+      "it": "esaurire, restare senza",
+      "type": "verb",
+      "ex": "We're running out of time.",
+      "exIt": "Il tempo sta per finire."
+    },
+    {
+      "en": "to take over",
+      "pron": "tèik òuvar",
+      "it": "subentrare, prendere in carico",
+      "type": "verb",
+      "ex": "Paolo will take over the project next month.",
+      "exIt": "Paolo prenderà in carico il progetto il mese prossimo."
+    },
+    {
+      "en": "to poll",
+      "pron": "pòul",
+      "it": "sondare, chiedere il parere a",
+      "type": "verb",
+      "ex": "Let me poll the group quickly.",
+      "exIt": "Chiedo subito il parere del gruppo."
+    },
+    {
+      "en": "catch-up",
+      "pron": "kàciap",
+      "it": "aggiornamento veloce tra colleghi",
+      "type": "noun",
+      "ex": "We have a quick catch-up on Friday.",
+      "exIt": "Venerdì abbiamo un aggiornamento veloce."
+    },
+    {
+      "en": "to call off",
+      "pron": "kòl òf",
+      "it": "annullare",
+      "type": "verb",
+      "ex": "They called off the meeting at the last minute.",
+      "exIt": "Hanno annullato la riunione all'ultimo minuto."
+    },
+    {
+      "en": "to back up",
+      "pron": "bàk àp",
+      "it": "sostenere; fare una copia di sicurezza",
+      "type": "verb",
+      "ex": "Can you back up your idea with some data?",
+      "exIt": "Puoi sostenere la tua idea con qualche dato?"
+    },
+    {
+      "en": "to fill in",
+      "pron": "fìl ìn",
+      "it": "informare; compilare; sostituire",
+      "type": "verb",
+      "ex": "Can you fill me in on what I missed?",
+      "exIt": "Puoi aggiornarmi su quello che mi sono perso?"
+    },
+    {
+      "en": "participant",
+      "pron": "partìsipant",
+      "it": "partecipante",
+      "type": "noun",
+      "ex": "Each participant gets five minutes.",
+      "exIt": "Ogni partecipante ha cinque minuti."
+    },
+    {
+      "en": "to move on",
+      "pron": "mùuv òn",
+      "it": "passare oltre, proseguire",
+      "type": "verb",
+      "ex": "If there are no questions, let's move on.",
+      "exIt": "Se non ci sono domande, andiamo avanti."
+    },
+    {
+      "en": "to second",
+      "pron": "sèkond",
+      "it": "appoggiare (una proposta)",
+      "type": "verb",
+      "ex": "I second Anna's proposal.",
+      "exIt": "Appoggio la proposta di Anna."
+    },
+    {
+      "en": "to break down",
+      "pron": "brèik dàun",
+      "it": "scomporre, analizzare; guastarsi",
+      "type": "verb",
+      "ex": "Let's break down the cost into three parts.",
+      "exIt": "Scomponiamo il costo in tre parti."
+    },
+    {
+      "en": "to check in",
+      "pron": "cèk ìn",
+      "it": "sentirsi, fare il punto veloce",
+      "type": "verb",
+      "ex": "I'll check in with the client on Monday.",
+      "exIt": "Lunedì mi sento con il cliente."
+    },
+    {
+      "en": "to open the floor",
+      "pron": "òupen de flòr",
+      "it": "aprire il dibattito",
+      "type": "phrase",
+      "ex": "Now I'll open the floor to questions.",
+      "exIt": "Ora lascio spazio alle domande."
+    },
+    {
+      "en": "to work out",
+      "pron": "uèrk àut",
+      "it": "calcolare, risolvere, trovare una soluzione",
+      "type": "verb",
+      "ex": "We need to work out the total cost.",
+      "exIt": "Dobbiamo calcolare il costo totale."
+    },
+    {
+      "en": "to carry on",
+      "pron": "kàri òn",
+      "it": "continuare",
+      "type": "verb",
+      "ex": "Please carry on with your presentation.",
+      "exIt": "Per favore, continua con la tua presentazione."
+    },
+    {
+      "en": "to take on",
+      "pron": "tèik òn",
+      "it": "accettare, farsi carico di",
+      "type": "verb",
+      "ex": "I can't take on any more work this month.",
+      "exIt": "Questo mese non posso prendere altro lavoro."
+    },
+    {
+      "en": "housekeeping",
+      "pron": "hàuskiiping",
+      "it": "avvisi pratici iniziali",
+      "type": "noun",
+      "ex": "A bit of housekeeping before we start.",
+      "exIt": "Qualche avviso pratico prima di iniziare."
+    },
+    {
+      "en": "to put forward",
+      "pron": "pùt fòruard",
+      "it": "proporre, avanzare",
+      "type": "verb",
+      "ex": "She put forward a very good idea.",
+      "exIt": "Ha avanzato un'ottima idea."
+    },
+    {
+      "en": "roll call",
+      "pron": "ròul kol",
+      "it": "appello dei presenti",
+      "type": "noun",
+      "ex": "We start with a roll call.",
+      "exIt": "Iniziamo con l'appello dei presenti."
+    },
+    {
+      "en": "to be in charge of",
+      "pron": "bi in ciàrdg ov",
+      "it": "essere responsabile di, occuparsi di",
+      "type": "phrase",
+      "ex": "Who is in charge of the minutes today?",
+      "exIt": "Chi si occupa del verbale oggi?"
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "minutes",
+      "it": "verbale della riunione",
+      "trap": "Al plurale, in ambito riunioni, minutes è il verbale, non solo i minuti. To take the minutes = redigere il verbale."
+    },
+    {
+      "en": "to attend",
+      "it": "partecipare a",
+      "trap": "Non vuol dire 'attendere'. To attend a meeting = partecipare a una riunione."
+    },
+    {
+      "en": "to record",
+      "it": "registrare, mettere a verbale",
+      "trap": "Non vuol dire 'ricordare' (= to remember). Vuol dire registrare, anche mettere a verbale: 'Please record this decision.'"
+    }
+  ],
+  "grammar": {
+    "title": "Phrasal verbs del lavoro (parte 1)",
+    "explainIt": [
+      "Un phrasal verb è un verbo seguito da una piccola parola, come up, out, over, off, on. Insieme formano un significato nuovo, spesso diverso dal verbo da solo. 'To go' è andare, ma 'to go over' è ripassare. Nell'inglese di lavoro sono ovunque, soprattutto nel parlato e nelle mail informali.",
+      "Alcuni phrasal verbs non hanno un oggetto. Si dice 'We kick off at nine' o 'Let's move on'. Sono intransitivi. Altri hanno un oggetto: 'to set up a meeting', 'to carry out a test'. Per molti di questi puoi mettere l'oggetto in due posti: 'set up a meeting' oppure 'set a meeting up'. Sono phrasal verbs separabili.",
+      "Attenzione ai pronomi. Se l'oggetto è un pronome (it, them, him, her, us), deve andare in mezzo: 'set it up', 'go over them', 'bring it up'. Non si dice mai 'set up it'. Con un nome invece sono possibili tutti e due gli ordini.",
+      "Altri phrasal verbs non si possono separare: l'oggetto va sempre dopo. Succede con quelli a tre parole, come 'come up with', 'run out of' e 'get back to', e con alcuni a due parole, come 'look into' e 'deal with'. Si dice 'I'll look into it' e 'We ran out of time', mai 'look it into'.",
+      "Come impararli: non memorizzare la lista da sola. Impara il verbo con una frase tipo, e cerca di capire il senso dalla particella. Up spesso vuol dire 'iniziare o completare', out 'verso l'esterno o fino in fondo', off 'staccare o rimandare', on 'continuare', over 'rivedere'. Per la riunione ti bastano una ventina di phrasal verbs, e gli altri li impari man mano.",
+      "Un consiglio di stile: i phrasal verbs sono naturali nel parlato. Nei testi molto formali spesso si preferisce un verbo più formale: 'carry out' diventa 'perform', 'find out' diventa 'discover', 'put off' diventa 'postpone'. Conoscere entrambi ti dà più scelta."
+    ],
+    "explainEn": [
+      "A phrasal verb is a verb with a small word after it, like up, out, over, off or on. Together they have a new meaning, often different from the verb alone. 'To go' means to move, but 'to go over' means to review. Phrasal verbs are everywhere in workplace English, especially in speaking and in informal emails.",
+      "Some phrasal verbs have no object: 'We kick off at nine' or 'Let's move on'. Others have an object: 'to set up a meeting', 'to carry out a test'. With many of these, the object can go in two places: 'set up a meeting' or 'set a meeting up'. These are separable phrasal verbs.",
+      "Be careful with pronouns. If the object is a pronoun (it, them, him, her, us), it must go in the middle: 'set it up', 'go over them'. We never say 'set up it'. With a noun, both orders are possible.",
+      "Some phrasal verbs cannot be separated: the object always comes after. This is true of three-word phrasal verbs like 'come up with', 'run out of' and 'get back to', and of some two-word ones like 'look into' and 'deal with'. We say 'I'll look into it' and 'We ran out of time'.",
+      "How to learn them: do not study a long list alone. Learn each verb in a typical sentence and try to understand the meaning from the particle. Up often means to start or to finish. Out often means to the end or outwards. Off often means to remove, cancel or delay. On often means to continue. Over often means to review.",
+      "A note on style: phrasal verbs are natural in conversation. In very formal writing, a single formal verb is often better: 'carry out' becomes 'perform', 'find out' becomes 'discover', 'put off' becomes 'postpone'. Knowing both gives you more choice."
+    ],
+    "rules": [
+      {
+        "it": "Un phrasal verb è verbo + particella e ha un significato proprio. Alcuni non hanno oggetto.",
+        "en": "A phrasal verb is verb + particle, with its own meaning. Some have no object.",
+        "form": "verbo + particella",
+        "examples": [
+          {
+            "en": "Let's kick off at nine sharp.",
+            "it": "Iniziamo alle nove in punto."
+          },
+          {
+            "en": "If there are no questions, let's move on.",
+            "it": "Se non ci sono domande, andiamo avanti."
+          },
+          {
+            "en": "The call turned out well.",
+            "it": "La chiamata è andata bene."
+          }
+        ]
+      },
+      {
+        "it": "I phrasal verbs separabili con un nome possono avere l'oggetto in mezzo o dopo.",
+        "en": "With separable phrasal verbs, a noun can go in the middle or after.",
+        "form": "set up + nome / set + nome + up",
+        "examples": [
+          {
+            "en": "She set up a meeting with the client.",
+            "it": "Ha organizzato una riunione con il cliente."
+          },
+          {
+            "en": "She set a meeting up with the client.",
+            "it": "Ha organizzato una riunione con il cliente."
+          },
+          {
+            "en": "Can you go over the figures with me?",
+            "it": "Puoi rivedere le cifre con me?"
+          }
+        ]
+      },
+      {
+        "it": "Con un pronome (it, them, him, her, us) l'oggetto va sempre in mezzo.",
+        "en": "With a pronoun, the object always goes in the middle.",
+        "form": "verbo + pronome + particella",
+        "examples": [
+          {
+            "en": "I'll set it up this afternoon.",
+            "it": "Lo organizzo questo pomeriggio."
+          },
+          {
+            "en": "Let's go over them together.",
+            "it": "Riguardiamoli insieme."
+          },
+          {
+            "en": "Please don't put it off any longer.",
+            "it": "Per favore non rimandarlo ancora."
+          }
+        ]
+      },
+      {
+        "it": "I phrasal verbs inseparabili hanno sempre l'oggetto dopo. Sono quelli a tre parole e alcuni altri, come look into.",
+        "en": "Inseparable phrasal verbs always have the object after.",
+        "form": "come up with + oggetto, run out of + oggetto, look into + oggetto",
+        "examples": [
+          {
+            "en": "We need to come up with a better plan.",
+            "it": "Dobbiamo trovare un piano migliore."
+          },
+          {
+            "en": "We've run out of budget.",
+            "it": "Abbiamo finito il budget."
+          },
+          {
+            "en": "I'll look into it.",
+            "it": "Ci guardo io."
+          }
+        ]
+      },
+      {
+        "it": "Molti phrasal verbs hanno più significati. Capisci quello giusto dal contesto.",
+        "en": "Many phrasal verbs have several meanings. Use the context to understand.",
+        "form": "fill in = informare / compilare / sostituire",
+        "examples": [
+          {
+            "en": "Can you fill me in on yesterday's call?",
+            "it": "Puoi aggiornarmi sulla chiamata di ieri?"
+          },
+          {
+            "en": "Please fill in the form.",
+            "it": "Per favore compila il modulo."
+          },
+          {
+            "en": "Can you fill in for me on Monday?",
+            "it": "Puoi sostituirmi lunedì?"
+          }
+        ]
+      }
+    ],
+    "tip": "Quando l'oggetto è un pronome, mettilo in mezzo: set it up, go over it, bring it up. Se dubiti con un nome, mettilo dopo: è quasi sempre corretto.",
+    "mistakes": [
+      {
+        "wrong": "Can you set up it for tomorrow?",
+        "right": "Can you set it up for tomorrow?",
+        "why": "con un pronome l'oggetto va in mezzo"
+      },
+      {
+        "wrong": "We ran out the budget.",
+        "right": "We ran out of budget.",
+        "why": "run out of ha tre parole, manca of"
+      },
+      {
+        "wrong": "I'll look it into.",
+        "right": "I'll look into it.",
+        "why": "look into non si può separare"
+      },
+      {
+        "wrong": "Let's go over about the figures.",
+        "right": "Let's go over the figures.",
+        "why": "go over vuole direttamente l'oggetto, senza about"
+      },
+      {
+        "wrong": "We carried on a test.",
+        "right": "We carried out a test.",
+        "why": "carry out è eseguire, carry on è continuare"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "Can you ___ up a call with the client?",
+      "a": [
+        "set"
+      ],
+      "hint": "organizzare: set ... up",
+      "explain": "set up = organizzare, creare."
+    },
+    {
+      "q": "We need to go ___ the figures again.",
+      "a": [
+        "over"
+      ],
+      "hint": "ripassare",
+      "explain": "go over = ripassare, esaminare."
+    },
+    {
+      "q": "I'd like to point ___ that the deadline is Friday.",
+      "a": [
+        "out"
+      ],
+      "hint": "far notare",
+      "explain": "point out = far notare."
+    },
+    {
+      "q": "Thanks for bringing ___ the cookie banner.",
+      "a": [
+        "up"
+      ],
+      "hint": "sollevare un argomento",
+      "explain": "bring up = sollevare un tema."
+    },
+    {
+      "q": "We're running out ___ time, so let's wrap up.",
+      "a": [
+        "of"
+      ],
+      "hint": "restare senza",
+      "explain": "run out of = restare senza, esaurire."
+    },
+    {
+      "q": "I'll look ___ it and get back to you.",
+      "a": [
+        "into"
+      ],
+      "hint": "indagare",
+      "explain": "look into = indagare. Non si può separare."
+    },
+    {
+      "q": "Can you set ___ up for Thursday? (l'oggetto è: the meeting, pronome it)",
+      "a": [
+        "it"
+      ],
+      "hint": "oggetto pronome",
+      "explain": "Con un pronome l'oggetto va in mezzo: set it up."
+    },
+    {
+      "q": "The test turned ___ to be a good idea.",
+      "a": [
+        "out"
+      ],
+      "hint": "rivelarsi",
+      "explain": "turn out = rivelarsi, risultare."
+    },
+    {
+      "q": "Can you fill me ___ on what happened?",
+      "a": [
+        "in"
+      ],
+      "hint": "aggiornare",
+      "explain": "fill someone in = informarlo."
+    },
+    {
+      "q": "We carried ___ a full accessibility audit.",
+      "a": [
+        "out"
+      ],
+      "hint": "eseguire",
+      "explain": "carry out = eseguire, svolgere."
+    },
+    {
+      "q": "Can anyone come ___ with a better solution?",
+      "a": [
+        "up"
+      ],
+      "hint": "ideare",
+      "explain": "come up with = ideare, trovare."
+    },
+    {
+      "q": "If there are no questions, let's move ___.",
+      "a": [
+        "on"
+      ],
+      "hint": "andare avanti",
+      "explain": "move on = passare oltre, proseguire."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Aprire la riunione",
+      "en": "Shall we get started?",
+      "it": "Cominciamo?"
+    },
+    {
+      "group": "Aprire la riunione",
+      "en": "Thank you all for coming. Let me kick things off.",
+      "it": "Grazie a tutti per essere venuti. Comincio io."
+    },
+    {
+      "group": "Aprire la riunione",
+      "en": "We have apologies from Marco, who is on holiday.",
+      "it": "Marco si è scusato: è in ferie."
+    },
+    {
+      "group": "Aprire la riunione",
+      "en": "The aim of today's meeting is to agree on a launch date.",
+      "it": "Lo scopo della riunione di oggi è concordare una data di lancio."
+    },
+    {
+      "group": "Aprire la riunione",
+      "en": "Let me quickly go over the agenda.",
+      "it": "Passo rapidamente in rassegna l'ordine del giorno."
+    },
+    {
+      "group": "Seguire i punti",
+      "en": "Let's move on to the next item.",
+      "it": "Passiamo al punto successivo."
+    },
+    {
+      "group": "Seguire i punti",
+      "en": "Can I bring up a quick point on the budget?",
+      "it": "Posso sollevare un punto veloce sul budget?"
+    },
+    {
+      "group": "Seguire i punti",
+      "en": "I'd like to point out that we have only ten minutes left.",
+      "it": "Vorrei far notare che ci restano solo dieci minuti."
+    },
+    {
+      "group": "Seguire i punti",
+      "en": "We're running out of time, so let's keep it short.",
+      "it": "Il tempo sta per finire, quindi siamo brevi."
+    },
+    {
+      "group": "Seguire i punti",
+      "en": "Let's park that for now and come back to it later.",
+      "it": "Mettiamolo da parte per ora e ci torniamo dopo.",
+      "note": "to park = mettere da parte"
+    },
+    {
+      "group": "Prendere decisioni",
+      "en": "So, are we all agreed?",
+      "it": "Quindi, siamo tutti d'accordo?"
+    },
+    {
+      "group": "Prendere decisioni",
+      "en": "Let's put it to a vote.",
+      "it": "Mettiamolo ai voti."
+    },
+    {
+      "group": "Prendere decisioni",
+      "en": "The decision is unanimous.",
+      "it": "La decisione è unanime."
+    },
+    {
+      "group": "Prendere decisioni",
+      "en": "We can't put this off any longer. We need a decision today.",
+      "it": "Non possiamo rimandare ancora. Serve una decisione oggi."
+    },
+    {
+      "group": "Prendere decisioni",
+      "en": "So we've agreed to postpone the launch to May.",
+      "it": "Quindi abbiamo deciso di rinviare il lancio a maggio."
+    },
+    {
+      "group": "Azioni e responsabilità",
+      "en": "Who can take this on?",
+      "it": "Chi se ne può occupare?"
+    },
+    {
+      "group": "Azioni e responsabilità",
+      "en": "I'll assign this action to Giulia, by next Wednesday.",
+      "it": "Assegno questa azione a Giulia, entro mercoledì prossimo."
+    },
+    {
+      "group": "Azioni e responsabilità",
+      "en": "Paolo, can you look into it and get back to us?",
+      "it": "Paolo, puoi indagare e farci sapere?"
+    },
+    {
+      "group": "Azioni e responsabilità",
+      "en": "Let's set up a follow-up call for next week.",
+      "it": "Fissiamo una chiamata di verifica per la prossima settimana."
+    },
+    {
+      "group": "Azioni e responsabilità",
+      "en": "I'll circulate the minutes by the end of the day.",
+      "it": "Faccio circolare il verbale entro fine giornata."
+    },
+    {
+      "group": "Chiudere la riunione",
+      "en": "Let's wrap up. Is there any AOB?",
+      "it": "Concludiamo. Ci sono varie ed eventuali?"
+    },
+    {
+      "group": "Chiudere la riunione",
+      "en": "To sum up, we agreed on three things.",
+      "it": "Riassumendo, abbiamo concordato tre cose."
+    },
+    {
+      "group": "Chiudere la riunione",
+      "en": "Thank you all. That's all for today.",
+      "it": "Grazie a tutti. Per oggi è tutto."
+    },
+    {
+      "group": "Chiudere la riunione",
+      "en": "The next meeting will be on Thursday at ten.",
+      "it": "La prossima riunione sarà giovedì alle dieci."
+    },
+    {
+      "group": "Chiudere la riunione",
+      "en": "I'll send out the minutes and the action points this afternoon.",
+      "it": "Mando il verbale e le azioni questo pomeriggio."
+    }
+  ],
+  "dialogue": {
+    "title": "Weekly project meeting",
+    "context": "Sara guida la riunione settimanale del team web. Con lei ci sono Paolo, sviluppatore, e Giulia, che cura il rapporto con il cliente.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "Good morning, everyone. Shall we get started? We have three items today.",
+        "it": "Buongiorno a tutti. Cominciamo? Oggi abbiamo tre punti."
+      },
+      {
+        "s": "B",
+        "name": "Paolo",
+        "en": "Sorry, Sara. Can I bring up a quick point before we begin?",
+        "it": "Scusa Sara. Posso sollevare un punto veloce prima di iniziare?"
+      },
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "Let's park it until the end, under AOB. First, let's go over last week's action points.",
+        "it": "Teniamolo per la fine, nelle varie ed eventuali. Prima rivediamo le azioni della settimana scorsa."
+      },
+      {
+        "s": "C",
+        "name": "Giulia",
+        "en": "I followed up with the client. They want to bring the launch forward to 10 May.",
+        "it": "Ho risentito il cliente. Vogliono anticipare il lancio al 10 maggio."
+      },
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "That's a problem. We're running out of time. Paolo, can you look into it?",
+        "it": "È un problema. Il tempo stringe. Paolo, puoi verificare?"
+      },
+      {
+        "s": "B",
+        "name": "Paolo",
+        "en": "Yes. I need to work out how many days we really need. I'll get back to you tomorrow.",
+        "it": "Sì. Devo calcolare quanti giorni ci servono davvero. Ti rispondo domani."
+      },
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "Good. Second item: the accessibility audit. Who carried it out?",
+        "it": "Bene. Secondo punto: l'audit di accessibilità. Chi lo ha svolto?"
+      },
+      {
+        "s": "C",
+        "name": "Giulia",
+        "en": "I did. I'd like to point out that we found twelve critical issues.",
+        "it": "L'ho fatto io. Vorrei far notare che abbiamo trovato dodici problemi critici."
+      },
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "Can you come up with a plan to sort them out this week?",
+        "it": "Riesci a pensare a un piano per sistemarli questa settimana?"
+      },
+      {
+        "s": "C",
+        "name": "Giulia",
+        "en": "Yes, but I'll need help. Can someone take this on with me?",
+        "it": "Sì, ma mi serve aiuto. Qualcuno può prenderlo in carico con me?"
+      },
+      {
+        "s": "B",
+        "name": "Paolo",
+        "en": "I can, once I've handed over the shop project.",
+        "it": "Posso io, appena ho passato il progetto dello shop."
+      },
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "Great. So, to sum up: Paolo will look into the new date, and he and Giulia will sort out the audit issues.",
+        "it": "Bene. Quindi, riassumendo: Paolo valuta la nuova data, e lui e Giulia sistemano i problemi dell'audit."
+      },
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "Paolo, you wanted to bring something up under AOB?",
+        "it": "Paolo, volevi sollevare qualcosa nelle varie ed eventuali?"
+      },
+      {
+        "s": "B",
+        "name": "Paolo",
+        "en": "Yes, just a reminder that the server will be down on Friday night.",
+        "it": "Sì, solo un promemoria: venerdì notte il server sarà fuori servizio."
+      },
+      {
+        "s": "A",
+        "name": "Sara",
+        "en": "Thanks. Let's wrap up here. I'll send out the minutes this afternoon.",
+        "it": "Grazie. Chiudiamo qui. Mando il verbale questo pomeriggio."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What does the client want to do?",
+      "options": [
+        "Postpone the launch",
+        "Bring the launch forward",
+        "Cancel the project"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What will Paolo do about the new date?",
+      "options": [
+        "He will look into it and get back to Sara",
+        "He will call off the meeting",
+        "He will hand it over to Giulia"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "How many critical issues did the audit find?",
+      "options": [
+        "Two",
+        "Twelve",
+        "Twenty"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When will Sara send the minutes?",
+      "options": [
+        "Tomorrow morning",
+        "This afternoon",
+        "On Friday"
+      ],
+      "answer": 1
+    }
+  ],
+  "translations": [
+    {
+      "it": "Cominciamo? Oggi abbiamo tre punti.",
+      "en": "Shall we get started? We have three items today.",
+      "alt": [
+        "Shall we start? We have three items today.",
+        "Shall we begin? We have three items today."
+      ]
+    },
+    {
+      "it": "Posso sollevare un punto veloce?",
+      "en": "Can I bring up a quick point?",
+      "alt": [
+        "Could I bring up a quick point?",
+        "Can I raise a quick point?"
+      ]
+    },
+    {
+      "it": "Passiamo al punto successivo.",
+      "en": "Let's move on to the next item.",
+      "alt": [
+        "Let's move on to the next point.",
+        "Let's go on to the next item."
+      ]
+    },
+    {
+      "it": "Il tempo sta per finire.",
+      "en": "We're running out of time.",
+      "alt": [
+        "We are running out of time."
+      ]
+    },
+    {
+      "it": "Ho organizzato una chiamata con il cliente per giovedì.",
+      "en": "I've set up a call with the client for Thursday.",
+      "alt": [
+        "I set up a call with the client for Thursday.",
+        "I have set up a call with the client for Thursday."
+      ]
+    },
+    {
+      "it": "Puoi verificare questo problema e farmi sapere?",
+      "en": "Can you look into this problem and get back to me?",
+      "alt": [
+        "Could you look into this problem and get back to me?",
+        "Can you look into it and get back to me?"
+      ]
+    },
+    {
+      "it": "Vorrei far notare che la scadenza è venerdì.",
+      "en": "I'd like to point out that the deadline is Friday.",
+      "alt": [
+        "I would like to point out that the deadline is Friday."
+      ]
+    },
+    {
+      "it": "Chi può farsi carico di questa azione?",
+      "en": "Who can take on this action?",
+      "alt": [
+        "Who can take this action on?",
+        "Who can take this on?",
+        "Who can take on this task?"
+      ]
+    },
+    {
+      "it": "Manderò il verbale entro la fine della giornata.",
+      "en": "I'll send the minutes by the end of the day.",
+      "alt": [
+        "I will send the minutes by the end of the day.",
+        "I'll circulate the minutes by the end of the day."
+      ]
+    },
+    {
+      "it": "Abbiamo svolto un audit completo del sito.",
+      "en": "We carried out a full audit of the site.",
+      "alt": [
+        "We carried out a full audit of the website.",
+        "We've carried out a full audit of the site."
+      ]
+    },
+    {
+      "it": "Puoi aggiornarmi su quello che è successo?",
+      "en": "Can you fill me in on what happened?",
+      "alt": [
+        "Could you fill me in on what happened?"
+      ]
+    },
+    {
+      "it": "Concludiamo qui. Per oggi è tutto.",
+      "en": "Let's wrap up here. That's all for today.",
+      "alt": [
+        "Let's wrap up. That's all for today.",
+        "Let's finish here. That's all for today."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Hai appena guidato una riunione con tre punti: il lancio del sito, l'audit di accessibilità e la formazione del cliente. Scrivi una breve mail ai partecipanti con il riepilogo. Per ogni punto scrivi una frase su cosa avete deciso. Aggiungi due azioni con il nome della persona e la scadenza. Usa almeno quattro phrasal verbs della lezione. Chiudi dicendo quando sarà la prossima riunione.",
+    "taskEn": "You have just chaired a meeting with three items: the website launch, the accessibility audit and training for the client. Write a short email to the attendees with a summary. For each item, write one sentence about what you decided. Add two actions with a name and a deadline. Use at least four phrasal verbs from the lesson. End by saying when the next meeting will be.",
+    "model": "Subject: Minutes and action points: project meeting\n\nHi all,\n\nThank you for your time this morning. Here is a quick summary.\n\n1. Website launch: we agreed to bring the launch forward to 10 May. Paolo will look into the schedule and get back to us.\n2. Accessibility audit: we carried out the audit and found twelve critical issues. Giulia will come up with a plan to sort them out.\n3. Client training: we decided to set up two online sessions in June.\n\nAction points:\n- Paolo: send the new schedule by Wednesday 6 May.\n- Giulia: share the plan for the audit issues by Friday 8 May.\n\nIf I've missed anything, please let me know.\n\nThe next meeting will be on Thursday 14 May at 10.\n\nBest regards,\nSara"
+  },
+  "speaking": {
+    "shadowing": [
+      "Shall we get started? We have three items today.",
+      "Let's go over last week's action points.",
+      "Can I bring up a quick point before we move on?",
+      "I'd like to point out that we're running out of time.",
+      "Paolo, can you look into it and get back to us?",
+      "Who can take this on?",
+      "Let's wrap up. Is there any other business?",
+      "I'll send out the minutes this afternoon."
+    ],
+    "prompts": [
+      {
+        "en": "How do you usually start a meeting?",
+        "it": "Come fai di solito per iniziare una riunione?",
+        "help": "Inizia con: First I welcome everyone, then I go over the agenda..."
+      },
+      {
+        "en": "What do you do when people talk for too long?",
+        "it": "Che cosa fai quando qualcuno parla troppo?",
+        "help": "Usa: I try to move on / We're running out of time..."
+      },
+      {
+        "en": "How do you make sure everyone knows what to do after the meeting?",
+        "it": "Come ti assicuri che tutti sappiano che cosa fare dopo?",
+        "help": "Usa: I assign action points and send the minutes."
+      },
+      {
+        "en": "Tell me about the last meeting you took part in.",
+        "it": "Raccontami l'ultima riunione a cui hai partecipato.",
+        "help": "Usa: We went over... / We came up with... / We decided to..."
+      },
+      {
+        "en": "Is there something you often put off? Why?",
+        "it": "C'è qualcosa che rimandi spesso? Perché?",
+        "help": "Usa: I often put off... because..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": [
+        "Running a meeting",
+        "Guidare una riunione",
+        "Phrasal verbs del lavoro"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi impari a guidare una riunione in inglese. Vediamo come aprirla, seguire i punti, prendere decisioni e chiudere."
+        },
+        {
+          "lang": "it",
+          "text": "In più studiamo i phrasal verbs, i verbi con la particella, che nelle riunioni si sentono di continuo."
+        }
+      ]
+    },
+    {
+      "title": "Che cos'è un phrasal verb",
+      "show": [
+        "verbo + particella",
+        "go = andare",
+        "go over = ripassare"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Un phrasal verb è un verbo con una piccola parola dopo. Il significato cambia. Go vuol dire andare, ma go over vuol dire ripassare."
+        },
+        {
+          "lang": "en",
+          "text": "Let's go over the main points."
+        },
+        {
+          "lang": "en",
+          "text": "Let's kick off at nine."
+        }
+      ]
+    },
+    {
+      "title": "Separabili o no",
+      "show": [
+        "set up a meeting",
+        "set a meeting up",
+        "set it up"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Molti phrasal verbs si possono separare. Con un nome puoi dire set up a meeting oppure set a meeting up. Ma con un pronome, l'oggetto va sempre in mezzo."
+        },
+        {
+          "lang": "en",
+          "text": "She set up a meeting."
+        },
+        {
+          "lang": "en",
+          "text": "She set a meeting up."
+        },
+        {
+          "lang": "en",
+          "text": "She set it up."
+        }
+      ]
+    },
+    {
+      "title": "Quelli che non si separano",
+      "show": [
+        "come up with",
+        "run out of",
+        "look into",
+        "get back to"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Altri non si separano mai. Sono quelli con due particelle, come come up with e run out of. E anche look into."
+        },
+        {
+          "lang": "en",
+          "text": "We need to come up with a better plan."
+        },
+        {
+          "lang": "en",
+          "text": "We're running out of time."
+        },
+        {
+          "lang": "en",
+          "text": "I'll look into it."
+        }
+      ]
+    },
+    {
+      "title": "Aprire e seguire i punti",
+      "show": [
+        "Shall we get started?",
+        "Let's move on to the next item",
+        "Can I bring up a point?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per aprire una riunione puoi dire così. Poi, per passare da un punto all'altro, usa move on. E per sollevare un argomento, bring up."
+        },
+        {
+          "lang": "en",
+          "text": "Shall we get started?"
+        },
+        {
+          "lang": "en",
+          "text": "Let's move on to the next item."
+        },
+        {
+          "lang": "en",
+          "text": "Can I bring up a quick point?"
+        }
+      ]
+    },
+    {
+      "title": "Decisioni e azioni",
+      "show": [
+        "Let's put it to a vote",
+        "Who can take this on?",
+        "I'll assign this to Giulia"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per decidere e assegnare le azioni, usa queste frasi. Ricorda sempre di dire chi fa che cosa, e entro quando."
+        },
+        {
+          "lang": "en",
+          "text": "Let's put it to a vote."
+        },
+        {
+          "lang": "en",
+          "text": "Who can take this on?"
+        },
+        {
+          "lang": "en",
+          "text": "I'll assign this to Giulia, by Wednesday."
+        }
+      ]
+    },
+    {
+      "title": "Chiudere la riunione",
+      "show": [
+        "Let's wrap up",
+        "To sum up...",
+        "I'll send out the minutes"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per chiudere, usa wrap up. Riassumi in poche frasi e annuncia il verbale, che in inglese si chiama minutes."
+        },
+        {
+          "lang": "en",
+          "text": "Let's wrap up. Is there any other business?"
+        },
+        {
+          "lang": "en",
+          "text": "I'll send out the minutes this afternoon."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "set up, go over, bring up",
+        "carry out, point out, wrap up",
+        "run out of, look into, come up with"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riepilogo. Hai visto i phrasal verbs più usati nelle riunioni. Con il pronome, l'oggetto va in mezzo. Con i verbi a tre parole, l'oggetto va dopo."
+        },
+        {
+          "lang": "it",
+          "text": "Ora scrivi il tuo riassunto e ripeti ad alta voce le frasi. Alla prossima lezione."
+        }
+      ]
+    }
+  ]
+}

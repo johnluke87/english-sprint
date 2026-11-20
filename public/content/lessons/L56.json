@@ -1,0 +1,1248 @@
+{
+  "id": 56,
+  "week": 12,
+  "title": "Pronuncia e accento",
+  "titleEn": "Pronunciation and stress",
+  "intro": "Oggi lavori sui suoni che per un italiano sono più difficili: th, h, vocali lunghe e corte, e l'accento sulle parole e sulla frase. Impari anche 50 parole che gli italiani sbagliano spesso. Una buona pronuncia ti fa capire alla prima, anche in chiamata con i clienti.",
+  "goals": [
+    "Pronunciare th, h e le vocali lunghe e corte senza confonderle",
+    "Mettere l'accento giusto sulle parole e sulla frase",
+    "Evitare 50 errori classici di pronuncia degli italiani",
+    "Chiedere di ripetere, controllare la pronuncia e fare lo spelling di un nome"
+  ],
+  "words": [
+    {
+      "en": "comfortable",
+      "pron": "kàmftabol",
+      "it": "comodo (si dice kàmf-ta-bol, la o e la r quasi spariscono)",
+      "type": "adj",
+      "ex": "This chair is very comfortable for long work days.",
+      "exIt": "Questa sedia è molto comoda per le lunghe giornate di lavoro."
+    },
+    {
+      "en": "vegetable",
+      "pron": "vèdgtabol",
+      "it": "verdura, ortaggio (tre sillabe, non quattro)",
+      "type": "noun",
+      "ex": "The canteen always serves a vegetable soup.",
+      "exIt": "La mensa serve sempre una zuppa di verdura."
+    },
+    {
+      "en": "Wednesday",
+      "pron": "uènzdei",
+      "it": "mercoledì (la d non si pronuncia)",
+      "type": "noun",
+      "ex": "The client meeting is on Wednesday afternoon.",
+      "exIt": "La riunione con il cliente è mercoledì pomeriggio."
+    },
+    {
+      "en": "February",
+      "pron": "fèbruari",
+      "it": "febbraio (la r dopo la b si sente)",
+      "type": "noun",
+      "ex": "We launch the new site in February.",
+      "exIt": "Lanciamo il nuovo sito a febbraio."
+    },
+    {
+      "en": "business",
+      "pron": "bìznes",
+      "it": "affari, azienda (due sillabe, bìz-nes: la u si legge i, la i dopo la s non si sente, la s è come z)",
+      "type": "noun",
+      "ex": "My business depends on a few long-term clients.",
+      "exIt": "La mia attività dipende da pochi clienti di lungo periodo."
+    },
+    {
+      "en": "interesting",
+      "pron": "ìntrestin",
+      "it": "interessante (accento sulla prima, tre sillabe)",
+      "type": "adj",
+      "ex": "That is an interesting question for the client.",
+      "exIt": "È una domanda interessante per il cliente."
+    },
+    {
+      "en": "specific",
+      "pron": "spasìfik",
+      "it": "specifico (c dolce come s, non come k)",
+      "type": "adj",
+      "ex": "Could you be more specific about the error?",
+      "exIt": "Potresti essere più specifico sull'errore?"
+    },
+    {
+      "en": "height",
+      "pron": "hàit",
+      "it": "altezza (finisce con t, non con th)",
+      "type": "noun",
+      "ex": "Set a fixed height for the header image.",
+      "exIt": "Imposta un'altezza fissa per l'immagine dell'intestazione."
+    },
+    {
+      "en": "though",
+      "pron": "dòu",
+      "it": "sebbene, però (th sonoro come d morbida, finisce con ou)",
+      "type": "conj",
+      "ex": "The design is nice, though the contrast is too low.",
+      "exIt": "Il design è bello, anche se il contrasto è troppo basso."
+    },
+    {
+      "en": "through",
+      "pron": "trùu",
+      "it": "attraverso, tramite (th sorda, vocale lunga)",
+      "type": "prep",
+      "ex": "Please go through the checklist step by step.",
+      "exIt": "Per favore ripassa la lista di controllo punto per punto."
+    },
+    {
+      "en": "thought",
+      "pron": "tòot",
+      "it": "pensiero, idea (gh muta, ough si legge come una o aperta e lunga)",
+      "type": "noun",
+      "ex": "I had a thought about the menu layout.",
+      "exIt": "Mi è venuta un'idea sul layout del menu."
+    },
+    {
+      "en": "enough",
+      "pron": "inàf",
+      "it": "abbastanza (gh si legge f)",
+      "type": "adv",
+      "ex": "Is the text big enough for mobile screens?",
+      "exIt": "Il testo è abbastanza grande per gli schermi dei cellulari?"
+    },
+    {
+      "en": "colleague",
+      "pron": "kòliig",
+      "it": "collega (la parte finale ue non si legge)",
+      "type": "noun",
+      "ex": "My colleague will send you the invoice.",
+      "exIt": "Il mio collega ti manderà la fattura."
+    },
+    {
+      "en": "receipt",
+      "pron": "risìit",
+      "it": "ricevuta (la p non si pronuncia)",
+      "type": "noun",
+      "ex": "Please keep the receipt for the expense report.",
+      "exIt": "Per favore conserva la ricevuta per la nota spese."
+    },
+    {
+      "en": "debt",
+      "pron": "dèt",
+      "it": "debito (la b non si pronuncia)",
+      "type": "noun",
+      "ex": "Technical debt slows down every new release.",
+      "exIt": "Il debito tecnico rallenta ogni nuova versione."
+    },
+    {
+      "en": "island",
+      "pron": "àiland",
+      "it": "isola (la s non si pronuncia)",
+      "type": "noun",
+      "ex": "Our designer works from an island in Greece.",
+      "exIt": "Il nostro designer lavora da un'isola in Grecia."
+    },
+    {
+      "en": "climb",
+      "pron": "klàim",
+      "it": "arrampicarsi, salire (la b finale è muta)",
+      "type": "verb",
+      "ex": "Our traffic should climb after the redesign.",
+      "exIt": "Il nostro traffico dovrebbe salire dopo il rifacimento."
+    },
+    {
+      "en": "psychology",
+      "pron": "saikòlodgi",
+      "it": "psicologia (la p iniziale è muta)",
+      "type": "noun",
+      "ex": "Colour psychology matters in interface design.",
+      "exIt": "La psicologia del colore conta nel design delle interfacce."
+    },
+    {
+      "en": "cupboard",
+      "pron": "kàbad",
+      "it": "armadietto, credenza (la p è muta)",
+      "type": "noun",
+      "ex": "The spare cables are in the cupboard.",
+      "exIt": "I cavi di scorta sono nell'armadietto."
+    },
+    {
+      "en": "pronunciation",
+      "pron": "pronansièiscion",
+      "it": "pronuncia (il verbo è to pronounce, con ou; nel nome la u si dice a)",
+      "type": "noun",
+      "ex": "Her pronunciation is clear, even on the phone.",
+      "exIt": "La sua pronuncia è chiara, anche al telefono."
+    },
+    {
+      "en": "develop",
+      "pron": "divèlop",
+      "it": "sviluppare (accento sulla seconda sillaba)",
+      "type": "verb",
+      "ex": "We develop accessible websites for public bodies.",
+      "exIt": "Sviluppiamo siti accessibili per enti pubblici."
+    },
+    {
+      "en": "photography",
+      "pron": "fotògrafi",
+      "it": "fotografia (come arte; accento sulla seconda sillaba, diverso da photograph)",
+      "type": "noun",
+      "ex": "The site needs professional product photography.",
+      "exIt": "Il sito ha bisogno di fotografie professionali dei prodotti."
+    },
+    {
+      "en": "dessert",
+      "pron": "dizèrt",
+      "it": "dolce a fine pasto (accento sulla seconda; desert, il deserto, ha l'accento sulla prima)",
+      "type": "noun",
+      "ex": "We ordered dessert after the client dinner.",
+      "exIt": "Abbiamo ordinato il dolce dopo la cena con il cliente."
+    },
+    {
+      "en": "clothes",
+      "pron": "klòuz",
+      "it": "vestiti (una sola sillaba, la th è quasi muta)",
+      "type": "noun",
+      "ex": "Business casual means smart, comfortable clothes.",
+      "exIt": "Business casual vuol dire vestiti curati ma comodi."
+    },
+    {
+      "en": "honest",
+      "pron": "ònist",
+      "it": "onesto (la h è muta)",
+      "type": "adj",
+      "ex": "To be honest, the deadline is unrealistic.",
+      "exIt": "Sinceramente, la scadenza è irrealistica."
+    },
+    {
+      "en": "hour",
+      "pron": "àua",
+      "it": "ora (60 minuti; la h è muta)",
+      "type": "noun",
+      "ex": "The call lasted over an hour.",
+      "exIt": "La chiamata è durata più di un'ora."
+    },
+    {
+      "en": "hotel",
+      "pron": "houtèl",
+      "it": "albergo (la h si sente, accento sulla seconda)",
+      "type": "noun",
+      "ex": "The hotel is five minutes from the conference centre.",
+      "exIt": "L'albergo è a cinque minuti dal centro congressi."
+    },
+    {
+      "en": "vehicle",
+      "pron": "vìiakol",
+      "it": "veicolo (la h è muta)",
+      "type": "noun",
+      "ex": "The app tracks every company vehicle.",
+      "exIt": "L'app segue ogni veicolo aziendale."
+    },
+    {
+      "en": "queue",
+      "pron": "kiù",
+      "it": "coda, fila (si legge solo la q con iu)",
+      "type": "noun",
+      "ex": "There is a long queue of support tickets.",
+      "exIt": "C'è una lunga coda di ticket di assistenza."
+    },
+    {
+      "en": "often",
+      "pron": "òfen",
+      "it": "spesso (la t di solito è muta)",
+      "type": "adv",
+      "ex": "How often do you back up the database?",
+      "exIt": "Ogni quanto fai il backup del database?"
+    },
+    {
+      "en": "walk",
+      "pron": "uòok",
+      "it": "camminare (la l è muta; vocale lunga, come una o aperta)",
+      "type": "verb",
+      "ex": "I walk to the office on sunny days.",
+      "exIt": "Vado in ufficio a piedi quando c'è il sole."
+    },
+    {
+      "en": "salmon",
+      "pron": "sàmon",
+      "it": "salmone (la l è muta)",
+      "type": "noun",
+      "ex": "I'll have the salmon, please.",
+      "exIt": "Prendo il salmone, per favore."
+    },
+    {
+      "en": "thirteen",
+      "pron": "tertìin",
+      "it": "tredici (accento sul finale; thirty = tèrti, accento all'inizio)",
+      "type": "noun",
+      "ex": "There are thirteen open tickets, not thirty.",
+      "exIt": "Ci sono tredici ticket aperti, non trenta."
+    },
+    {
+      "en": "listen",
+      "pron": "lìsen",
+      "it": "ascoltare (la t è muta)",
+      "type": "verb",
+      "ex": "Listen carefully to the client's real problem.",
+      "exIt": "Ascolta con attenzione il vero problema del cliente."
+    },
+    {
+      "en": "whole",
+      "pron": "hòul",
+      "it": "intero (la w è muta; si dice come hole)",
+      "type": "adj",
+      "ex": "The whole team joined the workshop.",
+      "exIt": "L'intero team ha partecipato al workshop."
+    },
+    {
+      "en": "world",
+      "pron": "uèrld",
+      "it": "mondo (la o suona come e chiusa e la r è debole)",
+      "type": "noun",
+      "ex": "We have clients all over the world.",
+      "exIt": "Abbiamo clienti in tutto il mondo."
+    },
+    {
+      "en": "ship",
+      "pron": "scip",
+      "it": "nave, spedire (vocale breve e rilassata, a metà tra i ed e)",
+      "type": "verb",
+      "ex": "We ship the product in two days.",
+      "exIt": "Spediamo il prodotto in due giorni."
+    },
+    {
+      "en": "sheep",
+      "pron": "sciip",
+      "it": "pecora (vocale lunga ii)",
+      "type": "noun",
+      "ex": "The agency logo is a black sheep.",
+      "exIt": "Il logo dell'agenzia è una pecora nera."
+    },
+    {
+      "en": "to leave",
+      "pron": "lìiv",
+      "it": "partire, lasciare (vocale lunga; diverso da live)",
+      "type": "verb",
+      "ex": "I need to leave at five to catch my train.",
+      "exIt": "Devo andare via alle cinque per prendere il treno."
+    },
+    {
+      "en": "to live",
+      "pron": "lìv",
+      "it": "vivere, abitare (vocale breve)",
+      "type": "verb",
+      "ex": "Where do you live, and how long is your commute?",
+      "exIt": "Dove abiti e quanto dura il tuo tragitto?"
+    },
+    {
+      "en": "a record",
+      "pron": "rèkord",
+      "it": "un registro, un primato (nome: accento sulla prima)",
+      "type": "noun",
+      "ex": "We keep a record of every change request.",
+      "exIt": "Teniamo un registro di ogni richiesta di modifica."
+    },
+    {
+      "en": "to record",
+      "pron": "rikòrd",
+      "it": "registrare (verbo: accento sulla seconda)",
+      "type": "verb",
+      "ex": "Can I record the call for the minutes?",
+      "exIt": "Posso registrare la chiamata per il verbale?"
+    },
+    {
+      "en": "architect",
+      "pron": "àrkitekt",
+      "it": "architetto (ch = k, non c dolce)",
+      "type": "noun",
+      "ex": "The solution architect drew the system diagram.",
+      "exIt": "L'architetto della soluzione ha disegnato lo schema del sistema."
+    },
+    {
+      "en": "technique",
+      "pron": "teknìik",
+      "it": "tecnica (accento sul finale, ique = iik)",
+      "type": "noun",
+      "ex": "This technique reduces the page loading time.",
+      "exIt": "Questa tecnica riduce il tempo di caricamento della pagina."
+    },
+    {
+      "en": "guarantee",
+      "pron": "garantìi",
+      "it": "garanzia, garantire (gu = g dura, accento sul finale)",
+      "type": "noun",
+      "ex": "We offer a three-month guarantee on all fixes.",
+      "exIt": "Offriamo tre mesi di garanzia su tutte le correzioni."
+    },
+    {
+      "en": "determine",
+      "pron": "ditèrmin",
+      "it": "stabilire (accento sulla seconda, ine = in)",
+      "type": "verb",
+      "ex": "The audit will determine the level of compliance.",
+      "exIt": "L'audit stabilirà il livello di conformità."
+    },
+    {
+      "en": "cache",
+      "pron": "kàsc",
+      "it": "cache, memoria temporanea (si dice come cash, i soldi)",
+      "type": "noun",
+      "ex": "Clear your browser cache and try again.",
+      "exIt": "Svuota la cache del browser e riprova."
+    },
+    {
+      "en": "analysis",
+      "pron": "anàlisis",
+      "it": "analisi (accento sulla seconda; il verbo analyse ha accento sulla prima)",
+      "type": "noun",
+      "ex": "The analysis shows three critical errors.",
+      "exIt": "L'analisi mostra tre errori critici."
+    },
+    {
+      "en": "data",
+      "pron": "dèita",
+      "it": "dati (si dice dèita; meno spesso dàata, con la a lunga)",
+      "type": "noun",
+      "ex": "All the data is stored in the cloud.",
+      "exIt": "Tutti i dati sono conservati nel cloud."
+    },
+    {
+      "en": "temperature",
+      "pron": "tèmpracia",
+      "it": "temperatura (quattro sillabe scritte, ma se ne dicono tre: tèm-pra-cia)",
+      "type": "noun",
+      "ex": "The server room temperature must stay below twenty degrees.",
+      "exIt": "La temperatura della sala server deve restare sotto i venti gradi."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "desert / dessert",
+      "it": "deserto / dolce",
+      "trap": "Si scrivono quasi uguali. Desert (deserto) ha l'accento sulla prima sillaba e una sola s: dèzert. Dessert (dolce) ha l'accento sulla seconda e due s: dizèrt."
+    },
+    {
+      "en": "bold / bald",
+      "it": "audace, in grassetto / calvo",
+      "trap": "Il grassetto in un testo è bold (bòuld). Bald (bòold, con una o aperta e lunga) vuol dire calvo. Attenzione alle vocali."
+    },
+    {
+      "en": "beach / bitch",
+      "it": "spiaggia / insulto",
+      "trap": "Beach ha la vocale lunga: bìic. Se la accorci diventa una parolaccia. Allunga bene la vocale."
+    }
+  ],
+  "grammar": {
+    "title": "Suoni difficili, accento delle parole e della frase",
+    "explainIt": [
+      "L'italiano ha cinque vocali chiare. L'inglese ne ha di più: alcune lunghe e alcune corte. Ship (scip, nave) ha la vocale breve. Sheep (sciip, pecora) ha la vocale lunga. Live (liv, vivere) è breve, leave (liiv, partire) è lunga. Anche full (ful) e fool (fuul) sono diverse. La lunghezza cambia il significato: se sbagli, il collega può capire un'altra parola.",
+      "Il suono th non esiste in italiano. Ha due versioni. La versione sorda (think, through, month) si fa mettendo la punta della lingua tra i denti e soffiando. La versione sonora (the, this, that, though) si fa con la stessa posizione, ma facendo vibrare la voce. Non sostituirlo con t o d, e non con f o s: three non è free e think non è sink.",
+      "La lettera h in inglese è un soffio leggero all'inizio di parole come house, help, whole, hotel. In altre parole è muta: hour, honest, heir. Gli italiani tendono a non pronunciarla mai, e questo cambia parole come hair (capelli) e air (aria). Ricorda anche che molte lettere sono mute: Wednesday, debt, receipt, island, walk, listen, climb.",
+      "L'accento delle parole è molto importante. Nelle parole di due sillabe, spesso i nomi hanno l'accento sulla prima e i verbi sulla seconda: a rèkord (registro) e to rikòrd (registrare). In parole lunghe l'accento può essere in posizioni inaspettate: dèvelop non esiste, si dice divèlop; photograph si dice fòutograf, ma photography si dice fotògrafi. Quando impari una parola nuova, impara anche dove sta l'accento.",
+      "Anche la frase ha un accento. In inglese si accentuano le parole che portano il significato (nomi, verbi, aggettivi, avverbi) e si dicono veloci e deboli le parole piccole (the, of, to, a, can). Nelle parole deboli la vocale diventa spesso una schwa, un suono neutro tipo 'e' molto breve. Per esempio, 'a cup of tea' si dice 'a càp av tìi'. Se dai a ogni parola lo stesso peso, come in italiano, risulti piatto e difficile da seguire."
+    ],
+    "explainEn": [
+      "Italian has five clear vowels. English has more, and some are long and some are short. Ship (a boat) has a short vowel. Sheep (the animal) has a long vowel. Live is short, leave is long. Full and fool are different too. The length of the vowel changes the meaning, so if you get it wrong, your colleague may hear a different word.",
+      "The th sound does not exist in Italian. It has two versions. The voiceless version (think, through, month) is made by putting the tip of your tongue between your teeth and blowing air. The voiced version (the, this, that, though) uses the same position but your voice vibrates. Do not replace it with t or d, or with f or s: three is not free and think is not sink.",
+      "The letter h in English is a light breath at the start of words like house, help, whole and hotel. In some words it is silent: hour, honest, heir. Italians often never pronounce it, and this changes words like hair and air. Remember that many letters are silent too: Wednesday, debt, receipt, island, walk, listen, climb.",
+      "Word stress is very important. In two-syllable words, nouns often have the stress on the first syllable and verbs on the second: a RECord and to reCORD. In longer words the stress can be in surprising places: it is deVELop, not DEvelop; photograph is stressed on the first syllable, but photography is stressed on the second. When you learn a new word, learn the stress too.",
+      "A sentence also has stress. English stresses the content words (nouns, verbs, adjectives, adverbs) and says the small words (the, of, to, a, can) quickly and weakly. In weak words the vowel is often a schwa, a short neutral sound. For example, 'a cup of tea' sounds like 'a CUP uv TEA'. If you give every word the same weight, as in Italian, you sound flat and are harder to follow."
+    ],
+    "rules": [
+      {
+        "it": "Le vocali inglesi possono essere brevi o lunghe, e la lunghezza cambia la parola.",
+        "en": "English vowels can be short or long, and the length changes the word.",
+        "form": "i breve / ii lunga: ship - sheep, live - leave, bit - beat",
+        "examples": [
+          {
+            "en": "The ship leaves tonight.",
+            "it": "La nave parte stasera."
+          },
+          {
+            "en": "I live near the office, but I leave at six.",
+            "it": "Abito vicino all'ufficio, ma esco alle sei."
+          },
+          {
+            "en": "Don't sit in that seat; it's broken.",
+            "it": "Non sederti su quel sedile, è rotto."
+          }
+        ]
+      },
+      {
+        "it": "Th sorda (think, through) e th sonora (this, though): lingua tra i denti, soffio o voce.",
+        "en": "Voiceless th (think, through) and voiced th (this, though): tongue between the teeth, air or voice.",
+        "form": "think = tink con lingua fuori; this = dis con lingua fuori e voce",
+        "examples": [
+          {
+            "en": "Thank you for the three thorough reports.",
+            "it": "Grazie per i tre report approfonditi."
+          },
+          {
+            "en": "That is the other thing I wanted to ask.",
+            "it": "Questa è l'altra cosa che volevo chiedere."
+          },
+          {
+            "en": "I think this method is better, though.",
+            "it": "Penso però che questo metodo sia meglio."
+          }
+        ]
+      },
+      {
+        "it": "La h iniziale si soffia; in hour, honest, heir è muta. Molte altre lettere sono mute.",
+        "en": "Initial h is a breath; in hour, honest and heir it is silent. Many other letters are silent.",
+        "form": "hotel, help = h soffiata; hour, honest = niente h",
+        "examples": [
+          {
+            "en": "I'll be home in an hour.",
+            "it": "Sarò a casa tra un'ora."
+          },
+          {
+            "en": "Be honest: do you hear the h in hotel?",
+            "it": "Sii onesto: senti la h in hotel?"
+          }
+        ]
+      },
+      {
+        "it": "Parole di due sillabe che sono sia nome sia verbo: il nome ha l'accento sulla prima, il verbo spesso sulla seconda.",
+        "en": "Two-syllable words that are both a noun and a verb: the noun is stressed on the first syllable, the verb often on the second.",
+        "form": "a RECord / to reCORD, a PREsent / to preSENT",
+        "examples": [
+          {
+            "en": "We keep a record of every call.",
+            "it": "Teniamo un registro di ogni chiamata."
+          },
+          {
+            "en": "Can we record this call?",
+            "it": "Possiamo registrare questa chiamata?"
+          },
+          {
+            "en": "I will present the results on Monday.",
+            "it": "Presenterò i risultati lunedì."
+          }
+        ]
+      },
+      {
+        "it": "Nella frase si accentuano le parole che portano il significato. Le parole piccole si indeboliscono e la vocale diventa schwa.",
+        "en": "In a sentence, content words are stressed. Small words become weak and the vowel becomes a schwa.",
+        "form": "CONTENT words forti, function words deboli",
+        "examples": [
+          {
+            "en": "Can you SEND me the rePORT by FRIday?",
+            "it": "Puoi mandarmi il report entro venerdì?"
+          },
+          {
+            "en": "I NEED a BIGger SCREEN for the AUdit.",
+            "it": "Mi serve uno schermo più grande per l'audit."
+          }
+        ]
+      }
+    ],
+    "tip": "Registra la tua voce mentre leggi 5 frasi, poi ascolta la stessa frase detta da una voce inglese e confronta. Ascolta tre cose: vocali lunghe, th e quali parole sono più forti. Fai così ogni giorno per cinque minuti.",
+    "mistakes": [
+      {
+        "wrong": "Pronunciare Wednesday come 'uednesdei' con la d",
+        "right": "uènzdei (la prima d è muta)",
+        "why": "in Wednesday la prima d non si pronuncia"
+      },
+      {
+        "wrong": "Dire 'comfortàble' o 'vegetàble' in quattro sillabe",
+        "right": "kàmftabol, vèdgtabol",
+        "why": "gli italiani pronunciano ogni lettera, ma in inglese molte vocali spariscono"
+      },
+      {
+        "wrong": "Dire 'sink' per think e 'free' per three",
+        "right": "tink, trii con la lingua tra i denti",
+        "why": "il suono th non è s, f o t: la lingua esce tra i denti"
+      },
+      {
+        "wrong": "Dire 'ship' e 'sheep' allo stesso modo",
+        "right": "scip (breve) e sciip (lunga)",
+        "why": "la lunghezza della vocale cambia il significato"
+      },
+      {
+        "wrong": "Dire 'dèvelop' con accento sulla prima",
+        "right": "divèlop con accento sulla seconda",
+        "why": "in inglese l'accento non segue le regole dell'italiano: impara la posizione di ogni parola"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "In 'ship' the vowel is ___ (short or long).",
+      "a": [
+        "short"
+      ],
+      "hint": "ship e sheep sono diverse",
+      "explain": "Ship ha la vocale breve; sheep ha la vocale lunga."
+    },
+    {
+      "q": "In 'sheep' the vowel is ___ (short or long).",
+      "a": [
+        "long"
+      ],
+      "hint": "ii",
+      "explain": "Sheep ha la vocale lunga: sciip."
+    },
+    {
+      "q": "In 'Wednesday' the consonant ___ is silent (write one letter).",
+      "a": [
+        "d"
+      ],
+      "hint": "uènzdei",
+      "explain": "La prima d di Wednesday è muta."
+    },
+    {
+      "q": "The noun 'record' is stressed on the ___ syllable (first or second).",
+      "a": [
+        "first"
+      ],
+      "hint": "nome = prima",
+      "explain": "Il nome ha l'accento sulla prima sillaba: rèkord."
+    },
+    {
+      "q": "The verb 'record' is stressed on the ___ syllable (first or second).",
+      "a": [
+        "second"
+      ],
+      "hint": "verbo = seconda",
+      "explain": "Il verbo ha l'accento sulla seconda: rikòrd."
+    },
+    {
+      "q": "In 'hour' the first letter ___ is silent (write one letter).",
+      "a": [
+        "h"
+      ],
+      "hint": "àua",
+      "explain": "La h di hour è muta."
+    },
+    {
+      "q": "The word 'receipt' has a silent letter. It is the letter ___.",
+      "a": [
+        "p"
+      ],
+      "hint": "risìit",
+      "explain": "In receipt la p non si pronuncia."
+    },
+    {
+      "q": "'Think' starts with a voiceless th. 'This' starts with a ___ th (voiced or voiceless).",
+      "a": [
+        "voiced"
+      ],
+      "hint": "la voce vibra",
+      "explain": "In this la voce vibra: th sonora."
+    },
+    {
+      "q": "In 'Send me the report', the article ___ is weak (it has a schwa).",
+      "a": [
+        "the"
+      ],
+      "hint": "parola piccola",
+      "explain": "The è una function word: debole, con vocale schwa."
+    },
+    {
+      "q": "'Photography' is stressed on the ___ syllable (first, second or third).",
+      "a": [
+        "second"
+      ],
+      "hint": "fotògrafi",
+      "explain": "Photography ha l'accento sulla seconda sillaba, a differenza di photograph."
+    },
+    {
+      "q": "The silent letter in 'walk' is the letter ___.",
+      "a": [
+        "l"
+      ],
+      "hint": "uòok",
+      "explain": "In walk, talk e salmon la l è muta."
+    },
+    {
+      "q": "'Vegetable' has ___ syllables (write a number).",
+      "a": [
+        "3",
+        "three"
+      ],
+      "hint": "vèdg-ta-bol",
+      "explain": "Vegetable ha tre sillabe: la e dopo la g sparisce, vèdg-ta-bol."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Sorry, could you say that again?",
+      "it": "Scusa, puoi ripetere?"
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Could you speak a little more slowly, please?",
+      "it": "Potresti parlare un po' più lentamente, per favore?"
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "I didn't catch that last word.",
+      "it": "Non ho colto l'ultima parola."
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Sorry, the line is breaking up.",
+      "it": "Scusa, la linea si interrompe."
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Do you mean the ship or the sheep?",
+      "it": "Intendi nave o pecora?",
+      "note": "per chiarire due parole simili"
+    },
+    {
+      "group": "Controllare la pronuncia",
+      "en": "How do you pronounce this word?",
+      "it": "Come si pronuncia questa parola?"
+    },
+    {
+      "group": "Controllare la pronuncia",
+      "en": "Is it 'dessert' or 'desert'?",
+      "it": "Si dice dessert o desert?"
+    },
+    {
+      "group": "Controllare la pronuncia",
+      "en": "Where does the stress go in this word?",
+      "it": "Dove cade l'accento in questa parola?"
+    },
+    {
+      "group": "Controllare la pronuncia",
+      "en": "Could you repeat it for me, so I can say it correctly?",
+      "it": "Puoi ripeterla così la dico bene?"
+    },
+    {
+      "group": "Controllare la pronuncia",
+      "en": "Is my pronunciation clear enough?",
+      "it": "La mia pronuncia è abbastanza chiara?"
+    },
+    {
+      "group": "Spelling e nomi",
+      "en": "Could you spell your surname, please?",
+      "it": "Potresti fare lo spelling del tuo cognome?"
+    },
+    {
+      "group": "Spelling e nomi",
+      "en": "It's spelled D-A-R-I-O, like the first name.",
+      "it": "Si scrive D-A-R-I-O, come il nome."
+    },
+    {
+      "group": "Spelling e nomi",
+      "en": "That's A as in Alpha, B as in Bravo.",
+      "it": "A come Alpha, B come Bravo.",
+      "note": "alfabeto fonetico per le chiamate"
+    },
+    {
+      "group": "Spelling e nomi",
+      "en": "Is that with one L or two?",
+      "it": "Si scrive con una L o con due?"
+    },
+    {
+      "group": "Spelling e nomi",
+      "en": "Let me write that in the chat.",
+      "it": "Lo scrivo nella chat."
+    },
+    {
+      "group": "Parlare in modo chiaro",
+      "en": "I'll say it again, more slowly.",
+      "it": "Lo dico di nuovo, più lentamente."
+    },
+    {
+      "group": "Parlare in modo chiaro",
+      "en": "Let me put it another way.",
+      "it": "Lo dico in un altro modo."
+    },
+    {
+      "group": "Parlare in modo chiaro",
+      "en": "Sorry, my English is a bit rusty.",
+      "it": "Scusa, il mio inglese è un po' arrugginito.",
+      "note": "si dice con un sorriso"
+    },
+    {
+      "group": "Parlare in modo chiaro",
+      "en": "Please correct me if I say something wrong.",
+      "it": "Per favore correggimi se dico qualcosa di sbagliato."
+    },
+    {
+      "group": "Parlare in modo chiaro",
+      "en": "I'll put the details in writing after the call.",
+      "it": "Metto i dettagli per iscritto dopo la chiamata."
+    },
+    {
+      "group": "Riconoscere gli errori",
+      "en": "You've got the stress on the wrong syllable.",
+      "it": "Hai messo l'accento sulla sillaba sbagliata."
+    },
+    {
+      "group": "Riconoscere gli errori",
+      "en": "That vowel needs to be longer.",
+      "it": "Quella vocale deve essere più lunga."
+    },
+    {
+      "group": "Riconoscere gli errori",
+      "en": "Put your tongue between your teeth for 'th'.",
+      "it": "Metti la lingua tra i denti per il th."
+    },
+    {
+      "group": "Riconoscere gli errori",
+      "en": "The 'h' is silent in 'hour'.",
+      "it": "La h in hour è muta."
+    },
+    {
+      "group": "Riconoscere gli errori",
+      "en": "Try again, a little slower this time.",
+      "it": "Riprova, un po' più lentamente questa volta."
+    }
+  ],
+  "dialogue": {
+    "title": "A pronunciation check before the call",
+    "context": "Luca prepara una presentazione per un cliente americano. Chiede alla collega Emma, madrelingua, di aiutarlo con la pronuncia di alcune parole.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Emma, do you have five minutes? I'd like to practise some words before the client call.",
+        "it": "Emma, hai cinque minuti? Vorrei esercitarmi con alcune parole prima della chiamata con il cliente."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Sure. Go ahead.",
+        "it": "Certo. Dimmi."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "How do you pronounce this word? Is it 'comfor-TA-ble'?",
+        "it": "Come si pronuncia questa parola? Si dice comfor-TA-ble?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Almost. It's COMF-ta-ble. The middle part almost disappears.",
+        "it": "Quasi. Si dice COMF-ta-ble. La parte centrale quasi sparisce."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Comfortable. And what about 'Wednesday'? I always say the d.",
+        "it": "Comfortable. E Wednesday? Io dico sempre la d."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "The first d is silent. It sounds like WENZ-day.",
+        "it": "La prima d è muta. Suona come WENZ-day."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Okay. And 'beach' has a long vowel, right?",
+        "it": "Va bene. E beach ha la vocale lunga, giusto?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Yes, a long ee: beach. Be careful, because a short vowel sounds very different, and rude.",
+        "it": "Sì, una i lunga: beach. Attento, perché con una vocale breve suona molto diversa, e volgare."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Understood! What about the word 'record' in my slides?",
+        "it": "Capito! E la parola record nelle mie slide?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "As a noun, REC-ord. As a verb, re-CORD. So 'we keep a record' but 'we record the call'.",
+        "it": "Come nome, REC-ord. Come verbo, re-CORD. Quindi 'we keep a record' ma 'we record the call'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Good to know. And my biggest problem is 'th'. I say 'sink' instead of 'think'.",
+        "it": "Utile saperlo. E il mio problema più grande è th. Dico 'sink' invece di 'think'."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Put your tongue between your teeth and blow gently. Try 'three thousand'.",
+        "it": "Metti la lingua tra i denti e soffia piano. Prova 'three thousand'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Three thousand. Was that clear?",
+        "it": "Three thousand. Era chiaro?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Much better! Honestly, your pronunciation is already clear. The stress on important words matters more than every single sound.",
+        "it": "Molto meglio! Sinceramente la tua pronuncia è già chiara. L'accento sulle parole importanti conta più di ogni singolo suono."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thanks. Could you correct me if I make a mistake during the call?",
+        "it": "Grazie. Potresti correggermi se faccio un errore durante la chiamata?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Of course. Just send me a note in the chat.",
+        "it": "Certo. Mandami una nota nella chat."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "How is the word 'comfortable' pronounced?",
+      "options": [
+        "COMF-ta-ble, with the middle almost silent",
+        "com-FOR-ta-ble, with four clear syllables",
+        "com-for-TA-ble, with the stress at the end"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What is special about the word 'Wednesday'?",
+      "options": [
+        "The first d is silent",
+        "It is stressed on the last syllable",
+        "It has no vowels"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "How is the noun 'record' pronounced compared with the verb?",
+      "options": [
+        "The noun is stressed on the first syllable, the verb on the second",
+        "The noun and verb are the same",
+        "The noun is stressed on the second syllable"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Emma say matters more than every single sound?",
+      "options": [
+        "The stress on the important words",
+        "Speaking very fast",
+        "Using long words"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Scusa, puoi ripetere? Non ho colto l'ultima parola.",
+      "en": "Sorry, could you say that again? I didn't catch the last word.",
+      "alt": [
+        "Sorry, could you repeat that? I didn't catch the last word.",
+        "Sorry, can you say that again? I missed the last word."
+      ]
+    },
+    {
+      "it": "Come si pronuncia questa parola?",
+      "en": "How do you pronounce this word?",
+      "alt": [
+        "How is this word pronounced?",
+        "How does one pronounce this word?"
+      ]
+    },
+    {
+      "it": "Potresti fare lo spelling del tuo cognome, per favore?",
+      "en": "Could you spell your surname, please?",
+      "alt": [
+        "Could you spell your last name, please?",
+        "Would you mind spelling your surname, please?"
+      ]
+    },
+    {
+      "it": "Potresti parlare un po' più lentamente?",
+      "en": "Could you speak a little more slowly?",
+      "alt": [
+        "Could you speak a bit more slowly?",
+        "Can you speak a little slower, please?"
+      ]
+    },
+    {
+      "it": "La mia pronuncia è abbastanza chiara?",
+      "en": "Is my pronunciation clear enough?",
+      "alt": [
+        "Is my pronunciation clear enough for you?",
+        "Is my pronunciation clear?"
+      ]
+    },
+    {
+      "it": "La d in Wednesday non si pronuncia.",
+      "en": "The d in Wednesday is silent.",
+      "alt": [
+        "You don't pronounce the d in Wednesday.",
+        "The d in Wednesday isn't pronounced."
+      ]
+    },
+    {
+      "it": "Posso registrare la chiamata per il verbale?",
+      "en": "Can I record the call for the minutes?",
+      "alt": [
+        "May I record the call for the minutes?",
+        "Is it okay if I record the call for the minutes?"
+      ]
+    },
+    {
+      "it": "Teniamo un registro di ogni richiesta.",
+      "en": "We keep a record of every request.",
+      "alt": [
+        "We keep a record of each request.",
+        "We keep records of every request."
+      ]
+    },
+    {
+      "it": "Hai messo l'accento sulla sillaba sbagliata.",
+      "en": "You've put the stress on the wrong syllable.",
+      "alt": [
+        "You have put the stress on the wrong syllable.",
+        "The stress is on the wrong syllable."
+      ]
+    },
+    {
+      "it": "Scusa, il mio inglese è un po' arrugginito.",
+      "en": "Sorry, my English is a bit rusty.",
+      "alt": [
+        "Sorry, my English is a little rusty.",
+        "I'm sorry, my English is a bit rusty."
+      ]
+    },
+    {
+      "it": "Dico spesso ship invece di sheep.",
+      "en": "I often say ship instead of sheep.",
+      "alt": [
+        "I often say ship rather than sheep.",
+        "I often pronounce ship and sheep the same way."
+      ]
+    },
+    {
+      "it": "Per favore correggimi se dico qualcosa di sbagliato.",
+      "en": "Please correct me if I say something wrong.",
+      "alt": [
+        "Please correct me if I say anything wrong.",
+        "Please correct me if I make a mistake."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi un breve messaggio a un collega madrelingua. Digli che hai una chiamata importante con un cliente. Chiedi aiuto per la pronuncia di tre parole difficili (scegli dalla lezione), di' quale suono ti riesce peggio e chiedi un orario per esercitarti. Scrivi 5-7 righe, gentili e chiare.",
+    "taskEn": "Write a short message to a native-speaker colleague. Tell them you have an important call with a client. Ask for help with the pronunciation of three difficult words (choose from the lesson), say which sound is hardest for you and ask for a time to practise. Write 5-7 lines, polite and clear.",
+    "model": "Hi Emma,\n\nI have an important call with a client on Thursday and I'd like to practise a few words beforehand.\n\nCould you help me with the pronunciation of 'comfortable', 'receipt' and 'analysis'? I'm never sure where the stress goes.\n\nMy biggest problem is the 'th' sound. I often say 'sink' instead of 'think'.\n\nDo you have ten minutes tomorrow morning? I'll bring my slides.\n\nThanks a lot,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Sorry, could you say that again? I didn't catch the last word.",
+      "Three thousand and thirty-three thoughts.",
+      "I think this is the right method, though.",
+      "The ship leaves at six, but the sheep stay here.",
+      "We keep a record of every change, and we record the call.",
+      "To be honest, I'll be there in an hour.",
+      "Can you SEND me the rePORT by FRIday?",
+      "On Wednesday my colleague brings a vegetable soup."
+    ],
+    "prompts": [
+      {
+        "en": "Which English sounds are hardest for you? Why?",
+        "it": "Quali suoni inglesi sono più difficili per te? Perché?",
+        "help": "Inizia con: The hardest sound for me is... / I often say..."
+      },
+      {
+        "en": "Spell your name and your email address.",
+        "it": "Fai lo spelling del tuo nome e della tua email.",
+        "help": "Usa l'alfabeto: A as in Alpha, B as in Bravo... At, dot"
+      },
+      {
+        "en": "Explain the difference between 'ship' and 'sheep'.",
+        "it": "Spiega la differenza tra ship e sheep.",
+        "help": "Usa: short vowel, long vowel"
+      },
+      {
+        "en": "What do you do when you do not understand someone on a call?",
+        "it": "Cosa fai quando non capisci qualcuno in chiamata?",
+        "help": "Usa: Could you say that again? / Could you speak more slowly?"
+      },
+      {
+        "en": "Tell me about a word you often mispronounce.",
+        "it": "Parlami di una parola che pronunci spesso male.",
+        "help": "Usa: I used to say... but the correct pronunciation is..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: perché la pronuncia conta",
+      "show": [
+        "Pronunciation and stress",
+        "th, h, vocali lunghe e corte",
+        "Accento della parola e della frase"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi lavoriamo sulla pronuncia. Non devi parlare come un madrelingua. Devi farti capire alla prima. Per questo impariamo i suoni più difficili e l'accento."
+        },
+        {
+          "lang": "en",
+          "text": "Sorry, could you say that again?"
+        }
+      ]
+    },
+    {
+      "title": "Vocali lunghe e corte",
+      "show": [
+        "ship - sheep",
+        "live - leave",
+        "full - fool"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In inglese la lunghezza della vocale cambia la parola. Ship ha la vocale breve, in sheep è lunga. Live è breve, leave è lunga. Allunga la vocale senza fretta."
+        },
+        {
+          "lang": "en",
+          "text": "The ship leaves tonight. The sheep stay here."
+        }
+      ]
+    },
+    {
+      "title": "Il suono th",
+      "show": [
+        "think, three, through",
+        "this, that, though",
+        "Lingua tra i denti"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il suono th non esiste in italiano. Metti la punta della lingua tra i denti. Se soffi, è sordo, come in think. Se fai vibrare la voce, è sonoro, come in this. Non dire sink e non dire free."
+        },
+        {
+          "lang": "en",
+          "text": "I think this method is better, though."
+        }
+      ]
+    },
+    {
+      "title": "La lettera h e le lettere mute",
+      "show": [
+        "hotel, help, whole = h soffiata",
+        "hour, honest = h muta",
+        "Wednesday, receipt, island, walk"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "La h all'inizio è un leggero soffio. In hour e honest è muta. Ricorda anche le lettere mute: la d di Wednesday, la p di receipt, la s di island, la l di walk."
+        },
+        {
+          "lang": "en",
+          "text": "To be honest, I'll be back in an hour."
+        }
+      ]
+    },
+    {
+      "title": "L'accento delle parole",
+      "show": [
+        "a RECord / to reCORD",
+        "deVELop",
+        "phoTOGraphy",
+        "Impara la parola con il suo accento"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In inglese l'accento cambia il significato. Nei nomi di due sillabe è spesso sulla prima. Nei verbi spesso sulla seconda. Quando impari una parola nuova, impara anche dove sta l'accento."
+        },
+        {
+          "lang": "en",
+          "text": "We keep a record, and we record the call."
+        }
+      ]
+    },
+    {
+      "title": "L'accento della frase e la schwa",
+      "show": [
+        "SEND me the rePORT by FRIday",
+        "Parole forti: significato",
+        "Parole deboli: the, of, to"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nella frase si accentuano nomi, verbi e aggettivi. Le parole piccole si dicono deboli e veloci. Se dai lo stesso peso a ogni parola, risulti piatto."
+        },
+        {
+          "lang": "en",
+          "text": "Can you send me the report by Friday?"
+        }
+      ]
+    },
+    {
+      "title": "Parole che gli italiani sbagliano",
+      "show": [
+        "comfortable = kàmftabol",
+        "vegetable = vèdgtabol",
+        "colleague = kòliig",
+        "February = fèbruari"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Molte parole hanno meno sillabe di quante ne scriviamo. Comfortable, vegetable, different e chocolate si dicono con una vocale in meno. Impara le parole con la loro pronuncia, non solo con la scrittura."
+        },
+        {
+          "lang": "en",
+          "text": "My colleague will send you the receipt on Wednesday."
+        }
+      ]
+    },
+    {
+      "title": "Espressioni per chiedere aiuto",
+      "show": [
+        "Could you say that again?",
+        "How do you pronounce this word?",
+        "Could you spell your surname?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Chiedere di ripetere è normale, anche per i madrelingua. Non scusarti troppo. Usa queste frasi con calma e sorridi."
+        },
+        {
+          "lang": "en",
+          "text": "Could you speak a little more slowly, please?"
+        },
+        {
+          "lang": "en",
+          "text": "How do you pronounce this word?"
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Vocali lunghe e corte",
+        "Th con la lingua tra i denti",
+        "Accento di parola e di frase",
+        "Registrati e ascolta"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Allunga le vocali lunghe. Metti la lingua tra i denti per th. Impara l'accento di ogni parola nuova. E accentua le parole importanti della frase. Registrati ogni giorno cinque minuti."
+        },
+        {
+          "lang": "en",
+          "text": "Clear stress matters more than perfect sounds."
+        }
+      ]
+    }
+  ]
+}

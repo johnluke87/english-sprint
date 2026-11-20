@@ -1,0 +1,313 @@
+{
+  "id": 50,
+  "week": 10,
+  "title": "Trattativa completa",
+  "titleEn": "A full negotiation",
+  "intro": "Oggi metti insieme tutto: una trattativa dall'inizio alla firma. Ripassi i condizionali che servono per porre condizioni, come provided that, as long as e unless. Ti serve perché in una vera negoziazione ogni concessione ha una condizione.",
+  "goals": [
+    "Porre condizioni con provided that, as long as, unless e on condition that",
+    "Fare e valutare una controproposta",
+    "Chiudere un accordo e riassumerne i termini",
+    "Condurre una trattativa completa in inglese, dall'apertura alla firma"
+  ],
+  "words": [
+    { "en": "to counter", "pron": "kàunter", "it": "controbattere, rilanciare", "type": "verb", "ex": "They countered with a lower price.", "exIt": "Hanno risposto con un prezzo più basso." },
+    { "en": "to hammer out", "pron": "hàmer àut", "it": "mettere a punto con fatica (un accordo)", "type": "verb", "ex": "We hammered out the details over two calls.", "exIt": "Abbiamo messo a punto i dettagli in due chiamate." },
+    { "en": "to thrash out", "pron": "tràsc àut", "it": "discutere a fondo, risolvere", "type": "verb", "ex": "Let's thrash out the terms today.", "exIt": "Discutiamo a fondo i termini oggi." },
+    { "en": "to stipulate", "pron": "stìpiuleit", "it": "stabilire, prevedere (in un contratto)", "type": "verb", "ex": "The contract stipulates a 30-day notice.", "exIt": "Il contratto prevede un preavviso di 30 giorni." },
+    { "en": "to ratify", "pron": "ràtifai", "it": "ratificare, approvare ufficialmente", "type": "verb", "ex": "The board must ratify the agreement.", "exIt": "Il consiglio deve ratificare l'accordo." },
+    { "en": "to seal", "pron": "sìil", "it": "sigillare, concludere (un accordo)", "type": "verb", "ex": "A handshake sealed the deal.", "exIt": "Una stretta di mano ha chiuso l'accordo." },
+    { "en": "bargaining chip", "pron": "bàarghening cìp", "it": "carta da giocare in trattativa", "type": "noun", "ex": "A faster delivery date is our main bargaining chip.", "exIt": "Una consegna più rapida è la nostra principale carta da giocare." },
+    { "en": "quid pro quo", "pron": "kuìd prou kuòu", "it": "contropartita", "type": "phrase", "ex": "Free hosting was the quid pro quo for the logo.", "exIt": "L'hosting gratuito era la contropartita per il logo." },
+    { "en": "give and take", "pron": "ghìv and tèik", "it": "reciproche concessioni", "type": "phrase", "ex": "Every negotiation needs some give and take.", "exIt": "Ogni trattativa richiede qualche concessione reciproca." },
+    { "en": "deal-breaker", "pron": "dìil brèiker", "it": "elemento che fa saltare l'accordo", "type": "noun", "ex": "A penalty clause is a deal-breaker for us.", "exIt": "Una clausola penale per noi fa saltare l'accordo." },
+    { "en": "to yield", "pron": "iìild", "it": "cedere", "type": "verb", "ex": "Neither side was willing to yield.", "exIt": "Nessuna delle parti voleva cedere." },
+    { "en": "ultimatum", "pron": "altimèitam", "it": "ultimatum", "type": "noun", "ex": "They gave us an ultimatum on the price.", "exIt": "Ci hanno posto un ultimatum sul prezzo." },
+    { "en": "to lock in", "pron": "lòk ìn", "it": "fissare, bloccare (un prezzo)", "type": "verb", "ex": "We can lock in this rate for a year.", "exIt": "Possiamo bloccare questa tariffa per un anno." },
+    { "en": "payment plan", "pron": "pèimant plàn", "it": "piano di pagamento rateale", "type": "noun", "ex": "We can offer a payment plan over six months.", "exIt": "Possiamo offrire un pagamento rateale in sei mesi." },
+    { "en": "on condition that", "pron": "on kondìscion dat", "it": "a patto che", "type": "conj", "ex": "We will lower the price on condition that you pay upfront.", "exIt": "Abbasseremo il prezzo a patto che paghiate in anticipo." },
+    { "en": "unless", "pron": "anlès", "it": "a meno che, se non", "type": "conj", "ex": "We can't start unless we receive the deposit.", "exIt": "Non possiamo iniziare a meno che non riceviamo l'acconto." },
+    { "en": "to shake on", "pron": "scèik òn", "it": "chiudere con una stretta di mano", "type": "verb", "ex": "Shall we shake on 8,000 euros?", "exIt": "Chiudiamo a 8.000 euro?" },
+    { "en": "in the event that", "pron": "in di ivènt dat", "it": "nel caso in cui", "type": "conj", "ex": "In the event that you cancel, the deposit is not refundable.", "exIt": "Nel caso in cui annulliate, l'acconto non è rimborsabile." },
+    { "en": "supposing", "pron": "sapòuzing", "it": "ipotizzando che, e se", "type": "conj", "ex": "Supposing we reduce the scope, what would the price be?", "exIt": "Ipotizzando di ridurre l'ambito, quale sarebbe il prezzo?" },
+    { "en": "package deal", "pron": "pàkidg dìil", "it": "offerta a pacchetto", "type": "noun", "ex": "We can offer a package deal: design, development and hosting.", "exIt": "Possiamo offrire un pacchetto: grafica, sviluppo e hosting." },
+    { "en": "to clinch", "pron": "klìnc", "it": "chiudere, assicurarsi (un accordo)", "type": "verb", "ex": "A small discount clinched the deal.", "exIt": "Un piccolo sconto ha fatto chiudere l'accordo." },
+    { "en": "to barter", "pron": "bàrter", "it": "barattare", "type": "verb", "ex": "They offered to barter design work for hosting.", "exIt": "Hanno proposto di barattare lavoro di design con l'hosting." },
+    { "en": "to broker", "pron": "bròuker", "it": "mediare, negoziare (un accordo)", "type": "verb", "ex": "A consultant brokered the deal between us.", "exIt": "Un consulente ha mediato l'accordo tra noi." },
+    { "en": "to table", "pron": "tèibol", "it": "presentare (una proposta); attenzione: in americano vuol dire il contrario, rimandare", "type": "verb", "ex": "We tabled a new offer this morning.", "exIt": "Stamattina abbiamo presentato una nuova offerta." },
+    { "en": "instalment", "pron": "instòolment", "it": "rata", "type": "noun", "ex": "The fee can be paid in three instalments.", "exIt": "Il compenso può essere pagato in tre rate." },
+    { "en": "sweetener", "pron": "suìitener", "it": "incentivo per chiudere", "type": "noun", "ex": "They added a free month as a sweetener.", "exIt": "Hanno aggiunto un mese gratis come incentivo." },
+    { "en": "hard bargain", "pron": "hàard bàarghen", "it": "trattativa dura", "type": "noun", "ex": "She drives a hard bargain.", "exIt": "È molto dura nelle trattative." },
+    { "en": "to see eye to eye", "pron": "sìi ài tu ài", "it": "essere d'accordo, avere la stessa opinione", "type": "phrase", "ex": "We don't always see eye to eye on timelines.", "exIt": "Non siamo sempre d'accordo sulle tempistiche." },
+    { "en": "to dig in", "pron": "dìg ìn", "it": "non cedere, irrigidirsi", "type": "verb", "ex": "Both sides dug in and talks stalled.", "exIt": "Entrambe le parti si sono irrigidite e le trattative si sono fermate." },
+    { "en": "to strike a deal", "pron": "stràik a dìil", "it": "concludere un affare", "type": "phrase", "ex": "We struck a deal over coffee.", "exIt": "Abbiamo concluso l'affare davanti a un caffè." },
+    { "en": "to close the deal", "pron": "klòuz de dìil", "it": "chiudere l'affare", "type": "phrase", "ex": "We're hoping to close the deal this week.", "exIt": "Speriamo di chiudere l'affare questa settimana." },
+    { "en": "mutually beneficial", "pron": "miùciuali benifìscial", "it": "vantaggioso per entrambi", "type": "adj", "ex": "We want a mutually beneficial arrangement.", "exIt": "Vogliamo un accordo vantaggioso per entrambi." },
+    { "en": "to budge", "pron": "bàdg", "it": "spostarsi, cedere di un millimetro", "type": "verb", "ex": "The supplier refuses to budge on price.", "exIt": "Il fornitore non cede di un millimetro sul prezzo." },
+    { "en": "terms and conditions", "pron": "tèrmz and kondìscionz", "it": "termini e condizioni", "type": "phrase", "ex": "Please read the terms and conditions carefully.", "exIt": "Leggete attentamente i termini e le condizioni." },
+    { "en": "to settle for", "pron": "sètol fòr", "it": "accontentarsi di", "type": "verb", "ex": "We settled for a smaller scope.", "exIt": "Ci siamo accontentati di un ambito più ridotto." },
+    { "en": "to finalise", "pron": "fàinalaiz", "it": "definire, finalizzare", "type": "verb", "ex": "We need to finalise the details this week.", "exIt": "Dobbiamo definire i dettagli questa settimana." },
+    { "en": "pushback", "pron": "pùscbak", "it": "resistenza, obiezioni", "type": "noun", "ex": "We got some pushback on the deadline.", "exIt": "Abbiamo incontrato resistenza sulla scadenza." },
+    { "en": "in principle", "pron": "in prìnsipol", "it": "in linea di principio", "type": "phrase", "ex": "In principle, we agree with your proposal.", "exIt": "In linea di principio siamo d'accordo con la vostra proposta." },
+    { "en": "walk-away point", "pron": "uòk auèi pòint", "it": "limite oltre il quale si abbandona la trattativa", "type": "noun", "ex": "Before the meeting, decide your walk-away point.", "exIt": "Prima della riunione, decidi il limite oltre il quale rinunci all'accordo." },
+    { "en": "to hold out for", "pron": "hòuld àut fòr", "it": "insistere per ottenere", "type": "verb", "ex": "They are holding out for a higher fee.", "exIt": "Insistono per ottenere un compenso più alto." },
+    { "en": "to give ground", "pron": "ghìv gràund", "it": "cedere terreno", "type": "phrase", "ex": "Neither side was prepared to give ground.", "exIt": "Nessuna delle parti era disposta a cedere terreno." },
+    { "en": "stalemate", "pron": "stèilmeit", "it": "situazione di stallo", "type": "noun", "ex": "The talks have reached a stalemate.", "exIt": "I colloqui sono arrivati a una situazione di stallo." },
+    { "en": "to walk away", "pron": "uòk auèi", "it": "tirarsi indietro, andarsene", "type": "phrase", "ex": "If they don't improve the offer, we'll walk away.", "exIt": "Se non migliorano l'offerta, ci tireremo indietro." },
+    { "en": "to reciprocate", "pron": "risìprokeit", "it": "ricambiare", "type": "verb", "ex": "We'll reciprocate with a longer contract.", "exIt": "Ricambieremo con un contratto più lungo." },
+    { "en": "fairness", "pron": "fèarnes", "it": "equità, correttezza", "type": "noun", "ex": "The price is a matter of fairness.", "exIt": "Il prezzo è una questione di equità." },
+    { "en": "to undercut", "pron": "andercàt", "it": "fare un prezzo più basso di", "type": "verb", "ex": "A competitor undercut our quote by 10 percent.", "exIt": "Un concorrente ha fatto un'offerta più bassa della nostra del 10 per cento." },
+    { "en": "commitment", "pron": "komìtment", "it": "impegno", "type": "noun", "ex": "We value your commitment to this project.", "exIt": "Apprezziamo il vostro impegno in questo progetto." },
+    { "en": "to put in writing", "pron": "pùt in ràiting", "it": "mettere per iscritto", "type": "phrase", "ex": "Let's put everything in writing before we start.", "exIt": "Mettiamo tutto per iscritto prima di iniziare." },
+    { "en": "to outbid", "pron": "autbìd", "it": "fare un'offerta più alta di", "type": "verb", "ex": "A bigger company outbid us for the domain name.", "exIt": "Un'azienda più grande ha offerto più di noi per il nome a dominio." },
+    { "en": "to shake hands on it", "pron": "scèik hàndz on it", "it": "stringersi la mano per suggellare", "type": "phrase", "ex": "Shall we shake hands on it?", "exIt": "Ci stringiamo la mano su questo?" }
+  ],
+  "falseFriends": [
+    { "en": "argument", "it": "discussione accesa, litigio; anche argomentazione", "trap": "Non vuol dire 'argomento' (che è topic o subject). In una trattativa 'a strong argument' è una buona argomentazione." }
+  ],
+  "grammar": {
+    "title": "Condizionali in trattativa: provided that, as long as, unless",
+    "explainIt": [
+      "Nelle trattative quasi ogni offerta ha una condizione: 'Ti faccio lo sconto, ma solo se paghi in anticipo'. In inglese puoi usare if, ma ci sono parole più precise: provided that, as long as, on condition that, unless, otherwise e in case.",
+      "Provided that e as long as significano 'purché' e 'a patto che'. Dopo di loro il verbo va al presente, anche se parli del futuro: 'We will start provided that you sign' e non 'provided that you will sign'. Provided that è più formale; as long as è più comune nel parlato. On condition that è formale e forte.",
+      "Unless vuol dire 'a meno che' ed è già negativo. Non aggiungere un altro 'not': 'We can't start unless you pay'. Se dici 'unless you don't pay' stai dicendo l'opposto. Unless equivale a 'if ... not'. Anche dopo unless il verbo resta al presente.",
+      "Otherwise significa 'altrimenti' e inizia una nuova frase o dopo un punto e virgola: 'Please sign today; otherwise, we can't hold the price'. In case + presente indica una precauzione, non una condizione: 'I'll send the contract in case you need it' vuol dire 'caso mai ti serva'.",
+      "Per condizioni molto ipotetiche puoi usare supposing. Nei contratti e nei testi formali si usa 'in the event that', cioè 'nel caso in cui'. Con 'supposing' puoi usare il past simple come nel secondo condizionale: 'Supposing we dropped the price, would you commit to a longer contract?'. Sono formule perfette per testare l'altra parte senza impegnarti."
+    ],
+    "explainEn": [
+      "In negotiations almost every offer has a condition: 'I'll give you a discount, but only if you pay upfront'. In English you can use if, but there are more precise words: provided that, as long as, on condition that, unless, otherwise and in case.",
+      "Provided that and as long as mean 'only if'. After them, the verb goes in the present tense, even when you talk about the future: 'We will start provided that you sign', not 'provided that you will sign'. Provided that is more formal; as long as is more common in speech. On condition that is formal and strong.",
+      "Unless means 'if ... not' and it is already negative. Do not add another 'not': 'We can't start unless you pay'. If you say 'unless you don't pay', you say the opposite. After unless, the verb stays in the present too.",
+      "Otherwise means 'if not' and begins a new sentence or follows a semicolon: 'Please sign today; otherwise, we can't hold the price'. In case + present is a precaution, not a condition: 'I'll send the contract in case you need it' means 'just in case you need it'.",
+      "For very hypothetical conditions you can use supposing. In contracts and formal texts we use 'in the event that'. With 'supposing' you can use the past simple, like the second conditional: 'Supposing we dropped the price, would you commit to a longer contract?'. They are perfect to test the other side without committing yourself."
+    ],
+    "rules": [
+      {
+        "it": "Provided that / as long as + presente: condizione necessaria, anche per il futuro.",
+        "en": "Provided that / as long as + present: a necessary condition, even for the future.",
+        "form": "main clause (will) + provided that / as long as + presente",
+        "examples": [
+          { "en": "We'll deliver on time provided that you send the content by Monday.", "it": "Consegneremo in tempo purché ci mandiate i contenuti entro lunedì." },
+          { "en": "As long as the budget stays the same, we can add that feature.", "it": "Finché il budget resta uguale, possiamo aggiungere quella funzione." },
+          { "en": "I'll agree on condition that the changes are put in writing.", "it": "Accetto a patto che le modifiche siano messe per iscritto." }
+        ]
+      },
+      {
+        "it": "Unless = if not: a meno che. Verbo positivo, senza altro 'not'.",
+        "en": "Unless = if not. Use a positive verb, with no extra 'not'.",
+        "form": "unless + soggetto + verbo al presente",
+        "examples": [
+          { "en": "We can't proceed unless we receive the deposit.", "it": "Non possiamo procedere a meno che non riceviamo l'acconto." },
+          { "en": "Unless you agree to the new timeline, we'll have to stop.", "it": "A meno che non accettiate le nuove tempistiche, dovremo fermarci." }
+        ]
+      },
+      {
+        "it": "Otherwise = altrimenti. Dopo un punto o un punto e virgola.",
+        "en": "Otherwise = if not. After a full stop or a semicolon.",
+        "form": "frase; otherwise, conseguenza",
+        "examples": [
+          { "en": "Please confirm today; otherwise, we can't hold the price.", "it": "Confermate oggi; altrimenti non possiamo mantenere il prezzo." },
+          { "en": "You need to sign the NDA first. Otherwise, I can't share the files.", "it": "Prima devi firmare l'NDA. Altrimenti non posso condividere i file." }
+        ]
+      },
+      {
+        "it": "In case + presente: precauzione ('caso mai'). Non è una condizione.",
+        "en": "In case + present: a precaution. It is not a condition.",
+        "form": "in case + soggetto + presente",
+        "examples": [
+          { "en": "I'll bring the contract in case you want to sign today.", "it": "Porto il contratto, caso mai tu voglia firmare oggi." },
+          { "en": "Keep a backup in case something goes wrong.", "it": "Tieni un backup caso mai qualcosa vada storto." }
+        ]
+      },
+      {
+        "it": "Supposing / what if + past simple: scenario ipotetico per testare l'altra parte.",
+        "en": "Supposing / what if + past simple: a hypothetical scenario to test the other side.",
+        "form": "Supposing + past simple, would + verbo base?",
+        "examples": [
+          { "en": "Supposing we paid in two instalments, would you lower the price?", "it": "Ipotizzando di pagare in due rate, abbassereste il prezzo?" },
+          { "en": "What if we extended the contract to two years?", "it": "E se estendessimo il contratto a due anni?" }
+        ]
+      }
+    ],
+    "tip": "Una regola di memoria: unless = if not. Se nella frase c'è già 'not' o 'don't', hai sbagliato. Prova a sostituire unless con 'if ... not': se la frase ha senso, va bene.",
+    "mistakes": [
+      { "wrong": "Unless you don't sign, we can't start.", "right": "Unless you sign, we can't start.", "why": "unless è già negativo: non serve un secondo 'not'" },
+      { "wrong": "I'll accept provided that you will pay upfront.", "right": "I'll accept provided that you pay upfront.", "why": "dopo provided that e as long as si usa il presente, non will" },
+      { "wrong": "I'll call you in case you will need help.", "right": "I'll call you in case you need help.", "why": "dopo in case si usa il presente, anche per il futuro" },
+      { "wrong": "Sign today, in other case we lose the offer.", "right": "Sign today; otherwise, we lose the offer.", "why": "per 'altrimenti' si dice otherwise; 'in other case' non esiste" },
+      { "wrong": "We can start if only you sign today.", "right": "We can start only if you sign today.", "why": "if only esprime un rimpianto o un desiderio (magari!); per 'solo se' si dice only if, oppure provided that" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "We'll start next week ___ you sign today. (purché)", "a": ["provided that", "provided", "as long as", "providing", "so long as", "on condition that"], "hint": "purché", "explain": "Provided (that) o as long as = a condizione che." },
+    { "q": "We can't begin ___ we receive the deposit. (a meno che)", "a": ["unless"], "hint": "a meno che", "explain": "Unless = a meno che; il verbo è positivo." },
+    { "q": "Please reply today; ___, we will give the slot to someone else.", "a": ["otherwise"], "hint": "altrimenti", "explain": "Otherwise = altrimenti, dopo punto e virgola." },
+    { "q": "I'll accept as long as you ___ (pay) in advance.", "a": ["pay"], "hint": "presente dopo as long as", "explain": "Dopo as long as si usa il presente, non will." },
+    { "q": "Unless you ___ (agree) to the terms, we can't proceed.", "a": ["agree"], "hint": "presente, positivo", "explain": "Dopo unless il verbo è al presente semplice." },
+    { "q": "I'll bring a copy of the contract ___ you want to read it. (caso mai)", "a": ["in case"], "hint": "precauzione", "explain": "In case + presente indica una precauzione." },
+    { "q": "Supposing we ___ (reduce) the scope, would you accept?", "a": ["reduced"], "hint": "past simple dopo supposing", "explain": "Supposing + past simple per un'ipotesi." },
+    { "q": "We will lower the price ___ condition that you sign a two-year contract.", "a": ["on"], "hint": "preposizione", "explain": "L'espressione è 'on condition that'." },
+    { "q": "We can meet you ___ on the price. (a metà strada)", "a": ["halfway"], "hint": "venirsi incontro", "explain": "'To meet someone halfway' = venirsi incontro." },
+    { "q": "That is my final offer; take it ___ leave it.", "a": ["or"], "hint": "prendere o lasciare", "explain": "'Take it or leave it' = prendere o lasciare." },
+    { "q": "The offer is ___ to approval by our board. (subordinata)", "a": ["subject"], "hint": "subject to", "explain": "'Subject to' = subordinato a." },
+    { "q": "In the ___ that you cancel, the deposit will not be refunded.", "a": ["event"], "hint": "nel caso in cui", "explain": "'In the event that' = nel caso in cui." }
+  ],
+  "phrases": [
+    { "group": "Aprire la trattativa", "en": "Let's see if we can find some middle ground.", "it": "Vediamo se riusciamo a trovare una via di mezzo." },
+    { "group": "Aprire la trattativa", "en": "Could you give me a ballpark figure?", "it": "Potrebbe darmi una cifra indicativa?" },
+    { "group": "Aprire la trattativa", "en": "What would it take for you to agree?", "it": "Cosa vi servirebbe per accettare?", "note": "domanda molto efficace" },
+    { "group": "Aprire la trattativa", "en": "Our budget is fixed, but the scope is flexible.", "it": "Il nostro budget è fisso, ma l'ambito è flessibile." },
+    { "group": "Porre condizioni", "en": "We can do that, provided that you sign today.", "it": "Possiamo farlo, purché firmiate oggi." },
+    { "group": "Porre condizioni", "en": "I'm happy to go ahead as long as we agree on the milestones.", "it": "Procedo volentieri, purché ci accordiamo sulle scadenze intermedie." },
+    { "group": "Porre condizioni", "en": "We can't start unless we receive the deposit.", "it": "Non possiamo iniziare a meno che non riceviamo l'acconto." },
+    { "group": "Porre condizioni", "en": "That would be acceptable on condition that it's in writing.", "it": "Sarebbe accettabile a patto che sia per iscritto." },
+    { "group": "Controproposte", "en": "I'm afraid that's a little above our budget.", "it": "Temo che sia un po' sopra il nostro budget." },
+    { "group": "Controproposte", "en": "Would you consider a package deal instead?", "it": "Prendereste in considerazione un'offerta a pacchetto?" },
+    { "group": "Controproposte", "en": "What if we split the difference?", "it": "E se ci venissimo incontro a metà strada?", "note": "splitting the difference = venirsi incontro a metà" },
+    { "group": "Controproposte", "en": "Supposing we extended the contract, could you lower the rate?", "it": "Ipotizzando di estendere il contratto, potreste abbassare la tariffa?" },
+    { "group": "Controproposte", "en": "We could offer a discount in exchange for a longer commitment.", "it": "Potremmo offrire uno sconto in cambio di un impegno più lungo." },
+    { "group": "Punti fermi", "en": "The deadline is non-negotiable.", "it": "La scadenza non è negoziabile." },
+    { "group": "Punti fermi", "en": "That would be a deal-breaker for us.", "it": "Per noi sarebbe un motivo per far saltare l'accordo." },
+    { "group": "Punti fermi", "en": "I'm afraid that's our bottom line.", "it": "Temo che questo sia il nostro limite." },
+    { "group": "Punti fermi", "en": "If that doesn't work for you, we'll have to walk away.", "it": "Se non va bene per voi, dovremo tirarci indietro." },
+    { "group": "Punti fermi", "en": "We're not able to go any lower.", "it": "Non possiamo scendere più di così." },
+    { "group": "Chiudere", "en": "I think we're on the same page now.", "it": "Penso che ora siamo d'accordo." },
+    { "group": "Chiudere", "en": "So, to summarise what we've agreed...", "it": "Quindi, riassumendo ciò che abbiamo concordato..." },
+    { "group": "Chiudere", "en": "Let's put everything in writing.", "it": "Mettiamo tutto per iscritto." },
+    { "group": "Chiudere", "en": "I'll send the final contract by the end of the day.", "it": "Manderò il contratto definitivo entro la fine della giornata." },
+    { "group": "Chiudere", "en": "It's been a pleasure doing business with you.", "it": "È stato un piacere fare affari con voi." },
+    { "group": "Chiudere", "en": "Shall we shake hands on it?", "it": "Ci stringiamo la mano su questo?" },
+    { "group": "Chiudere", "en": "I'm confident this is a win-win for both sides.", "it": "Sono convinto che sia vantaggioso per entrambe le parti." }
+  ],
+  "dialogue": {
+    "title": "Closing the deal",
+    "context": "Marco e Helen, la responsabile marketing di una catena di negozi, chiudono la trattativa per il rifacimento del sito. Discutono prezzo, tempi e pagamento.",
+    "lines": [
+      { "s": "A", "name": "Helen", "en": "Marco, we like your proposal, but 12,000 euros is above our budget.", "it": "Marco, la proposta ci piace, ma 12.000 euro sono sopra il nostro budget." },
+      { "s": "B", "name": "Marco", "en": "I understand. What figure did you have in mind?", "it": "Capisco. Che cifra avevate in mente?" },
+      { "s": "A", "name": "Helen", "en": "Around 10,000, and we'd like the site live by 1 October.", "it": "Intorno ai 10.000, e vorremmo il sito online entro il primo ottobre." },
+      { "s": "B", "name": "Marco", "en": "The date is no problem, provided that you send the content by 15 August.", "it": "La data non è un problema, purché ci mandiate i contenuti entro il 15 agosto." },
+      { "s": "A", "name": "Helen", "en": "That should be fine. What about the price, though?", "it": "Dovrebbe andare bene. E il prezzo?" },
+      { "s": "B", "name": "Marco", "en": "I can go down to 11,000 if we drop the blog section.", "it": "Posso scendere a 11.000 se togliamo la sezione blog." },
+      { "s": "A", "name": "Helen", "en": "Dropping the blog would be a deal-breaker for us, I'm afraid. Supposing we paid half upfront, could you do 10,500?", "it": "Togliere il blog per noi farebbe saltare l'accordo, temo. Ipotizzando di pagare metà in anticipo, potresti fare 10.500?" },
+      { "s": "B", "name": "Marco", "en": "As long as the deposit arrives before we start, I can do that.", "it": "Purché l'acconto arrivi prima di iniziare, posso farlo." },
+      { "s": "A", "name": "Helen", "en": "Fine. And we'd pay the rest in two instalments, tied to milestones.", "it": "Va bene. E pagheremmo il resto in due rate, legate alle fasi del progetto." },
+      { "s": "B", "name": "Marco", "en": "Agreed, on condition that each milestone is signed off within three days.", "it": "D'accordo, a patto che ogni traguardo venga approvato entro tre giorni." },
+      { "s": "A", "name": "Helen", "en": "That's reasonable. Unless something unexpected happens, we'll do that.", "it": "È ragionevole. A meno che non succeda qualcosa di imprevisto, lo faremo." },
+      { "s": "B", "name": "Marco", "en": "Great. So we're on the same page: 10,500, half upfront, launch on 1 October.", "it": "Ottimo. Quindi siamo d'accordo: 10.500, metà in anticipo, lancio il primo ottobre." },
+      { "s": "A", "name": "Helen", "en": "Exactly. Could you put that in writing today?", "it": "Esatto. Potresti metterlo per iscritto oggi?" },
+      { "s": "B", "name": "Marco", "en": "I'll send the contract by the end of the day. Shall we shake hands on it?", "it": "Ti mando il contratto entro fine giornata. Ci stringiamo la mano?" },
+      { "s": "A", "name": "Helen", "en": "Gladly. It's been a pleasure doing business with you.", "it": "Volentieri. È stato un piacere fare affari con te." }
+    ]
+  },
+  "listening": [
+    { "q": "What is Helen's problem with the first price?", "options": ["It is above their budget", "It is too low", "It includes no hosting"], "answer": 0 },
+    { "q": "What does Helen consider a deal-breaker?", "options": ["The launch date", "Dropping the blog section", "Paying in instalments"], "answer": 1 },
+    { "q": "What is the final price agreed?", "options": ["10,000 euros", "11,000 euros", "10,500 euros"], "answer": 2 },
+    { "q": "What does Marco promise to do by the end of the day?", "options": ["Send the contract", "Send the invoice", "Send the website"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Possiamo iniziare lunedì, purché firmiate oggi.", "en": "We can start on Monday, provided that you sign today.", "alt": ["We can start on Monday as long as you sign today.", "We can begin on Monday provided you sign today."] },
+    { "it": "Non possiamo procedere a meno che non riceviamo l'acconto.", "en": "We can't proceed unless we receive the deposit.", "alt": ["We cannot proceed unless the deposit is received.", "We can't go ahead unless we get the deposit."] },
+    { "it": "Confermi entro venerdì, altrimenti liberiamo la data.", "en": "Please confirm by Friday; otherwise, we'll release the slot.", "alt": ["Please confirm by Friday. Otherwise, we will release the slot.", "Confirm by Friday, otherwise we'll release the slot."] },
+    { "it": "Accetto a patto che le modifiche siano messe per iscritto.", "en": "I'll agree on condition that the changes are put in writing.", "alt": ["I accept on condition that the changes are in writing.", "I'll accept as long as the changes are put in writing."] },
+    { "it": "E se ci venissimo incontro a metà strada?", "en": "What if we split the difference?", "alt": ["How about we split the difference?", "Why don't we split the difference?"] },
+    { "it": "Per noi la data di consegna non è negoziabile.", "en": "The delivery date is non-negotiable for us.", "alt": ["For us, the delivery date is non-negotiable.", "The delivery date is not negotiable for us."] },
+    { "it": "Potremmo offrire uno sconto in cambio di un impegno più lungo.", "en": "We could offer a discount in exchange for a longer commitment.", "alt": ["We could give you a discount in return for a longer commitment.", "We could offer a discount if you commit for longer."] },
+    { "it": "Siamo flessibili sul piano dei pagamenti.", "en": "We are flexible on the payment schedule.", "alt": ["We are flexible about the payment plan.", "We're flexible regarding the payment schedule."] },
+    { "it": "In linea di principio siamo d'accordo, ma serve l'approvazione del direttore.", "en": "In principle we agree, but we need our director's approval.", "alt": ["We agree in principle, but it is subject to our director's approval.", "In principle, we agree, but the director has to sign off."] },
+    { "it": "Se non migliorano l'offerta, ci tireremo indietro.", "en": "If they don't improve the offer, we'll walk away.", "alt": ["If they do not improve their offer, we will walk away.", "Unless they improve the offer, we'll walk away."] },
+    { "it": "Quindi, riassumendo ciò che abbiamo concordato: 10.000 euro, metà in anticipo.", "en": "So, to summarise what we've agreed: 10,000 euros, half upfront.", "alt": ["So, to sum up what we have agreed: 10,000 euros, half in advance.", "To summarise, we've agreed on 10,000 euros, with half upfront."] },
+    { "it": "Mettiamo tutto per iscritto e stringiamoci la mano.", "en": "Let's put everything in writing and shake hands on it.", "alt": ["Let's put it all in writing and shake hands on it.", "Let's get everything in writing, then shake hands."] }
+  ],
+  "writing": {
+    "taskIt": "Hai concluso a voce una trattativa con un cliente per un sito da 9.000 euro. Scrivi la mail di conferma che riassume i termini. Includi il prezzo, un acconto del 40% da pagare prima di iniziare, la data di consegna del 30 novembre, la condizione che i contenuti arrivino entro il 15 ottobre, e usa almeno tre di queste parole: provided that, as long as, unless, otherwise, on condition that. Chiedi di rispondere per confermare.",
+    "taskEn": "You have concluded a negotiation by phone with a client for a 9,000 euro website. Write the confirmation email that summarises the terms. Include the price, a 40% deposit to be paid before starting, the delivery date of 30 November, the condition that the content arrives by 15 October, and use at least three of these words: provided that, as long as, unless, otherwise, on condition that. Ask the client to reply to confirm.",
+    "model": "Subject: Summary of our agreement\n\nDear Mr Evans,\n\nThank you for the call this morning. I'm pleased that we reached an agreement. To avoid any misunderstanding, here is a summary of the terms we discussed.\n\n- Price: 9,000 euros, excluding VAT.\n- Deposit: 40% (3,600 euros), to be paid before we start. We can't begin work unless the deposit has been received.\n- Delivery: 30 November, provided that you send all content and images by 15 October.\n- Payment of the balance: in two instalments, linked to the milestones.\n\nAs long as the scope stays as described in the proposal, the price will not change. Any additional request will be quoted separately.\n\nCould you please reply to this email to confirm? Otherwise, I'm afraid I can't hold the delivery date.\n\nI look forward to working with you.\n\nBest regards,\nMarco Bianchi"
+  },
+  "speaking": {
+    "shadowing": [
+      "We can do that, provided that you sign today.",
+      "I'm happy to go ahead as long as we agree on the milestones.",
+      "We can't start unless we receive the deposit.",
+      "Please confirm today; otherwise, we can't hold the price.",
+      "Supposing we paid half upfront, could you lower the price?",
+      "The deadline is non-negotiable, but the scope is flexible.",
+      "So, to summarise what we've agreed: ten thousand euros, half upfront.",
+      "It's been a pleasure doing business with you."
+    ],
+    "prompts": [
+      { "en": "A client says your price is too high. How do you respond?", "it": "Un cliente dice che il prezzo è troppo alto. Come rispondi?", "help": "Usa: I understand, but... / What if we reduced the scope? / We could offer..." },
+      { "en": "What is your bottom line when you negotiate a price?", "it": "Qual è il tuo minimo quando negozi un prezzo?", "help": "Usa: I can't go below... / That's our bottom line / provided that..." },
+      { "en": "Give two conditions for starting a project.", "it": "Dai due condizioni per iniziare un progetto.", "help": "Usa: We can start provided that... / We can't start unless..." },
+      { "en": "Summarise the terms of a deal you made recently.", "it": "Riassumi i termini di un accordo che hai fatto di recente.", "help": "Usa: So, to summarise... / We agreed on... / as long as..." },
+      { "en": "When would you walk away from a negotiation?", "it": "Quando ti tireresti indietro da una trattativa?", "help": "Usa: If they don't improve the offer... / That would be a deal-breaker." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: una trattativa completa",
+      "show": ["Trattativa completa", "Condizioni e chiusura"],
+      "say": [
+        { "lang": "it", "text": "Oggi ripassiamo i condizionali che servono in una trattativa. Ogni concessione ha di solito una condizione." },
+        { "lang": "en", "text": "I can do that, but on one condition." }
+      ]
+    },
+    {
+      "title": "Provided that e as long as",
+      "show": ["provided that + presente", "as long as + presente"],
+      "say": [
+        { "lang": "it", "text": "Provided that e as long as significano purché. Dopo di loro il verbo resta al presente, anche per il futuro. Niente will." },
+        { "lang": "en", "text": "We can start next week, provided that you sign today." }
+      ]
+    },
+    {
+      "title": "Unless: già negativo",
+      "show": ["unless = if not", "Unless you sign, we can't start"],
+      "say": [
+        { "lang": "it", "text": "Unless vuol dire a meno che. È già negativo, quindi non serve un altro not dopo." },
+        { "lang": "en", "text": "We can't start unless we receive the deposit." }
+      ]
+    },
+    {
+      "title": "Otherwise e in case",
+      "show": ["otherwise = altrimenti", "in case = caso mai"],
+      "say": [
+        { "lang": "it", "text": "Otherwise significa altrimenti. In case invece indica una precauzione, non una condizione." },
+        { "lang": "en", "text": "Please confirm today; otherwise, we'll release the slot." }
+      ]
+    },
+    {
+      "title": "Supposing e on condition that",
+      "show": ["Supposing + past simple", "on condition that"],
+      "say": [
+        { "lang": "it", "text": "Con supposing puoi lanciare un'ipotesi senza impegnarti. On condition that è più formale e più forte." },
+        { "lang": "en", "text": "Supposing we paid half upfront, could you lower the price?" }
+      ]
+    },
+    {
+      "title": "Le espressioni della trattativa",
+      "show": ["middle ground", "deal-breaker", "bottom line", "split the difference"],
+      "say": [
+        { "lang": "it", "text": "Ecco alcune espressioni chiave. Middle ground è la via di mezzo, deal-breaker è ciò che fa saltare l'accordo, bottom line è il tuo minimo." },
+        { "lang": "en", "text": "What if we split the difference?" }
+      ]
+    },
+    {
+      "title": "Chiudere l'accordo",
+      "show": ["to summarise", "to put in writing", "to shake hands on it"],
+      "say": [
+        { "lang": "it", "text": "Alla fine riassumi i termini e mettili per iscritto. Poi puoi chiudere con una stretta di mano." },
+        { "lang": "en", "text": "So, to summarise what we've agreed: ten thousand euros, half upfront. Let's put everything in writing." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Condizioni con provided that, as long as, unless", "Sempre per iscritto"],
+      "say": [
+        { "lang": "it", "text": "Ricorda: presente dopo provided that e as long as, nessun not dopo unless, e riassumi sempre l'accordo per iscritto." },
+        { "lang": "en", "text": "It has been a pleasure doing business with you." }
+      ]
+    }
+  ]
+}

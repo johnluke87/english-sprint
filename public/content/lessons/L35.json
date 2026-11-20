@@ -1,0 +1,1218 @@
+{
+  "id": 35,
+  "week": 7,
+  "title": "Ascolto attivo e capire gli accenti",
+  "titleEn": "Active listening and accents",
+  "intro": "Oggi lavori sull'ascolto. Impari le forme contratte e il parlato veloce, come gonna, wanna, I'd e they'll, e le espressioni che le persone usano davvero quando parlano. Ti servono per capire colleghi e clienti con accenti diversi e per reagire in modo naturale, senza restare in silenzio.",
+  "goals": [
+    "Capire le forme contratte del parlato: gonna, wanna, gotta, I'd, they'll",
+    "Chiedere di ripetere o di parlare più piano senza imbarazzo",
+    "Reagire mentre ascolti con piccole frasi naturali",
+    "Capire il senso generale anche quando non capisci ogni parola"
+  ],
+  "words": [
+    {
+      "en": "you know",
+      "pron": "iu nòu",
+      "it": "sai, capisci (riempitivo)",
+      "type": "phrase",
+      "ex": "It's slow, you know, on mobile.",
+      "exIt": "È lento, sai, da cellulare."
+    },
+    {
+      "en": "I mean",
+      "pron": "ai miin",
+      "it": "cioè, voglio dire",
+      "type": "phrase",
+      "ex": "It's fine. I mean, it works.",
+      "exIt": "Va bene. Cioè, funziona."
+    },
+    {
+      "en": "sort of",
+      "pron": "sort ov",
+      "it": "più o meno, un po'",
+      "type": "phrase",
+      "ex": "It's sort of working now.",
+      "exIt": "Più o meno ora funziona."
+    },
+    {
+      "en": "kind of",
+      "pron": "kàind ov",
+      "it": "piuttosto, un po'",
+      "type": "phrase",
+      "ex": "I'm kind of tired today.",
+      "exIt": "Oggi sono un po' stanco."
+    },
+    {
+      "en": "basically",
+      "pron": "bèisicli",
+      "it": "in pratica",
+      "type": "adv",
+      "ex": "Basically, the page is too heavy.",
+      "exIt": "In pratica, la pagina è troppo pesante."
+    },
+    {
+      "en": "anyway",
+      "pron": "ènivuei",
+      "it": "comunque, ad ogni modo",
+      "type": "adv",
+      "ex": "Anyway, let's move on.",
+      "exIt": "Comunque, andiamo avanti."
+    },
+    {
+      "en": "by the way",
+      "pron": "bai de uèi",
+      "it": "a proposito",
+      "type": "phrase",
+      "ex": "By the way, I sent you the file.",
+      "exIt": "A proposito, ti ho mandato il file."
+    },
+    {
+      "en": "uh-huh",
+      "pron": "a hà",
+      "it": "mmh, sì (mentre ascolti)",
+      "type": "phrase",
+      "ex": "Uh-huh, I'm following you.",
+      "exIt": "Mmh, ti seguo."
+    },
+    {
+      "en": "I see",
+      "pron": "ai sii",
+      "it": "capisco",
+      "type": "phrase",
+      "ex": "I see. That makes sense.",
+      "exIt": "Capisco. Ha senso."
+    },
+    {
+      "en": "got it",
+      "pron": "got it",
+      "it": "capito, ricevuto",
+      "type": "phrase",
+      "ex": "Got it, thanks.",
+      "exIt": "Capito, grazie."
+    },
+    {
+      "en": "come again?",
+      "pron": "cam agèn",
+      "it": "come? puoi ripetere?",
+      "type": "phrase",
+      "ex": "Come again? The line is bad.",
+      "exIt": "Come? La linea è disturbata."
+    },
+    {
+      "en": "no way",
+      "pron": "nòu uèi",
+      "it": "non ci credo, impossibile",
+      "type": "phrase",
+      "ex": "No way! That was fast.",
+      "exIt": "Non ci credo! È stato veloce."
+    },
+    {
+      "en": "that makes sense",
+      "pron": "dat meics sens",
+      "it": "ha senso",
+      "type": "phrase",
+      "ex": "Oh, that makes sense now.",
+      "exIt": "Ah, ora ha senso."
+    },
+    {
+      "en": "go on",
+      "pron": "gòu on",
+      "it": "continua pure",
+      "type": "phrase",
+      "ex": "Go on, I'm listening.",
+      "exIt": "Continua pure, ti ascolto."
+    },
+    {
+      "en": "hang on",
+      "pron": "hang on",
+      "it": "aspetta un attimo",
+      "type": "phrase",
+      "ex": "Hang on, let me check.",
+      "exIt": "Aspetta un attimo, controllo."
+    },
+    {
+      "en": "to make out",
+      "pron": "mèik àut",
+      "it": "riuscire a capire, distinguere (suoni, parole)",
+      "type": "verb",
+      "ex": "I couldn't make out what he said because of the noise.",
+      "exIt": "Non riuscivo a capire cosa diceva per via del rumore."
+    },
+    {
+      "en": "to mumble",
+      "pron": "màmbol",
+      "it": "borbottare",
+      "type": "verb",
+      "ex": "He mumbles when he's nervous.",
+      "exIt": "Borbotta quando è nervoso."
+    },
+    {
+      "en": "pardon",
+      "pron": "pàrdon",
+      "it": "come dice? scusi?",
+      "type": "phrase",
+      "ex": "Pardon? Could you say that again?",
+      "exIt": "Scusi? Può ripeterlo?"
+    },
+    {
+      "en": "accent",
+      "pron": "àcsent",
+      "it": "accento (di pronuncia)",
+      "type": "noun",
+      "ex": "She has a strong Scottish accent.",
+      "exIt": "Ha un forte accento scozzese."
+    },
+    {
+      "en": "pronunciation",
+      "pron": "pronansièiscion",
+      "it": "pronuncia",
+      "type": "noun",
+      "ex": "Your pronunciation is getting better.",
+      "exIt": "La tua pronuncia sta migliorando."
+    },
+    {
+      "en": "native speaker",
+      "pron": "nèitiv spìiker",
+      "it": "madrelingua",
+      "type": "noun",
+      "ex": "Many of our clients aren't native speakers.",
+      "exIt": "Molti dei nostri clienti non sono madrelingua."
+    },
+    {
+      "en": "fluent",
+      "pron": "flùent",
+      "it": "fluente",
+      "type": "adj",
+      "ex": "He is fluent in three languages.",
+      "exIt": "Parla fluentemente tre lingue."
+    },
+    {
+      "en": "intonation",
+      "pron": "intonèiscion",
+      "it": "intonazione",
+      "type": "noun",
+      "ex": "Intonation changes the meaning of a question.",
+      "exIt": "L'intonazione cambia il senso di una domanda."
+    },
+    {
+      "en": "word stress",
+      "pron": "uèrd strès",
+      "it": "accento della parola",
+      "type": "noun",
+      "ex": "Word stress is very important in English.",
+      "exIt": "L'accento della parola è molto importante in inglese."
+    },
+    {
+      "en": "to translate",
+      "pron": "tranzlèit",
+      "it": "tradurre",
+      "type": "verb",
+      "ex": "I translate the key words in my head.",
+      "exIt": "Traduco mentalmente le parole chiave."
+    },
+    {
+      "en": "to nod",
+      "pron": "nod",
+      "it": "annuire",
+      "type": "verb",
+      "ex": "I nodded to show I was listening.",
+      "exIt": "Ho annuito per mostrare che ascoltavo."
+    },
+    {
+      "en": "stress",
+      "pron": "stres",
+      "it": "accento tonico",
+      "type": "noun",
+      "ex": "The stress is on the second syllable.",
+      "exIt": "L'accento è sulla seconda sillaba."
+    },
+    {
+      "en": "to tune out",
+      "pron": "tiun aut",
+      "it": "smettere di ascoltare",
+      "type": "verb",
+      "ex": "I tune out when the call is too long.",
+      "exIt": "Smetto di ascoltare quando la chiamata è troppo lunga."
+    },
+    {
+      "en": "to pay attention",
+      "pron": "pei atènscion",
+      "it": "prestare attenzione",
+      "type": "phrase",
+      "ex": "It's hard to pay attention on a long call.",
+      "exIt": "È difficile prestare attenzione in una chiamata lunga."
+    },
+    {
+      "en": "to listen in",
+      "pron": "lìsen in",
+      "it": "ascoltare (una conversazione)",
+      "type": "phrase",
+      "ex": "Some colleagues will listen in on the call.",
+      "exIt": "Alcuni colleghi ascolteranno la chiamata."
+    },
+    {
+      "en": "to tune in",
+      "pron": "tiun in",
+      "it": "sintonizzarsi, concentrarsi",
+      "type": "phrase",
+      "ex": "I need a few minutes to tune in to her accent.",
+      "exIt": "Mi servono alcuni minuti per abituarmi al suo accento."
+    },
+    {
+      "en": "to zone out",
+      "pron": "zoun aut",
+      "it": "distrarsi, estraniarsi",
+      "type": "verb",
+      "ex": "Sorry, I zoned out for a second.",
+      "exIt": "Scusa, ho perso il filo per un secondo."
+    },
+    {
+      "en": "seriously",
+      "pron": "sìriosli",
+      "it": "davvero, sul serio",
+      "type": "adv",
+      "ex": "Seriously? That's great news!",
+      "exIt": "Davvero? È un'ottima notizia!"
+    },
+    {
+      "en": "to get the point",
+      "pron": "ghet de point",
+      "it": "capire il punto",
+      "type": "phrase",
+      "ex": "I get the point, but I disagree.",
+      "exIt": "Capisco il punto, ma non sono d'accordo."
+    },
+    {
+      "en": "to follow along",
+      "pron": "fòlou alòng",
+      "it": "seguire passo dopo passo",
+      "type": "phrase",
+      "ex": "I followed along on the shared screen.",
+      "exIt": "Ho seguito passo dopo passo sullo schermo condiviso."
+    },
+    {
+      "en": "slang",
+      "pron": "slang",
+      "it": "gergo, slang",
+      "type": "noun",
+      "ex": "I don't understand all the slang.",
+      "exIt": "Non capisco tutto lo slang."
+    },
+    {
+      "en": "idiom",
+      "pron": "ìdiom",
+      "it": "modo di dire",
+      "type": "noun",
+      "ex": "That idiom is confusing for learners.",
+      "exIt": "Quel modo di dire è confuso per chi studia."
+    },
+    {
+      "en": "contraction",
+      "pron": "contràcscion",
+      "it": "forma contratta",
+      "type": "noun",
+      "ex": "I'm is a contraction of I am.",
+      "exIt": "I'm è una forma contratta di I am."
+    },
+    {
+      "en": "filler",
+      "pron": "fìler",
+      "it": "riempitivo (parola)",
+      "type": "noun",
+      "ex": "Words like um and er are fillers.",
+      "exIt": "Parole come um ed er sono riempitivi."
+    },
+    {
+      "en": "hesitation",
+      "pron": "hesitèiscion",
+      "it": "esitazione",
+      "type": "noun",
+      "ex": "There was a short hesitation before he answered.",
+      "exIt": "C'è stata una breve esitazione prima della risposta."
+    },
+    {
+      "en": "to mishear",
+      "pron": "misìer",
+      "it": "sentire male",
+      "type": "verb",
+      "ex": "Sorry, I misheard you.",
+      "exIt": "Scusa, ti ho sentito male."
+    },
+    {
+      "en": "to misunderstand",
+      "pron": "misanderstànd",
+      "it": "fraintendere",
+      "type": "verb",
+      "ex": "I think we misunderstood each other.",
+      "exIt": "Credo che ci siamo fraintesi."
+    },
+    {
+      "en": "background chatter",
+      "pron": "bàkgraund ciàter",
+      "it": "brusio di sottofondo",
+      "type": "noun",
+      "ex": "There was background chatter during the call.",
+      "exIt": "C'era un brusio di sottofondo durante la chiamata."
+    },
+    {
+      "en": "body language",
+      "pron": "bòdi làngguidg",
+      "it": "linguaggio del corpo",
+      "type": "noun",
+      "ex": "Body language also shows if you're listening.",
+      "exIt": "Anche il linguaggio del corpo mostra se ascolti."
+    },
+    {
+      "en": "to take turns",
+      "pron": "teic terns",
+      "it": "fare a turno",
+      "type": "phrase",
+      "ex": "Let's take turns speaking.",
+      "exIt": "Parliamo a turno."
+    },
+    {
+      "en": "to get the hang of",
+      "pron": "ghet de hang ov",
+      "it": "prenderci la mano",
+      "type": "phrase",
+      "ex": "I'm getting the hang of fast speech.",
+      "exIt": "Sto prendendo la mano con il parlato veloce."
+    },
+    {
+      "en": "loud and clear",
+      "pron": "laud and clier",
+      "it": "forte e chiaro",
+      "type": "phrase",
+      "ex": "I can hear you loud and clear.",
+      "exIt": "Ti sento forte e chiaro."
+    },
+    {
+      "en": "to stammer",
+      "pron": "stàmer",
+      "it": "balbettare",
+      "type": "verb",
+      "ex": "He stammered when he was nervous.",
+      "exIt": "Balbettava quando era nervoso."
+    },
+    {
+      "en": "to overhear",
+      "pron": "ouverhìir",
+      "it": "sentire per caso",
+      "type": "verb",
+      "ex": "I overheard part of their conversation.",
+      "exIt": "Ho sentito per caso parte della loro conversazione."
+    },
+    {
+      "en": "to ask for clarification",
+      "pron": "asc for clarificèiscion",
+      "it": "chiedere un chiarimento",
+      "type": "phrase",
+      "ex": "Don't be afraid to ask for clarification.",
+      "exIt": "Non aver paura di chiedere un chiarimento."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "eventually",
+      "it": "alla fine, prima o poi",
+      "trap": "Non vuol dire eventualmente (= if necessary, possibly)."
+    },
+    {
+      "en": "to listen",
+      "it": "ascoltare (con attenzione)",
+      "trap": "Con 'listen' serve 'to': 'listen to him'. To hear = sentire, senza volerlo."
+    }
+  ],
+  "grammar": {
+    "title": "Forme contratte e parlato veloce",
+    "explainIt": [
+      "Gli inglesi non pronunciano ogni parola. Nel parlato veloce le parole si uniscono e si accorciano. Per questo spesso un italiano capisce bene l'inglese scritto, ma si perde quando ascolta. Imparare le forme contratte ti aiuta molto.",
+      "Le contrazioni standard si scrivono sempre con l'apostrofo: I'm, you're, he's, we've, they'll, I'd, don't, can't, won't. Sono giuste anche nelle mail normali. Attenzione a due forme con due significati. I'd = I would (I'd like a call) oppure I had (I'd already left). 's = is (he's here), has (he's finished) oppure possessivo (Anna's file). Il verbo dopo ti aiuta a capire: dopo 'had' c'è un participio passato, dopo 'would' c'è il verbo base.",
+      "Le forme ridotte informali nascono solo dal parlato: gonna = going to, wanna = want to, gotta = got to / have to, hafta = have to, lemme = let me, gimme = give me, kinda = kind of, sorta = sort of, dunno = I don't know, whaddaya = what do you. Nelle chat tra colleghi vanno bene, ma NON si scrivono in una mail formale, in un report o nel CV. Impara a riconoscerle, e usale con cautela quando parli.",
+      "Altri fenomeni del parlato veloce. Le parole si legano: 'pick it up' suona come 'pickitup'. Le vocali non accentate diventano deboli: 'to' suona 'ta', 'for' suona 'fer', 'and' suona 'n'. Le consonanti finali spesso si perdono: 'next week' suona 'nex week'. Per questo non devi capire ogni parola, ma il senso. Ascolta l'accento principale delle frasi: le parole importanti sono forti e lunghe, le altre sono veloci.",
+      "Gli accenti: americano, britannico, scozzese, irlandese, indiano, australiano. Sono tutti inglese vero. All'inizio chiedi di ripetere senza vergogna: 'Sorry, could you say that again?'. Con il tempo l'orecchio si abitua. Ascolta ogni giorno, anche solo dieci minuti, podcast e video con sottotitoli in inglese."
+    ],
+    "explainEn": [
+      "English speakers do not pronounce every word. In fast speech, words join and get shorter. This is why Italians often understand written English well, but get lost when they listen. Learning contractions helps a lot.",
+      "Standard contractions are always written with an apostrophe: I'm, you're, he's, we've, they'll, I'd, don't, can't, won't. They are fine in normal emails. Be careful with two forms that have two meanings. I'd = I would (I'd like a call) or I had (I'd already left). 's = is (he's here), has (he's finished) or possessive (Anna's file). The verb after it helps you: after 'had' there is a past participle, after 'would' there is the base verb.",
+      "Informal reduced forms come only from speech: gonna = going to, wanna = want to, gotta = got to / have to, hafta = have to, lemme = let me, gimme = give me, kinda = kind of, sorta = sort of, dunno = I don't know, whaddaya = what do you. In chats between colleagues they are fine, but do NOT write them in a formal email, a report or a CV. Learn to recognise them, and use them with care when you speak.",
+      "More things happen in fast speech. Words link together: 'pick it up' sounds like 'pickitup'. Unstressed vowels become weak: 'to' sounds like 'ta', 'for' sounds like 'fer', 'and' sounds like 'n'. Final consonants often disappear: 'next week' sounds like 'nex week'. So you don't need to catch every word, but the meaning. Listen for the main stress in sentences: the important words are strong and long, the others are fast.",
+      "Accents: American, British, Scottish, Irish, Indian, Australian. They are all real English. At the beginning, ask people to repeat without shame: 'Sorry, could you say that again?' With time, your ear gets used to it. Listen every day, even for ten minutes, to podcasts and videos with English subtitles."
+    ],
+    "rules": [
+      {
+        "it": "Le contrazioni standard si scrivono con l'apostrofo e vanno bene nelle mail normali.",
+        "en": "Standard contractions are written with an apostrophe and are fine in normal emails.",
+        "form": "I'm, you're, we've, they'll, don't, can't, won't",
+        "examples": [
+          {
+            "en": "They'll send the files tomorrow.",
+            "it": "Manderanno i file domani."
+          },
+          {
+            "en": "We've finished the first part.",
+            "it": "Abbiamo finito la prima parte."
+          },
+          {
+            "en": "I can't open the attachment.",
+            "it": "Non riesco ad aprire l'allegato."
+          }
+        ]
+      },
+      {
+        "it": "Le forme ridotte informali (gonna, wanna, gotta) si usano solo parlando o in chat tra amici.",
+        "en": "Informal reduced forms (gonna, wanna, gotta) are only for speaking or friendly chats.",
+        "form": "gonna = going to; wanna = want to; gotta = got to / have to",
+        "examples": [
+          {
+            "en": "I'm gonna call the client after lunch.",
+            "it": "Chiamo il cliente dopo pranzo."
+          },
+          {
+            "en": "Do you wanna grab a coffee?",
+            "it": "Vuoi prendere un caffè?"
+          },
+          {
+            "en": "I gotta go, my next call starts now.",
+            "it": "Devo andare, la mia prossima chiamata inizia ora."
+          }
+        ]
+      },
+      {
+        "it": "'d può essere would o had. 's può essere is, has o possessivo. Guarda la parola dopo.",
+        "en": "'d can be would or had. 's can be is, has or possessive. Look at the next word.",
+        "form": "I'd + verbo base = would; I'd + participio = had",
+        "examples": [
+          {
+            "en": "I'd like to schedule a call. (I would)",
+            "it": "Vorrei fissare una chiamata."
+          },
+          {
+            "en": "I'd already sent the file when you called. (I had)",
+            "it": "Avevo già mandato il file quando hai chiamato."
+          },
+          {
+            "en": "He's finished the audit. (He has)",
+            "it": "Ha finito l'audit."
+          },
+          {
+            "en": "He's finishing the audit. (He is)",
+            "it": "Sta finendo l'audit."
+          }
+        ]
+      },
+      {
+        "it": "Nel parlato i verbi ausiliari e i pronomi si riducono e si legano: 'What do you' diventa 'whaddaya', 'did you' diventa 'didja'.",
+        "en": "In speech, auxiliaries and pronouns are reduced and linked: 'What do you' becomes 'whaddaya', 'did you' becomes 'didja'.",
+        "form": "what do you = whaddaya; did you = didja; could have = could've",
+        "examples": [
+          {
+            "en": "Whaddaya think? (What do you think?)",
+            "it": "Che ne pensi?"
+          },
+          {
+            "en": "Didja see my message? (Did you see my message?)",
+            "it": "Hai visto il mio messaggio?"
+          },
+          {
+            "en": "I could've helped. (I could have helped.)",
+            "it": "Avrei potuto aiutare."
+          }
+        ]
+      }
+    ],
+    "tip": "Per allenare l'orecchio, ascolta un video corto con i sottotitoli in inglese, poi ascoltalo di nuovo senza. Ripeti ad alta voce a velocità normale (shadowing). Non cercare di capire ogni parola: cerca prima il senso generale.",
+    "mistakes": [
+      {
+        "wrong": "Dear Mr Smith, I'm gonna send you the quote tomorrow.",
+        "right": "Dear Mr Smith, I'm going to send you the quote tomorrow.",
+        "why": "gonna è informale: non si scrive nelle mail formali"
+      },
+      {
+        "wrong": "He wanna see the report.",
+        "right": "He wants to see the report.",
+        "why": "wanna = want to, ma con he/she serve wants to"
+      },
+      {
+        "wrong": "I'd already go home when you called.",
+        "right": "I'd already gone home when you called.",
+        "why": "qui 'd è had (c'è already), quindi serve il participio passato: gone"
+      },
+      {
+        "wrong": "Sorry, I didn't hear you, can you explain? (quando non hai capito il senso)",
+        "right": "Sorry, I didn't follow. Could you explain that again?",
+        "why": "hear = sentire un suono; follow = capire il discorso"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I'm gonna call him. Forma completa: I'm ___ to call him.",
+      "a": [
+        "going"
+      ],
+      "hint": "gonna",
+      "explain": "gonna = going to."
+    },
+    {
+      "q": "I wanna check the file. Forma completa: I ___ to check the file.",
+      "a": [
+        "want"
+      ],
+      "hint": "wanna",
+      "explain": "wanna = want to."
+    },
+    {
+      "q": "She's gotta leave early. Forma completa: She has ___ to leave early.",
+      "a": [
+        "got"
+      ],
+      "hint": "gotta",
+      "explain": "gotta = got to. Anche has to."
+    },
+    {
+      "q": "I'd like a quick call. I'd = I ___.",
+      "a": [
+        "would"
+      ],
+      "hint": "like",
+      "explain": "I'd like = I would like."
+    },
+    {
+      "q": "I'd already left when she called. I'd = I ___.",
+      "a": [
+        "had"
+      ],
+      "hint": "already left",
+      "explain": "Dopo 'd c'è un participio: era had."
+    },
+    {
+      "q": "They'll arrive soon. They'll = They ___.",
+      "a": [
+        "will"
+      ],
+      "hint": "futuro",
+      "explain": "'ll = will."
+    },
+    {
+      "q": "He's finished the audit. He's = He ___.",
+      "a": [
+        "has"
+      ],
+      "hint": "participio",
+      "explain": "Dopo 's c'è un participio: has."
+    },
+    {
+      "q": "He's going home now. He's = He ___.",
+      "a": [
+        "is"
+      ],
+      "hint": "-ing",
+      "explain": "Dopo 's c'è -ing: is."
+    },
+    {
+      "q": "I could've helped you. I could ___ helped you.",
+      "a": [
+        "have"
+      ],
+      "hint": "could've",
+      "explain": "could've = could have."
+    },
+    {
+      "q": "Lemme see the file. ___ me see the file.",
+      "a": [
+        "let"
+      ],
+      "hint": "lemme",
+      "explain": "lemme = let me."
+    },
+    {
+      "q": "I dunno. Forma completa: I ___ know.",
+      "a": [
+        "don't",
+        "do not"
+      ],
+      "hint": "dunno",
+      "explain": "dunno = don't know."
+    },
+    {
+      "q": "I'm kinda tired. Forma completa: I'm ___ of tired.",
+      "a": [
+        "kind"
+      ],
+      "hint": "kinda",
+      "explain": "kinda = kind of."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Sorry, could you say that again?",
+      "it": "Scusa, puoi ripeterlo?"
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Sorry, I didn't catch that.",
+      "it": "Scusa, non ho afferrato."
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Could you speak a bit more slowly, please?",
+      "it": "Potresti parlare un po' più lentamente, per favore?"
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Could you spell that for me?",
+      "it": "Puoi dirmelo lettera per lettera?"
+    },
+    {
+      "group": "Chiedere di ripetere",
+      "en": "Sorry, the line is breaking up.",
+      "it": "Scusa, la linea si interrompe."
+    },
+    {
+      "group": "Controllare di aver capito",
+      "en": "So, if I understand correctly, you want a new form.",
+      "it": "Quindi, se ho capito bene, volete un nuovo modulo."
+    },
+    {
+      "group": "Controllare di aver capito",
+      "en": "Let me make sure I got that right.",
+      "it": "Fammi controllare di aver capito bene."
+    },
+    {
+      "group": "Controllare di aver capito",
+      "en": "Do you mean the home page or the product page?",
+      "it": "Intendi la home o la pagina del prodotto?"
+    },
+    {
+      "group": "Controllare di aver capito",
+      "en": "Can I just check something?",
+      "it": "Posso solo controllare una cosa?"
+    },
+    {
+      "group": "Controllare di aver capito",
+      "en": "Sorry, I lost you there.",
+      "it": "Scusa, lì mi sono perso."
+    },
+    {
+      "group": "Reagire mentre ascolti",
+      "en": "I see. Go on.",
+      "it": "Capisco. Continua pure."
+    },
+    {
+      "group": "Reagire mentre ascolti",
+      "en": "That makes sense.",
+      "it": "Ha senso."
+    },
+    {
+      "group": "Reagire mentre ascolti",
+      "en": "Fair enough.",
+      "it": "Giusto."
+    },
+    {
+      "group": "Reagire mentre ascolti",
+      "en": "No way, really?",
+      "it": "Non ci credo, davvero?"
+    },
+    {
+      "group": "Reagire mentre ascolti",
+      "en": "Got it, thanks.",
+      "it": "Capito, grazie."
+    },
+    {
+      "group": "Il parlato di tutti i giorni",
+      "en": "I'm gonna send it over after lunch.",
+      "it": "Lo mando dopo pranzo.",
+      "note": "gonna = going to, solo parlato"
+    },
+    {
+      "group": "Il parlato di tutti i giorni",
+      "en": "Do you wanna jump on a quick call?",
+      "it": "Vuoi fare una chiamata veloce?",
+      "note": "wanna = want to, solo parlato"
+    },
+    {
+      "group": "Il parlato di tutti i giorni",
+      "en": "I gotta run, talk later.",
+      "it": "Devo scappare, ci sentiamo dopo.",
+      "note": "gotta = got to"
+    },
+    {
+      "group": "Il parlato di tutti i giorni",
+      "en": "I dunno, let me check.",
+      "it": "Non so, controllo.",
+      "note": "dunno = don't know"
+    },
+    {
+      "group": "Il parlato di tutti i giorni",
+      "en": "Basically, it's kinda slow.",
+      "it": "In pratica, è un po' lento."
+    },
+    {
+      "group": "Mantenere la conversazione",
+      "en": "Hang on a second.",
+      "it": "Aspetta un secondo."
+    },
+    {
+      "group": "Mantenere la conversazione",
+      "en": "By the way, did you get my email?",
+      "it": "A proposito, hai ricevuto la mia mail?"
+    },
+    {
+      "group": "Mantenere la conversazione",
+      "en": "Anyway, back to the project.",
+      "it": "Comunque, torniamo al progetto."
+    },
+    {
+      "group": "Mantenere la conversazione",
+      "en": "Sorry to interrupt, can I add something?",
+      "it": "Scusa se interrompo, posso aggiungere una cosa?"
+    },
+    {
+      "group": "Mantenere la conversazione",
+      "en": "I can hear you loud and clear.",
+      "it": "Ti sento forte e chiaro."
+    }
+  ],
+  "dialogue": {
+    "title": "A call with a Scottish client",
+    "context": "Luca è in videochiamata con Fiona, una cliente scozzese. Lei parla veloce e usa molte forme del parlato. Luca non capisce tutto, ma sa come chiedere e come reagire.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Morning, Luca! I'm gonna be quick, I've got another call in ten minutes. D'ya have the new designs?",
+        "it": "Buongiorno, Luca! Sarò veloce, ho un'altra chiamata tra dieci minuti. Hai i nuovi design?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Good morning, Fiona. Sorry, could you say that again? I didn't catch the last part.",
+        "it": "Buongiorno, Fiona. Scusa, puoi ripetere? Non ho afferrato l'ultima parte."
+      },
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Oh, sorry! I talk too fast. Do you have the new designs?",
+        "it": "Oh, scusa! Parlo troppo veloce. Hai i nuovi design?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, I do. I sent them yesterday. I'd like to walk you through them, if that's OK.",
+        "it": "Sì. Li ho mandati ieri. Vorrei guidarti passo passo, se ti va bene."
+      },
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Sure, go on. I wanna see the menu first.",
+        "it": "Certo, continua. Voglio vedere prima il menu."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "So, the menu is kind of simple. Basically, it has five items, and they'll open on click.",
+        "it": "Dunque, il menu è piuttosto semplice. In pratica ha cinque voci e si apriranno al clic."
+      },
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Uh-huh. Hang on, you said they'll open on click? I thought they'd open on hover.",
+        "it": "Mmh. Aspetta, hai detto che si apriranno al clic? Pensavo si aprissero al passaggio del mouse."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Good point. For accessibility, click works better, because keyboard users can't hover.",
+        "it": "Giusto. Per l'accessibilità il clic funziona meglio, perché chi usa la tastiera non può passare con il mouse."
+      },
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Ah, I see. That makes sense. Fair enough, let's keep it.",
+        "it": "Ah, capisco. Ha senso. Giusto, teniamolo così."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Great. Sorry, the line is breaking up. Could you speak up a little?",
+        "it": "Ottimo. Scusa, la linea si interrompe. Puoi parlare un po' più forte?"
+      },
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Is that better? I'd already closed the window before you asked, but there's still some noise from the street.",
+        "it": "Va meglio? Avevo già chiuso la finestra prima che me lo chiedessi, ma c'è ancora un po' di rumore dalla strada."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Loud and clear now, thanks. So, if I understand correctly, you want the logo bigger?",
+        "it": "Ora forte e chiaro, grazie. Quindi, se ho capito bene, vuoi il logo più grande?"
+      },
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Exactly! Whaddaya think? Kinda too small, isn't it?",
+        "it": "Esatto! Che ne pensi? È un po' troppo piccolo, no?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "A bit, yes. I'll make it twenty percent bigger and send you a new version tomorrow.",
+        "it": "Un po', sì. Lo faccio più grande del venti per cento e ti mando una nuova versione domani."
+      },
+      {
+        "s": "A",
+        "name": "Fiona",
+        "en": "Brilliant. I gotta run, talk later! Thanks, Luca.",
+        "it": "Splendido. Devo scappare, a dopo! Grazie, Luca."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "Why is Fiona in a hurry?",
+      "options": [
+        "She has another call in ten minutes",
+        "She is on holiday",
+        "She has lost her phone"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Luca do when he doesn't understand?",
+      "options": [
+        "He ends the call",
+        "He asks her to say it again",
+        "He pretends to understand"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Why does Luca prefer the menu to open on click?",
+      "options": [
+        "It looks better",
+        "Keyboard users can't hover",
+        "It is faster to build"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What will Luca send tomorrow?",
+      "options": [
+        "A new version with a bigger logo",
+        "A new contract",
+        "The final invoice"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Scusa, non ho afferrato l'ultima parte.",
+      "en": "Sorry, I didn't catch the last part.",
+      "alt": [
+        "Sorry, I didn't catch the last bit.",
+        "Sorry, I didn't get the last part."
+      ]
+    },
+    {
+      "it": "Potresti parlare un po' più lentamente?",
+      "en": "Could you speak a bit more slowly?",
+      "alt": [
+        "Could you speak a little more slowly?",
+        "Could you speak a bit slower?"
+      ]
+    },
+    {
+      "it": "Se ho capito bene, volete un nuovo sito.",
+      "en": "If I understand correctly, you want a new website.",
+      "alt": [
+        "If I understood correctly, you want a new website.",
+        "So, if I understand correctly, you want a new site."
+      ]
+    },
+    {
+      "it": "Ho capito il senso, ma non tutti i dettagli.",
+      "en": "I got the gist, but not every detail.",
+      "alt": [
+        "I understood the gist, but not all the details.",
+        "I got the gist, but not all the details."
+      ]
+    },
+    {
+      "it": "Chiamo il cliente dopo pranzo.",
+      "en": "I'm going to call the client after lunch.",
+      "alt": [
+        "I'm gonna call the client after lunch.",
+        "I will call the client after lunch."
+      ]
+    },
+    {
+      "it": "Avevo già mandato il file quando hai chiamato.",
+      "en": "I'd already sent the file when you called.",
+      "alt": [
+        "I had already sent the file when you called.",
+        "I'd already sent the file when you rang."
+      ]
+    },
+    {
+      "it": "Scusa se interrompo, posso aggiungere una cosa?",
+      "en": "Sorry to interrupt, can I add something?",
+      "alt": [
+        "Sorry to interrupt, may I add something?",
+        "Sorry to interrupt, could I add something?"
+      ]
+    },
+    {
+      "it": "Scusa, ti ho sentito male.",
+      "en": "Sorry, I misheard you.",
+      "alt": [
+        "Sorry, I didn't hear you properly.",
+        "Sorry, I misheard that."
+      ]
+    },
+    {
+      "it": "La linea si interrompe. Puoi parlare più forte?",
+      "en": "The line is breaking up. Could you speak up?",
+      "alt": [
+        "The line is breaking up. Can you speak up?",
+        "The line keeps cutting out. Could you speak up?"
+      ]
+    },
+    {
+      "it": "Ha senso. Continua pure.",
+      "en": "That makes sense. Go on.",
+      "alt": [
+        "That makes sense. Please go on.",
+        "That makes sense. Carry on."
+      ]
+    },
+    {
+      "it": "Posso dirtelo in un altro modo?",
+      "en": "Can I rephrase that?",
+      "alt": [
+        "Let me rephrase that.",
+        "Can I say that in another way?"
+      ]
+    },
+    {
+      "it": "Ti sento forte e chiaro.",
+      "en": "I can hear you loud and clear.",
+      "alt": [
+        "I hear you loud and clear.",
+        "I can hear you clearly."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una breve mail di conferma dopo una chiamata con un cliente che parlava molto veloce. Ringrazia per la chiamata. Riassumi in tre punti quello che hai capito (usa 'if I understand correctly'). Chiedi di confermare se hai capito bene. Di' che hai avuto qualche difficoltà con la linea e chiedi, per favore, di scrivere le cifre importanti. Usa le forme complete (niente gonna o wanna), perché è una mail professionale. 6-8 righe.",
+    "taskEn": "Write a short confirmation email after a call with a client who spoke very fast. Thank him for the call. Summarise in three points what you understood (use 'if I understand correctly'). Ask him to confirm that you got it right. Say that the line was a bit difficult and ask him, please, to write down the important numbers. Use full forms (no gonna or wanna), because it is a professional email. 6-8 lines.",
+    "model": "Dear Mr Taylor,\nThank you for the call this morning. The line was a bit unclear at times, so I'd like to check that I understood everything.\nIf I understand correctly: first, you'd like the logo twenty percent bigger; second, the menu should open on click; third, you want a new version by Thursday.\nCould you please confirm that this is right? It would also help if you could write down the key numbers and dates.\nThank you very much.\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Sorry, could you say that again? I didn't catch it.",
+      "I'm gonna send it over after lunch.",
+      "Do you wanna jump on a quick call?",
+      "I gotta run, talk to you later.",
+      "I'd already sent it when you called.",
+      "They'll open the new form next week.",
+      "If I understand correctly, you want the logo bigger.",
+      "Sorry, the line is breaking up. Could you speak up?"
+    ],
+    "prompts": [
+      {
+        "en": "Which English accents are hard for you to understand?",
+        "it": "Quali accenti inglesi sono difficili da capire per te?",
+        "help": "Usa: I find the Scottish accent hard... I understand American English better because..."
+      },
+      {
+        "en": "What do you do when you don't understand someone on a call?",
+        "it": "Cosa fai quando non capisci qualcuno in chiamata?",
+        "help": "Usa: I ask them to repeat. I paraphrase. I ask them to write it in the chat."
+      },
+      {
+        "en": "How do you show that you are listening?",
+        "it": "Come mostri che stai ascoltando?",
+        "help": "Usa: I nod, I say 'I see', 'uh-huh', 'got it'. I make eye contact."
+      },
+      {
+        "en": "What are you going to do this weekend? Use gonna.",
+        "it": "Cosa farai questo fine settimana? Usa gonna.",
+        "help": "Inizia con: I'm gonna... and then I wanna..."
+      },
+      {
+        "en": "What do you do to improve your listening in English?",
+        "it": "Cosa fai per migliorare il tuo ascolto in inglese?",
+        "help": "Usa: I listen to podcasts, I watch videos with subtitles, I practise shadowing."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": [
+        "Active listening and accents",
+        "gonna, wanna, I'd, they'll"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi lavoriamo sull'ascolto. Impari perché l'inglese parlato sembra così veloce, e come capire le forme contratte che gli inglesi usano ogni giorno."
+        },
+        {
+          "lang": "en",
+          "text": "I'm gonna be quick. Do you wanna jump on a call?"
+        }
+      ]
+    },
+    {
+      "title": "Le contrazioni standard",
+      "show": [
+        "I'm, you're, he's, they'll",
+        "don't, can't, won't"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Le contrazioni standard si scrivono con l'apostrofo e vanno bene anche nelle mail normali. Le senti in ogni frase parlata."
+        },
+        {
+          "lang": "en",
+          "text": "They'll send the files tomorrow. I can't open the attachment."
+        }
+      ]
+    },
+    {
+      "title": "Attenzione a d e s",
+      "show": [
+        "I'd = would oppure had",
+        "he's = is oppure has"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "La forma I'd può voler dire I would oppure I had. La forma he's può voler dire he is oppure he has. Guarda la parola dopo. Dopo had o has c'è un participio passato."
+        },
+        {
+          "lang": "en",
+          "text": "I'd like a call. I'd already left. He's finished. He's finishing."
+        }
+      ]
+    },
+    {
+      "title": "Gonna, wanna, gotta",
+      "show": [
+        "gonna = going to",
+        "wanna = want to",
+        "gotta = got to"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Gonna, wanna e gotta sono forme informali del parlato. Impara a riconoscerle quando ascolti. Non scriverle nelle mail formali o nei report."
+        },
+        {
+          "lang": "en",
+          "text": "I'm gonna call him. I wanna check the file. I gotta go."
+        }
+      ]
+    },
+    {
+      "title": "Altre forme ridotte",
+      "show": [
+        "lemme = let me",
+        "dunno = don't know",
+        "kinda = kind of",
+        "whaddaya = what do you"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Ci sono altre forme ridotte. Lemme, dunno, kinda e whaddaya. Le trovi nei film e nelle chiamate informali. Ora sai che cosa nascondono."
+        },
+        {
+          "lang": "en",
+          "text": "Lemme see. I dunno. Whaddaya think? It's kinda slow."
+        }
+      ]
+    },
+    {
+      "title": "Come funziona il parlato veloce",
+      "show": [
+        "le parole si legano",
+        "le vocali deboli",
+        "cerca il senso, non ogni parola"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nel parlato veloce le parole si legano e le vocali deboli quasi spariscono. Non devi capire ogni parola. Cerca le parole forti, quelle che portano il senso."
+        },
+        {
+          "lang": "en",
+          "text": "Pick it up. Next week. What do you think?"
+        }
+      ]
+    },
+    {
+      "title": "Chiedere di ripetere",
+      "show": [
+        "Sorry, could you say that again?",
+        "Could you speak more slowly?",
+        "Could you spell that?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Non aver paura di chiedere di ripetere. Fa parte di ogni conversazione, anche tra madrelingua. Puoi anche riformulare per controllare di aver capito."
+        },
+        {
+          "lang": "en",
+          "text": "Sorry, I didn't catch that. If I understand correctly, you want a new form."
+        }
+      ]
+    },
+    {
+      "title": "Reagire mentre ascolti",
+      "show": [
+        "I see",
+        "Got it",
+        "That makes sense",
+        "Fair enough"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Mentre ascolti, reagisci con piccole frasi. Così chi parla sa che lo segui, e la conversazione scorre meglio."
+        },
+        {
+          "lang": "en",
+          "text": "I see. That makes sense. Fair enough. Got it, thanks."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "contrazioni standard",
+        "gonna, wanna, gotta solo parlato",
+        "chiedi di ripetere"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riepilogo. Le contrazioni standard vanno bene ovunque. Le forme come gonna e wanna solo nel parlato informale. Chiedi sempre di ripetere se non capisci. Ora fai gli esercizi e ascolta il dialogo più volte."
+        },
+        {
+          "lang": "en",
+          "text": "Sorry, could you say that again? Loud and clear now, thanks."
+        }
+      ]
+    }
+  ]
+}

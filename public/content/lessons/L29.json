@@ -1,0 +1,1225 @@
+{
+  "id": 29,
+  "week": 6,
+  "title": "LinkedIn e profilo professionale",
+  "titleEn": "LinkedIn and your profile",
+  "intro": "Oggi impari a scrivere un profilo LinkedIn in inglese: titolo, descrizione, esperienze, competenze e risultati. Impari anche a formare nuove parole con i suffissi (-tion, -ment, -ive, -able) e i prefissi (un-, re-, over-). Così con una parola che conosci ne capisci e ne usi molte altre.",
+  "goals": [
+    "Scrivere un headline e una sezione About chiari e professionali",
+    "Descrivere esperienze e risultati con verbi d'azione e numeri",
+    "Usare aggettivi di personalità adatti a un profilo professionale",
+    "Formare parole nuove con suffissi e prefissi comuni"
+  ],
+  "words": [
+    {
+      "en": "profile",
+      "pron": "pròufail",
+      "it": "profilo",
+      "type": "noun",
+      "ex": "I updated my profile last week.",
+      "exIt": "Ho aggiornato il mio profilo la settimana scorsa."
+    },
+    {
+      "en": "proficient",
+      "pron": "prafìscent",
+      "it": "competente, con buona padronanza",
+      "type": "adj",
+      "ex": "I am proficient in JavaScript and PHP.",
+      "exIt": "Ho una buona padronanza di JavaScript e PHP."
+    },
+    {
+      "en": "about section",
+      "pron": "abàut sèkscian",
+      "it": "sezione di presentazione",
+      "type": "noun",
+      "ex": "Keep your about section short and clear.",
+      "exIt": "Mantieni la tua sezione di presentazione breve e chiara."
+    },
+    {
+      "en": "visibility",
+      "pron": "vizibìliti",
+      "it": "visibilità",
+      "type": "noun",
+      "ex": "A clear headline improves your visibility.",
+      "exIt": "Un titolo chiaro migliora la tua visibilità."
+    },
+    {
+      "en": "endorsement",
+      "pron": "indòorsmant",
+      "it": "conferma di una competenza da parte di un contatto",
+      "type": "noun",
+      "ex": "I got three endorsements for web accessibility.",
+      "exIt": "Ho ricevuto tre conferme per l'accessibilità web."
+    },
+    {
+      "en": "testimonial",
+      "pron": "testimòunial",
+      "it": "testimonianza, referenza di un cliente",
+      "type": "noun",
+      "ex": "A client testimonial makes your profile more credible.",
+      "exIt": "La testimonianza di un cliente rende il tuo profilo più credibile."
+    },
+    {
+      "en": "to spearhead",
+      "pron": "spìarhed",
+      "it": "guidare, fare da traino",
+      "type": "verb",
+      "ex": "I spearheaded the move to a new design system.",
+      "exIt": "Ho guidato il passaggio a un nuovo design system."
+    },
+    {
+      "en": "expertise",
+      "pron": "ekspertìiz",
+      "it": "competenza specialistica",
+      "type": "noun",
+      "ex": "Her expertise is in web accessibility.",
+      "exIt": "La sua competenza specialistica è l'accessibilità web."
+    },
+    {
+      "en": "achievement",
+      "pron": "acìivmant",
+      "it": "risultato raggiunto, traguardo",
+      "type": "noun",
+      "ex": "Add your main achievements to each job.",
+      "exIt": "Aggiungi i tuoi risultati principali a ogni lavoro."
+    },
+    {
+      "en": "to quantify",
+      "pron": "kuòntifai",
+      "it": "quantificare, dare un numero",
+      "type": "verb",
+      "ex": "Try to quantify your impact with numbers.",
+      "exIt": "Prova a quantificare il tuo impatto con dei numeri."
+    },
+    {
+      "en": "career",
+      "pron": "karìar",
+      "it": "carriera",
+      "type": "noun",
+      "ex": "I started my career as a designer.",
+      "exIt": "Ho iniziato la carriera come designer."
+    },
+    {
+      "en": "network",
+      "pron": "nètuerk",
+      "it": "rete di contatti",
+      "type": "noun",
+      "ex": "Your network can help you find new clients.",
+      "exIt": "La tua rete di contatti può aiutarti a trovare nuovi clienti."
+    },
+    {
+      "en": "recruiter",
+      "pron": "rikrùutar",
+      "it": "selezionatore del personale",
+      "type": "noun",
+      "ex": "A recruiter contacted me on LinkedIn.",
+      "exIt": "Un selezionatore mi ha contattato su LinkedIn."
+    },
+    {
+      "en": "portfolio",
+      "pron": "portfòulio",
+      "it": "portfolio, raccolta dei lavori",
+      "type": "noun",
+      "ex": "My portfolio includes twenty websites.",
+      "exIt": "Il mio portfolio comprende venti siti."
+    },
+    {
+      "en": "certification",
+      "pron": "sartifikèiscian",
+      "it": "certificazione",
+      "type": "noun",
+      "ex": "I have a certification in web accessibility.",
+      "exIt": "Ho una certificazione in accessibilità web."
+    },
+    {
+      "en": "credentials",
+      "pron": "kridènscialz",
+      "it": "titoli e qualifiche",
+      "type": "noun",
+      "ex": "List your credentials near the top of your profile.",
+      "exIt": "Metti i tuoi titoli e le tue qualifiche in alto nel profilo."
+    },
+    {
+      "en": "seasoned",
+      "pron": "sìizond",
+      "it": "di grande esperienza, esperto",
+      "type": "adj",
+      "ex": "She is a seasoned project manager.",
+      "exIt": "È una project manager di grande esperienza."
+    },
+    {
+      "en": "keyword",
+      "pron": "kìiuerd",
+      "it": "parola chiave",
+      "type": "noun",
+      "ex": "Use keywords so recruiters can find you.",
+      "exIt": "Usa parole chiave così i selezionatori ti trovano."
+    },
+    {
+      "en": "management",
+      "pron": "mànidgment",
+      "it": "gestione, direzione",
+      "type": "noun",
+      "ex": "I have experience in project management.",
+      "exIt": "Ho esperienza nella gestione dei progetti."
+    },
+    {
+      "en": "improvement",
+      "pron": "imprùuvmant",
+      "it": "miglioramento",
+      "type": "noun",
+      "ex": "We achieved a big improvement in page speed.",
+      "exIt": "Abbiamo ottenuto un grande miglioramento nella velocità delle pagine."
+    },
+    {
+      "en": "to showcase",
+      "pron": "scòukeis",
+      "it": "mettere in mostra, presentare",
+      "type": "verb",
+      "ex": "Use your profile to showcase your best work.",
+      "exIt": "Usa il profilo per mettere in mostra i tuoi lavori migliori."
+    },
+    {
+      "en": "to contribute",
+      "pron": "kontrìbiut",
+      "it": "contribuire",
+      "type": "verb",
+      "ex": "I contributed to an open-source project.",
+      "exIt": "Ho contribuito a un progetto open source."
+    },
+    {
+      "en": "well-rounded",
+      "pron": "uèl ràundid",
+      "it": "completo, con competenze varie",
+      "type": "adj",
+      "ex": "Clients like well-rounded developers who also understand design.",
+      "exIt": "I clienti apprezzano gli sviluppatori completi, che capiscono anche di design."
+    },
+    {
+      "en": "to specialise",
+      "pron": "spèscialaiz",
+      "it": "specializzarsi",
+      "type": "verb",
+      "ex": "I specialise in accessible websites.",
+      "exIt": "Sono specializzato in siti accessibili."
+    },
+    {
+      "en": "credibility",
+      "pron": "kredibìliti",
+      "it": "credibilità",
+      "type": "noun",
+      "ex": "Certifications add credibility to your profile.",
+      "exIt": "Le certificazioni danno credibilità al tuo profilo."
+    },
+    {
+      "en": "to stand out",
+      "pron": "stànd àut",
+      "it": "distinguersi",
+      "type": "phrase",
+      "ex": "A good headline helps you stand out.",
+      "exIt": "Un buon titolo ti aiuta a distinguerti."
+    },
+    {
+      "en": "to reach out",
+      "pron": "rìic àut",
+      "it": "contattare, farsi avanti",
+      "type": "phrase",
+      "ex": "Feel free to reach out if you have questions.",
+      "exIt": "Contattami pure se hai domande."
+    },
+    {
+      "en": "to connect with",
+      "pron": "konèkt uìd",
+      "it": "entrare in contatto con",
+      "type": "phrase",
+      "ex": "I'd like to connect with you on LinkedIn.",
+      "exIt": "Mi piacerebbe entrare in contatto con te su LinkedIn."
+    },
+    {
+      "en": "to endorse",
+      "pron": "indòors",
+      "it": "confermare, sostenere",
+      "type": "verb",
+      "ex": "Thank you for endorsing my skills.",
+      "exIt": "Grazie per aver confermato le mie competenze."
+    },
+    {
+      "en": "thoughtful",
+      "pron": "tòotful",
+      "it": "attento, riflessivo",
+      "type": "adj",
+      "ex": "I try to write thoughtful comments on other people's posts.",
+      "exIt": "Cerco di scrivere commenti riflessivi sui post degli altri."
+    },
+    {
+      "en": "tenacious",
+      "pron": "tanèiscias",
+      "it": "tenace, che non molla",
+      "type": "adj",
+      "ex": "A tenacious tester finds the bugs others miss.",
+      "exIt": "Chi testa con tenacia trova i bug che gli altri non vedono."
+    },
+    {
+      "en": "creative",
+      "pron": "kriièitiv",
+      "it": "creativo",
+      "type": "adj",
+      "ex": "I am a creative problem-solver.",
+      "exIt": "Risolvo i problemi in modo creativo."
+    },
+    {
+      "en": "proactive",
+      "pron": "prouàktiv",
+      "it": "proattivo",
+      "type": "adj",
+      "ex": "I am proactive and suggest improvements.",
+      "exIt": "Sono proattivo e propongo miglioramenti."
+    },
+    {
+      "en": "adaptable",
+      "pron": "adàptabol",
+      "it": "adattabile",
+      "type": "adj",
+      "ex": "I am adaptable and learn new tools quickly.",
+      "exIt": "Sono adattabile e imparo in fretta strumenti nuovi."
+    },
+    {
+      "en": "detail-oriented",
+      "pron": "dìiteil òorientid",
+      "it": "attento ai dettagli",
+      "type": "adj",
+      "ex": "An auditor must be detail-oriented.",
+      "exIt": "Un auditor deve essere attento ai dettagli."
+    },
+    {
+      "en": "analytical",
+      "pron": "analìtikal",
+      "it": "analitico",
+      "type": "adj",
+      "ex": "I have an analytical mind.",
+      "exIt": "Ho una mente analitica."
+    },
+    {
+      "en": "curious",
+      "pron": "kiùarias",
+      "it": "curioso",
+      "type": "adj",
+      "ex": "I am curious and love learning.",
+      "exIt": "Sono curioso e amo imparare."
+    },
+    {
+      "en": "motivated",
+      "pron": "mòutiveitid",
+      "it": "motivato",
+      "type": "adj",
+      "ex": "I am a motivated and committed professional.",
+      "exIt": "Sono un professionista motivato e impegnato."
+    },
+    {
+      "en": "resourceful",
+      "pron": "risòorsful",
+      "it": "pieno di risorse, intraprendente",
+      "type": "adj",
+      "ex": "She is resourceful and always finds a solution.",
+      "exIt": "È intraprendente e trova sempre una soluzione."
+    },
+    {
+      "en": "organised",
+      "pron": "òrganaizd",
+      "it": "organizzato",
+      "type": "adj",
+      "ex": "I am very organised and meet every deadline.",
+      "exIt": "Sono molto organizzato e rispetto ogni scadenza."
+    },
+    {
+      "en": "hands-on",
+      "pron": "hàndz òn",
+      "it": "pratico, che lavora direttamente",
+      "type": "adj",
+      "ex": "I have hands-on experience with WordPress.",
+      "exIt": "Ho esperienza pratica con WordPress."
+    },
+    {
+      "en": "results-driven",
+      "pron": "rizàlts drìvan",
+      "it": "orientato ai risultati",
+      "type": "adj",
+      "ex": "I am a results-driven developer.",
+      "exIt": "Sono uno sviluppatore orientato ai risultati."
+    },
+    {
+      "en": "team player",
+      "pron": "tìim plèiar",
+      "it": "persona che lavora bene in squadra",
+      "type": "noun",
+      "ex": "I am a team player and enjoy sharing ideas.",
+      "exIt": "Lavoro bene in squadra e mi piace condividere idee."
+    },
+    {
+      "en": "problem-solver",
+      "pron": "pròblam sòlvar",
+      "it": "persona brava a risolvere problemi",
+      "type": "noun",
+      "ex": "Clients call me a calm problem-solver.",
+      "exIt": "I clienti mi definiscono una persona calma nel risolvere i problemi."
+    },
+    {
+      "en": "open to work",
+      "pron": "òupen tu uèrk",
+      "it": "disponibile a proposte di lavoro",
+      "type": "phrase",
+      "ex": "My profile shows that I'm open to work.",
+      "exIt": "Il mio profilo indica che sono disponibile a nuove opportunità."
+    },
+    {
+      "en": "unreliable",
+      "pron": "anrilàiabol",
+      "it": "inaffidabile",
+      "type": "adj",
+      "ex": "An unreliable tool can ruin the whole project.",
+      "exIt": "Uno strumento inaffidabile può rovinare l'intero progetto."
+    },
+    {
+      "en": "overqualified",
+      "pron": "ouvarkuòlifaid",
+      "it": "troppo qualificato",
+      "type": "adj",
+      "ex": "Some recruiters think I'm overqualified for junior roles.",
+      "exIt": "Alcuni selezionatori pensano che io sia troppo qualificato per ruoli junior."
+    },
+    {
+      "en": "to overcommit",
+      "pron": "ouvarkamìt",
+      "it": "prendersi troppi impegni",
+      "type": "verb",
+      "ex": "I try not to overcommit during busy months.",
+      "exIt": "Cerco di non prendere troppi impegni nei mesi pieni."
+    },
+    {
+      "en": "to rebrand",
+      "pron": "riibrànd",
+      "it": "cambiare l'immagine, rifare il marchio",
+      "type": "verb",
+      "ex": "I helped the company rebrand its website.",
+      "exIt": "Ho aiutato l'azienda a rifare l'immagine del sito."
+    },
+    {
+      "en": "unavailable",
+      "pron": "anavèilabol",
+      "it": "non disponibile",
+      "type": "adj",
+      "ex": "I will be unavailable until the tenth.",
+      "exIt": "Non sarò disponibile fino al dieci."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "career",
+      "it": "carriera",
+      "trap": "Attenzione allo spelling e alla pronuncia: career (karìar) è la carriera, carrier (kàriar) è il corriere o l'operatore telefonico."
+    },
+    {
+      "en": "to attend",
+      "it": "partecipare",
+      "trap": "Non vuol dire 'attendere' (= to wait). Esempio: 'I attended a webinar' = 'Ho partecipato a un webinar'."
+    },
+    {
+      "en": "sensible",
+      "it": "ragionevole",
+      "trap": "Non vuol dire 'sensibile' (= sensitive)."
+    },
+    {
+      "en": "curriculum",
+      "it": "programma di studi",
+      "trap": "Per il CV in inglese si dice CV (britannico) o résumé (americano), non 'curriculum'."
+    }
+  ],
+  "grammar": {
+    "title": "Formare le parole: suffissi e prefissi",
+    "explainIt": [
+      "In inglese puoi creare molte parole da una sola, aggiungendo un suffisso (in fondo alla parola) o un prefisso (all'inizio). Sapere come funzionano ti fa capire parole nuove senza il dizionario.",
+      "I suffissi più utili per i nomi sono -tion (o -sion), -ment, -ity e -ness. Da un verbo ottieni un nome: improve diventa improvement, collaborate diventa collaboration, manage diventa management. Da un aggettivo ottieni un nome: reliable diventa reliability, creative diventa creativity.",
+      "I suffissi più utili per gli aggettivi sono -ive, -able (o -ible), -ful, -al e -ous. Esempi: create diventa creative, rely diventa reliable, resource diventa resourceful, analysis diventa analytical. Il suffisso -able vuol dire 'che si può fare': adaptable, readable, accessible.",
+      "I prefissi cambiano il significato. Un- e in-, im-, dis- indicano il contrario: reliable diventa unreliable, available diventa unavailable, active diventa inactive. Re- vuol dire 'di nuovo': test diventa retest, brand diventa rebrand. Over- vuol dire 'troppo': overqualified, overcommit. Under- vuol dire 'troppo poco': underestimate.",
+      "Attenzione: non tutte le combinazioni esistono. Non puoi inventare unreliableness al posto di unreliability. Nel dubbio, controlla in un dizionario. Un trucco: i nomi in -tion e -ment spesso somigliano a quelli italiani in -zione e -mento (collaborazione, miglioramento).",
+      "Nei profili LinkedIn queste parole sono molto usate: results-driven, detail-oriented, hands-on. Sono aggettivi composti con il trattino. Prima del nome il trattino serve sempre: a detail-oriented developer. Dopo il verbo be, con queste parole il trattino di solito resta: 'I am detail-oriented'."
+    ],
+    "explainEn": [
+      "In English, you can create many words from one word by adding a suffix (at the end of the word) or a prefix (at the beginning). If you know how they work, you can understand new words without a dictionary.",
+      "The most useful suffixes for nouns are -tion (or -sion), -ment, -ity and -ness. From a verb you get a noun: improve becomes improvement, collaborate becomes collaboration, manage becomes management. From an adjective you get a noun: reliable becomes reliability, creative becomes creativity.",
+      "The most useful suffixes for adjectives are -ive, -able (or -ible), -ful, -al and -ous. Examples: create becomes creative, rely becomes reliable, resource becomes resourceful, analysis becomes analytical. The suffix -able means 'can be done': adaptable, readable, accessible.",
+      "Prefixes change the meaning. Un-, in-, im- and dis- show the opposite: reliable becomes unreliable, available becomes unavailable, active becomes inactive. Re- means 'again': test becomes retest, brand becomes rebrand. Over- means 'too much': overqualified, overcommit. Under- means 'too little': underestimate.",
+      "Be careful: not all combinations exist. You cannot invent unreliableness instead of unreliability. When you are not sure, check a dictionary. A tip: nouns ending in -tion and -ment often look like Italian nouns ending in -zione and -mento (collaborazione, miglioramento).",
+      "On LinkedIn these words are used a lot: results-driven, detail-oriented, hands-on. They are compound adjectives with a hyphen. Before a noun, the hyphen is always needed: a detail-oriented developer. After the verb be, these words usually keep the hyphen: 'I am detail-oriented'."
+    ],
+    "rules": [
+      {
+        "it": "Verbo + -tion / -ment diventa un nome che indica l'azione o il risultato.",
+        "en": "Verb + -tion / -ment becomes a noun for the action or the result.",
+        "form": "verbo + -tion / -ment",
+        "examples": [
+          {
+            "en": "I contributed to the improvement of the site. (improve)",
+            "it": "Ho contribuito al miglioramento del sito."
+          },
+          {
+            "en": "Collaboration with designers is essential. (collaborate)",
+            "it": "La collaborazione con i designer è essenziale."
+          },
+          {
+            "en": "She has experience in project management. (manage)",
+            "it": "Ha esperienza nella gestione dei progetti."
+          }
+        ]
+      },
+      {
+        "it": "Nome o verbo + -ive / -able / -ful / -al diventa un aggettivo.",
+        "en": "Noun or verb + -ive / -able / -ful / -al becomes an adjective.",
+        "form": "-ive, -able, -ful, -al",
+        "examples": [
+          {
+            "en": "I am a creative and proactive developer.",
+            "it": "Sono uno sviluppatore creativo e proattivo."
+          },
+          {
+            "en": "Our team is reliable and adaptable.",
+            "it": "Il nostro team è affidabile e adattabile."
+          },
+          {
+            "en": "She is resourceful and analytical.",
+            "it": "È intraprendente e analitica."
+          }
+        ]
+      },
+      {
+        "it": "Un-, in-, im-, dis- danno il contrario di un aggettivo o di un verbo.",
+        "en": "Un-, in-, im- and dis- give the opposite of an adjective or a verb.",
+        "form": "un- / in- / im- / dis- + parola",
+        "examples": [
+          {
+            "en": "The tool is unreliable.",
+            "it": "Lo strumento è inaffidabile."
+          },
+          {
+            "en": "I will be unavailable on Friday.",
+            "it": "Non sarò disponibile venerdì."
+          },
+          {
+            "en": "The page is inactive.",
+            "it": "La pagina è inattiva."
+          }
+        ]
+      },
+      {
+        "it": "Re- vuol dire 'di nuovo'; over- 'troppo'; under- 'troppo poco'.",
+        "en": "Re- means 'again'; over- means 'too much'; under- means 'too little'.",
+        "form": "re- / over- / under- + parola",
+        "examples": [
+          {
+            "en": "We will retest the site after the fixes.",
+            "it": "Testeremo di nuovo il sito dopo le correzioni."
+          },
+          {
+            "en": "Some recruiters think I'm overqualified.",
+            "it": "Alcuni selezionatori pensano che io sia troppo qualificato."
+          },
+          {
+            "en": "We underestimated the time needed.",
+            "it": "Abbiamo sottovalutato il tempo necessario."
+          }
+        ]
+      },
+      {
+        "it": "Gli aggettivi composti prima del nome vogliono il trattino: detail-oriented developer. Dopo il verbo be, con queste parole il trattino di solito resta.",
+        "en": "Compound adjectives before a noun need a hyphen: detail-oriented developer. After the verb be, these words usually keep the hyphen.",
+        "form": "aggettivo-composto + nome",
+        "examples": [
+          {
+            "en": "I am a results-driven developer.",
+            "it": "Sono uno sviluppatore orientato ai risultati."
+          },
+          {
+            "en": "She is detail-oriented.",
+            "it": "È attenta ai dettagli."
+          }
+        ]
+      }
+    ],
+    "tip": "Quando trovi una parola nuova, guarda la fine e l'inizio. Se finisce in -able significa 'che si può fare'. Se inizia con un- è il contrario. Così indovini il significato prima di aprire il dizionario.",
+    "mistakes": [
+      {
+        "wrong": "I have experience in the manage of projects.",
+        "right": "I have experience in the management of projects.",
+        "why": "dopo the serve un nome: management, non il verbo"
+      },
+      {
+        "wrong": "I am an adapt person.",
+        "right": "I am an adaptable person.",
+        "why": "serve l'aggettivo: adaptable"
+      },
+      {
+        "wrong": "The tool is disreliable.",
+        "right": "The tool is unreliable.",
+        "why": "con reliable il prefisso giusto è un-"
+      },
+      {
+        "wrong": "I am detail oriented developer.",
+        "right": "I am a detail-oriented developer.",
+        "why": "manca l'articolo a e il trattino"
+      },
+      {
+        "wrong": "I am interesting in accessibility.",
+        "right": "I am interested in accessibility.",
+        "why": "con una persona si usa -ed (interested), con una cosa -ing (interesting)"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I contributed to the ___ (improve) of the site. Write the noun.",
+      "a": [
+        "improvement"
+      ],
+      "hint": "verbo + -ment",
+      "explain": "Improve + ment = improvement."
+    },
+    {
+      "q": "She has experience in project ___ (manage). Write the noun.",
+      "a": [
+        "management"
+      ],
+      "hint": "verbo + -ment",
+      "explain": "Manage + ment = management."
+    },
+    {
+      "q": "___ (collaborate) with designers is essential. Write the noun.",
+      "a": [
+        "collaboration"
+      ],
+      "hint": "-tion",
+      "explain": "Collaborate diventa collaboration."
+    },
+    {
+      "q": "I am a ___ (create) developer. Write the adjective.",
+      "a": [
+        "creative"
+      ],
+      "hint": "-ive",
+      "explain": "Create diventa creative."
+    },
+    {
+      "q": "Our team is ___ (rely) and adaptable. Write the adjective.",
+      "a": [
+        "reliable"
+      ],
+      "hint": "-able",
+      "explain": "Rely diventa reliable."
+    },
+    {
+      "q": "The tool is ___ (opposite of reliable).",
+      "a": [
+        "unreliable"
+      ],
+      "hint": "prefisso del contrario",
+      "explain": "Un- + reliable."
+    },
+    {
+      "q": "I will be ___ (opposite of available) on Friday.",
+      "a": [
+        "unavailable"
+      ],
+      "hint": "prefisso del contrario",
+      "explain": "Un- + available."
+    },
+    {
+      "q": "We will ___ (test again) the site next week.",
+      "a": [
+        "retest"
+      ],
+      "hint": "prefisso 'di nuovo'",
+      "explain": "Re- + test."
+    },
+    {
+      "q": "Some recruiters think I'm ___ (too qualified).",
+      "a": [
+        "overqualified"
+      ],
+      "hint": "prefisso 'troppo'",
+      "explain": "Over- + qualified."
+    },
+    {
+      "q": "I am a ___ (results / driven) developer. Use a hyphen.",
+      "a": [
+        "results-driven"
+      ],
+      "hint": "aggettivo composto",
+      "explain": "Results-driven."
+    },
+    {
+      "q": "I am ___ (interest) in accessibility.",
+      "a": [
+        "interested"
+      ],
+      "hint": "una persona",
+      "explain": "Persone: -ed (interested)."
+    },
+    {
+      "q": "She is very ___ (resource) and always finds a solution.",
+      "a": [
+        "resourceful"
+      ],
+      "hint": "-ful",
+      "explain": "Resource + ful = resourceful."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Headline e About",
+      "en": "Web developer and accessibility specialist | Helping teams build inclusive websites",
+      "it": "Sviluppatore web e specialista di accessibilità | Aiuto i team a creare siti inclusivi",
+      "note": "Headline tipico: ruolo, specializzazione, valore"
+    },
+    {
+      "group": "Headline e About",
+      "en": "I help companies build websites that everyone can use.",
+      "it": "Aiuto le aziende a creare siti che tutti possono usare."
+    },
+    {
+      "group": "Headline e About",
+      "en": "I specialise in web accessibility and WCAG audits.",
+      "it": "Sono specializzato in accessibilità web e audit WCAG."
+    },
+    {
+      "group": "Headline e About",
+      "en": "With ten years of experience, I combine technical skills with a clear communication style.",
+      "it": "Con dieci anni di esperienza, unisco competenze tecniche e uno stile di comunicazione chiaro."
+    },
+    {
+      "group": "Headline e About",
+      "en": "I am open to new opportunities in remote roles.",
+      "it": "Sono aperto a nuove opportunità in ruoli da remoto."
+    },
+    {
+      "group": "Descrivere l'esperienza",
+      "en": "I was responsible for the accessibility of all client projects.",
+      "it": "Ero responsabile dell'accessibilità di tutti i progetti dei clienti."
+    },
+    {
+      "group": "Descrivere l'esperienza",
+      "en": "I led a team of four developers.",
+      "it": "Ho guidato un team di quattro sviluppatori."
+    },
+    {
+      "group": "Descrivere l'esperienza",
+      "en": "I collaborated with designers and project managers.",
+      "it": "Ho collaborato con designer e project manager."
+    },
+    {
+      "group": "Descrivere l'esperienza",
+      "en": "I contributed to the redesign of the company website.",
+      "it": "Ho contribuito al restyling del sito aziendale."
+    },
+    {
+      "group": "Descrivere l'esperienza",
+      "en": "I developed and maintained more than thirty websites.",
+      "it": "Ho sviluppato e gestito più di trenta siti."
+    },
+    {
+      "group": "Risultati e numeri",
+      "en": "I reduced page load time by forty percent.",
+      "it": "Ho ridotto i tempi di caricamento delle pagine del quaranta per cento."
+    },
+    {
+      "group": "Risultati e numeri",
+      "en": "My work increased mobile conversions by twenty percent.",
+      "it": "Il mio lavoro ha aumentato le conversioni da mobile del venti per cento."
+    },
+    {
+      "group": "Risultati e numeri",
+      "en": "I delivered fifteen projects on time and within budget.",
+      "it": "Ho consegnato quindici progetti in tempo e nel budget."
+    },
+    {
+      "group": "Risultati e numeri",
+      "en": "I trained more than fifty people in web accessibility.",
+      "it": "Ho formato più di cinquanta persone in accessibilità web."
+    },
+    {
+      "group": "Personalità",
+      "en": "I am a detail-oriented and reliable professional.",
+      "it": "Sono un professionista attento ai dettagli e affidabile."
+    },
+    {
+      "group": "Personalità",
+      "en": "I am curious, proactive and always learning.",
+      "it": "Sono curioso, proattivo e non smetto mai di imparare."
+    },
+    {
+      "group": "Personalità",
+      "en": "I enjoy working in a team and sharing knowledge.",
+      "it": "Mi piace lavorare in squadra e condividere conoscenze."
+    },
+    {
+      "group": "Personalità",
+      "en": "Clients describe me as calm, organised and resourceful.",
+      "it": "I clienti mi descrivono come calmo, organizzato e intraprendente."
+    },
+    {
+      "group": "Contattare e rispondere",
+      "en": "I'd like to connect with you.",
+      "it": "Mi piacerebbe entrare in contatto con te."
+    },
+    {
+      "group": "Contattare e rispondere",
+      "en": "I came across your profile and was impressed by your work.",
+      "it": "Ho visto il tuo profilo e il tuo lavoro mi ha colpito."
+    },
+    {
+      "group": "Contattare e rispondere",
+      "en": "Thank you for connecting. I look forward to staying in touch.",
+      "it": "Grazie per il collegamento. Spero di restare in contatto."
+    },
+    {
+      "group": "Contattare e rispondere",
+      "en": "Feel free to reach out if you have any questions.",
+      "it": "Contattami pure per qualsiasi domanda."
+    },
+    {
+      "group": "Contattare e rispondere",
+      "en": "Thank you for the endorsement. I really appreciate it.",
+      "it": "Grazie per la conferma delle competenze. Lo apprezzo molto."
+    },
+    {
+      "group": "Raccomandazioni e post",
+      "en": "I'm happy to share that I have started a new role.",
+      "it": "Sono felice di annunciare che ho iniziato un nuovo incarico."
+    },
+    {
+      "group": "Raccomandazioni e post",
+      "en": "I'd be happy to write you a recommendation.",
+      "it": "Scriverò volentieri una raccomandazione per te."
+    }
+  ],
+  "dialogue": {
+    "title": "Improving a LinkedIn profile",
+    "context": "Luca chiede un parere a Clara, una collega che lavora nelle risorse umane. Vuole migliorare il suo profilo LinkedIn per trovare nuovi clienti.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Clara, could you look at my LinkedIn profile? I want more clients to find me.",
+        "it": "Clara, puoi guardare il mio profilo LinkedIn? Voglio che più clienti mi trovino."
+      },
+      {
+        "s": "B",
+        "name": "Clara",
+        "en": "Sure. Your headline just says 'Web developer'. That doesn't help you stand out.",
+        "it": "Certo. Il tuo titolo dice solo 'Web developer'. Non ti aiuta a distinguerti."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "What should I write?",
+        "it": "Cosa dovrei scrivere?"
+      },
+      {
+        "s": "B",
+        "name": "Clara",
+        "en": "Add your specialisation. For example, 'Web developer and accessibility specialist'.",
+        "it": "Aggiungi la tua specializzazione. Per esempio 'Web developer and accessibility specialist'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Good idea. And the about section?",
+        "it": "Buona idea. E la sezione About?"
+      },
+      {
+        "s": "B",
+        "name": "Clara",
+        "en": "It is too long and too general. Start with what you do and who you help.",
+        "it": "È troppo lunga e troppo generica. Inizia con cosa fai e chi aiuti."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Something like 'I help companies build websites that everyone can use'?",
+        "it": "Qualcosa come 'Aiuto le aziende a creare siti che tutti possono usare'?"
+      },
+      {
+        "s": "B",
+        "name": "Clara",
+        "en": "Exactly. Then add your achievements, with numbers.",
+        "it": "Esatto. Poi aggiungi i tuoi risultati, con dei numeri."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "I reduced page load time by forty percent for one client.",
+        "it": "Per un cliente ho ridotto i tempi di caricamento del quaranta per cento."
+      },
+      {
+        "s": "B",
+        "name": "Clara",
+        "en": "That's perfect. Put it in your profile. And ask clients for a testimonial.",
+        "it": "Perfetto. Mettilo nel profilo. E chiedi ai clienti una testimonianza."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "What about the skills section? I have thirty skills listed.",
+        "it": "E la sezione competenze? Ne ho elencate trenta."
+      },
+      {
+        "s": "B",
+        "name": "Clara",
+        "en": "Too many. Keep the ten that matter, and ask colleagues to endorse them.",
+        "it": "Troppe. Tieni le dieci che contano e chiedi ai colleghi di confermarle."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Should I describe my personality?",
+        "it": "Devo descrivere la mia personalità?"
+      },
+      {
+        "s": "B",
+        "name": "Clara",
+        "en": "Yes, briefly. Words like reliable, detail-oriented and proactive work well.",
+        "it": "Sì, in breve. Parole come reliable, detail-oriented e proactive funzionano bene."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Great. I'll update it tonight and ask you to check it again.",
+        "it": "Ottimo. Lo aggiorno stasera e ti chiedo di ricontrollarlo."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What is wrong with Luca's headline?",
+      "options": [
+        "It is too long",
+        "It does not help him stand out",
+        "It has no job title"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "How should the About section start?",
+      "options": [
+        "With his hobbies",
+        "With his age",
+        "With what he does and who he helps"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What does Clara say about the skills section?",
+      "options": [
+        "Keep only the ten that matter",
+        "Add more skills",
+        "Remove it"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which achievement does Luca mention?",
+      "options": [
+        "He reduced page load time by forty percent",
+        "He doubled sales",
+        "He trained fifty people"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Sono uno sviluppatore web specializzato in accessibilità.",
+      "en": "I am a web developer specialising in accessibility.",
+      "alt": [
+        "I'm a web developer who specialises in accessibility.",
+        "I am a web developer specialised in accessibility."
+      ]
+    },
+    {
+      "it": "Ho ridotto i tempi di caricamento del quaranta per cento.",
+      "en": "I reduced page load time by forty percent.",
+      "alt": [
+        "I reduced loading times by forty percent.",
+        "I cut page load time by forty percent."
+      ]
+    },
+    {
+      "it": "Ho guidato un team di quattro sviluppatori.",
+      "en": "I led a team of four developers.",
+      "alt": [
+        "I managed a team of four developers.",
+        "I led a four-person development team."
+      ]
+    },
+    {
+      "it": "Sono attento ai dettagli e affidabile.",
+      "en": "I am detail-oriented and reliable.",
+      "alt": [
+        "I'm detail-oriented and reliable.",
+        "I pay attention to detail and I'm reliable."
+      ]
+    },
+    {
+      "it": "Mi piacerebbe entrare in contatto con te su LinkedIn.",
+      "en": "I'd like to connect with you on LinkedIn.",
+      "alt": [
+        "I would like to connect with you on LinkedIn.",
+        "I'd love to connect with you on LinkedIn."
+      ]
+    },
+    {
+      "it": "Ho esperienza nella gestione dei progetti.",
+      "en": "I have experience in project management.",
+      "alt": [
+        "I have experience in managing projects.",
+        "I have project management experience."
+      ]
+    },
+    {
+      "it": "Grazie per aver confermato le mie competenze.",
+      "en": "Thank you for endorsing my skills.",
+      "alt": [
+        "Thanks for endorsing my skills.",
+        "Thank you for the endorsements."
+      ]
+    },
+    {
+      "it": "Collaboro con designer e redattori.",
+      "en": "I collaborate with designers and writers.",
+      "alt": [
+        "I work with designers and writers.",
+        "I collaborate with designers and copywriters."
+      ]
+    },
+    {
+      "it": "Contattami pure per qualsiasi domanda.",
+      "en": "Feel free to reach out if you have any questions.",
+      "alt": [
+        "Please feel free to reach out with any questions.",
+        "Feel free to contact me if you have any questions."
+      ]
+    },
+    {
+      "it": "Non sarò disponibile fino a lunedì.",
+      "en": "I will be unavailable until Monday.",
+      "alt": [
+        "I won't be available until Monday.",
+        "I'll be unavailable until Monday."
+      ]
+    },
+    {
+      "it": "Ho contribuito al restyling del sito aziendale.",
+      "en": "I contributed to the redesign of the company website.",
+      "alt": [
+        "I contributed to redesigning the company website.",
+        "I contributed to the redesign of the company's website."
+      ]
+    },
+    {
+      "it": "Sono aperto a nuove opportunità in ruoli da remoto.",
+      "en": "I am open to new opportunities in remote roles.",
+      "alt": [
+        "I'm open to new opportunities in remote roles.",
+        "I'm open to new remote opportunities."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi la sezione About del tuo profilo LinkedIn (100-120 parole). Inizia con cosa fai e chi aiuti. Poi descrivi la tua esperienza, due risultati con numeri, tre aggettivi di personalità e come essere contattato. Usa almeno quattro parole formate con suffissi o prefissi (improvement, reliable, collaboration, unavailable...).",
+    "taskEn": "Write the About section of your LinkedIn profile (100-120 words). Start with what you do and who you help. Then describe your experience, two results with numbers, three personality adjectives and how to contact you. Use at least four words formed with suffixes or prefixes (improvement, reliable, collaboration, unavailable...).",
+    "model": "I help companies build websites that everyone can use.\nI am a web developer and accessibility specialist with ten years of experience. I work as a freelancer with agencies and public organisations, and I am responsible for audits, remediation and training.\nRecent achievements: I reduced page load time by forty percent for an online shop, and I trained more than fifty people in web accessibility.\nColleagues describe me as reliable, detail-oriented and proactive. I enjoy close collaboration with designers and writers, and I see every project as a chance for improvement.\nI am open to new projects. Feel free to reach out if you would like to work together."
+  },
+  "speaking": {
+    "shadowing": [
+      "I help companies build websites that everyone can use.",
+      "I specialise in web accessibility and WCAG audits.",
+      "I led a team of four developers.",
+      "I reduced page load time by forty percent.",
+      "Clients describe me as calm, organised and resourceful.",
+      "I'd like to connect with you on LinkedIn.",
+      "Thank you for endorsing my skills.",
+      "Feel free to reach out if you have any questions."
+    ],
+    "prompts": [
+      {
+        "en": "Introduce yourself in thirty seconds, as in a LinkedIn headline.",
+        "it": "Presentati in trenta secondi, come in un headline LinkedIn.",
+        "help": "Inizia con: I am a... and I help..."
+      },
+      {
+        "en": "Describe your biggest professional achievement.",
+        "it": "Descrivi il tuo risultato professionale più grande.",
+        "help": "Usa: I reduced... / I led... / I delivered..."
+      },
+      {
+        "en": "Which three adjectives describe you at work, and why?",
+        "it": "Quali tre aggettivi ti descrivono al lavoro e perché?",
+        "help": "Usa: reliable, proactive, detail-oriented..."
+      },
+      {
+        "en": "How do you use your network to find clients?",
+        "it": "Come usi la tua rete per trovare clienti?",
+        "help": "Usa: I connect with... / I reach out to..."
+      },
+      {
+        "en": "Explain the difference between 'interested' and 'interesting'.",
+        "it": "Spiega la differenza tra 'interested' e 'interesting'.",
+        "help": "Persone: -ed. Cose: -ing."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: il profilo professionale",
+      "show": [
+        "LinkedIn and your profile",
+        "headline, about, skills",
+        "suffissi e prefissi"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione ventinove. Oggi scrivi un profilo LinkedIn in inglese e impari a formare nuove parole con suffissi e prefissi."
+        },
+        {
+          "lang": "en",
+          "text": "I help companies build websites that everyone can use."
+        }
+      ]
+    },
+    {
+      "title": "Headline e About",
+      "show": [
+        "Headline: ruolo + specializzazione",
+        "About: cosa fai e chi aiuti",
+        "numeri e risultati"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "L'headline è la riga sotto il tuo nome. Deve dire chi sei e come aiuti. La sezione About inizia con cosa fai e chi aiuti, poi porta risultati con numeri."
+        },
+        {
+          "lang": "en",
+          "text": "Web developer and accessibility specialist. I reduced page load time by forty percent."
+        }
+      ]
+    },
+    {
+      "title": "Suffissi per i nomi",
+      "show": [
+        "improve - improvement",
+        "collaborate - collaboration",
+        "manage - management"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Con i suffissi tion e ment trasformi un verbo in un nome. Improve diventa improvement. Collaborate diventa collaboration. Manage diventa management."
+        },
+        {
+          "lang": "en",
+          "text": "I have experience in project management. I enjoy collaboration with designers."
+        }
+      ]
+    },
+    {
+      "title": "Suffissi per gli aggettivi",
+      "show": [
+        "create - creative",
+        "rely - reliable",
+        "resource - resourceful"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Con ive, able e ful crei aggettivi. Create diventa creative. Rely diventa reliable. Resource diventa resourceful. Sono molto usati per descrivere la personalità."
+        },
+        {
+          "lang": "en",
+          "text": "I am creative, reliable and resourceful."
+        }
+      ]
+    },
+    {
+      "title": "Prefissi: un, re, over",
+      "show": [
+        "un- = il contrario",
+        "re- = di nuovo",
+        "over- = troppo"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il prefisso un indica il contrario. Il prefisso re vuol dire di nuovo. Il prefisso over vuol dire troppo. Così capisci unavailable, retest e overqualified."
+        },
+        {
+          "lang": "en",
+          "text": "I will be unavailable on Friday. We will retest the site. Some people think I am overqualified."
+        }
+      ]
+    },
+    {
+      "title": "Parole composte e interested contro interesting",
+      "show": [
+        "detail-oriented, results-driven",
+        "interested = persona",
+        "interesting = cosa"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Parole come detail-oriented e results-driven si scrivono con il trattino. Attenzione anche a interested e interesting. Una persona è interested. Una cosa è interesting."
+        },
+        {
+          "lang": "en",
+          "text": "I am interested in accessibility. Accessibility is an interesting subject."
+        }
+      ]
+    },
+    {
+      "title": "Contattare e rispondere",
+      "show": [
+        "I'd like to connect with you",
+        "Feel free to reach out",
+        "Thank you for the endorsement"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Queste frasi servono per i messaggi di contatto. Sii breve, gentile e preciso. Dì perché vuoi entrare in contatto."
+        },
+        {
+          "lang": "en",
+          "text": "I came across your profile and was impressed by your work. I'd like to connect with you."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "headline chiaro",
+        "risultati con numeri",
+        "suffissi e prefissi"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Scrivi un headline chiaro. Porta risultati con numeri. Usa i suffissi per formare nomi e aggettivi. Usa i prefissi per il contrario, la ripetizione e l'eccesso. Ora scrivi il tuo About."
+        },
+        {
+          "lang": "en",
+          "text": "Feel free to reach out if you have any questions."
+        }
+      ]
+    }
+  ]
+}

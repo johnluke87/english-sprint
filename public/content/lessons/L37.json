@@ -1,0 +1,1259 @@
+{
+  "id": 37,
+  "week": 8,
+  "title": "Colloquio di lavoro: punti di forza",
+  "titleEn": "Job interview: strengths",
+  "intro": "Oggi impari a parlare dei tuoi punti di forza, dei tuoi punti deboli e dei tuoi obiettivi in un colloquio. Imparerai anche gli aggettivi con la preposizione giusta, come good at, responsible for, keen on. Ti serve per ogni colloquio, ma anche per presentarti a un nuovo cliente.",
+  "goals": [
+    "Descrivere i tuoi punti di forza con aggettivi precisi e un esempio concreto",
+    "Parlare di un punto debole in modo onesto e positivo",
+    "Usare bene gli aggettivi con preposizione: good at, keen on, responsible for",
+    "Spiegare la tua motivazione e i tuoi obiettivi di carriera"
+  ],
+  "words": [
+    {
+      "en": "trait",
+      "pron": "trèit",
+      "it": "tratto del carattere",
+      "type": "noun",
+      "ex": "Patience is a useful trait when you work with clients.",
+      "exIt": "La pazienza è un tratto utile quando lavori con i clienti."
+    },
+    {
+      "en": "meticulous",
+      "pron": "metìkiulas",
+      "it": "meticoloso, molto preciso",
+      "type": "adj",
+      "ex": "I am meticulous when I check the code before a release.",
+      "exIt": "Sono meticoloso quando controllo il codice prima di un rilascio."
+    },
+    {
+      "en": "versatile",
+      "pron": "vèrsatail",
+      "it": "versatile, poliedrico",
+      "type": "adj",
+      "ex": "I am versatile: I do design, front end and testing.",
+      "exIt": "Sono versatile: faccio design, front end e test."
+    },
+    {
+      "en": "patient",
+      "pron": "pèiscent",
+      "it": "paziente",
+      "type": "adj",
+      "ex": "I stay patient even when a client changes their mind.",
+      "exIt": "Resto paziente anche quando un cliente cambia idea."
+    },
+    {
+      "en": "enthusiastic",
+      "pron": "inziuziàstik",
+      "it": "entusiasta",
+      "type": "adj",
+      "ex": "I am enthusiastic about this opportunity.",
+      "exIt": "Sono entusiasta di questa opportunità."
+    },
+    {
+      "en": "determined",
+      "pron": "ditèrmind",
+      "it": "determinato, tenace",
+      "type": "adj",
+      "ex": "I am determined to finish what I start.",
+      "exIt": "Sono determinato a finire ciò che comincio."
+    },
+    {
+      "en": "self-taught",
+      "pron": "sèlf tòot",
+      "it": "autodidatta",
+      "type": "adj",
+      "ex": "I am self-taught: I learned JavaScript from online courses.",
+      "exIt": "Sono autodidatta: ho imparato JavaScript con corsi online."
+    },
+    {
+      "en": "fast learner",
+      "pron": "fàast lèrner",
+      "it": "persona che impara in fretta",
+      "type": "noun",
+      "ex": "I am a fast learner, so I can start quickly.",
+      "exIt": "Imparo in fretta, quindi posso cominciare subito."
+    },
+    {
+      "en": "attention to detail",
+      "pron": "atènscen tu dìteil",
+      "it": "attenzione ai dettagli",
+      "type": "phrase",
+      "ex": "Attention to detail is essential in accessibility work.",
+      "exIt": "L'attenzione ai dettagli è essenziale nel lavoro sull'accessibilità."
+    },
+    {
+      "en": "to thrive",
+      "pron": "tràiv",
+      "it": "stare bene, dare il meglio",
+      "type": "verb",
+      "ex": "I thrive in a fast and changing environment.",
+      "exIt": "Do il meglio in un ambiente veloce e in continuo cambiamento."
+    },
+    {
+      "en": "to overcome",
+      "pron": "ouvercàm",
+      "it": "superare (un ostacolo)",
+      "type": "verb",
+      "ex": "I overcame my fear of presenting by practising a lot.",
+      "exIt": "Ho superato la paura di presentare esercitandomi molto."
+    },
+    {
+      "en": "to excel",
+      "pron": "eksèl",
+      "it": "eccellere",
+      "type": "verb",
+      "ex": "I excel at explaining technical topics to non-technical people.",
+      "exIt": "Eccello nello spiegare argomenti tecnici a chi non è tecnico."
+    },
+    {
+      "en": "to aim",
+      "pron": "èim",
+      "it": "puntare a, avere come obiettivo",
+      "type": "verb",
+      "ex": "In five years I aim to lead a small team.",
+      "exIt": "Tra cinque anni punto a guidare un piccolo team."
+    },
+    {
+      "en": "goal",
+      "pron": "gòul",
+      "it": "obiettivo",
+      "type": "noun",
+      "ex": "My goal is to become a senior developer.",
+      "exIt": "Il mio obiettivo è diventare uno sviluppatore senior."
+    },
+    {
+      "en": "ambition",
+      "pron": "ambìscen",
+      "it": "ambizione",
+      "type": "noun",
+      "ex": "My ambition is to specialise in accessibility.",
+      "exIt": "La mia ambizione è specializzarmi in accessibilità."
+    },
+    {
+      "en": "motivation",
+      "pron": "moutivèiscen",
+      "it": "motivazione",
+      "type": "noun",
+      "ex": "My motivation comes from building useful products.",
+      "exIt": "La mia motivazione viene dal costruire prodotti utili."
+    },
+    {
+      "en": "career path",
+      "pron": "karìer pàat",
+      "it": "percorso di carriera",
+      "type": "noun",
+      "ex": "This job fits my career path very well.",
+      "exIt": "Questo lavoro si adatta molto bene al mio percorso di carriera."
+    },
+    {
+      "en": "growth",
+      "pron": "gròut",
+      "it": "crescita",
+      "type": "noun",
+      "ex": "I am looking for a company that supports personal growth.",
+      "exIt": "Cerco un'azienda che sostenga la crescita personale."
+    },
+    {
+      "en": "willing to",
+      "pron": "uìling tu",
+      "it": "disposto a",
+      "type": "phrase",
+      "ex": "I am willing to travel two days a month.",
+      "exIt": "Sono disposto a viaggiare due giorni al mese."
+    },
+    {
+      "en": "eager to",
+      "pron": "ìiger tu",
+      "it": "desideroso di, impaziente di",
+      "type": "phrase",
+      "ex": "I am eager to join a team like yours.",
+      "exIt": "Non vedo l'ora di entrare in un team come il vostro."
+    },
+    {
+      "en": "independent",
+      "pron": "indipèndent",
+      "it": "autonomo",
+      "type": "adj",
+      "ex": "I am independent, but I ask for help when I need it.",
+      "exIt": "Sono autonomo, ma chiedo aiuto quando serve."
+    },
+    {
+      "en": "under pressure",
+      "pron": "ànder prèscer",
+      "it": "sotto pressione",
+      "type": "phrase",
+      "ex": "I stay calm under pressure.",
+      "exIt": "Resto calmo sotto pressione."
+    },
+    {
+      "en": "open to",
+      "pron": "òupen tu",
+      "it": "aperto a",
+      "type": "phrase",
+      "ex": "I am open to feedback and new ideas.",
+      "exIt": "Sono aperto ai feedback e alle nuove idee."
+    },
+    {
+      "en": "dependable",
+      "pron": "dipèndabol",
+      "it": "affidabile, su cui si può contare",
+      "type": "adj",
+      "ex": "My manager says I am a dependable colleague.",
+      "exIt": "Il mio capo dice che sono un collega su cui si può contare."
+    },
+    {
+      "en": "diligent",
+      "pron": "dìlidgent",
+      "it": "diligente, scrupoloso",
+      "type": "adj",
+      "ex": "She is a diligent worker who always checks her results.",
+      "exIt": "È una lavoratrice scrupolosa che controlla sempre i risultati."
+    },
+    {
+      "en": "perfectionist",
+      "pron": "perfècscionist",
+      "it": "perfezionista",
+      "type": "noun",
+      "ex": "I am a bit of a perfectionist, so I double-check everything.",
+      "exIt": "Sono un po' perfezionista, quindi ricontrollo tutto."
+    },
+    {
+      "en": "approachable",
+      "pron": "apròuciabol",
+      "it": "alla mano, facile da avvicinare",
+      "type": "adj",
+      "ex": "My boss is very approachable, so I can ask her anything.",
+      "exIt": "Il mio capo è molto alla mano, quindi posso chiederle qualsiasi cosa."
+    },
+    {
+      "en": "assertive",
+      "pron": "asèrtiv",
+      "it": "deciso, che sa farsi valere",
+      "type": "adj",
+      "ex": "I am assertive, but I am never rude.",
+      "exIt": "Sono deciso, ma non sono mai scortese."
+    },
+    {
+      "en": "persistent",
+      "pron": "persìstent",
+      "it": "tenace, costante",
+      "type": "adj",
+      "ex": "I am persistent: I do not stop until the bug is fixed.",
+      "exIt": "Sono tenace: non mi fermo finché il bug non è risolto."
+    },
+    {
+      "en": "methodical",
+      "pron": "metòdikal",
+      "it": "metodico",
+      "type": "adj",
+      "ex": "I am methodical and I work through a checklist.",
+      "exIt": "Sono metodico e lavoro seguendo una lista di controllo."
+    },
+    {
+      "en": "easy-going",
+      "pron": "ìizi gòuing",
+      "it": "tranquillo, di carattere facile",
+      "type": "adj",
+      "ex": "I am easy-going, so I get along with everyone.",
+      "exIt": "Sono tranquillo, quindi vado d'accordo con tutti."
+    },
+    {
+      "en": "open-minded",
+      "pron": "òupen màindid",
+      "it": "di mentalità aperta",
+      "type": "adj",
+      "ex": "I am open-minded and happy to try new methods.",
+      "exIt": "Ho la mente aperta e provo volentieri nuovi metodi."
+    },
+    {
+      "en": "self-motivated",
+      "pron": "sèlf mòutiveitid",
+      "it": "automotivato, che sa motivarsi",
+      "type": "adj",
+      "ex": "I am self-motivated and I do not need constant supervision.",
+      "exIt": "So motivarmi e non ho bisogno di essere controllato di continuo."
+    },
+    {
+      "en": "to take initiative",
+      "pron": "tèik inìscietiv",
+      "it": "prendere l'iniziativa",
+      "type": "phrase",
+      "ex": "I take initiative when I see a problem nobody is fixing.",
+      "exIt": "Prendo l'iniziativa quando vedo un problema che nessuno risolve."
+    },
+    {
+      "en": "work ethic",
+      "pron": "uèrk ètik",
+      "it": "etica del lavoro",
+      "type": "noun",
+      "ex": "People say I have a strong work ethic.",
+      "exIt": "Dicono che ho una forte etica del lavoro."
+    },
+    {
+      "en": "leadership",
+      "pron": "lìiderscip",
+      "it": "capacità di guida, leadership",
+      "type": "noun",
+      "ex": "I want to improve my leadership skills.",
+      "exIt": "Voglio migliorare le mie capacità di guida."
+    },
+    {
+      "en": "soft skills",
+      "pron": "sòft skìlz",
+      "it": "competenze trasversali",
+      "type": "noun",
+      "ex": "Soft skills like listening matter as much as technical ones.",
+      "exIt": "Le competenze trasversali, come l'ascolto, contano quanto quelle tecniche."
+    },
+    {
+      "en": "hard skills",
+      "pron": "hàard skìlz",
+      "it": "competenze tecniche",
+      "type": "noun",
+      "ex": "My hard skills include JavaScript, CSS and accessibility testing.",
+      "exIt": "Le mie competenze tecniche includono JavaScript, CSS e test di accessibilità."
+    },
+    {
+      "en": "time management",
+      "pron": "tàim mànidgment",
+      "it": "gestione del tempo",
+      "type": "noun",
+      "ex": "Good time management helps me meet every deadline.",
+      "exIt": "Una buona gestione del tempo mi aiuta a rispettare ogni scadenza."
+    },
+    {
+      "en": "drive",
+      "pron": "dràiv",
+      "it": "determinazione, spinta interiore",
+      "type": "noun",
+      "ex": "I have the drive to finish every project I start.",
+      "exIt": "Ho la determinazione di finire ogni progetto che comincio."
+    },
+    {
+      "en": "to take ownership",
+      "pron": "tèik òunerscip",
+      "it": "assumersi la responsabilità di qualcosa",
+      "type": "phrase",
+      "ex": "I like to take ownership of my projects from start to finish.",
+      "exIt": "Mi piace assumermi la responsabilità dei miei progetti dall'inizio alla fine."
+    },
+    {
+      "en": "humble",
+      "pron": "hàmbol",
+      "it": "umile, modesto",
+      "type": "adj",
+      "ex": "I am proud of my results, but I stay humble.",
+      "exIt": "Sono orgoglioso dei miei risultati, ma resto umile."
+    },
+    {
+      "en": "quick-witted",
+      "pron": "kuìk uìtid",
+      "it": "pronto, sveglio di mente",
+      "type": "adj",
+      "ex": "She is quick-witted and answers difficult questions easily.",
+      "exIt": "È pronta di mente e risponde facilmente alle domande difficili."
+    },
+    {
+      "en": "conscientious",
+      "pron": "konsciènscias",
+      "it": "coscienzioso, scrupoloso",
+      "type": "adj",
+      "ex": "He is a conscientious worker and never skips a check.",
+      "exIt": "È un lavoratore coscienzioso e non salta mai un controllo."
+    },
+    {
+      "en": "result-oriented",
+      "pron": "rizàlt òrientid",
+      "it": "orientato ai risultati",
+      "type": "adj",
+      "ex": "I am result-oriented and I like clear targets.",
+      "exIt": "Sono orientato ai risultati e mi piacciono gli obiettivi chiari."
+    },
+    {
+      "en": "customer-focused",
+      "pron": "kàstomer fòukast",
+      "it": "attento al cliente",
+      "type": "adj",
+      "ex": "Our team is customer-focused and replies within a day.",
+      "exIt": "Il nostro team è attento al cliente e risponde entro un giorno."
+    },
+    {
+      "en": "self-discipline",
+      "pron": "sèlf dìsiplin",
+      "it": "autodisciplina",
+      "type": "noun",
+      "ex": "Working from home needs a lot of self-discipline.",
+      "exIt": "Lavorare da casa richiede molta autodisciplina."
+    },
+    {
+      "en": "can-do attitude",
+      "pron": "kàn du àtitiud",
+      "it": "atteggiamento positivo e pratico",
+      "type": "noun",
+      "ex": "I have a can-do attitude and I enjoy new challenges.",
+      "exIt": "Ho un atteggiamento positivo e pratico e mi piacciono le nuove sfide."
+    },
+    {
+      "en": "critical thinking",
+      "pron": "krìtikal tìnking",
+      "it": "pensiero critico",
+      "type": "noun",
+      "ex": "Critical thinking helps me find the real cause of a problem.",
+      "exIt": "Il pensiero critico mi aiuta a trovare la vera causa di un problema."
+    },
+    {
+      "en": "people skills",
+      "pron": "pìipol skìlz",
+      "it": "capacità di relazione con le persone",
+      "type": "noun",
+      "ex": "Good people skills help me work with clients.",
+      "exIt": "Buone capacità di relazione mi aiutano a lavorare con i clienti."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "ambitious",
+      "it": "ambizioso",
+      "trap": "In inglese è quasi sempre positivo: vuol dire 'che vuole crescere'. In italiano a volte ha un tono negativo."
+    },
+    {
+      "en": "sensible",
+      "it": "ragionevole",
+      "trap": "Non vuol dire 'sensibile'. Sensibile si dice sensitive. 'A sensible person' è una persona di buon senso."
+    },
+    {
+      "en": "sympathetic",
+      "it": "comprensivo",
+      "trap": "Non vuol dire 'simpatico'. Simpatico si dice nice o friendly."
+    },
+    {
+      "en": "career",
+      "it": "carriera, percorso professionale",
+      "trap": "Non significa solo salire di grado: indica tutto il tuo percorso di lavoro."
+    }
+  ],
+  "grammar": {
+    "title": "Aggettivi + preposizione",
+    "explainIt": [
+      "In inglese molti aggettivi vogliono una preposizione precisa. Non si può scegliere a caso. Si dice good at, non good in. Si dice responsible for, non responsible of. Bisogna impararli a coppie.",
+      "Dopo la preposizione può venire un nome oppure un verbo in forma -ing, cioè il gerundio. Si dice 'good at design' e 'good at designing'. Mai l'infinito: 'good at to design' è sbagliato.",
+      "Le coppie più utili al colloquio sono: good at, interested in, keen on, responsible for, committed to, capable of, proud of, familiar with, ready for. Per ogni punto di forza che dici, aggiungi un esempio.",
+      "Attenzione: alcuni aggettivi vogliono invece 'to' + infinito. Per esempio eager to, willing to, able to. Qui la parola 'to' fa parte dell'infinito: 'I am eager to learn'. Keen ha due costruzioni: 'keen on learning' oppure 'keen to learn'. Mai 'keen to learning'.",
+      "Non tradurre dall'italiano. 'Interessato a' diventa interested in. 'Orgoglioso di' diventa proud of. 'Responsabile di' diventa responsible for. Impara la coppia intera."
+    ],
+    "explainEn": [
+      "In English many adjectives need a fixed preposition. You cannot choose it freely. We say good at, not good in. We say responsible for, not responsible of. Learn them as pairs.",
+      "After the preposition you can use a noun or a verb in the -ing form. We say 'good at design' and 'good at designing'. We never use the infinitive after a preposition: 'good at to design' is wrong.",
+      "The most useful pairs for an interview are: good at, interested in, keen on, responsible for, committed to, capable of, proud of, familiar with, ready for. For each strength, add an example.",
+      "Be careful: some adjectives take 'to' + infinitive instead. For example eager to, willing to, able to. Here 'to' is part of the infinitive: 'I am eager to learn'. Keen has two patterns: 'keen on learning' or 'keen to learn'. Never 'keen to learning'.",
+      "Do not translate from Italian. 'Interessato a' becomes interested in. 'Orgoglioso di' becomes proud of. 'Responsabile di' becomes responsible for. Learn the whole pair."
+    ],
+    "rules": [
+      {
+        "it": "Con good at, bad at, excellent at si usa at + nome o -ing.",
+        "en": "Use at + noun or -ing after good at, bad at and excellent at.",
+        "form": "be good at + nome / -ing",
+        "examples": [
+          {
+            "en": "I am good at explaining complex ideas.",
+            "it": "Sono bravo a spiegare idee complesse."
+          },
+          {
+            "en": "She is excellent at project management.",
+            "it": "È eccellente nella gestione dei progetti."
+          },
+          {
+            "en": "I am not very good at public speaking.",
+            "it": "Non sono molto bravo a parlare in pubblico."
+          }
+        ]
+      },
+      {
+        "it": "Con keen on e interested in si usa la preposizione + nome o -ing.",
+        "en": "Use keen on and interested in with a noun or an -ing form.",
+        "form": "be keen on / interested in + nome / -ing",
+        "examples": [
+          {
+            "en": "I am keen on learning new frameworks.",
+            "it": "Mi appassiona imparare nuovi framework."
+          },
+          {
+            "en": "He is interested in working with accessibility.",
+            "it": "È interessato a lavorare con l'accessibilità."
+          }
+        ]
+      },
+      {
+        "it": "Con responsible for, capable of, proud of, committed to si usa la preposizione + nome o -ing.",
+        "en": "Use responsible for, capable of, proud of and committed to with a noun or an -ing form.",
+        "form": "be responsible for / capable of / proud of / committed to + nome / -ing",
+        "examples": [
+          {
+            "en": "I was responsible for managing the website.",
+            "it": "Ero responsabile della gestione del sito."
+          },
+          {
+            "en": "We are committed to delivering quality.",
+            "it": "Ci impegniamo a offrire un lavoro di qualità."
+          },
+          {
+            "en": "She is proud of having finished the project early.",
+            "it": "È orgogliosa di aver finito il progetto in anticipo."
+          }
+        ]
+      },
+      {
+        "it": "Con eager, willing, able si usa to + infinito, non -ing.",
+        "en": "Use to + infinitive after eager, willing and able, not -ing.",
+        "form": "be eager / willing / able + to + verbo",
+        "examples": [
+          {
+            "en": "I am willing to work some evenings.",
+            "it": "Sono disposto a lavorare qualche sera."
+          },
+          {
+            "en": "He is eager to join the team.",
+            "it": "Non vede l'ora di entrare nel team."
+          }
+        ]
+      },
+      {
+        "it": "Con familiar with, happy with e coppie simili, dopo la preposizione metti un nome o un pronome.",
+        "en": "With familiar with, happy with and similar pairs, put a noun or a pronoun after the preposition.",
+        "form": "be familiar with + nome",
+        "examples": [
+          {
+            "en": "I am familiar with this tool.",
+            "it": "Conosco bene questo strumento."
+          },
+          {
+            "en": "I am very happy with my current team.",
+            "it": "Sono molto contento del mio team attuale."
+          }
+        ]
+      }
+    ],
+    "tip": "Impara l'aggettivo SEMPRE con la sua preposizione, come una parola sola: good-at, keen-on, proud-of. Quando scrivi un esempio, scrivilo con -ing dopo la preposizione.",
+    "mistakes": [
+      {
+        "wrong": "I am good in programming.",
+        "right": "I am good at programming.",
+        "why": "con good si usa at, non in"
+      },
+      {
+        "wrong": "I am interested to learn Python.",
+        "right": "I am interested in learning Python.",
+        "why": "interested vuole in + -ing"
+      },
+      {
+        "wrong": "I am responsible of the website.",
+        "right": "I am responsible for the website.",
+        "why": "responsible vuole for, non of"
+      },
+      {
+        "wrong": "I am keen to learning new tools.",
+        "right": "I am keen on learning new tools.",
+        "why": "keen vuole on + -ing; con to serve l'infinito"
+      },
+      {
+        "wrong": "I am proud to my work.",
+        "right": "I am proud of my work.",
+        "why": "proud vuole of"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "I am very good ___ solving technical problems.",
+      "a": [
+        "at"
+      ],
+      "hint": "good + ?",
+      "explain": "Si dice good at."
+    },
+    {
+      "q": "She is keen ___ learning about accessibility.",
+      "a": [
+        "on"
+      ],
+      "hint": "keen + ?",
+      "explain": "Si dice keen on."
+    },
+    {
+      "q": "I was responsible ___ the website for two years.",
+      "a": [
+        "for"
+      ],
+      "hint": "responsible + ?",
+      "explain": "Si dice responsible for."
+    },
+    {
+      "q": "He is interested ___ working with a bigger team.",
+      "a": [
+        "in"
+      ],
+      "hint": "interested + ?",
+      "explain": "Si dice interested in."
+    },
+    {
+      "q": "We are proud ___ our work.",
+      "a": [
+        "of"
+      ],
+      "hint": "proud + ?",
+      "explain": "Si dice proud of."
+    },
+    {
+      "q": "I am committed ___ delivering quality.",
+      "a": [
+        "to"
+      ],
+      "hint": "committed + ?",
+      "explain": "Si dice committed to, e dopo to c'è -ing."
+    },
+    {
+      "q": "I am good at ___ (write) clear reports.",
+      "a": [
+        "writing"
+      ],
+      "hint": "dopo at serve -ing",
+      "explain": "Dopo una preposizione si usa il gerundio."
+    },
+    {
+      "q": "She is keen on ___ (travel) for work.",
+      "a": [
+        "travelling",
+        "traveling"
+      ],
+      "hint": "dopo on serve -ing",
+      "explain": "Dopo una preposizione si usa il gerundio."
+    },
+    {
+      "q": "I am eager ___ (learn) new things.",
+      "a": [
+        "to learn"
+      ],
+      "hint": "eager vuole to + infinito",
+      "explain": "Dopo eager si usa to + infinito."
+    },
+    {
+      "q": "Are you familiar ___ this framework?",
+      "a": [
+        "with"
+      ],
+      "hint": "familiar + ?",
+      "explain": "Si dice familiar with."
+    },
+    {
+      "q": "I am capable ___ (work) alone.",
+      "a": [
+        "of working"
+      ],
+      "hint": "capable + of + -ing",
+      "explain": "Capable of + gerundio."
+    },
+    {
+      "q": "He is willing ___ (move) to Milan.",
+      "a": [
+        "to move"
+      ],
+      "hint": "willing vuole to + infinito",
+      "explain": "Dopo willing si usa to + infinito."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Parlare dei punti di forza",
+      "en": "One of my main strengths is communication.",
+      "it": "Uno dei miei punti di forza principali è la comunicazione."
+    },
+    {
+      "group": "Parlare dei punti di forza",
+      "en": "I am good at working under pressure.",
+      "it": "Sono bravo a lavorare sotto pressione."
+    },
+    {
+      "group": "Parlare dei punti di forza",
+      "en": "I pay a lot of attention to detail.",
+      "it": "Faccio molta attenzione ai dettagli."
+    },
+    {
+      "group": "Parlare dei punti di forza",
+      "en": "Colleagues often describe me as reliable.",
+      "it": "I colleghi mi descrivono spesso come affidabile.",
+      "note": "Citare un'opinione degli altri dà più forza."
+    },
+    {
+      "group": "Parlare dei punti di forza",
+      "en": "Let me give you an example.",
+      "it": "Le faccio un esempio.",
+      "note": "Dopo ogni punto di forza porta una prova."
+    },
+    {
+      "group": "Parlare dei punti deboli",
+      "en": "I used to find public speaking difficult.",
+      "it": "Prima trovavo difficile parlare in pubblico."
+    },
+    {
+      "group": "Parlare dei punti deboli",
+      "en": "I am still working on my delegation skills.",
+      "it": "Sto ancora lavorando sulla capacità di delegare."
+    },
+    {
+      "group": "Parlare dei punti deboli",
+      "en": "I tend to be a perfectionist.",
+      "it": "Tendo a essere perfezionista.",
+      "note": "È un classico: meglio sceglierne uno vero e dire come lo gestisci."
+    },
+    {
+      "group": "Parlare dei punti deboli",
+      "en": "To improve this, I have started a course.",
+      "it": "Per migliorare, ho iniziato un corso."
+    },
+    {
+      "group": "Parlare dei punti deboli",
+      "en": "I have learned to ask for help earlier.",
+      "it": "Ho imparato a chiedere aiuto prima."
+    },
+    {
+      "group": "Motivazione e obiettivi",
+      "en": "What attracts me to this role is the focus on accessibility.",
+      "it": "Ciò che mi attira in questo ruolo è l'attenzione all'accessibilità."
+    },
+    {
+      "group": "Motivazione e obiettivi",
+      "en": "I am looking for a new challenge.",
+      "it": "Cerco una nuova sfida."
+    },
+    {
+      "group": "Motivazione e obiettivi",
+      "en": "In five years I see myself leading a team.",
+      "it": "Tra cinque anni mi vedo a guidare un team.",
+      "note": "Risposta classica a Where do you see yourself in five years?"
+    },
+    {
+      "group": "Motivazione e obiettivi",
+      "en": "My long-term goal is to become a technical lead.",
+      "it": "Il mio obiettivo a lungo termine è diventare responsabile tecnico."
+    },
+    {
+      "group": "Motivazione e obiettivi",
+      "en": "I want to grow with the company.",
+      "it": "Voglio crescere insieme all'azienda."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "I managed to reduce the loading time by forty percent.",
+      "it": "Sono riuscito a ridurre il tempo di caricamento del quaranta per cento."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "I was in charge of the whole migration.",
+      "it": "Ero io a occuparmi di tutta la migrazione."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "The project was delivered on time and on budget.",
+      "it": "Il progetto è stato consegnato in tempo e nel budget."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "The client was very happy with the result.",
+      "it": "Il cliente era molto soddisfatto del risultato."
+    },
+    {
+      "group": "Raccontare i risultati",
+      "en": "I am proud of what we achieved together.",
+      "it": "Sono orgoglioso di ciò che abbiamo ottenuto insieme."
+    },
+    {
+      "group": "Domande al colloquio",
+      "en": "Why should we hire you?",
+      "it": "Perché dovremmo assumerla?"
+    },
+    {
+      "group": "Domande al colloquio",
+      "en": "What would you say is your greatest strength?",
+      "it": "Quale direbbe che è il suo punto di forza maggiore?"
+    },
+    {
+      "group": "Domande al colloquio",
+      "en": "How do you handle criticism?",
+      "it": "Come gestisce le critiche?"
+    },
+    {
+      "group": "Domande al colloquio",
+      "en": "What motivates you at work?",
+      "it": "Che cosa la motiva al lavoro?"
+    },
+    {
+      "group": "Domande al colloquio",
+      "en": "Do you have any questions for us?",
+      "it": "Ha domande per noi?",
+      "note": "Rispondi sempre di sì: chiedi del team e della crescita."
+    }
+  ],
+  "dialogue": {
+    "title": "A job interview",
+    "context": "Luca fa un colloquio per un posto da sviluppatore front end. Parla con Helen, responsabile del team.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Thanks for coming, Luca. Let's start with your strengths. What would you say is your greatest strength?",
+        "it": "Grazie di essere venuto, Luca. Cominciamo dai punti di forza. Quale direbbe che è il suo maggiore?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I would say attention to detail. I am very thorough, especially when I check accessibility.",
+        "it": "Direi l'attenzione ai dettagli. Sono molto accurato, soprattutto quando controllo l'accessibilità."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Can you give me an example?",
+        "it": "Può farmi un esempio?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Of course. Last year I was responsible for auditing a large public website. I found over two hundred issues and I wrote a clear plan to fix them.",
+        "it": "Certo. L'anno scorso ero responsabile dell'audit di un grande sito pubblico. Ho trovato più di duecento problemi e ho scritto un piano chiaro per risolverli."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "That sounds impressive. And what about your weaknesses?",
+        "it": "Sembra impressionante. E i punti deboli?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I used to find public speaking difficult. To improve this, I took a public speaking course, and now I give a short talk every month.",
+        "it": "Prima trovavo difficile parlare in pubblico. Per migliorare, ho seguito un corso di public speaking e ora faccio un breve intervento ogni mese."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Good. Are you comfortable working in a team?",
+        "it": "Bene. Si trova a suo agio a lavorare in squadra?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, I am a real team player. I am also independent, but I ask for help when I need it.",
+        "it": "Sì, so lavorare bene in squadra. Sono anche autonomo, ma chiedo aiuto quando serve."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "What motivates you at work?",
+        "it": "Che cosa la motiva al lavoro?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I am keen on building products that everyone can use. That is why this role interests me.",
+        "it": "Mi appassiona costruire prodotti che tutti possano usare. Ecco perché questo ruolo mi interessa."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Where do you see yourself in five years?",
+        "it": "Dove si vede tra cinque anni?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I see myself leading a small team. I am committed to learning and I want to grow with the company.",
+        "it": "Mi vedo a guidare un piccolo team. Mi impegno a imparare e voglio crescere insieme all'azienda."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Would you be willing to travel to our client sites sometimes?",
+        "it": "Sarebbe disposto a viaggiare qualche volta presso i nostri clienti?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, I am happy to travel two or three days a month.",
+        "it": "Sì, viaggio volentieri due o tre giorni al mese."
+      },
+      {
+        "s": "A",
+        "name": "Helen",
+        "en": "Perfect. Do you have any questions for us?",
+        "it": "Perfetto. Ha domande per noi?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes. How does the team support personal growth and training?",
+        "it": "Sì. Come sostiene il team la crescita personale e la formazione?"
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What does Luca say is his greatest strength?",
+      "options": [
+        "His speed at coding",
+        "His attention to detail",
+        "His public speaking"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What was Luca responsible for last year?",
+      "options": [
+        "Auditing a large public website",
+        "Leading a team of ten people",
+        "Training new employees"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Luca say about public speaking?",
+      "options": [
+        "He is excellent at it",
+        "He avoids it completely",
+        "He used to find it difficult and has improved"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What is Luca willing to do?",
+      "options": [
+        "Travel two or three days a month",
+        "Move to another country",
+        "Work every weekend"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Sono bravo a spiegare cose tecniche ai clienti.",
+      "en": "I am good at explaining technical things to clients.",
+      "alt": [
+        "I am good at explaining technical topics to clients.", "I'm good at explaining technical things to clients."
+      ]
+    },
+    {
+      "it": "Ero responsabile del sito web dell'azienda.",
+      "en": "I was responsible for the company website.",
+      "alt": [
+        "I was responsible for the company's website."
+      ]
+    },
+    {
+      "it": "Mi appassiona imparare nuovi strumenti.",
+      "en": "I am keen on learning new tools.",
+      "alt": [
+        "I am keen on learning new technologies.", "I'm keen on learning new tools."
+      ]
+    },
+    {
+      "it": "Sono orgoglioso del lavoro che ho fatto.",
+      "en": "I am proud of the work I did.",
+      "alt": [
+        "I am proud of my work.",
+        "I am proud of the work I have done.", "I'm proud of the work I did."
+      ]
+    },
+    {
+      "it": "Sono disposto a lavorare qualche sera.",
+      "en": "I am willing to work some evenings.",
+      "alt": [
+        "I am willing to work a few evenings.", "I'm willing to work some evenings."
+      ]
+    },
+    {
+      "it": "Il mio punto debole è che dico sì a troppi compiti.",
+      "en": "My weakness is that I say yes to too many tasks.",
+      "alt": [
+        "My weakness is that I say yes to too many things."
+      ]
+    },
+    {
+      "it": "Per migliorare ho iniziato un corso.",
+      "en": "To improve, I have started a course.",
+      "alt": [
+        "To improve this, I started a course.",
+        "I started a course to improve."
+      ]
+    },
+    {
+      "it": "Cerco un'azienda che sostenga la crescita personale.",
+      "en": "I am looking for a company that supports personal growth.",
+      "alt": [
+        "I am looking for a company that supports personal development."
+      ]
+    },
+    {
+      "it": "Resto calmo sotto pressione.",
+      "en": "I stay calm under pressure.",
+      "alt": [
+        "I remain calm under pressure."
+      ]
+    },
+    {
+      "it": "Sono impegnato a rendere il web accessibile a tutti.",
+      "en": "I am committed to making the web accessible for everyone.",
+      "alt": [
+        "I am committed to making the web accessible to everyone."
+      ]
+    },
+    {
+      "it": "Tra cinque anni mi vedo a guidare un team.",
+      "en": "In five years I see myself leading a team.",
+      "alt": [
+        "Five years from now, I see myself leading a team."
+      ]
+    },
+    {
+      "it": "Conosco bene le WCAG.",
+      "en": "I am familiar with WCAG.",
+      "alt": [
+        "I am very familiar with WCAG.", "I know WCAG well."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Hai fatto un colloquio per un posto da sviluppatore. Scrivi una breve mail di ringraziamento alla responsabile, Helen. Ringraziala per il tempo. Ripeti due tuoi punti di forza con le preposizioni giuste. Di' che hai motivazione per il ruolo. Chiudi con una frase cordiale. Scrivi 5-8 righe.",
+    "taskEn": "You had an interview for a developer position. Write a short thank-you email to the manager, Helen. Thank her for her time. Repeat two of your strengths with the right prepositions. Say that you are motivated for the role. Close with a friendly sentence. Write 5-8 lines.",
+    "model": "Subject: Thank you for the interview\n\nDear Helen,\n\nThank you for taking the time to meet me today. I really enjoyed our conversation about the team and the projects.\n\nAs I said, I am good at explaining technical topics to clients, and I am meticulous when I check accessibility. I am also keen on learning new tools and I am committed to delivering quality work.\n\nI am very motivated to join your team and I would be proud to contribute to your next projects.\n\nPlease let me know if you need any more information.\n\nKind regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "One of my main strengths is attention to detail.",
+      "I am good at working under pressure.",
+      "I was responsible for the front end of three websites.",
+      "I am keen on learning new tools and frameworks.",
+      "I used to find public speaking difficult, so I took a course.",
+      "I am committed to making the web accessible for everyone.",
+      "In five years I see myself leading a small team.",
+      "I am eager to join a team like yours."
+    ],
+    "prompts": [
+      {
+        "en": "What are your three main strengths?",
+        "it": "Quali sono i tuoi tre punti di forza principali?",
+        "help": "Inizia con: One of my main strengths is... Poi: For example, ..."
+      },
+      {
+        "en": "What is your biggest weakness, and how do you work on it?",
+        "it": "Qual è il tuo punto debole maggiore e come ci lavori?",
+        "help": "Usa: I used to... / I am still working on... / To improve, I..."
+      },
+      {
+        "en": "What are you proud of in your career?",
+        "it": "Di che cosa sei orgoglioso nella tua carriera?",
+        "help": "Inizia con: I am proud of... + nome o -ing"
+      },
+      {
+        "en": "What motivates you at work?",
+        "it": "Che cosa ti motiva al lavoro?",
+        "help": "Usa: I am keen on... / What motivates me is..."
+      },
+      {
+        "en": "Where do you see yourself in five years?",
+        "it": "Dove ti vedi tra cinque anni?",
+        "help": "Usa: I see myself... / My goal is to..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: i tuoi punti di forza",
+      "show": [
+        "Job interview: strengths",
+        "I am good at...",
+        "I am keen on..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione trentasette. Oggi parliamo dei punti di forza e degli obiettivi in un colloquio di lavoro."
+        },
+        {
+          "lang": "it",
+          "text": "Impari anche gli aggettivi con la preposizione giusta, perché sono la parte in cui gli italiani sbagliano di più."
+        }
+      ]
+    },
+    {
+      "title": "Perché la preposizione è fissa",
+      "show": [
+        "good at",
+        "keen on",
+        "responsible for"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In inglese molti aggettivi hanno una preposizione fissa. Non si può cambiare. Si dice good at, non good in."
+        },
+        {
+          "lang": "en",
+          "text": "I am good at solving problems."
+        },
+        {
+          "lang": "it",
+          "text": "Impara l'aggettivo sempre insieme alla sua preposizione, come una parola sola."
+        }
+      ]
+    },
+    {
+      "title": "Dopo la preposizione: nome o -ing",
+      "show": [
+        "good at design",
+        "good at designing",
+        "NO: good at to design"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Dopo la preposizione puoi mettere un nome oppure un verbo in forma ing. Mai l'infinito."
+        },
+        {
+          "lang": "en",
+          "text": "I am keen on learning new frameworks."
+        },
+        {
+          "lang": "en",
+          "text": "She is responsible for managing the website."
+        }
+      ]
+    },
+    {
+      "title": "Le coppie più utili",
+      "show": [
+        "interested in",
+        "proud of",
+        "committed to",
+        "familiar with"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Ripassa queste coppie. Interested in, proud of, committed to, familiar with."
+        },
+        {
+          "lang": "en",
+          "text": "I am familiar with WCAG."
+        },
+        {
+          "lang": "en",
+          "text": "I am proud of the work we did."
+        }
+      ]
+    },
+    {
+      "title": "Attenzione: eager to e willing to",
+      "show": [
+        "eager to + verbo",
+        "willing to + verbo",
+        "keen on + ing"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Alcuni aggettivi vogliono to e l'infinito, non la preposizione. Per esempio eager, willing e able."
+        },
+        {
+          "lang": "en",
+          "text": "I am eager to join your team."
+        },
+        {
+          "lang": "en",
+          "text": "I am willing to travel."
+        }
+      ]
+    },
+    {
+      "title": "Errori tipici degli italiani",
+      "show": [
+        "good in  →  good at",
+        "responsible of  →  responsible for",
+        "interested to  →  interested in"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Gli errori più frequenti sono tre. Good in al posto di good at. Responsible of al posto di responsible for. Interested to al posto di interested in."
+        },
+        {
+          "lang": "en",
+          "text": "I am interested in learning Python."
+        }
+      ]
+    },
+    {
+      "title": "Come parlare dei punti di forza e deboli",
+      "show": [
+        "One of my main strengths is...",
+        "Let me give you an example.",
+        "I used to... To improve this, I..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per un punto di forza di' cos'è e poi porta un esempio. Per un punto debole sii onesto e spiega che cosa fai per migliorare."
+        },
+        {
+          "lang": "en",
+          "text": "One of my main strengths is attention to detail. Let me give you an example."
+        },
+        {
+          "lang": "en",
+          "text": "I used to find public speaking difficult. To improve this, I took a course."
+        }
+      ]
+    },
+    {
+      "title": "Motivazione e obiettivi",
+      "show": [
+        "What attracts me is...",
+        "I see myself leading a team.",
+        "I want to grow with the company."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Alla domanda sul futuro rispondi con un obiettivo realistico e collegato al ruolo."
+        },
+        {
+          "lang": "en",
+          "text": "In five years I see myself leading a small team."
+        },
+        {
+          "lang": "en",
+          "text": "I want to grow with the company."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "good at / keen on / responsible for",
+        "nome o -ing",
+        "eager to + verbo"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Aggettivo e preposizione vanno insieme. Dopo la preposizione usa un nome o il gerundio. Con eager e willing usa to e l'infinito."
+        },
+        {
+          "lang": "it",
+          "text": "Ora prepara tre punti di forza, un punto debole e un obiettivo, e dilli ad alta voce."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": 14,
+  "week": 3,
+  "title": "Lamentele e scuse",
+  "titleEn": "Complaints and apologies",
+  "intro": "Oggi impari a fare un reclamo senza litigare e a rispondere a un cliente arrabbiato con scuse professionali. Impari anche il primo condizionale, che serve per promettere azioni concrete: If you send us the details, we will fix it. È una delle strutture più utili in assoluto nel lavoro con i clienti.",
+  "goals": [
+    "Scrivere un reclamo chiaro e fermo, ma educato",
+    "Chiedere scusa in modo professionale e prendersi la responsabilità",
+    "Usare il primo condizionale per promettere soluzioni e fissare condizioni",
+    "Proporre un rimedio: rimborso, sostituzione, compensazione"
+  ],
+  "words": [
+    { "en": "complaint", "pron": "komplèint", "it": "reclamo, lamentela", "type": "noun", "ex": "We received a complaint about the checkout page.", "exIt": "Abbiamo ricevuto un reclamo sulla pagina di pagamento." },
+    { "en": "to complain", "pron": "komplèin", "it": "lamentarsi, fare un reclamo", "type": "verb", "ex": "I'm writing to complain about the delay.", "exIt": "Scrivo per lamentarmi del ritardo." },
+    { "en": "to make it right", "pron": "mèik it ràit", "it": "rimediare, sistemare le cose", "type": "phrase", "ex": "We want to make it right for you.", "exIt": "Vogliamo rimediare." },
+    { "en": "apology", "pron": "apòlogi", "it": "scusa, scuse", "type": "noun", "ex": "Please accept our sincere apologies.", "exIt": "Vi preghiamo di accettare le nostre sincere scuse." },
+    { "en": "to regret", "pron": "rigrèt", "it": "rammaricarsi, dispiacersi", "type": "verb", "ex": "We regret to inform you that the service is down.", "exIt": "Siamo spiacenti di informarvi che il servizio non è attivo." },
+    { "en": "to be sorry for", "pron": "bi sòri fòr", "it": "dispiacersi per", "type": "phrase", "ex": "We're sorry for the confusion.", "exIt": "Ci dispiace per la confusione." },
+    { "en": "disappointed", "pron": "disapòintid", "it": "deluso", "type": "adj", "ex": "We are disappointed with the quality of the work.", "exIt": "Siamo delusi dalla qualità del lavoro." },
+    { "en": "frustrated", "pron": "frastrèitid", "it": "frustrato, esasperato", "type": "adj", "ex": "The client is frustrated because the page keeps crashing.", "exIt": "Il cliente è esasperato perché la pagina continua a bloccarsi." },
+    { "en": "unacceptable", "pron": "anaksèptabol", "it": "inaccettabile", "type": "adj", "ex": "A three-week delay is simply unacceptable.", "exIt": "Un ritardo di tre settimane è semplicemente inaccettabile." },
+    { "en": "to live up to", "pron": "lìv àp tù", "it": "essere all'altezza di", "type": "verb", "ex": "The service didn't live up to our promise.", "exIt": "Il servizio non è stato all'altezza della nostra promessa." },
+    { "en": "defective", "pron": "difèktiv", "it": "difettoso (prodotto)", "type": "adj", "ex": "The keyboard we received was defective.", "exIt": "La tastiera che abbiamo ricevuto era difettosa." },
+    { "en": "to turn around", "pron": "tèrn aràund", "it": "ribaltare, rimettere in carreggiata", "type": "verb", "ex": "We can turn this situation around.", "exIt": "Possiamo ribaltare questa situazione." },
+    { "en": "to cut some slack", "pron": "càt sam slàk", "it": "essere indulgente, dare un po' di tolleranza", "type": "phrase", "ex": "Please cut us some slack, we're a small team.", "exIt": "Siate comprensivi, siamo un piccolo team." },
+    { "en": "voucher", "pron": "vàucer", "it": "buono sconto, voucher", "type": "noun", "ex": "We'll send you a voucher for your next order.", "exIt": "Ti mandiamo un buono per il prossimo ordine." },
+    { "en": "refund", "pron": "rìifand", "it": "rimborso", "type": "noun", "ex": "You are entitled to a full refund.", "exIt": "Lei ha diritto a un rimborso totale." },
+    { "en": "rebate", "pron": "rìibeit", "it": "sconto retroattivo, rimborso parziale", "type": "noun", "ex": "You will get a rebate on this month's fee.", "exIt": "Avrai uno sconto sul canone di questo mese." },
+    { "en": "compensation", "pron": "kompensèiscion", "it": "risarcimento, compenso per il danno", "type": "noun", "ex": "The client asked for compensation for the lost sales.", "exIt": "Il cliente ha chiesto un risarcimento per le vendite perse." },
+    { "en": "to compensate", "pron": "kòmpenseit", "it": "risarcire, compensare", "type": "verb", "ex": "We would like to compensate you for the inconvenience.", "exIt": "Vorremmo risarcirvi per il disagio." },
+    { "en": "to replace", "pron": "riplèis", "it": "sostituire", "type": "verb", "ex": "We'll replace the faulty device free of charge.", "exIt": "Sostituiremo il dispositivo difettoso gratuitamente." },
+    { "en": "replacement", "pron": "riplèisment", "it": "sostituzione, pezzo di ricambio", "type": "noun", "ex": "A replacement will arrive on Monday.", "exIt": "Il prodotto sostitutivo arriverà lunedì." },
+    { "en": "refund policy", "pron": "rìifand pòlisi", "it": "politica dei rimborsi", "type": "noun", "ex": "Please read our refund policy.", "exIt": "Leggi la nostra politica dei rimborsi." },
+    { "en": "to escalate", "pron": "èskaleit", "it": "passare a un livello superiore", "type": "verb", "ex": "If you are not satisfied, I'll escalate this to my manager.", "exIt": "Se non è soddisfatto, passerò la questione al mio responsabile." },
+    { "en": "service credit", "pron": "sèrvis krèdit", "it": "credito sul servizio", "type": "noun", "ex": "We'll give you a service credit for the outage.", "exIt": "Ti daremo un credito sul servizio per il disservizio." },
+    { "en": "store credit", "pron": "stòr krèdit", "it": "credito da spendere nel negozio", "type": "noun", "ex": "You can choose a refund or store credit.", "exIt": "Puoi scegliere tra rimborso e credito nel negozio." },
+    { "en": "to credit", "pron": "krèdit", "it": "accreditare", "type": "verb", "ex": "We'll credit the amount to your account.", "exIt": "Accrediteremo l'importo sul tuo conto." },
+    { "en": "fault", "pron": "fòlt", "it": "colpa, difetto", "type": "noun", "ex": "It was our fault, and we take full responsibility.", "exIt": "È stata colpa nostra, e ce ne assumiamo la piena responsabilità." },
+    { "en": "to chase up", "pron": "cèis àp", "it": "sollecitare, andare a vedere a che punto è", "type": "verb", "ex": "I'll chase up the supplier today.", "exIt": "Oggi sollecito il fornitore." },
+    { "en": "to take responsibility", "pron": "tèik rispònsibiliti", "it": "assumersi la responsabilità", "type": "phrase", "ex": "We take responsibility for the error.", "exIt": "Ci assumiamo la responsabilità dell'errore." },
+    { "en": "our end", "pron": "àuar ènd", "it": "da parte nostra, dal nostro lato", "type": "phrase", "ex": "The problem was on our end, not yours.", "exIt": "Il problema era da parte nostra, non vostra." },
+    { "en": "to put right", "pron": "pùt ràit", "it": "rimediare, correggere", "type": "phrase", "ex": "We'll do everything we can to put this right.", "exIt": "Faremo tutto il possibile per rimediare." },
+    { "en": "to make up for", "pron": "mèik àp for", "it": "compensare, farsi perdonare", "type": "phrase", "ex": "We'd like to make up for the delay with a discount.", "exIt": "Vorremmo farci perdonare il ritardo con uno sconto." },
+    { "en": "goodwill gesture", "pron": "gudùil gèsciur", "it": "gesto di cortesia verso il cliente", "type": "noun", "ex": "As a goodwill gesture, we're offering one free month.", "exIt": "Come gesto di cortesia, offriamo un mese gratuito." },
+    { "en": "to step up", "pron": "stèp àp", "it": "farsi avanti, impegnarsi di più", "type": "verb", "ex": "The team stepped up and fixed it overnight.", "exIt": "Il team si è impegnato e ha risolto tutto in una notte." },
+    { "en": "to reimburse", "pron": "riimbèrs", "it": "rimborsare (spese)", "type": "verb", "ex": "We will reimburse the cost of the extra hosting.", "exIt": "Rimborseremo il costo dell'hosting aggiuntivo." },
+    { "en": "credit note", "pron": "krèdit nòut", "it": "nota di credito", "type": "noun", "ex": "We can issue a credit note for the difference.", "exIt": "Possiamo emettere una nota di credito per la differenza." },
+    { "en": "warranty", "pron": "uòranti", "it": "garanzia (del prodotto)", "type": "noun", "ex": "The laptop is still under warranty.", "exIt": "Il portatile è ancora in garanzia." },
+    { "en": "guarantee", "pron": "garantìi", "it": "garanzia", "type": "noun", "ex": "We offer a 30-day money-back guarantee.", "exIt": "Offriamo una garanzia soddisfatti o rimborsati di 30 giorni." },
+    { "en": "dissatisfied", "pron": "dissàtisfaid", "it": "insoddisfatto", "type": "adj", "ex": "If you are dissatisfied, please let us know.", "exIt": "Se è insoddisfatto, ce lo faccia sapere." },
+    { "en": "upset", "pron": "apsèt", "it": "turbato, arrabbiato", "type": "adj", "ex": "I understand you are upset, and I'm sorry.", "exIt": "Capisco che sia arrabbiato, e mi dispiace." },
+    { "en": "patience", "pron": "pèiscions", "it": "pazienza", "type": "noun", "ex": "Thank you for your patience.", "exIt": "Grazie per la pazienza." },
+    { "en": "to reassure", "pron": "riiasciùar", "it": "rassicurare", "type": "verb", "ex": "I want to reassure you that your data is safe.", "exIt": "Voglio rassicurarla che i suoi dati sono al sicuro." },
+    { "en": "to keep someone posted", "pron": "kìip sàmuan pòustid", "it": "tenere qualcuno aggiornato", "type": "phrase", "ex": "We'll keep you posted on our progress.", "exIt": "La terremo aggiornata sui nostri progressi." },
+    { "en": "oversight", "pron": "òuvarsait", "it": "svista, dimenticanza", "type": "noun", "ex": "It was an oversight on our part.", "exIt": "È stata una svista da parte nostra." },
+    { "en": "misunderstanding", "pron": "misanderstàndin", "it": "malinteso", "type": "noun", "ex": "I think there has been a misunderstanding.", "exIt": "Penso che ci sia stato un malinteso." },
+    { "en": "to take action", "pron": "tèik àkscion", "it": "prendere provvedimenti", "type": "phrase", "ex": "We will take action immediately.", "exIt": "Prenderemo provvedimenti immediatamente." },
+    { "en": "to let down", "pron": "lèt dàun", "it": "deludere", "type": "phrase", "ex": "We're sorry we let you down.", "exIt": "Ci dispiace di averla delusa." },
+    { "en": "to fall short of", "pron": "fòol sciòrt ov", "it": "non raggiungere, restare al di sotto di", "type": "phrase", "ex": "The final result fell short of our expectations.", "exIt": "Il risultato finale è rimasto al di sotto delle nostre aspettative." },
+    { "en": "to rebuild trust", "pron": "riibìld tràst", "it": "ricostruire la fiducia", "type": "phrase", "ex": "It takes time to rebuild trust with a client.", "exIt": "Ci vuole tempo per ricostruire la fiducia con un cliente." },
+    { "en": "to get back on track", "pron": "gèt bàk on tràk", "it": "rimettersi in carreggiata", "type": "phrase", "ex": "We will get back on track by Friday.", "exIt": "Ci rimetteremo in carreggiata entro venerdì." },
+    { "en": "to admit", "pron": "admìt", "it": "ammettere", "type": "verb", "ex": "I have to admit that we made a mistake.", "exIt": "Devo ammettere che abbiamo fatto un errore." }
+  ],
+  "falseFriends": [
+    { "en": "to regret", "it": "rammaricarsi", "trap": "Non c'entra con 'regredire'. Vuol dire provare dispiacere o pentirsi: 'We regret any inconvenience' = ci scusiamo per il disagio; 'I regret it' = me ne pento." },
+    { "en": "sympathetic", "it": "comprensivo, partecipe", "trap": "Non vuol dire 'simpatico'. Simpatico si dice nice o friendly." },
+    { "en": "deluded", "it": "che si illude", "trap": "Non vuol dire 'deluso'. Deluso si dice disappointed: 'We are disappointed with the service.'" }
+  ],
+  "grammar": {
+    "title": "Il primo condizionale: if + presente, will",
+    "explainIt": [
+      "Il primo condizionale parla di cose possibili o probabili nel futuro. La struttura è: If + present simple, will + verbo base. Esempio: If you send us the details, we will fix the problem. Nella parte con if usi il presente, anche se parli del futuro. Mai will dopo if.",
+      "Puoi invertire le due parti. Il will resta sempre nella parte principale: We will fix the problem if you send us the details. Se la frase comincia con if, metti la virgola. Se comincia con la parte principale, di solito non serve la virgola.",
+      "Nelle mail con i clienti il primo condizionale serve per due cose. La prima è fissare una condizione: If we don't receive the files by Friday, we won't be able to launch on time. La seconda è promettere un rimedio: If the problem continues, we will refund the full amount.",
+      "Al posto di will puoi usare altri verbi: can, may, might, should, o anche un imperativo. If you have any questions, please call me. If the page doesn't load, you can try again later. Might e may rendono la frase meno sicura.",
+      "Puoi usare unless al posto di if not. Unless = a meno che. We won't start unless you approve the plan. È uguale a: We won't start if you don't approve the plan. Con unless non serve un secondo negativo. Usa anche as soon as e when con lo stesso schema: As soon as I hear from the team, I will call you."
+    ],
+    "explainEn": [
+      "The first conditional talks about things that are possible or likely in the future. The structure is: If + present simple, will + base verb. For example: If you send us the details, we will fix the problem. In the if part, use the present simple even if you talk about the future. Never use will after if.",
+      "You can change the order of the two parts. We will fix the problem if you send us the details. If the sentence starts with if, use a comma. If it starts with the main part, you usually do not need a comma.",
+      "In emails to clients, the first conditional has two main uses. The first is to set a condition: If we don't receive the files by Friday, we won't be able to launch on time. The second is to promise a solution: If the problem continues, we will refund the full amount.",
+      "Instead of will you can use other words: can, may, might, should, or even an imperative. If you have any questions, please call me. If the page doesn't load, you can try again later. May and might make the sentence less certain.",
+      "You can use unless instead of if not. Unless means except if. We won't start unless you approve the plan. It means the same as: We won't start if you don't approve the plan. Do not use a second negative with unless. Use as soon as and when with the same pattern: As soon as I hear from the team, I will call you."
+    ],
+    "rules": [
+      {
+        "it": "If + presente semplice, will + verbo base: per situazioni possibili nel futuro.",
+        "en": "If + present simple, will + base verb: for possible situations in the future.",
+        "form": "If + present simple, will + verbo base",
+        "examples": [
+          { "en": "If you send us the screenshot, we will investigate the issue.", "it": "Se ci mandate lo screenshot, indagheremo sul problema." },
+          { "en": "If the server goes down again, I will call you immediately.", "it": "Se il server va giù di nuovo, ti chiamo subito." },
+          { "en": "If we find a mistake, we will correct it for free.", "it": "Se troviamo un errore, lo correggeremo gratis." }
+        ]
+      },
+      {
+        "it": "Dopo if non si mette mai will: si usa il presente anche per il futuro.",
+        "en": "Never use will after if. Use the present simple, even for the future.",
+        "form": "If it rains... (non: If it will rain...)",
+        "examples": [
+          { "en": "If you pay today, you will receive a discount.", "it": "Se paga oggi, riceverà uno sconto." },
+          { "en": "If the client doesn't reply, we will send a reminder.", "it": "Se il cliente non risponde, manderemo un sollecito." }
+        ]
+      },
+      {
+        "it": "Si può invertire l'ordine: la parte con will può venire prima. Con if all'inizio serve la virgola.",
+        "en": "You can change the order. When the sentence starts with if, use a comma.",
+        "form": "Will-clause + if-clause (senza virgola)",
+        "examples": [
+          { "en": "We will refund you if the product arrives damaged.", "it": "Vi rimborseremo se il prodotto arriva danneggiato." },
+          { "en": "I will let you know if there are any problems.", "it": "Ti faccio sapere se ci sono problemi." }
+        ]
+      },
+      {
+        "it": "Unless significa 'a meno che non' e sostituisce if not. Dopo unless il verbo è affermativo.",
+        "en": "Unless means if not. The verb after unless is positive.",
+        "form": "unless + presente = if + not",
+        "examples": [
+          { "en": "We can't start unless you approve the design.", "it": "Non possiamo cominciare a meno che non approviate il design." },
+          { "en": "Unless you tell us otherwise, we will use the original logo.", "it": "Se non ci dite altrimenti, useremo il logo originale." }
+        ]
+      },
+      {
+        "it": "Al posto di will si possono usare can, may, might, should o l'imperativo.",
+        "en": "Instead of will you can use can, may, might, should or the imperative.",
+        "form": "If + presente, can / may / might / should / imperativo",
+        "examples": [
+          { "en": "If you have any questions, please contact me.", "it": "Se avete domande, contattatemi pure." },
+          { "en": "If the problem persists, you should restart the router.", "it": "Se il problema persiste, dovreste riavviare il router." },
+          { "en": "If we are lucky, we might finish by Thursday.", "it": "Se siamo fortunati, potremmo finire entro giovedì." }
+        ]
+      }
+    ],
+    "tip": "Pensa alla frase come a un contratto: la parte con if è la condizione, la parte con will è la promessa. La condizione resta sempre al presente, anche se riguarda domani. Se stai per scrivere will dopo if, fermati: cancellalo.",
+    "mistakes": [
+      { "wrong": "If you will send us the file, we will fix it.", "right": "If you send us the file, we will fix it.", "why": "dopo if si usa il presente, non will" },
+      { "wrong": "If I will have news, I will call you.", "right": "If I have news, I will call you.", "why": "nella parte con if serve il present simple" },
+      { "wrong": "We won't refund you unless the product is not damaged.", "right": "We won't refund you unless the product is damaged.", "why": "unless ha già senso negativo: niente secondo negativo" },
+      { "wrong": "If you send us the details, we fix it today.", "right": "If you send us the details, we will fix it today.", "why": "per una promessa, nella parte principale serve will" },
+      { "wrong": "When you will arrive, call me.", "right": "When you arrive, call me.", "why": "anche dopo when, as soon as e before si usa il presente per il futuro" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "If you ___ (send) us the details, we will investigate.", "a": ["send"], "hint": "dopo if", "explain": "Dopo if si usa il presente semplice." },
+    { "q": "If the problem continues, we ___ (refund) the full amount.", "a": ["will refund", "'ll refund"], "hint": "promessa", "explain": "Parte principale: will + verbo base." },
+    { "q": "We will call you if the server ___ (crash) again.", "a": ["crashes"], "hint": "terza persona", "explain": "Dopo if presente: he/she/it → verbo + s." },
+    { "q": "If we ___ (not / receive) the files, we can't start.", "a": ["don't receive", "do not receive"], "hint": "negativo", "explain": "Negativo al presente: don't + verbo base." },
+    { "q": "If you pay today, you ___ (get) a discount.", "a": ["will get", "'ll get"], "hint": "risultato", "explain": "Il risultato futuro vuole will." },
+    { "q": "I will let you know if there ___ (be) any delay.", "a": ["is"], "hint": "presente di be", "explain": "Dopo if il verbo è al presente: if there is any delay." },
+    { "q": "We won't start ___ you approve the plan. (a meno che non)", "a": ["unless"], "hint": "a meno che", "explain": "Unless = if not." },
+    { "q": "As soon as the client ___ (reply), I will update you.", "a": ["replies"], "hint": "as soon as", "explain": "Dopo as soon as si usa il presente, non will." },
+    { "q": "If you ___ any questions, please contact me. (avere)", "a": ["have"], "hint": "presente", "explain": "If you have any questions... è una frase fissa." },
+    { "q": "If the page doesn't load, you ___ try again later. (potete)", "a": ["can", "could"], "hint": "possibilità", "explain": "Can al posto di will per una possibilità." },
+    { "q": "We are very sorry ___ the delay. (per)", "a": ["for"], "hint": "preposizione", "explain": "To apologise / be sorry for + nome." },
+    { "q": "Please accept our ___ for the inconvenience. (scuse)", "a": ["apologies", "apology"], "hint": "nome", "explain": "Please accept our apologies è la formula standard." }
+  ],
+  "phrases": [
+    { "group": "Fare un reclamo", "en": "I'm writing to complain about...", "it": "Scrivo per lamentarmi di...", "note": "formula d'apertura formale" },
+    { "group": "Fare un reclamo", "en": "I'm afraid I'm not satisfied with the service.", "it": "Temo di non essere soddisfatto del servizio.", "note": "I'm afraid ammorbidisce il tono" },
+    { "group": "Fare un reclamo", "en": "This is the third time this has happened.", "it": "È la terza volta che succede.", "note": "ferma ma non aggressiva" },
+    { "group": "Fare un reclamo", "en": "I would appreciate a prompt reply.", "it": "Gradirei una risposta tempestiva." },
+    { "group": "Fare un reclamo", "en": "I expected a much higher standard.", "it": "Mi aspettavo uno standard molto più alto." },
+    { "group": "Chiedere scusa", "en": "I'm very sorry for the delay.", "it": "Mi dispiace molto per il ritardo." },
+    { "group": "Chiedere scusa", "en": "Please accept our sincere apologies.", "it": "Vi preghiamo di accettare le nostre sincere scuse.", "note": "mail formali" },
+    { "group": "Chiedere scusa", "en": "We apologise for any inconvenience.", "it": "Ci scusiamo per gli eventuali disagi." },
+    { "group": "Chiedere scusa", "en": "It was our mistake, and we take full responsibility.", "it": "È stato un nostro errore e ce ne assumiamo la piena responsabilità." },
+    { "group": "Chiedere scusa", "en": "That should not have happened.", "it": "Non sarebbe dovuto succedere." },
+    { "group": "Spiegare e rassicurare", "en": "I understand how frustrating this must be.", "it": "Capisco quanto sia frustrante.", "note": "empatia prima della soluzione" },
+    { "group": "Spiegare e rassicurare", "en": "We are looking into the cause right now.", "it": "Stiamo cercando la causa proprio adesso." },
+    { "group": "Spiegare e rassicurare", "en": "I can assure you that this will not happen again.", "it": "Posso assicurarvi che non succederà di nuovo." },
+    { "group": "Spiegare e rassicurare", "en": "Thank you for bringing this to our attention.", "it": "Grazie per avercelo segnalato.", "note": "frase classica del servizio clienti" },
+    { "group": "Proporre un rimedio", "en": "If you send us the details, we will fix it today.", "it": "Se ci mandate i dettagli, lo sistemeremo oggi." },
+    { "group": "Proporre un rimedio", "en": "We would like to offer you a full refund.", "it": "Vorremmo offrirvi un rimborso totale." },
+    { "group": "Proporre un rimedio", "en": "We will replace it free of charge.", "it": "Lo sostituiremo gratuitamente." },
+    { "group": "Proporre un rimedio", "en": "As a goodwill gesture, we'd like to offer you a 10 percent discount.", "it": "Come gesto di cortesia, vorremmo offrirvi uno sconto del 10 percento." },
+    { "group": "Proporre un rimedio", "en": "We'll make sure this is resolved by Friday.", "it": "Ci assicureremo che sia risolto entro venerdì." },
+    { "group": "Se la situazione non migliora", "en": "If this isn't resolved by Monday, I will have to escalate it.", "it": "Se non sarà risolto entro lunedì, dovrò passare la questione a un livello superiore.", "note": "ferma ma educata" },
+    { "group": "Se la situazione non migliora", "en": "Unless we hear from you, we will cancel the order.", "it": "Se non avremo vostre notizie, annulleremo l'ordine." },
+    { "group": "Se la situazione non migliora", "en": "If you are still not happy, please let us know.", "it": "Se non siete ancora soddisfatti, fatecelo sapere." },
+    { "group": "Chiudere la mail", "en": "Thank you for your patience and understanding.", "it": "Grazie per la pazienza e la comprensione." },
+    { "group": "Chiudere la mail", "en": "We will keep you posted.", "it": "Vi terremo aggiornati." },
+    { "group": "Chiudere la mail", "en": "Once again, I apologise for the inconvenience.", "it": "Ancora una volta, mi scuso per il disagio." }
+  ],
+  "dialogue": {
+    "title": "An unhappy client",
+    "context": "Il cliente Mr Evans chiama perché il suo negozio online è rimasto fermo due ore durante i saldi. Anna, della società di assistenza, ascolta, si scusa e propone una soluzione.",
+    "lines": [
+      { "s": "A", "name": "Mr Evans", "en": "Hello, this is Tom Evans. I'm calling to complain. My shop was offline for two hours this morning.", "it": "Buongiorno, sono Tom Evans. Chiamo per fare un reclamo. Il mio negozio è stato offline per due ore stamattina." },
+      { "s": "B", "name": "Anna", "en": "Good morning, Mr Evans. I'm very sorry to hear that. I understand how frustrating this must be.", "it": "Buongiorno, signor Evans. Mi dispiace molto. Capisco quanto sia frustrante." },
+      { "s": "A", "name": "Mr Evans", "en": "It's the middle of the sales! I lost a lot of orders. This is unacceptable.", "it": "Siamo in pieno periodo di saldi! Ho perso molti ordini. È inaccettabile." },
+      { "s": "B", "name": "Anna", "en": "You're right, and I apologise. Thank you for bringing this to our attention. May I ask a few questions?", "it": "Ha ragione, e mi scuso. Grazie per avercelo segnalato. Posso farle alcune domande?" },
+      { "s": "A", "name": "Mr Evans", "en": "Of course. But I want to know what happened.", "it": "Certo. Ma voglio sapere cosa è successo." },
+      { "s": "B", "name": "Anna", "en": "Our technicians are investigating the root cause. If I get the report by this afternoon, I will send it to you.", "it": "I nostri tecnici stanno indagando sulla causa principale. Se ricevo il rapporto entro oggi pomeriggio, glielo mando." },
+      { "s": "A", "name": "Mr Evans", "en": "And what about the lost sales? Will you compensate me?", "it": "E le vendite perse? Mi risarcirete?" },
+      { "s": "B", "name": "Anna", "en": "If you send me the details of the lost orders, we will review them and see what we can do.", "it": "Se mi manda i dettagli degli ordini persi, li esamineremo e vedremo cosa possiamo fare." },
+      { "s": "A", "name": "Mr Evans", "en": "I'd like a refund for this month's hosting at least.", "it": "Vorrei almeno un rimborso dell'hosting di questo mese." },
+      { "s": "B", "name": "Anna", "en": "That seems fair. As a goodwill gesture, we will refund this month's fee in full.", "it": "Mi sembra giusto. Come gesto di cortesia, rimborseremo per intero la quota di questo mese." },
+      { "s": "A", "name": "Mr Evans", "en": "Thank you. But if this happens again, I will change provider.", "it": "Grazie. Ma se succede di nuovo, cambierò fornitore." },
+      { "s": "B", "name": "Anna", "en": "I understand. I can assure you that we will take action immediately.", "it": "Capisco. Le assicuro che prenderemo subito provvedimenti." },
+      { "s": "A", "name": "Mr Evans", "en": "Please keep me posted.", "it": "Mi tenga aggiornato, per favore." },
+      { "s": "B", "name": "Anna", "en": "Of course. I'll write to you by five o'clock. Thank you for your patience, Mr Evans.", "it": "Certamente. Le scrivo entro le cinque. Grazie per la pazienza, signor Evans." }
+    ]
+  },
+  "listening": [
+    { "q": "Why is Mr Evans calling?", "options": ["His online shop was offline for two hours", "He wants to buy a new website", "He cannot find his invoice"], "answer": 0 },
+    { "q": "When will Anna send the technical report?", "options": ["Tomorrow morning", "If she gets it by this afternoon", "Next week"], "answer": 1 },
+    { "q": "What does Anna offer as a goodwill gesture?", "options": ["A new website for free", "A discount of fifty percent", "A full refund of this month's hosting fee"], "answer": 2 },
+    { "q": "What will Mr Evans do if the problem happens again?", "options": ["Change provider", "Call the police", "Wait patiently"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Se ci mandate i dettagli, risolveremo il problema oggi.", "en": "If you send us the details, we will resolve the problem today.", "alt": ["If you send us the details, we'll fix the problem today.", "If you send us the details, we will solve the problem today."] },
+    { "it": "Ci scusiamo per gli eventuali disagi.", "en": "We apologise for any inconvenience.", "alt": ["We apologize for any inconvenience.", "We are sorry for any inconvenience."] },
+    { "it": "Se il problema continua, vi rimborseremo l'intero importo.", "en": "If the problem continues, we will refund the full amount.", "alt": ["If the problem persists, we will refund the full amount.", "If the problem continues, we'll refund you in full."] },
+    { "it": "È stata colpa nostra e ci assumiamo la responsabilità.", "en": "It was our fault and we take responsibility.", "alt": ["It was our mistake and we take responsibility.", "It was our fault, and we take full responsibility."] },
+    { "it": "Non possiamo cominciare a meno che non approviate il design.", "en": "We can't start unless you approve the design.", "alt": ["We cannot start unless you approve the design.", "We can't start if you don't approve the design."] },
+    { "it": "Capisco quanto sia frustrante per voi.", "en": "I understand how frustrating this is for you.", "alt": ["I understand how frustrating this must be for you.", "I understand how frustrating it is for you."] },
+    { "it": "Grazie per la vostra pazienza.", "en": "Thank you for your patience.", "alt": ["Thanks for your patience.", "We thank you for your patience."] },
+    { "it": "Mi aspettavo uno standard molto più alto.", "en": "I expected a much higher standard.", "alt": ["I was expecting a much higher standard.", "I expected a far higher standard."] },
+    { "it": "Se non risolvete il problema entro lunedì, annulleremo l'ordine.", "en": "If you don't resolve the problem by Monday, we will cancel the order.", "alt": ["If you don't fix the problem by Monday, we'll cancel the order.", "If the problem isn't resolved by Monday, we will cancel the order."] },
+    { "it": "Vi terremo aggiornati sui progressi.", "en": "We will keep you posted on our progress.", "alt": ["We'll keep you posted on our progress.", "We will keep you updated on our progress."] },
+    { "it": "Come gesto di cortesia, vi offriamo uno sconto.", "en": "As a goodwill gesture, we are offering you a discount.", "alt": ["As a goodwill gesture, we'd like to offer you a discount.", "As a goodwill gesture, we will offer you a discount."] },
+    { "it": "Posso assicurarvi che non succederà di nuovo.", "en": "I can assure you that this will not happen again.", "alt": ["I can assure you it won't happen again.", "I can assure you that this won't happen again."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente ti ha scritto arrabbiato: il suo sito è rimasto offline per tre ore ieri sera. Scrivi la risposta. Chiedi scusa, spiega che state cercando la causa, prometti un rimedio con il primo condizionale (per esempio If we find the problem on our side, we will refund this month's fee) e di' che lo terrai aggiornato. Tono professionale, 6-8 righe.",
+    "taskEn": "A client has written to you, angry: his website was offline for three hours last night. Write your reply. Apologise, explain that you are looking for the cause, promise a solution using the first conditional (for example If we find the problem on our side, we will refund this month's fee) and say that you will keep him posted. Professional tone, 6-8 lines.",
+    "model": "Subject: Re: Website offline last night\n\nDear Mr Evans,\n\nThank you for bringing this to our attention. I am very sorry that your website was offline for three hours last night. I understand how frustrating this must be.\n\nOur technicians are investigating the root cause right now. If we find that the problem is on our side, we will refund this month's hosting fee in full.\n\nIf you send me the times of the outage, I will compare them with our server logs.\n\nI will keep you posted and write to you again by five o'clock today.\n\nOnce again, please accept our sincere apologies for the inconvenience.\n\nKind regards,\nAnna Rossi"
+  },
+  "speaking": {
+    "shadowing": [
+      "I'm very sorry for the delay.",
+      "I understand how frustrating this must be.",
+      "If you send us the details, we will fix it today.",
+      "Thank you for bringing this to our attention.",
+      "We take full responsibility for the mistake.",
+      "Unless we hear from you, we will cancel the order.",
+      "As a goodwill gesture, we will refund this month's fee.",
+      "I can assure you that this will not happen again."
+    ],
+    "prompts": [
+      { "en": "Tell me about a time when you complained about a product or a service.", "it": "Raccontami di una volta in cui hai fatto un reclamo per un prodotto o un servizio.", "help": "Inizia con: Once I bought... / The problem was... / In the end, they..." },
+      { "en": "A client is angry about a delay. What do you say?", "it": "Un cliente è arrabbiato per un ritardo. Cosa dici?", "help": "Usa: I'm very sorry... / I understand... / If you..., we will..." },
+      { "en": "What happens if a website goes down during a big sale?", "it": "Cosa succede se un sito va giù durante i saldi?", "help": "Usa il primo condizionale: If a website goes down, the shop will lose..." },
+      { "en": "How do you apologise in a professional email?", "it": "Come ci si scusa in una mail professionale?", "help": "Usa: Please accept our apologies... / We take responsibility... / We apologise for..." },
+      { "en": "What would you offer an unhappy client to make up for a mistake?", "it": "Cosa offriresti a un cliente scontento per rimediare a un errore?", "help": "Usa: We will refund... / We would like to offer... / As a goodwill gesture..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: lamentele e scuse",
+      "show": ["Complaints and apologies", "Il primo condizionale", "If + presente, will"],
+      "say": [
+        { "lang": "it", "text": "Lezione quattordici. Oggi vediamo come fare un reclamo e come rispondere a un cliente arrabbiato. Impariamo anche il primo condizionale, che ti serve per fare promesse chiare." },
+        { "lang": "en", "text": "I'm very sorry for the inconvenience." }
+      ]
+    },
+    {
+      "title": "La struttura del primo condizionale",
+      "show": ["If + present simple", "will + verbo base", "If you send it, we will fix it"],
+      "say": [
+        { "lang": "it", "text": "Il primo condizionale ha due parti. La parte con if va al presente. La parte principale usa will e il verbo base. Parla di cose possibili nel futuro." },
+        { "lang": "en", "text": "If you send us the details, we will fix the problem." }
+      ]
+    },
+    {
+      "title": "Mai will dopo if",
+      "show": ["Sbagliato: If you will send", "Giusto: If you send", "Presente anche per il futuro"],
+      "say": [
+        { "lang": "it", "text": "Attenzione all'errore più comune. Dopo if non si usa mai will. Anche se parli di domani, il verbo dopo if resta al presente. In italiano diciamo: se manderai. In inglese, se mandi." },
+        { "lang": "en", "text": "If the server goes down again, I will call you." }
+      ]
+    },
+    {
+      "title": "Invertire l'ordine",
+      "show": ["If..., we will...", "We will... if...", "Virgola solo con if all'inizio"],
+      "say": [
+        { "lang": "it", "text": "Puoi cambiare l'ordine delle due parti. Se la frase comincia con if, metti la virgola. Se comincia con la parte principale, di solito non la metti." },
+        { "lang": "en", "text": "We will refund you if the product arrives damaged." }
+      ]
+    },
+    {
+      "title": "Unless e altri verbi",
+      "show": ["unless = if not", "can, may, might, should", "If you have questions, call me"],
+      "say": [
+        { "lang": "it", "text": "Unless vuol dire a meno che non. Dopo unless il verbo è affermativo. Al posto di will puoi usare can, may, might, should, oppure un imperativo." },
+        { "lang": "en", "text": "We can't start unless you approve the design." },
+        { "lang": "en", "text": "If you have any questions, please contact me." }
+      ]
+    },
+    {
+      "title": "Chiedere scusa in modo professionale",
+      "show": ["I'm very sorry for...", "Please accept our apologies", "We take full responsibility"],
+      "say": [
+        { "lang": "it", "text": "Per chiedere scusa a un cliente, prima mostra empatia, poi prenditi la responsabilità, poi offri una soluzione. Non dare la colpa a nessuno." },
+        { "lang": "en", "text": "I understand how frustrating this must be." },
+        { "lang": "en", "text": "It was our mistake, and we take full responsibility." }
+      ]
+    },
+    {
+      "title": "Proporre un rimedio",
+      "show": ["a full refund", "replace it free of charge", "a goodwill gesture"],
+      "say": [
+        { "lang": "it", "text": "Ora le parole del rimedio. Un rimborso si dice refund. Sostituire si dice replace. Un gesto di cortesia si dice goodwill gesture. Usale con il primo condizionale." },
+        { "lang": "en", "text": "If the problem continues, we will refund the full amount." },
+        { "lang": "en", "text": "As a goodwill gesture, we'd like to offer you a discount." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["If + presente, will + verbo base", "Mai will dopo if", "Scusa, empatia, soluzione"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Primo condizionale: if con il presente, poi will con il verbo base. Mai will dopo if. Quando chiedi scusa, usa tre passi: empatia, responsabilità, soluzione. E tieni il cliente aggiornato." },
+        { "lang": "en", "text": "We will keep you posted." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": 7,
+  "week": 2,
+  "title": "Problemi e soluzioni",
+  "titleEn": "Problems and solutions",
+  "intro": "Oggi impari a raccontare un guasto, un errore o un disservizio: cosa è successo, cosa stavi facendo, come lo hai risolto. È la lezione che ti serve quando un sito va giù, quando un cliente chiede spiegazioni o quando scrivi un report dopo un problema.",
+  "goals": [
+    "Raccontare cosa è successo usando past simple e past continuous",
+    "Collegare le frasi con when e while senza confondere i tempi",
+    "Descrivere un problema, la sua causa e la soluzione a un cliente",
+    "Scrivere una breve mail di scuse e aggiornamento dopo un guasto"
+  ],
+  "words": [
+    { "en": "bug", "pron": "bàg", "it": "errore nel codice, difetto del software", "type": "noun", "ex": "We found a bug in the contact form.", "exIt": "Abbiamo trovato un bug nel modulo di contatto." },
+    { "en": "glitch", "pron": "glìc", "it": "piccolo difetto temporaneo, intoppo", "type": "noun", "ex": "It was just a glitch, and it went away on its own.", "exIt": "Era solo un intoppo ed è sparito da solo." },
+    { "en": "to crash", "pron": "kràsc", "it": "andare in crash, bloccarsi di colpo", "type": "verb", "ex": "The app crashed when I opened the settings page.", "exIt": "L'app è andata in crash quando ho aperto la pagina delle impostazioni." },
+    { "en": "to fail", "pron": "fèil", "it": "fallire, non riuscire", "type": "verb", "ex": "The payment failed three times this morning.", "exIt": "Il pagamento è fallito tre volte stamattina." },
+    { "en": "failure", "pron": "fèilier", "it": "guasto, fallimento", "type": "noun", "ex": "The failure was caused by a full disk.", "exIt": "Il guasto è stato causato da un disco pieno." },
+    { "en": "error message", "pron": "èror mèsidg", "it": "messaggio di errore", "type": "noun", "ex": "Can you send me a screenshot of the error message?", "exIt": "Mi puoi mandare uno screenshot del messaggio di errore?" },
+    { "en": "outage", "pron": "àutidg", "it": "interruzione del servizio", "type": "noun", "ex": "There was a two-hour outage on Friday night.", "exIt": "Venerdì sera c'è stata un'interruzione del servizio di due ore." },
+    { "en": "downtime", "pron": "dàuntaim", "it": "tempo di inattività (di un sito o servizio)", "type": "noun", "ex": "We want to keep downtime as short as possible.", "exIt": "Vogliamo tenere il fermo del servizio più breve possibile." },
+    { "en": "to troubleshoot", "pron": "tràbolsciut", "it": "cercare e risolvere un problema, fare diagnosi", "type": "verb", "ex": "I'm still troubleshooting the login issue.", "exIt": "Sto ancora cercando di capire il problema del login." },
+    { "en": "to investigate", "pron": "invèstigheit", "it": "indagare, approfondire", "type": "verb", "ex": "We're investigating why the site is so slow.", "exIt": "Stiamo indagando sul perché il sito sia così lento." },
+    { "en": "to diagnose", "pron": "dàiagnous", "it": "diagnosticare, individuare la causa", "type": "verb", "ex": "It took us an hour to diagnose the problem.", "exIt": "Ci è voluta un'ora per individuare il problema." },
+    { "en": "root cause", "pron": "rùut kòoz", "it": "causa principale, origine del problema", "type": "noun", "ex": "The root cause was an expired certificate.", "exIt": "La causa principale era un certificato scaduto." },
+    { "en": "symptom", "pron": "sìmptom", "it": "sintomo", "type": "noun", "ex": "A slow page is a symptom, not the real problem.", "exIt": "Una pagina lenta è un sintomo, non il vero problema." },
+    { "en": "to reproduce", "pron": "riprodiùs", "it": "riprodurre (un problema)", "type": "verb", "ex": "I can't reproduce the error on my computer.", "exIt": "Non riesco a riprodurre l'errore sul mio computer." },
+    { "en": "workaround", "pron": "uèrkaraund", "it": "soluzione provvisoria, espediente", "type": "noun", "ex": "Here is a workaround until we release the fix.", "exIt": "Ecco una soluzione provvisoria finché non rilasciamo la correzione." },
+    { "en": "flaky", "pron": "flèiki", "it": "instabile, che funziona a intermittenza", "type": "adj", "ex": "We have a flaky test that fails every few runs.", "exIt": "Abbiamo un test instabile che fallisce ogni tanto." },
+    { "en": "to resolve", "pron": "rizòlv", "it": "risolvere, chiudere (un problema)", "type": "verb", "ex": "The issue has been resolved and everything works again.", "exIt": "Il problema è stato risolto e tutto funziona di nuovo." },
+    { "en": "to restore", "pron": "ristòr", "it": "ripristinare", "type": "verb", "ex": "We restored the site from last night's backup.", "exIt": "Abbiamo ripristinato il sito dal backup di ieri notte." },
+    { "en": "to roll back", "pron": "ròul bàk", "it": "tornare alla versione precedente", "type": "verb", "ex": "We had to roll back the update because it broke the checkout.", "exIt": "Abbiamo dovuto tornare alla versione precedente perché l'aggiornamento bloccava il checkout." },
+    { "en": "patch", "pron": "pàc", "it": "correzione, aggiornamento di sicurezza", "type": "noun", "ex": "The security patch was installed overnight.", "exIt": "L'aggiornamento di sicurezza è stato installato durante la notte." },
+    { "en": "to apologise", "pron": "apòlogiaiz", "it": "chiedere scusa", "type": "verb", "ex": "I apologise for the delay in getting back to you.", "exIt": "Mi scuso per il ritardo nel risponderti." },
+    { "en": "inconvenience", "pron": "inkonvìniens", "it": "disagio, fastidio", "type": "noun", "ex": "We're sorry for any inconvenience this may have caused.", "exIt": "Ci scusiamo per l'eventuale disagio causato." },
+    { "en": "to affect", "pron": "afèkt", "it": "coinvolgere, avere effetto su", "type": "verb", "ex": "The problem only affected mobile users.", "exIt": "Il problema ha riguardato solo chi usava il telefono." },
+    { "en": "to occur", "pron": "okèr", "it": "verificarsi, capitare", "type": "verb", "ex": "The error occurs only when you upload a large file.", "exIt": "L'errore si verifica solo quando carichi un file grande." },
+    { "en": "to misbehave", "pron": "misbihèiv", "it": "non funzionare come dovrebbe", "type": "verb", "ex": "The menu misbehaves on small screens.", "exIt": "Il menu non funziona come dovrebbe sugli schermi piccoli." },
+    { "en": "to realise", "pron": "rìalaiz", "it": "rendersi conto", "type": "verb", "ex": "I realised I had overwritten the wrong file.", "exIt": "Mi sono reso conto di aver sovrascritto il file sbagliato." },
+    { "en": "to turn out", "pron": "tèrn àut", "it": "rivelarsi, risultare", "type": "verb", "ex": "The problem turned out to be a typo in the settings.", "exIt": "Il problema si è rivelato un errore di battitura nelle impostazioni." },
+    { "en": "to hang", "pron": "hàng", "it": "bloccarsi (un programma)", "type": "verb", "ex": "The page hangs when I click Save.", "exIt": "La pagina si blocca quando clicco su Salva." },
+    { "en": "to overload", "pron": "ouverlòud", "it": "sovraccaricare", "type": "verb", "ex": "Too many visitors overloaded the server.", "exIt": "Troppi visitatori hanno sovraccaricato il server." },
+    { "en": "to expire", "pron": "ikspàier", "it": "scadere (certificato, licenza)", "type": "verb", "ex": "Our SSL certificate expired on Sunday.", "exIt": "Il nostro certificato SSL è scaduto domenica." },
+    { "en": "to corrupt", "pron": "korràpt", "it": "danneggiare (dati, file)", "type": "verb", "ex": "The power cut corrupted the database.", "exIt": "Il blackout ha danneggiato il database." },
+    { "en": "backup", "pron": "bàkap", "it": "copia di sicurezza", "type": "noun", "ex": "Always make a backup before you change anything.", "exIt": "Fai sempre una copia di sicurezza prima di cambiare qualcosa." },
+    { "en": "in the meantime", "pron": "in de mìintaim", "it": "nel frattempo", "type": "phrase", "ex": "In the meantime, please use the old login page.", "exIt": "Nel frattempo, usa la vecchia pagina di accesso." },
+    { "en": "as a result", "pron": "az a rizàlt", "it": "di conseguenza", "type": "phrase", "ex": "The server ran out of memory. As a result, the site went down.", "exIt": "Il server ha finito la memoria. Di conseguenza il sito è andato giù." },
+    { "en": "due to", "pron": "diù tu", "it": "a causa di, dovuto a", "type": "prep", "ex": "The delay was due to a problem with the hosting provider.", "exIt": "Il ritardo era dovuto a un problema con il fornitore di hosting." },
+    { "en": "because of", "pron": "bikòz ov", "it": "a causa di, per colpa di", "type": "prep", "ex": "Because of the bug, some orders were not saved.", "exIt": "A causa del bug, alcuni ordini non sono stati salvati." },
+    { "en": "suddenly", "pron": "sàdenli", "it": "all'improvviso", "type": "adv", "ex": "Suddenly the whole page turned white.", "exIt": "All'improvviso tutta la pagina è diventata bianca." },
+    { "en": "at the time", "pron": "at de tàim", "it": "in quel momento, allora", "type": "phrase", "ex": "At the time, nobody knew what was wrong.", "exIt": "In quel momento nessuno sapeva cosa non andasse." },
+    { "en": "luckily", "pron": "làkili", "it": "per fortuna", "type": "adv", "ex": "Luckily, we had a recent backup.", "exIt": "Per fortuna avevamo un backup recente." },
+    { "en": "unfortunately", "pron": "anfòrciunetli", "it": "purtroppo", "type": "adv", "ex": "Unfortunately, we can't fix it before Monday.", "exIt": "Purtroppo non possiamo risolverlo prima di lunedì." },
+    { "en": "mistake", "pron": "mistèik", "it": "sbaglio, errore umano", "type": "noun", "ex": "It was my mistake, and I'm sorry.", "exIt": "È stato un mio errore e mi dispiace." },
+    { "en": "to blame", "pron": "blèim", "it": "dare la colpa a", "type": "verb", "ex": "I don't want to blame anyone; I want to understand what happened.", "exIt": "Non voglio dare la colpa a nessuno: voglio capire cosa è successo." },
+    { "en": "to be responsible for", "pron": "bi rispònsibol for", "it": "essere responsabile di", "type": "phrase", "ex": "Who is responsible for the backups?", "exIt": "Chi è responsabile dei backup?" },
+    { "en": "faulty", "pron": "fòlti", "it": "difettoso", "type": "adj", "ex": "A faulty plugin caused the problem.", "exIt": "Un plugin difettoso ha causato il problema." },
+    { "en": "to stall", "pron": "stòol", "it": "bloccarsi, fermarsi", "type": "verb", "ex": "The upload stalled at ninety per cent.", "exIt": "Il caricamento si è fermato al novanta per cento." },
+    { "en": "temporary", "pron": "tèmporeri", "it": "temporaneo", "type": "adj", "ex": "This is only a temporary solution.", "exIt": "Questa è solo una soluzione temporanea." },
+    { "en": "permanent", "pron": "pèrmanent", "it": "definitivo, permanente", "type": "adj", "ex": "We are working on a permanent fix.", "exIt": "Stiamo lavorando a una correzione definitiva." },
+    { "en": "side effect", "pron": "sàid ifèkt", "it": "effetto collaterale", "type": "noun", "ex": "The update had an unexpected side effect on the search bar.", "exIt": "L'aggiornamento ha avuto un effetto collaterale inatteso sulla barra di ricerca." },
+    { "en": "to prevent", "pron": "privènt", "it": "evitare, impedire", "type": "verb", "ex": "How can we prevent this from happening again?", "exIt": "Come possiamo evitare che succeda di nuovo?" },
+    { "en": "lessons learned", "pron": "lèsonz lèrnd", "it": "cosa abbiamo imparato (dopo un problema)", "type": "noun", "ex": "We wrote a short lessons learned document after the outage.", "exIt": "Dopo il disservizio abbiamo scritto un breve documento su cosa abbiamo imparato." }
+  ],
+  "falseFriends": [
+    { "en": "to realise", "it": "rendersi conto", "trap": "Non vuol dire 'realizzare' (= to make, to carry out). Per 'realizzare un sito' si dice to build o to create." },
+    { "en": "actually", "it": "in realtà, a dire il vero", "trap": "Non vuol dire 'attualmente' (= currently). 'Actually, the bug was in the form' significa 'in realtà il bug era nel modulo'." },
+    { "en": "to notice", "it": "notare, accorgersi", "trap": "Non ha niente a che fare con 'notizia' (= news). Come nome, notice vuol dire avviso o preavviso." }
+  ],
+  "grammar": {
+    "title": "Past continuous e past simple; when e while",
+    "explainIt": [
+      "Quando racconti un problema, di solito usi due tempi insieme. Il past simple dice cosa è successo: un fatto finito, un momento preciso. Il past continuous dice cosa stava succedendo intorno a quel fatto: lo sfondo, l'azione in corso.",
+      "Il past continuous si forma con was o were più il verbo in -ing. Esempio: 'I was updating the plugin.' Significa 'stavo aggiornando il plugin'. Con I, he, she, it si usa was. Con you, we, they si usa were.",
+      "Lo schema classico è: azione lunga in past continuous, azione breve che la interrompe in past simple. 'I was updating the site when the server crashed.' Stavo aggiornando (azione lunga), il server è andato in crash (azione breve che interrompe).",
+      "When e while collegano le due azioni. While si usa con l'azione lunga: 'While I was updating the site, the server crashed.' When si usa spesso con l'azione breve: 'The server crashed when I was updating the site.' Con when puoi anche mettere due fatti uno dopo l'altro: 'When I clicked save, the page crashed.' Qui il primo fatto viene prima del secondo.",
+      "Puoi usare il past continuous anche per due azioni che vanno avanti nello stesso tempo: 'While I was fixing the bug, my colleague was testing the new page.' Attenzione: con i verbi di stato come know, want, like, understand di solito non si usa la forma in -ing. Si dice 'I didn't know', non 'I wasn't knowing'."
+    ],
+    "explainEn": [
+      "When you tell a story about a problem, you often use two tenses together. The past simple says what happened: a finished action at a clear moment. The past continuous says what was in progress around that moment: the background.",
+      "You make the past continuous with was or were and the -ing form. For example: 'I was updating the plugin.' Use was with I, he, she and it. Use were with you, we and they.",
+      "The classic pattern is a long action in the past continuous and a short action in the past simple that interrupts it. 'I was updating the site when the server crashed.' The update was in progress, and the crash interrupted it.",
+      "When and while connect the two actions. Use while with the long action: 'While I was updating the site, the server crashed.' Use when often with the short action: 'The server crashed when I was updating the site.' You can also use when for two events one after the other: 'When I clicked save, the page crashed.' The first event comes before the second.",
+      "You can also use the past continuous for two actions that went on at the same time: 'While I was fixing the bug, my colleague was testing the new page.' Remember that state verbs like know, want, like and understand are not usually used in the -ing form. We say 'I didn't know', not 'I wasn't knowing'."
+    ],
+    "rules": [
+      {
+        "it": "Il past continuous si forma con was/were + verbo in -ing e descrive un'azione in corso nel passato.",
+        "en": "The past continuous is was/were + -ing and describes an action in progress in the past.",
+        "form": "was/were + verbo-ing",
+        "examples": [
+          { "en": "I was working on the homepage at 5 p.m.", "it": "Alle 17 stavo lavorando sulla homepage." },
+          { "en": "They weren't using the new version.", "it": "Non stavano usando la nuova versione." },
+          { "en": "Were you testing the form when it failed?", "it": "Stavi provando il modulo quando ha smesso di funzionare?" }
+        ]
+      },
+      {
+        "it": "Un'azione breve che interrompe un'azione lunga va al past simple; quella lunga al past continuous.",
+        "en": "A short action that interrupts a longer one is in the past simple; the longer one is in the past continuous.",
+        "form": "past continuous + when + past simple",
+        "examples": [
+          { "en": "I was uploading the files when the connection dropped.", "it": "Stavo caricando i file quando è caduta la connessione." },
+          { "en": "She was presenting the results when the screen froze.", "it": "Stava presentando i risultati quando lo schermo si è bloccato." }
+        ]
+      },
+      {
+        "it": "While si usa con l'azione in corso (past continuous). Mai while con un fatto istantaneo.",
+        "en": "Use while with the action in progress (past continuous), not with a sudden, short event.",
+        "form": "while + past continuous, past simple",
+        "examples": [
+          { "en": "While I was checking the logs, I noticed a strange error.", "it": "Mentre controllavo i log, ho notato uno strano errore." },
+          { "en": "The page crashed while we were testing it.", "it": "La pagina è andata in crash mentre la stavamo provando." }
+        ]
+      },
+      {
+        "it": "When con due fatti brevi al past simple indica una sequenza: prima uno, poi l'altro.",
+        "en": "When with two short events in the past simple shows a sequence: first one, then the other.",
+        "form": "when + past simple, past simple",
+        "examples": [
+          { "en": "When I restarted the server, the error disappeared.", "it": "Quando ho riavviato il server, l'errore è sparito." },
+          { "en": "When the client called, I explained the problem.", "it": "Quando ha chiamato il cliente, ho spiegato il problema." }
+        ]
+      },
+      {
+        "it": "Due azioni lunghe nello stesso momento: tutte e due al past continuous, collegate da while.",
+        "en": "Two long actions at the same time: both in the past continuous, joined with while.",
+        "form": "while + past continuous, past continuous",
+        "examples": [
+          { "en": "While I was fixing the bug, Anna was calling the client.", "it": "Mentre sistemavo il bug, Anna stava chiamando il cliente." },
+          { "en": "The team was working while the server was restarting.", "it": "Il team lavorava mentre il server si riavviava." }
+        ]
+      }
+    ],
+    "tip": "Pensa a un film: il past continuous è la scena di sfondo che dura, il past simple è il colpo di scena che la interrompe. 'Stavo facendo... quando è successo...' si traduce quasi parola per parola: was doing... when it happened.",
+    "mistakes": [
+      { "wrong": "I was send the file when the server crashed.", "right": "I was sending the file when the server crashed.", "why": "dopo was/were serve il verbo in -ing" },
+      { "wrong": "While the server crashed, I was working.", "right": "While I was working, the server crashed.", "why": "while va con l'azione lunga, non con il fatto improvviso" },
+      { "wrong": "I wasn't knowing what the error meant.", "right": "I didn't know what the error meant.", "why": "know è un verbo di stato: niente forma in -ing" },
+      { "wrong": "When I was clicking save, the page crashed immediately.", "right": "When I clicked save, the page crashed immediately.", "why": "se un fatto avviene subito dopo l'altro, entrambi al past simple" },
+      { "wrong": "I have found the bug yesterday.", "right": "I found the bug yesterday.", "why": "con yesterday e un momento preciso si usa il past simple" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I ___ (update) the plugin when the site crashed.", "a": ["was updating"], "hint": "azione lunga interrotta", "explain": "Azione in corso interrotta da un fatto breve: past continuous." },
+    { "q": "While I was working, the power ___ (go) off.", "a": ["went"], "hint": "fatto improvviso", "explain": "Il fatto improvviso va al past simple. Go è irregolare: went." },
+    { "q": "We ___ (not / use) the new version when the bug appeared.", "a": ["weren't using", "were not using"], "hint": "negativo, past continuous", "explain": "Negativo di were + using: weren't using." },
+    { "q": "What ___ (you, do) when the error occurred?", "a": ["were you doing"], "hint": "domanda: cosa stavi facendo?", "explain": "Domanda al past continuous: What were you doing?" },
+    { "q": "When I ___ (restart) the server, everything worked again.", "a": ["restarted"], "hint": "due fatti in sequenza", "explain": "Due fatti brevi uno dopo l'altro: past simple." },
+    { "q": "She ___ (present) the results when the projector stopped.", "a": ["was presenting"], "hint": "azione in corso", "explain": "Presentazione in corso, interrotta dal proiettore: past continuous." },
+    { "q": "I ___ (not / notice) the error until the client called.", "a": ["didn't notice", "did not notice"], "hint": "fatto finito, negativo", "explain": "Notice indica un momento preciso: past simple negativo." },
+    { "q": "While Marco was fixing the bug, I ___ (write) the report.", "a": ["was writing"], "hint": "due azioni lunghe insieme", "explain": "Due azioni parallele: tutte e due al past continuous." },
+    { "q": "The page crashed ___ I was saving it. (when / while)", "a": ["while", "when"], "hint": "azione in corso", "explain": "Con un'azione in corso, while è la scelta naturale (when è accettabile)." },
+    { "q": "We ___ (have) lunch when the client called.", "a": ["were having"], "hint": "pranzo in corso", "explain": "Have lunch è un'azione in corso: were having." },
+    { "q": "Yesterday the server ___ (crash) twice.", "a": ["crashed"], "hint": "ieri, fatto finito", "explain": "Fatto finito, momento preciso: past simple." },
+    { "q": "I didn't ___ (know) the password was wrong.", "a": ["know"], "hint": "dopo didn't", "explain": "Dopo didn't il verbo resta all'infinito senza to." }
+  ],
+  "phrases": [
+    { "group": "Raccontare cosa è successo", "en": "I was updating the site when it crashed.", "it": "Stavo aggiornando il sito quando è andato in crash." },
+    { "group": "Raccontare cosa è successo", "en": "What happened was this:", "it": "È andata così:", "note": "per introdurre il racconto" },
+    { "group": "Raccontare cosa è successo", "en": "Out of nowhere, the page went blank.", "it": "Di colpo la pagina è diventata bianca." },
+    { "group": "Raccontare cosa è successo", "en": "At first, we thought it was a network problem.", "it": "All'inizio pensavamo fosse un problema di rete." },
+    { "group": "Raccontare cosa è successo", "en": "It turned out to be a simple typo.", "it": "Si è rivelato un semplice errore di battitura." },
+    { "group": "Chiedere cosa è successo", "en": "What were you doing when it happened?", "it": "Cosa stavi facendo quando è successo?" },
+    { "group": "Chiedere cosa è successo", "en": "Can you walk me through what happened?", "it": "Puoi raccontarmi passo passo cosa è successo?", "note": "molto usata, tono gentile" },
+    { "group": "Chiedere cosa è successo", "en": "Did you get any error message?", "it": "Hai ricevuto qualche messaggio di errore?" },
+    { "group": "Chiedere cosa è successo", "en": "When did you first notice the problem?", "it": "Quando hai notato il problema per la prima volta?" },
+    { "group": "Spiegare causa e soluzione", "en": "The problem was caused by an expired certificate.", "it": "Il problema è stato causato da un certificato scaduto." },
+    { "group": "Spiegare causa e soluzione", "en": "We've found the root cause.", "it": "Abbiamo trovato la causa principale." },
+    { "group": "Spiegare causa e soluzione", "en": "We fixed it by rolling back the update.", "it": "L'abbiamo risolto tornando alla versione precedente." },
+    { "group": "Spiegare causa e soluzione", "en": "It should be working again now.", "it": "Ora dovrebbe funzionare di nuovo." },
+    { "group": "Spiegare causa e soluzione", "en": "There's a quick workaround for now.", "it": "Per ora c'è una soluzione provvisoria rapida." },
+    { "group": "Scusarsi con il cliente", "en": "I'm very sorry for the inconvenience.", "it": "Mi dispiace molto per il disagio." },
+    { "group": "Scusarsi con il cliente", "en": "We apologise for the interruption to your service.", "it": "Ci scusiamo per l'interruzione del vostro servizio.", "note": "formale, da usare nelle mail" },
+    { "group": "Scusarsi con il cliente", "en": "This was our mistake, and we take full responsibility.", "it": "È stato un nostro errore e ce ne assumiamo la piena responsabilità." },
+    { "group": "Scusarsi con il cliente", "en": "Thank you for your patience.", "it": "Grazie per la pazienza." },
+    { "group": "Scusarsi con il cliente", "en": "We'll keep you updated.", "it": "Vi terremo aggiornati." },
+    { "group": "Prevenire e imparare", "en": "We've taken steps to prevent this from happening again.", "it": "Abbiamo preso provvedimenti perché non succeda di nuovo." },
+    { "group": "Prevenire e imparare", "en": "From now on, we'll make a backup before every update.", "it": "D'ora in poi faremo un backup prima di ogni aggiornamento." },
+    { "group": "Prevenire e imparare", "en": "Let's do a quick review of what went wrong.", "it": "Facciamo una rapida revisione di cosa è andato storto." },
+    { "group": "Prevenire e imparare", "en": "No one is to blame here.", "it": "Qui non è colpa di nessuno." },
+    { "group": "Prevenire e imparare", "en": "As a result, we changed our process.", "it": "Di conseguenza abbiamo cambiato il nostro processo." },
+    { "group": "Prevenire e imparare", "en": "Unfortunately, it took longer than expected.", "it": "Purtroppo ci è voluto più del previsto." }
+  ],
+  "dialogue": {
+    "title": "The website was down",
+    "context": "La cliente Sarah chiama Luca, lo sviluppatore, perché stamattina il sito del suo negozio è rimasto fermo per un'ora. Luca spiega cosa è successo.",
+    "lines": [
+      { "s": "A", "name": "Sarah", "en": "Hi Luca, our website was down this morning. What happened?", "it": "Ciao Luca, il nostro sito era fermo stamattina. Cos'è successo?" },
+      { "s": "B", "name": "Luca", "en": "Hi Sarah, I'm sorry about that. I'm still checking the details, but I can tell you what I know.", "it": "Ciao Sarah, mi dispiace. Sto ancora controllando i dettagli, ma ti dico quello che so." },
+      { "s": "A", "name": "Sarah", "en": "I was uploading a new product when the page suddenly went blank.", "it": "Stavo caricando un nuovo prodotto quando la pagina è diventata bianca all'improvviso." },
+      { "s": "B", "name": "Luca", "en": "Yes, that was around nine. While you were uploading the product, the server ran out of memory.", "it": "Sì, erano circa le nove. Mentre caricavi il prodotto, il server ha finito la memoria." },
+      { "s": "A", "name": "Sarah", "en": "Was it my fault? Did I do something wrong?", "it": "È stata colpa mia? Ho sbagliato qualcosa?" },
+      { "s": "B", "name": "Luca", "en": "Not at all. The root cause was a faulty plugin. It was using too much memory.", "it": "Per niente. La causa principale era un plugin difettoso. Usava troppa memoria." },
+      { "s": "A", "name": "Sarah", "en": "How did you find it?", "it": "Come l'hai trovato?" },
+      { "s": "B", "name": "Luca", "en": "I was reading the logs when I noticed the same error every five minutes. It turned out to be the new image plugin.", "it": "Stavo leggendo i log quando ho notato lo stesso errore ogni cinque minuti. Si è rivelato il nuovo plugin per le immagini." },
+      { "s": "A", "name": "Sarah", "en": "And is it fixed now?", "it": "E ora è risolto?" },
+      { "s": "B", "name": "Luca", "en": "Yes, we removed the plugin and restored the site. It's working again, and no orders were lost.", "it": "Sì, abbiamo tolto il plugin e ripristinato il sito. Funziona di nuovo e nessun ordine è andato perso." },
+      { "s": "A", "name": "Sarah", "en": "Great. Can this happen again?", "it": "Bene. Può succedere ancora?" },
+      { "s": "B", "name": "Luca", "en": "We've taken steps to prevent it. From now on, I'll test every plugin on a copy of the site first.", "it": "Abbiamo preso provvedimenti. D'ora in poi proverò ogni plugin prima su una copia del sito." },
+      { "s": "A", "name": "Sarah", "en": "Thank you. Could you send me a short report?", "it": "Grazie. Mi puoi mandare un breve resoconto?" },
+      { "s": "B", "name": "Luca", "en": "Of course. I'll write it this afternoon, and I'll keep you updated if anything changes.", "it": "Certo. Lo scrivo nel pomeriggio e ti tengo aggiornata se cambia qualcosa." }
+    ]
+  },
+  "listening": [
+    { "q": "What was Sarah doing when the site went blank?", "options": ["Uploading a new product", "Writing a report", "Calling Luca"], "answer": 0 },
+    { "q": "What was the root cause of the problem?", "options": ["An expired certificate", "A faulty plugin", "A mistake by Sarah"], "answer": 1 },
+    { "q": "How did Luca find the problem?", "options": ["He read the logs", "A customer called", "He restarted the computer"], "answer": 0 },
+    { "q": "What will Luca do from now on?", "options": ["Change hosting provider", "Test plugins on a copy of the site first", "Stop using plugins"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Stavo aggiornando il sito quando il server è andato in crash.", "en": "I was updating the site when the server crashed.", "alt": ["The server crashed while I was updating the site."] },
+    { "it": "Mentre controllavo i log, ho trovato l'errore.", "en": "While I was checking the logs, I found the error.", "alt": ["I found the error while I was checking the logs."] },
+    { "it": "Cosa stavi facendo quando è successo?", "en": "What were you doing when it happened?", "alt": ["What were you doing when that happened?"] },
+    { "it": "La causa principale era un certificato scaduto.", "en": "The root cause was an expired certificate.", "alt": ["The main cause was an expired certificate."] },
+    { "it": "Ci scusiamo per il disagio.", "en": "We apologise for the inconvenience.", "alt": ["We're sorry for the inconvenience.", "We apologize for the inconvenience."] },
+    { "it": "Il problema si è rivelato un errore di battitura.", "en": "The problem turned out to be a typo.", "alt": ["It turned out to be a typo."] },
+    { "it": "Per fortuna avevamo un backup recente.", "en": "Luckily, we had a recent backup.", "alt": ["Fortunately, we had a recent backup."] },
+    { "it": "Non riesco a riprodurre l'errore.", "en": "I can't reproduce the error.", "alt": ["I'm not able to reproduce the error."] },
+    { "it": "Abbiamo risolto il problema tornando alla versione precedente.", "en": "We fixed the problem by rolling back the update.", "alt": ["We solved the problem by going back to the previous version."] },
+    { "it": "Nel frattempo, puoi usare questa soluzione provvisoria.", "en": "In the meantime, you can use this workaround.", "alt": ["Meanwhile, you can use this temporary solution."] },
+    { "it": "Quando ho cliccato su salva, la pagina si è bloccata.", "en": "When I clicked save, the page froze.", "alt": ["When I clicked on save, the page froze.", "When I clicked save, the page hung."] },
+    { "it": "Abbiamo preso provvedimenti perché non succeda di nuovo.", "en": "We've taken steps to prevent this from happening again.", "alt": ["We have taken steps so that it doesn't happen again."] }
+  ],
+  "writing": {
+    "taskIt": "Il sito di un cliente è rimasto fermo per un'ora, ieri mattina, a causa di un plugin difettoso. Scrivi una breve mail al cliente. Chiedi scusa. Spiega cosa è successo (usa past continuous e past simple con when o while). Di' qual era la causa e come l'hai risolto. Spiega cosa farai per evitare che succeda di nuovo. Chiudi dicendo che lo terrai aggiornato.",
+    "taskEn": "A client's website was down for an hour yesterday morning because of a faulty plugin. Write a short email to the client. Apologise. Explain what happened (use the past continuous and the past simple with when or while). Say what the cause was and how you fixed it. Explain what you will do to prevent it from happening again. Finish by saying you will keep them updated.",
+    "model": "Subject: Website outage yesterday morning\n\nDear Sarah,\n\nI'm very sorry for the inconvenience caused by yesterday's outage.\n\nHere is what happened. At around nine, you were uploading a new product when the site stopped responding. While I was checking the server logs, I noticed that a plugin was using too much memory. It turned out to be the new image plugin, which was faulty.\n\nWe removed the plugin and restored the site from the nightly backup. The site was back online after about an hour, and no orders were lost.\n\nTo prevent this from happening again, I will test every plugin on a copy of the site before installing it. I will also check the server memory each week.\n\nThank you for your patience. I'll keep you updated if anything changes.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I was updating the site when the server crashed.",
+      "While I was checking the logs, I noticed a strange error.",
+      "What were you doing when it happened?",
+      "The root cause was an expired certificate.",
+      "It turned out to be a simple typo.",
+      "We fixed it by rolling back the update.",
+      "I'm very sorry for the inconvenience.",
+      "We've taken steps to prevent this from happening again."
+    ],
+    "prompts": [
+      { "en": "Tell me about a technical problem you had recently. What was happening when it started?", "it": "Raccontami un problema tecnico che hai avuto di recente. Cosa succedeva quando è iniziato?", "help": "Inizia con: Last week I was... when..." },
+      { "en": "How did you find the cause of the problem?", "it": "Come hai trovato la causa del problema?", "help": "Usa: While I was checking... I noticed... It turned out to be..." },
+      { "en": "How would you apologise to a client after an outage?", "it": "Come ti scuseresti con un cliente dopo un disservizio?", "help": "Usa: I'm very sorry for the inconvenience. The problem was caused by..." },
+      { "en": "What do you do to prevent problems on your projects?", "it": "Cosa fai per evitare problemi nei tuoi progetti?", "help": "Usa: I always make a backup. I test... before..." },
+      { "en": "What were you doing at 10 o'clock yesterday?", "it": "Cosa stavi facendo ieri alle dieci?", "help": "Rispondi con: At ten o'clock I was..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: raccontare un problema",
+      "show": ["Problems and solutions", "Cosa è successo?", "What happened?"],
+      "say": [
+        { "lang": "it", "text": "In questa lezione impari a raccontare un problema tecnico: cosa è successo, cosa stavi facendo e come lo hai risolto." },
+        { "lang": "en", "text": "What were you doing when it happened?" }
+      ]
+    },
+    {
+      "title": "Il past continuous",
+      "show": ["was / were + verbo in ing", "I was working.", "They were testing."],
+      "say": [
+        { "lang": "it", "text": "Il past continuous si forma con was o were e il verbo in ing. Descrive un'azione in corso nel passato." },
+        { "lang": "en", "text": "I was working on the homepage at five o'clock." },
+        { "lang": "it", "text": "Con I, he, she e it si usa was. Con you, we e they si usa were." }
+      ]
+    },
+    {
+      "title": "Azione lunga e azione breve",
+      "show": ["azione lunga: past continuous", "azione breve: past simple", "I was updating the site when it crashed."],
+      "say": [
+        { "lang": "it", "text": "Lo schema più usato è questo. L'azione lunga va al past continuous. Il fatto improvviso va al past simple." },
+        { "lang": "en", "text": "I was updating the site when the server crashed." },
+        { "lang": "it", "text": "Stavo aggiornando il sito quando il server è andato in crash." }
+      ]
+    },
+    {
+      "title": "When e while",
+      "show": ["while + azione in corso", "when + fatto breve", "While I was working, it crashed."],
+      "say": [
+        { "lang": "it", "text": "While si usa con l'azione in corso. When si usa spesso con il fatto breve." },
+        { "lang": "en", "text": "While I was checking the logs, I noticed an error." },
+        { "lang": "en", "text": "The page crashed when I clicked save." }
+      ]
+    },
+    {
+      "title": "Due fatti in sequenza",
+      "show": ["When I restarted the server,", "the error disappeared."],
+      "say": [
+        { "lang": "it", "text": "Se un fatto viene subito dopo l'altro, usa il past simple per tutti e due. Prima uno, poi l'altro." },
+        { "lang": "en", "text": "When I restarted the server, the error disappeared." }
+      ]
+    },
+    {
+      "title": "Errori da evitare",
+      "show": ["No: I was send the file", "Sì: I was sending the file", "No: I wasn't knowing", "Sì: I didn't know"],
+      "say": [
+        { "lang": "it", "text": "Attenzione a due errori. Dopo was o were serve il verbo in ing. E con i verbi di stato, come know, non si usa la forma in ing." },
+        { "lang": "en", "text": "I didn't know what the error meant." }
+      ]
+    },
+    {
+      "title": "Espressioni per spiegare e scusarsi",
+      "show": ["The root cause was...", "It turned out to be...", "I'm very sorry for the inconvenience."],
+      "say": [
+        { "lang": "it", "text": "Ecco alcune frasi utili con un cliente. Prima la causa, poi la soluzione, poi le scuse." },
+        { "lang": "en", "text": "The root cause was a faulty plugin. We fixed it by rolling back the update." },
+        { "lang": "en", "text": "I'm very sorry for the inconvenience. We'll keep you updated." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["was / were + ing", "when e while", "past simple per i fatti"],
+      "say": [
+        { "lang": "it", "text": "Ricapitolando. Usa il past continuous per lo sfondo e il past simple per il fatto che lo interrompe. While va con l'azione in corso, when con il fatto breve." },
+        { "lang": "en", "text": "I was fixing the bug when the client called." },
+        { "lang": "it", "text": "Ora prova a raccontare un problema tuo, a voce alta." }
+      ]
+    }
+  ]
+}

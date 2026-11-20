@@ -1,0 +1,317 @@
+{
+  "id": 52,
+  "week": 11,
+  "title": "Privacy, GDPR e aspetti legali",
+  "titleEn": "Privacy, GDPR and legal",
+  "intro": "Oggi impari il lessico della protezione dei dati e delle responsabilità legali, che ogni web developer incontra con i clienti: consenso, cookie, titolare del trattamento, violazione dei dati. Impari anche a fare deduzioni sul passato con must have, can't have e might have, utili quando si indaga su un incidente o un errore.",
+  "goals": [
+    "Spiegare ai clienti i concetti base del GDPR in inglese",
+    "Parlare di consenso, cookie e informativa sulla privacy",
+    "Fare deduzioni sul passato con must have, can't have e might have",
+    "Descrivere una violazione dei dati e le responsabilità"
+  ],
+  "words": [
+    { "en": "personal data", "pron": "pèrsonal dèita", "it": "dati personali", "type": "noun", "ex": "A name and an email address are personal data.", "exIt": "Un nome e un indirizzo email sono dati personali." },
+    { "en": "data subject", "pron": "dèita sàbgekt", "it": "interessato (persona a cui si riferiscono i dati)", "type": "noun", "ex": "The data subject has the right to access their data.", "exIt": "L'interessato ha il diritto di accedere ai propri dati." },
+    { "en": "data controller", "pron": "dèita kontròula", "it": "titolare del trattamento", "type": "noun", "ex": "The company is the data controller.", "exIt": "L'azienda è il titolare del trattamento." },
+    { "en": "data processor", "pron": "dèita pròusesa", "it": "responsabile del trattamento", "type": "noun", "ex": "As a developer, I act as a data processor.", "exIt": "Come sviluppatore agisco come responsabile del trattamento." },
+    { "en": "to pseudonymise", "pron": "siudònimaiz", "it": "pseudonimizzare", "type": "verb", "ex": "We pseudonymise user data before analysis.", "exIt": "Pseudonimizziamo i dati degli utenti prima dell'analisi." },
+    { "en": "consent", "pron": "konsènt", "it": "consenso", "type": "noun", "ex": "We need the user's explicit consent.", "exIt": "Ci serve il consenso esplicito dell'utente." },
+    { "en": "to withdraw consent", "pron": "uiddròo konsènt", "it": "revocare il consenso", "type": "phrase", "ex": "Users can withdraw consent at any time.", "exIt": "Gli utenti possono revocare il consenso in qualsiasi momento." },
+    { "en": "opt-in", "pron": "òpt in", "it": "consenso attivo, adesione esplicita", "type": "noun", "ex": "A pre-ticked box is not a valid opt-in.", "exIt": "Una casella già spuntata non è un opt-in valido." },
+    { "en": "opt-out", "pron": "òpt àut", "it": "rinuncia, possibilità di tirarsi fuori", "type": "noun", "ex": "There must be an easy opt-out link.", "exIt": "Deve esserci un link di cancellazione facile." },
+    { "en": "privacy policy", "pron": "pràivasi pòlisi", "it": "informativa sulla privacy", "type": "noun", "ex": "The privacy policy is linked in the footer.", "exIt": "L'informativa sulla privacy è linkata nel footer." },
+    { "en": "cookie banner", "pron": "kùki bàna", "it": "banner dei cookie", "type": "noun", "ex": "The cookie banner must let users refuse cookies.", "exIt": "Il banner dei cookie deve permettere di rifiutare i cookie." },
+    { "en": "tracking", "pron": "tràkin", "it": "tracciamento", "type": "noun", "ex": "Tracking is blocked until the user accepts.", "exIt": "Il tracciamento è bloccato finché l'utente non accetta." },
+    { "en": "compliance", "pron": "komplàians", "it": "conformità", "type": "noun", "ex": "Compliance with GDPR is a legal requirement.", "exIt": "La conformità al GDPR è un obbligo di legge." },
+    { "en": "breach notification", "pron": "brìic notifikèiscion", "it": "notifica di violazione dei dati", "type": "noun", "ex": "A breach notification must be sent within 72 hours.", "exIt": "La notifica di violazione va inviata entro 72 ore." },
+    { "en": "controller", "pron": "kontròula", "it": "titolare del trattamento", "type": "noun", "ex": "Under the GDPR, the client is the controller.", "exIt": "Secondo il GDPR, il cliente è il titolare del trattamento." },
+    { "en": "regulation", "pron": "regiulèiscion", "it": "regolamento, normativa", "type": "noun", "ex": "The regulation came into force in 2018.", "exIt": "Il regolamento è entrato in vigore nel 2018." },
+    { "en": "retention", "pron": "ritènscion", "it": "conservazione (dei dati)", "type": "noun", "ex": "What is your data retention period?", "exIt": "Qual è il vostro periodo di conservazione dei dati?" },
+    { "en": "liable", "pron": "làiabol", "it": "legalmente responsabile", "type": "adj", "ex": "The company is liable for any data loss.", "exIt": "L'azienda è responsabile di qualsiasi perdita di dati." },
+    { "en": "accountable", "pron": "akàuntabol", "it": "tenuto a rispondere, responsabile", "type": "adj", "ex": "Managers are accountable for protecting customer data.", "exIt": "I dirigenti sono tenuti a rispondere della protezione dei dati dei clienti." },
+    { "en": "data breach", "pron": "dèita brìic", "it": "violazione dei dati", "type": "noun", "ex": "We must report a data breach within 72 hours.", "exIt": "Dobbiamo segnalare una violazione dei dati entro 72 ore." },
+    { "en": "to leak", "pron": "lìik", "it": "far trapelare, diffondersi (dati)", "type": "verb", "ex": "Thousands of emails were leaked online.", "exIt": "Migliaia di email sono state diffuse online." },
+    { "en": "to expose", "pron": "ikspòuz", "it": "esporre, rendere accessibile", "type": "verb", "ex": "A bug exposed customers' addresses.", "exIt": "Un bug ha esposto gli indirizzi dei clienti." },
+    { "en": "unauthorised access", "pron": "anòoteraizd àkses", "it": "accesso non autorizzato", "type": "noun", "ex": "There was unauthorised access to the database.", "exIt": "C'è stato un accesso non autorizzato al database." },
+    { "en": "to erase", "pron": "irèiz", "it": "cancellare", "type": "verb", "ex": "Users can ask us to erase their data.", "exIt": "Gli utenti possono chiederci di cancellare i loro dati." },
+    { "en": "to anonymise", "pron": "anònimaiz", "it": "anonimizzare", "type": "verb", "ex": "We anonymise the data before analysing it.", "exIt": "Anonimizziamo i dati prima di analizzarli." },
+    { "en": "retention period", "pron": "ritènscion pìriod", "it": "periodo di conservazione", "type": "noun", "ex": "The retention period for invoices is ten years.", "exIt": "Il periodo di conservazione delle fatture è dieci anni." },
+    { "en": "right to erasure", "pron": "ràit tu irèigia", "it": "diritto alla cancellazione", "type": "phrase", "ex": "Users have the right to erasure of their data.", "exIt": "Gli utenti hanno diritto alla cancellazione dei loro dati." },
+    { "en": "data protection officer", "pron": "dèita protèkscion òfisa", "it": "responsabile della protezione dei dati (DPO)", "type": "noun", "ex": "Public bodies must appoint a data protection officer.", "exIt": "Gli enti pubblici devono nominare un responsabile della protezione dei dati." },
+    { "en": "supervisory authority", "pron": "supervàizori otòriti", "it": "autorità di controllo (Garante)", "type": "noun", "ex": "The breach was reported to the supervisory authority.", "exIt": "La violazione è stata segnalata all'autorità di controllo." },
+    { "en": "fine", "pron": "fàin", "it": "multa, sanzione", "type": "noun", "ex": "The company was given a heavy fine.", "exIt": "L'azienda ha ricevuto una multa pesante." },
+    { "en": "to be fined", "pron": "bi fàind", "it": "ricevere una multa", "type": "phrase", "ex": "They were fined 50,000 euros for the breach.", "exIt": "Hanno ricevuto una multa di 50.000 euro per la violazione." },
+    { "en": "lawful basis", "pron": "lòful bèisis", "it": "base giuridica", "type": "noun", "ex": "You need a lawful basis to process personal data.", "exIt": "Serve una base giuridica per trattare dati personali." },
+    { "en": "legitimate interest", "pron": "lidgìtimit ìntrest", "it": "legittimo interesse", "type": "noun", "ex": "Fraud prevention can be a legitimate interest.", "exIt": "La prevenzione delle frodi può essere un legittimo interesse." },
+    { "en": "data transfer", "pron": "dèita tràansfer", "it": "trasferimento di dati", "type": "noun", "ex": "Transfers of data outside the EU must follow special rules.", "exIt": "I trasferimenti di dati fuori dall'UE devono seguire regole speciali." },
+    { "en": "data protection impact assessment", "pron": "dèita protèkscion ìmpakt asèsment", "it": "valutazione d'impatto sulla protezione dei dati", "type": "noun", "ex": "A data protection impact assessment is required for high-risk processing.", "exIt": "Per i trattamenti ad alto rischio serve una valutazione d'impatto sulla protezione dei dati." },
+    { "en": "disclaimer", "pron": "disklèima", "it": "esclusione di responsabilità", "type": "noun", "ex": "The site has a legal disclaimer at the bottom.", "exIt": "Il sito ha un'esclusione di responsabilità in fondo." },
+    { "en": "terms of use", "pron": "tèrmz ov iùz", "it": "condizioni d'uso", "type": "phrase", "ex": "By signing up, you accept the terms of use.", "exIt": "Registrandoti accetti le condizioni d'uso." },
+    { "en": "to withdraw", "pron": "uiddròo", "it": "ritirare, revocare", "type": "verb", "ex": "You can withdraw your consent at any time.", "exIt": "Puoi revocare il consenso in qualsiasi momento." },
+    { "en": "lawful", "pron": "lòful", "it": "lecito, legittimo", "type": "adj", "ex": "Is it lawful to keep these logs for five years?", "exIt": "È lecito conservare questi log per cinque anni?" },
+    { "en": "infringement", "pron": "infrìndgment", "it": "violazione", "type": "noun", "ex": "This could be a copyright infringement.", "exIt": "Potrebbe essere una violazione del diritto d'autore." },
+    { "en": "copyright", "pron": "kòpirait", "it": "diritto d'autore", "type": "noun", "ex": "The images are protected by copyright.", "exIt": "Le immagini sono protette dal diritto d'autore." },
+    { "en": "to infringe", "pron": "infrìndg", "it": "violare (un diritto)", "type": "verb", "ex": "Using that photo infringes copyright.", "exIt": "Usare quella foto viola il diritto d'autore." },
+    { "en": "to indemnify", "pron": "indèmnifai", "it": "tenere indenne, risarcire", "type": "verb", "ex": "The supplier will indemnify us against any claim.", "exIt": "Il fornitore ci terrà indenni da qualsiasi richiesta." },
+    { "en": "terms of service", "pron": "tèrmz ov sèrvis", "it": "condizioni di servizio", "type": "noun", "ex": "Please read our terms of service.", "exIt": "Leggi le nostre condizioni di servizio." },
+    { "en": "disclosure", "pron": "disklòugia", "it": "divulgazione, comunicazione", "type": "noun", "ex": "Unauthorised disclosure is a serious breach.", "exIt": "La divulgazione non autorizzata è una violazione grave." },
+    { "en": "to disclose", "pron": "disklòuz", "it": "divulgare, rivelare", "type": "verb", "ex": "We cannot disclose this information to third parties.", "exIt": "Non possiamo divulgare queste informazioni a terzi." },
+    { "en": "third party", "pron": "tèrd pàrti", "it": "terza parte", "type": "noun", "ex": "We never share your data with third parties.", "exIt": "Non condividiamo mai i tuoi dati con terze parti." },
+    { "en": "negligence", "pron": "nèglidgens", "it": "negligenza", "type": "noun", "ex": "The loss of data was due to negligence.", "exIt": "La perdita di dati è dovuta a negligenza." },
+    { "en": "statutory", "pron": "stàciutori", "it": "previsto dalla legge", "type": "adj", "ex": "This is a statutory requirement.", "exIt": "Questo è un obbligo previsto dalla legge." },
+    { "en": "waiver", "pron": "uèiva", "it": "rinuncia, liberatoria", "type": "noun", "ex": "The client signed a waiver.", "exIt": "Il cliente ha firmato una liberatoria." }
+  ],
+  "falseFriends": [
+    { "en": "to process", "it": "trattare, elaborare dati", "trap": "Nel GDPR 'to process data' vuol dire trattare i dati (raccoglierli, conservarli, usarli), non solo 'processare' come in tribunale." },
+    { "en": "to control", "it": "avere il controllo, gestire", "trap": "'Data controller' non è un 'controllore': è il titolare, chi decide perché e come si trattano i dati." },
+    { "en": "to assist", "it": "aiutare", "trap": "Non è 'assistere a' un evento: quello è 'to attend'. 'To assist' = aiutare." },
+    { "en": "evidence", "it": "prova, elemento di prova", "trap": "Non è 'evidenza' nel senso di ovvietà. 'Evidence' è un nome non numerabile: 'some evidence', non 'an evidence'." }
+  ],
+  "grammar": {
+    "title": "Deduzioni sul passato: must have, can't have, might have",
+    "explainIt": [
+      "Con i verbi modali di deduzione parli di cose passate di cui non hai certezza. Non conosci i fatti con certezza, ma deduci in base ai segnali. In italiano diciamo 'Deve essere stato un errore' o 'Non può essere stato lui'. In inglese: 'It must have been a mistake'.",
+      "La struttura è modale + have + participio passato. Il grado di certezza cambia con il modale. Must have = sono quasi certo che sia successo (95%). Can't have o couldn't have = sono quasi certo che NON sia successo. Might have, may have o could have = forse è successo, ma non lo so (50%).",
+      "Esempi dal lavoro: 'The files are gone. Someone must have deleted them.' (è una deduzione certa). 'It can't have been the update, because we installed it after the problem.' (è certo che non è stato quello). 'The attacker might have used an old password.' (è possibile).",
+      "Attenzione: must have NON si usa per obbligo nel passato. 'Must have' qui è solo deduzione. Per l'obbligo nel passato si dice 'had to': 'I had to sign the NDA'. Con la negazione, non si dice 'mustn't have' per deduzione: si usa 'can't have'. Per un'azione in corso nel passato puoi dire 'must have been + verbo-ing'.",
+      "Nel parlato could have e might have si usano quasi allo stesso modo. Nei report legali e tecnici, scegli il modale giusto con cura: dichiarare con must have qualcosa senza prove può essere un problema. Se hai dubbi, usa might have e aggiungi 'we are investigating'."
+    ],
+    "explainEn": [
+      "With modal verbs of deduction you talk about past things you are not sure about. You do not know the facts for certain, but you guess from the signs. In Italian we say 'Deve essere stato un errore'. In English: 'It must have been a mistake'.",
+      "The structure is modal + have + past participle. The modal shows how sure you are. Must have = I am almost sure it happened (95%). Can't have or couldn't have = I am almost sure it did NOT happen. Might have, may have or could have = maybe it happened, but I do not know (50%).",
+      "Work examples: 'The files are gone. Someone must have deleted them.' (I am sure). 'It can't have been the update, because we installed it after the problem.' (I am sure it was not that). 'The attacker might have used an old password.' (it is possible).",
+      "Be careful: must have is NOT used for obligation in the past. Here it is only deduction. For past obligation say 'had to': 'I had to sign the NDA'. In the negative you do not say 'mustn't have' for deduction: you use 'can't have'. For a continuing action you can say 'must have been + verb-ing'.",
+      "In legal and technical reports, choose the modal with care: saying must have without evidence can be a problem. If you are not sure, use might have and add 'we are investigating'."
+    ],
+    "rules": [
+      {
+        "it": "Must have + participio: deduzione quasi certa che qualcosa sia successo.",
+        "en": "Must have + past participle: a strong deduction that something happened.",
+        "form": "must have + participio passato",
+        "examples": [
+          { "en": "The user must have clicked the wrong link.", "it": "L'utente deve aver cliccato il link sbagliato." },
+          { "en": "She must have forgotten to log out.", "it": "Deve essersi dimenticata di disconnettersi." },
+          { "en": "The server must have crashed during the night.", "it": "Il server deve essersi bloccato durante la notte." }
+        ]
+      },
+      {
+        "it": "Can't have / couldn't have + participio: deduzione quasi certa che qualcosa NON sia successo.",
+        "en": "Can't have / couldn't have + past participle: a strong deduction that something did NOT happen.",
+        "form": "can't have + participio passato",
+        "examples": [
+          { "en": "It can't have been a hacker, because the logs show nothing unusual.", "it": "Non può essere stato un hacker, perché i log non mostrano nulla di strano." },
+          { "en": "He couldn't have seen the data; he didn't have access.", "it": "Non può aver visto i dati, non aveva accesso." }
+        ]
+      },
+      {
+        "it": "Might have / may have / could have + participio: possibilità, non certezza.",
+        "en": "Might have / may have / could have + past participle: a possibility, not a certainty.",
+        "form": "might have + participio passato",
+        "examples": [
+          { "en": "The data might have been leaked by a former employee.", "it": "I dati potrebbero essere stati diffusi da un ex dipendente." },
+          { "en": "They may have stored the passwords in plain text.", "it": "Potrebbero aver conservato le password in chiaro." },
+          { "en": "Someone could have copied the database before the backup.", "it": "Qualcuno potrebbe aver copiato il database prima del backup." }
+        ]
+      },
+      {
+        "it": "Must / can't have been + verbo-ing: deduzione su un'azione in corso nel passato.",
+        "en": "Must / can't have been + verb-ing: a deduction about an action in progress in the past.",
+        "form": "must have been + verbo-ing",
+        "examples": [
+          { "en": "They must have been using an outdated plugin.", "it": "Di sicuro stavano usando un plugin obsoleto." },
+          { "en": "She can't have been working on the server; she was on holiday.", "it": "Non può essere stata lei a lavorare sul server: era in ferie." }
+        ]
+      },
+      {
+        "it": "Per l'obbligo passato non si usa must have, ma had to.",
+        "en": "For past obligation do not use must have, use had to.",
+        "form": "had to + verbo base",
+        "examples": [
+          { "en": "We had to report the breach within 72 hours.", "it": "Abbiamo dovuto segnalare la violazione entro 72 ore." },
+          { "en": "The client had to sign the data processing agreement.", "it": "Il cliente ha dovuto firmare l'accordo sul trattamento dei dati." }
+        ]
+      }
+    ],
+    "tip": "Trucco: pensa a una scala. Must have = 95%, might have = 50%, can't have = 5%. E ricorda sempre la formula: modale + HAVE + participio. Ricorda che 'have' qui non cambia mai, anche con he, she, it.",
+    "mistakes": [
+      { "wrong": "He must had forgotten the password.", "right": "He must have forgotten the password.", "why": "dopo un modale si usa have, mai had" },
+      { "wrong": "It mustn't have been a hacker.", "right": "It can't have been a hacker.", "why": "per la deduzione negativa si usa can't have, non mustn't have" },
+      { "wrong": "She must has deleted the file.", "right": "She must have deleted the file.", "why": "i modali non cambiano: have con tutte le persone" },
+      { "wrong": "They might have leak the data.", "right": "They might have leaked the data.", "why": "dopo have serve il participio passato" },
+      { "wrong": "I must have signed the NDA yesterday because it was compulsory.", "right": "I had to sign the NDA yesterday because it was compulsory.", "why": "per un obbligo nel passato si usa had to, non must have" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "The files are gone. Someone ___ have deleted them. (è una deduzione certa)", "a": ["must"], "hint": "deduzione quasi certa", "explain": "Must have + participio = deduzione quasi certa." },
+    { "q": "It ___ have been a hacker; the logs are clean. (è certo che non lo è stato)", "a": ["can't", "cannot", "couldn't", "can not"], "hint": "deduzione negativa", "explain": "Can't have + participio = quasi certo che non sia successo." },
+    { "q": "The data ___ have been copied by an employee. (forse)", "a": ["might", "may", "could"], "hint": "possibilità", "explain": "Might/may/could have + participio = possibilità." },
+    { "q": "She must have ___ (forget) to encrypt the file.", "a": ["forgotten"], "hint": "participio irregolare", "explain": "Participio di forget = forgotten." },
+    { "q": "They might have ___ (store) the passwords in plain text.", "a": ["stored"], "hint": "participio passato", "explain": "Dopo have serve il participio passato." },
+    { "q": "It can't have ___ (be) the update, because we installed it later.", "a": ["been"], "hint": "participio di be", "explain": "Can't have been = non può essere stato." },
+    { "q": "The server must have been ___ (run) an old version.", "a": ["running"], "hint": "verbo-ing", "explain": "Must have been + -ing = azione in corso nel passato." },
+    { "q": "We ___ to report the breach within 72 hours. (obbligo nel passato)", "a": ["had"], "hint": "obbligo, non deduzione", "explain": "Per l'obbligo passato si usa had to." },
+    { "q": "He ___ have seen the data; he had no access. (impossibile)", "a": ["couldn't", "can't", "could not", "cannot"], "hint": "deduzione negativa", "explain": "Couldn't have / can't have = impossibile che l'abbia fatto." },
+    { "q": "Someone ___ have left the door open. (forse, ma non so)", "a": ["might", "may", "could"], "hint": "possibilità", "explain": "Might have indica una possibilità." },
+    { "q": "The company ___ (fine) 50,000 euros for the breach. (passivo, past)", "a": ["was fined"], "hint": "be fined", "explain": "Passivo: was fined." },
+    { "q": "There is no ___ that the data was stolen. (prova)", "a": ["evidence", "proof"], "hint": "nome non numerabile", "explain": "Evidence è non numerabile: no evidence." }
+  ],
+  "phrases": [
+    { "group": "Spiegare il GDPR", "en": "We need your explicit consent before we store any data.", "it": "Ci serve il tuo consenso esplicito prima di conservare qualsiasi dato." },
+    { "group": "Spiegare il GDPR", "en": "Users have the right to access their data and ask for it to be deleted.", "it": "Gli utenti hanno il diritto di accedere ai propri dati e di chiederne la cancellazione." },
+    { "group": "Spiegare il GDPR", "en": "Is your website GDPR compliant?", "it": "Il vostro sito è conforme al GDPR?" },
+    { "group": "Spiegare il GDPR", "en": "The company is the data controller; we are the data processor.", "it": "L'azienda è il titolare del trattamento; noi siamo il responsabile del trattamento." },
+    { "group": "Spiegare il GDPR", "en": "Personal data must be kept only as long as necessary.", "it": "I dati personali vanno conservati solo per il tempo necessario." },
+    { "group": "Cookie e consenso", "en": "The cookie banner must let users refuse cookies as easily as accept them.", "it": "Il banner dei cookie deve permettere di rifiutare i cookie con la stessa facilità con cui si accettano." },
+    { "group": "Cookie e consenso", "en": "Tracking scripts are blocked until the user gives consent.", "it": "Gli script di tracciamento sono bloccati finché l'utente non dà il consenso." },
+    { "group": "Cookie e consenso", "en": "Pre-ticked boxes are not valid consent.", "it": "Le caselle già spuntate non sono un consenso valido." },
+    { "group": "Cookie e consenso", "en": "You can withdraw your consent at any time.", "it": "Puoi revocare il consenso in qualsiasi momento." },
+    { "group": "Cookie e consenso", "en": "The privacy policy explains what data we collect and why.", "it": "L'informativa sulla privacy spiega quali dati raccogliamo e perché." },
+    { "group": "Violazioni dei dati", "en": "We have discovered a data breach affecting 200 customers.", "it": "Abbiamo scoperto una violazione dei dati che riguarda 200 clienti." },
+    { "group": "Violazioni dei dati", "en": "The breach must be reported within 72 hours.", "it": "La violazione deve essere segnalata entro 72 ore." },
+    { "group": "Violazioni dei dati", "en": "We are investigating how the data was exposed.", "it": "Stiamo indagando su come i dati siano stati esposti." },
+    { "group": "Violazioni dei dati", "en": "There is no evidence that the data was misused.", "it": "Non ci sono prove che i dati siano stati usati in modo improprio." },
+    { "group": "Violazioni dei dati", "en": "We have informed the supervisory authority and the people affected.", "it": "Abbiamo informato l'autorità di controllo e le persone coinvolte." },
+    { "group": "Responsabilità", "en": "Who is liable if the data is lost?", "it": "Chi è responsabile se i dati vanno persi?" },
+    { "group": "Responsabilità", "en": "Our liability is limited to the amount of the contract.", "it": "La nostra responsabilità è limitata all'importo del contratto." },
+    { "group": "Responsabilità", "en": "We take full responsibility for protecting your data.", "it": "Ci assumiamo la piena responsabilità della protezione dei tuoi dati." },
+    { "group": "Responsabilità", "en": "Both parties must keep the information confidential.", "it": "Entrambe le parti devono mantenere riservate le informazioni." },
+    { "group": "Responsabilità", "en": "The company could be fined up to four percent of its global annual turnover.", "it": "L'azienda potrebbe ricevere una multa fino al quattro per cento del fatturato annuo mondiale." },
+    { "group": "Deduzioni", "en": "It must have been a mistake by the hosting provider.", "it": "Deve essere stato un errore del provider di hosting." },
+    { "group": "Deduzioni", "en": "It can't have been a hacker, as nothing was taken.", "it": "Non può essere stato un hacker, dato che non è stato preso nulla." },
+    { "group": "Deduzioni", "en": "Someone might have used an old password.", "it": "Qualcuno potrebbe aver usato una vecchia password." },
+    { "group": "Deduzioni", "en": "They must have forgotten to update the plugin.", "it": "Devono essersi dimenticati di aggiornare il plugin." },
+    { "group": "Deduzioni", "en": "You may have missed the notice in the footer.", "it": "Forse non ha visto l'avviso nel footer." }
+  ],
+  "dialogue": {
+    "title": "A possible data breach",
+    "context": "Sara, responsabile di un'azienda cliente, chiama Luca, il web developer, perché alcuni clienti hanno ricevuto strane mail. Insieme cercano di capire cosa può essere successo.",
+    "lines": [
+      { "s": "A", "name": "Sara", "en": "Luca, some of our customers received spam emails from our address. Is it a data breach?", "it": "Luca, alcuni nostri clienti hanno ricevuto mail spam dal nostro indirizzo. È una violazione dei dati?" },
+      { "s": "B", "name": "Luca", "en": "Possibly. Someone must have had access to the mailing list.", "it": "Forse. Qualcuno deve aver avuto accesso alla lista di indirizzi." },
+      { "s": "A", "name": "Sara", "en": "Could it have been an employee?", "it": "Può essere stato un dipendente?" },
+      { "s": "B", "name": "Luca", "en": "It might have been, but I doubt it. The logs show access from an unknown IP address.", "it": "Potrebbe, ma ne dubito. I log mostrano un accesso da un indirizzo IP sconosciuto." },
+      { "s": "A", "name": "Sara", "en": "So it can't have been someone inside the company.", "it": "Quindi non può essere stato qualcuno dell'azienda." },
+      { "s": "B", "name": "Luca", "en": "Probably not. They might have guessed an old password.", "it": "Probabilmente no. Potrebbero aver indovinato una vecchia password." },
+      { "s": "A", "name": "Sara", "en": "Were the passwords encrypted?", "it": "Le password erano cifrate?" },
+      { "s": "B", "name": "Luca", "en": "Yes, but the admin account used a weak password. They must have found it easily.", "it": "Sì, ma l'account amministratore usava una password debole. Devono averla trovata facilmente." },
+      { "s": "A", "name": "Sara", "en": "What do we need to do for GDPR compliance?", "it": "Cosa dobbiamo fare per la conformità al GDPR?" },
+      { "s": "B", "name": "Luca", "en": "You must report the breach to the supervisory authority within 72 hours.", "it": "Dovete segnalare la violazione all'autorità di controllo entro 72 ore." },
+      { "s": "A", "name": "Sara", "en": "And we have to inform the customers?", "it": "E dobbiamo informare i clienti?" },
+      { "s": "B", "name": "Luca", "en": "Yes, if there is a high risk to them. I'll investigate and prepare a written report.", "it": "Sì, se c'è un rischio elevato per loro. Indagherò e preparerò un rapporto scritto." },
+      { "s": "A", "name": "Sara", "en": "Could we be fined?", "it": "Potremmo essere multati?" },
+      { "s": "B", "name": "Luca", "en": "It depends. If you react quickly and show good practice, the authority will probably be lenient.", "it": "Dipende. Se reagite subito e mostrate buone pratiche, l'autorità sarà probabilmente indulgente." },
+      { "s": "A", "name": "Sara", "en": "Thanks. Please change all the passwords today.", "it": "Grazie. Per favore cambia tutte le password oggi." }
+    ]
+  },
+  "listening": [
+    { "q": "Why does Sara call Luca?", "options": ["Customers received spam emails from the company", "The website is slow", "She wants a new logo"], "answer": 0 },
+    { "q": "What do the logs show?", "options": ["Nothing at all", "Access from an unknown IP address", "A technical error"], "answer": 1 },
+    { "q": "What does Luca think about the admin password?", "options": ["It was encrypted and strong", "It was weak and easy to find", "It had been changed yesterday"], "answer": 1 },
+    { "q": "How soon must the breach be reported?", "options": ["Within 7 days", "Within 72 hours", "Within a month"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Deve essere stato un errore del provider di hosting.", "en": "It must have been a mistake by the hosting provider.", "alt": ["It must have been an error by the hosting provider.", "It must have been the hosting provider's mistake."] },
+    { "it": "Non può essere stato un hacker, perché i log sono puliti.", "en": "It can't have been a hacker, because the logs are clean.", "alt": ["It couldn't have been a hacker, as the logs are clean.", "It can't have been a hacker since the logs are clean."] },
+    { "it": "Qualcuno potrebbe aver usato una vecchia password.", "en": "Someone might have used an old password.", "alt": ["Someone may have used an old password.", "Someone could have used an old password."] },
+    { "it": "Dobbiamo segnalare la violazione entro 72 ore.", "en": "We must report the breach within 72 hours.", "alt": ["We have to report the breach within 72 hours.", "The breach has to be reported within 72 hours."] },
+    { "it": "Ci serve il tuo consenso esplicito prima di conservare i dati.", "en": "We need your explicit consent before we store the data.", "alt": ["We need your explicit consent before storing the data.", "We need your explicit consent before we save your data."] },
+    { "it": "Gli utenti possono revocare il consenso in qualsiasi momento.", "en": "Users can withdraw their consent at any time.", "alt": ["Users may withdraw consent at any time.", "Users can withdraw consent whenever they want."] },
+    { "it": "Non ci sono prove che i dati siano stati copiati.", "en": "There is no evidence that the data was copied.", "alt": ["There is no evidence that the data has been copied.", "There is no proof that the data was copied."] },
+    { "it": "L'azienda è il titolare del trattamento e noi siamo il responsabile.", "en": "The company is the data controller and we are the data processor.", "alt": ["The company is the controller and we are the processor.", "The company is the data controller, and we are the data processor."] },
+    { "it": "Il vostro sito è conforme al GDPR?", "en": "Is your website GDPR compliant?", "alt": ["Does your website comply with the GDPR?", "Is your site compliant with GDPR?"] },
+    { "it": "Devono essersi dimenticati di aggiornare il plugin.", "en": "They must have forgotten to update the plugin.", "alt": ["They must've forgotten to update the plugin."] },
+    { "it": "La nostra responsabilità è limitata all'importo del contratto.", "en": "Our liability is limited to the amount of the contract.", "alt": ["Our liability is limited to the contract value.", "Our liability is capped at the value of the contract."] },
+    { "it": "Stiamo indagando su come i dati siano stati esposti.", "en": "We are investigating how the data was exposed.", "alt": ["We are investigating how the data got exposed.", "We are looking into how the data was exposed."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente, la signora Davies, ti scrive preoccupata: alcuni dei suoi clienti hanno ricevuto mail strane dal suo indirizzo. Scrivile una mail professionale. Spiega cosa pensi sia successo usando must have, might have e can't have (per esempio: accesso con una vecchia password, non un dipendente), cosa farai subito (cambiare le password, controllare i log) e cosa dovrà fare lei per il GDPR (segnalare entro 72 ore al Garante e informare i clienti se il rischio per loro è elevato).",
+    "taskEn": "A client, Ms Davies, writes to you worried: some of her customers have received strange emails from her address. Write her a professional email. Explain what you think happened using must have, might have and can't have (for example: access with an old password, not an employee), what you will do immediately (change the passwords, check the logs) and what she must do for the GDPR (report within 72 hours to the authority and inform the customers if the risk to them is high).",
+    "model": "Subject: Suspicious emails - what we think happened\n\nDear Ms Davies,\n\nThank you for letting me know. I understand your concern, so here is a summary of where we are.\n\nWhat we think happened\nThe logs show a login from an unknown IP address at 2 a.m. on Tuesday. It can't have been one of your employees, because the office was closed and nobody uses that address. Someone must have gained access to the admin account, and they might have guessed an old password. At the moment we have no evidence that other data was copied, and we are still investigating.\n\nWhat I'm doing now\n- Changing all the passwords and enabling two-factor authentication.\n- Checking the logs for other unauthorised access.\n- Preparing a written report by Friday.\n\nWhat you need to do\nUnder the GDPR, a data breach must be reported to the supervisory authority within 72 hours. If there is a high risk to the people involved, you must also inform them. I can help you draft both notices.\n\nPlease do not hesitate to call me if you have any questions.\n\nKind regards,\nLuca Rossi"
+  },
+  "speaking": {
+    "shadowing": [
+      "It must have been a mistake by the hosting provider.",
+      "It can't have been a hacker, because the logs are clean.",
+      "Someone might have used an old password.",
+      "We must report the breach within seventy-two hours.",
+      "We need your explicit consent before we store any data.",
+      "Is your website GDPR compliant?",
+      "There is no evidence that the data was copied.",
+      "Our liability is limited to the amount of the contract."
+    ],
+    "prompts": [
+      { "en": "Explain the GDPR in simple words to a client.", "it": "Spiega il GDPR a un cliente con parole semplici.", "help": "Usa: personal data, consent, right to access, data breach, fine." },
+      { "en": "What is the difference between a data controller and a data processor?", "it": "Qual è la differenza tra titolare e responsabile del trattamento?", "help": "Usa: The controller decides why... / The processor acts on behalf of..." },
+      { "en": "Your website stopped working last night. What might have caused it?", "it": "Il tuo sito si è fermato ieri notte. Cosa può averlo causato?", "help": "Usa: It might have been... / It must have been... / It can't have been..." },
+      { "en": "What should a good cookie banner do?", "it": "Cosa dovrebbe fare un buon banner dei cookie?", "help": "Usa: It must let users refuse / block tracking until consent." },
+      { "en": "What do you do when you discover a data breach?", "it": "Cosa fai quando scopri una violazione dei dati?", "help": "Usa: First, we... / We report it within 72 hours / We inform the people affected." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: privacy e responsabilità",
+      "show": ["Privacy, GDPR e aspetti legali", "Deduzioni sul passato"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo di dati personali, consenso e responsabilità. E impariamo a fare deduzioni sul passato, per esempio quando indaghiamo su un incidente." },
+        { "lang": "en", "text": "Someone must have had access to the data." }
+      ]
+    },
+    {
+      "title": "Il lessico del GDPR",
+      "show": ["personal data", "consent", "data controller", "data processor"],
+      "say": [
+        { "lang": "it", "text": "Il titolare del trattamento è il data controller. Chi tratta i dati per suo conto, come uno sviluppatore, è il data processor." },
+        { "lang": "en", "text": "The company is the data controller. We are the data processor." }
+      ]
+    },
+    {
+      "title": "Violazioni e sanzioni",
+      "show": ["data breach", "supervisory authority", "72 hours", "fine"],
+      "say": [
+        { "lang": "it", "text": "Una violazione dei dati va segnalata all'autorità di controllo entro settantadue ore. Chi sbaglia può ricevere una multa." },
+        { "lang": "en", "text": "The breach must be reported within 72 hours." }
+      ]
+    },
+    {
+      "title": "Must have: quasi certo",
+      "show": ["must have + participio", "Someone must have deleted it"],
+      "say": [
+        { "lang": "it", "text": "Must have più participio passato indica una deduzione quasi certa su qualcosa che è successo." },
+        { "lang": "en", "text": "The user must have clicked the wrong link." }
+      ]
+    },
+    {
+      "title": "Can't have: quasi certo che no",
+      "show": ["can't have + participio", "It can't have been the update"],
+      "say": [
+        { "lang": "it", "text": "Can't have indica che sei quasi certo che una cosa non sia successa. Non si usa mustn't have." },
+        { "lang": "en", "text": "It can't have been a hacker, because the logs are clean." }
+      ]
+    },
+    {
+      "title": "Might have: possibile",
+      "show": ["might have + participio", "may have, could have"],
+      "say": [
+        { "lang": "it", "text": "Might have, may have e could have indicano una possibilità, quando non sai come sono andate le cose." },
+        { "lang": "en", "text": "Someone might have used an old password." }
+      ]
+    },
+    {
+      "title": "Attenzione all'obbligo",
+      "show": ["must have non è obbligo", "had to = dovuto"],
+      "say": [
+        { "lang": "it", "text": "Attenzione: must have è solo deduzione. Per dire che abbiamo dovuto fare qualcosa nel passato, si usa had to." },
+        { "lang": "en", "text": "We had to report the breach within 72 hours." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["modale + have + participio", "Must, might, can't"],
+      "say": [
+        { "lang": "it", "text": "Ricorda la formula: modale, poi have, poi il participio passato. Scegli il modale in base a quanta certezza hai, specialmente nei report legali." },
+        { "lang": "en", "text": "We are still investigating how the data was exposed." }
+      ]
+    }
+  ]
+}

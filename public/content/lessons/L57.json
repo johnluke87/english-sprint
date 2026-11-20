@@ -1,0 +1,1245 @@
+{
+  "id": 57,
+  "week": 12,
+  "title": "Stile chiaro e conciso",
+  "titleEn": "Clear and concise style",
+  "intro": "Oggi impari a scrivere meno e meglio: togli le parole inutili e usa verbi forti al posto delle frasi lunghe (decide invece di make a decision). Un inglese corto e preciso è più professionale e fa risparmiare tempo a chi legge. Ti serve per mail, report di audit e proposte ai clienti.",
+  "goals": [
+    "Sostituire frasi lunghe con verbi forti (make a decision diventa decide)",
+    "Togliere le parole inutili da una mail o da un report",
+    "Scrivere frasi attive, brevi e con una sola idea",
+    "Mettere il punto principale all'inizio del messaggio"
+  ],
+  "words": [
+    {
+      "en": "succinct",
+      "pron": "saksìnkt",
+      "it": "sintetico, ridotto all'essenziale",
+      "type": "adj",
+      "ex": "Her report was succinct and easy to follow.",
+      "exIt": "Il suo report era sintetico e facile da seguire."
+    },
+    {
+      "en": "verbose",
+      "pron": "verbòus",
+      "it": "prolisso, troppo lungo",
+      "type": "adj",
+      "ex": "The contract is too verbose for non-lawyers.",
+      "exIt": "Il contratto è troppo prolisso per chi non è avvocato."
+    },
+    {
+      "en": "wordy",
+      "pron": "uèrdi",
+      "it": "pieno di parole inutili",
+      "type": "adj",
+      "ex": "This paragraph is wordy and repeats itself.",
+      "exIt": "Questo paragrafo è pieno di parole inutili e si ripete."
+    },
+    {
+      "en": "redundant",
+      "pron": "ridàndant",
+      "it": "ridondante, superfluo",
+      "type": "adj",
+      "ex": "The last sentence is redundant, so I removed it.",
+      "exIt": "L'ultima frase è superflua, quindi l'ho tolta."
+    },
+    {
+      "en": "jargon",
+      "pron": "giàagon",
+      "it": "gergo tecnico",
+      "type": "noun",
+      "ex": "Avoid jargon when you write to non-technical clients.",
+      "exIt": "Evita il gergo tecnico quando scrivi a clienti non tecnici."
+    },
+    {
+      "en": "ambiguous",
+      "pron": "ambìghiuas",
+      "it": "ambiguo, che si può capire in due modi",
+      "type": "adj",
+      "ex": "The instruction is ambiguous, so two people read it differently.",
+      "exIt": "L'istruzione è ambigua, quindi due persone l'hanno letta in modo diverso."
+    },
+    {
+      "en": "precise",
+      "pron": "prisàis",
+      "it": "preciso, esatto",
+      "type": "adj",
+      "ex": "Be precise about the deadline and the owner.",
+      "exIt": "Sii preciso su scadenza e responsabile."
+    },
+    {
+      "en": "clarity",
+      "pron": "klàriti",
+      "it": "chiarezza",
+      "type": "noun",
+      "ex": "Clarity is more important than perfect grammar.",
+      "exIt": "La chiarezza è più importante della grammatica perfetta."
+    },
+    {
+      "en": "brevity",
+      "pron": "brèviti",
+      "it": "brevità",
+      "type": "noun",
+      "ex": "Brevity is a sign of respect for the reader's time.",
+      "exIt": "La brevità è un segno di rispetto per il tempo di chi legge."
+    },
+    {
+      "en": "readability",
+      "pron": "riidabìliti",
+      "it": "leggibilità",
+      "type": "noun",
+      "ex": "Short paragraphs improve readability.",
+      "exIt": "I paragrafi brevi migliorano la leggibilità."
+    },
+    {
+      "en": "plain language",
+      "pron": "plèin lànguidg",
+      "it": "linguaggio semplice e diretto",
+      "type": "noun",
+      "ex": "We write the user guide in plain language.",
+      "exIt": "Scriviamo la guida utente in un linguaggio semplice e diretto."
+    },
+    {
+      "en": "to condense",
+      "pron": "kondèns",
+      "it": "condensare, ridurre",
+      "type": "verb",
+      "ex": "Can you condense this page into three bullet points?",
+      "exIt": "Puoi condensare questa pagina in tre punti elenco?"
+    },
+    {
+      "en": "to omit",
+      "pron": "omìt",
+      "it": "omettere, lasciare fuori",
+      "type": "verb",
+      "ex": "I omitted the technical details from the summary.",
+      "exIt": "Ho lasciato fuori i dettagli tecnici dal riassunto."
+    },
+    {
+      "en": "to trim",
+      "pron": "trìm",
+      "it": "sfoltire, tagliare il superfluo",
+      "type": "verb",
+      "ex": "Let's trim the introduction, it's too long.",
+      "exIt": "Sfoltiamo l'introduzione, è troppo lunga."
+    },
+    {
+      "en": "to tighten",
+      "pron": "tàiten",
+      "it": "stringere (un testo), rendere più compatto",
+      "type": "verb",
+      "ex": "I tightened the proposal from ten pages to six.",
+      "exIt": "Ho reso più compatta la proposta, da dieci pagine a sei."
+    },
+    {
+      "en": "to simplify",
+      "pron": "sìmplifai",
+      "it": "semplificare",
+      "type": "verb",
+      "ex": "Please simplify the instructions for new users.",
+      "exIt": "Per favore semplifica le istruzioni per i nuovi utenti."
+    },
+    {
+      "en": "to specify",
+      "pron": "spèsifai",
+      "it": "precisare, indicare con esattezza",
+      "type": "verb",
+      "ex": "Please specify which pages need the change.",
+      "exIt": "Per favore indica con esattezza quali pagine richiedono la modifica."
+    },
+    {
+      "en": "to convey",
+      "pron": "konvèi",
+      "it": "trasmettere, comunicare (un'idea)",
+      "type": "verb",
+      "ex": "The headline conveys the main message in six words.",
+      "exIt": "Il titolo trasmette il messaggio principale in sei parole."
+    },
+    {
+      "en": "to assess",
+      "pron": "asès",
+      "it": "valutare (invece di 'carry out an assessment of')",
+      "type": "verb",
+      "ex": "We assessed the risks in two days.",
+      "exIt": "Abbiamo valutato i rischi in due giorni."
+    },
+    {
+      "en": "to declutter",
+      "pron": "diiklàta",
+      "it": "sfoltire, togliere il superfluo",
+      "type": "verb",
+      "ex": "Let's declutter this paragraph.",
+      "exIt": "Sfoltiamo questo paragrafo."
+    },
+    {
+      "en": "to utilise",
+      "pron": "iùtilaiz",
+      "it": "utilizzare (di solito meglio: use)",
+      "type": "verb",
+      "ex": "The team utilises three tools to track the work, but one would be enough.",
+      "exIt": "Il team utilizza tre strumenti per seguire il lavoro, ma ne basterebbe uno."
+    },
+    {
+      "en": "to commence",
+      "pron": "komèns",
+      "it": "iniziare (formale; di solito meglio: start)",
+      "type": "verb",
+      "ex": "The audit will commence on Monday at nine.",
+      "exIt": "L'audit inizierà lunedì alle nove."
+    },
+    {
+      "en": "due to the fact that",
+      "pron": "diù tu de fakt dat",
+      "it": "per il fatto che (meglio: because)",
+      "type": "phrase",
+      "ex": "We are late because the client changed the brief.",
+      "exIt": "Siamo in ritardo perché il cliente ha cambiato il brief."
+    },
+    {
+      "en": "in order to",
+      "pron": "in òoda tu",
+      "it": "per, allo scopo di (spesso basta: to)",
+      "type": "phrase",
+      "ex": "We added alt text to make the images accessible.",
+      "exIt": "Abbiamo aggiunto il testo alternativo per rendere le immagini accessibili."
+    },
+    {
+      "en": "at this point in time",
+      "pron": "at dis point in taim",
+      "it": "in questo momento (meglio: now)",
+      "type": "phrase",
+      "ex": "We have no further questions now.",
+      "exIt": "Non abbiamo altre domande per ora."
+    },
+    {
+      "en": "to boil down",
+      "pron": "bòil dàun",
+      "it": "ridurre all'essenziale (un testo)",
+      "type": "verb",
+      "ex": "Can you boil the report down to one page?",
+      "exIt": "Puoi ridurre il report all'essenziale, in una pagina?"
+    },
+    {
+      "en": "heading",
+      "pron": "hèding",
+      "it": "titolo di sezione",
+      "type": "noun",
+      "ex": "Each heading should describe the content below it.",
+      "exIt": "Ogni titolo di sezione dovrebbe descrivere il contenuto sottostante."
+    },
+    {
+      "en": "to pare down",
+      "pron": "pèa dàun",
+      "it": "ridurre all'essenziale",
+      "type": "verb",
+      "ex": "Pare the introduction down to two sentences.",
+      "exIt": "Riduci l'introduzione a due frasi."
+    },
+    {
+      "en": "to boil down to",
+      "pron": "bòil dàun tu",
+      "it": "ridursi in sostanza a",
+      "type": "verb",
+      "ex": "It all boils down to one question: who pays?",
+      "exIt": "Tutto si riduce a una domanda: chi paga?"
+    },
+    {
+      "en": "to distil",
+      "pron": "distìl",
+      "it": "estrarre l'essenziale, sintetizzare",
+      "type": "verb",
+      "ex": "I distilled ten pages of notes into five bullet points.",
+      "exIt": "Ho riassunto dieci pagine di appunti in cinque punti elenco."
+    },
+    {
+      "en": "to reword",
+      "pron": "riuèrd",
+      "it": "riscrivere con altre parole",
+      "type": "verb",
+      "ex": "Could you reword this sentence so it sounds less harsh?",
+      "exIt": "Potresti riscrivere questa frase in modo che suoni meno brusca?"
+    },
+    {
+      "en": "to spell out",
+      "pron": "spèl àut",
+      "it": "spiegare in modo esplicito e dettagliato",
+      "type": "verb",
+      "ex": "Let me spell out exactly what we need from you.",
+      "exIt": "Lasciami spiegare con precisione cosa ci serve da voi."
+    },
+    {
+      "en": "to flesh out",
+      "pron": "flèsc àut",
+      "it": "sviluppare, dare corpo (a un'idea)",
+      "type": "verb",
+      "ex": "We need to flesh out the proposal with real numbers.",
+      "exIt": "Dobbiamo dare corpo alla proposta con numeri reali."
+    },
+    {
+      "en": "to zero in on",
+      "pron": "zìrou in on",
+      "it": "concentrarsi esattamente su",
+      "type": "verb",
+      "ex": "Let's zero in on the main risk.",
+      "exIt": "Concentriamoci sul rischio principale."
+    },
+    {
+      "en": "to lead with",
+      "pron": "lìid uìd",
+      "it": "aprire con, mettere per primo",
+      "type": "verb",
+      "ex": "Lead with the result, then give the details.",
+      "exIt": "Apri con il risultato, poi dai i dettagli."
+    },
+    {
+      "en": "waffle",
+      "pron": "uòfol",
+      "it": "chiacchiere inutili, parole vuote",
+      "type": "noun",
+      "ex": "Cut the waffle and tell me the price.",
+      "exIt": "Taglia le chiacchiere e dimmi il prezzo."
+    },
+    {
+      "en": "padding",
+      "pron": "pàding",
+      "it": "riempitivo (parole inutili per allungare il testo)",
+      "type": "noun",
+      "ex": "The report is full of padding.",
+      "exIt": "Il report è pieno di riempitivi."
+    },
+    {
+      "en": "buzzword",
+      "pron": "bàzuerd",
+      "it": "parola di moda, parola altisonante",
+      "type": "noun",
+      "ex": "Avoid buzzwords like 'synergy' and 'leverage'.",
+      "exIt": "Evita parole di moda come 'synergy' e 'leverage'."
+    },
+    {
+      "en": "acronym",
+      "pron": "àkronim",
+      "it": "sigla",
+      "type": "noun",
+      "ex": "Explain every acronym the first time you use it.",
+      "exIt": "Spiega ogni sigla la prima volta che la usi."
+    },
+    {
+      "en": "euphemism",
+      "pron": "iùfemizm",
+      "it": "eufemismo",
+      "type": "noun",
+      "ex": "'Let go' is a euphemism for 'fired'.",
+      "exIt": "'Let go' è un eufemismo per 'licenziato'."
+    },
+    {
+      "en": "active voice",
+      "pron": "àktiv vòis",
+      "it": "forma attiva",
+      "type": "noun",
+      "ex": "The active voice makes your writing shorter and clearer.",
+      "exIt": "La forma attiva rende la scrittura più breve e chiara."
+    },
+    {
+      "en": "passive voice",
+      "pron": "pàsiv vòis",
+      "it": "forma passiva",
+      "type": "noun",
+      "ex": "The passive voice hides who is responsible.",
+      "exIt": "La forma passiva nasconde chi è responsabile."
+    },
+    {
+      "en": "register",
+      "pron": "rèdgista",
+      "it": "registro linguistico (formale o informale)",
+      "type": "noun",
+      "ex": "Use a formal register in a contract and a friendly one in chat.",
+      "exIt": "Usa un registro formale in un contratto e uno amichevole in chat."
+    },
+    {
+      "en": "hedging",
+      "pron": "hèdgin",
+      "it": "cautele linguistiche (might, perhaps, seems)",
+      "type": "noun",
+      "ex": "Too much hedging makes your advice sound weak.",
+      "exIt": "Troppe cautele fanno sembrare debole il tuo consiglio."
+    },
+    {
+      "en": "unambiguous",
+      "pron": "anambìghiuas",
+      "it": "inequivocabile, che ha un solo significato",
+      "type": "adj",
+      "ex": "Instructions must be unambiguous.",
+      "exIt": "Le istruzioni devono essere inequivocabili."
+    },
+    {
+      "en": "explicit",
+      "pron": "iksplìsit",
+      "it": "esplicito, detto chiaramente",
+      "type": "adj",
+      "ex": "Be explicit about who does what and by when.",
+      "exIt": "Sii esplicito su chi fa cosa e per quando."
+    },
+    {
+      "en": "coherent",
+      "pron": "kouhìarent",
+      "it": "coerente, logico e ben collegato",
+      "type": "adj",
+      "ex": "A coherent report has a clear logical flow.",
+      "exIt": "Un report coerente ha un chiaro filo logico."
+    },
+    {
+      "en": "tautology",
+      "pron": "totòlodgi",
+      "it": "tautologia (dire la stessa cosa due volte)",
+      "type": "noun",
+      "ex": "'Free gift' is a tautology, because a gift is free.",
+      "exIt": "'Free gift' è una tautologia, perché un regalo è gratuito."
+    },
+    {
+      "en": "word choice",
+      "pron": "uèrd ciòis",
+      "it": "scelta delle parole",
+      "type": "noun",
+      "ex": "Careful word choice avoids misunderstandings.",
+      "exIt": "Una scelta attenta delle parole evita fraintendimenti."
+    },
+    {
+      "en": "to restate",
+      "pron": "ristèit",
+      "it": "ribadire, riformulare",
+      "type": "verb",
+      "ex": "Let me restate the main point in one sentence.",
+      "exIt": "Lasciami ribadire il punto principale in una frase."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to elaborate",
+      "it": "approfondire, spiegare meglio",
+      "trap": "Non vuol dire 'elaborare dati' (= to process). Elaborate vuol dire aggiungere dettagli: 'Could you elaborate?'"
+    },
+    {
+      "en": "actually",
+      "it": "in realtà",
+      "trap": "Non vuol dire 'attualmente' (= currently). Spesso è anche un riempitivo da togliere."
+    }
+  ],
+  "grammar": {
+    "title": "Togliere il superfluo: verbi forti invece di frasi lunghe",
+    "explainIt": [
+      "Gli italiani tendono a scrivere frasi lunghe e formali. In inglese professionale funziona meglio il contrario: frasi brevi, con un verbo forte. Invece di 'make a decision' scrivi 'decide'. Invece di 'give consideration to' scrivi 'consider'. Il verbo forte dice la stessa cosa in meno parole, ed è più facile da leggere.",
+      "Molti verbi deboli (make, do, give, take, have, provide) vengono usati con un nome: make a decision, do a review, give an explanation, have a discussion. Se il nome nasconde un verbo, usa il verbo: decide, review, explain, discuss. Controlla ogni frase con make, do, give, take: spesso puoi accorciarla.",
+      "Togli anche le parole che non aggiungono nulla. 'In order to' diventa 'to'. 'Due to the fact that' diventa 'because'. 'At this point in time' diventa 'now'. 'Very unique' diventa 'unique'. 'Basically', 'actually', 'really' e 'just' sono spesso riempitivi: se togli la parola e il senso resta uguale, toglila.",
+      "Preferisci la forma attiva: 'We approved the budget' è più chiara di 'The budget was approved by us'. Il passivo va bene quando non sai chi ha fatto l'azione o non è importante: 'The files were deleted'. Ma se il soggetto è importante, mettilo all'inizio della frase.",
+      "Per finire, un'idea per frase e il punto principale per primo. Scrivi 'Please approve the quote by Friday' nella prima riga, e poi i dettagli. Un lettore impegnato legge solo l'inizio. Frasi sotto le 20 parole, paragrafi sotto le 4 righe e un invito all'azione chiaro."
+    ],
+    "explainEn": [
+      "Italians often write long, formal sentences. In professional English the opposite works better: short sentences with a strong verb. Instead of 'make a decision' write 'decide'. Instead of 'give consideration to' write 'consider'. The strong verb says the same in fewer words and is easier to read.",
+      "Many weak verbs (make, do, give, take, have, provide) are used with a noun: make a decision, do a review, give an explanation, have a discussion. If the noun hides a verb, use the verb: decide, review, explain, discuss. Check every sentence with make, do, give or take: often you can shorten it.",
+      "Also remove words that add nothing. 'In order to' becomes 'to'. 'Due to the fact that' becomes 'because'. 'At this point in time' becomes 'now'. 'Very unique' becomes 'unique'. 'Basically', 'actually', 'really' and 'just' are often filler: if you remove the word and the meaning stays the same, remove it.",
+      "Prefer the active voice: 'We approved the budget' is clearer than 'The budget was approved by us'. The passive is fine when you do not know who did the action or it is not important: 'The files were deleted'. But if the subject is important, put it at the start of the sentence.",
+      "Finally, one idea per sentence and the main point first. Write 'Please approve the quote by Friday' in the first line, and then the details. A busy reader reads only the beginning. Keep sentences under 20 words, paragraphs under four lines and the call to action clear."
+    ],
+    "rules": [
+      {
+        "it": "Verbo debole + nome diventa un solo verbo forte.",
+        "en": "Weak verb + noun becomes one strong verb.",
+        "form": "make a decision = decide; carry out a review = review",
+        "examples": [
+          {
+            "en": "We need to decide by Friday. (not: make a decision)",
+            "it": "Dobbiamo decidere entro venerdì. (non: prendere una decisione)"
+          },
+          {
+            "en": "Let's discuss the budget. (not: have a discussion about)",
+            "it": "Discutiamo del budget. (non: avere una discussione su)"
+          },
+          {
+            "en": "She reviewed the code. (not: did a review of)",
+            "it": "Ha rivisto il codice. (non: ha fatto una revisione di)"
+          }
+        ]
+      },
+      {
+        "it": "Togli le parole inutili: espressioni lunghe diventano una parola.",
+        "en": "Cut the empty words: long phrases become one word.",
+        "form": "in order to = to; due to the fact that = because; at this point in time = now",
+        "examples": [
+          {
+            "en": "We use alt text to help screen reader users.",
+            "it": "Usiamo il testo alternativo per aiutare chi usa uno screen reader."
+          },
+          {
+            "en": "We are late because the client changed the brief.",
+            "it": "Siamo in ritardo perché il cliente ha cambiato il brief."
+          },
+          {
+            "en": "We cannot comment now.",
+            "it": "Non possiamo fare commenti per ora."
+          }
+        ]
+      },
+      {
+        "it": "Preferisci la forma attiva: chi fa l'azione va all'inizio.",
+        "en": "Prefer the active voice: put the person who acts at the start.",
+        "form": "Soggetto + verbo + oggetto",
+        "examples": [
+          {
+            "en": "We fixed the error. (not: The error was fixed by us.)",
+            "it": "Abbiamo corretto l'errore."
+          },
+          {
+            "en": "The client approved the design.",
+            "it": "Il cliente ha approvato il design."
+          }
+        ]
+      },
+      {
+        "it": "Una sola idea per frase, e il punto principale all'inizio.",
+        "en": "One idea per sentence, and the main point first.",
+        "form": "Richiesta + scadenza + dettagli",
+        "examples": [
+          {
+            "en": "Please approve the quote by Friday. The total is 4,200 euros.",
+            "it": "Per favore approva il preventivo entro venerdì. Il totale è 4.200 euro."
+          },
+          {
+            "en": "The bottom line: we need two more weeks.",
+            "it": "In sintesi: ci servono altre due settimane."
+          }
+        ]
+      },
+      {
+        "it": "Elimina i riempitivi se il senso non cambia: basically, actually, really, just, very.",
+        "en": "Remove fillers if the meaning does not change: basically, actually, really, just, very.",
+        "form": "Prova: togli la parola, il senso resta? Allora toglila.",
+        "examples": [
+          {
+            "en": "The page is slow. (not: The page is actually really very slow.)",
+            "it": "La pagina è lenta."
+          },
+          {
+            "en": "I sent the file. (not: I just basically sent the file.)",
+            "it": "Ho mandato il file."
+          }
+        ]
+      }
+    ],
+    "tip": "Rileggi ogni frase e chiediti: posso togliere una parola senza cambiare il senso? Poi cerca make, do, give, take e have: spesso nascondono un verbo forte. Regola pratica: dopo aver scritto una mail, prova a ridurla del 20 per cento.",
+    "mistakes": [
+      {
+        "wrong": "We need to make a decision about the supplier.",
+        "right": "We need to decide on the supplier.",
+        "why": "make a decision è corretto ma debole: il verbo decide è più breve e diretto"
+      },
+      {
+        "wrong": "Due to the fact that the server is down, we cannot work.",
+        "right": "Because the server is down, we cannot work.",
+        "why": "due to the fact that = because"
+      },
+      {
+        "wrong": "I am writing this email in order to inform you that the meeting is cancelled.",
+        "right": "The meeting is cancelled.",
+        "why": "di' subito il punto: non annunciare che stai per dirlo"
+      },
+      {
+        "wrong": "The report was written by me and sent by me yesterday.",
+        "right": "I wrote the report and sent it yesterday.",
+        "why": "la forma attiva è più naturale e breve"
+      },
+      {
+        "wrong": "Actually I am basically very busy at this point in time.",
+        "right": "I'm busy now.",
+        "why": "tolti i riempitivi il senso è identico"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "We need to ___ (make a decision) by Friday. Use one strong verb.",
+      "a": [
+        "decide"
+      ],
+      "hint": "un solo verbo",
+      "explain": "make a decision = decide."
+    },
+    {
+      "q": "Let's ___ (have a discussion about) the budget. Use one strong verb.",
+      "a": [
+        "discuss"
+      ],
+      "hint": "un solo verbo",
+      "explain": "have a discussion about = discuss."
+    },
+    {
+      "q": "She ___ (did a review of) the code yesterday. Use the past of one verb.",
+      "a": [
+        "reviewed"
+      ],
+      "hint": "past simple",
+      "explain": "did a review of = reviewed."
+    },
+    {
+      "q": "We added alt text ___ make the images accessible. (use the short form)",
+      "a": [
+        "to"
+      ],
+      "hint": "non 'in order to'",
+      "explain": "In order to si accorcia a to."
+    },
+    {
+      "q": "We are late ___ the client changed the brief. (short form of 'due to the fact that')",
+      "a": [
+        "because",
+        "as",
+        "since"
+      ],
+      "hint": "una parola",
+      "explain": "Due to the fact that = because."
+    },
+    {
+      "q": "We cannot comment ___. (short form of 'at this point in time')",
+      "a": [
+        "now",
+        "yet"
+      ],
+      "hint": "una parola",
+      "explain": "At this point in time = now."
+    },
+    {
+      "q": "Could you ___ (give an explanation of) the error? Use one verb.",
+      "a": [
+        "explain"
+      ],
+      "hint": "un solo verbo",
+      "explain": "give an explanation of = explain."
+    },
+    {
+      "q": "The developers ___ (fix) the error yesterday.",
+      "a": [
+        "fixed"
+      ],
+      "hint": "forma attiva, past simple",
+      "explain": "Forma attiva: soggetto + verbo, meglio di The error was fixed by the developers."
+    },
+    {
+      "q": "Please ___ (provide information to) the client about the change. Use one verb.",
+      "a": [
+        "inform",
+        "tell",
+        "notify"
+      ],
+      "hint": "un solo verbo",
+      "explain": "provide information to = inform."
+    },
+    {
+      "q": "We need to ___ (take into consideration) the budget. Use one verb.",
+      "a": [
+        "consider"
+      ],
+      "hint": "un solo verbo",
+      "explain": "take into consideration = consider."
+    },
+    {
+      "q": "Replace 'make use of' with ___.",
+      "a": [
+        "use"
+      ],
+      "hint": "una parola",
+      "explain": "make use of = use."
+    },
+    {
+      "q": "The key ___ is that the site passes level AA. (the main point to remember)",
+      "a": [
+        "takeaway",
+        "point"
+      ],
+      "hint": "punto chiave",
+      "explain": "key takeaway = il punto chiave da ricordare."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Andare al punto",
+      "en": "The bottom line is that we need two more weeks.",
+      "it": "In sintesi, ci servono altre due settimane."
+    },
+    {
+      "group": "Andare al punto",
+      "en": "To keep it short: the site passes level AA.",
+      "it": "Per farla breve: il sito supera il livello AA."
+    },
+    {
+      "group": "Andare al punto",
+      "en": "In short, we recommend option B.",
+      "it": "In breve, consigliamo l'opzione B."
+    },
+    {
+      "group": "Andare al punto",
+      "en": "My key point is that the deadline is not realistic.",
+      "it": "Il mio punto principale è che la scadenza non è realistica."
+    },
+    {
+      "group": "Andare al punto",
+      "en": "Let me get straight to the point.",
+      "it": "Vado dritto al punto."
+    },
+    {
+      "group": "Chiedere chiarezza",
+      "en": "Could you clarify what you mean by 'soon'?",
+      "it": "Potresti chiarire cosa intendi con 'presto'?"
+    },
+    {
+      "group": "Chiedere chiarezza",
+      "en": "Could you be more specific?",
+      "it": "Potresti essere più specifico?"
+    },
+    {
+      "group": "Chiedere chiarezza",
+      "en": "Sorry, I'm not sure I follow. Could you rephrase that?",
+      "it": "Scusa, non ho capito bene. Puoi riformulare?"
+    },
+    {
+      "group": "Chiedere chiarezza",
+      "en": "Could you elaborate on the second point?",
+      "it": "Potresti approfondire il secondo punto?"
+    },
+    {
+      "group": "Chiedere chiarezza",
+      "en": "Which deadline are you referring to?",
+      "it": "A quale scadenza ti riferisci?"
+    },
+    {
+      "group": "Riscrivere e correggere",
+      "en": "I've trimmed the introduction to two lines.",
+      "it": "Ho ridotto l'introduzione a due righe."
+    },
+    {
+      "group": "Riscrivere e correggere",
+      "en": "I've simplified the language for non-technical readers.",
+      "it": "Ho semplificato il linguaggio per i lettori non tecnici."
+    },
+    {
+      "group": "Riscrivere e correggere",
+      "en": "Let me rephrase that sentence.",
+      "it": "Lasciami riformulare quella frase."
+    },
+    {
+      "group": "Riscrivere e correggere",
+      "en": "This paragraph is wordy. Can we cut it by half?",
+      "it": "Questo paragrafo è prolisso. Possiamo ridurlo della metà?"
+    },
+    {
+      "group": "Riscrivere e correggere",
+      "en": "I'll proofread it once more before I send it.",
+      "it": "La rileggo ancora una volta prima di inviarla."
+    },
+    {
+      "group": "Struttura del messaggio",
+      "en": "I'm writing to ask for approval of the quote.",
+      "it": "Ti scrivo per chiedere l'approvazione del preventivo.",
+      "note": "meglio: Please approve the quote."
+    },
+    {
+      "group": "Struttura del messaggio",
+      "en": "Please approve the quote by Friday.",
+      "it": "Per favore approva il preventivo entro venerdì."
+    },
+    {
+      "group": "Struttura del messaggio",
+      "en": "Three things need your attention:",
+      "it": "Tre cose richiedono la tua attenzione:",
+      "note": "poi un elenco puntato"
+    },
+    {
+      "group": "Struttura del messaggio",
+      "en": "Details are in the attached document.",
+      "it": "I dettagli sono nel documento allegato."
+    },
+    {
+      "group": "Struttura del messaggio",
+      "en": "What I need from you: a yes or a no by Friday.",
+      "it": "Quello che mi serve da te: un sì o un no entro venerdì."
+    },
+    {
+      "group": "Frasi da evitare e alternative",
+      "en": "At this point in time = now",
+      "it": "At this point in time diventa now."
+    },
+    {
+      "group": "Frasi da evitare e alternative",
+      "en": "In the event that = if",
+      "it": "In the event that diventa if."
+    },
+    {
+      "group": "Frasi da evitare e alternative",
+      "en": "With regard to = about",
+      "it": "With regard to diventa about."
+    },
+    {
+      "group": "Frasi da evitare e alternative",
+      "en": "Prior to = before",
+      "it": "Prior to diventa before."
+    },
+    {
+      "group": "Frasi da evitare e alternative",
+      "en": "A large number of = many",
+      "it": "A large number of diventa many."
+    }
+  ],
+  "dialogue": {
+    "title": "Cutting the email in half",
+    "context": "Luca mostra a Emma, la sua responsabile, una mail troppo lunga per un cliente. Emma lo aiuta a renderla breve e chiara.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Emma, can you look at this email before I send it? I think it's too long.",
+        "it": "Emma, puoi guardare questa mail prima che la mandi? Credo sia troppo lunga."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Sure. Hmm, it's nearly 400 words. What's the main point?",
+        "it": "Certo. Hmm, sono quasi 400 parole. Qual è il punto principale?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "I need the client to decide between two options by Friday.",
+        "it": "Ho bisogno che il cliente decida tra due opzioni entro venerdì."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Then say that in the first line. Right now it only appears in the fifth paragraph.",
+        "it": "Allora dillo nella prima riga. Adesso compare solo nel quinto paragrafo."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "You're right. Should I keep 'in order to ensure that'?",
+        "it": "Hai ragione. Devo tenere 'in order to ensure that'?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "No, just write 'to ensure'. Or even better, 'to make sure'.",
+        "it": "No, scrivi solo 'to ensure'. O meglio ancora 'to make sure'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "And 'due to the fact that the budget has been reduced'?",
+        "it": "E 'due to the fact that the budget has been reduced'?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Simply say 'because the budget is smaller'. It's shorter and clearer.",
+        "it": "Di' semplicemente 'because the budget is smaller'. È più breve e più chiaro."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "I also wrote 'we would like to make a recommendation'.",
+        "it": "Ho scritto anche 'we would like to make a recommendation'."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Use the verb: 'We recommend option B.' Strong verbs make you sound more confident.",
+        "it": "Usa il verbo: 'We recommend option B.' I verbi forti danno più sicurezza a quello che scrivi."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Got it. Should I explain the technical details?",
+        "it": "Capito. Devo spiegare i dettagli tecnici?"
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Not in the email. Put them in an attachment and say 'Details are attached'.",
+        "it": "Non nella mail. Mettili in un allegato e scrivi 'Details are attached'."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Okay, so: subject line, request, deadline, two options, call to action.",
+        "it": "Va bene, quindi: oggetto, richiesta, scadenza, due opzioni, invito all'azione."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Exactly. Use bullet points for the options, and end with 'Please reply by Friday.'",
+        "it": "Esatto. Usa i punti elenco per le opzioni e chiudi con 'Please reply by Friday.'"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "That's much better. Under 150 words, I think.",
+        "it": "Molto meglio. Sotto le 150 parole, credo."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Perfect. Short and to the point.",
+        "it": "Perfetto. Breve e dritta al punto."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What is the main point of Luca's email?",
+      "options": [
+        "The client must choose between two options by Friday",
+        "The budget has been increased",
+        "The project is finished"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Emma suggest instead of 'due to the fact that'?",
+      "options": [
+        "because",
+        "although",
+        "in the event that"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What should Luca do with the technical details?",
+      "options": [
+        "Put them in an attachment",
+        "Delete them completely",
+        "Put them in the subject line"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "How long does Luca think the final email is?",
+      "options": [
+        "Under 150 words",
+        "Nearly 400 words",
+        "Exactly 1,000 words"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Dobbiamo decidere entro venerdì.",
+      "en": "We need to decide by Friday.",
+      "alt": [
+        "We have to decide by Friday.",
+        "We must decide by Friday."
+      ]
+    },
+    {
+      "it": "Per favore approva il preventivo entro venerdì.",
+      "en": "Please approve the quote by Friday.",
+      "alt": [
+        "Please approve the quotation by Friday.",
+        "Could you approve the quote by Friday?"
+      ]
+    },
+    {
+      "it": "Siamo in ritardo perché il cliente ha cambiato il brief.",
+      "en": "We are late because the client changed the brief.",
+      "alt": [
+        "We're late because the client changed the brief.",
+        "We are behind schedule because the client changed the brief."
+      ]
+    },
+    {
+      "it": "Ho ridotto l'introduzione a due righe.",
+      "en": "I've trimmed the introduction to two lines.",
+      "alt": [
+        "I have trimmed the introduction to two lines.",
+        "I shortened the introduction to two lines."
+      ]
+    },
+    {
+      "it": "Potresti chiarire cosa intendi con 'presto'?",
+      "en": "Could you clarify what you mean by 'soon'?",
+      "alt": [
+        "Could you explain what you mean by 'soon'?",
+        "Can you clarify what you mean by 'soon'?"
+      ]
+    },
+    {
+      "it": "Il punto chiave è che il sito supera il livello AA.",
+      "en": "The key takeaway is that the site passes level AA.",
+      "alt": [
+        "The main point is that the site passes level AA.",
+        "The key point is that the site passes level AA."
+      ]
+    },
+    {
+      "it": "Usa i punti elenco per le liste di tre o più voci.",
+      "en": "Use bullet points for lists of three or more items.",
+      "alt": [
+        "Use bullet points for lists with three or more items.",
+        "Use bullet points when you have three or more items."
+      ]
+    },
+    {
+      "it": "Evita il gergo tecnico quando scrivi ai clienti.",
+      "en": "Avoid jargon when you write to clients.",
+      "alt": [
+        "Avoid technical jargon when you write to clients.",
+        "Don't use jargon when you write to clients."
+      ]
+    },
+    {
+      "it": "In sintesi, ci servono altre due settimane.",
+      "en": "The bottom line is that we need two more weeks.",
+      "alt": [
+        "In short, we need two more weeks.",
+        "In summary, we need another two weeks."
+      ]
+    },
+    {
+      "it": "Questo paragrafo è prolisso: possiamo ridurlo della metà?",
+      "en": "This paragraph is wordy. Can we cut it by half?",
+      "alt": [
+        "This paragraph is too wordy. Can we cut it in half?",
+        "This paragraph is wordy: can we shorten it by half?"
+      ]
+    },
+    {
+      "it": "Rileggo il testo prima di inviarlo.",
+      "en": "I'll proofread the text before I send it.",
+      "alt": [
+        "I will proofread the text before sending it.",
+        "I'm going to proofread the text before I send it."
+      ]
+    },
+    {
+      "it": "I dettagli sono nel documento allegato.",
+      "en": "The details are in the attached document.",
+      "alt": [
+        "Details are in the attached document.",
+        "You'll find the details in the attached document."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Riscrivi in modo breve e chiaro questa mail troppo lunga: 'Dear Mr Rossi, I am writing this email in order to inform you that due to the fact that the server has been experiencing some problems, we will unfortunately need to make a decision about the migration at this point in time. We would like to make a recommendation that you give consideration to the second option.' Usa verbi forti, metti il punto principale in apertura e aggiungi un invito all'azione. Massimo 5 righe.",
+    "taskEn": "Rewrite this email in a short, clear way: 'Dear Mr Rossi, I am writing this email in order to inform you that due to the fact that the server has been experiencing some problems, we will unfortunately need to make a decision about the migration at this point in time. We would like to make a recommendation that you give consideration to the second option.' Use strong verbs, put the main point first and add a call to action. Maximum 5 lines.",
+    "model": "Subject: Decision needed on server migration by Friday\n\nDear Mr Rossi,\n\nWe need to decide on the server migration by Friday.\n\nThe server keeps failing, so we recommend option two: a full migration this month.\n\nPlease reply by Friday to confirm.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "The bottom line is that we need two more weeks.",
+      "Please approve the quote by Friday.",
+      "We need to decide by the end of the week.",
+      "Could you clarify what you mean by soon?",
+      "Let me get straight to the point.",
+      "I've trimmed the introduction to two lines.",
+      "We are late because the client changed the brief.",
+      "Her emails are short and to the point."
+    ],
+    "prompts": [
+      {
+        "en": "What makes an email clear and easy to read?",
+        "it": "Cosa rende una mail chiara e facile da leggere?",
+        "help": "Usa: short sentences, strong verbs, main point first"
+      },
+      {
+        "en": "Give me three examples of long phrases you can replace with one word.",
+        "it": "Dammi tre esempi di frasi lunghe che puoi sostituire con una parola.",
+        "help": "Usa: in order to = to; due to the fact that = because"
+      },
+      {
+        "en": "Summarise your last project in three sentences.",
+        "it": "Riassumi il tuo ultimo progetto in tre frasi.",
+        "help": "Usa: The goal was... / We delivered... / The result was..."
+      },
+      {
+        "en": "Why is the active voice often better than the passive?",
+        "it": "Perché la forma attiva è spesso meglio della passiva?",
+        "help": "Usa: clearer, shorter, shows who does what"
+      },
+      {
+        "en": "Explain the term 'call to action' and give an example.",
+        "it": "Spiega il termine call to action e fai un esempio.",
+        "help": "Usa: Please reply by... / Click here to... / Approve the quote by..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: scrivere meno, scrivere meglio",
+      "show": [
+        "Clear and concise style",
+        "Verbi forti invece di frasi lunghe",
+        "Punto principale per primo"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi impariamo a scrivere in modo chiaro e breve. Chi legge ha poco tempo. Se togli le parole inutili e usi verbi forti, la tua mail diventa più professionale."
+        },
+        {
+          "lang": "en",
+          "text": "Short and to the point."
+        }
+      ]
+    },
+    {
+      "title": "Verbi forti: decide, discuss, review",
+      "show": [
+        "make a decision = decide",
+        "have a discussion = discuss",
+        "do a review = review"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Molte frasi usano un verbo debole più un nome, come make a decision. Spesso puoi usare un solo verbo forte, come decide. Controlla ogni frase con make, do, give e take."
+        },
+        {
+          "lang": "en",
+          "text": "We need to decide by Friday."
+        },
+        {
+          "lang": "en",
+          "text": "Let's discuss the budget."
+        }
+      ]
+    },
+    {
+      "title": "Togliere le parole vuote",
+      "show": [
+        "in order to = to",
+        "due to the fact that = because",
+        "at this point in time = now"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Alcune espressioni lunghe si possono sostituire con una parola. In order to diventa to. Due to the fact that diventa because. At this point in time diventa now."
+        },
+        {
+          "lang": "en",
+          "text": "We are late because the client changed the brief."
+        }
+      ]
+    },
+    {
+      "title": "Forma attiva",
+      "show": [
+        "We fixed the error.",
+        "Meglio di: The error was fixed by us."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "La forma attiva è più chiara e più breve. Metti all'inizio chi fa l'azione. Usa il passivo solo quando non sai chi ha agito o non è importante."
+        },
+        {
+          "lang": "en",
+          "text": "The client approved the design."
+        }
+      ]
+    },
+    {
+      "title": "Un'idea per frase, il punto per primo",
+      "show": [
+        "Richiesta, scadenza, dettagli",
+        "Frasi sotto le 20 parole",
+        "Paragrafi sotto le 4 righe"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Scrivi la richiesta nella prima riga. Poi i dettagli. Una sola idea per frase. Chi legge in fretta guarda solo l'inizio, quindi il punto principale va all'inizio."
+        },
+        {
+          "lang": "en",
+          "text": "Please approve the quote by Friday."
+        }
+      ]
+    },
+    {
+      "title": "Togliere i riempitivi",
+      "show": [
+        "basically, actually, really, just, very",
+        "Se togli la parola, il senso resta?",
+        "Allora toglila."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Parole come basically, actually e really sono spesso riempitivi. Prova a toglierle. Se il significato resta uguale, la frase è migliore senza."
+        },
+        {
+          "lang": "en",
+          "text": "The page is slow."
+        }
+      ]
+    },
+    {
+      "title": "Espressioni per chiarire e riassumere",
+      "show": [
+        "The bottom line is...",
+        "Could you clarify?",
+        "Could you be more specific?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per andare al punto usa the bottom line is. Per chiedere chiarezza usa could you clarify. Per avere dettagli precisi chiedi could you be more specific."
+        },
+        {
+          "lang": "en",
+          "text": "The bottom line is that we need two more weeks."
+        },
+        {
+          "lang": "en",
+          "text": "Could you clarify what you mean by soon?"
+        }
+      ]
+    },
+    {
+      "title": "Struttura di una mail chiara",
+      "show": [
+        "Oggetto: cosa serve e entro quando",
+        "Prima riga: la richiesta",
+        "Punti elenco",
+        "Invito all'azione"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Una buona mail ha un oggetto chiaro, la richiesta nella prima riga, pochi punti elenco e un invito all'azione alla fine. Rileggi sempre prima di inviare."
+        },
+        {
+          "lang": "en",
+          "text": "Please reply by Friday."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Verbi forti",
+        "Parole inutili: fuori",
+        "Forma attiva",
+        "Punto principale per primo"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Usa verbi forti. Togli le parole inutili. Preferisci la forma attiva. Metti il punto principale per primo. E rileggi, provando a ridurre il testo del venti per cento."
+        },
+        {
+          "lang": "en",
+          "text": "Clear writing is respectful writing."
+        }
+      ]
+    }
+  ]
+}

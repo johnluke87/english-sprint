@@ -1,0 +1,1243 @@
+{
+  "id": 42,
+  "week": 9,
+  "title": "Modi di dire da ufficio",
+  "titleEn": "Office idioms",
+  "intro": "Oggi impari 50 modi di dire che si sentono ogni giorno negli uffici inglesi e americani, come on the same page, ballpark figure, touch base. Non basta conoscerli: impari anche a usarli con il tono giusto e a non esagerare. Ti servono per capire colleghi e clienti nelle riunioni e nelle chat.",
+  "goals": [
+    "Capire 50 idiomi molto comuni nelle riunioni e nelle mail interne",
+    "Usarne alcuni con il tono giusto, senza esagerare",
+    "Sapere quando non usare un idioma (mail formali, clienti stranieri, audit scritti)",
+    "Riconoscere un idioma quando lo senti e rispondere in modo naturale"
+  ],
+  "words": [
+    {
+      "en": "to touch base",
+      "pron": "tàc bèis",
+      "it": "sentirsi brevemente, fare il punto",
+      "type": "phrase",
+      "ex": "Let's touch base on Friday to check progress.",
+      "exIt": "Sentiamoci venerdì per fare il punto."
+    },
+    {
+      "en": "to get the ball rolling",
+      "pron": "ghèt de bòl ròuling",
+      "it": "dare il via, far partire",
+      "type": "phrase",
+      "ex": "Let's get the ball rolling with a short kick-off call.",
+      "exIt": "Facciamo partire le cose con una breve chiamata iniziale."
+    },
+    {
+      "en": "back to square one",
+      "pron": "bàk tu skuèer uàn",
+      "it": "tornare al punto di partenza",
+      "type": "phrase",
+      "ex": "The client rejected everything, so we are back to square one.",
+      "exIt": "Il cliente ha rifiutato tutto, quindi siamo tornati al punto di partenza."
+    },
+    {
+      "en": "to think outside the box",
+      "pron": "tìnk autsàid de bòks",
+      "it": "pensare in modo creativo, fuori dagli schemi",
+      "type": "phrase",
+      "ex": "We need to think outside the box to solve this problem.",
+      "exIt": "Dobbiamo pensare fuori dagli schemi per risolvere questo problema."
+    },
+    {
+      "en": "to hit the ground running",
+      "pron": "hìt de gràund ràning",
+      "it": "partire subito a tutta velocità",
+      "type": "phrase",
+      "ex": "The new developer hit the ground running and fixed three bugs on day one.",
+      "exIt": "Il nuovo sviluppatore è partito subito a razzo e ha risolto tre bug il primo giorno."
+    },
+    {
+      "en": "out of the loop",
+      "pron": "àut ov de lùup",
+      "it": "non informato, escluso",
+      "type": "phrase",
+      "ex": "I was out of the loop, so I did not know about the change.",
+      "exIt": "Non ero stato informato, quindi non sapevo del cambiamento."
+    },
+    {
+      "en": "to bite the bullet",
+      "pron": "bàit de bùlet",
+      "it": "stringere i denti e fare una cosa sgradevole ma necessaria",
+      "type": "phrase",
+      "ex": "We decided to bite the bullet and rebuild the whole site.",
+      "exIt": "Abbiamo deciso di stringere i denti e rifare tutto il sito."
+    },
+    {
+      "en": "low-hanging fruit",
+      "pron": "lòu hàning frùut",
+      "it": "risultati facili da ottenere subito",
+      "type": "phrase",
+      "ex": "Let's tackle the low-hanging fruit first, like missing alt text.",
+      "exIt": "Cominciamo dalle cose facili, come i testi alternativi mancanti."
+    },
+    {
+      "en": "to raise the bar",
+      "pron": "rèiz de bàar",
+      "it": "alzare il livello",
+      "type": "phrase",
+      "ex": "This new design really raises the bar for the whole team.",
+      "exIt": "Questo nuovo design alza davvero il livello per tutto il team."
+    },
+    {
+      "en": "to move the goalposts",
+      "pron": "mùuv de gòulpousts",
+      "it": "cambiare le regole a gioco in corso",
+      "type": "phrase",
+      "ex": "The client keeps moving the goalposts, and we can't finish.",
+      "exIt": "Il cliente continua a cambiare le regole e non riusciamo a finire."
+    },
+    {
+      "en": "to drop the ball",
+      "pron": "dròp de bòl",
+      "it": "farsi sfuggire una cosa, mancare un impegno",
+      "type": "phrase",
+      "ex": "Sorry, I dropped the ball on that email.",
+      "exIt": "Scusa, mi è sfuggita quella mail."
+    },
+    {
+      "en": "on the back burner",
+      "pron": "on de bàk bèrner",
+      "it": "messo da parte per ora",
+      "type": "phrase",
+      "ex": "The mobile app is on the back burner until next year.",
+      "exIt": "L'app mobile è messa da parte fino all'anno prossimo."
+    },
+    {
+      "en": "up in the air",
+      "pron": "àp in de èer",
+      "it": "ancora indeciso, in sospeso",
+      "type": "phrase",
+      "ex": "The launch date is still up in the air.",
+      "exIt": "La data di lancio è ancora in sospeso."
+    },
+    {
+      "en": "to cut corners",
+      "pron": "kàt kòrners",
+      "it": "fare le cose male per risparmiare tempo o soldi, prendere scorciatoie",
+      "type": "phrase",
+      "ex": "We should not cut corners on security.",
+      "exIt": "Non dovremmo prendere scorciatoie sulla sicurezza."
+    },
+    {
+      "en": "to call it a day",
+      "pron": "kòol it a dèi",
+      "it": "smettere per oggi",
+      "type": "phrase",
+      "ex": "It's six o'clock. Let's call it a day.",
+      "exIt": "Sono le sei. Chiudiamo per oggi."
+    },
+    {
+      "en": "to go the extra mile",
+      "pron": "gòu de èkstra màil",
+      "it": "fare più del dovuto",
+      "type": "phrase",
+      "ex": "Our team always goes the extra mile for clients.",
+      "exIt": "Il nostro team fa sempre qualcosa in più per i clienti."
+    },
+    {
+      "en": "at the end of the day",
+      "pron": "at de ènd ov de dèi",
+      "it": "alla fine dei conti",
+      "type": "phrase",
+      "ex": "At the end of the day, the client decides.",
+      "exIt": "Alla fine dei conti decide il cliente."
+    },
+    {
+      "en": "red tape",
+      "pron": "rèd tèip",
+      "it": "burocrazia, lungaggini",
+      "type": "phrase",
+      "ex": "There is too much red tape to get the project approved.",
+      "exIt": "C'è troppa burocrazia per far approvare il progetto."
+    },
+    {
+      "en": "a no-brainer",
+      "pron": "a nòu brèiner",
+      "it": "una scelta ovvia",
+      "type": "phrase",
+      "ex": "At that price, it's a no-brainer.",
+      "exIt": "A quel prezzo è una scelta ovvia."
+    },
+    {
+      "en": "to get the green light",
+      "pron": "ghèt de grìin làit",
+      "it": "ottenere il via libera",
+      "type": "phrase",
+      "ex": "We got the green light to start on Monday.",
+      "exIt": "Abbiamo avuto il via libera per cominciare lunedì."
+    },
+    {
+      "en": "to raise a red flag",
+      "pron": "rèiz a rèd flàg",
+      "it": "segnalare un problema serio",
+      "type": "phrase",
+      "ex": "I want to raise a red flag about the contrast on this page.",
+      "exIt": "Vorrei segnalare un problema serio sul contrasto di questa pagina."
+    },
+    {
+      "en": "by the book",
+      "pron": "bài de bùk",
+      "it": "secondo le regole, alla lettera",
+      "type": "phrase",
+      "ex": "We did everything by the book, so we are safe.",
+      "exIt": "Abbiamo fatto tutto secondo le regole, quindi siamo al sicuro."
+    },
+    {
+      "en": "to pull an all-nighter",
+      "pron": "pùl an òl nàiter",
+      "it": "fare una notte in bianco a lavorare",
+      "type": "phrase",
+      "ex": "I had to pull an all-nighter to finish the release.",
+      "exIt": "Ho dovuto lavorare tutta la notte per completare il rilascio."
+    },
+    {
+      "en": "to burn the midnight oil",
+      "pron": "bèrn de mìdnait òil",
+      "it": "lavorare fino a tardi",
+      "type": "phrase",
+      "ex": "The team burned the midnight oil before the deadline.",
+      "exIt": "Il team ha lavorato fino a tardi prima della scadenza."
+    },
+    {
+      "en": "across the board",
+      "pron": "akròs de bòrd",
+      "it": "su tutta la linea, per tutti",
+      "type": "phrase",
+      "ex": "We have cut prices across the board.",
+      "exIt": "Abbiamo ridotto i prezzi su tutta la linea."
+    },
+    {
+      "en": "to keep an eye on",
+      "pron": "kìip an ài on",
+      "it": "tenere d'occhio",
+      "type": "phrase",
+      "ex": "Can you keep an eye on the server tonight?",
+      "exIt": "Puoi tenere d'occhio il server stanotte?"
+    },
+    {
+      "en": "to take it offline",
+      "pron": "tèik it òflain",
+      "it": "parlarne fuori dalla riunione",
+      "type": "phrase",
+      "ex": "This is too detailed. Let's take it offline.",
+      "exIt": "È un discorso troppo dettagliato. Parliamone fuori dalla riunione."
+    },
+    {
+      "en": "to circle back",
+      "pron": "sèrkol bàk",
+      "it": "tornare su un punto più tardi",
+      "type": "phrase",
+      "ex": "I'll circle back to this after the demo.",
+      "exIt": "Ci torno dopo la demo."
+    },
+    {
+      "en": "to reinvent the wheel",
+      "pron": "riinvènt de uìil",
+      "it": "reinventare l'acqua calda",
+      "type": "phrase",
+      "ex": "We don't need to reinvent the wheel. Let's use an existing library.",
+      "exIt": "Non serve reinventare l'acqua calda. Usiamo una libreria esistente."
+    },
+    {
+      "en": "the elephant in the room",
+      "pron": "de èlifant in de rùum",
+      "it": "il problema evidente di cui nessuno parla",
+      "type": "phrase",
+      "ex": "Let's address the elephant in the room: the budget.",
+      "exIt": "Affrontiamo il problema che nessuno nomina: il budget."
+    },
+    {
+      "en": "to learn the ropes",
+      "pron": "lèrn de ròups",
+      "it": "imparare come funzionano le cose",
+      "type": "phrase",
+      "ex": "It took me a month to learn the ropes in the new job.",
+      "exIt": "Mi ci è voluto un mese per imparare come funzionano le cose nel nuovo lavoro."
+    },
+    {
+      "en": "a steep learning curve",
+      "pron": "a stìip lèrning kèrv",
+      "it": "una curva di apprendimento ripida",
+      "type": "phrase",
+      "ex": "This framework has a steep learning curve.",
+      "exIt": "Questo framework ha una curva di apprendimento ripida."
+    },
+    {
+      "en": "to jump on the bandwagon",
+      "pron": "dgàmp on de bànduagon",
+      "it": "salire sul carro dei vincitori, seguire la moda",
+      "type": "phrase",
+      "ex": "Many companies jumped on the AI bandwagon this year.",
+      "exIt": "Molte aziende sono salite sul carro dell'intelligenza artificiale quest'anno."
+    },
+    {
+      "en": "hold your horses",
+      "pron": "hòuld iòr hòrsiz",
+      "it": "calma, un momento",
+      "type": "phrase",
+      "ex": "Hold your horses, we haven't signed the contract yet.",
+      "exIt": "Calma, non abbiamo ancora firmato il contratto."
+    },
+    {
+      "en": "to play it by ear",
+      "pron": "plèi it bài ìir",
+      "it": "improvvisare, vedere come va",
+      "type": "phrase",
+      "ex": "We don't have a plan. Let's play it by ear.",
+      "exIt": "Non abbiamo un piano. Vediamo come va."
+    },
+    {
+      "en": "once in a blue moon",
+      "pron": "uàns in a blùu mùun",
+      "it": "molto raramente",
+      "type": "phrase",
+      "ex": "The server crashes once in a blue moon.",
+      "exIt": "Il server va in crash molto raramente."
+    },
+    {
+      "en": "a piece of cake",
+      "pron": "a pìis ov kèik",
+      "it": "una cosa facilissima",
+      "type": "phrase",
+      "ex": "Updating the text was a piece of cake.",
+      "exIt": "Aggiornare il testo è stato facilissimo."
+    },
+    {
+      "en": "to cost an arm and a leg",
+      "pron": "kòst an àarm and a lèg",
+      "it": "costare un occhio della testa",
+      "type": "phrase",
+      "ex": "The new licence costs an arm and a leg.",
+      "exIt": "La nuova licenza costa un occhio della testa."
+    },
+    {
+      "en": "a blessing in disguise",
+      "pron": "a blèsing in disgàiz",
+      "it": "un male che si rivela un bene",
+      "type": "phrase",
+      "ex": "Losing that client was a blessing in disguise.",
+      "exIt": "Perdere quel cliente si è rivelato una fortuna."
+    },
+    {
+      "en": "the ball is in your court",
+      "pron": "de bòl iz in iòr kòrt",
+      "it": "ora tocca a te",
+      "type": "phrase",
+      "ex": "I've sent you the proposal. The ball is in your court.",
+      "exIt": "Ti ho mandato la proposta. Ora tocca a te."
+    },
+    {
+      "en": "to wear many hats",
+      "pron": "uèer mèni hàts",
+      "it": "ricoprire molti ruoli, fare un po' di tutto",
+      "type": "phrase",
+      "ex": "In a small company, you wear many hats.",
+      "exIt": "In una piccola azienda si fa un po' di tutto."
+    },
+    {
+      "en": "to be swamped",
+      "pron": "bi suòmpt",
+      "it": "essere sommerso di lavoro",
+      "type": "phrase",
+      "ex": "Sorry, I am swamped this week. Can we talk on Monday?",
+      "exIt": "Scusa, questa settimana sono sommerso. Possiamo parlare lunedì?"
+    },
+    {
+      "en": "to be on board",
+      "pron": "bi on bòrd",
+      "it": "essere d'accordo, essere della squadra",
+      "type": "phrase",
+      "ex": "Is everyone on board with the new plan?",
+      "exIt": "Siete tutti d'accordo con il nuovo piano?"
+    },
+    {
+      "en": "to get the hang of it",
+      "pron": "ghèt de hàng ov it",
+      "it": "prenderci la mano",
+      "type": "phrase",
+      "ex": "It was hard at first, but now I am getting the hang of it.",
+      "exIt": "All'inizio era difficile, ma ora ci sto prendendo la mano."
+    },
+    {
+      "en": "to pick someone's brain",
+      "pron": "pìk sàmuans brèin",
+      "it": "chiedere consiglio a un esperto",
+      "type": "phrase",
+      "ex": "Can I pick your brain about this contract?",
+      "exIt": "Posso chiederti un consiglio su questo contratto?"
+    },
+    {
+      "en": "to read the room",
+      "pron": "rìid de rùum",
+      "it": "capire l'atmosfera e adattarsi",
+      "type": "phrase",
+      "ex": "Try to read the room before you make a joke.",
+      "exIt": "Prova a capire l'atmosfera prima di fare una battuta."
+    },
+    {
+      "en": "to go back to the drawing board",
+      "pron": "gòu bàk tu de dròing bòrd",
+      "it": "ricominciare da capo con un'idea nuova",
+      "type": "phrase",
+      "ex": "The test failed, so it is back to the drawing board.",
+      "exIt": "Il test è fallito, quindi si ricomincia da capo."
+    },
+    {
+      "en": "a game changer",
+      "pron": "a ghèim cèindger",
+      "it": "qualcosa che cambia tutto",
+      "type": "phrase",
+      "ex": "This new tool is a game changer for our workflow.",
+      "exIt": "Questo nuovo strumento cambia tutto per il nostro modo di lavorare."
+    },
+    {
+      "en": "the big picture",
+      "pron": "de bìg pìkcer",
+      "it": "il quadro generale",
+      "type": "phrase",
+      "ex": "Let's not lose sight of the big picture.",
+      "exIt": "Non perdiamo di vista il quadro generale."
+    },
+    {
+      "en": "to cut to the chase",
+      "pron": "kàt tu de cèis",
+      "it": "andare dritto al punto",
+      "type": "phrase",
+      "ex": "Let me cut to the chase: we need more budget.",
+      "exIt": "Vado dritto al punto: ci serve più budget."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to touch base",
+      "it": "fare il punto",
+      "trap": "Non è una cosa fisica. È un modo informale di dire 'sentiamoci'."
+    },
+    {
+      "en": "a heads-up",
+      "it": "un avviso",
+      "trap": "Non ha niente a che fare con la testa: è un avviso dato in anticipo."
+    },
+    {
+      "en": "to drop the ball",
+      "it": "farsi sfuggire una cosa",
+      "trap": "Si usa per un impegno mancato, non per un oggetto che cade."
+    },
+    {
+      "en": "a ballpark figure",
+      "it": "una cifra indicativa",
+      "trap": "Non c'entra il parco: ballpark è lo stadio del baseball. Vuol dire una cifra approssimativa, non precisa."
+    }
+  ],
+  "grammar": {
+    "title": "Come usare gli idiomi senza sbagliare il tono",
+    "explainIt": [
+      "Un idioma è un'espressione fissa il cui significato non si capisce dalle singole parole. 'On the same page' non parla di una pagina: vuol dire 'essere allineati, d'accordo'. Non si può tradurre parola per parola e di solito non si può cambiare: non si dice 'on the same sheet'.",
+      "La regola numero uno è il tono. Alcuni idiomi sono informali, come touch base, piece of cake, call it a day. Altri sono neutri e vanno bene quasi ovunque, come in a nutshell, on track, behind schedule, keep an eye on. Con un cliente nuovo o in una mail formale scegli quelli neutri.",
+      "Non usarne troppi. Un idioma ogni tanto rende il tuo inglese più naturale. Cinque in una frase suonano strani. Se parli con persone non madrelingua, o con un cliente che parla poco inglese, evita gli idiomi e usa parole semplici: 'let's talk later' invece di 'let's circle back'.",
+      "Per usarli bene non cambiare le parole. Il verbo invece si coniuga normalmente: 'He dropped the ball', 'We are touching base tomorrow'. Il resto dell'espressione resta uguale: 'drop the ball', non 'lose the ball'. Con i verbi irregolari usa il passato normale: bit the bullet, hit the ground running. Burn ha due forme di passato, burned e burnt.",
+      "Molti idiomi vengono dallo sport: ballpark viene dal baseball, the ball is in your court dal tennis, move the goalposts dal calcio. Altri vengono dagli affari, come win-win. Sono molto comuni sia nelle aziende americane sia in quelle britanniche.",
+      "Per gli audit di accessibilità e per i report scritti, evita gli idiomi più informali. Ma 'raise a red flag', 'on track' e 'the bottom line' vanno benissimo anche in un report. Quando senti un idioma che non conosci, chiedi: 'Sorry, what do you mean by that?'. È normale e nessuno si offende."
+    ],
+    "explainEn": [
+      "An idiom is a fixed expression whose meaning is not clear from the single words. 'On the same page' is not about a page: it means 'to agree, to share the same information'. You cannot translate it word for word, and you usually cannot change it: we do not say 'on the same sheet'.",
+      "The number one rule is tone. Some idioms are informal, like touch base, piece of cake, call it a day. Others are neutral and are fine almost everywhere, like in a nutshell, on track, behind schedule, keep an eye on. With a new client or in a formal email, choose the neutral ones.",
+      "Do not use too many. One idiom now and then makes your English more natural. Five in one sentence sound strange. If you talk to non-native speakers, or to a client who does not speak much English, avoid idioms and use simple words: 'let's talk later' instead of 'let's circle back'.",
+      "To use them well, do not change the words. The verb works normally: 'He dropped the ball', 'We are touching base tomorrow'. The rest of the expression stays the same: 'drop the ball', not 'lose the ball'. With irregular verbs, use the normal past form: bit the bullet, hit the ground running. Burn has two past forms, burned and burnt.",
+      "Many idioms come from sport: ballpark comes from baseball, the ball is in your court from tennis, move the goalposts from football. Others come from business, like win-win. They are very common in both American and British companies.",
+      "For accessibility audits and written reports, avoid the most informal idioms. But 'raise a red flag', 'on track' and 'the bottom line' are fine even in a report. When you hear an idiom you do not know, ask: 'Sorry, what do you mean by that?'. This is normal and nobody minds."
+    ],
+    "rules": [
+      {
+        "it": "Un idioma è fisso: non cambiare le parole, cambia solo il tempo del verbo.",
+        "en": "An idiom is fixed: do not change the words, only change the verb tense.",
+        "form": "verbo coniugato + resto fisso",
+        "examples": [
+          {
+            "en": "He dropped the ball on that email.",
+            "it": "Gli è sfuggita quella mail."
+          },
+          {
+            "en": "We bit the bullet and signed the contract.",
+            "it": "Abbiamo stretto i denti e firmato il contratto."
+          },
+          {
+            "en": "She hit the ground running in her new job.",
+            "it": "È partita subito a tutta velocità nel nuovo lavoro."
+          }
+        ]
+      },
+      {
+        "it": "Informali (colleghi, amici): touch base, piece of cake, call it a day, get the ball rolling, heads-up.",
+        "en": "Informal (colleagues, friends): touch base, piece of cake, call it a day, get the ball rolling, heads-up.",
+        "form": "tono informale",
+        "examples": [
+          {
+            "en": "Let's touch base tomorrow.",
+            "it": "Sentiamoci domani."
+          },
+          {
+            "en": "It's late. Let's call it a day.",
+            "it": "È tardi. Chiudiamo per oggi."
+          }
+        ]
+      },
+      {
+        "it": "Neutri (anche con clienti e in mail): in a nutshell, on track, behind schedule, keep an eye on, raise a red flag, the bottom line.",
+        "en": "Neutral (also with clients and in emails): in a nutshell, on track, behind schedule, keep an eye on, raise a red flag, the bottom line.",
+        "form": "tono neutro",
+        "examples": [
+          {
+            "en": "In a nutshell, we need two more weeks.",
+            "it": "In poche parole, ci servono altre due settimane."
+          },
+          {
+            "en": "The project is on track for delivery in May.",
+            "it": "Il progetto è in linea per la consegna a maggio."
+          }
+        ]
+      },
+      {
+        "it": "Con persone che non sono madrelingua, o in un report scritto, preferisci una frase semplice.",
+        "en": "With non-native speakers, or in a written report, prefer a simple sentence.",
+        "form": "idioma → frase semplice",
+        "examples": [
+          {
+            "en": "Instead of 'Let's circle back', say 'Let's talk about this later'.",
+            "it": "Invece di let's circle back, di' let's talk about this later."
+          },
+          {
+            "en": "Instead of 'It's a no-brainer', say 'It is a clear choice'.",
+            "it": "Invece di it's a no-brainer, di' it is a clear choice."
+          }
+        ]
+      },
+      {
+        "it": "Alcuni idiomi hanno un lato negativo e vanno usati con attenzione: move the goalposts, drop the ball, back to square one possono sembrare accuse.",
+        "en": "Some idioms have a negative side and must be used carefully: move the goalposts, drop the ball and back to square one can sound like blame.",
+        "form": "attenzione al tono",
+        "examples": [
+          {
+            "en": "I dropped the ball on this. I'm sorry.",
+            "it": "Mi è sfuggito. Mi dispiace.",
+            "note": "Va bene su sé stessi."
+          },
+          {
+            "en": "You dropped the ball on this.",
+            "it": "Ti è sfuggito questo.",
+            "note": "Suona come un'accusa."
+          }
+        ]
+      }
+    ],
+    "tip": "Impara pochi idiomi per volta e usali davvero in una frase tua. Cinque idiomi che usi bene valgono più di cinquanta che conosci soltanto. Parti da on the same page, ballpark figure, touch base, in the loop e on track.",
+    "mistakes": [
+      {
+        "wrong": "Let's be in the same page.",
+        "right": "Let's be on the same page.",
+        "why": "la preposizione è on, e l'idioma non si cambia"
+      },
+      {
+        "wrong": "I will give you a ballpark number.",
+        "right": "I will give you a ballpark figure.",
+        "why": "l'espressione fissa è ballpark figure"
+      },
+      {
+        "wrong": "Let's touch the base tomorrow.",
+        "right": "Let's touch base tomorrow.",
+        "why": "touch base non vuole l'articolo"
+      },
+      {
+        "wrong": "It was a piece of the cake.",
+        "right": "It was a piece of cake.",
+        "why": "l'idioma è fisso, senza the"
+      },
+      {
+        "wrong": "Dear Sir, we will touch base with you to circle back on the elephant in the room.",
+        "right": "Dear Sir, we will contact you to talk about the budget.",
+        "why": "in una mail formale troppi idiomi suonano fuori luogo"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "Before we start, let's make sure we are all on the same ___.",
+      "a": [
+        "page"
+      ],
+      "hint": "d'accordo",
+      "explain": "On the same page = allineati, d'accordo."
+    },
+    {
+      "q": "Can you give me a ballpark ___ for the redesign?",
+      "a": [
+        "figure"
+      ],
+      "hint": "cifra approssimativa",
+      "explain": "Ballpark figure = cifra indicativa."
+    },
+    {
+      "q": "Let's touch ___ on Friday.",
+      "a": [
+        "base"
+      ],
+      "hint": "sentirsi",
+      "explain": "Touch base = sentirsi brevemente."
+    },
+    {
+      "q": "Please keep me in the ___ on this project.",
+      "a": [
+        "loop"
+      ],
+      "hint": "tenermi informato",
+      "explain": "In the loop = informato."
+    },
+    {
+      "q": "We are two weeks behind ___.",
+      "a": [
+        "schedule"
+      ],
+      "hint": "in ritardo",
+      "explain": "Behind schedule = in ritardo sul programma."
+    },
+    {
+      "q": "It's late. Let's call it a ___.",
+      "a": [
+        "day"
+      ],
+      "hint": "smettere per oggi",
+      "explain": "Call it a day = smettere di lavorare oggi."
+    },
+    {
+      "q": "I sent you the proposal. The ball is in your ___.",
+      "a": [
+        "court"
+      ],
+      "hint": "ora tocca a te",
+      "explain": "The ball is in your court = ora tocca a te."
+    },
+    {
+      "q": "We decided to bite the ___ and rebuild the site.",
+      "a": [
+        "bullet"
+      ],
+      "hint": "stringere i denti",
+      "explain": "Bite the bullet = stringere i denti e farlo."
+    },
+    {
+      "q": "Updating the text was a piece of ___.",
+      "a": [
+        "cake"
+      ],
+      "hint": "facilissimo",
+      "explain": "A piece of cake = facilissimo."
+    },
+    {
+      "q": "At the end of the ___, the client decides.",
+      "a": [
+        "day"
+      ],
+      "hint": "alla fine dei conti",
+      "explain": "At the end of the day = alla fine dei conti."
+    },
+    {
+      "q": "In a ___, the site needs a new navigation.",
+      "a": [
+        "nutshell"
+      ],
+      "hint": "in poche parole",
+      "explain": "In a nutshell = in poche parole."
+    },
+    {
+      "q": "He ___ the ball and forgot to answer. (drop, past)",
+      "a": [
+        "dropped"
+      ],
+      "hint": "passato",
+      "explain": "Drop the ball, passato dropped."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Allinearsi e aggiornarsi",
+      "en": "Are we all on the same page?",
+      "it": "Siamo tutti allineati?"
+    },
+    {
+      "group": "Allinearsi e aggiornarsi",
+      "en": "Keep me in the loop, please.",
+      "it": "Tienimi aggiornato, per favore."
+    },
+    {
+      "group": "Allinearsi e aggiornarsi",
+      "en": "Let's touch base after the demo.",
+      "it": "Sentiamoci dopo la demo."
+    },
+    {
+      "group": "Allinearsi e aggiornarsi",
+      "en": "Just a quick heads-up: the site will be down tonight.",
+      "it": "Solo un avviso: stanotte il sito sarà offline."
+    },
+    {
+      "group": "Allinearsi e aggiornarsi",
+      "en": "I'll circle back to you on Monday.",
+      "it": "Ti ricontatto lunedì."
+    },
+    {
+      "group": "Numeri, tempi e scadenze",
+      "en": "Can you give me a ballpark figure?",
+      "it": "Mi può dare una cifra indicativa?"
+    },
+    {
+      "group": "Numeri, tempi e scadenze",
+      "en": "We are on track to finish by Friday.",
+      "it": "Siamo in linea per finire entro venerdì."
+    },
+    {
+      "group": "Numeri, tempi e scadenze",
+      "en": "We are a bit behind schedule.",
+      "it": "Siamo un po' in ritardo sul programma."
+    },
+    {
+      "group": "Numeri, tempi e scadenze",
+      "en": "The date is still up in the air.",
+      "it": "La data è ancora in sospeso."
+    },
+    {
+      "group": "Numeri, tempi e scadenze",
+      "en": "We got the green light from the client.",
+      "it": "Abbiamo avuto il via libera dal cliente."
+    },
+    {
+      "group": "Decisioni e priorità",
+      "en": "At the end of the day, it's the client's choice.",
+      "it": "Alla fine dei conti è una scelta del cliente."
+    },
+    {
+      "group": "Decisioni e priorità",
+      "en": "The bottom line is that we need more time.",
+      "it": "La questione di fondo è che ci serve più tempo."
+    },
+    {
+      "group": "Decisioni e priorità",
+      "en": "Let's start with the low-hanging fruit.",
+      "it": "Cominciamo dalle cose più facili."
+    },
+    {
+      "group": "Decisioni e priorità",
+      "en": "I think we should put this on the back burner.",
+      "it": "Penso che dovremmo metterlo da parte per ora."
+    },
+    {
+      "group": "Decisioni e priorità",
+      "en": "It's a win-win for both sides.",
+      "it": "Ci guadagnano entrambe le parti."
+    },
+    {
+      "group": "Quando qualcosa va storto",
+      "en": "We are back to square one.",
+      "it": "Siamo tornati al punto di partenza."
+    },
+    {
+      "group": "Quando qualcosa va storto",
+      "en": "I dropped the ball on that, I'm sorry.",
+      "it": "Mi è sfuggito, mi dispiace."
+    },
+    {
+      "group": "Quando qualcosa va storto",
+      "en": "I want to raise a red flag about this.",
+      "it": "Vorrei segnalare un problema serio."
+    },
+    {
+      "group": "Quando qualcosa va storto",
+      "en": "The client keeps moving the goalposts.",
+      "it": "Il cliente cambia continuamente le regole."
+    },
+    {
+      "group": "Quando qualcosa va storto",
+      "en": "We shouldn't cut corners on security.",
+      "it": "Non dovremmo prendere scorciatoie sulla sicurezza."
+    },
+    {
+      "group": "Lavoro duro e carico",
+      "en": "We burned the midnight oil to finish on time.",
+      "it": "Abbiamo lavorato fino a tardi per finire in tempo."
+    },
+    {
+      "group": "Lavoro duro e carico",
+      "en": "He always goes the extra mile.",
+      "it": "Fa sempre qualcosa in più."
+    },
+    {
+      "group": "Lavoro duro e carico",
+      "en": "I wear many hats in this company.",
+      "it": "In questa azienda ricopro molti ruoli."
+    },
+    {
+      "group": "Lavoro duro e carico",
+      "en": "It's a steep learning curve, but I'm enjoying it.",
+      "it": "C'è tanto da imparare in poco tempo, ma mi sta piacendo."
+    },
+    {
+      "group": "Lavoro duro e carico",
+      "en": "Let's call it a day. We'll finish tomorrow.",
+      "it": "Chiudiamo per oggi. Finiamo domani."
+    }
+  ],
+  "dialogue": {
+    "title": "A project meeting full of idioms",
+    "context": "Sarah, la project manager, fa il punto con Luca e il collega Tom su un sito per un cliente. Gli idiomi sono molto comuni in questo tipo di riunione.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Right, let's get the ball rolling. Are we all on the same page about the deadline?",
+        "it": "Bene, cominciamo. Siamo tutti d'accordo sulla scadenza?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I think so. The launch is on the fifteenth, but it's still a bit up in the air.",
+        "it": "Credo di sì. Il lancio è il quindici, ma è ancora un po' in sospeso."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Why? Are we behind schedule?",
+        "it": "Perché? Siamo in ritardo sul programma?"
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "A little. The client keeps moving the goalposts. Last week they asked for a new homepage.",
+        "it": "Un po'. Il cliente continua a cambiare le regole. La settimana scorsa ha chiesto una nuova homepage."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Oh no, I hope we're not back to square one. Can you give me a ballpark figure for the extra work?",
+        "it": "Oh no, spero che non siamo tornati al punto di partenza. Puoi darmi una cifra indicativa per il lavoro in più?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Roughly five days. But I would like to raise a red flag: the new design has contrast problems.",
+        "it": "Circa cinque giorni. Ma vorrei segnalare un problema serio: il nuovo design ha problemi di contrasto."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Thanks for the heads-up. What is the bottom line?",
+        "it": "Grazie dell'avviso. Qual è la questione di fondo?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "In a nutshell, we can fix it, but we should not cut corners on accessibility.",
+        "it": "In poche parole, possiamo risolverlo, ma non dovremmo prendere scorciatoie sull'accessibilità."
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "I agree. Let's fix the low-hanging fruit first, like the alt text, and then think outside the box for the rest.",
+        "it": "Sono d'accordo. Risolviamo prima le cose facili, come i testi alternativi, e poi pensiamo in modo creativo per il resto."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Good plan. Luca, can you keep me in the loop?",
+        "it": "Buon piano. Luca, puoi tenermi aggiornata?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Of course. Let's touch base on Thursday afternoon.",
+        "it": "Certo. Sentiamoci giovedì pomeriggio."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Perfect. Tom, there's also the matter of the extra budget. Should we take it offline?",
+        "it": "Perfetto. Tom, c'è anche la questione del budget extra. Ne parliamo fuori dalla riunione?"
+      },
+      {
+        "s": "C",
+        "name": "Tom",
+        "en": "Yes, let's discuss it later. I'll send the client a proposal, and then the ball is in their court.",
+        "it": "Sì, ne parliamo dopo. Mando al cliente una proposta e poi la palla passa a loro."
+      },
+      {
+        "s": "A",
+        "name": "Sarah",
+        "en": "Great. If they give us the green light, we can hit the ground running on Monday.",
+        "it": "Ottimo. Se ci danno il via libera, possiamo partire a tutta velocità lunedì."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Sounds good. It's already six, so let's call it a day.",
+        "it": "Mi sembra una buona idea. Sono già le sei, quindi chiudiamo per oggi."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "Why does Tom say the schedule is a problem?",
+      "options": [
+        "The client keeps changing the requirements",
+        "The developers are on holiday",
+        "The server is down"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What problem does Luca want to raise a red flag about?",
+      "options": [
+        "The new design has contrast problems",
+        "The budget is too high",
+        "The deadline is too early"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What will Luca do on Thursday afternoon?",
+      "options": [
+        "Touch base with Sarah",
+        "Call the client",
+        "Finish the homepage"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Sarah say could happen on Monday?",
+      "options": [
+        "They could hit the ground running if the client approves",
+        "They will call off the project",
+        "They will move to a new office"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Siamo tutti d'accordo?",
+      "en": "Are we all on the same page?",
+      "alt": [
+        "Are we all on the same page here?", "Do we all agree?"
+      ]
+    },
+    {
+      "it": "Mi puoi dare una cifra indicativa?",
+      "en": "Can you give me a ballpark figure?",
+      "alt": [
+        "Could you give me a ballpark figure?"
+      ]
+    },
+    {
+      "it": "Sentiamoci venerdì per fare il punto.",
+      "en": "Let's touch base on Friday.",
+      "alt": [
+        "Let's touch base on Friday to check progress.",
+        "Let's touch base on Friday for an update."
+      ]
+    },
+    {
+      "it": "Tienimi aggiornato, per favore.",
+      "en": "Please keep me in the loop.",
+      "alt": [
+        "Keep me in the loop, please.",
+        "Please keep me posted."
+      ]
+    },
+    {
+      "it": "Siamo in ritardo di due settimane.",
+      "en": "We are two weeks behind schedule.",
+      "alt": [
+        "We're two weeks behind schedule."
+      ]
+    },
+    {
+      "it": "Alla fine dei conti decide il cliente.",
+      "en": "At the end of the day, the client decides.",
+      "alt": [
+        "At the end of the day it's the client's decision."
+      ]
+    },
+    {
+      "it": "Ti ho mandato la proposta. Ora tocca a te.",
+      "en": "I have sent you the proposal. The ball is in your court.",
+      "alt": [
+        "I've sent you the proposal. The ball is in your court."
+      ]
+    },
+    {
+      "it": "Non dovremmo prendere scorciatoie sulla sicurezza.",
+      "en": "We shouldn't cut corners on security.",
+      "alt": [
+        "We should not cut corners on security."
+      ]
+    },
+    {
+      "it": "In poche parole, ci servono altre due settimane.",
+      "en": "In a nutshell, we need two more weeks.",
+      "alt": [
+        "In a nutshell, we need another two weeks."
+      ]
+    },
+    {
+      "it": "Il cliente continua a cambiare le regole.",
+      "en": "The client keeps moving the goalposts.",
+      "alt": [
+        "The client keeps changing the requirements."
+      ]
+    },
+    {
+      "it": "Parliamone fuori dalla riunione.",
+      "en": "Let's take it offline.",
+      "alt": [
+        "Let's discuss it offline.",
+        "Let's talk about it offline."
+      ]
+    },
+    {
+      "it": "Mi è sfuggita quella mail, scusa.",
+      "en": "I dropped the ball on that email, sorry.",
+      "alt": [
+        "Sorry, I dropped the ball on that email."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una breve mail interna al tuo team per fare il punto su un progetto. Usa almeno quattro idiomi della lezione (per esempio on track, behind schedule, keep in the loop, touch base, ballpark figure). Di' a che punto sei, segnala un problema e proponi di sentirvi. Usa un tono professionale ma amichevole. Scrivi 5-8 righe.",
+    "taskEn": "Write a short internal email to your team to give a project update. Use at least four idioms from the lesson (for example on track, behind schedule, keep in the loop, touch base, ballpark figure). Say where you are, raise a problem and suggest talking. Use a professional but friendly tone. Write 5-8 lines.",
+    "model": "Subject: Quick project update\n\nHi team,\n\nA quick update to keep you all in the loop. The new website is mostly on track, but we are a little behind schedule on the checkout page.\n\nI want to raise a red flag about the colour contrast in the new design. It is a small fix, but we should not cut corners on accessibility.\n\nAs a ballpark figure, I think we need two more days. Let's touch base on Thursday afternoon to check progress.\n\nThanks for your help,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Are we all on the same page?",
+      "Can you give me a ballpark figure?",
+      "Let's touch base on Friday.",
+      "Please keep me in the loop.",
+      "We are a little behind schedule.",
+      "At the end of the day, the client decides.",
+      "I'd like to raise a red flag about this.",
+      "It's late. Let's call it a day."
+    ],
+    "prompts": [
+      {
+        "en": "Is your current project on track or behind schedule?",
+        "it": "Il tuo progetto attuale è in linea o in ritardo?",
+        "help": "Usa: It's on track / We are a bit behind schedule because..."
+      },
+      {
+        "en": "Describe a problem at work. What was the bottom line?",
+        "it": "Descrivi un problema sul lavoro. Qual era la questione di fondo?",
+        "help": "Usa: The bottom line is that... / In a nutshell..."
+      },
+      {
+        "en": "What is the easiest part of your work? Use a piece of cake.",
+        "it": "Qual è la parte più facile del tuo lavoro? Usa a piece of cake.",
+        "help": "Usa: ... is a piece of cake for me."
+      },
+      {
+        "en": "Ask a colleague to keep you in the loop and to touch base next week.",
+        "it": "Chiedi a un collega di tenerti aggiornato e di sentirvi la prossima settimana.",
+        "help": "Usa: Could you keep me in the loop? Let's touch base on..."
+      },
+      {
+        "en": "A client wants to change the project again. What do you say?",
+        "it": "Un cliente vuole cambiare di nuovo il progetto. Che cosa dici?",
+        "help": "Usa: ... moving the goalposts / back to square one / raise a red flag."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: gli idiomi da ufficio",
+      "show": [
+        "Office idioms",
+        "on the same page",
+        "ballpark figure",
+        "touch base"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Questa è la lezione quarantadue. Oggi impari cinquanta modi di dire che si sentono ogni giorno negli uffici inglesi e americani."
+        },
+        {
+          "lang": "it",
+          "text": "Impari anche a usarli con il tono giusto, perché è lì che si sbaglia di più."
+        }
+      ]
+    },
+    {
+      "title": "Che cos'è un idioma",
+      "show": [
+        "on the same page = d'accordo",
+        "non si traduce parola per parola"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Un idioma è un'espressione fissa. Il significato non si capisce dalle singole parole. Non si cambia e non si traduce alla lettera."
+        },
+        {
+          "lang": "en",
+          "text": "Let's make sure we are all on the same page."
+        }
+      ]
+    },
+    {
+      "title": "Allinearsi e aggiornarsi",
+      "show": [
+        "on the same page",
+        "in the loop",
+        "touch base",
+        "a heads-up"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Questi idiomi servono per tenersi informati."
+        },
+        {
+          "lang": "en",
+          "text": "Keep me in the loop, please. Let's touch base on Friday."
+        },
+        {
+          "lang": "en",
+          "text": "Thanks for the heads-up."
+        }
+      ]
+    },
+    {
+      "title": "Numeri e scadenze",
+      "show": [
+        "ballpark figure",
+        "on track",
+        "behind schedule",
+        "up in the air"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per parlare di cifre, tempi e scadenze."
+        },
+        {
+          "lang": "en",
+          "text": "Can you give me a ballpark figure? We are a bit behind schedule."
+        },
+        {
+          "lang": "en",
+          "text": "The date is still up in the air."
+        }
+      ]
+    },
+    {
+      "title": "Decisioni e priorità",
+      "show": [
+        "the bottom line",
+        "low-hanging fruit",
+        "at the end of the day",
+        "in a nutshell"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per andare al punto e scegliere le priorità."
+        },
+        {
+          "lang": "en",
+          "text": "The bottom line is that we need more time."
+        },
+        {
+          "lang": "en",
+          "text": "Let's start with the low-hanging fruit."
+        }
+      ]
+    },
+    {
+      "title": "Quando qualcosa va storto",
+      "show": [
+        "back to square one",
+        "drop the ball",
+        "raise a red flag",
+        "move the goalposts"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Questi idiomi servono per i problemi. Attenzione al tono: drop the ball detto di un'altra persona può sembrare un'accusa."
+        },
+        {
+          "lang": "en",
+          "text": "I dropped the ball, I'm sorry."
+        },
+        {
+          "lang": "en",
+          "text": "I want to raise a red flag about this."
+        }
+      ]
+    },
+    {
+      "title": "Il tono giusto",
+      "show": [
+        "Informali: touch base, piece of cake",
+        "Neutri: on track, in a nutshell",
+        "Clienti e report: preferisci le parole semplici"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Alcuni idiomi sono informali. Altri sono neutri e vanno bene con i clienti. Con persone non madrelingua usa parole semplici."
+        },
+        {
+          "lang": "en",
+          "text": "Instead of let's circle back, you can say let's talk about this later."
+        }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": [
+        "in the same page  →  on the same page",
+        "touch the base  →  touch base",
+        "piece of the cake  →  piece of cake"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Gli errori più comuni sono cambiare una parola dell'idioma, aggiungere un articolo o sbagliare la preposizione."
+        },
+        {
+          "lang": "en",
+          "text": "On the same page. Touch base. A piece of cake."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Pochi idiomi, usati bene",
+        "Tono giusto",
+        "Non cambiare le parole"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Un idioma è fisso. Usane pochi e scegli il tono giusto. Con clienti e report preferisci frasi semplici."
+        },
+        {
+          "lang": "it",
+          "text": "Ora scegli cinque idiomi e scrivi una frase vera sul tuo lavoro per ciascuno."
+        }
+      ]
+    }
+  ]
+}

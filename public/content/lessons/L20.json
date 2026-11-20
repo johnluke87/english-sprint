@@ -1,0 +1,341 @@
+{
+  "id": 20,
+  "week": 4,
+  "title": "Le preposizioni senza paura",
+  "titleEn": "Prepositions made easy",
+  "intro": "Le preposizioni sono la parte dove gli italiani sbagliano di più, perché non si traducono una per una. Oggi metti ordine: at, on, in per il tempo e il luogo, e le combinazioni fisse con verbi e aggettivi del lavoro, come depend on e interested in.",
+  "goals": [
+    "Scegliere at, on o in per giorni, orari, mesi e luoghi",
+    "Usare correttamente i verbi con preposizione fissa: depend on, apply for, deal with",
+    "Usare gli aggettivi con preposizione fissa: responsible for, aware of, good at",
+    "Evitare gli errori tipici degli italiani, come discuss about o depend from"
+  ],
+
+  "words": [
+    { "en": "to depend on", "pron": "dipènd on", "it": "dipendere da", "type": "verb", "ex": "The price depends on the number of pages.", "exIt": "Il prezzo dipende dal numero di pagine." },
+    { "en": "to comment on", "pron": "kòment on", "it": "commentare, dare un parere su", "type": "verb", "ex": "Could you comment on the new layout by Friday?", "exIt": "Potresti commentare il nuovo layout entro venerdì?" },
+    { "en": "to agree with", "pron": "agrìi uìd", "it": "essere d'accordo con", "type": "verb", "ex": "I agree with your analysis of the checkout page.", "exIt": "Sono d'accordo con la tua analisi della pagina di pagamento." },
+    { "en": "to insist on", "pron": "insìst on", "it": "insistere su, pretendere", "type": "verb", "ex": "The client insisted on a pop-up window.", "exIt": "Il cliente ha insistito per avere una finestra pop-up." },
+    { "en": "to focus on", "pron": "fòukas on", "it": "concentrarsi su", "type": "verb", "ex": "Let's focus on the most urgent errors first.", "exIt": "Concentriamoci prima sugli errori più urgenti." },
+    { "en": "to apply for", "pron": "aplài for", "it": "candidarsi per, fare domanda di", "type": "verb", "ex": "She applied for a job as a front-end developer.", "exIt": "Si è candidata per un posto da sviluppatrice front-end." },
+    { "en": "to search for", "pron": "sèrcc for", "it": "cercare (a fondo)", "type": "verb", "ex": "I searched for the error in the logs for an hour.", "exIt": "Ho cercato l'errore nei log per un'ora." },
+    { "en": "to look for", "pron": "lùk for", "it": "cercare", "type": "verb", "ex": "We are looking for a freelance designer.", "exIt": "Stiamo cercando un designer freelance." },
+    { "en": "to wait for", "pron": "uèit for", "it": "aspettare", "type": "verb", "ex": "I'm waiting for the client to approve the layout.", "exIt": "Sto aspettando che il cliente approvi il layout." },
+    { "en": "to belong to", "pron": "bilòng tu", "it": "appartenere a", "type": "verb", "ex": "This domain belongs to our client.", "exIt": "Questo dominio appartiene al nostro cliente." },
+    { "en": "to refer to", "pron": "rifèr tu", "it": "riferirsi a, fare riferimento a", "type": "verb", "ex": "Please refer to the attached guidelines.", "exIt": "Fai riferimento alle linee guida allegate." },
+    { "en": "to respond to", "pron": "rispònd tu", "it": "rispondere a", "type": "verb", "ex": "We responded to every comment in the report.", "exIt": "Abbiamo risposto a ogni commento nel report." },
+    { "en": "to object to", "pron": "obgèkt tu", "it": "opporsi a, avere obiezioni su", "type": "verb", "ex": "Nobody objected to the new schedule.", "exIt": "Nessuno ha avuto obiezioni sul nuovo programma." },
+    { "en": "to contribute to", "pron": "kontrìbiut tu", "it": "contribuire a", "type": "verb", "ex": "Heavy images contribute to a poor user experience.", "exIt": "Le immagini pesanti contribuiscono a una cattiva esperienza d'uso." },
+    { "en": "to lead to", "pron": "lìid tu", "it": "portare a, causare", "type": "verb", "ex": "Missing alt text can lead to accessibility problems.", "exIt": "Un testo alternativo mancante può portare a problemi di accessibilità." },
+    { "en": "to listen to", "pron": "lìsen tu", "it": "ascoltare", "type": "verb", "ex": "Please listen to the feedback from users.", "exIt": "Per favore ascolta i commenti degli utenti." },
+    { "en": "to worry about", "pron": "uàri abàut", "it": "preoccuparsi di", "type": "verb", "ex": "Don't worry about the colours, we'll fix them.", "exIt": "Non preoccuparti dei colori, li sistemiamo noi." },
+    { "en": "to care about", "pron": "kèr abàut", "it": "tenere a, importare", "type": "verb", "ex": "Users care about speed more than animations.", "exIt": "Agli utenti importa più la velocità che le animazioni." },
+    { "en": "to consist of", "pron": "konsìst ov", "it": "essere composto da", "type": "verb", "ex": "The audit consists of three parts.", "exIt": "L'audit è composto da tre parti." },
+    { "en": "to think of", "pron": "tìnk ov", "it": "pensare a (avere un'idea), venire in mente", "type": "verb", "ex": "I can't think of a better solution.", "exIt": "Non mi viene in mente una soluzione migliore." },
+    { "en": "to hear from", "pron": "hìar from", "it": "avere notizie da", "type": "verb", "ex": "I look forward to hearing from you.", "exIt": "Resto in attesa di tue notizie." },
+    { "en": "to suffer from", "pron": "sàfar from", "it": "soffrire di", "type": "verb", "ex": "The site suffers from poor contrast.", "exIt": "Il sito soffre di un contrasto insufficiente." },
+    { "en": "to benefit from", "pron": "bènefit from", "it": "trarre vantaggio da", "type": "verb", "ex": "All users benefit from clear headings.", "exIt": "Tutti gli utenti traggono vantaggio da titoli chiari." },
+    { "en": "to result in", "pron": "rizàlt in", "it": "portare a, avere come risultato", "type": "verb", "ex": "The update resulted in faster loading times.", "exIt": "L'aggiornamento ha portato a tempi di caricamento più rapidi." },
+    { "en": "to succeed in", "pron": "saksìid in", "it": "riuscire a, avere successo in", "type": "verb", "ex": "We succeeded in reducing the page size by half.", "exIt": "Siamo riusciti a dimezzare il peso della pagina." },
+    { "en": "to participate in", "pron": "partìsipeit in", "it": "partecipare a", "type": "verb", "ex": "Several users participated in the test.", "exIt": "Diversi utenti hanno partecipato al test." },
+    { "en": "to be worried about", "pron": "bi uàrid abàut", "it": "essere preoccupato per", "type": "phrase", "ex": "The client is worried about the deadline.", "exIt": "Il cliente è preoccupato per la scadenza." },
+    { "en": "to believe in", "pron": "bilìiv in", "it": "credere in", "type": "verb", "ex": "I believe in simple, clear design.", "exIt": "Credo in un design semplice e chiaro." },
+    { "en": "involved in", "pron": "invòlvd in", "it": "coinvolto in", "type": "adj", "ex": "How many people are involved in the project?", "exIt": "Quante persone sono coinvolte nel progetto?" },
+    { "en": "to cope with", "pron": "kòup uìd", "it": "far fronte a, riuscire a gestire", "type": "verb", "ex": "The server can't cope with so much traffic.", "exIt": "Il server non riesce a gestire tutto questo traffico." },
+    { "en": "compatible with", "pron": "kompàtibol uìd", "it": "compatibile con", "type": "adj", "ex": "Is this plugin compatible with the latest version of WordPress?", "exIt": "Questo plugin è compatibile con l'ultima versione di WordPress?" },
+    { "en": "to cooperate with", "pron": "kouòpareit uìd", "it": "collaborare con", "type": "verb", "ex": "We cooperate with two other agencies.", "exIt": "Collaboriamo con altre due agenzie." },
+    { "en": "interested in", "pron": "ìntrestid in", "it": "interessato a", "type": "adj", "ex": "Are you interested in an accessibility audit?", "exIt": "Ti interessa un audit di accessibilità?" },
+    { "en": "responsible for", "pron": "rispònsabol for", "it": "responsabile di", "type": "adj", "ex": "Who is responsible for the content?", "exIt": "Chi è responsabile dei contenuti?" },
+    { "en": "good at", "pron": "gùd at", "it": "bravo in, capace di", "type": "adj", "ex": "She is really good at explaining technical things.", "exIt": "È davvero brava a spiegare le cose tecniche." },
+    { "en": "aware of", "pron": "auèr ov", "it": "consapevole di", "type": "adj", "ex": "Are you aware of the new regulation?", "exIt": "Sei al corrente della nuova normativa?" },
+    { "en": "familiar with", "pron": "famìliar uìd", "it": "che conosce bene, pratico di", "type": "adj", "ex": "I'm familiar with the WCAG guidelines.", "exIt": "Conosco bene le linee guida WCAG." },
+    { "en": "satisfied with", "pron": "sàtisfaid uìd", "it": "soddisfatto di", "type": "adj", "ex": "The client is satisfied with the results.", "exIt": "Il cliente è soddisfatto dei risultati." },
+    { "en": "capable of", "pron": "kèipabol ov", "it": "capace di", "type": "adj", "ex": "The new server is capable of handling ten thousand visits.", "exIt": "Il nuovo server è in grado di gestire diecimila visite." },
+    { "en": "different from", "pron": "dìfarant from", "it": "diverso da", "type": "adj", "ex": "This version is different from the last one.", "exIt": "Questa versione è diversa dall'ultima." },
+    { "en": "similar to", "pron": "sìmilar tu", "it": "simile a", "type": "adj", "ex": "The error is similar to the one we saw last week.", "exIt": "L'errore è simile a quello che abbiamo visto la settimana scorsa." },
+    { "en": "committed to", "pron": "komìtid tu", "it": "impegnato a, dedicato a", "type": "adj", "ex": "We are committed to meeting the deadline.", "exIt": "Ci impegniamo a rispettare la scadenza." },
+    { "en": "keen on", "pron": "kìin on", "it": "molto interessato a, che ama", "type": "adj", "ex": "He's keen on trying the new framework.", "exIt": "Non vede l'ora di provare il nuovo framework." },
+    { "en": "proud of", "pron": "pràud ov", "it": "orgoglioso di", "type": "adj", "ex": "We're proud of the work we did for this client.", "exIt": "Siamo orgogliosi del lavoro fatto per questo cliente." },
+    { "en": "concerned about", "pron": "konsèrnd abàut", "it": "preoccupato per", "type": "adj", "ex": "I'm concerned about the loading speed on mobile.", "exIt": "Sono preoccupato per la velocità di caricamento su mobile." },
+    { "en": "ready for", "pron": "rèdi for", "it": "pronto per", "type": "adj", "ex": "The site is ready for testing.", "exIt": "Il sito è pronto per i test." },
+    { "en": "at the weekend", "pron": "at de uìikend", "it": "nel fine settimana", "type": "phrase", "ex": "We never work at the weekend.", "exIt": "Non lavoriamo mai nel fine settimana." },
+    { "en": "to be tired of", "pron": "bi tàiard òv", "it": "essere stanco di", "type": "phrase", "ex": "I'm tired of fixing the same bug.", "exIt": "Ne ho abbastanza di correggere sempre lo stesso bug." },
+    { "en": "to be based in", "pron": "bi bèist in", "it": "avere sede a", "type": "phrase", "ex": "Our agency is based in Turin.", "exIt": "La nostra agenzia ha sede a Torino." },
+    { "en": "by the end of", "pron": "bài di ènd ov", "it": "entro la fine di", "type": "phrase", "ex": "I'll send you the report by the end of the week.", "exIt": "Ti mando il report entro la fine della settimana." }
+  ],
+
+  "falseFriends": [
+    { "en": "to attend", "it": "frequentare, partecipare a", "trap": "Non vuol dire 'attendere' (= to wait for). I wait for the bus, I attend a meeting." },
+    { "en": "to control", "it": "controllare (comandare, gestire)", "trap": "Non vuol dire 'controllare' nel senso di verificare: per quello si dice to check. To control = avere il controllo, comandare." },
+    { "en": "actually", "it": "in realtà", "trap": "Non vuol dire 'attualmente' (= currently o at the moment)." },
+    { "en": "to discuss", "it": "discutere (di qualcosa)", "trap": "Dopo to discuss non c'è nessuna preposizione: to discuss the budget, non to discuss about the budget." }
+  ],
+
+  "grammar": {
+    "title": "Preposizioni di tempo, luogo e quelle fisse",
+    "explainIt": [
+      "Le preposizioni inglesi sono piccole ma molto usate, e spesso non corrispondono a quelle italiane. Non si traducono una per una: conviene imparare le combinazioni intere. Per questa lezione le dividiamo in tre gruppi: tempo, luogo e preposizioni fisse dopo verbi e aggettivi.",
+      "Per il tempo si usano at, on e in con una regola semplice, dal piccolo al grande. At per gli orari e i momenti precisi: at 9 o'clock, at noon, at the weekend, at night. On per i giorni e le date: on Monday, on 5 May, on my birthday. In per i periodi lunghi: in May, in 2026, in the morning, in summer.",
+      "Per il luogo vale la stessa idea. At per un punto preciso: at the office, at the airport, at the door. In per uno spazio chiuso o grande: in the room, in Milan, in Italy, in the file. On per una superficie o una linea: on the page, on the screen, on the second floor, on the website.",
+      "Poi ci sono i verbi e gli aggettivi che vogliono una preposizione fissa. Bisogna impararla insieme alla parola: depend on, apply for, deal with, responsible for, interested in. Errori tipici: to depend from, to discuss about, interested to. Quando dopo la preposizione c'è un verbo, questo prende la forma in -ing: interested in working, good at explaining, responsible for updating.",
+      "Altre preposizioni utili di tempo: by indica una scadenza, 'entro': by Friday. Until indica la fine di una situazione che continua: until Friday, 'fino a venerdì'. For indica la durata: for two weeks. Since indica il punto di partenza: since 2020. During si usa con un nome di evento: during the meeting. Per dire 'dopo' si usa after, per 'prima' before."
+    ],
+    "explainEn": [
+      "English prepositions are small words, but they are very important. They are often different from the Italian ones, so it is better to learn the whole combination. In this lesson we look at three groups: time, place, and fixed prepositions with verbs and adjectives.",
+      "For time, we use at, on and in. Use at for exact times: at 9 o'clock, at noon, at the weekend. Use on for days and dates: on Monday, on 5 May. Use in for longer periods: in May, in 2026, in the morning.",
+      "For place, the idea is the same. Use at for a point: at the office, at the airport. Use in for an enclosed or large space: in the room, in Milan, in the file. Use on for a surface or a line: on the page, on the screen, on the second floor.",
+      "Many verbs and adjectives take a fixed preposition, and you have to learn them together: depend on, apply for, deal with, responsible for, interested in. When a verb follows the preposition, it takes the -ing form: interested in working, good at explaining.",
+      "Other useful time prepositions: by means a deadline, 'not later than': by Friday. Until means 'up to that moment': until Friday. For shows duration: for two weeks. Since shows the starting point: since 2020. During is used with an event: during the meeting."
+    ],
+    "rules": [
+      {
+        "it": "Tempo: at per gli orari, on per giorni e date, in per mesi, anni e parti del giorno.",
+        "en": "Time: at for exact times, on for days and dates, in for months, years and parts of the day.",
+        "form": "at + ora / on + giorno / in + mese-anno",
+        "examples": [
+          { "en": "The meeting starts at 10 o'clock.", "it": "La riunione inizia alle 10." },
+          { "en": "I'll send the report on Friday.", "it": "Ti mando il report venerdì." },
+          { "en": "The new site will go live in September.", "it": "Il nuovo sito andrà online a settembre." }
+        ]
+      },
+      {
+        "it": "Luogo: at per un punto, in per uno spazio, on per una superficie.",
+        "en": "Place: at for a point, in for a space, on for a surface.",
+        "form": "at the office / in the room / on the page",
+        "examples": [
+          { "en": "I'm at the client's office until three.", "it": "Sono nell'ufficio del cliente fino alle tre." },
+          { "en": "The error is in the third paragraph.", "it": "L'errore è nel terzo paragrafo." },
+          { "en": "You can see the button on the home page.", "it": "Puoi vedere il pulsante nella home page." }
+        ]
+      },
+      {
+        "it": "Molti verbi hanno una preposizione fissa. Va imparata insieme al verbo.",
+        "en": "Many verbs take a fixed preposition. Learn them together.",
+        "form": "depend on, apply for, deal with, belong to, listen to",
+        "examples": [
+          { "en": "It depends on the budget.", "it": "Dipende dal budget." },
+          { "en": "I applied for the position last week.", "it": "Ho fatto domanda per il posto la settimana scorsa." },
+          { "en": "We deal with accessibility problems every day.", "it": "Ci occupiamo ogni giorno di problemi di accessibilità." }
+        ]
+      },
+      {
+        "it": "Anche molti aggettivi hanno una preposizione fissa. Se dopo c'è un verbo, prende la forma -ing.",
+        "en": "Many adjectives take a fixed preposition. A verb after it takes the -ing form.",
+        "form": "aggettivo + preposizione + nome / verbo in -ing",
+        "examples": [
+          { "en": "She is responsible for testing the forms.", "it": "È responsabile del test dei moduli." },
+          { "en": "I'm not familiar with this tool.", "it": "Non conosco bene questo strumento." },
+          { "en": "He's good at finding small mistakes.", "it": "È bravo a trovare i piccoli errori." }
+        ]
+      },
+      {
+        "it": "By indica una scadenza, until indica fino a quando, for la durata, since il punto di partenza.",
+        "en": "By is a deadline, until is up to a moment, for is duration, since is the starting point.",
+        "form": "by Friday / until Friday / for two days / since Monday",
+        "examples": [
+          { "en": "Please reply by Friday.", "it": "Per favore rispondi entro venerdì." },
+          { "en": "I'm on holiday until Monday.", "it": "Sono in ferie fino a lunedì." },
+          { "en": "We've worked with this client since 2022.", "it": "Lavoriamo con questo cliente dal 2022." }
+        ]
+      }
+    ],
+    "tip": "Impara sempre il verbo insieme alla sua preposizione, come un'unica parola: 'depend on', 'apply for'. Fai le flashcard con la frase intera. Per il tempo ricorda la scala: at è piccolo, on è medio, in è grande.",
+    "mistakes": [
+      { "wrong": "It depends from the budget.", "right": "It depends on the budget.", "why": "depend vuole sempre on" },
+      { "wrong": "We discussed about the new project.", "right": "We discussed the new project.", "why": "to discuss non vuole preposizione" },
+      { "wrong": "I'm interested to learn more.", "right": "I'm interested in learning more.", "why": "interested vuole in, e dopo c'è la forma -ing" },
+      { "wrong": "I'll see you in Monday.", "right": "I'll see you on Monday.", "why": "con i giorni si usa on" },
+      { "wrong": "We're good in explaining things.", "right": "We're good at explaining things.", "why": "good vuole at" }
+    ]
+  },
+
+  "grammarExercises": [
+    { "q": "The meeting is ___ 3 o'clock.", "a": ["at"], "hint": "ora precisa", "explain": "Con le ore si usa at." },
+    { "q": "I'll call you ___ Tuesday.", "a": ["on"], "hint": "giorno della settimana", "explain": "Con i giorni si usa on." },
+    { "q": "The site will launch ___ October.", "a": ["in"], "hint": "mese", "explain": "Con i mesi si usa in." },
+    { "q": "It all depends ___ the client's budget.", "a": ["on"], "hint": "depend", "explain": "depend on è fisso." },
+    { "q": "She applied ___ the job last week.", "a": ["for"], "hint": "apply", "explain": "apply for: candidarsi per." },
+    { "q": "Who is responsible ___ the website content?", "a": ["for"], "hint": "responsible", "explain": "responsible for è fisso." },
+    { "q": "I'm interested ___ learning more about screen readers.", "a": ["in"], "hint": "interested", "explain": "interested in + -ing." },
+    { "q": "Please send me the files ___ Friday. It's my deadline.", "a": ["by"], "hint": "entro", "explain": "By indica una scadenza." },
+    { "q": "I'm on holiday ___ Monday, then I'll be back in the office.", "a": ["until", "till"], "hint": "fino a", "explain": "Until indica fino a quando." },
+    { "q": "We have worked together ___ 2021.", "a": ["since"], "hint": "punto di partenza", "explain": "Since indica il punto di partenza." },
+    { "q": "He's really good ___ finding accessibility issues.", "a": ["at"], "hint": "good", "explain": "good at + -ing." },
+    { "q": "You can see the error message ___ the screen.", "a": ["on"], "hint": "superficie", "explain": "On per superfici: on the screen." }
+  ],
+
+  "phrases": [
+    { "group": "Tempo", "en": "Let's meet on Wednesday at 10 in the morning.", "it": "Vediamoci mercoledì alle 10 di mattina." },
+    { "group": "Tempo", "en": "I'll get back to you by the end of the day.", "it": "Ti rispondo entro la fine della giornata." },
+    { "group": "Tempo", "en": "The office is closed from 12 until 2 pm.", "it": "L'ufficio è chiuso dalle 12 fino alle 14." },
+    { "group": "Tempo", "en": "We've been working on this project for six months.", "it": "Lavoriamo a questo progetto da sei mesi.", "note": "for + durata" },
+    { "group": "Tempo", "en": "I'm away on holiday from the 10th to the 20th.", "it": "Sono in ferie dal 10 al 20." },
+    { "group": "Tempo", "en": "Please arrive on time.", "it": "Per favore arriva puntuale." },
+    { "group": "Luogo", "en": "I'll be at the client's office all morning.", "it": "Sarò nell'ufficio del cliente tutta la mattina." },
+    { "group": "Luogo", "en": "You can find the file in the shared folder.", "it": "Il file lo trovi nella cartella condivisa." },
+    { "group": "Luogo", "en": "The button is on the right of the page.", "it": "Il pulsante è sulla destra della pagina." },
+    { "group": "Luogo", "en": "Our office is on the second floor.", "it": "Il nostro ufficio è al secondo piano." },
+    { "group": "Luogo", "en": "The problem occurs in all browsers.", "it": "Il problema si verifica in tutti i browser." },
+    { "group": "Verbi + preposizione", "en": "It really depends on what the client wants.", "it": "Dipende davvero da cosa vuole il cliente." },
+    { "group": "Verbi + preposizione", "en": "I'm looking forward to hearing from you.", "it": "Non vedo l'ora di avere tue notizie.", "note": "dopo to c'è la forma -ing" },
+    { "group": "Verbi + preposizione", "en": "We're waiting for your feedback.", "it": "Siamo in attesa di un tuo parere." },
+    { "group": "Verbi + preposizione", "en": "Please refer to the attached guidelines.", "it": "Fai riferimento alle linee guida allegate." },
+    { "group": "Verbi + preposizione", "en": "We specialise in accessible web design.", "it": "Siamo specializzati in web design accessibile." },
+    { "group": "Verbi + preposizione", "en": "I'll deal with this request tomorrow.", "it": "Mi occupo io di questa richiesta domani." },
+    { "group": "Aggettivi + preposizione", "en": "Are you familiar with the new guidelines?", "it": "Conosci le nuove linee guida?" },
+    { "group": "Aggettivi + preposizione", "en": "I'm responsible for the final delivery.", "it": "Sono responsabile della consegna finale." },
+    { "group": "Aggettivi + preposizione", "en": "We're very satisfied with your work.", "it": "Siamo molto soddisfatti del vostro lavoro." },
+    { "group": "Aggettivi + preposizione", "en": "Are you aware of the problem with the footer?", "it": "Sei al corrente del problema con il footer?" },
+    { "group": "Aggettivi + preposizione", "en": "I'm concerned about the colour contrast.", "it": "Sono preoccupato per il contrasto dei colori." },
+    { "group": "Parlare di interessi e capacità", "en": "I'm interested in joining your team.", "it": "Mi interessa entrare nel vostro team." },
+    { "group": "Parlare di interessi e capacità", "en": "I'm good at spotting small details.", "it": "Sono bravo a notare i piccoli dettagli." },
+    { "group": "Parlare di interessi e capacità", "en": "We're committed to improving accessibility.", "it": "Ci impegniamo a migliorare l'accessibilità." }
+  ],
+
+  "dialogue": {
+    "title": "A job interview",
+    "context": "Anna fa un colloquio per un posto da sviluppatrice presso un'agenzia. Parla con Tom, il responsabile del team.",
+    "lines": [
+      { "s": "A", "name": "Tom", "en": "Thanks for coming, Anna. Please sit down. Are you comfortable?", "it": "Grazie di essere venuta, Anna. Prego, siediti. Stai comoda?" },
+      { "s": "B", "name": "Anna", "en": "Yes, thank you. I'm very interested in working with your team.", "it": "Sì, grazie. Mi interessa molto lavorare con il vostro team." },
+      { "s": "A", "name": "Tom", "en": "Great. You applied for the front-end position on Monday, right?", "it": "Bene. Ti sei candidata per la posizione front-end lunedì, giusto?" },
+      { "s": "B", "name": "Anna", "en": "That's right. I saw the offer on the company website.", "it": "Esatto. Ho visto l'offerta sul sito dell'azienda." },
+      { "s": "A", "name": "Tom", "en": "Tell me about your experience. What are you good at?", "it": "Parlami della tua esperienza. In che cosa sei brava?" },
+      { "s": "B", "name": "Anna", "en": "I'm good at building accessible interfaces. I've worked on this for five years.", "it": "Sono brava a creare interfacce accessibili. Ci lavoro da cinque anni." },
+      { "s": "A", "name": "Tom", "en": "Are you familiar with automated testing tools?", "it": "Conosci gli strumenti di test automatici?" },
+      { "s": "B", "name": "Anna", "en": "Yes. At my last company I was responsible for checking every release.", "it": "Sì. Nella mia ultima azienda ero responsabile del controllo di ogni versione." },
+      { "s": "A", "name": "Tom", "en": "Good. Our team deals with big clients, so deadlines are important.", "it": "Bene. Il nostro team lavora con grandi clienti, quindi le scadenze sono importanti." },
+      { "s": "B", "name": "Anna", "en": "I understand. I'm committed to delivering on time.", "it": "Capisco. Mi impegno a rispettare le consegne." },
+      { "s": "A", "name": "Tom", "en": "A permanent contract would depend on a trial period of three months. Is that a problem?", "it": "Un contratto a tempo indeterminato dipenderebbe da un periodo di prova di tre mesi. È un problema?" },
+      { "s": "B", "name": "Anna", "en": "Not at all. I can start at the beginning of June.", "it": "Per niente. Posso iniziare a inizio giugno." },
+      { "s": "A", "name": "Tom", "en": "Perfect. We'll let you know by Friday. We're waiting for two more candidates.", "it": "Perfetto. Ti faremo sapere entro venerdì. Stiamo aspettando altri due candidati." },
+      { "s": "B", "name": "Anna", "en": "Thank you very much. I look forward to hearing from you.", "it": "Grazie mille. Resto in attesa di vostre notizie." }
+    ]
+  },
+
+  "listening": [
+    { "q": "What did Anna apply for?", "options": ["A front-end position", "A design position", "A sales position"], "answer": 0 },
+    { "q": "What is Anna good at?", "options": ["Managing deadlines", "Building accessible interfaces", "Writing contracts"], "answer": 1 },
+    { "q": "What was Anna responsible for in her last company?", "options": ["Customer support", "Checking every release", "Hiring new developers"], "answer": 1 },
+    { "q": "When will Tom let Anna know?", "options": ["By Friday", "On Monday", "In June"], "answer": 0 }
+  ],
+
+  "translations": [
+    { "it": "Dipende dal budget del cliente.", "en": "It depends on the client's budget.", "alt": ["It depends on the budget of the client.", "That depends on the client's budget."] },
+    { "it": "Ci vediamo giovedì alle 15.", "en": "See you on Thursday at 3 pm.", "alt": ["See you on Thursday at 3 o'clock.", "I'll see you on Thursday at 3 pm."] },
+    { "it": "Sono interessato a collaborare con voi.", "en": "I'm interested in working with you.", "alt": ["I am interested in working with you.", "I'm interested in collaborating with you."] },
+    { "it": "Chi è responsabile dell'audit?", "en": "Who is responsible for the audit?", "alt": ["Who's responsible for the audit?"] },
+    { "it": "Ti mando il file entro venerdì.", "en": "I'll send you the file by Friday.", "alt": ["I will send you the file by Friday.", "I'll send the file to you by Friday."] },
+    { "it": "Ho lavorato con questo cliente per tre anni.", "en": "I worked with this client for three years.", "alt": ["I've worked with this client for three years.", "I have worked with this client for three years."] },
+    { "it": "Stiamo aspettando la tua risposta.", "en": "We're waiting for your reply.", "alt": ["We are waiting for your reply.", "We're waiting for your answer.", "We're waiting for your response."] },
+    { "it": "Il pulsante è in alto a destra sulla pagina.", "en": "The button is at the top right of the page.", "alt": ["The button is in the top right of the page.", "The button is on the top right of the page.", "The button is at the top right on the page."] },
+    { "it": "Sono bravo a trovare gli errori di accessibilità.", "en": "I'm good at finding accessibility errors.", "alt": ["I am good at finding accessibility errors.", "I'm good at finding accessibility issues."] },
+    { "it": "Il sito deve essere conforme alla legge.", "en": "The website must comply with the law.", "alt": ["The site must comply with the law.", "The website has to comply with the law."] },
+    { "it": "Siamo specializzati in siti web accessibili.", "en": "We specialise in accessible websites.", "alt": ["We specialize in accessible websites.", "Our company specialises in accessible websites."] },
+    { "it": "Sono al corrente del problema.", "en": "I'm aware of the problem.", "alt": ["I am aware of the problem.", "I'm aware of the issue.", "I know about the problem."] }
+  ],
+
+  "writing": {
+    "taskIt": "Scrivi una breve mail di candidatura a un'agenzia per un posto da sviluppatore web (o accessibility specialist). Indica per quale posto ti candidi e dove hai visto l'annuncio. Spiega in due frasi quali sono i tuoi punti di forza e di che cosa eri responsabile nel tuo ultimo lavoro. Scrivi che ti piacerebbe lavorare con loro. Chiedi quando possono rispondere. Usa almeno cinque preposizioni fisse della lezione.",
+    "taskEn": "Write a short job application email to an agency for a web developer or accessibility specialist position. Say which job you are applying for and where you saw the advert. In two sentences, say what you are good at and what you were responsible for in your last job. Say that you are interested in working with them. Ask when they can reply. Use at least five fixed prepositions from the lesson.",
+    "model": "Subject: Application for the front-end developer position\n\nDear Ms Rossi,\n\nI'm writing to apply for the front-end developer position that I saw on your website on Monday.\n\nI have six years of experience, and I'm good at building fast, accessible interfaces. In my last job, I was responsible for testing every release and for dealing with accessibility problems reported by users.\n\nI'm very interested in working with your team, because I believe in clear and inclusive design. I'm familiar with the WCAG guidelines and with the main testing tools.\n\nI've attached my CV. I look forward to hearing from you, and I'm available for an interview at any time on weekdays. Could you let me know when you expect to make a decision?\n\nKind regards,\nLuca Bianchi"
+  },
+
+  "speaking": {
+    "shadowing": [
+      "It really depends on the client's budget.",
+      "I'm interested in working with your team.",
+      "Who is responsible for the final delivery?",
+      "I'll send you the report by the end of the day.",
+      "We specialise in accessible web design.",
+      "I'm looking forward to hearing from you.",
+      "The button is at the top right of the page.",
+      "Are you familiar with the new accessibility guidelines?"
+    ],
+    "prompts": [
+      { "en": "What are you good at in your job?", "it": "Qual è il tuo punto di forza nel lavoro?", "help": "Inizia con: I'm good at... / I'm really good at..." },
+      { "en": "What are you responsible for?", "it": "Di che cosa sei responsabile?", "help": "Inizia con: I'm responsible for + -ing" },
+      { "en": "What does your work schedule depend on?", "it": "Da che cosa dipende il tuo orario di lavoro?", "help": "Usa: It depends on the clients / the project..." },
+      { "en": "Tell me about your day. When and where do you work?", "it": "Raccontami la tua giornata. Quando e dove lavori?", "help": "Usa at, on, in: I start at 9, I work in my office..." },
+      { "en": "What are you interested in learning this year?", "it": "Che cosa vorresti imparare quest'anno?", "help": "Usa: I'm interested in learning..." }
+    ]
+  },
+
+  "video": [
+    {
+      "title": "Introduzione: le preposizioni",
+      "show": ["Prepositions made easy", "Le preposizioni senza paura", "at, on, in"],
+      "say": [
+        { "lang": "it", "text": "Oggi mettiamo ordine nelle preposizioni. Sono piccole parole, ma fanno sbagliare in tanti. Le divideremo in gruppi, per ricordarle meglio." },
+        { "lang": "it", "text": "Vedremo il tempo, il luogo, e le combinazioni fisse con verbi e aggettivi." }
+      ]
+    },
+    {
+      "title": "Il tempo: at, on, in",
+      "show": ["at = ora precisa", "on = giorno e data", "in = mese, anno, parte del giorno"],
+      "say": [
+        { "lang": "it", "text": "Per il tempo ricorda la scala. At per le ore, on per i giorni, in per i periodi lunghi." },
+        { "lang": "en", "text": "The meeting is at ten o'clock." },
+        { "lang": "en", "text": "I'll call you on Tuesday." },
+        { "lang": "en", "text": "The site goes live in September." }
+      ]
+    },
+    {
+      "title": "Il luogo: at, in, on",
+      "show": ["at = punto", "in = spazio", "on = superficie"],
+      "say": [
+        { "lang": "it", "text": "Per il luogo, at indica un punto preciso, in uno spazio, on una superficie." },
+        { "lang": "en", "text": "I'm at the client's office." },
+        { "lang": "en", "text": "The file is in the shared folder." },
+        { "lang": "en", "text": "The button is on the page." }
+      ]
+    },
+    {
+      "title": "By, until, for e since",
+      "show": ["by Friday = entro", "until Friday = fino a", "for two weeks", "since 2020"],
+      "say": [
+        { "lang": "it", "text": "By è una scadenza. Until vuol dire fino a quel momento. For indica la durata e since il punto di partenza." },
+        { "lang": "en", "text": "Please reply by Friday." },
+        { "lang": "en", "text": "I'm away until Monday." },
+        { "lang": "en", "text": "We have worked together since 2022." }
+      ]
+    },
+    {
+      "title": "Verbi con preposizione fissa",
+      "show": ["depend on", "apply for", "deal with", "listen to"],
+      "say": [
+        { "lang": "it", "text": "Molti verbi vogliono una preposizione fissa. Impara sempre il verbo insieme alla sua preposizione. E ricorda che discuss non vuole nessuna preposizione." },
+        { "lang": "en", "text": "It depends on the budget." },
+        { "lang": "en", "text": "She applied for the job." },
+        { "lang": "en", "text": "We discussed the project." }
+      ]
+    },
+    {
+      "title": "Aggettivi con preposizione fissa",
+      "show": ["responsible for", "interested in", "good at", "familiar with"],
+      "say": [
+        { "lang": "it", "text": "Anche gli aggettivi hanno la loro preposizione. Dopo la preposizione, se c'è un verbo, usa la forma in ing." },
+        { "lang": "en", "text": "I'm responsible for testing the forms." },
+        { "lang": "en", "text": "I'm interested in learning more." },
+        { "lang": "en", "text": "She is good at explaining technical things." }
+      ]
+    },
+    {
+      "title": "Errori tipici",
+      "show": ["depend from NO, depend on SÌ", "discuss about NO", "interested to NO"],
+      "say": [
+        { "lang": "it", "text": "Attenzione agli errori degli italiani. Non si dice depend from, ma depend on. Non si dice discuss about, ma solo discuss. E non si dice interested to, ma interested in." },
+        { "lang": "en", "text": "It depends on the client." },
+        { "lang": "en", "text": "We discussed the budget." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["at, on, in", "by, until, for, since", "verbo e aggettivo + preposizione"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. At, on, in per il tempo e il luogo. By, until, for e since per le scadenze e la durata. E impara i verbi e gli aggettivi con la loro preposizione." },
+        { "lang": "it", "text": "Fai le flashcard con la frase intera e ripeti ad alta voce. Alla prossima lezione." }
+      ]
+    }
+  ]
+}

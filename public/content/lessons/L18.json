@@ -1,0 +1,321 @@
+{
+  "id": 18,
+  "week": 4,
+  "title": "Contratti e condizioni",
+  "titleEn": "Contracts and terms",
+  "intro": "Oggi impari le parole dei contratti: clausole, firma, rinnovo, recesso, riservatezza. Impari anche a dire cosa è obbligatorio, cosa è vietato e cosa non è necessario con must, have to, need to, mustn't e don't have to. Con queste frasi puoi leggere, spiegare e commentare un contratto con un cliente o un fornitore.",
+  "goals": [
+    "Capire e usare il lessico di base di un contratto di servizi web",
+    "Distinguere must, have to, need to dai divieti (mustn't) e dalle assenze di obbligo (don't have to)",
+    "Descrivere obblighi, scadenze, rinnovo e recesso in una mail o in una riunione",
+    "Fare domande chiare su clausole e condizioni prima di firmare"
+  ],
+  "words": [
+    { "en": "contract", "pron": "kòntrakt", "it": "contratto", "type": "noun", "ex": "Please read the contract carefully before signing.", "exIt": "Leggi il contratto con attenzione prima di firmare." },
+    { "en": "clause", "pron": "klòoz", "it": "clausola", "type": "noun", "ex": "Clause 5 explains the notice period.", "exIt": "La clausola 5 spiega il periodo di preavviso." },
+    { "en": "party", "pron": "pàrti", "it": "parte (di un contratto)", "type": "noun", "ex": "Both parties must sign the document.", "exIt": "Entrambe le parti devono firmare il documento." },
+    { "en": "signature", "pron": "sìghnacer", "it": "firma", "type": "noun", "ex": "We need your signature on the last page.", "exIt": "Ci serve la tua firma sull'ultima pagina." },
+    { "en": "to sign", "pron": "sàin", "it": "firmare", "type": "verb", "ex": "Could you sign and return the contract by Friday?", "exIt": "Potresti firmare e restituire il contratto entro venerdì?" },
+    { "en": "to countersign", "pron": "kàuntersain", "it": "controfirmare", "type": "verb", "ex": "I'll countersign it and send you a copy.", "exIt": "Lo controfirmo e ti mando una copia." },
+    { "en": "to renew", "pron": "rinìu", "it": "rinnovare", "type": "verb", "ex": "The contract renews automatically every year.", "exIt": "Il contratto si rinnova automaticamente ogni anno." },
+    { "en": "renewal", "pron": "rinìual", "it": "rinnovo", "type": "noun", "ex": "The renewal date is the first of March.", "exIt": "La data di rinnovo è il primo marzo." },
+    { "en": "to terminate", "pron": "tèrmineit", "it": "terminare, risolvere (un contratto)", "type": "verb", "ex": "Either party may terminate the contract with 30 days' notice.", "exIt": "Ciascuna parte può risolvere il contratto con 30 giorni di preavviso." },
+    { "en": "termination", "pron": "terminèiscion", "it": "cessazione, risoluzione", "type": "noun", "ex": "Termination must be requested in writing.", "exIt": "La risoluzione va richiesta per iscritto." },
+    { "en": "notice period", "pron": "nòutis pìariad", "it": "periodo di preavviso", "type": "noun", "ex": "The notice period is two months.", "exIt": "Il periodo di preavviso è di due mesi." },
+    { "en": "right of withdrawal", "pron": "ràit ov uidròoal", "it": "diritto di recesso", "type": "noun", "ex": "You have a right of withdrawal within 14 days.", "exIt": "Hai diritto di recesso entro 14 giorni." },
+    { "en": "cooling-off period", "pron": "kùuling òf pìariad", "it": "periodo di ripensamento", "type": "noun", "ex": "There is a 14-day cooling-off period.", "exIt": "C'è un periodo di ripensamento di 14 giorni." },
+    { "en": "liability", "pron": "laiabìliti", "it": "responsabilità legale", "type": "noun", "ex": "Our liability is limited to the value of the contract.", "exIt": "La nostra responsabilità è limitata al valore del contratto." },
+    { "en": "confidentiality", "pron": "konfidensciàliti", "it": "riservatezza", "type": "noun", "ex": "The contract includes a confidentiality clause.", "exIt": "Il contratto comprende una clausola di riservatezza." },
+    { "en": "non-disclosure agreement", "pron": "nòn disklòugiar agrìimant", "it": "accordo di riservatezza (NDA)", "type": "noun", "ex": "We must sign a non-disclosure agreement first.", "exIt": "Dobbiamo prima firmare un accordo di riservatezza." },
+    { "en": "intellectual property", "pron": "intelèkciual pròperti", "it": "proprietà intellettuale", "type": "noun", "ex": "The intellectual property belongs to the client.", "exIt": "La proprietà intellettuale appartiene al cliente." },
+    { "en": "ownership", "pron": "òunerscip", "it": "proprietà, titolarità", "type": "noun", "ex": "Ownership of the code passes to you after full payment.", "exIt": "La proprietà del codice passa a voi dopo il pagamento completo." },
+    { "en": "scope of work", "pron": "skòup ov uèrk", "it": "ambito delle attività", "type": "noun", "ex": "Any change to the scope of work must be agreed in writing.", "exIt": "Ogni modifica all'ambito delle attività va concordata per iscritto." },
+    { "en": "breach", "pron": "brìicc", "it": "violazione, inadempienza", "type": "noun", "ex": "Missing the payment is a breach of the contract.", "exIt": "Il mancato pagamento è una violazione del contratto." },
+    { "en": "arbitration", "pron": "arbitrèiscion", "it": "arbitrato", "type": "noun", "ex": "Disputes go to arbitration.", "exIt": "Le controversie vanno in arbitrato." },
+    { "en": "penalty", "pron": "pènalti", "it": "penale", "type": "noun", "ex": "There is a penalty for late delivery.", "exIt": "È prevista una penale per la consegna in ritardo." },
+    { "en": "governing law", "pron": "gàvernin lòo", "it": "legge applicabile", "type": "noun", "ex": "The governing law is Italian law.", "exIt": "La legge applicabile è quella italiana." },
+    { "en": "jurisdiction", "pron": "giurisdìcscion", "it": "foro competente, giurisdizione", "type": "noun", "ex": "The courts of Milan have jurisdiction.", "exIt": "Il tribunale di Milano è competente." },
+    { "en": "amendment", "pron": "amèndmant", "it": "modifica, emendamento", "type": "noun", "ex": "Any amendment must be signed by both parties.", "exIt": "Ogni modifica deve essere firmata da entrambe le parti." },
+    { "en": "to amend", "pron": "amènd", "it": "modificare (un testo ufficiale)", "type": "verb", "ex": "We would like to amend clause 7.", "exIt": "Vorremmo modificare la clausola 7." },
+    { "en": "to comply with", "pron": "komplài uìd", "it": "rispettare, conformarsi a", "type": "phrase", "ex": "You must comply with the terms of the licence.", "exIt": "Dovete rispettare i termini della licenza." },
+    { "en": "obligation", "pron": "obligèiscion", "it": "obbligo", "type": "noun", "ex": "We have an obligation to protect your data.", "exIt": "Abbiamo l'obbligo di proteggere i vostri dati." },
+    { "en": "binding", "pron": "bàindin", "it": "vincolante", "type": "adj", "ex": "The signed offer is binding for both sides.", "exIt": "L'offerta firmata è vincolante per entrambe le parti." },
+    { "en": "legally binding", "pron": "lìigali bàindin", "it": "giuridicamente vincolante", "type": "adj", "ex": "An email can be legally binding.", "exIt": "Una mail può essere giuridicamente vincolante." },
+    { "en": "void", "pron": "vòid", "it": "nullo", "type": "adj", "ex": "A contract without a signature may be void.", "exIt": "Un contratto senza firma può essere nullo." },
+    { "en": "exclusivity", "pron": "ekskluzìviti", "it": "esclusiva", "type": "noun", "ex": "The contract includes an exclusivity clause.", "exIt": "Il contratto include una clausola di esclusiva." },
+    { "en": "addendum", "pron": "adèndum", "it": "appendice, integrazione al contratto", "type": "noun", "ex": "We signed an addendum to the contract.", "exIt": "Abbiamo firmato un'integrazione al contratto." },
+    { "en": "expiry date", "pron": "ikspàiari dèit", "it": "data di scadenza", "type": "noun", "ex": "Check the expiry date of the domain.", "exIt": "Controlla la data di scadenza del dominio." },
+    { "en": "effective date", "pron": "ifèktiv dèit", "it": "data di decorrenza", "type": "noun", "ex": "The effective date is the first of January.", "exIt": "La data di decorrenza è il primo gennaio." },
+    { "en": "fixed-term", "pron": "fìkst tèrm", "it": "a tempo determinato", "type": "adj", "ex": "It's a fixed-term contract of two years.", "exIt": "È un contratto a tempo determinato di due anni." },
+    { "en": "in writing", "pron": "in ràitin", "it": "per iscritto", "type": "phrase", "ex": "Please confirm your agreement in writing.", "exIt": "Per favore confermate l'accordo per iscritto." },
+    { "en": "witness", "pron": "uìtnes", "it": "testimone", "type": "noun", "ex": "The contract needs a witness to sign it.", "exIt": "Il contratto richiede un testimone che lo firmi." },
+    { "en": "auto-renewal", "pron": "òoto riniùal", "it": "rinnovo automatico", "type": "noun", "ex": "Check whether there is an auto-renewal clause.", "exIt": "Controlla se c'è una clausola di rinnovo automatico." },
+    { "en": "to opt out", "pron": "òpt àut", "it": "scegliere di uscire, rinunciare", "type": "verb", "ex": "You can opt out at any time.", "exIt": "Puoi rinunciare in qualsiasi momento." },
+    { "en": "to withdraw from", "pron": "uiddròo from", "it": "recedere da, ritirarsi da", "type": "verb", "ex": "Either party may withdraw from the agreement.", "exIt": "Ciascuna parte può recedere dall'accordo." },
+    { "en": "to enforce", "pron": "infòrs", "it": "far rispettare, applicare", "type": "verb", "ex": "The terms will be enforced by the court.", "exIt": "I termini saranno fatti rispettare dal tribunale." },
+    { "en": "to undertake", "pron": "andertèik", "it": "impegnarsi a, assumersi", "type": "verb", "ex": "We undertake to deliver within 30 days.", "exIt": "Ci impegniamo a consegnare entro 30 giorni." },
+    { "en": "to be entitled to", "pron": "bi intàitold tu", "it": "avere diritto a", "type": "phrase", "ex": "You are entitled to three free updates.", "exIt": "Hai diritto a tre aggiornamenti gratuiti." },
+    { "en": "to supersede", "pron": "supersìid", "it": "sostituire, annullare e rimpiazzare", "type": "verb", "ex": "This agreement supersedes all previous ones.", "exIt": "Questo accordo sostituisce tutti i precedenti." },
+    { "en": "on behalf of", "pron": "on bihàaf ov", "it": "per conto di, a nome di", "type": "phrase", "ex": "I'm signing on behalf of the company.", "exIt": "Firmo per conto dell'azienda." },
+    { "en": "subject to", "pron": "sàbgekt tu", "it": "soggetto a, subordinato a", "type": "phrase", "ex": "The offer is subject to approval.", "exIt": "L'offerta è subordinata ad approvazione." },
+    { "en": "in the event of", "pron": "in de ivènt ov", "it": "in caso di", "type": "phrase", "ex": "In the event of a dispute, we will try mediation first.", "exIt": "In caso di controversia, proveremo prima la mediazione." },
+    { "en": "fine print", "pron": "fàin prìnt", "it": "clausole in piccolo (britannico: small print)", "type": "noun", "ex": "Always read the fine print.", "exIt": "Leggi sempre le clausole in piccolo." },
+    { "en": "lawyer", "pron": "lòier", "it": "avvocato", "type": "noun", "ex": "Have a lawyer check the contract before you sign.", "exIt": "Fai controllare il contratto da un avvocato prima di firmare." }
+  ],
+  "falseFriends": [
+    { "en": "contract / to contract", "it": "contratto", "trap": "Il verbo to contract vuol dire anche 'contrarre' (un'infezione) o 'restringersi'. Per 'stipulare un contratto' si dice to enter into a contract." },
+    { "en": "actually", "it": "in realtà, in effetti", "trap": "Non vuol dire 'attualmente'. Attualmente si dice currently o at the moment." },
+    { "en": "to sustain", "it": "sostenere, subire", "trap": "Non vuol dire 'sostenere un'opinione' (= to maintain / to argue). To sustain a loss = subire una perdita." }
+  ],
+  "grammar": {
+    "title": "Obbligo e divieto: must, have to, need to, mustn't, don't have to",
+    "explainIt": [
+      "Must e have to esprimono un obbligo. Must è molto forte e viene spesso dalla persona che parla o da una regola scritta: You must sign here. In un contratto o in un cartello si trova spesso must. Have to è più comune nel parlato e indica un obbligo che viene da fuori, come una legge o un regolamento: I have to send the report by Friday. Spesso hanno lo stesso senso.",
+      "Need to esprime necessità: devi farlo perché serve, ma non è sempre un obbligo di legge. We need to renew the domain. È molto usato al lavoro. Nelle domande e nelle negative spesso trovi Do you need to...? e I don't need to... Need to è meno duro di must, e quindi più cortese.",
+      "Attenzione alla negazione! Mustn't indica divieto: You mustn't share this password (è vietato). Don't have to e don't need to indicano assenza di obbligo: You don't have to sign today (puoi firmare anche domani, non è necessario). Sono molto diversi! Un errore comune: dire You mustn't come quando vuoi dire non c'è bisogno che tu venga.",
+      "Must non ha il passato né il futuro. Per il passato usa had to: I had to sign the contract yesterday. Per il futuro usa will have to: We will have to renew it next year. Per le domande al passato: Did you have to sign? Per il passato di need to usa needed to: We needed to check the terms.",
+      "Altre forme utili: should e ought to indicano consiglio, non obbligo (You should read the fine print). Be allowed to indica permesso (You're allowed to cancel within 14 days), not allowed to (You're not allowed to...) e can't indicano divieto. Must può indicare anche una deduzione forte: It must be a mistake. Ma qui parliamo soprattutto di obbligo."
+    ],
+    "explainEn": [
+      "Must and have to express obligation. Must is very strong and often comes from the speaker or from a written rule: You must sign here. In contracts and on signs you often find must. Have to is more common in speaking and shows an obligation from outside, like a law or a rule: I have to send the report by Friday. Often they have the same meaning.",
+      "Need to expresses necessity: you must do it because it is needed, but it is not always a legal obligation. We need to renew the domain. It is very common at work. In questions and negatives you often find Do you need to...? and I don't need to... Need to is less strong than must, so it is more polite.",
+      "Be careful with the negative! Mustn't shows prohibition: You mustn't share this password (it is forbidden). Don't have to and don't need to show no obligation: You don't have to sign today (you can sign tomorrow, it is not necessary). They are very different! A common mistake is to say You mustn't come when you mean there is no need for you to come.",
+      "Must has no past and no future. For the past use had to: I had to sign the contract yesterday. For the future use will have to: We will have to renew it next year. For questions in the past: Did you have to sign? The past of need to is needed to: We needed to check the terms.",
+      "Other useful forms: should and ought to give advice, not obligation (You should read the fine print). Be allowed to shows permission (You're allowed to cancel within 14 days). Not allowed to (You're not allowed to...) and can't show prohibition. Must can also show strong deduction: It must be a mistake. But here we talk mostly about obligation."
+    ],
+    "rules": [
+      {
+        "it": "Must e have to = obbligo. Must è più forte e arriva da chi parla o da una regola scritta; have to è più comune nel parlato.",
+        "en": "Must and have to = obligation. Must is stronger and comes from the speaker or a written rule; have to is more common in speaking.",
+        "form": "must / have to (has to) + verbo base",
+        "examples": [
+          { "en": "Both parties must sign the contract.", "it": "Entrambe le parti devono firmare il contratto." },
+          { "en": "I have to send the signed copy by Friday.", "it": "Devo mandare la copia firmata entro venerdì." },
+          { "en": "She has to review the terms first.", "it": "Lei deve prima rivedere le condizioni." }
+        ]
+      },
+      {
+        "it": "Need to = serve, è necessario. Meno rigido di must, molto usato al lavoro.",
+        "en": "Need to = it is necessary. Less rigid than must, very common at work.",
+        "form": "need to + verbo base",
+        "examples": [
+          { "en": "We need to renew the domain this month.", "it": "Dobbiamo rinnovare il dominio questo mese." },
+          { "en": "Do you need to check with your lawyer?", "it": "Devi sentire il tuo avvocato?" }
+        ]
+      },
+      {
+        "it": "Mustn't = divieto: è vietato. Non usarlo per 'non è necessario'.",
+        "en": "Mustn't = prohibition: it is forbidden. Do not use it for 'it is not necessary'.",
+        "form": "mustn't + verbo base",
+        "examples": [
+          { "en": "You mustn't share this password with anyone.", "it": "Non devi condividere questa password con nessuno." },
+          { "en": "The client mustn't use our code on other sites.", "it": "Il cliente non deve usare il nostro codice su altri siti." }
+        ]
+      },
+      {
+        "it": "Don't have to e don't need to = non è necessario, non c'è obbligo. Diverso da mustn't.",
+        "en": "Don't have to and don't need to = it is not necessary, no obligation. Different from mustn't.",
+        "form": "don't have to / don't need to + verbo base",
+        "examples": [
+          { "en": "You don't have to sign today. Tomorrow is fine.", "it": "Non c'è bisogno che firmi oggi. Domani va bene." },
+          { "en": "We don't need to change the contract.", "it": "Non c'è bisogno di cambiare il contratto." },
+          { "en": "She doesn't have to come to the office.", "it": "Non è obbligata a venire in ufficio." }
+        ]
+      },
+      {
+        "it": "Passato e futuro: must non li ha. Usa had to (passato) e will have to (futuro).",
+        "en": "Past and future: must has none. Use had to (past) and will have to (future).",
+        "form": "had to / will have to + verbo base",
+        "examples": [
+          { "en": "We had to sign a confidentiality agreement.", "it": "Abbiamo dovuto firmare un accordo di riservatezza." },
+          { "en": "You will have to pay a penalty if you cancel.", "it": "Dovrai pagare una penale se disdici." },
+          { "en": "Did you have to sign anything?", "it": "Hai dovuto firmare qualcosa?" }
+        ]
+      }
+    ],
+    "tip": "Mustn't e don't have to sono come stop e via libera: mustn't = vietato; don't have to = puoi, ma non è necessario. Non scambiarli. E ricorda: per il passato e il futuro di must usa had to e will have to.",
+    "mistakes": [
+      { "wrong": "You mustn't come to the meeting, we'll send you the notes. (se vuoi dire: non serve)", "right": "You don't have to come to the meeting, we'll send you the notes.", "why": "mustn't = vietato; don't have to = non necessario" },
+      { "wrong": "I must to sign the contract.", "right": "I must sign the contract.", "why": "dopo must il verbo è alla forma base, senza to" },
+      { "wrong": "I musted sign the contract yesterday.", "right": "I had to sign the contract yesterday.", "why": "must non ha il passato: si usa had to" },
+      { "wrong": "She have to renew the licence.", "right": "She has to renew the licence.", "why": "alla terza persona have to diventa has to" },
+      { "wrong": "Do I must sign this?", "right": "Must I sign this? / Do I have to sign this?", "why": "must si inverte da solo; have to usa do/does" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "Both parties ___ sign the contract. (devono, obbligo forte)", "a": ["must", "have to"], "hint": "obbligo", "explain": "Obbligo: must o have to." },
+    { "q": "You ___ share the password with anyone. (è vietato)", "a": ["mustn't", "must not"], "hint": "divieto", "explain": "Divieto = mustn't." },
+    { "q": "You ___ sign today. Tomorrow is fine. (non è necessario)", "a": ["don't have to", "do not have to", "don't need to", "do not need to"], "hint": "non necessario", "explain": "Assenza di obbligo = don't have to." },
+    { "q": "She ___ to review the terms first. (deve)", "a": ["has"], "hint": "terza persona di have to", "explain": "Have to → has to con he/she/it." },
+    { "q": "We ___ renew the domain this month. (dobbiamo, necessità)", "a": ["need to", "have to", "must"], "hint": "necessità", "explain": "Need to = è necessario." },
+    { "q": "Yesterday I ___ sign the contract. (ho dovuto)", "a": ["had to"], "hint": "passato", "explain": "Passato di must/have to = had to." },
+    { "q": "Next year we ___ renew the contract. (dovremo)", "a": ["will have to", "'ll have to"], "hint": "futuro", "explain": "Futuro = will have to." },
+    { "q": "___ you have to sign anything? (domanda)", "a": ["do", "did"], "hint": "domanda con have to", "explain": "Have to usa do/does/did nelle domande." },
+    { "q": "The client ___ use our code on other websites. (vietato)", "a": ["mustn't", "must not", "can't", "cannot"], "hint": "divieto", "explain": "Mustn't o can't." },
+    { "q": "He ___ to attend the call. It's optional. (non è obbligato)", "a": ["doesn't have", "does not have", "doesn't need", "does not need"], "hint": "terza persona negativa", "explain": "He doesn't have to." },
+    { "q": "I think you ___ read the fine print. (consiglio)", "a": ["should", "ought to"], "hint": "consiglio", "explain": "Should = consiglio, non obbligo." },
+    { "q": "You are ___ to cancel within 14 days. (hai il permesso)", "a": ["allowed", "entitled"], "hint": "permesso", "explain": "Be allowed to / be entitled to." }
+  ],
+  "phrases": [
+    { "group": "Leggere e discutere un contratto", "en": "Could you send me a draft of the contract?", "it": "Potresti mandarmi una bozza del contratto?" },
+    { "group": "Leggere e discutere un contratto", "en": "I'd like to go through the main clauses.", "it": "Vorrei esaminare le clausole principali." },
+    { "group": "Leggere e discutere un contratto", "en": "Could you explain clause 7?", "it": "Potresti spiegare la clausola 7?" },
+    { "group": "Leggere e discutere un contratto", "en": "Is this clause negotiable?", "it": "Questa clausola è negoziabile?" },
+    { "group": "Leggere e discutere un contratto", "en": "I'd like to have a lawyer review it.", "it": "Vorrei farlo rivedere da un avvocato." },
+    { "group": "Obblighi e divieti", "en": "Both parties must sign the agreement.", "it": "Entrambe le parti devono firmare l'accordo." },
+    { "group": "Obblighi e divieti", "en": "You have to give 30 days' notice.", "it": "Dovete dare 30 giorni di preavviso." },
+    { "group": "Obblighi e divieti", "en": "You mustn't share confidential information.", "it": "Non dovete condividere informazioni riservate." },
+    { "group": "Obblighi e divieti", "en": "You don't have to pay anything upfront.", "it": "Non c'è bisogno di pagare nulla in anticipo." },
+    { "group": "Obblighi e divieti", "en": "We need to agree on the scope of work first.", "it": "Dobbiamo prima accordarci sull'ambito delle attività." },
+    { "group": "Durata e rinnovo", "en": "The contract is valid for twelve months.", "it": "Il contratto è valido per dodici mesi." },
+    { "group": "Durata e rinnovo", "en": "It renews automatically unless you cancel.", "it": "Si rinnova automaticamente a meno che non disdiciate." },
+    { "group": "Durata e rinnovo", "en": "The notice period is 30 days.", "it": "Il periodo di preavviso è di 30 giorni." },
+    { "group": "Durata e rinnovo", "en": "The contract starts on the first of March.", "it": "Il contratto decorre dal primo marzo." },
+    { "group": "Durata e rinnovo", "en": "You can terminate it at any time in writing.", "it": "Potete risolverlo in qualsiasi momento per iscritto." },
+    { "group": "Diritti e responsabilità", "en": "You are entitled to three free updates.", "it": "Avete diritto a tre aggiornamenti gratuiti." },
+    { "group": "Diritti e responsabilità", "en": "The client owns the final files.", "it": "Il cliente è proprietario dei file finali." },
+    { "group": "Diritti e responsabilità", "en": "We are not liable for any loss of data.", "it": "Non siamo responsabili di eventuali perdite di dati." },
+    { "group": "Diritti e responsabilità", "en": "In the event of a dispute, we will try to find a solution together.", "it": "In caso di controversia, cercheremo insieme una soluzione." },
+    { "group": "Diritti e responsabilità", "en": "There is a penalty for late delivery.", "it": "È prevista una penale per la consegna in ritardo." },
+    { "group": "Firmare e confermare", "en": "Please sign and return a scanned copy.", "it": "Per favore firmate e restituite una copia scansionata." },
+    { "group": "Firmare e confermare", "en": "I'm signing on behalf of the company.", "it": "Firmo a nome dell'azienda." },
+    { "group": "Firmare e confermare", "en": "Could you confirm in writing, please?", "it": "Potreste confermare per iscritto, per favore?" },
+    { "group": "Firmare e confermare", "en": "Everything is in order. We can sign.", "it": "È tutto in ordine. Possiamo firmare." },
+    { "group": "Firmare e confermare", "en": "I've countersigned it and attached a copy.", "it": "L'ho controfirmato e ho allegato una copia." }
+  ],
+  "dialogue": {
+    "title": "Before signing the contract",
+    "context": "Luca e la cliente Maria leggono insieme il contratto per il nuovo sito. Maria ha dei dubbi su preavviso, rinnovo e proprietà dei file. Luca risponde con calma e chiarezza.",
+    "lines": [
+      { "s": "A", "name": "Maria", "en": "Luca, I've read the contract. Can I ask a few questions before I sign?", "it": "Luca, ho letto il contratto. Posso farti qualche domanda prima di firmare?" },
+      { "s": "B", "name": "Luca", "en": "Of course. You don't have to sign today. Take your time.", "it": "Certo. Non c'è bisogno di firmare oggi. Fai con calma." },
+      { "s": "A", "name": "Maria", "en": "Thanks. Clause 4 says the contract is valid for twelve months. What happens after that?", "it": "Grazie. La clausola 4 dice che il contratto è valido dodici mesi. Cosa succede dopo?" },
+      { "s": "B", "name": "Luca", "en": "It renews automatically. If you don't want to renew, you have to tell us in writing 30 days before.", "it": "Si rinnova automaticamente. Se non vuoi rinnovare, devi comunicarcelo per iscritto 30 giorni prima." },
+      { "s": "A", "name": "Maria", "en": "Do I have to give a reason?", "it": "Devo dare una motivazione?" },
+      { "s": "B", "name": "Luca", "en": "No, you don't need to give a reason. You just need to send an email.", "it": "No, non c'è bisogno di una motivazione. Basta mandare una mail." },
+      { "s": "A", "name": "Maria", "en": "Good. Clause 9 is about ownership. Who owns the code?", "it": "Bene. La clausola 9 riguarda la proprietà. Di chi è il codice?" },
+      { "s": "B", "name": "Luca", "en": "You do, after the final payment. Until then, you mustn't reuse it on other websites.", "it": "Tuo, dopo il saldo finale. Fino ad allora non devi riutilizzarlo su altri siti." },
+      { "s": "A", "name": "Maria", "en": "That's reasonable. What about the confidentiality clause?", "it": "È ragionevole. E la clausola di riservatezza?" },
+      { "s": "B", "name": "Luca", "en": "Both parties must keep the project information confidential. It's standard.", "it": "Entrambe le parti devono tenere riservate le informazioni sul progetto. È la prassi." },
+      { "s": "A", "name": "Maria", "en": "And if you deliver late? Is there a penalty?", "it": "E se consegnate in ritardo? C'è una penale?" },
+      { "s": "B", "name": "Luca", "en": "Yes, clause 12. We'd have to pay two per cent for each week of delay.", "it": "Sì, clausola 12. Dovremmo pagare il due per cento per ogni settimana di ritardo." },
+      { "s": "A", "name": "Maria", "en": "Okay. I think I'd like my lawyer to review it. I'll have to ask her first.", "it": "Va bene. Penso di voler far rivedere il contratto alla mia avvocata. Dovrò prima chiederle." },
+      { "s": "B", "name": "Luca", "en": "That's a good idea. Please send me any amendments in writing, and we'll sign when you're ready.", "it": "Ottima idea. Mandami le eventuali modifiche per iscritto e firmeremo quando sarai pronta." }
+    ]
+  },
+  "listening": [
+    { "q": "How long is the contract valid?", "options": ["Six months", "Twelve months", "Two years"], "answer": 1 },
+    { "q": "What does Maria have to do if she does not want to renew?", "options": ["Tell Luca in writing 30 days before", "Pay a penalty", "Call a lawyer"], "answer": 0 },
+    { "q": "When does the client own the code?", "options": ["As soon as she signs", "After the final payment", "After one year"], "answer": 1 },
+    { "q": "What does Maria decide to do before signing?", "options": ["Sign immediately", "Ask her lawyer to review the contract", "Change the website"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Entrambe le parti devono firmare il contratto.", "en": "Both parties must sign the contract.", "alt": ["Both parties have to sign the contract.", "Both sides must sign the contract."] },
+    { "it": "Non è necessario firmare oggi. Non c'è fretta.", "en": "You don't have to sign today. There's no hurry.", "alt": ["You don't need to sign today. There's no rush.", "You do not have to sign today. There is no hurry."] },
+    { "it": "Non devi condividere questa password con nessuno.", "en": "You mustn't share this password with anyone.", "alt": ["You must not share this password with anyone.", "You mustn't share this password with anybody."] },
+    { "it": "Dobbiamo rinnovare il dominio questo mese.", "en": "We need to renew the domain this month.", "alt": ["We have to renew the domain this month.", "We must renew the domain this month."] },
+    { "it": "Ho dovuto firmare un accordo di riservatezza.", "en": "I had to sign a non-disclosure agreement.", "alt": ["I had to sign a confidentiality agreement.", "I had to sign an NDA."] },
+    { "it": "Il preavviso è di trenta giorni.", "en": "The notice period is thirty days.", "alt": ["The notice period is 30 days.", "The notice period is thirty days long."] },
+    { "it": "Il contratto si rinnova automaticamente ogni anno.", "en": "The contract renews automatically every year.", "alt": ["The contract is renewed automatically every year.", "The contract renews itself every year."] },
+    { "it": "Potresti spiegarmi la clausola 7?", "en": "Could you explain clause 7 to me?", "alt": ["Could you explain clause 7?", "Can you explain clause 7 to me?"] },
+    { "it": "Devi pagare una penale se disdici prima.", "en": "You have to pay a penalty if you cancel early.", "alt": ["You will have to pay a penalty if you cancel early.", "You must pay a penalty if you cancel early."] },
+    { "it": "Non è obbligata a venire in ufficio.", "en": "She doesn't have to come to the office.", "alt": ["She does not have to come to the office.", "She doesn't need to come to the office."] },
+    { "it": "Il cliente è responsabile dei contenuti.", "en": "The client is responsible for the content.", "alt": ["The client is responsible for the contents.", "The client is in charge of the content."] },
+    { "it": "Fate controllare il contratto da un avvocato prima di firmare.", "en": "Have a lawyer check the contract before you sign.", "alt": ["Have a lawyer review the contract before you sign.", "Get a lawyer to check the contract before you sign."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente vuole firmare un contratto di manutenzione annuale per il suo sito. Scrivi una mail in cui riassumi le condizioni principali: durata di dodici mesi, rinnovo automatico, preavviso di 30 giorni per disdire per iscritto, il cliente non deve pagare nulla in anticipo, il cliente non deve dare a terzi le password. Usa must, have to, need to, mustn't e don't have to. 6-8 righe.",
+    "taskEn": "A client wants to sign an annual maintenance contract for his website. Write an email summarising the main conditions: twelve months duration, automatic renewal, 30 days' written notice to cancel, the client does not pay anything in advance, the client must not give passwords to third parties. Use must, have to, need to, mustn't and don't have to. 6-8 lines.",
+    "model": "Subject: Summary of the maintenance contract\n\nDear Mr Brown,\n\nHere is a short summary of the main conditions of the contract.\n\nThe contract is valid for twelve months and renews automatically. If you don't want to renew, you have to tell us in writing 30 days before the end date.\n\nYou don't have to pay anything in advance: we will bill you every quarter. You must not share the access passwords with third parties, and you need to tell us if anyone leaves your team.\n\nIf you have any questions, please let me know. I will send the final version for signature as soon as you confirm.\n\nKind regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Both parties must sign the contract.",
+      "You don't have to sign today.",
+      "You mustn't share this password with anyone.",
+      "We need to agree on the scope of work first.",
+      "The notice period is thirty days.",
+      "I had to sign a confidentiality agreement.",
+      "Could you explain clause seven, please?",
+      "I'd like to have a lawyer review it."
+    ],
+    "prompts": [
+      { "en": "What must you do before you sign a contract?", "it": "Cosa devi fare prima di firmare un contratto?", "help": "Usa: I must read... / I have to check... / I need to ask..." },
+      { "en": "What do you have to do every day at work?", "it": "Cosa devi fare ogni giorno al lavoro?", "help": "Usa: I have to... / I don't have to... / I need to..." },
+      { "en": "What mustn't people do in your office?", "it": "Cosa non si deve fare nel tuo ufficio?", "help": "Usa: You mustn't... / Nobody is allowed to..." },
+      { "en": "Explain the difference between mustn't and don't have to.", "it": "Spiega la differenza tra mustn't e don't have to.", "help": "Usa: Mustn't means... / Don't have to means... For example..." },
+      { "en": "A client asks about the notice period. Explain it to him.", "it": "Un cliente ti chiede del preavviso. Spiegaglielo.", "help": "Usa: You have to give... days' notice / You must tell us in writing..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: contratti e condizioni",
+      "show": ["Contracts and terms", "must, have to, need to", "mustn't e don't have to"],
+      "say": [
+        { "lang": "it", "text": "Lezione diciotto. Oggi impari le parole dei contratti e come dire cosa è obbligatorio, cosa è vietato e cosa non è necessario." },
+        { "lang": "en", "text": "Both parties must sign the contract." }
+      ]
+    },
+    {
+      "title": "Must e have to",
+      "show": ["must + verbo base", "have to + verbo base", "has to con he, she, it"],
+      "say": [
+        { "lang": "it", "text": "Must e have to esprimono obbligo. Must è più forte e si trova nei contratti e nei cartelli. Have to è più comune nel parlato. Dopo must non si usa to." },
+        { "lang": "en", "text": "You must sign here." },
+        { "lang": "en", "text": "I have to send the report by Friday." }
+      ]
+    },
+    {
+      "title": "Need to",
+      "show": ["need to = è necessario", "Meno rigido di must", "We need to renew the domain."],
+      "say": [
+        { "lang": "it", "text": "Need to esprime necessità. È meno duro di must e molto usato al lavoro. Per esempio, per dire che serve rinnovare qualcosa." },
+        { "lang": "en", "text": "We need to renew the domain." }
+      ]
+    },
+    {
+      "title": "La trappola: mustn't e don't have to",
+      "show": ["mustn't = vietato", "don't have to = non è necessario", "Sono molto diversi"],
+      "say": [
+        { "lang": "it", "text": "Attenzione alla trappola. Mustn't vuol dire che è vietato. Don't have to vuol dire che non è necessario, quindi puoi farlo, ma non devi. Non scambiarli mai." },
+        { "lang": "en", "text": "You mustn't share this password." },
+        { "lang": "en", "text": "You don't have to sign today." }
+      ]
+    },
+    {
+      "title": "Passato e futuro",
+      "show": ["must non ha il passato", "had to = ho dovuto", "will have to = dovrò"],
+      "say": [
+        { "lang": "it", "text": "Must non ha il passato né il futuro. Al passato si usa had to. Al futuro si usa will have to." },
+        { "lang": "en", "text": "I had to sign a confidentiality agreement." },
+        { "lang": "en", "text": "You will have to pay a penalty if you cancel." }
+      ]
+    },
+    {
+      "title": "Il lessico del contratto",
+      "show": ["clause, party, signature", "notice period, renewal", "liability, penalty"],
+      "say": [
+        { "lang": "it", "text": "Ecco le parole che trovi in quasi ogni contratto. Clause è la clausola. Party è la parte. Notice period è il periodo di preavviso. Renewal è il rinnovo. Penalty è la penale." },
+        { "lang": "en", "text": "The notice period is thirty days." },
+        { "lang": "en", "text": "The contract renews automatically." }
+      ]
+    },
+    {
+      "title": "Domande prima di firmare",
+      "show": ["Could you explain clause 7?", "Is this clause negotiable?", "I'd like a lawyer to review it."],
+      "say": [
+        { "lang": "it", "text": "Prima di firmare è giusto fare domande. Chiedi di spiegare le clausole, chiedi se sono negoziabili, e fai rivedere tutto da un avvocato." },
+        { "lang": "en", "text": "Could you explain clause seven, please?" },
+        { "lang": "en", "text": "I'd like to have a lawyer review it." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["must / have to = obbligo", "need to = necessità", "mustn't = vietato", "don't have to = non necessario"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Must e have to per l'obbligo. Need to per la necessità. Mustn't per il divieto. Don't have to per quando non è necessario. Al passato, had to." },
+        { "lang": "en", "text": "You don't have to sign today. Take your time." }
+      ]
+    }
+  ]
+}

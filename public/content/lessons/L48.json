@@ -1,0 +1,327 @@
+{
+  "id": 48,
+  "week": 10,
+  "title": "Linguaggio diplomatico",
+  "titleEn": "Diplomatic language",
+  "intro": "Oggi impari a dire le cose difficili con garbo: un no, una critica, un disaccordo. In inglese si ammorbidisce la frase con parole come it seems, might, a bit e slightly, e con formule come I'm afraid o I wonder if. Ti serve per evitare tensioni con clienti e colleghi.",
+  "goals": [
+    "Ammorbidire una critica o un rifiuto con it seems, might, a bit, slightly",
+    "Dire no con garbo, con un tono non troppo diretto",
+    "Disinnescare una tensione e cercare un punto in comune",
+    "Riconoscere quando una frase italiana tradotta suona troppo brusca in inglese"
+  ],
+
+  "words": [
+    { "en": "diplomatic", "pron": "diplomàtik", "it": "diplomatico, che sa trattare con tatto", "type": "adj", "ex": "She is very diplomatic in difficult meetings.", "exIt": "È molto diplomatica nelle riunioni difficili." },
+    { "en": "to tone down", "pron": "tòun dàun", "it": "attenuare, rendere meno duro", "type": "verb", "ex": "Let's tone down the wording of this email.", "exIt": "Attenuiamo i toni di questa mail." },
+    { "en": "candid", "pron": "kàndid", "it": "franco, schietto", "type": "adj", "ex": "To be candid, the schedule looks unrealistic.", "exIt": "Con franchezza, la tabella di marcia sembra poco realistica." },
+    { "en": "to soften", "pron": "sòfen", "it": "ammorbidire", "type": "verb", "ex": "We can soften the message with a few words.", "exIt": "Possiamo ammorbidire il messaggio con qualche parola." },
+    { "en": "to placate", "pron": "plakèit", "it": "placare, calmare", "type": "verb", "ex": "We offered a discount to placate the client.", "exIt": "Abbiamo offerto uno sconto per placare il cliente." },
+    { "en": "to smooth over", "pron": "smùud òuver", "it": "appianare (una tensione)", "type": "verb", "ex": "She called him to smooth over the misunderstanding.", "exIt": "Lo ha chiamato per appianare l'equivoco." },
+    { "en": "a bit", "pron": "a bìt", "it": "un po'", "type": "phrase", "ex": "The page is a bit slow on mobile.", "exIt": "La pagina è un po' lenta su mobile." },
+    { "en": "somewhat", "pron": "sàmuot", "it": "piuttosto, in parte (formale)", "type": "adv", "ex": "The results were somewhat disappointing.", "exIt": "I risultati sono stati piuttosto deludenti." },
+    { "en": "rather", "pron": "ràder", "it": "piuttosto, abbastanza", "type": "adv", "ex": "The deadline is rather tight.", "exIt": "La scadenza è piuttosto stretta." },
+    { "en": "fairly", "pron": "fèarli", "it": "abbastanza, discretamente", "type": "adv", "ex": "The system is fairly easy to use.", "exIt": "Il sistema è abbastanza facile da usare." },
+    { "en": "perhaps", "pron": "perhàps", "it": "forse", "type": "adv", "ex": "Perhaps we could add a short summary.", "exIt": "Forse potremmo aggiungere un breve riassunto." },
+    { "en": "possibly", "pron": "pòsibli", "it": "magari, eventualmente, forse", "type": "adv", "ex": "Could you possibly send it by Friday?", "exIt": "Potresti magari mandarlo entro venerdì?" },
+    { "en": "apparently", "pron": "apàrentli", "it": "a quanto pare, pare che", "type": "adv", "ex": "Apparently, the client changed their mind.", "exIt": "A quanto pare il cliente ha cambiato idea." },
+    { "en": "it seems", "pron": "it sìimz", "it": "sembra che", "type": "phrase", "ex": "It seems there is a small problem with the file.", "exIt": "Sembra che ci sia un piccolo problema con il file." },
+    { "en": "to appear", "pron": "apìar", "it": "sembrare, apparire", "type": "verb", "ex": "The error appears to come from the plugin.", "exIt": "L'errore sembra provenire dal plugin." },
+    { "en": "to tend to", "pron": "tènd tu", "it": "avere la tendenza a, tendere a", "type": "verb", "ex": "Users tend to leave when the page is slow.", "exIt": "Gli utenti tendono ad andarsene quando la pagina è lenta." },
+    { "en": "I wonder if", "pron": "ai uànder if", "it": "mi chiedo se (richiesta gentile)", "type": "phrase", "ex": "I wonder if we could move the call to Tuesday.", "exIt": "Mi chiedevo se potessimo spostare la chiamata a martedì." },
+    { "en": "nuance", "pron": "niùans", "it": "sfumatura", "type": "noun", "ex": "The translation loses some nuance.", "exIt": "La traduzione perde qualche sfumatura." },
+    { "en": "with respect", "pron": "uìd rispèkt", "it": "con rispetto (prima di dissentire)", "type": "phrase", "ex": "With respect, I see it differently.", "exIt": "Con rispetto, io la vedo in modo diverso." },
+    { "en": "to reframe", "pron": "riifrèim", "it": "riformulare, vedere da un'altra angolazione", "type": "verb", "ex": "Let's reframe the problem as an opportunity.", "exIt": "Riformuliamo il problema come un'opportunità." },
+    { "en": "to phrase", "pron": "frèiz", "it": "formulare, esprimere", "type": "verb", "ex": "How would you phrase this politely?", "exIt": "Come lo formuleresti con garbo?" },
+    { "en": "to refuse", "pron": "rifiùz", "it": "rifiutare (più netto di decline)", "type": "verb", "ex": "They refused to change the contract.", "exIt": "Hanno rifiutato di cambiare il contratto." },
+    { "en": "respectfully", "pron": "rispèktfuli", "it": "con rispetto, rispettosamente", "type": "adv", "ex": "I respectfully disagree with that point.", "exIt": "Con tutto il rispetto, non sono d'accordo su quel punto." },
+    { "en": "to cushion", "pron": "cùscion", "it": "ammortizzare, attutire", "type": "verb", "ex": "Start with praise to cushion the criticism.", "exIt": "Parti da un elogio per attutire la critica." },
+    { "en": "undertone", "pron": "àndertòun", "it": "sfumatura nascosta, tono sotteso", "type": "noun", "ex": "There was an angry undertone in his reply.", "exIt": "Nella sua risposta c'era un tono sotteso di rabbia." },
+    { "en": "to criticise", "pron": "krìtisaiz", "it": "criticare", "type": "verb", "ex": "I don't want to criticise your work.", "exIt": "Non voglio criticare il tuo lavoro." },
+    { "en": "tension", "pron": "tènscen", "it": "tensione", "type": "noun", "ex": "There was some tension in the meeting.", "exIt": "C'era un po' di tensione nella riunione." },
+    { "en": "conflict", "pron": "kònflikt", "it": "conflitto, contrasto", "type": "noun", "ex": "We want to avoid a conflict with the client.", "exIt": "Vogliamo evitare un conflitto con il cliente." },
+    { "en": "abrupt", "pron": "abràpt", "it": "brusco, secco", "type": "adj", "ex": "His last message sounded a bit abrupt.", "exIt": "Il suo ultimo messaggio suonava un po' secco." },
+    { "en": "to refrain", "pron": "rifrèin", "it": "astenersi, trattenersi", "type": "verb", "ex": "Please refrain from sharing the draft for now.", "exIt": "Per favore, evitate di condividere la bozza per ora." },
+    { "en": "to defuse", "pron": "difiùz", "it": "disinnescare, calmare (una tensione)", "type": "verb", "ex": "A little humour can defuse the tension.", "exIt": "Un po' di umorismo può disinnescare la tensione." },
+    { "en": "politely", "pron": "polàitli", "it": "con garbo, educatamente", "type": "adv", "ex": "I politely asked them to resend the file.", "exIt": "Ho chiesto con garbo di rimandare il file." },
+    { "en": "common ground", "pron": "kòmon gràund", "it": "terreno comune, punto in comune", "type": "noun", "ex": "Let's start with what we agree on and find common ground.", "exIt": "Partiamo da ciò su cui siamo d'accordo e troviamo un punto in comune." },
+    { "en": "middle ground", "pron": "mìdol gràund", "it": "via di mezzo", "type": "noun", "ex": "Is there a middle ground between the two options?", "exIt": "C'è una via di mezzo tra le due opzioni?" },
+    { "en": "to concede", "pron": "konsìid", "it": "ammettere, concedere", "type": "verb", "ex": "I have to concede that you have a point.", "exIt": "Devo ammettere che hai ragione." },
+    { "en": "to bridge", "pron": "brìdg", "it": "colmare, creare un ponte tra", "type": "verb", "ex": "We need to bridge the gap between design and code.", "exIt": "Dobbiamo colmare la distanza tra design e codice." },
+    { "en": "to soothe", "pron": "sùud", "it": "calmare, rasserenare", "type": "verb", "ex": "A quick apology helped soothe the situation.", "exIt": "Delle scuse immediate hanno aiutato a rasserenare la situazione." },
+    { "en": "gracious", "pron": "grèiscios", "it": "cortese, signorile", "type": "adj", "ex": "She was gracious about the delay.", "exIt": "Ha preso il ritardo con molta cortesia." },
+    { "en": "discreet", "pron": "diskrìit", "it": "discreto, riservato", "type": "adj", "ex": "Be discreet when you mention the budget.", "exIt": "Usa discrezione quando parli del budget." },
+    { "en": "to downplay", "pron": "dàunplèi", "it": "sminuire, ridimensionare", "type": "verb", "ex": "I don't want to downplay the risks.", "exIt": "Non voglio sminuire i rischi." },
+    { "en": "ideally", "pron": "aidìali", "it": "idealmente, nel migliore dei casi", "type": "adv", "ex": "Ideally, we would like more time.", "exIt": "L'ideale sarebbe avere più tempo." },
+    { "en": "to be honest", "pron": "tu bi ònist", "it": "a dire il vero, onestamente", "type": "phrase", "ex": "To be honest, I'm not sure it will work.", "exIt": "A dire il vero, non sono sicuro che funzionerà." },
+    { "en": "to temper", "pron": "tèmper", "it": "moderare, temperare", "type": "verb", "ex": "Try to temper your criticism with a suggestion.", "exIt": "Prova a moderare la critica con un suggerimento." },
+    { "en": "to pacify", "pron": "pàsifai", "it": "pacificare, calmare", "type": "verb", "ex": "He tried to pacify the angry customer.", "exIt": "Ha cercato di calmare il cliente arrabbiato." },
+    { "en": "considerate", "pron": "konsìderet", "it": "attento agli altri, premuroso", "type": "adj", "ex": "It was considerate of you to warn us early.", "exIt": "È stato premuroso da parte tua avvisarci presto." },
+    { "en": "delicate", "pron": "dèliket", "it": "delicato (una situazione)", "type": "adj", "ex": "It's a delicate situation, so let's be careful.", "exIt": "È una situazione delicata, quindi stiamo attenti." },
+    { "en": "awkward", "pron": "òkuerd", "it": "imbarazzante, scomodo", "type": "adj", "ex": "It was an awkward moment in the call.", "exIt": "È stato un momento imbarazzante nella chiamata." },
+    { "en": "to offend", "pron": "ofènd", "it": "offendere", "type": "verb", "ex": "I hope I didn't offend you.", "exIt": "Spero di non averti offeso." },
+    { "en": "to take offence", "pron": "tèik ofèns", "it": "offendersi", "type": "phrase", "ex": "Please don't take offence. It's just feedback.", "exIt": "Non offenderti, per favore. Sono solo commenti." },
+    { "en": "no hard feelings", "pron": "nòu hàrd fìilingz", "it": "senza rancore", "type": "phrase", "ex": "I disagree, but no hard feelings.", "exIt": "Non sono d'accordo, ma senza rancore." }
+  ],
+
+  "falseFriends": [
+    { "en": "to decline", "it": "rifiutare con garbo, declinare", "trap": "Come in italiano 'declinare un invito': vuol dire dire di no con garbo. È più gentile di refuse." },
+    { "en": "sensitive", "it": "sensibile, permaloso", "trap": "Se dici 'He is very sensitive' vuol dire che si offende facilmente." }
+  ],
+
+  "grammar": {
+    "title": "Ammorbidire le frasi: hedging (it seems, might, a bit, slightly)",
+    "explainIt": [
+      "In inglese professionale le frasi troppo dirette suonano dure. Per questo si usa l'hedging: parole che ammorbidiscono. Non è debolezza, è educazione. Per esempio, 'This is wrong' suona brusco. 'It seems there might be a small mistake here' suona professionale. Il significato è lo stesso, ma il tono è diverso.",
+      "Ci sono quattro strumenti principali. Primo: verbi modali come might, may, could e would (This might be a problem. Could you send it again?). Secondo: verbi come seem e appear (It seems that..., The page appears to be slow). Terzo: avverbi che riducono la forza, come a bit, slightly, somewhat, rather, fairly, quite (The price is a bit high). Quarto: formule come I'm afraid, I wonder if, I'd suggest, with respect.",
+      "Per criticare, di solito si usa un modo gentile: parti da una cosa positiva, poi aggiungi il dubbio con una parola morbida, e finisci con un suggerimento. Esempio: I like the layout. It seems the text is a little small. Perhaps we could make it bigger? Evita parole forti come terrible, wrong o useless. Usa un po' di ammorbidenti e proponi una soluzione.",
+      "Per dire di no con garbo, si usa I'm afraid o unfortunately, una breve ragione e un'alternativa. I'm afraid we can't deliver by Friday, but we could send a first version on Thursday. Non basta dire solo 'no' o 'it's impossible'. In italiano 'Non è possibile' sembra normale, ma in inglese suona molto netto.",
+      "Per fare una richiesta si usa un modale al passato o al condizionale: could, would, might. Could you send me the file? Would you mind checking this? I was wondering if you could help. Più la richiesta è grande, più la frase è lunga e morbida. Attenzione però: troppo hedging in una situazione che richiede decisione crea confusione. Per un'urgenza vera, sii chiaro e diretto, ma resta gentile."
+    ],
+    "explainEn": [
+      "In professional English, direct sentences can sound hard. For this reason we use hedging: words that soften. It is not weakness, it is politeness. For example, 'This is wrong' sounds blunt. 'It seems there might be a small mistake here' sounds professional. The meaning is the same, but the tone is different.",
+      "There are four main tools. First: modal verbs like might, may, could and would (This might be a problem. Could you send it again?). Second: verbs like seem and appear (It seems that..., The page appears to be slow). Third: adverbs that reduce the strength, like a bit, slightly, somewhat, rather, fairly, quite (The price is a bit high). Fourth: phrases like I'm afraid, I wonder if, I'd suggest, with respect.",
+      "To criticise, we usually use a gentle pattern: start with something positive, then add the doubt with a soft word, and end with a suggestion. For example: I like the layout. It seems the text is a little small. Perhaps we could make it bigger? Avoid strong words like terrible, wrong or useless. Use some softeners and offer a solution.",
+      "To say no politely, we use I'm afraid or unfortunately, a short reason and an alternative. I'm afraid we can't deliver by Friday, but we could send a first version on Thursday. Just saying 'no' or 'it's impossible' is not enough. In Italian 'Non è possibile' sounds normal, but in English it sounds very final.",
+      "To make a request we use a past or conditional modal: could, would, might. Could you send me the file? Would you mind checking this? I was wondering if you could help. The bigger the request, the longer and softer the sentence. But be careful: too much hedging in a situation that needs a decision creates confusion. For a real emergency, be clear and direct, but stay polite."
+    ],
+    "rules": [
+      {
+        "it": "Modali (might, may, could, would) per rendere una frase meno certa o più gentile.",
+        "en": "Modals (might, may, could, would) make a sentence less certain or more polite.",
+        "form": "might / could / would + verbo base",
+        "examples": [
+          { "en": "This might be a problem for mobile users.", "it": "Questo potrebbe essere un problema per chi usa il cellulare." },
+          { "en": "Could you send me the file again?", "it": "Potresti rimandarmi il file?" },
+          { "en": "It would be great to have more time.", "it": "Sarebbe bello avere più tempo." }
+        ]
+      },
+      {
+        "it": "It seems / appears (that) e seem to / appear to: per dire una cosa senza darla per certa.",
+        "en": "It seems / appears (that) and seem to / appear to: to say something without presenting it as certain.",
+        "form": "It seems that + frase / S + seems to + verbo",
+        "examples": [
+          { "en": "It seems that there is a small error on the page.", "it": "Sembra che ci sia un piccolo errore sulla pagina." },
+          { "en": "The button appears to be missing.", "it": "Sembra che il pulsante manchi." },
+          { "en": "You seem to have a different view.", "it": "Sembra che tu abbia un'opinione diversa." }
+        ]
+      },
+      {
+        "it": "Avverbi ammorbidenti: a bit, a little, slightly, somewhat, rather, fairly, quite, a touch. Stanno prima dell'aggettivo.",
+        "en": "Softening adverbs: a bit, a little, slightly, somewhat, rather, fairly, quite, a touch. They go before the adjective.",
+        "form": "a bit / slightly / somewhat + aggettivo",
+        "examples": [
+          { "en": "The text is a bit small.", "it": "Il testo è un po' piccolo." },
+          { "en": "The schedule looks slightly tight.", "it": "Il programma sembra leggermente stretto." },
+          { "en": "The result is somewhat different from what we expected.", "it": "Il risultato è piuttosto diverso da quello che ci aspettavamo." }
+        ]
+      },
+      {
+        "it": "Formule diplomatiche: I'm afraid (temo che), I wonder if (mi chiedo se), I'd suggest (suggerirei), with respect (con rispetto).",
+        "en": "Diplomatic phrases: I'm afraid, I wonder if, I'd suggest, with respect.",
+        "form": "I'm afraid + frase / I wonder if + frase",
+        "examples": [
+          { "en": "I'm afraid we can't deliver on Friday.", "it": "Temo che non possiamo consegnare venerdì." },
+          { "en": "I wonder if we could discuss the budget.", "it": "Mi chiedevo se potessimo parlare del budget." },
+          { "en": "With respect, I see it differently.", "it": "Con rispetto, io la vedo in modo diverso." }
+        ]
+      },
+      {
+        "it": "Per dire di no: I'm afraid + motivo + alternativa. Per criticare: positivo, dubbio morbido, suggerimento.",
+        "en": "To say no: I'm afraid + reason + alternative. To criticise: positive point, soft doubt, suggestion.",
+        "form": "positivo + it seems + perhaps we could",
+        "examples": [
+          { "en": "I like the design. It seems a bit busy. Perhaps we could simplify it?", "it": "Mi piace il design. Sembra un po' carico. Forse potremmo semplificarlo?" },
+          { "en": "I'm afraid that's not possible, but we could do it next week.", "it": "Temo che non sia possibile, ma potremmo farlo la prossima settimana." }
+        ]
+      }
+    ],
+    "tip": "Metti sempre una parola morbida prima di una parola forte. Invece di 'This is bad', pensa 'This seems a bit unclear'. E ricorda: nella frase negativa ammorbidisci anche il verbo. 'I don't think this is quite right' è più gentile di 'This is wrong'.",
+    "mistakes": [
+      { "wrong": "This is wrong. Change it.", "right": "It seems there might be a small mistake here. Could you check it?", "why": "troppo diretto: manca l'ammorbidente e la richiesta gentile" },
+      { "wrong": "It is not possible.", "right": "I'm afraid that's not possible at the moment.", "why": "in inglese un no secco suona brusco: aggiungi I'm afraid e at the moment" },
+      { "wrong": "I am agree with you, but...", "right": "I agree with you, but...", "why": "agree è un verbo, non vuole to be" },
+      { "wrong": "You must send the file now.", "right": "Could you send the file as soon as possible?", "why": "must suona come un ordine; could è una richiesta" },
+      { "wrong": "I disagree. You are wrong.", "right": "I see it a bit differently. Perhaps we could look at the data again?", "why": "dire 'you are wrong' attacca la persona; ammorbidisci il disaccordo" }
+    ]
+  },
+
+  "grammarExercises": [
+    { "q": "It ___ that there is a small problem with the file. (seem)", "a": ["seems"], "hint": "it + seems", "explain": "It seems that + frase." },
+    { "q": "The button ___ to be missing. (appear)", "a": ["appears"], "hint": "terza persona singolare", "explain": "The button appears to be..." },
+    { "q": "The text is a ___ small. (bit/slightly)", "a": ["bit", "little"], "hint": "a ... small", "explain": "a bit + aggettivo; slightly non vuole 'a'." },
+    { "q": "The schedule looks ___ tight. (slightly/slight)", "a": ["slightly", "a bit", "a little", "rather", "somewhat"], "hint": "serve un avverbio", "explain": "Slightly è un avverbio e va prima dell'aggettivo. Slight è un aggettivo." },
+    { "q": "I'm ___ we can't deliver by Friday. (afraid/frightened)", "a": ["afraid"], "hint": "I'm ... that", "explain": "I'm afraid = temo che, purtroppo." },
+    { "q": "I ___ if we could move the call to Tuesday. (wonder)", "a": ["wonder"], "hint": "richiesta gentile", "explain": "I wonder if..." },
+    { "q": "___ you send me the file again, please? (could/must)", "a": ["could"], "hint": "richiesta gentile, non ordine", "explain": "Could you... è più gentile di must." },
+    { "q": "This ___ be a problem for mobile users. (might/must)", "a": ["might"], "hint": "c'è un dubbio", "explain": "Might = forse, possibilità." },
+    { "q": "I ___ with you on this point. (agree/am agree)", "a": ["agree"], "hint": "agree è un verbo", "explain": "Si dice I agree, non I am agree." },
+    { "q": "With ___, I see it differently. (respect/respectful)", "a": ["respect"], "hint": "formula fissa", "explain": "With respect, ..." },
+    { "q": "I ___ suggest waiting until Monday. (would/will)", "a": ["would", "'d"], "hint": "suggerimento educato", "explain": "I would suggest / I'd suggest." },
+    { "q": "I'm afraid that's not ___ at the moment. (possible/possibly)", "a": ["possible"], "hint": "aggettivo dopo be", "explain": "Not possible, aggettivo." }
+  ],
+
+  "phrases": [
+    { "group": "Ammorbidire una critica", "en": "It seems there might be a small mistake here.", "it": "Sembra che qui ci possa essere un piccolo errore." },
+    { "group": "Ammorbidire una critica", "en": "I think this part could be a bit clearer.", "it": "Penso che questa parte potrebbe essere un po' più chiara." },
+    { "group": "Ammorbidire una critica", "en": "It may be worth looking at this again.", "it": "Potrebbe valere la pena rivederlo.", "note": "may be worth = potrebbe valere la pena, molto usata" },
+    { "group": "Ammorbidire una critica", "en": "I'm not sure this is quite right.", "it": "Non sono sicuro che sia del tutto corretto." },
+    { "group": "Ammorbidire una critica", "en": "I like the idea, but I wonder if it's slightly too complex.", "it": "L'idea mi piace, ma mi chiedo se non sia leggermente troppo complessa." },
+    { "group": "Dire di no con garbo", "en": "I'm afraid that's not possible at the moment.", "it": "Temo che al momento non sia possibile." },
+    { "group": "Dire di no con garbo", "en": "Unfortunately, we won't be able to do that by Friday.", "it": "Purtroppo non riusciremo a farlo entro venerdì." },
+    { "group": "Dire di no con garbo", "en": "I'd love to help, but I'm fully booked this week.", "it": "Mi piacerebbe aiutare, ma questa settimana sono pieno di impegni." },
+    { "group": "Dire di no con garbo", "en": "Thanks for the offer, but I'll have to decline.", "it": "Grazie dell'offerta, ma dovrò declinare." },
+    { "group": "Dire di no con garbo", "en": "That's not something we can do right now, but we could look at it next month.", "it": "Non è una cosa che possiamo fare adesso, ma potremmo vederla il mese prossimo." },
+    { "group": "Dissentire", "en": "I see your point, but I see it a bit differently.", "it": "Capisco il tuo punto, ma io la vedo in modo un po' diverso." },
+    { "group": "Dissentire", "en": "With respect, I'm not sure I agree.", "it": "Con rispetto, non sono sicuro di essere d'accordo." },
+    { "group": "Dissentire", "en": "I take your point, but I have some reservations.", "it": "Prendo atto del tuo punto, ma ho alcune riserve.", "note": "reservations = dubbi, riserve" },
+    { "group": "Dissentire", "en": "I'm not sure that would work, to be honest.", "it": "Ho dei dubbi che funzionerebbe, a dire il vero." },
+    { "group": "Dissentire", "en": "Could we look at it from another angle?", "it": "Potremmo guardarla da un altro punto di vista?" },
+    { "group": "Gestire la tensione", "en": "I think we may have a misunderstanding.", "it": "Credo che ci sia un malinteso." },
+    { "group": "Gestire la tensione", "en": "Let's take a step back and look at the facts.", "it": "Facciamo un passo indietro e guardiamo i fatti." },
+    { "group": "Gestire la tensione", "en": "I don't want to cause any offence.", "it": "Non voglio offendere nessuno." },
+    { "group": "Gestire la tensione", "en": "Let's try to find some common ground.", "it": "Cerchiamo di trovare un punto in comune." },
+    { "group": "Gestire la tensione", "en": "No hard feelings, I hope.", "it": "Senza rancore, spero." },
+    { "group": "Richieste gentili", "en": "Would you mind checking this for me?", "it": "Ti dispiacerebbe controllarlo per me?" },
+    { "group": "Richieste gentili", "en": "I was wondering if you could send it today.", "it": "Mi chiedevo se potessi mandarlo oggi." },
+    { "group": "Richieste gentili", "en": "Could you possibly look at this before noon?", "it": "Potresti magari guardarlo prima di mezzogiorno?" },
+    { "group": "Richieste gentili", "en": "Perhaps we could discuss this tomorrow?", "it": "Forse potremmo parlarne domani?" },
+    { "group": "Richieste gentili", "en": "I'd appreciate it if you could reply by Friday.", "it": "Ti sarei grato se potessi rispondere entro venerdì." }
+  ],
+
+  "dialogue": {
+    "title": "A difficult feedback",
+    "context": "Il cliente, Mr Brown, ha chiesto una modifica non fattibile. Luca e la collega designer Helen decidono come rispondergli con garbo.",
+    "lines": [
+      { "s": "A", "name": "Helen", "en": "Luca, Mr Brown wants a new logo by Friday. I think it's impossible.", "it": "Luca, il signor Brown vuole un nuovo logo entro venerdì. Penso che sia impossibile." },
+      { "s": "B", "name": "Luca", "en": "I understand, but let's not say 'impossible'. It might sound a bit blunt.", "it": "Capisco, ma non diciamo 'impossibile'. Potrebbe sembrare un po' brusco." },
+      { "s": "A", "name": "Helen", "en": "True. What would you say instead?", "it": "Vero. Cosa diresti invece?" },
+      { "s": "B", "name": "Luca", "en": "Something like: I'm afraid that's not possible by Friday, but we could send a first draft on Thursday.", "it": "Qualcosa come: temo che non sia possibile entro venerdì, ma potremmo mandare una prima bozza giovedì." },
+      { "s": "A", "name": "Helen", "en": "That sounds better. And his email was rather rude. Should I mention the tone?", "it": "Suona meglio. E la sua mail era piuttosto scortese. Devo accennare al tono?" },
+      { "s": "B", "name": "Luca", "en": "I wouldn't. Perhaps we could just say: it seems there may have been a misunderstanding about the timeline.", "it": "Io no. Forse potremmo dire soltanto: sembra che ci sia stato un malinteso sulle tempistiche." },
+      { "s": "A", "name": "Helen", "en": "Good idea. I wonder if we should also offer a call.", "it": "Buona idea. Mi chiedo se non dovremmo offrire anche una chiamata." },
+      { "s": "B", "name": "Luca", "en": "Yes. It might help to defuse the tension. Let me write the email.", "it": "Sì. Potrebbe aiutare a disinnescare la tensione. Scrivo io la mail." },
+      { "s": "A", "name": "Helen", "en": "Thanks. Also, the developer on his side disagreed with our plan. How do I answer?", "it": "Grazie. Inoltre lo sviluppatore del cliente non era d'accordo con il nostro piano. Come rispondo?" },
+      { "s": "B", "name": "Luca", "en": "Start with the positive: I take your point. Then: with respect, I see it a bit differently.", "it": "Parti dal positivo: capisco il tuo punto. Poi: con rispetto, io la vedo in modo un po' diverso." },
+      { "s": "A", "name": "Helen", "en": "And if he insists?", "it": "E se insiste?" },
+      { "s": "B", "name": "Luca", "en": "Then we look for common ground. Perhaps there is a middle ground, such as a smaller change first.", "it": "Allora cerchiamo un punto in comune. Forse c'è una via di mezzo, per esempio una modifica più piccola all'inizio." },
+      { "s": "A", "name": "Helen", "en": "That makes sense. I'm glad we talked. I would have sounded too direct.", "it": "Ha senso. Sono contenta che ne abbiamo parlato. Sarei sembrata troppo diretta." },
+      { "s": "B", "name": "Luca", "en": "No problem at all. It's easy to sound blunt when you translate from Italian.", "it": "Figurati. È facile sembrare bruschi quando si traduce dall'italiano." }
+    ]
+  },
+
+  "listening": [
+    { "q": "What does the client want by Friday?", "options": ["A new logo", "A new website", "A report"], "answer": 0 },
+    { "q": "What does Luca suggest saying instead of 'impossible'?", "options": ["No way", "I'm afraid that's not possible by Friday, but we could send a draft on Thursday", "We never do that"], "answer": 1 },
+    { "q": "What might help to defuse the tension?", "options": ["Ignoring the email", "Offering a call", "Sending a long report"], "answer": 1 },
+    { "q": "What does Luca suggest if the developer insists?", "options": ["Look for a middle ground", "Cancel the project", "Change the developer"], "answer": 0 }
+  ],
+
+  "translations": [
+    { "it": "Sembra che ci sia un piccolo errore in questa pagina.", "en": "It seems that there is a small mistake on this page.", "alt": ["It seems there is a small error on this page.", "It seems there might be a small mistake on this page."] },
+    { "it": "Il testo è un po' piccolo.", "en": "The text is a bit small.", "alt": ["The text is slightly small.", "The text is a little small."] },
+    { "it": "Temo che non sia possibile entro venerdì.", "en": "I'm afraid that's not possible by Friday.", "alt": ["I'm afraid it's not possible by Friday.", "I'm afraid we can't do it by Friday."] },
+    { "it": "Mi chiedevo se potessimo spostare la riunione a martedì.", "en": "I was wondering if we could move the meeting to Tuesday.", "alt": ["I wonder if we could move the meeting to Tuesday.", "I was wondering if we could change the meeting to Tuesday."] },
+    { "it": "Con rispetto, io la vedo in modo un po' diverso.", "en": "With respect, I see it a bit differently.", "alt": ["With respect, I see it slightly differently.", "With respect, I see it a little differently."] },
+    { "it": "Potresti controllare il file, per favore?", "en": "Could you check the file, please?", "alt": ["Could you please check the file?", "Would you mind checking the file?"] },
+    { "it": "Capisco il tuo punto, ma ho alcune riserve.", "en": "I take your point, but I have some reservations.", "alt": ["I see your point, but I have some reservations.", "I understand your point, but I have some doubts."] },
+    { "it": "Forse potremmo trovare una via di mezzo.", "en": "Perhaps we could find a middle ground.", "alt": ["Maybe we could find a middle ground.", "Perhaps we can find a middle ground."] },
+    { "it": "Credo che ci sia stato un malinteso.", "en": "I think there may have been a misunderstanding.", "alt": ["I think there has been a misunderstanding.", "I think we may have a misunderstanding."] },
+    { "it": "Grazie dell'offerta, ma devo declinare.", "en": "Thank you for the offer, but I'll have to decline.", "alt": ["Thanks for the offer, but I have to decline.", "Thank you for the offer, but I must decline."] },
+    { "it": "Preferirei discuterne di persona.", "en": "I'd prefer to discuss it in person.", "alt": ["I would prefer to discuss this in person.", "I'd prefer to talk about it in person."] },
+    { "it": "Spero di non averti offeso.", "en": "I hope I haven't offended you.", "alt": ["I hope I didn't offend you.", "I hope I did not offend you."] }
+  ],
+
+  "writing": {
+    "taskIt": "Un cliente ti ha chiesto una modifica grande a due giorni dalla consegna. Scrivi una mail diplomatica: ringrazia, di' che al momento non è possibile (usa I'm afraid), spiega il motivo in breve, proponi un'alternativa e offri una chiamata. Usa almeno quattro ammorbidenti (it seems, might, a bit, slightly, perhaps).",
+    "taskEn": "A client asked for a big change two days before delivery. Write a diplomatic email: thank them, say that it is not possible at the moment (use I'm afraid), explain the reason briefly, propose an alternative and offer a call. Use at least four softeners (it seems, might, a bit, slightly, perhaps).",
+    "model": "Hi Mr Brown,\n\nThank you for your message and for your useful feedback.\n\nI understand why the new layout is important to you. However, I'm afraid we won't be able to include it before Friday. It seems the change would affect several pages, and we might not have enough time to test everything properly.\n\nPerhaps we could deliver the current version on Friday, and then work on the new layout as a second phase. This would be a bit safer, and it would give us time to do it well.\n\nI wonder if you would be free for a short call tomorrow to discuss the options? I'm sure we can find a solution that works for everyone.\n\nThank you for your understanding.\n\nBest regards,\nLuca"
+  },
+
+  "speaking": {
+    "shadowing": [
+      "I'm afraid that's not possible at the moment.",
+      "It seems there might be a small mistake here.",
+      "The text is a bit small.",
+      "I wonder if we could move the call to Tuesday.",
+      "With respect, I see it a bit differently.",
+      "Could you possibly send it by Friday?",
+      "Perhaps we could find a middle ground.",
+      "No hard feelings, I hope."
+    ],
+    "prompts": [
+      { "en": "How would you say no to a client who asks for a free extra feature?", "it": "Come diresti di no a un cliente che chiede una funzione in più gratis?", "help": "Usa: I'm afraid... but we could... / Perhaps..." },
+      { "en": "How would you politely give feedback on a colleague's work?", "it": "Come daresti con garbo un riscontro sul lavoro di un collega?", "help": "Usa: I like... It seems... Perhaps we could..." },
+      { "en": "Tell me about a difficult conversation you had at work.", "it": "Raccontami una conversazione difficile che hai avuto al lavoro.", "help": "Usa: It was a bit awkward because... / There was some tension..." },
+      { "en": "How do you disagree politely in a meeting?", "it": "Come dissenti con educazione in una riunione?", "help": "Usa: With respect, I see it differently. / I take your point, but..." },
+      { "en": "What do you do when the tone of an email is too aggressive?", "it": "Cosa fai quando il tono di una mail è troppo aggressivo?", "help": "Usa: I wouldn't reply right away. I'd try to defuse..." }
+    ]
+  },
+
+  "video": [
+    {
+      "title": "Introduzione: perché essere diplomatici",
+      "show": ["Linguaggio diplomatico", "Dire le cose difficili con garbo"],
+      "say": [
+        { "lang": "it", "text": "Oggi impari a dire le cose difficili con garbo. In inglese professionale una frase troppo diretta suona dura, anche se in italiano ti sembra normale. Con poche parole puoi cambiare tutto il tono." },
+        { "lang": "en", "text": "I'm afraid that's not possible at the moment." }
+      ]
+    },
+    {
+      "title": "Che cos'è l'hedging",
+      "show": ["hedging = ammorbidire", "This is wrong", "It seems there might be a mistake"],
+      "say": [
+        { "lang": "it", "text": "L'hedging vuol dire ammorbidire la frase. Non è debolezza, è educazione. This is wrong suona brusco. It seems there might be a small mistake suona professionale. Il significato è lo stesso, il tono è diverso." },
+        { "lang": "en", "text": "It seems there might be a small mistake here." }
+      ]
+    },
+    {
+      "title": "Modali e it seems",
+      "show": ["might, could, would", "it seems that", "appears to"],
+      "say": [
+        { "lang": "it", "text": "Il primo strumento sono i modali: might, could, would. Il secondo sono i verbi seem e appear. Servono per dire una cosa senza darla per certa." },
+        { "lang": "en", "text": "This might be a problem. The button appears to be missing." }
+      ]
+    },
+    {
+      "title": "A bit, slightly, somewhat",
+      "show": ["a bit + aggettivo", "slightly + aggettivo", "somewhat, rather, fairly"],
+      "say": [
+        { "lang": "it", "text": "Il terzo strumento sono gli avverbi ammorbidenti. A bit, slightly, somewhat. Si mettono prima dell'aggettivo. Attenzione: a bit vuole l'articolo a, slightly no." },
+        { "lang": "en", "text": "The text is a bit small. The schedule is slightly tight." }
+      ]
+    },
+    {
+      "title": "Dire di no con garbo",
+      "show": ["I'm afraid + motivo + alternativa", "I'd love to, but..."],
+      "say": [
+        { "lang": "it", "text": "Per dire di no usa questa formula: I'm afraid, poi il motivo, poi un'alternativa. Non basta dire it's impossible. Proponi sempre una soluzione." },
+        { "lang": "en", "text": "I'm afraid we can't deliver by Friday, but we could send a first version on Thursday." }
+      ]
+    },
+    {
+      "title": "Dissentire e criticare",
+      "show": ["With respect, ...", "I take your point, but...", "positivo, dubbio, suggerimento"],
+      "say": [
+        { "lang": "it", "text": "Per dissentire usa with respect o I take your point, but. Per criticare, parti da qualcosa di positivo, poi aggiungi un dubbio morbido e un suggerimento. Evita parole come terrible o useless." },
+        { "lang": "en", "text": "I like the design. It seems a bit busy. Perhaps we could simplify it?" }
+      ]
+    },
+    {
+      "title": "Gestire la tensione",
+      "show": ["misunderstanding", "common ground", "middle ground", "no hard feelings"],
+      "say": [
+        { "lang": "it", "text": "Se la tensione sale, fai un passo indietro. Parla di malinteso, cerca un punto in comune o una via di mezzo. E se serve, chiudi con no hard feelings, senza rancore." },
+        { "lang": "en", "text": "Let's try to find some common ground." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Modali, seem, a bit, slightly", "I'm afraid, I wonder if", "Non esagerare con l'hedging"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Per ammorbidire usa modali, it seems, a bit e slightly. Per dire di no usa I'm afraid e un'alternativa. Per dissentire usa with respect. Ma ricorda: in un'urgenza vera, sii chiaro. Gentile non vuol dire vago." },
+        { "lang": "en", "text": "Thank you for your understanding. No hard feelings." }
+      ]
+    }
+  ]
+}

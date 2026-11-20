@@ -1,0 +1,315 @@
+{
+  "id": 49,
+  "week": 10,
+  "title": "Mail difficili e solleciti",
+  "titleEn": "Difficult emails and reminders",
+  "intro": "Oggi impari a scrivere le mail più delicate: il sollecito di un pagamento o di un materiale, il rifiuto di una richiesta, la scusa formale e l'escalation. Ti serve perché è proprio in queste mail che il tono conta più del contenuto. Con le forme impersonali puoi mantenere un tono fermo ma cortese.",
+  "goals": [
+    "Scrivere un sollecito cortese ma fermo",
+    "Rifiutare una richiesta senza rovinare il rapporto",
+    "Presentare scuse formali per un ritardo o un errore",
+    "Usare le forme impersonali come 'It would be appreciated if...' e 'Should you require...'"
+  ],
+  "words": [
+    { "en": "to nudge", "pron": "nàdg", "it": "dare una spintarella, sollecitare con gentilezza", "type": "verb", "ex": "I'll nudge them again on Thursday.", "exIt": "Giovedì darò loro un'altra spintarella." },
+    { "en": "arrears", "pron": "arìirz", "it": "arretrati, pagamenti in ritardo", "type": "noun", "ex": "The client is two months in arrears.", "exIt": "Il cliente ha due mesi di arretrati." },
+    { "en": "unpaid", "pron": "anpèid", "it": "non pagato", "type": "adj", "ex": "Invoice 204 is still unpaid.", "exIt": "La fattura 204 risulta ancora non pagata." },
+    { "en": "past due", "pron": "pàst diù", "it": "scaduto (da pagare); più americano, in britannico si dice overdue", "type": "adj", "ex": "This payment is now past due.", "exIt": "Questo pagamento è ormai scaduto." },
+    { "en": "to remedy", "pron": "rèmedi", "it": "rimediare a", "type": "verb", "ex": "We will remedy the error at no cost.", "exIt": "Rimedieremo all'errore senza costi." },
+    { "en": "grievance", "pron": "grìivans", "it": "reclamo, motivo di lamentela", "type": "noun", "ex": "The team raised a grievance about the process.", "exIt": "Il team ha presentato un reclamo sul processo." },
+    { "en": "to lodge", "pron": "lòdg", "it": "presentare (un reclamo)", "type": "verb", "ex": "They lodged a complaint with our manager.", "exIt": "Hanno presentato un reclamo al nostro responsabile." },
+    { "en": "to dispute", "pron": "dispiùut", "it": "contestare", "type": "verb", "ex": "The client disputed the invoice.", "exIt": "Il cliente ha contestato la fattura." },
+    { "en": "to expedite", "pron": "èkspedait", "it": "accelerare, sbrigare", "type": "verb", "ex": "Could you expedite the payment?", "exIt": "Potreste accelerare il pagamento?" },
+    { "en": "regrettably", "pron": "rigrètabli", "it": "purtroppo, con rammarico", "type": "adv", "ex": "Regrettably, we are unable to offer a refund.", "exIt": "Purtroppo non siamo in grado di offrire un rimborso." },
+    { "en": "lapse", "pron": "làps", "it": "mancanza, svista, scadenza", "type": "noun", "ex": "It was a lapse on our part.", "exIt": "È stata una nostra mancanza." },
+    { "en": "to reiterate", "pron": "riìtereit", "it": "ribadire", "type": "verb", "ex": "I'd like to reiterate our deadline.", "exIt": "Vorrei ribadire la nostra scadenza." },
+    { "en": "to retract", "pron": "ritràkt", "it": "ritirare, ritrattare", "type": "verb", "ex": "We retract our earlier statement.", "exIt": "Ritiriamo la nostra precedente dichiarazione." },
+    { "en": "grace period", "pron": "grèis pìiriod", "it": "periodo di tolleranza", "type": "noun", "ex": "There is a ten-day grace period for late payments.", "exIt": "C'è un periodo di tolleranza di dieci giorni per i pagamenti in ritardo." },
+    { "en": "reprimand", "pron": "rèprimand", "it": "rimprovero formale", "type": "noun", "ex": "He received a formal reprimand.", "exIt": "Ha ricevuto un rimprovero formale." },
+    { "en": "final notice", "pron": "fàinal nòutis", "it": "ultimo avviso", "type": "noun", "ex": "This is our final notice before legal action.", "exIt": "Questo è il nostro ultimo avviso prima di azioni legali." },
+    { "en": "to bring to your attention", "pron": "brìng tu iòr atènscion", "it": "portare alla vostra attenzione", "type": "phrase", "ex": "I'd like to bring a problem to your attention.", "exIt": "Vorrei portare un problema alla vostra attenzione." },
+    { "en": "with regard to", "pron": "uìd rigàrd tu", "it": "per quanto riguarda", "type": "phrase", "ex": "With regard to your complaint, we have started an investigation.", "exIt": "Per quanto riguarda il vostro reclamo, abbiamo avviato un'indagine." },
+    { "en": "to rectify", "pron": "rèktifai", "it": "rettificare, correggere", "type": "verb", "ex": "We will rectify the error immediately.", "exIt": "Correggeremo l'errore immediatamente." },
+    { "en": "remittance", "pron": "rimìtans", "it": "pagamento, bonifico inviato", "type": "noun", "ex": "We have not received your remittance.", "exIt": "Non abbiamo ricevuto il vostro pagamento." },
+    { "en": "to dispatch", "pron": "dispàc", "it": "spedire, inviare", "type": "verb", "ex": "The signed contract was dispatched by courier this morning.", "exIt": "Il contratto firmato è stato spedito con il corriere stamattina." },
+    { "en": "to reinstate", "pron": "riinstèit", "it": "ripristinare, riattivare", "type": "verb", "ex": "We'll reinstate your account once you pay.", "exIt": "Riattiveremo l'account appena avrete pagato." },
+    { "en": "to suspend", "pron": "saspènd", "it": "sospendere", "type": "verb", "ex": "We may have to suspend the service.", "exIt": "Potremmo dover sospendere il servizio." },
+    { "en": "to cite", "pron": "sàit", "it": "citare, richiamare", "type": "verb", "ex": "The client cited clause 4 of the contract.", "exIt": "Il cliente ha richiamato la clausola 4 del contratto." },
+    { "en": "to settle up", "pron": "sètol àp", "it": "saldare i conti", "type": "verb", "ex": "Let's settle up before the end of the month.", "exIt": "Saldiamo i conti prima della fine del mese." },
+    { "en": "to be unable to", "pron": "bi anèibol tu", "it": "non essere in grado di", "type": "phrase", "ex": "We are unable to proceed without your approval.", "exIt": "Non siamo in grado di procedere senza la vostra approvazione." },
+    { "en": "non-compliance", "pron": "nòn komplàians", "it": "inadempienza, mancata conformità", "type": "noun", "ex": "Non-compliance with the terms may lead to suspension.", "exIt": "L'inadempienza ai termini può portare alla sospensione." },
+    { "en": "rebuke", "pron": "ribiùuk", "it": "rimprovero, richiamo", "type": "noun", "ex": "Her email was a polite rebuke.", "exIt": "La sua mail era un richiamo educato." },
+    { "en": "to withhold", "pron": "uidhòuld", "it": "trattenere, sospendere (un pagamento)", "type": "verb", "ex": "We may have to withhold the final payment.", "exIt": "Potremmo dover trattenere il pagamento finale." },
+    { "en": "slippage", "pron": "slìpidg", "it": "slittamento (dei tempi)", "type": "noun", "ex": "We cannot accept any further slippage in the schedule.", "exIt": "Non possiamo accettare ulteriori slittamenti nella tabella di marcia." },
+    { "en": "to pursue", "pron": "persiùu", "it": "portare avanti, perseguire", "type": "verb", "ex": "We will pursue the matter legally.", "exIt": "Porteremo avanti la questione per vie legali." },
+    { "en": "irate", "pron": "airèit", "it": "furioso, irato", "type": "adj", "ex": "The irate client demanded a refund.", "exIt": "Il cliente furioso ha preteso un rimborso." },
+    { "en": "to appease", "pron": "apìiz", "it": "placare, rabbonire", "type": "verb", "ex": "A free month won't appease them.", "exIt": "Un mese gratis non li placherà." },
+    { "en": "to slip through the cracks", "pron": "slìp trùu de kràks", "it": "sfuggire, perdersi per strada", "type": "phrase", "ex": "I think your request slipped through the cracks.", "exIt": "Credo che la vostra richiesta si sia persa per strada." },
+    { "en": "payable", "pron": "pèiabol", "it": "da pagare, pagabile", "type": "adj", "ex": "The balance is payable within 30 days.", "exIt": "Il saldo è da pagare entro 30 giorni." },
+    { "en": "debtor", "pron": "dèter", "it": "debitore", "type": "noun", "ex": "The debtor has ignored three reminders.", "exIt": "Il debitore ha ignorato tre solleciti." },
+    { "en": "creditor", "pron": "krèditor", "it": "creditore", "type": "noun", "ex": "We are a creditor in this case.", "exIt": "In questo caso siamo creditori." },
+    { "en": "to admonish", "pron": "admònisc", "it": "ammonire, richiamare", "type": "verb", "ex": "The manager admonished him for the delay.", "exIt": "Il responsabile lo ha richiamato per il ritardo." },
+    { "en": "stern", "pron": "stèrn", "it": "severo, rigido", "type": "adj", "ex": "We sent a stern reminder.", "exIt": "Abbiamo mandato un sollecito severo." },
+    { "en": "terse", "pron": "tèrs", "it": "laconico, secco", "type": "adj", "ex": "His reply was terse and unfriendly.", "exIt": "La sua risposta era secca e poco cordiale." },
+    { "en": "curt", "pron": "kèrt", "it": "brusco, sbrigativo", "type": "adj", "ex": "Avoid a curt tone in difficult emails.", "exIt": "Evita un tono sbrigativo nelle mail difficili." },
+    { "en": "to make amends", "pron": "mèik amèndz", "it": "rimediare, farsi perdonare", "type": "phrase", "ex": "We would like to make amends with a free month of support.", "exIt": "Vorremmo rimediare con un mese di assistenza gratuito." },
+    { "en": "damages", "pron": "dàmigiz", "it": "risarcimento danni", "type": "noun", "ex": "They are claiming damages for the delay.", "exIt": "Chiedono un risarcimento per il ritardo." },
+    { "en": "entitlement", "pron": "intàitolment", "it": "diritto, spettanza", "type": "noun", "ex": "You have no entitlement to a refund here.", "exIt": "Qui non avete diritto al rimborso." },
+    { "en": "wording", "pron": "uèrding", "it": "formulazione, scelta delle parole", "type": "noun", "ex": "I'm not happy with the wording of this email.", "exIt": "Non sono soddisfatto della formulazione di questa mail." },
+    { "en": "to copy in", "pron": "kòpi in", "it": "mettere in copia", "type": "verb", "ex": "I have copied in my manager on this message.", "exIt": "Ho messo in copia il mio responsabile in questo messaggio." },
+    { "en": "balance due", "pron": "bàlans diù", "it": "saldo da pagare", "type": "phrase", "ex": "The balance due is 1,200 euros.", "exIt": "Il saldo da pagare è di 1.200 euro." },
+    { "en": "paper trail", "pron": "pèiper trèil", "it": "traccia scritta documentata", "type": "noun", "ex": "Always keep a paper trail of every agreement.", "exIt": "Conserva sempre una traccia scritta di ogni accordo." },
+    { "en": "last resort", "pron": "làast rizòort", "it": "ultima risorsa", "type": "noun", "ex": "Legal action is a last resort for us.", "exIt": "L'azione legale è per noi l'ultima risorsa." },
+    { "en": "to put on hold", "pron": "pùt on hòuld", "it": "sospendere, mettere in attesa", "type": "phrase", "ex": "We have put the project on hold until payment is received.", "exIt": "Abbiamo sospeso il progetto finché non riceviamo il pagamento." }
+  ],
+  "falseFriends": [
+    { "en": "to regret", "it": "rammaricarsi, dispiacersi", "trap": "Non vuol dire solo 'pentirsi': in 'We regret to inform you' è una formula formale per dare cattive notizie, cioè 'ci dispiace informarvi'." },
+    { "en": "eventual", "it": "finale, che alla fine si verifica", "trap": "'Eventual' non è 'eventuale'. Per 'eventuale' usa possible o any: 'any inconvenience'." },
+    { "en": "to pretend", "it": "fingere", "trap": "Non vuol dire 'pretendere'. Per pretendere usa 'to demand' o 'to expect'." },
+    { "en": "sensible", "it": "sensato, ragionevole", "trap": "'Sensible' non è 'sensibile'. Sensibile = sensitive: 'a sensitive issue'." }
+  ],
+  "grammar": {
+    "title": "Forme impersonali e cortesia formale",
+    "explainIt": [
+      "Nelle mail difficili è meglio non puntare il dito. Invece di 'You didn't pay', si scrive 'The payment has not been received'. Il soggetto sparisce e il tono diventa meno aggressivo. Questo si fa con il passivo e con strutture impersonali.",
+      "La formula più usata è 'It would be appreciated if...'. Dopo 'if' si usa il past simple o 'could': 'It would be appreciated if the files could be sent by Friday'. Significa 'Apprezzeremmo se i file potessero essere inviati entro venerdì'. È molto formale ma è una richiesta chiara.",
+      "Altre strutture utili sono 'Should you have any questions, please contact me' (se avete domande) e 'Were you to confirm by Monday, we could start at once' (se confermaste). Qui 'should' e 'were' prendono il posto di 'if' e vanno prima del soggetto. Sono formule fisse, tipiche delle mail formali.",
+      "Per le notizie spiacevoli usa 'We regret to inform you that...' o 'It is with regret that...'. Per ricordare qualcosa: 'May we remind you that...' oppure 'It should be noted that...'. Il risultato è fermo, ma educato.",
+      "Attenzione: troppa formalità può sembrare fredda o ironica. Con un cliente che conosci bene, scrivi 'Could you let me know by Friday?'. Usa le forme molto formali solo per solleciti ufficiali, rifiuti e comunicazioni legali."
+    ],
+    "explainEn": [
+      "In difficult emails it is better not to point the finger. Instead of 'You didn't pay', write 'The payment has not been received'. The subject disappears and the tone is softer. You do this with the passive and with impersonal structures.",
+      "The most common formula is 'It would be appreciated if...'. After 'if' you use the past simple or 'could': 'It would be appreciated if the files could be sent by Friday'. It is very formal, but it is a clear request.",
+      "Other useful structures are 'Should you have any questions, please contact me' and 'Were you to confirm by Monday, we could start at once'. Here 'should' and 'were' replace 'if' and go before the subject. They are fixed formulas, typical of formal emails.",
+      "For bad news use 'We regret to inform you that...' or 'It is with regret that...'. To remind someone, use 'May we remind you that...' or 'It should be noted that...'. The result is firm but polite.",
+      "Be careful: too much formality can sound cold or even sarcastic. With a client you know well, write 'Could you let me know by Friday?'. Use very formal forms only for official reminders, refusals and legal messages."
+    ],
+    "rules": [
+      {
+        "it": "Il passivo toglie la colpa: non dici chi ha sbagliato.",
+        "en": "The passive removes the blame: you don't say who made the mistake.",
+        "form": "soggetto + be + participio passato",
+        "examples": [
+          { "en": "The invoice has not yet been paid.", "it": "La fattura non è ancora stata pagata." },
+          { "en": "Your request was not received.", "it": "La vostra richiesta non è stata ricevuta." },
+          { "en": "The deadline has been missed.", "it": "La scadenza non è stata rispettata." }
+        ]
+      },
+      {
+        "it": "It would be appreciated if + soggetto + past simple o could: richiesta formale.",
+        "en": "It would be appreciated if + subject + past simple or could: a formal request.",
+        "form": "It would be appreciated if + subject + could / past simple",
+        "examples": [
+          { "en": "It would be appreciated if you could settle the invoice this week.", "it": "Apprezzeremmo se poteste saldare la fattura questa settimana." },
+          { "en": "It would be appreciated if all files were sent in PDF format.", "it": "Apprezzeremmo se tutti i file fossero inviati in PDF." }
+        ]
+      },
+      {
+        "it": "Should you + verbo base: forma formale di 'if you'.",
+        "en": "Should you + base verb: a formal version of 'if you'.",
+        "form": "Should you + verbo base, ...",
+        "examples": [
+          { "en": "Should you need any further information, please let us know.", "it": "Se doveste aver bisogno di altre informazioni, fatecelo sapere." },
+          { "en": "Should you have already paid, please ignore this reminder.", "it": "Se aveste già pagato, ignorate questo sollecito." }
+        ]
+      },
+      {
+        "it": "We regret to inform you / It is with regret that: per dare cattive notizie.",
+        "en": "We regret to inform you / It is with regret that: used to give bad news.",
+        "form": "We regret to inform you that + frase",
+        "examples": [
+          { "en": "We regret to inform you that your application has been unsuccessful.", "it": "Ci dispiace informarvi che la vostra candidatura non ha avuto esito positivo." },
+          { "en": "It is with regret that we must postpone the launch.", "it": "È con rammarico che dobbiamo rimandare il lancio." }
+        ]
+      },
+      {
+        "it": "May we remind you that / Please note that: per ricordare senza accusare.",
+        "en": "May we remind you that / Please note that: to remind without blaming.",
+        "form": "May we remind you that + frase",
+        "examples": [
+          { "en": "May we remind you that payment is due within 30 days.", "it": "Ci permettiamo di ricordarvi che il pagamento è dovuto entro 30 giorni." },
+          { "en": "Please note that the office will be closed on Monday.", "it": "Si prega di notare che l'ufficio sarà chiuso lunedì." }
+        ]
+      }
+    ],
+    "tip": "Prima di mandare una mail difficile, cerca ogni 'you' accusatorio e trasformalo: 'You failed to send' diventa 'The files have not been received'. Poi chiudi sempre con un passo concreto e una data.",
+    "mistakes": [
+      { "wrong": "It would be appreciated if you will pay soon.", "right": "It would be appreciated if you could pay soon.", "why": "dopo 'It would be appreciated if' si usa could o past simple, mai will" },
+      { "wrong": "We regret to say you that...", "right": "We regret to inform you that...", "why": "con 'say' non si usa il complemento di persona: dopo 'inform' sì" },
+      { "wrong": "Should you will have questions, contact me.", "right": "Should you have any questions, contact me.", "why": "dopo 'should' si usa il verbo base, senza will" },
+      { "wrong": "I pretend that you answer by Friday.", "right": "I expect you to answer by Friday.", "why": "'pretend' vuol dire fingere; per 'pretendere' si usa expect o demand" },
+      { "wrong": "Please find enclosed the invoice and eventual notes.", "right": "Please find enclosed the invoice and any notes.", "why": "'eventual' non vuol dire 'eventuale': usa any o possible" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "It would be appreciated if the payment ___ (can) be made by Friday.", "a": ["could"], "hint": "dopo it would be appreciated if", "explain": "Dopo 'It would be appreciated if' si usa could o il past simple." },
+    { "q": "___ you have any questions, please do not hesitate to contact us.", "a": ["should"], "hint": "forma formale di if", "explain": "'Should you...' sostituisce 'If you should...'." },
+    { "q": "We ___ to inform you that your request has been declined.", "a": ["regret"], "hint": "formula per cattive notizie", "explain": "'We regret to inform you that...' è la formula standard." },
+    { "q": "The invoice has not yet ___ (pay).", "a": ["been paid"], "hint": "passivo al present perfect", "explain": "Passivo: has not been + participio passato." },
+    { "q": "May we ___ you that the deadline is Friday?", "a": ["remind"], "hint": "ricordare", "explain": "'May we remind you that...' è un sollecito cortese." },
+    { "q": "We apologise for any ___ caused. (disagio)", "a": ["inconvenience"], "hint": "parola formale per disagio", "explain": "'Inconvenience' si usa nelle scuse formali." },
+    { "q": "Please confirm ___ of this email. (ricezione)", "a": ["receipt"], "hint": "noun, ricezione", "explain": "'Confirm receipt of' = confermare la ricezione di." },
+    { "q": "It would be appreciated if the files ___ (send) today.", "a": ["were sent", "could be sent"], "hint": "past simple passivo o could be", "explain": "Dopo 'if' passivo al past simple: were sent. Oppure could be sent." },
+    { "q": "___ you to confirm by Monday, we could start at once.", "a": ["were"], "hint": "forma formale di if you confirmed", "explain": "'Were you to + verbo' = 'If you were to...'." },
+    { "q": "Not replying to your message was an ___ on our part. (svista)", "a": ["oversight"], "hint": "noun, svista", "explain": "'Oversight' = svista, dimenticanza." },
+    { "q": "We will ___ the late fee as a goodwill gesture. (rinunciare a)", "a": ["waive"], "hint": "verbo, rinunciare a una tassa", "explain": "'To waive a fee' = non applicare una tassa." },
+    { "q": "I'm just ___ up on my email of last week.", "a": ["following"], "hint": "present continuous di follow", "explain": "'I'm following up on...' si usa per sollecitare una risposta." }
+  ],
+  "phrases": [
+    { "group": "Solleciti", "en": "I'm writing to follow up on my previous email.", "it": "Scrivo per dare seguito alla mia mail precedente." },
+    { "group": "Solleciti", "en": "This is a gentle reminder that payment is now overdue.", "it": "Le ricordiamo cortesemente che il pagamento è ormai scaduto.", "note": "gentle = cortese, tono non aggressivo" },
+    { "group": "Solleciti", "en": "We have not yet received a reply to our request.", "it": "Non abbiamo ancora ricevuto risposta alla nostra richiesta." },
+    { "group": "Solleciti", "en": "Should you have already paid, please disregard this message.", "it": "Se aveste già pagato, vi preghiamo di ignorare questo messaggio.", "note": "da mettere sempre nei solleciti di pagamento" },
+    { "group": "Solleciti", "en": "I would be grateful for your prompt reply.", "it": "Le sarei grato per una pronta risposta." },
+    { "group": "Rifiuti", "en": "I'm afraid we are unable to accommodate this request.", "it": "Temo che non siamo in grado di accogliere questa richiesta." },
+    { "group": "Rifiuti", "en": "We regret to inform you that we must decline.", "it": "Ci dispiace informarvi che dobbiamo declinare." },
+    { "group": "Rifiuti", "en": "Unfortunately, this falls outside the scope of our agreement.", "it": "Purtroppo questo esula dall'ambito del nostro accordo.", "note": "molto utile quando il cliente chiede extra non pagati" },
+    { "group": "Rifiuti", "en": "We would be happy to offer an alternative.", "it": "Saremmo lieti di proporre un'alternativa.", "note": "dopo un no, offri sempre qualcosa" },
+    { "group": "Scuse formali", "en": "Please accept our sincere apologies for the delay.", "it": "Vi preghiamo di accettare le nostre più sincere scuse per il ritardo." },
+    { "group": "Scuse formali", "en": "We take full responsibility for this error.", "it": "Ci assumiamo la piena responsabilità di questo errore." },
+    { "group": "Scuse formali", "en": "This was an oversight on our part.", "it": "È stata una nostra svista." },
+    { "group": "Scuse formali", "en": "We are doing everything we can to rectify the situation.", "it": "Stiamo facendo tutto il possibile per rimediare alla situazione." },
+    { "group": "Scuse formali", "en": "As a goodwill gesture, we would like to offer a discount.", "it": "Come gesto di buona volontà, vorremmo offrire uno sconto." },
+    { "group": "Escalation", "en": "I have copied in my manager for visibility.", "it": "Ho messo in copia il mio responsabile per conoscenza." },
+    { "group": "Escalation", "en": "If we do not hear from you, we will have to escalate this matter.", "it": "Se non avremo vostre notizie, dovremo portare la questione ai livelli superiori." },
+    { "group": "Escalation", "en": "This is our final notice before further action is taken.", "it": "Questo è il nostro ultimo avviso prima di ulteriori azioni." },
+    { "group": "Escalation", "en": "We reserve the right to suspend the service.", "it": "Ci riserviamo il diritto di sospendere il servizio." },
+    { "group": "Escalation", "en": "We would prefer to resolve this amicably.", "it": "Preferiremmo risolvere la questione in modo amichevole." },
+    { "group": "Forme impersonali", "en": "It would be appreciated if you could confirm by Friday.", "it": "Apprezzeremmo se poteste confermare entro venerdì." },
+    { "group": "Forme impersonali", "en": "It should be noted that the quote is valid for 30 days.", "it": "Si noti che il preventivo è valido 30 giorni." },
+    { "group": "Forme impersonali", "en": "It has come to our attention that the files are incomplete.", "it": "Ci è stato segnalato che i file sono incompleti." },
+    { "group": "Forme impersonali", "en": "You are kindly requested to reply within five days.", "it": "Siete cortesemente pregati di rispondere entro cinque giorni." },
+    { "group": "Forme impersonali", "en": "Should you require any assistance, please contact us.", "it": "Se doveste avere bisogno di assistenza, contattateci." },
+    { "group": "Forme impersonali", "en": "Thank you for your understanding and cooperation.", "it": "Grazie per la vostra comprensione e collaborazione." }
+  ],
+  "dialogue": {
+    "title": "A payment that is late",
+    "context": "Luca, web developer freelance, chiama Mr Hughes, un cliente che non ha ancora pagato una fattura scaduta da tre settimane. Poi riassume tutto in una mail.",
+    "lines": [
+      { "s": "A", "name": "Luca", "en": "Good morning, Mr Hughes. I'm calling about invoice 214.", "it": "Buongiorno, signor Hughes. La chiamo per la fattura 214." },
+      { "s": "B", "name": "Mr Hughes", "en": "Ah yes. I think that slipped through the cracks, I'm sorry.", "it": "Ah sì. Credo che mi sia sfuggita, mi dispiace." },
+      { "s": "A", "name": "Luca", "en": "No problem. It is three weeks overdue, so I wanted to follow up.", "it": "Nessun problema. È scaduta da tre settimane, quindi volevo fare un sollecito." },
+      { "s": "B", "name": "Mr Hughes", "en": "I apologise for the inconvenience. We have had a few setbacks with our accounts department.", "it": "Mi scuso per il disagio. Abbiamo avuto qualche contrattempo con il nostro ufficio contabilità." },
+      { "s": "A", "name": "Luca", "en": "I understand. Could you tell me when the payment will be made?", "it": "Capisco. Può dirmi quando verrà effettuato il pagamento?" },
+      { "s": "B", "name": "Mr Hughes", "en": "I'll ask them to process it by Friday.", "it": "Chiederò all'ufficio di procedere entro venerdì." },
+      { "s": "A", "name": "Luca", "en": "Thank you. It would be appreciated if you could confirm by email.", "it": "Grazie. Le sarei grato se potesse confermare via mail." },
+      { "s": "B", "name": "Mr Hughes", "en": "Of course. Is there a late fee?", "it": "Certo. C'è una penale per il ritardo?" },
+      { "s": "A", "name": "Luca", "en": "There is, but I'm happy to waive it as a goodwill gesture if the invoice is settled this week.", "it": "C'è, ma sono disposto a rinunciarvi come gesto di buona volontà se la fattura viene saldata questa settimana." },
+      { "s": "B", "name": "Mr Hughes", "en": "That's very kind. I really appreciate it.", "it": "È molto gentile. Lo apprezzo davvero." },
+      { "s": "A", "name": "Luca", "en": "I'll send a short email so that we have a paper trail.", "it": "Manderò una breve mail così abbiamo una traccia scritta." },
+      { "s": "B", "name": "Mr Hughes", "en": "Good idea. Please copy in my assistant, Anna.", "it": "Buona idea. Metta in copia la mia assistente, Anna." },
+      { "s": "A", "name": "Luca", "en": "Will do. And if there is any further delay, I'm afraid I'd have to put the maintenance on hold.", "it": "Certo. E se ci fosse un ulteriore ritardo, temo che dovrei sospendere la manutenzione." },
+      { "s": "B", "name": "Mr Hughes", "en": "Understood. You'll have the money by Friday, I promise.", "it": "Capito. Avrà i soldi entro venerdì, lo prometto." }
+    ]
+  },
+  "listening": [
+    { "q": "Why is Luca calling Mr Hughes?", "options": ["To ask for a discount", "To follow up on an overdue invoice", "To cancel a project"], "answer": 1 },
+    { "q": "What does Mr Hughes say about the invoice?", "options": ["It slipped through the cracks", "It was never sent", "It was too expensive"], "answer": 0 },
+    { "q": "What does Luca offer as a goodwill gesture?", "options": ["A free website", "A ten percent discount", "To waive the late fee"], "answer": 2 },
+    { "q": "What will Luca do if there is a further delay?", "options": ["Put the maintenance on hold", "Call a lawyer", "Close the account"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Scrivo per dare seguito alla mia mail del 3 marzo.", "en": "I'm writing to follow up on my email of 3 March.", "alt": ["I am following up on my email of 3 March.", "I'm writing to follow up on my email from 3 March."] },
+    { "it": "La fattura risulta ancora in sospeso.", "en": "The invoice is still outstanding.", "alt": ["Our records show that the invoice is still outstanding.", "The invoice has not yet been paid."] },
+    { "it": "Apprezzeremmo se poteste confermare la ricezione.", "en": "It would be appreciated if you could confirm receipt.", "alt": ["We would appreciate it if you could confirm receipt.", "It would be appreciated if you could acknowledge receipt."] },
+    { "it": "Ci scusiamo per l'eventuale disagio causato.", "en": "We apologise for any inconvenience caused.", "alt": ["We apologise for any inconvenience this may have caused.", "We apologise for any inconvenience."] },
+    { "it": "Temo che non siamo in grado di accogliere la vostra richiesta.", "en": "I'm afraid we are unable to accommodate your request.", "alt": ["Unfortunately, we are unable to meet your request.", "I'm afraid we can't accommodate your request."] },
+    { "it": "Se avete già pagato, ignorate questo messaggio.", "en": "If you have already paid, please disregard this message.", "alt": ["Should you have already paid, please ignore this message.", "Should you have already paid, please disregard this email."] },
+    { "it": "È stata una nostra svista e ci assumiamo la piena responsabilità.", "en": "It was an oversight on our part and we take full responsibility.", "alt": ["This was our oversight and we accept full responsibility.", "It was an oversight on our side and we take full responsibility."] },
+    { "it": "Come gesto di buona volontà, rinunceremo alla penale.", "en": "As a goodwill gesture, we will waive the late fee.", "alt": ["As a goodwill gesture, we will not charge the late fee.", "As a gesture of goodwill, we will waive the late fee."] },
+    { "it": "Se non avremo vostre notizie, dovremo portare la questione ai livelli superiori.", "en": "If we do not hear from you, we will have to escalate this matter.", "alt": ["If we don't hear from you, we will need to escalate this.", "Should we not hear from you, we will have to escalate the matter."] },
+    { "it": "Ho messo in copia il mio responsabile per conoscenza.", "en": "I have copied in my manager for visibility.", "alt": ["I've copied my manager in for visibility.", "I've copied in my manager for visibility."] },
+    { "it": "Questo è il nostro ultimo avviso prima di azioni legali.", "en": "This is our final notice before legal action.", "alt": ["This is our final notice before we take legal action.", "This is the final notice before legal action is taken."] },
+    { "it": "Preferiremmo risolvere la questione in modo amichevole.", "en": "We would prefer to resolve this matter amicably.", "alt": ["We would rather resolve this amicably.", "We would prefer to settle this amicably."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente, la Brightside Ltd, non ha ancora pagato la fattura numero 301 di 1.200 euro. È scaduta da 20 giorni e hai già mandato un primo promemoria. Scrivi un secondo sollecito, formale ma cortese. Ricorda la data di scadenza, chiedi il pagamento entro sette giorni, usa almeno una forma impersonale (It would be appreciated if...), ammetti che potrebbe essere una svista, e avvisa che altrimenti sospenderai il servizio.",
+    "taskEn": "A client, Brightside Ltd, has not paid invoice number 301 for 1,200 euros. It is 20 days overdue and you have already sent a first reminder. Write a second, formal but polite reminder. Mention the due date, ask for payment within seven days, use at least one impersonal form (It would be appreciated if...), accept that it may be an oversight, and say you will otherwise suspend the service.",
+    "model": "Subject: Second reminder - Invoice 301\n\nDear Ms Clarke,\n\nI am writing to follow up on my email of 4 June regarding invoice 301 for 1,200 euros, which was due on 30 May. Our records show that the invoice is still outstanding.\n\nThis may well be an oversight, and I apologise if this reminder crosses with your payment. Should you have already paid, please disregard this message.\n\nIt would be appreciated if the payment could be made within seven days. If it is not received by 18 June, I regret that we will have to suspend the hosting service until the balance is settled.\n\nI would much prefer to resolve this without further steps, so please let me know if there is any problem I can help with.\n\nThank you for your understanding and cooperation.\n\nKind regards,\nLuca Rossi"
+  },
+  "speaking": {
+    "shadowing": [
+      "I'm calling to follow up on an overdue invoice.",
+      "It would be appreciated if you could confirm by Friday.",
+      "We regret to inform you that we are unable to proceed.",
+      "This was an oversight on our part, and we apologise.",
+      "As a goodwill gesture, we will waive the late fee.",
+      "Should you have any questions, please do not hesitate to contact me.",
+      "If we do not hear from you, we will have to escalate this matter.",
+      "I would prefer to resolve this in a friendly way."
+    ],
+    "prompts": [
+      { "en": "A client has not paid for a month. What do you say on the phone?", "it": "Un cliente non paga da un mese. Cosa dici al telefono?", "help": "Inizia con: I'm calling about invoice... / It's now ... weeks overdue." },
+      { "en": "How do you refuse a client who asks for extra work for free?", "it": "Come rifiuti un cliente che chiede lavoro extra gratis?", "help": "Usa: I'm afraid this falls outside the scope... / I'd be happy to quote for it." },
+      { "en": "You missed a deadline. Apologise to your client.", "it": "Hai mancato una scadenza. Scusati con il cliente.", "help": "Usa: I apologise for the delay / We take full responsibility / We will rectify..." },
+      { "en": "When do you escalate a problem to a manager?", "it": "Quando passi un problema a un responsabile?", "help": "Usa: If we do not hear back... / I have copied in my manager." },
+      { "en": "What is the difference between a formal and a friendly reminder?", "it": "Qual è la differenza tra un sollecito formale e uno amichevole?", "help": "Confronta: It would be appreciated if... / Could you let me know...?" }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: le mail difficili",
+      "show": ["Mail difficili e solleciti", "Fermo, ma cortese"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo delle mail più delicate: solleciti, rifiuti e scuse. Sono quelle in cui il tono conta più delle parole." },
+        { "lang": "en", "text": "Be polite, but be firm." }
+      ]
+    },
+    {
+      "title": "Il passivo toglie la colpa",
+      "show": ["You didn't pay", "The invoice has not been paid"],
+      "say": [
+        { "lang": "it", "text": "Primo trucco: non accusare. Invece di dire che il cliente non ha pagato, usa il passivo. Il soggetto sparisce e il tono si ammorbidisce." },
+        { "lang": "en", "text": "The invoice has not yet been paid." }
+      ]
+    },
+    {
+      "title": "It would be appreciated if",
+      "show": ["It would be appreciated if + could", "It would be appreciated if you could pay by Friday"],
+      "say": [
+        { "lang": "it", "text": "La formula classica è it would be appreciated if. Dopo if si usa could oppure il past simple. Mai will." },
+        { "lang": "en", "text": "It would be appreciated if you could confirm receipt by Friday." }
+      ]
+    },
+    {
+      "title": "Should you e Were you to",
+      "show": ["Should you have any questions...", "Were you to confirm by Monday..."],
+      "say": [
+        { "lang": "it", "text": "Should you e were you to sono forme formali di if. Should o were vanno prima del soggetto, al posto di if. Dopo should il verbo resta alla forma base." },
+        { "lang": "en", "text": "Should you have any questions, please contact me." }
+      ]
+    },
+    {
+      "title": "Cattive notizie e rifiuti",
+      "show": ["We regret to inform you that...", "I'm afraid we are unable to..."],
+      "say": [
+        { "lang": "it", "text": "Per rifiutare, usa we regret to inform you oppure I'm afraid we are unable. Poi offri sempre un'alternativa." },
+        { "lang": "en", "text": "I'm afraid we are unable to accommodate this request, but we would be happy to offer an alternative." }
+      ]
+    },
+    {
+      "title": "Scuse formali",
+      "show": ["oversight", "to take responsibility", "goodwill gesture"],
+      "say": [
+        { "lang": "it", "text": "Quando sbagli, assumiti la responsabilità e offri una soluzione. Una svista si dice oversight, un gesto di buona volontà si dice goodwill gesture." },
+        { "lang": "en", "text": "This was an oversight on our part, and we take full responsibility." }
+      ]
+    },
+    {
+      "title": "Solleciti ed escalation",
+      "show": ["to follow up", "to escalate", "final notice"],
+      "say": [
+        { "lang": "it", "text": "Un sollecito parte gentile e poi si irrigidisce. Prima follow up, poi escalate, infine final notice. Metti in copia chi serve e conserva sempre la traccia scritta." },
+        { "lang": "en", "text": "If we do not hear from you, we will have to escalate this matter." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Passivo e forme impersonali", "Scuse + soluzione", "Un passo concreto e una data"],
+      "say": [
+        { "lang": "it", "text": "Ricorda: forme impersonali per non accusare, scuse quando serve, e una richiesta chiara con una data. Così sei fermo ma educato." },
+        { "lang": "en", "text": "Thank you for your understanding and cooperation." }
+      ]
+    }
+  ]
+}

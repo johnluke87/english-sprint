@@ -1,0 +1,320 @@
+{
+  "id": 17,
+  "week": 4,
+  "title": "Negoziare",
+  "titleEn": "Negotiating",
+  "intro": "Oggi impari a trattare con un cliente o con un fornitore senza perdere il rapporto. Il secondo condizionale è lo strumento principale: serve per fare proposte ipotetiche e morbide, come If you signed for two years, we would lower the rate. Impari anche le parole per concedere, rifiutare e chiudere un accordo.",
+  "goals": [
+    "Fare una proposta ipotetica con il secondo condizionale (If we..., we would...)",
+    "Chiedere e concedere qualcosa in cambio (in return, as long as)",
+    "Rifiutare con garbo e proporre un compromesso",
+    "Chiudere una trattativa e confermare l'accordo"
+  ],
+  "words": [
+    { "en": "negotiation", "pron": "negoscièiscion", "it": "trattativa, negoziazione", "type": "noun", "ex": "The negotiation took three weeks.", "exIt": "La trattativa è durata tre settimane." },
+    { "en": "to negotiate", "pron": "negòuscieit", "it": "negoziare, trattare", "type": "verb", "ex": "We'd like to negotiate the terms.", "exIt": "Vorremmo negoziare le condizioni." },
+    { "en": "counteroffer", "pron": "kàunteròfer", "it": "controfferta", "type": "noun", "ex": "They made a counteroffer of 8,000 euros.", "exIt": "Hanno fatto una controfferta di 8.000 euro." },
+    { "en": "to bargain", "pron": "bàrghin", "it": "contrattare", "type": "verb", "ex": "I don't like to bargain with clients.", "exIt": "Non mi piace contrattare con i clienti." },
+    { "en": "concession", "pron": "konsèscion", "it": "concessione", "type": "noun", "ex": "We're willing to make a small concession.", "exIt": "Siamo disposti a fare una piccola concessione." },
+    { "en": "to split the difference", "pron": "splìt de dìfrens", "it": "dividere la differenza a metà", "type": "phrase", "ex": "Let's split the difference and say nine hundred.", "exIt": "Dividiamo la differenza e diciamo novecento." },
+    { "en": "to meet halfway", "pron": "mìit haafuèi", "it": "venirsi incontro, trovare un punto a metà", "type": "phrase", "ex": "Could we meet halfway on the price?", "exIt": "Potremmo venirci incontro sul prezzo?" },
+    { "en": "terms", "pron": "tèrmz", "it": "condizioni, termini", "type": "noun", "ex": "We need to agree on the terms first.", "exIt": "Dobbiamo prima accordarci sulle condizioni." },
+    { "en": "leverage", "pron": "lìiveridgi", "it": "potere contrattuale, margine di forza", "type": "noun", "ex": "They have more leverage because they're the bigger client.", "exIt": "Hanno più potere contrattuale perché sono il cliente più grande." },
+    { "en": "deal", "pron": "dìil", "it": "accordo, affare", "type": "noun", "ex": "I think we have a good deal here.", "exIt": "Credo che qui abbiamo un buon accordo." },
+    { "en": "to close a deal", "pron": "klòuz a dìil", "it": "concludere un affare", "type": "phrase", "ex": "We hope to close the deal by Friday.", "exIt": "Speriamo di concludere l'affare entro venerdì." },
+    { "en": "win-win", "pron": "uìn uìn", "it": "vantaggioso per entrambi", "type": "adj", "ex": "I'm looking for a win-win solution.", "exIt": "Cerco una soluzione vantaggiosa per tutti e due." },
+    { "en": "bottom line", "pron": "bòtom làin", "it": "il punto essenziale, il minimo", "type": "noun", "ex": "The bottom line is that we can't go lower than 5,000.", "exIt": "La sostanza è che non possiamo scendere sotto i 5.000." },
+    { "en": "non-negotiable", "pron": "nòn negòusciabol", "it": "non negoziabile", "type": "adj", "ex": "Data protection is non-negotiable.", "exIt": "La protezione dei dati non è negoziabile." },
+    { "en": "to push for", "pron": "pùsc fòr", "it": "insistere per ottenere", "type": "verb", "ex": "We'll push for a longer deadline.", "exIt": "Insisteremo per ottenere una scadenza più lunga." },
+    { "en": "firm", "pron": "fèrm", "it": "fermo, deciso", "type": "adj", "ex": "We have a firm position on this point.", "exIt": "Abbiamo una posizione ferma su questo punto." },
+    { "en": "to push back", "pron": "pùsc bàk", "it": "opporre resistenza, fare obiezioni", "type": "phrase", "ex": "The client pushed back on the timeline.", "exIt": "Il cliente ha fatto obiezioni sulle tempistiche." },
+    { "en": "to give in", "pron": "ghìv ìn", "it": "cedere, arrendersi", "type": "phrase", "ex": "We don't want to give in on quality.", "exIt": "Non vogliamo cedere sulla qualità." },
+    { "en": "to hold out", "pron": "hòuld àut", "it": "resistere, tenere duro", "type": "phrase", "ex": "They held out for a better price.", "exIt": "Hanno tenuto duro per avere un prezzo migliore." },
+    { "en": "to settle", "pron": "sètol", "it": "accordarsi, chiudere una questione", "type": "verb", "ex": "We settled on 7,500 euros.", "exIt": "Ci siamo accordati su 7.500 euro." },
+    { "en": "to seal the deal", "pron": "sìil de dìil", "it": "chiudere l'accordo", "type": "phrase", "ex": "A small discount could seal the deal.", "exIt": "Un piccolo sconto potrebbe chiudere l'accordo." },
+    { "en": "room for manoeuvre", "pron": "rùum for manùuver", "it": "margine di manovra", "type": "phrase", "ex": "We don't have much room for manoeuvre on the price.", "exIt": "Non abbiamo molto margine di manovra sul prezzo." },
+    { "en": "to meet someone's needs", "pron": "mìit sàmuanz nìidz", "it": "soddisfare le esigenze di qualcuno", "type": "phrase", "ex": "We want to meet your needs.", "exIt": "Vogliamo soddisfare le vostre esigenze." },
+    { "en": "in return", "pron": "in ritèrn", "it": "in cambio", "type": "phrase", "ex": "We'll lower the rate, and in return you'll sign for two years.", "exIt": "Abbasseremo la tariffa e in cambio firmerete per due anni." },
+    { "en": "on the condition that", "pron": "on de kondìscion dat", "it": "a condizione che", "type": "conj", "ex": "We'll agree on the condition that you pay in advance.", "exIt": "Accetteremo a condizione che paghiate in anticipo." },
+    { "en": "provided that", "pron": "provàidid dat", "it": "purché, a patto che", "type": "conj", "ex": "We can start now, provided that you send the content.", "exIt": "Possiamo cominciare ora, purché ci mandiate i contenuti." },
+    { "en": "as long as", "pron": "az lòng az", "it": "finché, a patto che", "type": "conj", "ex": "I'm happy to wait, as long as we have a date.", "exIt": "Aspetto volentieri, purché ci sia una data." },
+    { "en": "to agree to", "pron": "agrìi tu", "it": "accettare, acconsentire a", "type": "phrase", "ex": "They agreed to a twenty per cent increase.", "exIt": "Hanno accettato un aumento del venti per cento." },
+    { "en": "to reach an agreement", "pron": "rìicc an agrìimant", "it": "raggiungere un accordo", "type": "phrase", "ex": "We finally reached an agreement.", "exIt": "Alla fine abbiamo raggiunto un accordo." },
+    { "en": "agreement", "pron": "agrìimant", "it": "accordo, intesa", "type": "noun", "ex": "We need a written agreement.", "exIt": "Ci serve un accordo scritto." },
+    { "en": "stance", "pron": "stàans", "it": "posizione, atteggiamento", "type": "noun", "ex": "Their stance on the delivery date hasn't changed.", "exIt": "La loro posizione sulla data di consegna non è cambiata." },
+    { "en": "priority", "pron": "praiòriti", "it": "priorità", "type": "noun", "ex": "Our priority is a fast launch.", "exIt": "La nostra priorità è un lancio veloce." },
+    { "en": "to sweeten the deal", "pron": "suìiten de dìil", "it": "rendere l'offerta più allettante", "type": "phrase", "ex": "We added free training to sweeten the deal.", "exIt": "Abbiamo aggiunto una formazione gratuita per rendere l'offerta più allettante." },
+    { "en": "to be open to", "pron": "bi òupen tu", "it": "essere aperto a", "type": "phrase", "ex": "We're open to other suggestions.", "exIt": "Siamo aperti ad altri suggerimenti." },
+    { "en": "sticking point", "pron": "stìking pòint", "it": "punto di blocco, nodo della questione", "type": "noun", "ex": "The main sticking point is the payment schedule.", "exIt": "Il nodo principale è il piano dei pagamenti." },
+    { "en": "deadlock", "pron": "dèdlok", "it": "stallo, punto morto", "type": "noun", "ex": "The talks have reached a deadlock.", "exIt": "I colloqui sono arrivati a un punto morto." },
+    { "en": "to break the deadlock", "pron": "brèik de dèdlok", "it": "sbloccare lo stallo", "type": "phrase", "ex": "A small discount could break the deadlock.", "exIt": "Un piccolo sconto potrebbe sbloccare lo stallo." },
+    { "en": "mutual", "pron": "miùcual", "it": "reciproco", "type": "adj", "ex": "We want a mutual agreement.", "exIt": "Vogliamo un accordo reciproco." },
+    { "en": "to meet in the middle", "pron": "mìit in de mìdol", "it": "incontrarsi a metà strada", "type": "phrase", "ex": "Can we meet in the middle on the price?", "exIt": "Possiamo incontrarci a metà strada sul prezzo?" },
+    { "en": "fair", "pron": "fèr", "it": "equo, giusto", "type": "adj", "ex": "I think that's a fair offer.", "exIt": "Penso che sia un'offerta equa." },
+    { "en": "red line", "pron": "rèd làin", "it": "limite invalicabile", "type": "noun", "ex": "Data security is a red line for us.", "exIt": "La sicurezza dei dati per noi è un limite invalicabile." },
+    { "en": "unreasonable", "pron": "anrìizonabol", "it": "irragionevole, eccessivo", "type": "adj", "ex": "A one-week deadline is unreasonable.", "exIt": "Una scadenza di una settimana è irragionevole." },
+    { "en": "to haggle", "pron": "hàgol", "it": "tirare sul prezzo", "type": "verb", "ex": "I don't want to haggle over a few euros.", "exIt": "Non voglio tirare sul prezzo per pochi euro." },
+    { "en": "to back down", "pron": "bàk dàun", "it": "fare marcia indietro", "type": "phrase", "ex": "They backed down when we showed the data.", "exIt": "Hanno fatto marcia indietro quando abbiamo mostrato i dati." },
+    { "en": "to stand firm", "pron": "stànd fèrm", "it": "restare fermo sulla propria posizione", "type": "phrase", "ex": "We decided to stand firm on the deadline.", "exIt": "Abbiamo deciso di restare fermi sulla scadenza." },
+    { "en": "to reconsider", "pron": "riikonsìder", "it": "riconsiderare", "type": "verb", "ex": "Would you reconsider our offer?", "exIt": "Riconsidererebbe la nostra offerta?" },
+    { "en": "to come back with", "pron": "kàm bàk uìd", "it": "tornare con (una proposta)", "type": "phrase", "ex": "Can you come back with a better offer?", "exIt": "Può farci un'offerta migliore?" },
+    { "en": "to sleep on it", "pron": "slìip on it", "it": "pensarci su (una notte)", "type": "phrase", "ex": "Let me sleep on it and get back to you tomorrow.", "exIt": "Ci dormo sopra e ti rispondo domani." },
+    { "en": "take it or leave it", "pron": "tèik it or lìiv it", "it": "prendere o lasciare", "type": "phrase", "ex": "This is our final price: take it or leave it.", "exIt": "Questo è il nostro prezzo finale: prendere o lasciare." },
+    { "en": "final offer", "pron": "fàinal òfer", "it": "ultima offerta", "type": "noun", "ex": "That's our final offer.", "exIt": "Questa è la nostra ultima offerta." }
+  ],
+  "falseFriends": [
+    { "en": "to pretend", "it": "fingere", "trap": "Non vuol dire 'pretendere'. Per 'pretendere' usa to demand o to expect." },
+    { "en": "eventual", "it": "finale, che accade alla fine", "trap": "Non vuol dire 'eventuale' (= possible o any). Eventually = alla fine, non 'eventualmente'." },
+    { "en": "to realise", "it": "rendersi conto", "trap": "Non vuol dire 'realizzare' un progetto (= to carry out o to complete). Significa capire all'improvviso." }
+  ],
+  "grammar": {
+    "title": "Il secondo condizionale: if + passato, would",
+    "explainIt": [
+      "Il secondo condizionale parla di situazioni ipotetiche, poco probabili o immaginarie, nel presente o nel futuro. La struttura è: If + past simple, would + verbo base. Esempio: If you signed for two years, we would lower the rate. Nella parte con if il verbo è al passato, ma il significato non è passato: è un'ipotesi.",
+      "Nelle trattative il secondo condizionale è molto utile perché suona morbido e cortese. Se dici If you pay in advance, we will give a discount (primo condizionale) sembra una promessa concreta. Se dici If you paid in advance, we would give a discount, la proposta sembra più delicata e lascia spazio alla trattativa.",
+      "Con il verbo be, nella parte con if si usa were per tutte le persone: If I were you, If he were here, If it were possible. In inglese parlato si sente anche was, ma were è la forma più corretta. La frase If I were you, I would accept the offer serve per dare un consiglio.",
+      "Would si contrae in 'd: we'd lower, I'd accept. Il negativo è wouldn't: We wouldn't agree to that. Al posto di would puoi usare could (potremmo) o might (forse): If you paid in advance, we could offer a discount. Anche le domande sono comuni: What would you do if they refused? Would you accept if we offered 10 per cent?",
+      "Non confondere i due condizionali. Primo condizionale: situazione reale e probabile, If + presente, will. Secondo condizionale: ipotesi, If + passato, would. Se la cosa è davvero possibile e vuoi parlare in modo diretto, usa il primo. Se vuoi proporre un'idea in modo soft, o se è poco probabile, usa il secondo. Mai would dopo if (tranne per richieste molto cortesi, come If you would wait a moment)."
+    ],
+    "explainEn": [
+      "The second conditional talks about hypothetical, unlikely or imaginary situations in the present or the future. The structure is: If + past simple, would + base verb. For example: If you signed for two years, we would lower the rate. In the if part the verb is in the past, but the meaning is not past: it is a hypothesis.",
+      "In negotiations, the second conditional is very useful because it sounds soft and polite. If you say If you pay in advance, we will give a discount (first conditional), it sounds like a real promise. If you say If you paid in advance, we would give a discount, the proposal sounds gentler and leaves room to discuss.",
+      "With the verb be, use were in the if part for all persons: If I were you, If he were here, If it were possible. In spoken English you also hear was, but were is the more correct form. The sentence If I were you, I would accept the offer is used to give advice.",
+      "Would is shortened to 'd: we'd lower, I'd accept. The negative is wouldn't: We wouldn't agree to that. Instead of would you can use could (we would be able to) or might (perhaps): If you paid in advance, we could offer a discount. Questions are also common: What would you do if they refused? Would you accept if we offered 10 per cent?",
+      "Do not mix the two conditionals. First conditional: real and likely situation, If + present, will. Second conditional: hypothesis, If + past, would. If you think the situation is really possible and you want to be direct, use the first. If you want to suggest an idea softly, or the situation is unlikely, use the second. Never use would after if (except in very polite requests, like If you would wait a moment)."
+    ],
+    "rules": [
+      {
+        "it": "If + past simple, would + verbo base: ipotesi poco probabili o immaginarie, nel presente o nel futuro.",
+        "en": "If + past simple, would + base verb: unlikely or imaginary situations, in the present or the future.",
+        "form": "If + past simple, would + verbo base",
+        "examples": [
+          { "en": "If we signed a two-year contract, would you lower the rate?", "it": "Se firmassimo un contratto di due anni, abbassereste la tariffa?" },
+          { "en": "If the budget were higher, we would add a blog.", "it": "Se il budget fosse più alto, aggiungeremmo un blog." },
+          { "en": "If I had more time, I would do it for free.", "it": "Se avessi più tempo, lo farei gratis." }
+        ]
+      },
+      {
+        "it": "Con be si usa were per tutte le persone: If I were you...",
+        "en": "With be, use were for all persons: If I were you...",
+        "form": "If I/he/she/it were...",
+        "examples": [
+          { "en": "If I were you, I would accept the offer.", "it": "Al posto tuo, accetterei l'offerta." },
+          { "en": "If it were possible, we would deliver earlier.", "it": "Se fosse possibile, consegneremmo prima." }
+        ]
+      },
+      {
+        "it": "Il secondo condizionale rende la proposta più morbida e cortese rispetto al primo. Utile nelle trattative.",
+        "en": "The second conditional makes a proposal softer and more polite than the first. Useful in negotiations.",
+        "form": "If you paid..., we would...",
+        "examples": [
+          { "en": "If you paid in advance, we would give you a discount.", "it": "Se pagaste in anticipo, vi faremmo uno sconto." },
+          { "en": "We would be happy to start next week if you confirmed today.", "it": "Saremmo felici di iniziare la settimana prossima se confermaste oggi." }
+        ]
+      },
+      {
+        "it": "Al posto di would si possono usare could e might. Per le domande: Would you...? What would you do if...?",
+        "en": "Instead of would you can use could and might. For questions: Would you...? What would you do if...?",
+        "form": "If + passato, could / might + verbo base",
+        "examples": [
+          { "en": "If you paid in advance, we could offer a discount.", "it": "Se pagaste in anticipo, potremmo offrire uno sconto." },
+          { "en": "What would you do if the client refused?", "it": "Cosa faresti se il cliente rifiutasse?" },
+          { "en": "If we waited a week, the price might go down.", "it": "Se aspettassimo una settimana, il prezzo potrebbe scendere." }
+        ]
+      },
+      {
+        "it": "Per le condizioni usa anche provided that, as long as, on the condition that, unless, in return.",
+        "en": "For conditions you can also use provided that, as long as, on the condition that, unless, in return.",
+        "form": "provided that / as long as + presente",
+        "examples": [
+          { "en": "We'll agree, provided that you sign today.", "it": "Accetteremo, purché firmiate oggi." },
+          { "en": "I'm happy to lower the rate, as long as you commit to a year.", "it": "Abbasso volentieri la tariffa, purché vi impegniate per un anno." },
+          { "en": "We'll lower the rate, and in return you'll recommend us.", "it": "Abbasseremo la tariffa e in cambio ci raccomanderete." }
+        ]
+      }
+    ],
+    "tip": "Primo condizionale: sai che può succedere. Secondo condizionale: stai immaginando. Se hai dei dubbi, usa il secondo: suona più gentile. Ricorda: dopo if mai would, e con be usa sempre were.",
+    "mistakes": [
+      { "wrong": "If I would have more time, I would help you.", "right": "If I had more time, I would help you.", "why": "dopo if si usa il past simple, non would" },
+      { "wrong": "If we will lower the rate, would you sign?", "right": "If we lowered the rate, would you sign?", "why": "secondo condizionale: if + passato, non will" },
+      { "wrong": "If I was you, I would accept it. (nello scritto formale)", "right": "If I were you, I would accept it.", "why": "con be, were è la forma corretta per tutte le persone" },
+      { "wrong": "If you paid in advance, we will give a discount.", "right": "If you paid in advance, we would give a discount.", "why": "non mescolare: passato + would" },
+      { "wrong": "I would accepted the offer.", "right": "I would accept the offer.", "why": "dopo would il verbo resta alla forma base" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "If you ___ (sign) for two years, we would lower the rate.", "a": ["signed"], "hint": "dopo if, passato", "explain": "Secondo condizionale: if + past simple." },
+    { "q": "If we ___ (have) more time, we would add a blog.", "a": ["had"], "hint": "dopo if, passato", "explain": "Past simple di have = had." },
+    { "q": "If I ___ (be) you, I would accept the offer.", "a": ["were"], "hint": "be con I", "explain": "Con be si usa were per tutte le persone." },
+    { "q": "We ___ (agree) if you paid in advance.", "a": ["would agree", "'d agree"], "hint": "risultato ipotetico", "explain": "Would + verbo base." },
+    { "q": "If they ___ (offer) ten per cent, would you accept?", "a": ["offered"], "hint": "past simple", "explain": "Offer → offered." },
+    { "q": "What ___ you do if the client refused?", "a": ["would"], "hint": "domanda ipotetica", "explain": "What would you do if...?" },
+    { "q": "If the budget were higher, we ___ (add) a shop.", "a": ["would add", "'d add"], "hint": "ipotesi", "explain": "Would + verbo base." },
+    { "q": "If you paid in advance, we ___ offer a discount. (potremmo)", "a": ["could", "might"], "hint": "possibilità", "explain": "Could/might al posto di would." },
+    { "q": "I wouldn't agree to that ___ they changed the terms. (a meno che)", "a": ["unless"], "hint": "a meno che", "explain": "Unless = if not." },
+    { "q": "We'll lower the rate, and ___ return you'll sign for a year. (in cambio)", "a": ["in"], "hint": "in ...", "explain": "In return = in cambio." },
+    { "q": "We can start now, ___ that you send the content. (purché)", "a": ["provided"], "hint": "purché", "explain": "Provided that = purché." },
+    { "q": "I'm happy to wait, as ___ as we have a clear date. (purché)", "a": ["long"], "hint": "as ___ as", "explain": "As long as = purché." }
+  ],
+  "phrases": [
+    { "group": "Aprire la trattativa", "en": "Thank you for your offer. We'd like to discuss a few points.", "it": "Grazie per l'offerta. Vorremmo discutere alcuni punti." },
+    { "group": "Aprire la trattativa", "en": "Our priority is a fast launch.", "it": "La nostra priorità è un lancio veloce." },
+    { "group": "Aprire la trattativa", "en": "Where do you see room for flexibility?", "it": "Dove vedete margine di flessibilità?" },
+    { "group": "Aprire la trattativa", "en": "What would it take to close this deal?", "it": "Cosa servirebbe per chiudere questo affare?", "note": "domanda diretta, molto usata" },
+    { "group": "Fare una proposta ipotetica", "en": "If we signed for two years, would you lower the rate?", "it": "Se firmassimo per due anni, abbassereste la tariffa?" },
+    { "group": "Fare una proposta ipotetica", "en": "What if we paid half in advance?", "it": "E se pagassimo metà in anticipo?", "note": "informale e molto naturale" },
+    { "group": "Fare una proposta ipotetica", "en": "Would you be open to a smaller first phase?", "it": "Sareste aperti a una prima fase più piccola?" },
+    { "group": "Fare una proposta ipotetica", "en": "If you could deliver earlier, we would increase the budget.", "it": "Se poteste consegnare prima, aumenteremmo il budget." },
+    { "group": "Concedere e chiedere in cambio", "en": "We could do that, provided that you confirm today.", "it": "Potremmo farlo, purché confermiate oggi." },
+    { "group": "Concedere e chiedere in cambio", "en": "In return, we would ask for a longer contract.", "it": "In cambio, chiederemmo un contratto più lungo." },
+    { "group": "Concedere e chiedere in cambio", "en": "I can meet you halfway on the price.", "it": "Posso venirvi incontro sul prezzo." },
+    { "group": "Concedere e chiedere in cambio", "en": "We're willing to make a small concession.", "it": "Siamo disposti a fare una piccola concessione." },
+    { "group": "Concedere e chiedere in cambio", "en": "That seems fair to us.", "it": "Ci sembra equo." },
+    { "group": "Rifiutare con garbo", "en": "I'm afraid that's not possible.", "it": "Temo che non sia possibile." },
+    { "group": "Rifiutare con garbo", "en": "That's a bit higher than we expected.", "it": "È un po' più alto di quanto ci aspettavamo." },
+    { "group": "Rifiutare con garbo", "en": "I'm sorry, but that's non-negotiable.", "it": "Mi dispiace, ma non è negoziabile.", "note": "per i punti su cui non si cede" },
+    { "group": "Rifiutare con garbo", "en": "We wouldn't be comfortable with that.", "it": "Per noi non andrebbe bene." },
+    { "group": "Rifiutare con garbo", "en": "I'd have to check with my team first.", "it": "Dovrei prima sentire il mio team.", "note": "per guadagnare tempo" },
+    { "group": "Prendere tempo", "en": "Let me sleep on it.", "it": "Ci dormo sopra." },
+    { "group": "Prendere tempo", "en": "Could you give us until Friday to decide?", "it": "Potreste darci tempo fino a venerdì per decidere?" },
+    { "group": "Prendere tempo", "en": "We'll come back to you with a counteroffer.", "it": "Vi risponderemo con una controfferta." },
+    { "group": "Chiudere l'accordo", "en": "I think we have a deal.", "it": "Direi che abbiamo un accordo." },
+    { "group": "Chiudere l'accordo", "en": "Let's put that in writing.", "it": "Mettiamolo per iscritto." },
+    { "group": "Chiudere l'accordo", "en": "I'll send you a summary of what we agreed.", "it": "Vi mando un riepilogo di ciò che abbiamo concordato." },
+    { "group": "Chiudere l'accordo", "en": "I'm glad we found a win-win solution.", "it": "Sono contento che abbiamo trovato una soluzione vantaggiosa per tutti." }
+  ],
+  "dialogue": {
+    "title": "A fair deal",
+    "context": "Luca e Mr Harris, titolare di una piccola agenzia, trattano il prezzo di un contratto di assistenza e sviluppo per due anni. Entrambi cercano un accordo che convenga a tutti e due.",
+    "lines": [
+      { "s": "A", "name": "Mr Harris", "en": "Luca, we like your proposal, but the monthly fee is a bit higher than we expected.", "it": "Luca, la vostra proposta ci piace, ma la quota mensile è un po' più alta di quanto ci aspettavamo." },
+      { "s": "B", "name": "Luca", "en": "I understand. What did you have in mind?", "it": "Capisco. A cosa pensavate?" },
+      { "s": "A", "name": "Mr Harris", "en": "If we signed for two years, would you lower the rate?", "it": "Se firmassimo per due anni, abbassereste la tariffa?" },
+      { "s": "B", "name": "Luca", "en": "That's a good idea. If you signed for two years, I could offer ten per cent less.", "it": "È una bella idea. Se firmaste per due anni, potrei offrire il dieci per cento in meno." },
+      { "s": "A", "name": "Mr Harris", "en": "Ten per cent is not much. Would you consider fifteen?", "it": "Il dieci per cento non è molto. Considerereste il quindici?" },
+      { "s": "B", "name": "Luca", "en": "Fifteen is difficult. I don't have much room for manoeuvre on the price. What if we included extra support instead?", "it": "Il quindici è difficile. Non ho molto margine di manovra sul prezzo. E se includessimo invece assistenza extra?" },
+      { "s": "A", "name": "Mr Harris", "en": "That could work. How many hours of support are we talking about?", "it": "Potrebbe andare. Di quante ore di assistenza parliamo?" },
+      { "s": "B", "name": "Luca", "en": "Five extra hours a month, as long as you pay quarterly in advance.", "it": "Cinque ore extra al mese, purché paghiate ogni trimestre in anticipo." },
+      { "s": "A", "name": "Mr Harris", "en": "Paying in advance is a sticking point for us. If we paid every six months, would that be possible?", "it": "Pagare in anticipo è un punto delicato per noi. Se pagassimo ogni sei mesi, sarebbe possibile?" },
+      { "s": "B", "name": "Luca", "en": "I could agree to that, provided that you sign the contract this week.", "it": "Potrei accettare, purché firmiate il contratto questa settimana." },
+      { "s": "A", "name": "Mr Harris", "en": "That sounds fair. Let me sleep on it, and I'll come back to you tomorrow.", "it": "Mi sembra equo. Ci dormo sopra e ti rispondo domani." },
+      { "s": "B", "name": "Luca", "en": "Of course. If I were you, I'd also check the terms with your accountant.", "it": "Certo. Al posto tuo, farei controllare le condizioni anche al commercialista." },
+      { "s": "A", "name": "Mr Harris", "en": "Good point. I'll do that. I think we are close to a deal.", "it": "Buona idea. Lo farò. Direi che siamo vicini a un accordo." },
+      { "s": "B", "name": "Luca", "en": "I agree. I'll send you a summary of what we discussed today.", "it": "Sono d'accordo. Ti mando un riepilogo di ciò di cui abbiamo discusso oggi." }
+    ]
+  },
+  "listening": [
+    { "q": "What does Mr Harris think about the monthly fee?", "options": ["It is a bit higher than expected", "It is perfect", "It is too cheap"], "answer": 0 },
+    { "q": "What does Luca offer instead of a bigger discount?", "options": ["A free logo", "Five extra hours of support a month", "A longer deadline"], "answer": 1 },
+    { "q": "What is the sticking point for Mr Harris?", "options": ["The length of the contract", "The number of pages", "Paying in advance every quarter"], "answer": 2 },
+    { "q": "What does Mr Harris decide to do?", "options": ["Think about it and reply tomorrow", "Refuse the offer", "Sign the contract immediately"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Se firmassimo per due anni, abbassereste la tariffa?", "en": "If we signed for two years, would you lower the rate?", "alt": ["If we signed a two-year contract, would you lower the rate?", "If we signed up for two years, would you lower the rate?"] },
+    { "it": "Se avessi più tempo, lo farei io stesso.", "en": "If I had more time, I would do it myself.", "alt": ["If I had more time, I'd do it myself.", "If I had more time, I would do it on my own."] },
+    { "it": "Al posto tuo, accetterei l'offerta.", "en": "If I were you, I would accept the offer.", "alt": ["If I were you, I'd accept the offer.", "If I was you, I would accept the offer."] },
+    { "it": "Potremmo venirvi incontro sul prezzo.", "en": "We could meet you halfway on the price.", "alt": ["We could meet you halfway on price.", "We could meet you halfway on the cost."] },
+    { "it": "Siamo disposti a fare una piccola concessione.", "en": "We are willing to make a small concession.", "alt": ["We're willing to make a small concession.", "We are prepared to make a small concession."] },
+    { "it": "Accettiamo, purché firmiate questa settimana.", "en": "We agree, provided that you sign this week.", "alt": ["We agree, as long as you sign this week.", "We'll agree, provided that you sign this week."] },
+    { "it": "Cosa faresti se il cliente rifiutasse?", "en": "What would you do if the client refused?", "alt": ["What would you do if the client said no?", "What would you do if the client declined?"] },
+    { "it": "Questa condizione per noi non andrebbe bene.", "en": "We wouldn't be comfortable with this condition.", "alt": ["We would not be comfortable with this condition.", "We wouldn't be comfortable with that condition."] },
+    { "it": "Lasciatemi pensarci su e vi rispondo domani.", "en": "Let me sleep on it and I'll get back to you tomorrow.", "alt": ["Let me think about it and I'll get back to you tomorrow.", "Let me sleep on it, and I'll come back to you tomorrow."] },
+    { "it": "Direi che abbiamo un accordo.", "en": "I think we have a deal.", "alt": ["I think we've got a deal.", "I think we have an agreement."] },
+    { "it": "Vi mando un riepilogo di ciò che abbiamo concordato.", "en": "I'll send you a summary of what we agreed.", "alt": ["I will send you a summary of what we agreed.", "I'll send you a summary of what we have agreed."] },
+    { "it": "Se pagaste in anticipo, potremmo offrire uno sconto.", "en": "If you paid in advance, we could offer a discount.", "alt": ["If you paid in advance, we could give a discount.", "If you paid upfront, we could offer a discount."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente ti ha scritto che il tuo preventivo di 6.000 euro è troppo alto e ne chiede uno di 5.000. Scrivi una risposta cortese: non accettare subito, fai una controproposta con il secondo condizionale (per esempio If you removed the blog, we could offer 5,400 euros), chiedi qualcosa in cambio e proponi una chiamata. 6-8 righe.",
+    "taskEn": "A client has written that your quote of 6,000 euros is too high, and he asks for 5,000. Write a polite reply: do not accept straight away, make a counterproposal using the second conditional (for example If you removed the blog, we could offer 5,400 euros), ask for something in return and suggest a call. 6-8 lines.",
+    "model": "Subject: Re: Your proposal\n\nDear Mr Brown,\n\nThank you for your message. I understand that the total is higher than you expected.\n\nUnfortunately, I don't have much room for manoeuvre on the price, as it only covers the work we need. However, if you removed the blog from the first phase, we could offer you a price of 5,400 euros.\n\nIn return, I would ask you to confirm by next Friday. If you paid half in advance, I could also start the following Monday.\n\nWould you be free for a short call tomorrow to talk about it?\n\nKind regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "If we signed for two years, would you lower the rate?",
+      "I can meet you halfway on the price.",
+      "We could do that, provided that you confirm today.",
+      "In return, we would ask for a longer contract.",
+      "I'm afraid that's not possible.",
+      "Let me sleep on it.",
+      "If I were you, I would accept the offer.",
+      "I think we have a deal."
+    ],
+    "prompts": [
+      { "en": "What would you do if a client asked you for a fifty per cent discount?", "it": "Cosa faresti se un cliente ti chiedesse il cinquanta per cento di sconto?", "help": "Usa: I would... / I'd explain that... / I could offer..." },
+      { "en": "Describe a negotiation you remember: a salary, a price, a rent.", "it": "Descrivi una trattativa che ricordi: uno stipendio, un prezzo, un affitto.", "help": "Inizia con: Once I had to negotiate... / In the end we agreed..." },
+      { "en": "If you could change one thing about your job, what would it be?", "it": "Se potessi cambiare una cosa del tuo lavoro, quale sarebbe?", "help": "Usa: If I could change..., I would..." },
+      { "en": "Make a counteroffer to a client who wants a lower price.", "it": "Fai una controfferta a un cliente che vuole un prezzo più basso.", "help": "Usa: If you..., we could... / In return, we would ask..." },
+      { "en": "How do you say no to something non-negotiable, politely?", "it": "Come dici di no, con garbo, a qualcosa che non è negoziabile?", "help": "Usa: I'm afraid... / That's a bit difficult for us... / What we could do is..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: negoziare",
+      "show": ["Negotiating", "Il secondo condizionale", "If + passato, would"],
+      "say": [
+        { "lang": "it", "text": "Lezione diciassette. Oggi impari a trattare con clienti e fornitori. Il secondo condizionale è lo strumento principale: serve a fare proposte morbide." },
+        { "lang": "en", "text": "What would it take to close this deal?" }
+      ]
+    },
+    {
+      "title": "La struttura del secondo condizionale",
+      "show": ["If + past simple", "would + verbo base", "If we signed, we would..."],
+      "say": [
+        { "lang": "it", "text": "Il secondo condizionale parla di ipotesi. Dopo if usi il passato semplice, e nella parte principale usi would più il verbo base. Il verbo è al passato, ma il significato non è passato." },
+        { "lang": "en", "text": "If you signed for two years, we would lower the rate." }
+      ]
+    },
+    {
+      "title": "Perché è utile nelle trattative",
+      "show": ["Primo: If you pay, we will", "Secondo: If you paid, we would", "Più morbido e più cortese"],
+      "say": [
+        { "lang": "it", "text": "Il secondo condizionale suona più gentile del primo. Il primo sembra una promessa diretta. Il secondo lascia spazio alla discussione. In una trattativa è molto utile." },
+        { "lang": "en", "text": "If you paid in advance, we would give a discount." }
+      ]
+    },
+    {
+      "title": "Were per tutte le persone",
+      "show": ["If I were you...", "If it were possible...", "Consigli: If I were you, I would..."],
+      "say": [
+        { "lang": "it", "text": "Con il verbo be, dopo if si usa were per tutte le persone, anche per I. If I were you, serve per dare un consiglio. Vuol dire: al posto tuo." },
+        { "lang": "en", "text": "If I were you, I would accept the offer." }
+      ]
+    },
+    {
+      "title": "Could, might e le domande",
+      "show": ["If + passato, could...", "If + passato, might...", "What would you do if...?"],
+      "say": [
+        { "lang": "it", "text": "Al posto di would puoi usare could, che vuol dire potremmo, o might, che vuol dire forse. Nelle domande si usa would you e what would you do if." },
+        { "lang": "en", "text": "If you paid in advance, we could offer a discount." },
+        { "lang": "en", "text": "What would you do if the client refused?" }
+      ]
+    },
+    {
+      "title": "Concedere e chiedere in cambio",
+      "show": ["in return", "provided that", "as long as"],
+      "say": [
+        { "lang": "it", "text": "In una trattativa si dà e si riceve. Per chiedere qualcosa in cambio usa in return. Per mettere una condizione usa provided that oppure as long as." },
+        { "lang": "en", "text": "We could do that, provided that you confirm today." },
+        { "lang": "en", "text": "In return, we would ask for a longer contract." }
+      ]
+    },
+    {
+      "title": "Rifiutare e chiudere",
+      "show": ["I'm afraid that's not possible.", "Let me sleep on it.", "I think we have a deal."],
+      "say": [
+        { "lang": "it", "text": "Per rifiutare con garbo usa I'm afraid. Per prendere tempo usa let me sleep on it. Quando sei d'accordo, chiudi con I think we have a deal e metti tutto per iscritto." },
+        { "lang": "en", "text": "I'm afraid that's not possible." },
+        { "lang": "en", "text": "Let me sleep on it." },
+        { "lang": "en", "text": "I think we have a deal." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["If + passato, would + verbo base", "Con be: were", "Mai would dopo if", "Soft, ipotetico, cortese"],
+      "say": [
+        { "lang": "it", "text": "Riassumiamo. Secondo condizionale: if con il passato, would con il verbo base. Con be usa were. Mai would dopo if. Usalo quando vuoi fare una proposta gentile e lasciare spazio alla trattativa." },
+        { "lang": "en", "text": "I'm glad we found a win-win solution." }
+      ]
+    }
+  ]
+}

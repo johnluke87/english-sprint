@@ -1,0 +1,1265 @@
+{
+  "id": 41,
+  "week": 9,
+  "title": "Phrasal verbs essenziali",
+  "titleEn": "Essential phrasal verbs",
+  "intro": "Oggi impari 50 phrasal verbs molto usati in ufficio, diversi da quelli già visti. Impari anche la regola più importante: alcuni si possono separare, come turn it off, altri no, come look after it. Chi parla inglese li usa di continuo, quindi ti servono per capire e per sembrare naturale.",
+  "goals": [
+    "Riconoscere e usare 50 phrasal verbs comuni nel lavoro",
+    "Sapere quando il complemento va in mezzo (turn it off) e quando va dopo (look after it)",
+    "Mettere il pronome nel posto giusto: turn it off, mai turn off it",
+    "Sostituire un verbo formale con il phrasal verb nel parlato"
+  ],
+  "words": [
+    {
+      "en": "to turn on",
+      "pron": "tèrn on",
+      "it": "accendere (separabile)",
+      "type": "verb",
+      "ex": "Could you turn on the projector, please?",
+      "exIt": "Può accendere il proiettore, per favore?"
+    },
+    {
+      "en": "to turn off",
+      "pron": "tèrn òf",
+      "it": "spegnere (separabile)",
+      "type": "verb",
+      "ex": "Please turn off your phones during the meeting.",
+      "exIt": "Per favore spegnete i telefoni durante la riunione."
+    },
+    {
+      "en": "to turn up",
+      "pron": "tèrn àp",
+      "it": "alzare (il volume); presentarsi (separabile nel primo senso)",
+      "type": "verb",
+      "ex": "Can you turn the volume up? I can't hear you.",
+      "exIt": "Può alzare il volume? Non la sento."
+    },
+    {
+      "en": "to shut down",
+      "pron": "scàt dàun",
+      "it": "spegnere del tutto, chiudere (separabile)",
+      "type": "verb",
+      "ex": "The server shut down by itself last night.",
+      "exIt": "Il server si è spento da solo la scorsa notte."
+    },
+    {
+      "en": "to hand in",
+      "pron": "hànd in",
+      "it": "consegnare (un lavoro, un documento) (separabile)",
+      "type": "verb",
+      "ex": "I have to hand in the report by Friday.",
+      "exIt": "Devo consegnare il report entro venerdì."
+    },
+    {
+      "en": "to write down",
+      "pron": "ràit dàun",
+      "it": "annotare, scrivere (separabile)",
+      "type": "verb",
+      "ex": "Let me write down your phone number.",
+      "exIt": "Lasci che annoti il suo numero di telefono."
+    },
+    {
+      "en": "to look up",
+      "pron": "lùk àp",
+      "it": "cercare (in un dizionario, online) (separabile)",
+      "type": "verb",
+      "ex": "I looked up the word in the dictionary.",
+      "exIt": "Ho cercato la parola nel dizionario."
+    },
+    {
+      "en": "to look after",
+      "pron": "lùk àafter",
+      "it": "prendersi cura di, seguire (non separabile)",
+      "type": "verb",
+      "ex": "Anna looks after the clients in Germany.",
+      "exIt": "Anna segue i clienti in Germania."
+    },
+    {
+      "en": "to give up",
+      "pron": "ghìv àp",
+      "it": "arrendersi, smettere (separabile)",
+      "type": "verb",
+      "ex": "Don't give up. We are almost there.",
+      "exIt": "Non mollare. Ci siamo quasi."
+    },
+    {
+      "en": "to check out",
+      "pron": "cèk àut",
+      "it": "dare un'occhiata a, provare (separabile)",
+      "type": "verb",
+      "ex": "Check out the new design. It looks great.",
+      "exIt": "Dai un'occhiata al nuovo design. Ha un ottimo aspetto."
+    },
+    {
+      "en": "to clean up",
+      "pron": "klìin àp",
+      "it": "ripulire, mettere in ordine (separabile)",
+      "type": "verb",
+      "ex": "I need to clean up the code before the release.",
+      "exIt": "Devo ripulire il codice prima del rilascio."
+    },
+    {
+      "en": "to end up",
+      "pron": "ènd àp",
+      "it": "finire per, ritrovarsi (non ha complemento)",
+      "type": "verb",
+      "ex": "We ended up using a different framework.",
+      "exIt": "Alla fine abbiamo usato un altro framework."
+    },
+    {
+      "en": "to get along with",
+      "pron": "ghèt alòng uìd",
+      "it": "andare d'accordo con (a tre parti)",
+      "type": "verb",
+      "ex": "I get along very well with my colleagues.",
+      "exIt": "Vado molto d'accordo con i miei colleghi."
+    },
+    {
+      "en": "to keep up with",
+      "pron": "kìip àp uìd",
+      "it": "stare al passo con (a tre parti)",
+      "type": "verb",
+      "ex": "It is hard to keep up with new web standards.",
+      "exIt": "È difficile stare al passo con i nuovi standard web."
+    },
+    {
+      "en": "to print out",
+      "pron": "prìnt àut",
+      "it": "stampare (separabile)",
+      "type": "verb",
+      "ex": "Could you print out the contract for me?",
+      "exIt": "Può stamparmi il contratto?"
+    },
+    {
+      "en": "to scroll down",
+      "pron": "skròul dàun",
+      "it": "scorrere verso il basso",
+      "type": "verb",
+      "ex": "Scroll down and click the green button.",
+      "exIt": "Scorri verso il basso e clicca il pulsante verde."
+    },
+    {
+      "en": "to show up",
+      "pron": "scòu àp",
+      "it": "presentarsi, apparire (non ha complemento)",
+      "type": "verb",
+      "ex": "The client didn't show up for the meeting.",
+      "exIt": "Il cliente non si è presentato alla riunione."
+    },
+    {
+      "en": "to try out",
+      "pron": "trài àut",
+      "it": "provare, mettere alla prova (separabile)",
+      "type": "verb",
+      "ex": "We tried out the new tool for a week.",
+      "exIt": "Abbiamo provato il nuovo strumento per una settimana."
+    },
+    {
+      "en": "to throw away",
+      "pron": "tròu auèi",
+      "it": "buttare via (separabile)",
+      "type": "verb",
+      "ex": "Don't throw away the receipts. We need them for the expenses.",
+      "exIt": "Non buttare le ricevute. Ci servono per le note spese."
+    },
+    {
+      "en": "to switch on",
+      "pron": "suìc on",
+      "it": "accendere (separabile)",
+      "type": "verb",
+      "ex": "Please switch on the light.",
+      "exIt": "Per favore accendi la luce."
+    },
+    {
+      "en": "to sign in",
+      "pron": "sàin in",
+      "it": "accedere, fare il login",
+      "type": "verb",
+      "ex": "You need to sign in to see your invoices.",
+      "exIt": "Devi accedere per vedere le tue fatture."
+    },
+    {
+      "en": "to sign out",
+      "pron": "sàin àut",
+      "it": "uscire dall'account",
+      "type": "verb",
+      "ex": "Remember to sign out on shared computers.",
+      "exIt": "Ricordati di uscire dall'account sui computer condivisi."
+    },
+    {
+      "en": "to fill out",
+      "pron": "fìl àut",
+      "it": "compilare (separabile)",
+      "type": "verb",
+      "ex": "Please fill out this form.",
+      "exIt": "Per favore compila questo modulo."
+    },
+    {
+      "en": "to hand out",
+      "pron": "hànd àut",
+      "it": "distribuire (separabile)",
+      "type": "verb",
+      "ex": "I will hand out the printed slides.",
+      "exIt": "Distribuirò le slide stampate."
+    },
+    {
+      "en": "to write up",
+      "pron": "ràit àp",
+      "it": "mettere per iscritto, redigere (separabile)",
+      "type": "verb",
+      "ex": "I need to write up the audit results.",
+      "exIt": "Devo redigere i risultati dell'audit."
+    },
+    {
+      "en": "to jot down",
+      "pron": "dgòt dàun",
+      "it": "annotare in fretta (separabile)",
+      "type": "verb",
+      "ex": "Let me jot down your email address.",
+      "exIt": "Lasci che annoti in fretta il suo indirizzo mail."
+    },
+    {
+      "en": "to take down",
+      "pron": "tèik dàun",
+      "it": "annotare; smontare (separabile)",
+      "type": "verb",
+      "ex": "Could you take down the client's requests?",
+      "exIt": "Puoi annotare le richieste del cliente?"
+    },
+    {
+      "en": "to take up",
+      "pron": "tèik àp",
+      "it": "cominciare, occupare (separabile)",
+      "type": "verb",
+      "ex": "This task takes up too much time.",
+      "exIt": "Questo compito occupa troppo tempo."
+    },
+    {
+      "en": "to put away",
+      "pron": "pùt auèi",
+      "it": "mettere via, riporre (separabile)",
+      "type": "verb",
+      "ex": "Please put away your laptops.",
+      "exIt": "Per favore riponete i portatili."
+    },
+    {
+      "en": "to put together",
+      "pron": "pùt tughèder",
+      "it": "mettere insieme, preparare (separabile)",
+      "type": "verb",
+      "ex": "I will put together a short report.",
+      "exIt": "Preparerò un breve report."
+    },
+    {
+      "en": "to put up with",
+      "pron": "pùt àp uìd",
+      "it": "sopportare (a tre parti)",
+      "type": "verb",
+      "ex": "I can't put up with such a slow server any more.",
+      "exIt": "Non sopporto più un server così lento."
+    },
+    {
+      "en": "to pull out",
+      "pron": "pùl àut",
+      "it": "ritirarsi, estrarre",
+      "type": "verb",
+      "ex": "Our main client pulled out of the deal.",
+      "exIt": "Il nostro cliente principale si è ritirato dall'accordo."
+    },
+    {
+      "en": "to bring in",
+      "pron": "brìng in",
+      "it": "coinvolgere, far entrare (separabile)",
+      "type": "verb",
+      "ex": "We need to bring in an expert on accessibility.",
+      "exIt": "Dobbiamo coinvolgere un esperto di accessibilità."
+    },
+    {
+      "en": "to cut down",
+      "pron": "kàt dàun",
+      "it": "ridurre (separabile)",
+      "type": "verb",
+      "ex": "Could you cut the text down to 200 words?",
+      "exIt": "Puoi ridurre il testo a 200 parole?"
+    },
+    {
+      "en": "to cut back",
+      "pron": "kàt bàk",
+      "it": "tagliare, ridurre (le spese), di solito con on",
+      "type": "verb",
+      "ex": "The company is cutting back on travel.",
+      "exIt": "L'azienda sta riducendo i viaggi."
+    },
+    {
+      "en": "to cross out",
+      "pron": "kròs àut",
+      "it": "cancellare con un segno (separabile)",
+      "type": "verb",
+      "ex": "Cross out the wrong answer.",
+      "exIt": "Cancella la risposta sbagliata."
+    },
+    {
+      "en": "to tick off",
+      "pron": "tìk òf",
+      "it": "spuntare (separabile)",
+      "type": "verb",
+      "ex": "I ticked off each item on the list.",
+      "exIt": "Ho spuntato ogni voce della lista."
+    },
+    {
+      "en": "to check over",
+      "pron": "cèk òuver",
+      "it": "ricontrollare (separabile)",
+      "type": "verb",
+      "ex": "Please check over the contract before you sign.",
+      "exIt": "Ricontrolla il contratto prima di firmare."
+    },
+    {
+      "en": "to drop by",
+      "pron": "dròp bài",
+      "it": "fare un salto, passare",
+      "type": "verb",
+      "ex": "I will drop by your office after lunch.",
+      "exIt": "Faccio un salto nel tuo ufficio dopo pranzo."
+    },
+    {
+      "en": "to fall through",
+      "pron": "fòol trùu",
+      "it": "andare in fumo, saltare",
+      "type": "verb",
+      "ex": "The deal fell through at the last minute.",
+      "exIt": "L'accordo è saltato all'ultimo minuto."
+    },
+    {
+      "en": "to get ahead",
+      "pron": "ghèt ahèd",
+      "it": "avanzare, fare carriera",
+      "type": "verb",
+      "ex": "She wants to get ahead in her career.",
+      "exIt": "Vuole fare strada nella sua carriera."
+    },
+    {
+      "en": "to get across",
+      "pron": "ghèt akròs",
+      "it": "far passare un messaggio (separabile)",
+      "type": "verb",
+      "ex": "It is hard to get this message across.",
+      "exIt": "È difficile far passare questo messaggio."
+    },
+    {
+      "en": "to give out",
+      "pron": "ghìv àut",
+      "it": "distribuire; esaurirsi",
+      "type": "verb",
+      "ex": "The battery gave out during the call.",
+      "exIt": "La batteria si è scaricata durante la chiamata."
+    },
+    {
+      "en": "to go through",
+      "pron": "gòu tru",
+      "it": "esaminare, ripassare",
+      "type": "verb",
+      "ex": "Let's go through the plan once more.",
+      "exIt": "Ripassiamo il piano ancora una volta."
+    },
+    {
+      "en": "to hold back",
+      "pron": "hòuld bàk",
+      "it": "trattenere, frenare (separabile)",
+      "type": "verb",
+      "ex": "Bad communication holds the team back.",
+      "exIt": "La cattiva comunicazione frena il team."
+    },
+    {
+      "en": "to hold up",
+      "pron": "hòuld àp",
+      "it": "ritardare (separabile)",
+      "type": "verb",
+      "ex": "Heavy traffic held us up.",
+      "exIt": "Il traffico ci ha fatto fare tardi."
+    },
+    {
+      "en": "to keep on",
+      "pron": "kìip on",
+      "it": "continuare a",
+      "type": "verb",
+      "ex": "Keep on trying. You will find the error.",
+      "exIt": "Continua a provare. Troverai l'errore."
+    },
+    {
+      "en": "to lay off",
+      "pron": "lèi òf",
+      "it": "licenziare per mancanza di lavoro (separabile)",
+      "type": "verb",
+      "ex": "The company laid off twenty people.",
+      "exIt": "L'azienda ha licenziato venti persone."
+    },
+    {
+      "en": "to leave out",
+      "pron": "lìiv àut",
+      "it": "omettere, escludere (separabile)",
+      "type": "verb",
+      "ex": "Do not leave out any details.",
+      "exIt": "Non omettere nessun dettaglio."
+    },
+    {
+      "en": "to mess up",
+      "pron": "mès àp",
+      "it": "combinare un guaio, sbagliare (separabile)",
+      "type": "verb",
+      "ex": "Sorry, I messed up the file names.",
+      "exIt": "Scusa, ho sbagliato i nomi dei file."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to look up",
+      "it": "cercare in un dizionario o online",
+      "trap": "Non va confuso con look for (cercare qualcosa che hai perso o ti serve, come un'idea o una persona)."
+    },
+    {
+      "en": "to turn up",
+      "it": "presentarsi / alzare il volume",
+      "trap": "Ha due sensi diversi. Controlla il contesto."
+    },
+    {
+      "en": "to check out",
+      "it": "dare un'occhiata / lasciare l'hotel",
+      "trap": "Ha due sensi. In hotel, check out è lasciare la camera."
+    },
+    {
+      "en": "to work out",
+      "it": "calcolare / funzionare / allenarsi",
+      "trap": "Ha tre sensi. Nel lavoro è spesso 'calcolare' o 'andare a buon fine'."
+    }
+  ],
+  "grammar": {
+    "title": "Phrasal verbs separabili e non separabili",
+    "explainIt": [
+      "Un phrasal verb è un verbo più una piccola parola, come on, off, up, down, out, in, back. Insieme hanno spesso un significato nuovo. Turn on vuol dire accendere, non girare sopra. Bisogna impararli come parole intere.",
+      "Alcuni phrasal verbs sono separabili. Il complemento può stare in mezzo o dopo: 'turn off the light' e 'turn the light off' vanno bene tutti e due. Ma se il complemento è un pronome come it, them, him, her, me, deve stare in mezzo: 'turn it off'. Mai 'turn off it'.",
+      "Altri phrasal verbs non sono separabili. Il complemento va sempre dopo, anche se è un pronome: 'look after the clients' e 'look after them'. Mai 'look the clients after'. Sono non separabili: look after, look for, deal with, count on, get along with.",
+      "Altri phrasal verbs non hanno complemento. Sono intransitivi: log in, show up, end up, hold on, move on. Per questo non si dice 'log in the system', ma 'log in to the system', con to dopo.",
+      "Ci sono anche phrasal verbs a tre parti, come come up with, run out of, get back to, keep up with. Sono quasi sempre non separabili. 'We ran out of time.' 'I'll get back to you.'",
+      "Una buona abitudine: quando impari un phrasal verb, scrivi accanto S se è separabile e I se è inseparabile. Nel dubbio, metti un nome dopo la particella, non un pronome: 'turn off the light' e 'look after the clients' sono sempre giusti. Il dizionario segna sempre se il verbo si separa."
+    ],
+    "explainEn": [
+      "A phrasal verb is a verb plus a small word, like on, off, up, down, out, in, back. Together they often have a new meaning. Turn on means to switch on a device, not to rotate above. You have to learn them as whole words.",
+      "Some phrasal verbs are separable. The object can go in the middle or after: 'turn off the light' and 'turn the light off' are both correct. But if the object is a pronoun like it, them, him, her, me, it must go in the middle: 'turn it off'. Never 'turn off it'.",
+      "Other phrasal verbs are inseparable. The object always goes after, even if it is a pronoun: 'look after the clients' and 'look after them'. Never 'look the clients after'. Look after, look for, deal with, count on and get along with are inseparable.",
+      "Other phrasal verbs have no object. They are intransitive: log in, show up, end up, hold on, move on. You cannot say 'log in the system' in this sense: we say 'log in to the system', with to after.",
+      "There are also three-part phrasal verbs, like come up with, run out of, get back to, keep up with. They are almost always inseparable. 'We ran out of time.' 'I'll get back to you.'",
+      "A good habit: when you learn a phrasal verb, write S next to it if it is separable and I if it is inseparable. If you are not sure, put a noun after the particle, not a pronoun: 'turn off the light' and 'look after the clients' are always correct. A dictionary always shows if the verb is separable."
+    ],
+    "rules": [
+      {
+        "it": "Separabili: il complemento può stare in mezzo o dopo.",
+        "en": "Separable: the object can go in the middle or after.",
+        "form": "verbo + complemento + particella  oppure  verbo + particella + complemento",
+        "examples": [
+          {
+            "en": "Please turn off the projector. / Please turn the projector off.",
+            "it": "Per favore spegni il proiettore."
+          },
+          {
+            "en": "I filled in the form. / I filled the form in.",
+            "it": "Ho compilato il modulo."
+          },
+          {
+            "en": "We called off the meeting. / We called the meeting off.",
+            "it": "Abbiamo annullato la riunione."
+          }
+        ]
+      },
+      {
+        "it": "Separabili con pronome: il pronome va sempre in mezzo.",
+        "en": "Separable with a pronoun: the pronoun always goes in the middle.",
+        "form": "verbo + pronome + particella",
+        "examples": [
+          {
+            "en": "The projector is on. Please turn it off.",
+            "it": "Il proiettore è acceso. Per favore spegnilo."
+          },
+          {
+            "en": "I'll print them out now.",
+            "it": "Li stampo subito."
+          },
+          {
+            "en": "I looked it up online.",
+            "it": "L'ho cercato online."
+          }
+        ]
+      },
+      {
+        "it": "Non separabili: il complemento va sempre dopo, anche se è un pronome.",
+        "en": "Inseparable: the object always goes after, even if it is a pronoun.",
+        "form": "verbo + particella + complemento",
+        "examples": [
+          {
+            "en": "Anna looks after the clients. Anna looks after them.",
+            "it": "Anna segue i clienti. Anna li segue."
+          },
+          {
+            "en": "You can count on me.",
+            "it": "Puoi contare su di me."
+          },
+          {
+            "en": "I deal with complaints every day.",
+            "it": "Mi occupo di reclami ogni giorno."
+          }
+        ]
+      },
+      {
+        "it": "Senza complemento: il phrasal verb sta da solo.",
+        "en": "With no object: the phrasal verb stands alone.",
+        "form": "soggetto + verbo + particella",
+        "examples": [
+          {
+            "en": "I can't log in.",
+            "it": "Non riesco ad accedere."
+          },
+          {
+            "en": "The client didn't show up.",
+            "it": "Il cliente non si è presentato."
+          },
+          {
+            "en": "Hold on, please.",
+            "it": "Un attimo, per favore."
+          }
+        ]
+      },
+      {
+        "it": "A tre parti: di solito non separabili.",
+        "en": "Three-part: usually inseparable.",
+        "form": "verbo + particella + preposizione + complemento",
+        "examples": [
+          {
+            "en": "We ran out of time.",
+            "it": "Siamo rimasti senza tempo."
+          },
+          {
+            "en": "I'll get back to you tomorrow.",
+            "it": "Ti rispondo domani."
+          },
+          {
+            "en": "It is hard to keep up with new standards.",
+            "it": "È difficile stare al passo con i nuovi standard."
+          }
+        ]
+      }
+    ],
+    "tip": "Con un pronome (it, them, him, her, me) controlla il verbo: se è separabile il pronome va in mezzo (turn it off), se non lo è va dopo (look after it). Per i dubbi, un dizionario segna sempre sep. o insep.",
+    "mistakes": [
+      {
+        "wrong": "Please turn off it.",
+        "right": "Please turn it off.",
+        "why": "con un pronome, nei phrasal verbs separabili il pronome va in mezzo"
+      },
+      {
+        "wrong": "I looked up it.",
+        "right": "I looked it up.",
+        "why": "look up è separabile: il pronome va in mezzo"
+      },
+      {
+        "wrong": "Anna looks them after.",
+        "right": "Anna looks after them.",
+        "why": "look after non è separabile: il complemento va dopo"
+      },
+      {
+        "wrong": "I can't log in the system.",
+        "right": "I can't log in to the system.",
+        "why": "log in è intransitivo: serve to prima del sistema"
+      },
+      {
+        "wrong": "We ran out time.",
+        "right": "We ran out of time.",
+        "why": "run out of è un verbo a tre parti: serve of"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "The projector is on. Please turn ___ off.",
+      "a": [
+        "it"
+      ],
+      "hint": "pronome in mezzo",
+      "explain": "Turn off è separabile: il pronome va in mezzo, turn it off."
+    },
+    {
+      "q": "I need to print this out. I'll print ___ now. (it out / out it)",
+      "a": [
+        "it out"
+      ],
+      "hint": "pronome in mezzo",
+      "explain": "Print out è separabile: print it out."
+    },
+    {
+      "q": "Anna looks after the clients. She looks after ___.",
+      "a": [
+        "them"
+      ],
+      "hint": "look after non si separa",
+      "explain": "Look after non è separabile: look after them."
+    },
+    {
+      "q": "I can't ___ in. The password is wrong.",
+      "a": [
+        "log", "sign"
+      ],
+      "hint": "accedere",
+      "explain": "Log in (o sign in) = accedere. Qui non ha complemento."
+    },
+    {
+      "q": "We are running ___ of time.",
+      "a": [
+        "out"
+      ],
+      "hint": "esaurire",
+      "explain": "Run out of = finire, esaurire."
+    },
+    {
+      "q": "I will get back ___ you tomorrow.",
+      "a": [
+        "to"
+      ],
+      "hint": "ricontattare",
+      "explain": "Get back to = ricontattare."
+    },
+    {
+      "q": "Could you fill ___ this form, please?",
+      "a": [
+        "in",
+        "out"
+      ],
+      "hint": "compilare",
+      "explain": "Fill in / fill out = compilare."
+    },
+    {
+      "q": "The meeting is cancelled. They called it ___.",
+      "a": [
+        "off"
+      ],
+      "hint": "annullare",
+      "explain": "Call off = annullare."
+    },
+    {
+      "q": "You can ___ on me. (count)",
+      "a": [
+        "count"
+      ],
+      "hint": "contare su",
+      "explain": "Count on = contare su."
+    },
+    {
+      "q": "I don't know the word. I'll look it ___.",
+      "a": [
+        "up"
+      ],
+      "hint": "cercare nel dizionario",
+      "explain": "Look up = cercare."
+    },
+    {
+      "q": "The client didn't show ___ for the meeting.",
+      "a": [
+        "up"
+      ],
+      "hint": "presentarsi",
+      "explain": "Show up = presentarsi."
+    },
+    {
+      "q": "To sum ___, we need more time.",
+      "a": [
+        "up"
+      ],
+      "hint": "riassumere",
+      "explain": "Sum up = riassumere."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Computer e tecnologia",
+      "en": "Could you turn on the projector?",
+      "it": "Può accendere il proiettore?"
+    },
+    {
+      "group": "Computer e tecnologia",
+      "en": "I can't log in. It says my password is wrong.",
+      "it": "Non riesco ad accedere. Dice che la password è sbagliata."
+    },
+    {
+      "group": "Computer e tecnologia",
+      "en": "Please back up the files before the update.",
+      "it": "Fai il backup dei file prima dell'aggiornamento."
+    },
+    {
+      "group": "Computer e tecnologia",
+      "en": "Plug it in and turn it on.",
+      "it": "Collegalo e accendilo."
+    },
+    {
+      "group": "Computer e tecnologia",
+      "en": "Scroll down and click on the link.",
+      "it": "Scorri in basso e clicca sul link."
+    },
+    {
+      "group": "Riunioni",
+      "en": "Let's move on to the next point.",
+      "it": "Passiamo al punto successivo."
+    },
+    {
+      "group": "Riunioni",
+      "en": "To sum up, we agreed on three things.",
+      "it": "Per riassumere, abbiamo concordato tre cose."
+    },
+    {
+      "group": "Riunioni",
+      "en": "We had to put off the meeting until Monday.",
+      "it": "Abbiamo dovuto rimandare la riunione a lunedì."
+    },
+    {
+      "group": "Riunioni",
+      "en": "Let's wrap up. We are out of time.",
+      "it": "Concludiamo. Il tempo è finito."
+    },
+    {
+      "group": "Riunioni",
+      "en": "I'd like to point out a small problem.",
+      "it": "Vorrei far notare un piccolo problema."
+    },
+    {
+      "group": "Telefono e mail",
+      "en": "Hold on, I'll put you through.",
+      "it": "Un attimo, la passo.",
+      "note": "Put through = passare una chiamata a un'altra persona."
+    },
+    {
+      "group": "Telefono e mail",
+      "en": "I'll get back to you by the end of the day.",
+      "it": "Ti rispondo entro la fine della giornata."
+    },
+    {
+      "group": "Telefono e mail",
+      "en": "I'm in a meeting. Can I call you back later?",
+      "it": "Sono in riunione. Posso richiamarti più tardi?"
+    },
+    {
+      "group": "Telefono e mail",
+      "en": "Could you pass on my message to Anna?",
+      "it": "Può riferire il mio messaggio ad Anna?"
+    },
+    {
+      "group": "Telefono e mail",
+      "en": "Please fill in the form and send it back.",
+      "it": "Compili il modulo e ce lo rimandi, per favore."
+    },
+    {
+      "group": "Risolvere problemi",
+      "en": "I can't figure out what is wrong.",
+      "it": "Non riesco a capire che cosa non va."
+    },
+    {
+      "group": "Risolvere problemi",
+      "en": "We need to come up with a better idea.",
+      "it": "Dobbiamo trovare un'idea migliore."
+    },
+    {
+      "group": "Risolvere problemi",
+      "en": "I'll find out and let you know.",
+      "it": "Mi informo e ti faccio sapere."
+    },
+    {
+      "group": "Risolvere problemi",
+      "en": "The server broke down last night.",
+      "it": "Il server si è guastato ieri sera."
+    },
+    {
+      "group": "Risolvere problemi",
+      "en": "Don't give up. We are almost there.",
+      "it": "Non mollare. Ci siamo quasi."
+    },
+    {
+      "group": "Rapporti con i colleghi",
+      "en": "You can count on me.",
+      "it": "Puoi contare su di me."
+    },
+    {
+      "group": "Rapporti con i colleghi",
+      "en": "I get along well with my team.",
+      "it": "Vado d'accordo con il mio team."
+    },
+    {
+      "group": "Rapporti con i colleghi",
+      "en": "I don't want to let the client down.",
+      "it": "Non voglio deludere il cliente."
+    },
+    {
+      "group": "Rapporti con i colleghi",
+      "en": "I'll hand over the project to Anna.",
+      "it": "Passerò il progetto ad Anna."
+    },
+    {
+      "group": "Rapporti con i colleghi",
+      "en": "Who looks after the website?",
+      "it": "Chi si occupa del sito web?"
+    }
+  ],
+  "dialogue": {
+    "title": "A problem with the projector",
+    "context": "Luca deve fare una presentazione ai clienti. Il proiettore non funziona. Chiede aiuto a Tom, un collega, e poi parla con la cliente, Mrs Hill.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Tom, the projector won't turn on. Can you give me a hand?",
+        "it": "Tom, il proiettore non si accende. Mi dai una mano?"
+      },
+      {
+        "s": "B",
+        "name": "Tom",
+        "en": "Sure. Is it plugged in?",
+        "it": "Certo. È collegato alla corrente?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Yes, I plugged it in this morning.",
+        "it": "Sì, l'ho collegato stamattina."
+      },
+      {
+        "s": "B",
+        "name": "Tom",
+        "en": "Let me turn it off and on again. That usually works.",
+        "it": "Lo spengo e lo riaccendo. Di solito funziona."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Good idea. And I can't log in to the computer either. I'll look up the password.",
+        "it": "Buona idea. E non riesco nemmeno ad accedere al computer. Cerco la password."
+      },
+      {
+        "s": "B",
+        "name": "Tom",
+        "en": "You wrote it down yesterday, remember? Here it is, on this piece of paper.",
+        "it": "L'hai annotata ieri, ricordi? Eccola, su questo foglio."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Great, thanks. The client is going to show up in five minutes.",
+        "it": "Ottimo, grazie. Il cliente arriverà tra cinque minuti."
+      },
+      {
+        "s": "B",
+        "name": "Tom",
+        "en": "Don't worry. I'll print out the slides in case it breaks down again.",
+        "it": "Non preoccuparti. Stampo le slide nel caso si guasti di nuovo."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thanks, you can count on me for the next one. Oh, Mrs Hill is here. Good morning!",
+        "it": "Grazie, per la prossima puoi contare su di me. Oh, c'è la signora Hill. Buongiorno!"
+      },
+      {
+        "s": "B",
+        "name": "Mrs Hill",
+        "en": "Good morning. Sorry I'm late. I got held up at the office.",
+        "it": "Buongiorno. Scusate il ritardo. Sono rimasta bloccata in ufficio."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "No problem. Please scroll down on this page to see the budget. I'll sum up the main points first.",
+        "it": "Nessun problema. Scorra questa pagina verso il basso per vedere il budget. Prima riassumo i punti principali."
+      },
+      {
+        "s": "B",
+        "name": "Mrs Hill",
+        "en": "Thank you. Before you start, I have to point out that we turned down the first offer.",
+        "it": "Grazie. Prima di cominciare devo far notare che abbiamo rifiutato la prima offerta."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Yes, I know. That is why we came up with a new plan. We will roll it out in June.",
+        "it": "Sì, lo so. Per questo abbiamo ideato un nuovo piano. Lo lanceremo a giugno."
+      },
+      {
+        "s": "B",
+        "name": "Mrs Hill",
+        "en": "Good. I'll hand it over to my team after the meeting.",
+        "it": "Bene. Dopo la riunione lo passerò al mio team."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Perfect. Shall we move on to the budget?",
+        "it": "Perfetto. Passiamo al budget?"
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What does Tom do first to fix the projector?",
+      "options": [
+        "He turns it off and on again",
+        "He calls the technician",
+        "He buys a new cable"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Where is the computer password?",
+      "options": [
+        "In an email",
+        "On a piece of paper Luca wrote yesterday",
+        "On the projector"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Why is Mrs Hill late?",
+      "options": [
+        "Her train broke down",
+        "She got held up at the office",
+        "She got lost"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does Luca say they will do in June?",
+      "options": [
+        "Roll out the new plan",
+        "Call off the project",
+        "Hand over the contract"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Per favore, spegni il proiettore.",
+      "en": "Please turn off the projector.",
+      "alt": [
+        "Please turn the projector off."
+      ]
+    },
+    {
+      "it": "Il proiettore è acceso. Spegnilo.",
+      "en": "The projector is on. Turn it off.",
+      "alt": [
+        "The projector is on. Please turn it off."
+      ]
+    },
+    {
+      "it": "Non riesco ad accedere al sistema.",
+      "en": "I can't log in to the system.",
+      "alt": [
+        "I can't log into the system.",
+        "I am unable to log in to the system."
+      ]
+    },
+    {
+      "it": "Fai il backup dei file prima di aggiornare.",
+      "en": "Back up the files before updating.",
+      "alt": [
+        "Back the files up before updating.",
+        "Please back up the files before you update."
+      ]
+    },
+    {
+      "it": "Ho dovuto rimandare la riunione.",
+      "en": "I had to put off the meeting.",
+      "alt": [
+        "I had to put the meeting off.",
+        "I had to postpone the meeting."
+      ]
+    },
+    {
+      "it": "Mi serve compilare questo modulo.",
+      "en": "I need to fill in this form.",
+      "alt": [
+        "I need to fill out this form.",
+        "I need to fill this form in."
+      ]
+    },
+    {
+      "it": "Ti richiamo tra un'ora.",
+      "en": "I'll call you back in an hour.",
+      "alt": [
+        "I will call you back in one hour.",
+        "I'll call you back in an hour's time."
+      ]
+    },
+    {
+      "it": "Non riesco a capire perché il sito è lento.",
+      "en": "I can't figure out why the site is slow.",
+      "alt": [
+        "I can't work out why the site is slow.",
+        "I can't figure out why the website is slow."
+      ]
+    },
+    {
+      "it": "Dobbiamo trovare una soluzione migliore.",
+      "en": "We need to come up with a better solution.",
+      "alt": [
+        "We have to come up with a better solution."
+      ]
+    },
+    {
+      "it": "Il tempo sta per finire.",
+      "en": "We are running out of time.",
+      "alt": [
+        "We're running out of time.", "Time is running out."
+      ]
+    },
+    {
+      "it": "Puoi contare su di me.",
+      "en": "You can count on me.",
+      "alt": [
+        "You can rely on me."
+      ]
+    },
+    {
+      "it": "Passiamo al punto successivo.",
+      "en": "Let's move on to the next point.",
+      "alt": [
+        "Let's move on to the next item.",
+        "Let's move on to the next topic."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a un collega, Tom, per organizzare una presentazione. Chiedigli di stampare le slide, di accendere il proiettore prima dell'arrivo del cliente e di annotarti la password del computer. Di' che sai di poter contare su di lui. Usa almeno quattro phrasal verbs con il pronome nel posto giusto. Scrivi 5-8 righe.",
+    "taskEn": "Write an email to a colleague, Tom, to organise a presentation. Ask him to print out the slides, turn on the projector before the client arrives and write down the computer password for you. Say that you know you can count on him. Use at least four phrasal verbs with the pronoun in the right place. Write 5-8 lines.",
+    "model": "Subject: Presentation on Thursday\n\nHi Tom,\n\nThe client is coming at ten on Thursday. Could you print out the slides and bring them to the meeting room? Please turn the projector on before they arrive. If it doesn't work, turn it off and on again.\n\nCould you also write down the computer password for me? I always forget it.\n\nI know I can count on you. If you run into any problems, let me know and we'll sort them out together.\n\nBest,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Could you turn on the projector, please?",
+      "The projector is on. Please turn it off.",
+      "I can't log in to the system.",
+      "I'll get back to you by the end of the day.",
+      "We need to come up with a better solution.",
+      "We are running out of time. Let's wrap up.",
+      "You can count on me.",
+      "Let's move on to the next point."
+    ],
+    "prompts": [
+      {
+        "en": "What do you do before you shut down your computer in the evening?",
+        "it": "Che cosa fai prima di spegnere il computer la sera?",
+        "help": "Usa: I back up..., I log out of..., I turn off..."
+      },
+      {
+        "en": "Describe a time when something broke down at work.",
+        "it": "Descrivi una volta in cui qualcosa si è guastato al lavoro.",
+        "help": "Usa: ... broke down. I had to find out... We ended up..."
+      },
+      {
+        "en": "Who looks after your clients?",
+        "it": "Chi segue i tuoi clienti?",
+        "help": "Usa look after, deal with, count on."
+      },
+      {
+        "en": "You are at the end of a meeting. Sum up what you decided.",
+        "it": "Sei alla fine di una riunione. Riassumi che cosa avete deciso.",
+        "help": "Usa: To sum up... / Let's wrap up..."
+      },
+      {
+        "en": "How do you keep up with new technology?",
+        "it": "Come resti al passo con le nuove tecnologie?",
+        "help": "Usa: I keep up with... by reading / by trying out..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: i phrasal verbs",
+      "show": [
+        "Essential phrasal verbs",
+        "turn it off / look after it"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Questa è la lezione quarantuno. Oggi impari cinquanta phrasal verbs molto usati in ufficio."
+        },
+        {
+          "lang": "it",
+          "text": "Un phrasal verb è un verbo più una piccola parola, come on, off, up o out. Insieme hanno un significato nuovo."
+        }
+      ]
+    },
+    {
+      "title": "Che cos'è un phrasal verb",
+      "show": [
+        "turn + on = accendere",
+        "log + in = accedere",
+        "run + out of = finire"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Non si traducono parola per parola. Turn on vuol dire accendere. Log in vuol dire accedere. Impara l'espressione intera."
+        },
+        {
+          "lang": "en",
+          "text": "Could you turn on the projector? I can't log in."
+        }
+      ]
+    },
+    {
+      "title": "Separabili",
+      "show": [
+        "turn off the light",
+        "turn the light off",
+        "turn it off"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Molti phrasal verbs si possono separare. Il complemento può stare in mezzo o dopo."
+        },
+        {
+          "lang": "en",
+          "text": "Please turn off the projector. Please turn the projector off."
+        }
+      ]
+    },
+    {
+      "title": "Il pronome va in mezzo",
+      "show": [
+        "turn it off",
+        "NO: turn off it",
+        "print them out"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Quando il complemento è un pronome, come it o them, deve stare in mezzo."
+        },
+        {
+          "lang": "en",
+          "text": "The projector is on. Please turn it off."
+        },
+        {
+          "lang": "en",
+          "text": "I'll print them out now."
+        }
+      ]
+    },
+    {
+      "title": "Non separabili",
+      "show": [
+        "look after the clients",
+        "look after them",
+        "NO: look them after"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Altri phrasal verbs non si separano. Il complemento va sempre dopo, anche se è un pronome."
+        },
+        {
+          "lang": "en",
+          "text": "Anna looks after the clients. Anna looks after them."
+        },
+        {
+          "lang": "en",
+          "text": "You can count on me."
+        }
+      ]
+    },
+    {
+      "title": "Senza complemento e a tre parti",
+      "show": [
+        "log in, show up, hold on",
+        "run out of, get back to, keep up with"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Alcuni phrasal verbs non hanno complemento. Altri hanno tre parti e non si separano."
+        },
+        {
+          "lang": "en",
+          "text": "I can't log in. The client didn't show up."
+        },
+        {
+          "lang": "en",
+          "text": "We ran out of time. I'll get back to you tomorrow."
+        }
+      ]
+    },
+    {
+      "title": "Phrasal verbs per le riunioni",
+      "show": [
+        "move on",
+        "sum up",
+        "wrap up",
+        "put off",
+        "point out"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Ecco alcuni phrasal verbs perfetti per le riunioni."
+        },
+        {
+          "lang": "en",
+          "text": "Let's move on to the next point. To sum up, we agreed on three things."
+        },
+        {
+          "lang": "en",
+          "text": "Let's wrap up. We are out of time."
+        }
+      ]
+    },
+    {
+      "title": "Phrasal verbs per i problemi",
+      "show": [
+        "figure out",
+        "come up with",
+        "find out",
+        "break down",
+        "give up"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "E questi servono quando qualcosa non funziona."
+        },
+        {
+          "lang": "en",
+          "text": "I can't figure out what is wrong. We need to come up with a better idea."
+        },
+        {
+          "lang": "en",
+          "text": "Don't give up. We are almost there."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "S: turn it off",
+        "I: look after it",
+        "Impara le coppie intere"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Se il phrasal verb si separa, il pronome va in mezzo. Se non si separa, il pronome va dopo. Impara ogni phrasal verb con un esempio."
+        },
+        {
+          "lang": "it",
+          "text": "Ora scegli cinque phrasal verbs e scrivi una frase vera sul tuo lavoro per ciascuno."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1242 @@
+{
+  "id": 23,
+  "week": 5,
+  "title": "Riassumere e riferire",
+  "titleEn": "Summarising and reporting",
+  "intro": "Al lavoro devi spesso riassumere una riunione, riferire cosa ha detto il cliente o girare un messaggio a un collega. Oggi impari il discorso indiretto (he said that..., she asked if...) e le parole per fare riassunti chiari: punti chiave, decisioni prese e prossimi passi.",
+  "goals": [
+    "Riferire che cosa ha detto o chiesto qualcuno, con i tempi verbali giusti",
+    "Scrivere un riassunto breve e chiaro di una riunione o di una chiamata",
+    "Usare i verbi per riferire: say, tell, ask, explain, promise, warn, suggest",
+    "Elencare decisioni prese e prossimi passi in modo professionale"
+  ],
+  "words": [
+    {
+      "en": "summary",
+      "pron": "sàmari",
+      "it": "riassunto",
+      "type": "noun",
+      "ex": "I'll send you a short summary of the call.",
+      "exIt": "Ti mando un breve riassunto della chiamata."
+    },
+    {
+      "en": "to summarise",
+      "pron": "sàmaraiz",
+      "it": "riassumere",
+      "type": "verb",
+      "ex": "Can you summarise the main points for us?",
+      "exIt": "Puoi riassumerci i punti principali?"
+    },
+    {
+      "en": "recap",
+      "pron": "rìikap",
+      "it": "riepilogo, ripasso veloce",
+      "type": "noun",
+      "ex": "Here is a quick recap of what we decided.",
+      "exIt": "Ecco un rapido riepilogo di ciò che abbiamo deciso."
+    },
+    {
+      "en": "to debrief",
+      "pron": "dibrìif",
+      "it": "fare il punto dopo un evento",
+      "type": "verb",
+      "ex": "We debriefed right after the client call.",
+      "exIt": "Abbiamo fatto il punto subito dopo la chiamata col cliente."
+    },
+    {
+      "en": "to outline",
+      "pron": "àutlain",
+      "it": "delineare, riassumere a grandi linee",
+      "type": "verb",
+      "ex": "I'll outline the plan in two minutes.",
+      "exIt": "Descrivo il piano a grandi linee in due minuti."
+    },
+    {
+      "en": "overview",
+      "pron": "òuvarviù",
+      "it": "panoramica",
+      "type": "noun",
+      "ex": "This document gives an overview of the project.",
+      "exIt": "Questo documento dà una panoramica del progetto."
+    },
+    {
+      "en": "key point",
+      "pron": "kìi pòint",
+      "it": "punto chiave",
+      "type": "noun",
+      "ex": "The key point is that the deadline cannot move.",
+      "exIt": "Il punto chiave è che la scadenza non può spostarsi."
+    },
+    {
+      "en": "takeaway",
+      "pron": "tèikauei",
+      "it": "spunto, cosa da portarsi a casa",
+      "type": "noun",
+      "ex": "The main takeaway is that users want faster pages.",
+      "exIt": "Il messaggio principale è che gli utenti vogliono pagine più veloci."
+    },
+    {
+      "en": "highlight",
+      "pron": "hàilait",
+      "it": "punto saliente",
+      "type": "noun",
+      "ex": "The highlight of the audit was the contrast test.",
+      "exIt": "Il punto saliente dell'audit è stato il test sul contrasto."
+    },
+    {
+      "en": "gist",
+      "pron": "gìst",
+      "it": "il succo, il senso generale",
+      "type": "noun",
+      "ex": "I only got the gist of what he said.",
+      "exIt": "Ho capito solo il succo di quello che ha detto."
+    },
+    {
+      "en": "in a nutshell",
+      "pron": "in a nàtscel",
+      "it": "in poche parole",
+      "type": "phrase",
+      "ex": "In a nutshell, the site needs a new menu.",
+      "exIt": "In poche parole, il sito ha bisogno di un nuovo menu."
+    },
+    {
+      "en": "in short",
+      "pron": "in sciòrt",
+      "it": "in breve",
+      "type": "phrase",
+      "ex": "In short, we need more time.",
+      "exIt": "In breve, ci serve più tempo."
+    },
+    {
+      "en": "all in all",
+      "pron": "òl in òl",
+      "it": "tutto sommato",
+      "type": "phrase",
+      "ex": "All in all, the project went well.",
+      "exIt": "Tutto sommato il progetto è andato bene."
+    },
+    {
+      "en": "to sum up",
+      "pron": "sàm àp",
+      "it": "riassumere, concludere",
+      "type": "phrase",
+      "ex": "To sum up, we agreed on three changes.",
+      "exIt": "Riassumendo, abbiamo concordato tre modifiche."
+    },
+    {
+      "en": "to conclude",
+      "pron": "konklùud",
+      "it": "concludere",
+      "type": "verb",
+      "ex": "We concluded that the problem was in the plugin.",
+      "exIt": "Abbiamo concluso che il problema era nel plugin."
+    },
+    {
+      "en": "conclusion",
+      "pron": "konklùugian",
+      "it": "conclusione",
+      "type": "noun",
+      "ex": "The conclusion of the report is clear.",
+      "exIt": "La conclusione del report è chiara."
+    },
+    {
+      "en": "finding",
+      "pron": "fàinding",
+      "it": "risultato, scoperta (di un'analisi)",
+      "type": "noun",
+      "ex": "The main finding is that most pages are too slow.",
+      "exIt": "Il risultato principale è che la maggior parte delle pagine è troppo lenta."
+    },
+    {
+      "en": "to report back",
+      "pron": "ripòrt bàk",
+      "it": "riferire, fare rapporto",
+      "type": "phrase",
+      "ex": "Sam will report back after the test.",
+      "exIt": "Sam riferirà dopo il test."
+    },
+    {
+      "en": "to describe",
+      "pron": "diskràib",
+      "it": "descrivere",
+      "type": "verb",
+      "ex": "He described the problem in detail.",
+      "exIt": "Ha descritto il problema nei dettagli."
+    },
+    {
+      "en": "decisions made",
+      "pron": "disìgianz mèid",
+      "it": "decisioni prese",
+      "type": "phrase",
+      "ex": "The decisions made today are in the minutes.",
+      "exIt": "Le decisioni prese oggi sono nel verbale."
+    },
+    {
+      "en": "headline",
+      "pron": "hèdlain",
+      "it": "titolo, messaggio principale",
+      "type": "noun",
+      "ex": "The headline is that sales grew by ten percent.",
+      "exIt": "Il messaggio principale è che le vendite sono cresciute del dieci per cento."
+    },
+    {
+      "en": "bullet point",
+      "pron": "bùlit pòint",
+      "it": "punto elenco",
+      "type": "noun",
+      "ex": "I wrote the summary as a list of bullet points.",
+      "exIt": "Ho scritto il riassunto come elenco puntato."
+    },
+    {
+      "en": "to report",
+      "pron": "ripòrt",
+      "it": "riferire, riportare",
+      "type": "verb",
+      "ex": "She reported that the server was down.",
+      "exIt": "Ha riferito che il server era fuori servizio."
+    },
+    {
+      "en": "to state",
+      "pron": "stèit",
+      "it": "dichiarare, affermare",
+      "type": "verb",
+      "ex": "The contract states that payment is due in 30 days.",
+      "exIt": "Il contratto stabilisce che il pagamento va fatto entro 30 giorni."
+    },
+    {
+      "en": "to announce",
+      "pron": "anàuns",
+      "it": "annunciare",
+      "type": "verb",
+      "ex": "The manager announced that the office would move.",
+      "exIt": "Il direttore ha annunciato che l'ufficio si sarebbe trasferito."
+    },
+    {
+      "en": "to mention",
+      "pron": "mènscian",
+      "it": "menzionare, accennare",
+      "type": "verb",
+      "ex": "He mentioned that he would be on holiday next week.",
+      "exIt": "Ha accennato che la settimana prossima sarebbe stato in ferie."
+    },
+    {
+      "en": "to claim",
+      "pron": "klèim",
+      "it": "sostenere, affermare",
+      "type": "verb",
+      "ex": "The client claims that he never received the file.",
+      "exIt": "Il cliente sostiene di non aver mai ricevuto il file."
+    },
+    {
+      "en": "to note",
+      "pron": "nòut",
+      "it": "annotare, notare",
+      "type": "verb",
+      "ex": "Please note that the office is closed on Friday.",
+      "exIt": "Si ricorda che venerdì l'ufficio è chiuso."
+    },
+    {
+      "en": "to promise",
+      "pron": "pròmis",
+      "it": "promettere",
+      "type": "verb",
+      "ex": "He promised that he would call back.",
+      "exIt": "Ha promesso che avrebbe richiamato."
+    },
+    {
+      "en": "to warn",
+      "pron": "uòrn",
+      "it": "avvertire",
+      "type": "verb",
+      "ex": "She warned us that the deadline was tight.",
+      "exIt": "Ci ha avvertiti che la scadenza era stretta."
+    },
+    {
+      "en": "roundup",
+      "pron": "ràundap",
+      "it": "sintesi, rassegna",
+      "type": "noun",
+      "ex": "Here is the weekly roundup.",
+      "exIt": "Ecco la sintesi settimanale."
+    },
+    {
+      "en": "to put it simply",
+      "pron": "pùt it sìmpli",
+      "it": "per dirla semplicemente",
+      "type": "phrase",
+      "ex": "To put it simply, we need more time.",
+      "exIt": "Per dirla semplicemente, ci serve più tempo."
+    },
+    {
+      "en": "to inform",
+      "pron": "infòrm",
+      "it": "informare",
+      "type": "verb",
+      "ex": "I'd like to inform you that the site is live.",
+      "exIt": "Desidero informarti che il sito è online."
+    },
+    {
+      "en": "to add",
+      "pron": "àd",
+      "it": "aggiungere",
+      "type": "verb",
+      "ex": "He added that the price did not include VAT.",
+      "exIt": "Ha aggiunto che il prezzo non includeva l'IVA."
+    },
+    {
+      "en": "to quote someone",
+      "pron": "kuòut sàmuan",
+      "it": "citare qualcuno",
+      "type": "phrase",
+      "ex": "I'm quoting the client directly.",
+      "exIt": "Sto citando direttamente il cliente."
+    },
+    {
+      "en": "to acknowledge",
+      "pron": "aknòlidg",
+      "it": "riconoscere, confermare di aver ricevuto",
+      "type": "verb",
+      "ex": "He acknowledged that the error was ours.",
+      "exIt": "Ha riconosciuto che l'errore era nostro."
+    },
+    {
+      "en": "to deny",
+      "pron": "dinài",
+      "it": "negare",
+      "type": "verb",
+      "ex": "The supplier denied that there was a delay.",
+      "exIt": "Il fornitore ha negato che ci fosse un ritardo."
+    },
+    {
+      "en": "to enquire",
+      "pron": "inkuàiar",
+      "it": "chiedere informazioni",
+      "type": "verb",
+      "ex": "He enquired whether we offer training.",
+      "exIt": "Ha chiesto se offriamo formazione."
+    },
+    {
+      "en": "synopsis",
+      "pron": "sinòpsis",
+      "it": "sintesi, sunto",
+      "type": "noun",
+      "ex": "I wrote a short synopsis of the call.",
+      "exIt": "Ho scritto una breve sintesi della chiamata."
+    },
+    {
+      "en": "to relay",
+      "pron": "rilèi",
+      "it": "riportare, trasmettere",
+      "type": "verb",
+      "ex": "I was asked to relay a message from the client.",
+      "exIt": "Mi hanno chiesto di riportare un messaggio del cliente."
+    },
+    {
+      "en": "to paraphrase",
+      "pron": "pàrafreiz",
+      "it": "parafrasare, riformulare",
+      "type": "verb",
+      "ex": "I'll paraphrase what he said in the call.",
+      "exIt": "Parafraso quello che ha detto nella chiamata."
+    },
+    {
+      "en": "abstract",
+      "pron": "àbstrakt",
+      "it": "riassunto breve (di un testo)",
+      "type": "noun",
+      "ex": "The abstract is only five lines.",
+      "exIt": "Il riassunto è di sole cinque righe."
+    },
+    {
+      "en": "to take notes",
+      "pron": "tèik nòuts",
+      "it": "prendere appunti",
+      "type": "phrase",
+      "ex": "I always take notes during a call.",
+      "exIt": "Prendo sempre appunti durante una chiamata."
+    },
+    {
+      "en": "notes",
+      "pron": "nòuts",
+      "it": "appunti",
+      "type": "noun",
+      "ex": "My notes are in the shared folder.",
+      "exIt": "I miei appunti sono nella cartella condivisa."
+    },
+    {
+      "en": "to circulate",
+      "pron": "sèrkiuleit",
+      "it": "far circolare, distribuire",
+      "type": "verb",
+      "ex": "I'll circulate the summary to everyone today.",
+      "exIt": "Oggi faccio girare il riassunto a tutti."
+    },
+    {
+      "en": "to document",
+      "pron": "dòkiument",
+      "it": "documentare",
+      "type": "verb",
+      "ex": "Please document every change you make.",
+      "exIt": "Per favore documenta ogni modifica che fai."
+    },
+    {
+      "en": "as discussed",
+      "pron": "az diskàst",
+      "it": "come discusso",
+      "type": "phrase",
+      "ex": "As discussed, I'm sending you the new version.",
+      "exIt": "Come discusso, ti mando la nuova versione."
+    },
+    {
+      "en": "according to",
+      "pron": "akòrding tu",
+      "it": "secondo (una fonte)",
+      "type": "prep",
+      "ex": "According to the client, the page is too slow.",
+      "exIt": "Secondo il cliente, la pagina è troppo lenta."
+    },
+    {
+      "en": "to brief",
+      "pron": "brìif",
+      "it": "informare, dare istruzioni preliminari",
+      "type": "verb",
+      "ex": "I'll brief the new developer tomorrow morning.",
+      "exIt": "Domani mattina informo il nuovo sviluppatore."
+    },
+    {
+      "en": "wrap-up",
+      "pron": "ràp àp",
+      "it": "chiusura, riepilogo finale",
+      "type": "noun",
+      "ex": "I'll do a quick wrap-up at the end.",
+      "exIt": "Farò un rapido riepilogo finale alla fine."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to say / to tell",
+      "it": "dire",
+      "trap": "Say non vuole la persona subito dopo: 'He said to me that...'. Tell la vuole: 'He told me that...'. Non si dice 'He said me'."
+    },
+    {
+      "en": "to remind",
+      "it": "ricordare a qualcuno",
+      "trap": "To remind = far ricordare. To remember = ricordare. Non confonderli: 'Remind me to call him', 'I remember his name'."
+    },
+    {
+      "en": "to retire",
+      "it": "andare in pensione",
+      "trap": "Non vuol dire 'ritirare'. To retire = andare in pensione. Per 'ritirare' si usa to withdraw o to collect."
+    }
+  ],
+  "grammar": {
+    "title": "Il discorso indiretto",
+    "explainIt": [
+      "Il discorso indiretto serve a riferire ciò che qualcuno ha detto, senza ripetere le parole esatte. Il discorso diretto è: Anna said, 'I am busy.' Il discorso indiretto è: Anna said that she was busy. Si usa continuamente per riassumere riunioni, mail e telefonate.",
+      "La regola principale: il tempo verbale fa un passo indietro nel passato. Il presente diventa passato: 'I am busy' diventa 'she was busy'. Il present perfect diventa past perfect. Il past simple diventa past perfect. Will diventa would, can diventa could, may diventa might. Questo succede quando il verbo che riferisce è al passato, come said, told, asked.",
+      "Cambiano anche i pronomi e le espressioni di tempo e luogo. 'I' diventa he o she, 'my' diventa his o her. 'Today' diventa that day, 'tomorrow' diventa the next day o the following day, 'yesterday' diventa the day before, 'now' diventa then, 'here' diventa there. Dipende da quando riferisci: se parli lo stesso giorno, puoi lasciare today.",
+      "Said e told. Si dice 'He said that...' oppure 'He told me that...'. Dopo told c'è sempre la persona: 'He told me, he told the client'. Dopo said no: non si dice 'He said me'. That si può omettere: 'He said he was late'.",
+      "Per le domande indirette riferite, si usa ask. Con una domanda sì o no si usa if o whether: 'She asked if I was free.' Con una parola interrogativa si usa quella parola: 'He asked where the file was.' Nota che l'ordine è normale, senza inversione, come nelle domande indirette della lezione precedente. Non si mette il punto interrogativo.",
+      "Per ordini e richieste si usa il verbo + to + infinito: 'She told me to call him', 'He asked me not to send it.' Altri verbi utili per riferire sono promise, warn, suggest, admit, deny, explain, announce. Dopo promise e warn si può usare lo schema 'promised to + infinito' o 'promised that + frase'. Attenzione a suggest: si dice 'He suggested that we wait' oppure 'He suggested waiting', mai 'He suggested me to wait'. Se la cosa riferita è ancora vera, puoi lasciare il tempo presente: 'He said the server is down' funziona se il server è ancora fuori servizio."
+    ],
+    "explainEn": [
+      "Reported speech is used to tell someone what another person said, without repeating the exact words. Direct speech: Anna said, 'I am busy.' Reported speech: Anna said that she was busy. We use it all the time to summarise meetings, emails and phone calls.",
+      "The main rule is that the tense goes one step back into the past. The present becomes past: 'I am busy' becomes 'she was busy'. The present perfect and the past simple become the past perfect. Will becomes would, can becomes could and may becomes might. This happens when the reporting verb is in the past, like said, told or asked.",
+      "Pronouns, and time and place words, also change. 'I' becomes he or she, 'my' becomes his or her. 'Today' becomes that day, 'tomorrow' becomes the next day, 'yesterday' becomes the day before, 'now' becomes then, and 'here' becomes there. It depends on when you report: if you speak on the same day, you can keep today.",
+      "Say and tell. We say 'He said that...' or 'He told me that...'. After tell, we always need the person: 'He told me, he told the client'. After say, we do not: not 'He said me'. We can leave out that: 'He said he was late'.",
+      "To report questions, we use ask. For a yes or no question, we use if or whether: 'She asked if I was free.' For a question word, we keep it: 'He asked where the file was.' The word order is normal, with no inversion, as in indirect questions. There is no question mark.",
+      "For orders and requests we use verb + to + infinitive: 'She told me to call him', 'He asked me not to send it.' Other useful reporting verbs are promise, warn, suggest, admit, deny, explain and announce. Be careful with suggest: we say 'He suggested that we wait' or 'He suggested waiting', never 'He suggested me to wait'. If the information is still true, you can keep the present tense: 'He said the server is down' is fine if it is still down."
+    ],
+    "rules": [
+      {
+        "it": "Il tempo verbale fa un passo indietro: presente diventa passato, passato diventa past perfect.",
+        "en": "The tense goes one step back: present becomes past, past becomes past perfect.",
+        "form": "present → past; past → past perfect; will → would; can → could",
+        "examples": [
+          {
+            "en": "'I am busy.' → She said that she was busy.",
+            "it": "'Sono occupata.' → Ha detto che era occupata."
+          },
+          {
+            "en": "'I sent the file.' → He said that he had sent the file.",
+            "it": "'Ho inviato il file.' → Ha detto di aver inviato il file."
+          },
+          {
+            "en": "'I will call you.' → She said that she would call me.",
+            "it": "'Ti chiamerò.' → Ha detto che mi avrebbe chiamato."
+          }
+        ]
+      },
+      {
+        "it": "Cambiano pronomi ed espressioni di tempo e luogo, secondo il punto di vista di chi riferisce.",
+        "en": "Pronouns and time and place words change, depending on the point of view.",
+        "form": "today → that day; tomorrow → the next day; here → there",
+        "examples": [
+          {
+            "en": "'I'll send it tomorrow.' → He said he would send it the next day.",
+            "it": "'Lo mando domani.' → Ha detto che l'avrebbe mandato il giorno dopo."
+          },
+          {
+            "en": "'We moved here last year.' → She said they had moved there the year before.",
+            "it": "'Ci siamo trasferiti qui l'anno scorso.' → Ha detto che si erano trasferiti lì l'anno prima."
+          }
+        ]
+      },
+      {
+        "it": "Say non vuole la persona. Tell vuole sempre la persona.",
+        "en": "Say has no object person. Tell always has one.",
+        "form": "say that + frase / tell + persona + that + frase",
+        "examples": [
+          {
+            "en": "She said that the page was slow.",
+            "it": "Ha detto che la pagina era lenta."
+          },
+          {
+            "en": "She told me that the page was slow.",
+            "it": "Mi ha detto che la pagina era lenta."
+          },
+          {
+            "en": "He told the client that the price was final.",
+            "it": "Ha detto al cliente che il prezzo era definitivo."
+          }
+        ]
+      },
+      {
+        "it": "Per riferire una domanda si usa ask. Con sì o no: if o whether. L'ordine è normale e non c'è il punto interrogativo.",
+        "en": "To report a question, use ask. For yes or no, use if or whether. Normal word order, no question mark.",
+        "form": "asked + if / whether / parola interrogativa + soggetto + verbo",
+        "examples": [
+          {
+            "en": "'Is the report ready?' → She asked if the report was ready.",
+            "it": "'Il report è pronto?' → Ha chiesto se il report era pronto."
+          },
+          {
+            "en": "'Where is the file?' → He asked where the file was.",
+            "it": "'Dov'è il file?' → Ha chiesto dov'era il file."
+          },
+          {
+            "en": "'When can you start?' → They asked when I could start.",
+            "it": "'Quando puoi cominciare?' → Hanno chiesto quando potevo cominciare."
+          }
+        ]
+      },
+      {
+        "it": "Per ordini e richieste: told / asked + persona + to + infinito. Per il negativo: not to.",
+        "en": "For orders and requests: told / asked + person + to + infinitive. Negative: not to.",
+        "form": "told me to + verbo / asked me not to + verbo",
+        "examples": [
+          {
+            "en": "'Send me the file.' → She told me to send her the file.",
+            "it": "'Mandami il file.' → Mi ha detto di mandarle il file."
+          },
+          {
+            "en": "'Please don't share it.' → He asked me not to share it.",
+            "it": "'Per favore non condividerlo.' → Mi ha chiesto di non condividerlo."
+          }
+        ]
+      }
+    ],
+    "tip": "Pensa a un passo indietro nel tempo: se qualcuno ha parlato prima, tu riferisci dopo, quindi anche il verbo va indietro. Per le domande ricorda: niente do, niente inversione, niente punto interrogativo, e if per sì o no.",
+    "mistakes": [
+      {
+        "wrong": "He said me that the site was down.",
+        "right": "He told me that the site was down.",
+        "why": "con la persona si usa tell, non say"
+      },
+      {
+        "wrong": "She asked me where was the file.",
+        "right": "She asked me where the file was.",
+        "why": "nella domanda riferita l'ordine è normale"
+      },
+      {
+        "wrong": "He asked if did I send the report.",
+        "right": "He asked if I had sent the report.",
+        "why": "senza did, e il past simple diventa past perfect"
+      },
+      {
+        "wrong": "Yesterday she said that she will call me.",
+        "right": "Yesterday she said that she would call me.",
+        "why": "will diventa would quando si riferisce al passato"
+      },
+      {
+        "wrong": "He told to me to call him.",
+        "right": "He told me to call him.",
+        "why": "tell non vuole la preposizione to prima della persona"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "'I am busy.' → She said that she ___ busy.",
+      "a": [
+        "was"
+      ],
+      "hint": "un passo indietro",
+      "explain": "am diventa was."
+    },
+    {
+      "q": "'I will call you.' → He said that he ___ call me.",
+      "a": [
+        "would"
+      ],
+      "hint": "will",
+      "explain": "will diventa would."
+    },
+    {
+      "q": "'I can start Monday.' → She said that she ___ start on Monday.",
+      "a": [
+        "could"
+      ],
+      "hint": "can",
+      "explain": "can diventa could."
+    },
+    {
+      "q": "'I sent the file.' → He said that he ___ sent the file.",
+      "a": [
+        "had"
+      ],
+      "hint": "past perfect",
+      "explain": "Il past simple diventa past perfect: had sent."
+    },
+    {
+      "q": "He ___ me that the server was down. (say/tell)",
+      "a": [
+        "told"
+      ],
+      "hint": "c'è la persona",
+      "explain": "Con la persona si usa tell."
+    },
+    {
+      "q": "She ___ that the deadline was Friday. (say/tell)",
+      "a": [
+        "said"
+      ],
+      "hint": "senza persona",
+      "explain": "Senza persona si usa say."
+    },
+    {
+      "q": "'Is the report ready?' → He asked ___ the report was ready.",
+      "a": [
+        "if",
+        "whether"
+      ],
+      "hint": "domanda sì o no",
+      "explain": "Per sì o no si usa if o whether."
+    },
+    {
+      "q": "'Where is the file?' → She asked where the file ___.",
+      "a": [
+        "was"
+      ],
+      "hint": "ordine normale",
+      "explain": "Ordine normale e verbo al passato."
+    },
+    {
+      "q": "'Call me tomorrow.' → She told me ___ call her the next day.",
+      "a": [
+        "to"
+      ],
+      "hint": "ordine",
+      "explain": "told + persona + to + infinito."
+    },
+    {
+      "q": "'Don't send it.' → He asked me ___ to send it.",
+      "a": [
+        "not"
+      ],
+      "hint": "negativo",
+      "explain": "Il negativo è not to + infinito."
+    },
+    {
+      "q": "'I'll send it tomorrow.' → He said he would send it the ___ day.",
+      "a": [
+        "next",
+        "following"
+      ],
+      "hint": "tomorrow",
+      "explain": "tomorrow diventa the next day o the following day."
+    },
+    {
+      "q": "'We have finished.' → They said they ___ finished.",
+      "a": [
+        "had"
+      ],
+      "hint": "present perfect",
+      "explain": "Il present perfect diventa past perfect: had finished."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Introdurre un riassunto",
+      "en": "Let me give you a quick summary of the meeting.",
+      "it": "Ti faccio un rapido riassunto della riunione."
+    },
+    {
+      "group": "Introdurre un riassunto",
+      "en": "In a nutshell, we agreed to delay the launch.",
+      "it": "In poche parole, abbiamo deciso di rinviare il lancio."
+    },
+    {
+      "group": "Introdurre un riassunto",
+      "en": "To sum up, there are three key points.",
+      "it": "Riassumendo, ci sono tre punti chiave."
+    },
+    {
+      "group": "Introdurre un riassunto",
+      "en": "Here's a recap of what we decided today.",
+      "it": "Ecco un riepilogo di ciò che abbiamo deciso oggi."
+    },
+    {
+      "group": "Introdurre un riassunto",
+      "en": "All in all, it was a productive meeting.",
+      "it": "Tutto sommato è stata una riunione produttiva."
+    },
+    {
+      "group": "Riferire cosa ha detto qualcuno",
+      "en": "She said that she would send the file by Friday.",
+      "it": "Ha detto che avrebbe mandato il file entro venerdì."
+    },
+    {
+      "group": "Riferire cosa ha detto qualcuno",
+      "en": "He told me that the client was unhappy.",
+      "it": "Mi ha detto che il cliente era scontento."
+    },
+    {
+      "group": "Riferire cosa ha detto qualcuno",
+      "en": "According to Marco, the problem is in the plugin.",
+      "it": "Secondo Marco, il problema è nel plugin."
+    },
+    {
+      "group": "Riferire cosa ha detto qualcuno",
+      "en": "The client mentioned that they might need more pages.",
+      "it": "Il cliente ha accennato che potrebbe servire qualche pagina in più."
+    },
+    {
+      "group": "Riferire cosa ha detto qualcuno",
+      "en": "He promised to get back to us by Monday.",
+      "it": "Ha promesso di ricontattarci entro lunedì."
+    },
+    {
+      "group": "Riferire domande e richieste",
+      "en": "She asked if we could move the call to Thursday.",
+      "it": "Ha chiesto se potevamo spostare la chiamata a giovedì."
+    },
+    {
+      "group": "Riferire domande e richieste",
+      "en": "He asked me where the invoice was.",
+      "it": "Mi ha chiesto dov'era la fattura."
+    },
+    {
+      "group": "Riferire domande e richieste",
+      "en": "They asked us to send the quote again.",
+      "it": "Ci hanno chiesto di mandare di nuovo il preventivo."
+    },
+    {
+      "group": "Riferire domande e richieste",
+      "en": "Anna asked whether the page was accessible.",
+      "it": "Anna ha chiesto se la pagina era accessibile."
+    },
+    {
+      "group": "Riferire domande e richieste",
+      "en": "He told me not to worry about it.",
+      "it": "Mi ha detto di non preoccuparmene."
+    },
+    {
+      "group": "Decisioni e prossimi passi",
+      "en": "The decisions made today are listed below.",
+      "it": "Le decisioni prese oggi sono elencate qui sotto."
+    },
+    {
+      "group": "Decisioni e prossimi passi",
+      "en": "The next steps are as follows.",
+      "it": "I prossimi passi sono i seguenti."
+    },
+    {
+      "group": "Decisioni e prossimi passi",
+      "en": "It was agreed that Paolo would send the draft by Tuesday.",
+      "it": "Si è concordato che Paolo avrebbe inviato la bozza entro martedì."
+    },
+    {
+      "group": "Decisioni e prossimi passi",
+      "en": "We still need to confirm the final date.",
+      "it": "Dobbiamo ancora confermare la data definitiva."
+    },
+    {
+      "group": "Decisioni e prossimi passi",
+      "en": "Please let me know if I have missed anything.",
+      "it": "Fammi sapere se ho dimenticato qualcosa."
+    },
+    {
+      "group": "Girare un messaggio",
+      "en": "I'll pass on your message to the team.",
+      "it": "Riferirò il tuo messaggio al team."
+    },
+    {
+      "group": "Girare un messaggio",
+      "en": "As discussed, I'm sending you the notes from the call.",
+      "it": "Come discusso, ti mando gli appunti della chiamata."
+    },
+    {
+      "group": "Girare un messaggio",
+      "en": "I was asked to let you know that the office is closed on Monday.",
+      "it": "Mi hanno chiesto di farti sapere che lunedì l'ufficio è chiuso."
+    },
+    {
+      "group": "Girare un messaggio",
+      "en": "Could you brief the new developer on the project?",
+      "it": "Puoi aggiornare il nuovo sviluppatore sul progetto?"
+    },
+    {
+      "group": "Girare un messaggio",
+      "en": "I'll circulate the minutes to everyone by tomorrow.",
+      "it": "Farò girare il verbale a tutti entro domani."
+    }
+  ],
+  "dialogue": {
+    "title": "Reporting back to the manager",
+    "context": "Giulia torna da una chiamata con un cliente e riferisce al suo responsabile Marco quello che si sono detti. Marco fa domande per capire.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "Hi Giulia, how was the call with the client?",
+        "it": "Ciao Giulia, com'è andata la chiamata con il cliente?"
+      },
+      {
+        "s": "B",
+        "name": "Giulia",
+        "en": "Good, overall. Let me give you a quick summary. He said that he was happy with the design.",
+        "it": "Bene, nel complesso. Ti faccio un breve riassunto. Ha detto di essere contento del design."
+      },
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "Great. Did he mention the deadline?",
+        "it": "Bene. Ha parlato della scadenza?"
+      },
+      {
+        "s": "B",
+        "name": "Giulia",
+        "en": "Yes. He told me that the launch had to be on 15 June, and he asked if we could confirm it.",
+        "it": "Sì. Mi ha detto che il lancio doveva essere il 15 giugno e ha chiesto se potevamo confermarlo."
+      },
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "And what did you say?",
+        "it": "E tu che cosa hai detto?"
+      },
+      {
+        "s": "B",
+        "name": "Giulia",
+        "en": "I said that I would check with the team and call him back tomorrow.",
+        "it": "Ho detto che avrei controllato con il team e lo avrei richiamato domani."
+      },
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "Good. Did he say anything about the budget?",
+        "it": "Bene. Ha detto qualcosa sul budget?"
+      },
+      {
+        "s": "B",
+        "name": "Giulia",
+        "en": "He said that he couldn't pay more, but he promised to approve the extra pages.",
+        "it": "Ha detto che non poteva pagare di più, ma ha promesso di approvare le pagine in più."
+      },
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "Interesting. Did he ask about the accessibility audit?",
+        "it": "Interessante. Ha chiesto dell'audit di accessibilità?"
+      },
+      {
+        "s": "B",
+        "name": "Giulia",
+        "en": "Yes. He asked whether the site would be compliant by launch.",
+        "it": "Sì. Ha chiesto se il sito sarebbe stato conforme al lancio."
+      },
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "What did you tell him?",
+        "it": "Che cosa gli hai risposto?"
+      },
+      {
+        "s": "B",
+        "name": "Giulia",
+        "en": "I told him that we had found twelve issues and that we were fixing them.",
+        "it": "Gli ho detto che avevamo trovato dodici problemi e che li stavamo correggendo."
+      },
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "Perfect. So, the next steps are to confirm the date and finish the audit fixes.",
+        "it": "Perfetto. Quindi i prossimi passi sono confermare la data e finire le correzioni dell'audit."
+      },
+      {
+        "s": "B",
+        "name": "Giulia",
+        "en": "Exactly. I'll circulate the notes this afternoon.",
+        "it": "Esatto. Farò girare gli appunti questo pomeriggio."
+      },
+      {
+        "s": "A",
+        "name": "Marco",
+        "en": "Thanks. Please mention in the notes that the schedule is tight.",
+        "it": "Grazie. Nelle note scrivi pure che i tempi sono stretti."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What did the client say about the design?",
+      "options": [
+        "He was happy with it",
+        "He wanted to change it",
+        "He had not seen it"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which date did the client mention for the launch?",
+      "options": [
+        "15 June",
+        "1 July",
+        "30 May"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What did the client promise about the budget?",
+      "options": [
+        "To pay more",
+        "To approve the extra pages",
+        "To cancel the pages"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What are the next steps?",
+      "options": [
+        "Confirm the date and finish the audit fixes",
+        "Change the design and ask for a refund",
+        "Hire a new developer"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Ha detto che era occupato.",
+      "en": "He said that he was busy.",
+      "alt": [
+        "He said he was busy.",
+        "He told me that he was busy."
+      ]
+    },
+    {
+      "it": "Mi ha detto che avrebbe mandato il file venerdì.",
+      "en": "She told me that she would send the file on Friday.",
+      "alt": [
+        "She told me she would send the file on Friday.",
+        "She said that she would send the file on Friday."
+      ]
+    },
+    {
+      "it": "Il cliente ha chiesto se il sito era accessibile.",
+      "en": "The client asked if the website was accessible.",
+      "alt": [
+        "The client asked whether the website was accessible.",
+        "The client asked if the site was accessible."
+      ]
+    },
+    {
+      "it": "Mi ha chiesto dov'era la fattura.",
+      "en": "He asked me where the invoice was.",
+      "alt": [
+        "He asked where the invoice was."
+      ]
+    },
+    {
+      "it": "Mi ha detto di non preoccuparmi.",
+      "en": "She told me not to worry.",
+      "alt": [
+        "She told me not to worry about it.",
+        "She said not to worry."
+      ]
+    },
+    {
+      "it": "Hanno promesso di richiamare entro lunedì.",
+      "en": "They promised to call back by Monday.",
+      "alt": [
+        "They promised to call us back by Monday.",
+        "They promised that they would call back by Monday."
+      ]
+    },
+    {
+      "it": "Secondo Marco, il problema è nel plugin.",
+      "en": "According to Marco, the problem is in the plugin.",
+      "alt": [
+        "According to Marco, the issue is in the plugin."
+      ]
+    },
+    {
+      "it": "Riassumendo, abbiamo deciso tre cose.",
+      "en": "To sum up, we decided three things.",
+      "alt": [
+        "To sum up, we have decided three things.",
+        "In summary, we decided three things.",
+        "To summarise, we decided three things."
+      ]
+    },
+    {
+      "it": "Ti faccio un breve riassunto della chiamata.",
+      "en": "Let me give you a quick summary of the call.",
+      "alt": [
+        "I'll give you a quick summary of the call.",
+        "Let me give you a short summary of the call."
+      ]
+    },
+    {
+      "it": "Ha ammesso di aver fatto un errore.",
+      "en": "He admitted that he had made a mistake.",
+      "alt": [
+        "He admitted he had made a mistake.",
+        "He admitted making a mistake."
+      ]
+    },
+    {
+      "it": "Ci ha avvertiti che la scadenza era stretta.",
+      "en": "She warned us that the deadline was tight.",
+      "alt": [
+        "She warned us the deadline was tight.",
+        "She warned us that we had a tight deadline."
+      ]
+    },
+    {
+      "it": "Ha detto che aveva già inviato il report.",
+      "en": "He said that he had already sent the report.",
+      "alt": [
+        "He said he had already sent the report.",
+        "He told me that he had already sent the report."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Hai appena finito una telefonata con un cliente che si chiama Luca Verdi. Ha detto che il sito è lento sul telefono, ha chiesto se puoi sistemarlo entro il 10 maggio, ha promesso di mandarti le foto nuove entro venerdì e ti ha ricordato che il budget non cambia. Scrivi una mail di riassunto per il tuo collega Marco. Usa il discorso indiretto con almeno cinque verbi diversi (said, told, asked, promised, reminded). Chiudi con i prossimi passi.",
+    "taskEn": "You have just finished a phone call with a client called Luca Verdi. He said the site is slow on mobile, asked if you can fix it by 10 May, promised to send you the new photos by Friday, and reminded you that the budget does not change. Write a summary email to your colleague Marco. Use reported speech with at least five different verbs (said, told, asked, promised, reminded). Finish with the next steps.",
+    "model": "Subject: Summary of the call with Luca Verdi\n\nHi Marco,\n\nHere's a quick summary of my call with Luca Verdi this morning.\n\nHe told me that the site was too slow on mobile phones. He asked if we could fix it by 10 May. I said that we would check the schedule and let him know.\n\nHe promised that he would send us the new photos by Friday. He also reminded me that the budget could not change.\n\nNext steps:\n- I'll check the schedule and confirm the date to Luca by tomorrow.\n- You could look into the speed problem on mobile.\n- We're waiting for the photos by Friday.\n\nPlease let me know if I have missed anything.\n\nBest regards,\nAndrea"
+  },
+  "speaking": {
+    "shadowing": [
+      "Let me give you a quick summary of the meeting.",
+      "She said that she would send the file by Friday.",
+      "He told me that the client was happy with the design.",
+      "The client asked if we could confirm the date.",
+      "According to Marco, the problem is in the plugin.",
+      "To sum up, we agreed on three things.",
+      "The next steps are to confirm the date and finish the tests.",
+      "Please let me know if I have missed anything."
+    ],
+    "prompts": [
+      {
+        "en": "Summarise your last working day in four sentences.",
+        "it": "Riassumi la tua ultima giornata di lavoro in quattro frasi.",
+        "help": "Usa: In a nutshell... / First... / Then... / All in all..."
+      },
+      {
+        "en": "What did your client say in your last conversation?",
+        "it": "Che cosa ha detto il tuo cliente nell'ultima conversazione?",
+        "help": "Usa: He said that... / She asked if..."
+      },
+      {
+        "en": "Tell me what a colleague asked you this week.",
+        "it": "Dimmi che cosa ti ha chiesto un collega questa settimana.",
+        "help": "Usa: He asked me if... / She asked me to..."
+      },
+      {
+        "en": "How do you report a problem to your manager?",
+        "it": "Come riferisci un problema al tuo responsabile?",
+        "help": "Usa: I told him that... / I explained that..."
+      },
+      {
+        "en": "What are the next steps for your current project?",
+        "it": "Quali sono i prossimi passi del tuo progetto attuale?",
+        "help": "Usa: The next steps are... / We need to..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": [
+        "Summarising and reporting",
+        "Riassumere e riferire",
+        "Il discorso indiretto"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi impari a riassumere e a riferire ciò che dicono gli altri. Ti serve ogni volta che scrivi il verbale di una riunione o giri un messaggio a un collega."
+        },
+        {
+          "lang": "it",
+          "text": "Studiamo il discorso indiretto, e le espressioni per fare riassunti chiari."
+        }
+      ]
+    },
+    {
+      "title": "Che cos'è il discorso indiretto",
+      "show": [
+        "Direct: I am busy.",
+        "Reported: She said that she was busy."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il discorso diretto riporta le parole esatte. Il discorso indiretto le riferisce con parole tue."
+        },
+        {
+          "lang": "en",
+          "text": "Anna said, I am busy."
+        },
+        {
+          "lang": "en",
+          "text": "Anna said that she was busy."
+        }
+      ]
+    },
+    {
+      "title": "Un passo indietro",
+      "show": [
+        "am → was",
+        "sent → had sent",
+        "will → would",
+        "can → could"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il tempo del verbo fa un passo indietro. Il presente diventa passato. Il passato diventa past perfect. Will diventa would e can diventa could."
+        },
+        {
+          "lang": "en",
+          "text": "He said that he would call me."
+        },
+        {
+          "lang": "en",
+          "text": "She said that she had sent the file."
+        }
+      ]
+    },
+    {
+      "title": "Say e tell",
+      "show": [
+        "said that...",
+        "told me that...",
+        "NO: said me"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Dopo say non c'è la persona. Dopo tell, sì. Non si dice said me, ma told me."
+        },
+        {
+          "lang": "en",
+          "text": "She said that the page was slow."
+        },
+        {
+          "lang": "en",
+          "text": "She told me that the page was slow."
+        }
+      ]
+    },
+    {
+      "title": "Riferire le domande",
+      "show": [
+        "asked if...",
+        "asked where...",
+        "ordine normale",
+        "senza punto interrogativo"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per le domande si usa ask. Con sì o no si usa if o whether. L'ordine è normale, senza do e senza punto interrogativo."
+        },
+        {
+          "lang": "en",
+          "text": "She asked if the report was ready."
+        },
+        {
+          "lang": "en",
+          "text": "He asked where the file was."
+        }
+      ]
+    },
+    {
+      "title": "Ordini e richieste",
+      "show": [
+        "told me to call",
+        "asked me not to send",
+        "verb + to + infinitive"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per riferire un ordine o una richiesta si usa told o asked, poi la persona, poi to e il verbo. Per il negativo si usa not to."
+        },
+        {
+          "lang": "en",
+          "text": "She told me to call her."
+        },
+        {
+          "lang": "en",
+          "text": "He asked me not to share it."
+        }
+      ]
+    },
+    {
+      "title": "Riassumere: espressioni chiave",
+      "show": [
+        "In a nutshell...",
+        "To sum up...",
+        "The next steps are..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per un buon riassunto, comincia con una di queste frasi. Poi elenca le decisioni prese e i prossimi passi."
+        },
+        {
+          "lang": "en",
+          "text": "In a nutshell, we agreed to delay the launch."
+        },
+        {
+          "lang": "en",
+          "text": "The next steps are as follows."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "said / told",
+        "asked if / asked where",
+        "told me to",
+        "next steps"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riepilogo. Il verbo fa un passo indietro. Said senza persona, told con la persona. Le domande hanno l'ordine normale. E ricorda sempre di chiudere con i prossimi passi."
+        },
+        {
+          "lang": "it",
+          "text": "Ora scrivi il tuo riassunto e ripeti le frasi ad alta voce. Alla prossima lezione."
+        }
+      ]
+    }
+  ]
+}

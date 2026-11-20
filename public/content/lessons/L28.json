@@ -1,0 +1,1227 @@
+{
+  "id": 28,
+  "week": 6,
+  "title": "Proposte commerciali",
+  "titleEn": "Business proposals",
+  "intro": "Oggi impari a scrivere e presentare una proposta commerciale in inglese: obiettivi, fasi, tempi, consegne e valore per il cliente. Studi due forme del futuro che servono proprio per i piani di lavoro: will be + -ing (cosa starai facendo) e will have + participio (cosa avrai già finito).",
+  "goals": [
+    "Scrivere le parti principali di una proposta: obiettivi, approccio, tempi, consegne e valore",
+    "Usare will be + -ing per descrivere cosa succederà in un certo periodo",
+    "Usare will have + participio per dire cosa sarà già finito entro una data",
+    "Presentare il valore della proposta al cliente in modo chiaro e convincente"
+  ],
+  "words": [
+    {
+      "en": "pricing",
+      "pron": "pràising",
+      "it": "prezzi, politica dei prezzi",
+      "type": "noun",
+      "ex": "The pricing is on the last page.",
+      "exIt": "I prezzi sono nell'ultima pagina."
+    },
+    {
+      "en": "objective",
+      "pron": "abgèktiv",
+      "it": "obiettivo",
+      "type": "noun",
+      "ex": "The main objective is to increase online sales.",
+      "exIt": "L'obiettivo principale è aumentare le vendite online."
+    },
+    {
+      "en": "acceptance",
+      "pron": "aksèptans",
+      "it": "accettazione",
+      "type": "noun",
+      "ex": "Payment follows the client's acceptance.",
+      "exIt": "Il pagamento segue l'accettazione del cliente."
+    },
+    {
+      "en": "value proposition",
+      "pron": "vàliu propazìscian",
+      "it": "proposta di valore (perché il cliente dovrebbe scegliere noi)",
+      "type": "noun",
+      "ex": "Our value proposition is simple: a faster site in eight weeks.",
+      "exIt": "La nostra proposta di valore è semplice: un sito più veloce in otto settimane."
+    },
+    {
+      "en": "feasibility",
+      "pron": "fiizibìliti",
+      "it": "fattibilità",
+      "type": "noun",
+      "ex": "We checked the feasibility of the plan.",
+      "exIt": "Abbiamo verificato la fattibilità del piano."
+    },
+    {
+      "en": "value",
+      "pron": "vàliu",
+      "it": "valore",
+      "type": "noun",
+      "ex": "We want to show the value of the project.",
+      "exIt": "Vogliamo mostrare il valore del progetto."
+    },
+    {
+      "en": "turnaround time",
+      "pron": "tèrnaraund tàim",
+      "it": "tempo di consegna",
+      "type": "noun",
+      "ex": "Our turnaround time is five days.",
+      "exIt": "Il nostro tempo di consegna è di cinque giorni."
+    },
+    {
+      "en": "bespoke",
+      "pron": "bispòuk",
+      "it": "su misura",
+      "type": "adj",
+      "ex": "We build bespoke websites.",
+      "exIt": "Realizziamo siti su misura."
+    },
+    {
+      "en": "exclusion",
+      "pron": "iksklùugian",
+      "it": "esclusione",
+      "type": "noun",
+      "ex": "The exclusions are listed on page three.",
+      "exIt": "Le esclusioni sono elencate a pagina tre."
+    },
+    {
+      "en": "validity",
+      "pron": "valìditi",
+      "it": "validità",
+      "type": "noun",
+      "ex": "Validity: 30 days from the date of this proposal.",
+      "exIt": "Validità: 30 giorni dalla data di questa proposta."
+    },
+    {
+      "en": "approach",
+      "pron": "apròuc",
+      "it": "approccio, metodo",
+      "type": "noun",
+      "ex": "Our approach is simple: listen, design, test.",
+      "exIt": "Il nostro approccio è semplice: ascoltare, progettare, testare."
+    },
+    {
+      "en": "iteration",
+      "pron": "itarèiscian",
+      "it": "ciclo di lavoro, iterazione",
+      "type": "noun",
+      "ex": "Each iteration lasts two weeks.",
+      "exIt": "Ogni ciclo di lavoro dura due settimane."
+    },
+    {
+      "en": "onboarding",
+      "pron": "onbòrding",
+      "it": "avvio, inserimento",
+      "type": "noun",
+      "ex": "Onboarding takes one week.",
+      "exIt": "L'avvio richiede una settimana."
+    },
+    {
+      "en": "training",
+      "pron": "trèining",
+      "it": "formazione",
+      "type": "noun",
+      "ex": "Training for your staff is included.",
+      "exIt": "La formazione per il vostro personale è inclusa."
+    },
+    {
+      "en": "kick-off",
+      "pron": "kìk òf",
+      "it": "avvio del progetto",
+      "type": "noun",
+      "ex": "The kick-off meeting is on Monday.",
+      "exIt": "La riunione di avvio è lunedì."
+    },
+    {
+      "en": "maintenance",
+      "pron": "mèintanans",
+      "it": "manutenzione",
+      "type": "noun",
+      "ex": "Maintenance is billed monthly.",
+      "exIt": "La manutenzione si fattura ogni mese."
+    },
+    {
+      "en": "sign-off",
+      "pron": "sàin òf",
+      "it": "approvazione finale",
+      "type": "noun",
+      "ex": "We need your sign-off before the launch.",
+      "exIt": "Ci serve la vostra approvazione finale prima del lancio."
+    },
+    {
+      "en": "roll-out",
+      "pron": "ròul àut",
+      "it": "diffusione graduale, messa in produzione",
+      "type": "noun",
+      "ex": "The roll-out will happen in two stages.",
+      "exIt": "La messa in produzione avverrà in due fasi."
+    },
+    {
+      "en": "return on investment",
+      "pron": "ritèrn on invèstment",
+      "it": "ritorno sull'investimento",
+      "type": "noun",
+      "ex": "The return on investment should be visible within a year.",
+      "exIt": "Il ritorno sull'investimento dovrebbe vedersi entro un anno."
+    },
+    {
+      "en": "competitive advantage",
+      "pron": "kompètitiv advàantidg",
+      "it": "vantaggio competitivo",
+      "type": "noun",
+      "ex": "A fast website gives you a competitive advantage.",
+      "exIt": "Un sito veloce vi dà un vantaggio competitivo."
+    },
+    {
+      "en": "uptime",
+      "pron": "àptaim",
+      "it": "tempo di attività",
+      "type": "noun",
+      "ex": "We guarantee 99.9 percent uptime.",
+      "exIt": "Garantiamo che il sito sia online il 99,9 per cento del tempo."
+    },
+    {
+      "en": "measurable",
+      "pron": "mègiurabol",
+      "it": "misurabile",
+      "type": "adj",
+      "ex": "Every objective is clear and measurable.",
+      "exIt": "Ogni obiettivo è chiaro e misurabile."
+    },
+    {
+      "en": "to commission",
+      "pron": "komìscian",
+      "it": "commissionare",
+      "type": "verb",
+      "ex": "The client commissioned a new site.",
+      "exIt": "Il cliente ha commissionato un nuovo sito."
+    },
+    {
+      "en": "ambitious",
+      "pron": "ambìscias",
+      "it": "ambizioso",
+      "type": "adj",
+      "ex": "The schedule is ambitious but possible.",
+      "exIt": "Il calendario è ambizioso ma possibile."
+    },
+    {
+      "en": "end-to-end",
+      "pron": "ènd tu ènd",
+      "it": "completo, dall'inizio alla fine",
+      "type": "adj",
+      "ex": "We offer an end-to-end service, from design to hosting.",
+      "exIt": "Offriamo un servizio completo, dal design all'hosting."
+    },
+    {
+      "en": "long-term",
+      "pron": "lòng tèrm",
+      "it": "a lungo termine",
+      "type": "adj",
+      "ex": "We are looking for a long-term partnership.",
+      "exIt": "Cerchiamo una collaborazione a lungo termine."
+    },
+    {
+      "en": "to iterate",
+      "pron": "ìtereit",
+      "it": "procedere per cicli, iterare",
+      "type": "verb",
+      "ex": "We iterate on the design every week.",
+      "exIt": "Rivediamo il design ogni settimana."
+    },
+    {
+      "en": "to achieve",
+      "pron": "acìiv",
+      "it": "raggiungere, ottenere",
+      "type": "verb",
+      "ex": "We aim to achieve a faster load time.",
+      "exIt": "Puntiamo a ottenere un tempo di caricamento più veloce."
+    },
+    {
+      "en": "to allocate",
+      "pron": "àlokeit",
+      "it": "assegnare, destinare",
+      "type": "verb",
+      "ex": "We have allocated two developers to the project.",
+      "exIt": "Abbiamo assegnato due sviluppatori al progetto."
+    },
+    {
+      "en": "to commit to",
+      "pron": "komìt tu",
+      "it": "impegnarsi a",
+      "type": "verb",
+      "ex": "We commit to finishing by the end of June.",
+      "exIt": "Ci impegniamo a finire entro fine giugno."
+    },
+    {
+      "en": "service level",
+      "pron": "sèrvis lèvol",
+      "it": "livello di servizio",
+      "type": "noun",
+      "ex": "The service level is in the contract.",
+      "exIt": "Il livello di servizio è nel contratto."
+    },
+    {
+      "en": "to quote for",
+      "pron": "kuòut for",
+      "it": "fare un preventivo per",
+      "type": "phrase",
+      "ex": "We quoted for the whole redesign.",
+      "exIt": "Abbiamo fatto un preventivo per tutto il restyling."
+    },
+    {
+      "en": "tailor-made",
+      "pron": "tèilar mèid",
+      "it": "fatto su misura",
+      "type": "adj",
+      "ex": "The plan is tailor-made for you.",
+      "exIt": "Il piano è fatto su misura per voi."
+    },
+    {
+      "en": "to tailor",
+      "pron": "tèilor",
+      "it": "adattare su misura",
+      "type": "verb",
+      "ex": "We tailor each proposal to the client's needs.",
+      "exIt": "Adattiamo ogni proposta alle esigenze del cliente."
+    },
+    {
+      "en": "to ensure",
+      "pron": "inscòor",
+      "it": "assicurare, garantire",
+      "type": "verb",
+      "ex": "Regular tests ensure the quality of the work.",
+      "exIt": "Test regolari garantiscono la qualità del lavoro."
+    },
+    {
+      "en": "go-ahead",
+      "pron": "gòu ahèd",
+      "it": "via libera",
+      "type": "noun",
+      "ex": "We are waiting for your go-ahead.",
+      "exIt": "Aspettiamo il vostro via libera."
+    },
+    {
+      "en": "short-term",
+      "pron": "sciòort tèrm",
+      "it": "a breve termine",
+      "type": "adj",
+      "ex": "This is a short-term fix.",
+      "exIt": "È una soluzione a breve termine."
+    },
+    {
+      "en": "client brief",
+      "pron": "klàiant brìif",
+      "it": "brief del cliente, richiesta scritta del cliente",
+      "type": "noun",
+      "ex": "We read the client brief carefully.",
+      "exIt": "Abbiamo letto con attenzione la richiesta del cliente."
+    },
+    {
+      "en": "to partner with",
+      "pron": "pàartnar uìd",
+      "it": "collaborare con",
+      "type": "phrase",
+      "ex": "We partner with local designers.",
+      "exIt": "Collaboriamo con designer locali."
+    },
+    {
+      "en": "to extend",
+      "pron": "ikstènd",
+      "it": "estendere, prolungare",
+      "type": "verb",
+      "ex": "We can extend the offer until Friday.",
+      "exIt": "Possiamo prolungare l'offerta fino a venerdì."
+    },
+    {
+      "en": "by then",
+      "pron": "bài dèn",
+      "it": "per allora, a quel punto",
+      "type": "phrase",
+      "ex": "The site will be live in June. By then, we will have trained your staff.",
+      "exIt": "Il sito sarà online a giugno. Per allora avremo formato il vostro personale."
+    },
+    {
+      "en": "to enhance",
+      "pron": "inhàans",
+      "it": "migliorare, potenziare",
+      "type": "verb",
+      "ex": "This update will enhance security.",
+      "exIt": "Questo aggiornamento potenzierà la sicurezza."
+    },
+    {
+      "en": "milestone payment",
+      "pron": "màilstoun pèiment",
+      "it": "pagamento legato a una tappa del progetto",
+      "type": "noun",
+      "ex": "We use milestone payments.",
+      "exIt": "Usiamo pagamenti legati alle tappe del progetto."
+    },
+    {
+      "en": "proposal deadline",
+      "pron": "propòuzal dèdlain",
+      "it": "termine per presentare la proposta",
+      "type": "noun",
+      "ex": "The proposal deadline is Friday.",
+      "exIt": "Il termine per presentare la proposta è venerdì."
+    },
+    {
+      "en": "to submit",
+      "pron": "sabmìt",
+      "it": "presentare, inviare",
+      "type": "verb",
+      "ex": "We will submit the proposal tomorrow.",
+      "exIt": "Presenteremo la proposta domani."
+    },
+    {
+      "en": "from start to finish",
+      "pron": "from stàart tu fìnisc",
+      "it": "dall'inizio alla fine",
+      "type": "phrase",
+      "ex": "We will support you from start to finish.",
+      "exIt": "Vi accompagneremo dall'inizio alla fine."
+    },
+    {
+      "en": "in the coming weeks",
+      "pron": "in de kàming uìiks",
+      "it": "nelle prossime settimane",
+      "type": "phrase",
+      "ex": "In the coming weeks, we will be testing the new design.",
+      "exIt": "Nelle prossime settimane testeremo il nuovo design."
+    },
+    {
+      "en": "unit price",
+      "pron": "iùnit pràis",
+      "it": "prezzo unitario",
+      "type": "noun",
+      "ex": "The unit price is in the table.",
+      "exIt": "Il prezzo unitario è nella tabella."
+    },
+    {
+      "en": "day rate",
+      "pron": "dèi rèit",
+      "it": "tariffa giornaliera",
+      "type": "noun",
+      "ex": "Our day rate includes meetings.",
+      "exIt": "La nostra tariffa giornaliera include le riunioni."
+    },
+    {
+      "en": "to take into account",
+      "pron": "tèik intu akàunt",
+      "it": "tenere conto di",
+      "type": "phrase",
+      "ex": "We have taken your feedback into account.",
+      "exIt": "Abbiamo tenuto conto del vostro riscontro."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to deliver",
+      "it": "consegnare",
+      "trap": "Non vuol dire 'deliberare' (= to decide). Si usa per consegnare lavoro, prodotti o risultati."
+    },
+    {
+      "en": "eventually",
+      "it": "alla fine",
+      "trap": "Non vuol dire 'eventualmente' (= if necessary, possibly)."
+    },
+    {
+      "en": "to assume",
+      "it": "supporre, dare per scontato",
+      "trap": "Non vuol dire 'assumere' una persona (= to hire, to employ). 'We assume the content is ready' = Diamo per scontato che i contenuti siano pronti."
+    }
+  ],
+  "grammar": {
+    "title": "Futuro avanzato: will be + -ing e will have + participio",
+    "explainIt": [
+      "In una proposta devi spiegare cosa succederà nel tempo. Per questo ti servono due futuri più precisi del semplice will. Il primo è il futuro continuo: will be + verbo in -ing. Il secondo è il futuro perfetto: will have + participio passato.",
+      "Il futuro continuo (will be + -ing) descrive un'azione in corso in un certo momento del futuro. Per esempio: 'In March we will be building the website.' Vuol dire che durante marzo il lavoro è in corso. Si usa anche per dire cosa ci sarà in programma: 'We will be sending you the first draft next week.'",
+      "Il futuro perfetto (will have + participio) descrive un'azione che sarà già finita entro un certo momento. Per esempio: 'By the end of April we will have finished the design.' Si usa quasi sempre con by (entro) o by then (per allora). Attenzione: by vuol dire 'entro', until vuol dire 'fino a'.",
+      "Confronta le due frasi. 'At 5 pm tomorrow we will be testing the site' vuol dire che alle 17 il test è in corso. 'By 5 pm tomorrow we will have tested the site' vuol dire che alle 17 il test sarà già concluso.",
+      "Dopo parole come when, once, before, after, by the time, per il futuro si usa il presente (o il present perfect), non will. Si dice 'Once you approve the design, we will start coding' oppure 'Once you have approved the design...', non 'once you will approve'.",
+      "Nella forma negativa e nelle domande l'ordine è semplice. Negativa: 'We won't have finished by Friday.' Domanda: 'Will you have finished by Friday?' 'What will you be doing in April?'"
+    ],
+    "explainEn": [
+      "In a proposal you need to explain what will happen over time. For this you need two futures that are more precise than simple will. The first is the future continuous: will be + verb with -ing. The second is the future perfect: will have + past participle.",
+      "The future continuous (will be + -ing) describes an action in progress at a certain time in the future. For example: 'In March we will be building the website.' It means that during March the work is in progress. It is also used for planned activities: 'We will be sending you the first draft next week.'",
+      "The future perfect (will have + past participle) describes an action that will be finished before a certain time. For example: 'By the end of April we will have finished the design.' It is almost always used with by or by then. Remember: by means 'before or at that time', until means 'up to that time'.",
+      "Compare the two sentences. 'At 5 pm tomorrow we will be testing the site' means that at 5 pm the testing is in progress. 'By 5 pm tomorrow we will have tested the site' means that at 5 pm the testing will be complete.",
+      "After words like when, once, before, after and by the time, we use the present (or the present perfect) for the future, not will. We say 'Once you approve the design, we will start coding' or 'Once you have approved the design...', not 'once you will approve'.",
+      "The negative form and questions are simple. Negative: 'We won't have finished by Friday.' Question: 'Will you have finished by Friday?' 'What will you be doing in April?'"
+    ],
+    "rules": [
+      {
+        "it": "Will be + -ing: un'azione in corso in un momento preciso del futuro.",
+        "en": "Will be + -ing: an action in progress at a specific time in the future.",
+        "form": "will be + verbo in -ing",
+        "examples": [
+          {
+            "en": "In March, we will be building the website.",
+            "it": "A marzo staremo costruendo il sito."
+          },
+          {
+            "en": "This time next week, we will be testing the checkout.",
+            "it": "La settimana prossima, a quest'ora, staremo testando il checkout."
+          },
+          {
+            "en": "I will be working on your proposal all morning.",
+            "it": "Lavorerò alla vostra proposta per tutta la mattina."
+          }
+        ]
+      },
+      {
+        "it": "Will be + -ing può anche indicare un piano o un'azione già prevista, in modo cortese.",
+        "en": "Will be + -ing can also show a plan or a routine arrangement, in a polite way.",
+        "form": "will be + -ing",
+        "examples": [
+          {
+            "en": "We will be sending you the contract on Friday.",
+            "it": "Vi invieremo il contratto venerdì."
+          },
+          {
+            "en": "Our team will be contacting you next week.",
+            "it": "Il nostro team vi contatterà la settimana prossima."
+          }
+        ]
+      },
+      {
+        "it": "Will have + participio: un'azione già finita entro un momento del futuro.",
+        "en": "Will have + past participle: an action that will be finished by a time in the future.",
+        "form": "will have + participio",
+        "examples": [
+          {
+            "en": "By the end of April, we will have finished the design.",
+            "it": "Entro la fine di aprile avremo finito il design."
+          },
+          {
+            "en": "By the time you read this, we will have launched the site.",
+            "it": "Quando leggerete questo, avremo già lanciato il sito."
+          },
+          {
+            "en": "We won't have received the content by then.",
+            "it": "Per allora non avremo ancora ricevuto i contenuti."
+          }
+        ]
+      },
+      {
+        "it": "By indica entro quando, until indica fino a quando. Con will have si usa by.",
+        "en": "By shows the deadline, until shows how long something continues. With will have, use by.",
+        "form": "by + data / until + data",
+        "examples": [
+          {
+            "en": "We will have finished by Friday.",
+            "it": "Avremo finito entro venerdì."
+          },
+          {
+            "en": "We will be working on it until Friday.",
+            "it": "Ci lavoreremo fino a venerdì."
+          }
+        ]
+      },
+      {
+        "it": "Dopo when, once, before, after, by the time si usa il presente, non will.",
+        "en": "After when, once, before, after and by the time, use the present tense, not will.",
+        "form": "once + presente, will + verbo",
+        "examples": [
+          {
+            "en": "Once you approve the design, we will start coding.",
+            "it": "Quando approverete il design, inizieremo a programmare."
+          },
+          {
+            "en": "By the time the site goes live, we will have trained your team.",
+            "it": "Quando il sito andrà online avremo già formato il vostro team."
+          },
+          {
+            "en": "We will call you before we start the next phase.",
+            "it": "Vi chiameremo prima di iniziare la fase successiva."
+          }
+        ]
+      }
+    ],
+    "tip": "Immagina una linea del tempo. Will be + -ing è un punto sulla linea in cui l'azione è a metà. Will have + participio è un punto sulla linea dove l'azione è già dietro di te. Chiediti: a quella data il lavoro è in corso o è finito?",
+    "mistakes": [
+      {
+        "wrong": "By Friday we will be finishing the design.",
+        "right": "By Friday we will have finished the design.",
+        "why": "entro una data, azione conclusa: will have + participio"
+      },
+      {
+        "wrong": "Once you will approve it, we will start.",
+        "right": "Once you approve it, we will start.",
+        "why": "dopo once si usa il presente, non will"
+      },
+      {
+        "wrong": "We will have finish by Monday.",
+        "right": "We will have finished by Monday.",
+        "why": "dopo will have serve il participio passato"
+      },
+      {
+        "wrong": "We will working on it all week.",
+        "right": "We will be working on it all week.",
+        "why": "il futuro continuo vuole will be + -ing"
+      },
+      {
+        "wrong": "We will finish until Friday.",
+        "right": "We will finish by Friday.",
+        "why": "entro venerdì = by Friday, until indica una durata"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "In March, we ___ (build) the website. Use the future continuous.",
+      "a": [
+        "will be building",
+        "'ll be building"
+      ],
+      "hint": "azione in corso a marzo",
+      "explain": "Will be + -ing."
+    },
+    {
+      "q": "By the end of April, we ___ (finish) the design.",
+      "a": [
+        "will have finished",
+        "'ll have finished"
+      ],
+      "hint": "già finito entro aprile",
+      "explain": "Will have + participio."
+    },
+    {
+      "q": "By the time you read this, we ___ (launch) the site.",
+      "a": [
+        "will have launched",
+        "'ll have launched"
+      ],
+      "hint": "già lanciato",
+      "explain": "Will have launched."
+    },
+    {
+      "q": "This time next week, we ___ (test) the checkout.",
+      "a": [
+        "will be testing",
+        "'ll be testing"
+      ],
+      "hint": "in corso a quell'ora",
+      "explain": "Will be testing."
+    },
+    {
+      "q": "Once you ___ (approve) the design, we will start coding.",
+      "a": [
+        "approve",
+        "have approved"
+      ],
+      "hint": "dopo once niente will",
+      "explain": "Dopo once si usa il presente, o il present perfect."
+    },
+    {
+      "q": "We will finish ___ Friday.",
+      "a": [
+        "by"
+      ],
+      "hint": "entro venerdì",
+      "explain": "By = entro."
+    },
+    {
+      "q": "We ___ be working on it until Friday.",
+      "a": [
+        "will"
+      ],
+      "hint": "futuro continuo",
+      "explain": "Will be working."
+    },
+    {
+      "q": "We ___ not have finished by Monday.",
+      "a": [
+        "will",
+        "shall"
+      ],
+      "hint": "negativa del futuro perfetto",
+      "explain": "Will not (won't) have finished."
+    },
+    {
+      "q": "___ you have finished by Friday?",
+      "a": [
+        "will"
+      ],
+      "hint": "domanda",
+      "explain": "Will you have finished?"
+    },
+    {
+      "q": "What ___ you be doing in April?",
+      "a": [
+        "will"
+      ],
+      "hint": "domanda col futuro continuo",
+      "explain": "What will you be doing?"
+    },
+    {
+      "q": "In the coming weeks, our team ___ (contact) you.",
+      "a": [
+        "will be contacting"
+      ],
+      "hint": "piano cortese",
+      "explain": "Will be contacting."
+    },
+    {
+      "q": "The project is ___ track for a May launch.",
+      "a": [
+        "on"
+      ],
+      "hint": "in linea",
+      "explain": "On track = in linea con il programma."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Aprire la proposta",
+      "en": "Thank you for the opportunity to submit this proposal.",
+      "it": "Grazie per l'opportunità di presentare questa proposta."
+    },
+    {
+      "group": "Aprire la proposta",
+      "en": "This proposal outlines how we will help you achieve your goals.",
+      "it": "Questa proposta descrive come vi aiuteremo a raggiungere i vostri obiettivi."
+    },
+    {
+      "group": "Aprire la proposta",
+      "en": "Based on our conversation, we understand that your priority is speed.",
+      "it": "In base alla nostra conversazione, ci risulta che la vostra priorità sia la velocità."
+    },
+    {
+      "group": "Obiettivi e valore",
+      "en": "The main objective is to increase online sales.",
+      "it": "L'obiettivo principale è aumentare le vendite online."
+    },
+    {
+      "group": "Obiettivi e valore",
+      "en": "Our approach is tailored to your team.",
+      "it": "Il nostro approccio è su misura per il vostro team."
+    },
+    {
+      "group": "Obiettivi e valore",
+      "en": "The return on investment should be visible within a year.",
+      "it": "Il ritorno sull'investimento dovrebbe vedersi entro un anno."
+    },
+    {
+      "group": "Obiettivi e valore",
+      "en": "This will give you a real competitive advantage.",
+      "it": "Questo vi darà un vero vantaggio competitivo."
+    },
+    {
+      "group": "Obiettivi e valore",
+      "en": "We will support you from start to finish.",
+      "it": "Vi accompagneremo dall'inizio alla fine."
+    },
+    {
+      "group": "Fasi e tempi",
+      "en": "The project will be delivered in three phases.",
+      "it": "Il progetto sarà consegnato in tre fasi."
+    },
+    {
+      "group": "Fasi e tempi",
+      "en": "In March, we will be building the first version.",
+      "it": "A marzo staremo costruendo la prima versione."
+    },
+    {
+      "group": "Fasi e tempi",
+      "en": "By the end of April, we will have finished the design.",
+      "it": "Entro la fine di aprile avremo finito il design."
+    },
+    {
+      "group": "Fasi e tempi",
+      "en": "The project is on track for a May launch.",
+      "it": "Il progetto è in linea per un lancio a maggio."
+    },
+    {
+      "group": "Fasi e tempi",
+      "en": "The kick-off meeting will take place on the first of March.",
+      "it": "La riunione di avvio si terrà il primo marzo."
+    },
+    {
+      "group": "Consegne",
+      "en": "The first deliverable is a clickable prototype.",
+      "it": "La prima consegna è un prototipo cliccabile."
+    },
+    {
+      "group": "Consegne",
+      "en": "Each milestone requires your sign-off.",
+      "it": "Ogni tappa richiede la vostra approvazione."
+    },
+    {
+      "group": "Consegne",
+      "en": "We will hand over all the files at the end of the project.",
+      "it": "Consegneremo tutti i file alla fine del progetto."
+    },
+    {
+      "group": "Consegne",
+      "en": "The scope of work does not include content writing.",
+      "it": "L'ambito di lavoro non include la scrittura dei contenuti."
+    },
+    {
+      "group": "Consegne",
+      "en": "This proposal is based on the assumption that the content is ready.",
+      "it": "Questa proposta si basa sul presupposto che i contenuti siano pronti."
+    },
+    {
+      "group": "Rischi e dipendenze",
+      "en": "The main dependency is the approval from your team.",
+      "it": "La dipendenza principale è l'approvazione del vostro team."
+    },
+    {
+      "group": "Rischi e dipendenze",
+      "en": "If the content arrives late, the launch will be delayed.",
+      "it": "Se i contenuti arrivano in ritardo, il lancio sarà rimandato."
+    },
+    {
+      "group": "Rischi e dipendenze",
+      "en": "We have taken your feedback into account.",
+      "it": "Abbiamo tenuto conto del vostro riscontro."
+    },
+    {
+      "group": "Chiudere la proposta",
+      "en": "The next steps are listed on the last page.",
+      "it": "I prossimi passi sono elencati nell'ultima pagina."
+    },
+    {
+      "group": "Chiudere la proposta",
+      "en": "Please let us know if you would like to change anything.",
+      "it": "Fateci sapere se desiderate cambiare qualcosa."
+    },
+    {
+      "group": "Chiudere la proposta",
+      "en": "We look forward to working with you.",
+      "it": "Saremo lieti di lavorare con voi."
+    },
+    {
+      "group": "Chiudere la proposta",
+      "en": "Once you have approved the proposal, we will send you a contract.",
+      "it": "Una volta approvata la proposta, vi invieremo un contratto."
+    }
+  ],
+  "dialogue": {
+    "title": "Presenting a proposal to a client",
+    "context": "Luca presenta una proposta per il restyling di un sito a Emma, responsabile marketing di un'azienda. Parla di tempi, consegne e valore.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thank you for having me, Emma. Let me walk you through the proposal.",
+        "it": "Grazie dell'invito, Emma. Ti illustro la proposta passo per passo."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "Thanks. What is the main objective?",
+        "it": "Grazie. Qual è l'obiettivo principale?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "To increase online sales by making the site faster and easier to use.",
+        "it": "Aumentare le vendite online rendendo il sito più veloce e più facile da usare."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "And how long will it take?",
+        "it": "E quanto tempo ci vorrà?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Three phases. In March we will be designing the new pages.",
+        "it": "Tre fasi. A marzo staremo progettando le nuove pagine."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "By the end of April we will have finished the design and built the first version.",
+        "it": "Entro la fine di aprile avremo finito il design e costruito la prima versione."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "That sounds ambitious. Is it realistic?",
+        "it": "Sembra ambizioso. È realistico?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Yes, as long as the content is ready by then. That is our main dependency.",
+        "it": "Sì, a patto che i contenuti siano pronti per allora. È la nostra dipendenza principale."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "We will have sent you everything by the tenth of March.",
+        "it": "Vi avremo mandato tutto entro il dieci marzo."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Perfect. In May we will be testing and fixing any problems.",
+        "it": "Perfetto. A maggio staremo testando e correggendo eventuali problemi."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "When will the site go live?",
+        "it": "Quando andrà online il sito?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Once you have signed off the final version, we will launch within two days.",
+        "it": "Una volta che avrete approvato la versione finale, lanceremo entro due giorni."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "And what is the value for us?",
+        "it": "E qual è il valore per noi?"
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "We expect that, by the end of the year, you will have doubled your mobile conversions.",
+        "it": "Entro la fine dell'anno, prevediamo che avrete raddoppiato le conversioni da mobile."
+      },
+      {
+        "s": "B",
+        "name": "Emma",
+        "en": "That is exactly what we need. Please send me the proposal today.",
+        "it": "È esattamente ciò che ci serve. Mandami la proposta oggi stesso."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "I will be sending it this afternoon, with the next steps.",
+        "it": "La invierò questo pomeriggio, con i prossimi passi."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What will Luca's team be doing in March?",
+      "options": [
+        "Designing the new pages",
+        "Testing the site",
+        "Launching the site"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What is the main dependency?",
+      "options": [
+        "The server",
+        "The content from the client",
+        "The budget"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When will Emma have sent everything?",
+      "options": [
+        "By the tenth of March",
+        "By the end of April",
+        "By the end of the year"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When will the site launch?",
+      "options": [
+        "Before the final version is approved",
+        "Within two days after the sign-off",
+        "In March"
+      ],
+      "answer": 1
+    }
+  ],
+  "translations": [
+    {
+      "it": "A marzo staremo costruendo il sito.",
+      "en": "In March, we will be building the website.",
+      "alt": [
+        "In March we will be building the site.",
+        "We will be building the website in March."
+      ]
+    },
+    {
+      "it": "Entro la fine di aprile avremo finito il design.",
+      "en": "By the end of April, we will have finished the design.",
+      "alt": [
+        "We will have finished the design by the end of April.",
+        "By the end of April, we will have completed the design."
+      ]
+    },
+    {
+      "it": "Quando leggerete questo, avremo già lanciato il sito.",
+      "en": "By the time you read this, we will have launched the site.",
+      "alt": [
+        "By the time you read this, we will have launched the website.",
+        "When you read this, we will already have launched the site."
+      ]
+    },
+    {
+      "it": "Vi invieremo la proposta venerdì.",
+      "en": "We will be sending you the proposal on Friday.",
+      "alt": [
+        "We will send you the proposal on Friday.",
+        "We'll be sending you the proposal on Friday."
+      ]
+    },
+    {
+      "it": "Una volta approvato il design, inizieremo a programmare.",
+      "en": "Once you approve the design, we will start coding.",
+      "alt": [
+        "Once you have approved the design, we will start coding.",
+        "When you approve the design, we will start coding."
+      ]
+    },
+    {
+      "it": "Il progetto è in linea per un lancio a maggio.",
+      "en": "The project is on track for a May launch.",
+      "alt": [
+        "The project is on track to launch in May.",
+        "The project is on schedule for a May launch."
+      ]
+    },
+    {
+      "it": "La dipendenza principale è l'approvazione del vostro team.",
+      "en": "The main dependency is the approval from your team.",
+      "alt": [
+        "The main dependency is your team's approval.",
+        "The main dependency is approval from your team."
+      ]
+    },
+    {
+      "it": "Consegneremo tutti i file alla fine del progetto.",
+      "en": "We will hand over all the files at the end of the project.",
+      "alt": [
+        "We will deliver all the files at the end of the project.",
+        "We'll hand over all files at the end of the project."
+      ]
+    },
+    {
+      "it": "Questa proposta si basa sul presupposto che i contenuti siano pronti.",
+      "en": "This proposal is based on the assumption that the content is ready.",
+      "alt": [
+        "This proposal assumes that the content is ready.",
+        "This proposal is based on the assumption that the content will be ready."
+      ]
+    },
+    {
+      "it": "Vi accompagneremo dall'inizio alla fine.",
+      "en": "We will support you from start to finish.",
+      "alt": [
+        "We will support you from beginning to end.",
+        "We'll support you from start to finish."
+      ]
+    },
+    {
+      "it": "Entro l'estate avremo raddoppiato il traffico.",
+      "en": "By the summer, we will have doubled the traffic.",
+      "alt": [
+        "By summer we will have doubled the traffic.",
+        "By the summer, we will have doubled your traffic."
+      ]
+    },
+    {
+      "it": "Nelle prossime settimane staremo testando il nuovo design.",
+      "en": "In the coming weeks, we will be testing the new design.",
+      "alt": [
+        "Over the next few weeks, we will be testing the new design.",
+        "In the next few weeks, we will be testing the new design."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi la sezione 'Timeline and deliverables' (100-120 parole) di una proposta per un cliente che vuole un nuovo sito. Descrivi tre fasi: cosa starete facendo in ogni mese (will be + -ing) e cosa avrete finito entro la fine di ogni fase (will have + participio). Indica una dipendenza dal cliente e chiudi con i prossimi passi.",
+    "taskEn": "Write the 'Timeline and deliverables' section (100-120 words) of a proposal for a client who wants a new website. Describe three phases: what you will be doing in each month (will be + -ing) and what you will have finished by the end of each phase (will have + past participle). Include one dependency on the client and finish with the next steps.",
+    "model": "Timeline and deliverables\nThe project will be delivered in three phases.\nIn March, we will be designing the new pages. By the end of the month, we will have delivered a clickable prototype for your approval.\nIn April, we will be building the website. By the end of April, we will have finished the first complete version.\nIn May, we will be testing and fixing any problems. By the end of the month, we will have handed over all the files and trained your team.\nThis plan assumes that we receive your content by the tenth of March. Once you have approved this proposal, we will send you the contract, and we will kick off the project the following Monday."
+  },
+  "speaking": {
+    "shadowing": [
+      "Thank you for the opportunity to submit this proposal.",
+      "In March, we will be building the website.",
+      "By the end of April, we will have finished the design.",
+      "By the time you read this, we will have launched the site.",
+      "Once you approve the design, we will start coding.",
+      "The main dependency is the approval from your team.",
+      "We will support you from start to finish.",
+      "The next steps are listed on the last page."
+    ],
+    "prompts": [
+      {
+        "en": "What will you be doing at work next month?",
+        "it": "Cosa starai facendo al lavoro il mese prossimo?",
+        "help": "Usa: Next month I will be working on..."
+      },
+      {
+        "en": "What will you have finished by the end of this week?",
+        "it": "Cosa avrai finito entro la fine di questa settimana?",
+        "help": "Usa: By Friday I will have finished..."
+      },
+      {
+        "en": "Present the three phases of a project you know.",
+        "it": "Presenta le tre fasi di un progetto che conosci.",
+        "help": "Usa: In the first phase... / By the end of... we will have..."
+      },
+      {
+        "en": "How do you explain the value of your work to a client?",
+        "it": "Come spieghi il valore del tuo lavoro a un cliente?",
+        "help": "Usa: The main benefit is... / This gives you..."
+      },
+      {
+        "en": "What dependencies can delay a project?",
+        "it": "Quali dipendenze possono ritardare un progetto?",
+        "help": "Usa: The main dependency is... / If ... arrives late..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: la proposta commerciale",
+      "show": [
+        "Business proposals",
+        "will be + -ing",
+        "will have + participio"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione ventotto. Oggi impari a scrivere una proposta commerciale in inglese. Ti servono due futuri speciali, per parlare di tempi e consegne."
+        },
+        {
+          "lang": "en",
+          "text": "Thank you for the opportunity to submit this proposal."
+        }
+      ]
+    },
+    {
+      "title": "Le parti di una proposta",
+      "show": [
+        "objective",
+        "approach, phases",
+        "timeline, deliverables",
+        "value, next steps"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Una buona proposta ha un ordine chiaro. Prima gli obiettivi. Poi l'approccio e le fasi. Poi tempi e consegne. Poi il valore per il cliente. Alla fine i prossimi passi."
+        },
+        {
+          "lang": "en",
+          "text": "The main objective is to increase online sales. The first deliverable is a clickable prototype."
+        }
+      ]
+    },
+    {
+      "title": "Futuro continuo: will be più ing",
+      "show": [
+        "will be + verbo in -ing",
+        "In March we will be building the website.",
+        "azione in corso nel futuro"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il futuro continuo si forma con will be e il verbo in ing. Dice che a un certo punto del futuro l'azione è in corso."
+        },
+        {
+          "lang": "en",
+          "text": "In March, we will be building the website. This time next week, we will be testing the checkout."
+        }
+      ]
+    },
+    {
+      "title": "Futuro continuo: un piano cortese",
+      "show": [
+        "We will be sending you...",
+        "Our team will be contacting you..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il futuro continuo si usa anche per annunciare un piano in modo cortese e professionale. Suona più morbido di un semplice will."
+        },
+        {
+          "lang": "en",
+          "text": "We will be sending you the contract on Friday. Our team will be contacting you next week."
+        }
+      ]
+    },
+    {
+      "title": "Futuro perfetto: will have più participio",
+      "show": [
+        "will have + participio",
+        "By the end of April...",
+        "già finito entro quella data"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il futuro perfetto si forma con will have e il participio passato. Dice che entro una certa data l'azione sarà già finita. Quasi sempre si usa con by."
+        },
+        {
+          "lang": "en",
+          "text": "By the end of April, we will have finished the design. By the time you read this, we will have launched the site."
+        }
+      ]
+    },
+    {
+      "title": "By o until, e i tempi dopo once",
+      "show": [
+        "by = entro",
+        "until = fino a",
+        "once + presente"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Attenzione a by e until. By vuol dire entro. Until vuol dire fino a. Dopo once, when e before non si usa will: si usa il presente."
+        },
+        {
+          "lang": "en",
+          "text": "We will finish by Friday. We will be working on it until Friday. Once you approve the design, we will start coding."
+        }
+      ]
+    },
+    {
+      "title": "Le espressioni chiave",
+      "show": [
+        "on track, behind schedule",
+        "hand over, sign off",
+        "from start to finish"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Ricorda queste espressioni. On track vuol dire in linea con il programma. Behind schedule vuol dire in ritardo. To hand over è consegnare, to sign off è approvare in via definitiva."
+        },
+        {
+          "lang": "en",
+          "text": "The project is on track for a May launch. We will support you from start to finish."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "will be + -ing = in corso",
+        "will have + participio = finito",
+        "by, until, once"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Will be più ing per l'azione in corso. Will have più participio per l'azione già finita. Dopo once e when usa il presente. Ora scrivi la tua timeline."
+        },
+        {
+          "lang": "en",
+          "text": "We look forward to working with you."
+        }
+      ]
+    }
+  ]
+}

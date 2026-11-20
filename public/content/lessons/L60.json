@@ -1,0 +1,1281 @@
+{
+  "id": 60,
+  "week": 12,
+  "title": "Esame finale",
+  "titleEn": "Final exam",
+  "intro": "Questa è la lezione finale del corso. Ripassi le 50 parole più importanti e tutta la grammatica: tempi verbali, condizionali, passivo, modali, discorso indiretto e phrasal verbs. Fai gli esercizi senza guardare le soluzioni: ti dicono a che punto sei con l'inglese al lavoro.",
+  "goals": [
+    "Ripassare le parole e le espressioni più importanti del corso",
+    "Verificare tempi verbali, condizionali, passivo e modali in esercizi misti",
+    "Capire un dialogo di lavoro con più strutture grammaticali insieme",
+    "Scrivere e parlare in inglese professionale con sicurezza"
+  ],
+  "words": [
+    {
+      "en": "to require",
+      "pron": "rikuàia",
+      "it": "richiedere, avere bisogno di",
+      "type": "verb",
+      "ex": "This project requires a lot of testing.",
+      "exIt": "Questo progetto richiede molti test."
+    },
+    {
+      "en": "available",
+      "pron": "avèilabol",
+      "it": "disponibile",
+      "type": "adj",
+      "ex": "Are you available for a call tomorrow?",
+      "exIt": "Sei disponibile per una chiamata domani?"
+    },
+    {
+      "en": "issue",
+      "pron": "ìsciu",
+      "it": "problema, questione",
+      "type": "noun",
+      "ex": "We found a serious issue with the login.",
+      "exIt": "Abbiamo trovato un problema serio con l'accesso."
+    },
+    {
+      "en": "to deliver",
+      "pron": "dilìva",
+      "it": "consegnare",
+      "type": "verb",
+      "ex": "We will deliver the final version on Friday.",
+      "exIt": "Consegneremo la versione finale venerdì."
+    },
+    {
+      "en": "requirement",
+      "pron": "rikuàiamant",
+      "it": "requisito, esigenza",
+      "type": "noun",
+      "ex": "Accessibility is a legal requirement for public sites.",
+      "exIt": "L'accessibilità è un requisito di legge per i siti pubblici."
+    },
+    {
+      "en": "proposal",
+      "pron": "propòuzal",
+      "it": "proposta",
+      "type": "noun",
+      "ex": "I've sent you our proposal for the redesign.",
+      "exIt": "Ti ho mandato la nostra proposta per il rifacimento."
+    },
+    {
+      "en": "to improve",
+      "pron": "imprùuv",
+      "it": "migliorare",
+      "type": "verb",
+      "ex": "We want to improve the loading speed.",
+      "exIt": "Vogliamo migliorare la velocità di caricamento."
+    },
+    {
+      "en": "to ensure",
+      "pron": "inscùa",
+      "it": "assicurare, garantire",
+      "type": "verb",
+      "ex": "We ensure that every page is tested.",
+      "exIt": "Ci assicuriamo che ogni pagina sia testata."
+    },
+    {
+      "en": "to provide",
+      "pron": "provàid",
+      "it": "fornire",
+      "type": "verb",
+      "ex": "We provide support from Monday to Friday.",
+      "exIt": "Forniamo assistenza dal lunedì al venerdì."
+    },
+    {
+      "en": "to handle",
+      "pron": "hàndol",
+      "it": "gestire, occuparsi di",
+      "type": "verb",
+      "ex": "Marta handles all the client communication.",
+      "exIt": "Marta gestisce tutte le comunicazioni con il cliente."
+    },
+    {
+      "en": "to arrange",
+      "pron": "arèindg",
+      "it": "organizzare, fissare",
+      "type": "verb",
+      "ex": "Can you arrange a meeting with the client?",
+      "exIt": "Puoi organizzare una riunione con il cliente?"
+    },
+    {
+      "en": "to confirm",
+      "pron": "konfèrm",
+      "it": "confermare",
+      "type": "verb",
+      "ex": "Please confirm your attendance by Thursday.",
+      "exIt": "Per favore conferma la tua presenza entro giovedì."
+    },
+    {
+      "en": "to propose",
+      "pron": "propòuz",
+      "it": "proporre",
+      "type": "verb",
+      "ex": "I'd like to propose a different approach.",
+      "exIt": "Vorrei proporre un approccio diverso."
+    },
+    {
+      "en": "to rely on",
+      "pron": "rilài on",
+      "it": "contare su, dipendere da",
+      "type": "verb",
+      "ex": "We rely on this supplier for all our hardware.",
+      "exIt": "Contiamo su questo fornitore per tutto il nostro hardware."
+    },
+    {
+      "en": "to carry out",
+      "pron": "kàri àut",
+      "it": "eseguire, svolgere",
+      "type": "verb",
+      "ex": "We carried out a full audit of the site.",
+      "exIt": "Abbiamo eseguito un audit completo del sito."
+    },
+    {
+      "en": "to point out",
+      "pron": "pòint àut",
+      "it": "far notare, segnalare",
+      "type": "verb",
+      "ex": "I'd like to point out a mistake in the quote.",
+      "exIt": "Vorrei far notare un errore nel preventivo."
+    },
+    {
+      "en": "to come up with",
+      "pron": "kam àp uìd",
+      "it": "trovare, inventare (un'idea)",
+      "type": "verb",
+      "ex": "Can you come up with a better solution?",
+      "exIt": "Riesci a trovare una soluzione migliore?"
+    },
+    {
+      "en": "to deal with",
+      "pron": "dìil uìd",
+      "it": "occuparsi di, affrontare",
+      "type": "verb",
+      "ex": "I'll deal with the invoice this afternoon.",
+      "exIt": "Mi occupo della fattura questo pomeriggio."
+    },
+    {
+      "en": "to take over",
+      "pron": "tèik òuva",
+      "it": "subentrare, prendere in carico",
+      "type": "verb",
+      "ex": "Sarah will take over the project next month.",
+      "exIt": "Sarah prenderà in carico il progetto il mese prossimo."
+    },
+    {
+      "en": "to turn down",
+      "pron": "tèrn dàun",
+      "it": "rifiutare",
+      "type": "verb",
+      "ex": "The client turned down our first offer.",
+      "exIt": "Il cliente ha rifiutato la nostra prima offerta."
+    },
+    {
+      "en": "to put off",
+      "pron": "pùt òf",
+      "it": "rimandare",
+      "type": "verb",
+      "ex": "We had to put off the launch until June.",
+      "exIt": "Abbiamo dovuto rimandare il lancio a giugno."
+    },
+    {
+      "en": "to bring up",
+      "pron": "brìng àp",
+      "it": "sollevare (un argomento)",
+      "type": "verb",
+      "ex": "She brought up the budget in the meeting.",
+      "exIt": "Ha sollevato il tema del budget nella riunione."
+    },
+    {
+      "en": "to figure out",
+      "pron": "fìga àut",
+      "it": "capire, venire a capo di",
+      "type": "verb",
+      "ex": "I'm trying to figure out why the page is slow.",
+      "exIt": "Sto cercando di capire perché la pagina è lenta."
+    },
+    {
+      "en": "to back up",
+      "pron": "bàk àp",
+      "it": "fare una copia di sicurezza",
+      "type": "verb",
+      "ex": "Please back up the database before the update.",
+      "exIt": "Per favore fai il backup del database prima dell'aggiornamento."
+    },
+    {
+      "en": "to sign up",
+      "pron": "sàin àp",
+      "it": "iscriversi",
+      "type": "verb",
+      "ex": "Over 200 people signed up for the webinar.",
+      "exIt": "Più di 200 persone si sono iscritte al webinar."
+    },
+    {
+      "en": "to run out of",
+      "pron": "ran àut ov",
+      "it": "esaurire, finire (le scorte)",
+      "type": "verb",
+      "ex": "We've run out of storage space on the server.",
+      "exIt": "Abbiamo esaurito lo spazio di archiviazione sul server."
+    },
+    {
+      "en": "outcome",
+      "pron": "àutkam",
+      "it": "esito, risultato",
+      "type": "noun",
+      "ex": "We are happy with the outcome of the audit.",
+      "exIt": "Siamo soddisfatti dell'esito dell'audit."
+    },
+    {
+      "en": "benefit",
+      "pron": "bènefit",
+      "it": "vantaggio, beneficio",
+      "type": "noun",
+      "ex": "The main benefit is lower maintenance costs.",
+      "exIt": "Il vantaggio principale è la riduzione dei costi di manutenzione."
+    },
+    {
+      "en": "drawback",
+      "pron": "dròobak",
+      "it": "svantaggio, difetto",
+      "type": "noun",
+      "ex": "The only drawback is the higher price.",
+      "exIt": "L'unico svantaggio è il prezzo più alto."
+    },
+    {
+      "en": "priority",
+      "pron": "praiòriti",
+      "it": "priorità",
+      "type": "noun",
+      "ex": "Security is our top priority.",
+      "exIt": "La sicurezza è la nostra massima priorità."
+    },
+    {
+      "en": "challenge",
+      "pron": "ciàlindg",
+      "it": "sfida, difficoltà",
+      "type": "noun",
+      "ex": "The biggest challenge is the tight deadline.",
+      "exIt": "La sfida più grande è la scadenza ravvicinata."
+    },
+    {
+      "en": "improvement",
+      "pron": "imprùuvmant",
+      "it": "miglioramento",
+      "type": "noun",
+      "ex": "We have seen a big improvement in speed.",
+      "exIt": "Abbiamo visto un grande miglioramento nella velocità."
+    },
+    {
+      "en": "reliable",
+      "pron": "rilàiabol",
+      "it": "affidabile",
+      "type": "adj",
+      "ex": "She is a reliable colleague.",
+      "exIt": "È una collega affidabile."
+    },
+    {
+      "en": "efficient",
+      "pron": "ifìscent",
+      "it": "efficiente",
+      "type": "adj",
+      "ex": "We need a more efficient process.",
+      "exIt": "Ci serve un processo più efficiente."
+    },
+    {
+      "en": "flexible",
+      "pron": "flèksibol",
+      "it": "flessibile",
+      "type": "adj",
+      "ex": "We can be flexible on the delivery date.",
+      "exIt": "Possiamo essere flessibili sulla data di consegna."
+    },
+    {
+      "en": "accurate",
+      "pron": "àkiurit",
+      "it": "accurato, esatto",
+      "type": "adj",
+      "ex": "Please make sure the figures are accurate.",
+      "exIt": "Per favore assicurati che le cifre siano esatte."
+    },
+    {
+      "en": "urgent",
+      "pron": "èrgient",
+      "it": "urgente",
+      "type": "adj",
+      "ex": "This is urgent, we need it today.",
+      "exIt": "È urgente, ci serve oggi."
+    },
+    {
+      "en": "appropriate",
+      "pron": "apròupriit",
+      "it": "adatto, appropriato",
+      "type": "adj",
+      "ex": "Is this tone appropriate for a client email?",
+      "exIt": "Questo tono è adatto per una mail a un cliente?"
+    },
+    {
+      "en": "mandatory",
+      "pron": "màndatori",
+      "it": "obbligatorio",
+      "type": "adj",
+      "ex": "The alternative text is mandatory for all images.",
+      "exIt": "Il testo alternativo è obbligatorio per tutte le immagini."
+    },
+    {
+      "en": "optional",
+      "pron": "òpscional",
+      "it": "facoltativo",
+      "type": "adj",
+      "ex": "The phone number field is optional.",
+      "exIt": "Il campo del numero di telefono è facoltativo."
+    },
+    {
+      "en": "in charge of",
+      "pron": "in ciàrdg ov",
+      "it": "responsabile di",
+      "type": "phrase",
+      "ex": "Who is in charge of the testing?",
+      "exIt": "Chi è responsabile dei test?"
+    },
+    {
+      "en": "as soon as possible",
+      "pron": "az sùun az pòsibol",
+      "it": "il prima possibile",
+      "type": "phrase",
+      "ex": "Please reply as soon as possible.",
+      "exIt": "Per favore rispondi il prima possibile."
+    },
+    {
+      "en": "in the meantime",
+      "pron": "in de mìintaim",
+      "it": "nel frattempo",
+      "type": "phrase",
+      "ex": "In the meantime, we can continue with the design.",
+      "exIt": "Nel frattempo possiamo continuare con il design."
+    },
+    {
+      "en": "on behalf of",
+      "pron": "on bihàaf ov",
+      "it": "a nome di",
+      "type": "phrase",
+      "ex": "I'm writing on behalf of the whole team.",
+      "exIt": "Scrivo a nome di tutto il team."
+    },
+    {
+      "en": "as long as",
+      "pron": "az lòng az",
+      "it": "purché, a condizione che",
+      "type": "conj",
+      "ex": "We can start as long as the contract is signed.",
+      "exIt": "Possiamo iniziare purché il contratto sia firmato."
+    },
+    {
+      "en": "provided that",
+      "pron": "provàidid dat",
+      "it": "a condizione che",
+      "type": "conj",
+      "ex": "We will deliver on time, provided that we receive the content.",
+      "exIt": "Consegneremo in tempo, a condizione di ricevere i contenuti."
+    },
+    {
+      "en": "regarding",
+      "pron": "rigàrding",
+      "it": "riguardo a",
+      "type": "prep",
+      "ex": "I'm writing regarding your invoice.",
+      "exIt": "Scrivo riguardo alla vostra fattura."
+    },
+    {
+      "en": "although",
+      "pron": "oldòu",
+      "it": "sebbene, anche se",
+      "type": "conj",
+      "ex": "Although the budget is small, we accepted the project.",
+      "exIt": "Anche se il budget è piccolo, abbiamo accettato il progetto."
+    },
+    {
+      "en": "whereas",
+      "pron": "uearàz",
+      "it": "mentre, laddove (per contrapporre)",
+      "type": "conj",
+      "ex": "Option A is cheap, whereas option B is more reliable.",
+      "exIt": "L'opzione A è economica, mentre la B è più affidabile."
+    },
+    {
+      "en": "unless",
+      "pron": "anlès",
+      "it": "a meno che, se non",
+      "type": "conj",
+      "ex": "Unless we get the content, we cannot launch.",
+      "exIt": "Se non riceviamo i contenuti, non possiamo lanciare."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to deliver",
+      "it": "consegnare",
+      "trap": "Non vuol dire 'deliberare' (= to decide, to resolve)."
+    },
+    {
+      "en": "actually",
+      "it": "in realtà",
+      "trap": "Non vuol dire 'attualmente' (= currently)."
+    },
+    {
+      "en": "to resume",
+      "it": "riprendere",
+      "trap": "Non vuol dire 'riassumere' (= to summarise)."
+    },
+    {
+      "en": "sensible",
+      "it": "ragionevole",
+      "trap": "Non vuol dire 'sensibile' (= sensitive)."
+    }
+  ],
+  "grammar": {
+    "title": "Ripasso di tutta la grammatica del corso",
+    "explainIt": [
+      "Questo è il riassunto di tutta la grammatica. Tempi: present simple per abitudini e fatti, present continuous per ciò che succede ora. Past simple per un momento preciso nel passato, present perfect per un fatto passato legato al presente (con for, since, already, yet), past continuous per un'azione in corso nel passato. Il past perfect (had + participio) è il passato del passato: 'When I arrived, the meeting had already started.'",
+      "Per il futuro: will per decisioni e promesse, be going to per piani e previsioni, present continuous per appuntamenti. Dopo when, as soon as, once, before, unless e if si usa il presente, non will. I condizionali: zero (If you heat ice, it melts), primo (If we hire him, we will finish on time), secondo (If I had time, I would help) e terzo (If I had known, I would have called). Con wish si usa il passato: 'I wish I had more time.'",
+      "Passivo: be + participio passato. 'The report was written by Sarah.' 'The site will be launched in May.' 'The files have been deleted.' Si usa quando l'azione conta più di chi la fa. Modali: can e could per capacità e richieste, may e might per possibilità, should per consigli, must per obblighi, have to per obblighi esterni, don't have to per assenza di obbligo, mustn't per divieto.",
+      "Discorso indiretto: si fa un passo indietro nei tempi. 'I am busy' diventa 'He said he was busy.' 'I will call' diventa 'She said she would call.' 'Have you finished?' diventa 'He asked if I had finished.' Nelle domande indirette l'ordine è quello della frase affermativa: 'Could you tell me where the office is?' Le frasi relative usano who per le persone, which per le cose e that per entrambe: 'The contract that we signed yesterday covers two years.'",
+      "Phrasal verbs: sono verbi più una particella con un significato proprio. Follow up, look into, set up, sort out, figure out, put off, turn down, take over, back up, run out of. Collegano le idee con parole come although, whereas, unless, as long as, provided that e regarding. Se non ricordi una regola, scegli una frase più semplice: è meglio un inglese semplice e corretto che uno complesso e sbagliato."
+    ],
+    "explainEn": [
+      "This is a summary of all the grammar. Tenses: present simple for habits and facts, present continuous for what is happening now. Past simple for a definite time in the past, present perfect for a past fact connected to now (with for, since, already, yet), past continuous for an action in progress in the past. The past perfect (had + past participle) is the past of the past: 'When I arrived, the meeting had already started.'",
+      "For the future: will for decisions and promises, be going to for plans and predictions, present continuous for arrangements. After when, as soon as, once, before, unless and if use the present, not will. Conditionals: zero (If you heat ice, it melts), first (If we hire him, we will finish on time), second (If I had time, I would help) and third (If I had known, I would have called). With wish use the past: 'I wish I had more time.'",
+      "Passive: be + past participle. 'The report was written by Sarah.' 'The site will be launched in May.' 'The files have been deleted.' It is used when the action matters more than who does it. Modals: can and could for ability and requests, may and might for possibility, should for advice, must for obligation, have to for external obligation, don't have to for no obligation, mustn't for prohibition.",
+      "Reported speech: take a step back in the tenses. 'I am busy' becomes 'He said he was busy.' 'I will call' becomes 'She said she would call.' 'Have you finished?' becomes 'He asked if I had finished.' In indirect questions the word order is that of a statement: 'Could you tell me where the office is?' Relative clauses use who for people, which for things and that for both: 'The contract that we signed yesterday covers two years.'",
+      "Phrasal verbs are verbs plus a particle with its own meaning. Follow up, look into, set up, sort out, figure out, put off, turn down, take over, back up, run out of. Link your ideas with words like although, whereas, unless, as long as, provided that and regarding. If you cannot remember a rule, choose a simpler sentence: simple and correct English is better than complex and wrong English."
+    ],
+    "rules": [
+      {
+        "it": "Tempi del passato e del presente: scegli in base al momento e al legame con il presente.",
+        "en": "Past and present tenses: choose according to the time and the link with now.",
+        "form": "work / am working / worked / have worked / was working / had worked",
+        "examples": [
+          {
+            "en": "I sent the report yesterday. I've already received two replies.",
+            "it": "Ho mandato il report ieri. Ho già ricevuto due risposte."
+          },
+          {
+            "en": "I was writing the report when the server crashed.",
+            "it": "Stavo scrivendo il report quando il server è andato in crash."
+          },
+          {
+            "en": "When I arrived, the meeting had already started.",
+            "it": "Quando sono arrivato, la riunione era già iniziata."
+          }
+        ]
+      },
+      {
+        "it": "Futuro: will, be going to, present continuous. Dopo when, as soon as, if e unless si usa il presente.",
+        "en": "Future: will, be going to, present continuous. After when, as soon as, if and unless use the present.",
+        "form": "will + base / be going to + base / be + -ing",
+        "examples": [
+          {
+            "en": "I'll call you as soon as I arrive.",
+            "it": "Ti chiamo appena arrivo."
+          },
+          {
+            "en": "We're going to launch in May.",
+            "it": "Lanceremo a maggio."
+          },
+          {
+            "en": "Unless we receive the content, we cannot launch.",
+            "it": "Se non riceviamo i contenuti, non possiamo lanciare."
+          }
+        ]
+      },
+      {
+        "it": "Condizionali: primo (probabile), secondo (immaginario), terzo (passato irreale).",
+        "en": "Conditionals: first (likely), second (imaginary), third (unreal past).",
+        "form": "If + presente, will / If + past, would / If + past perfect, would have",
+        "examples": [
+          {
+            "en": "If we hire another developer, we will finish on time.",
+            "it": "Se assumiamo un altro sviluppatore, finiremo in tempo."
+          },
+          {
+            "en": "If I had more time, I would help you.",
+            "it": "Se avessi più tempo, ti aiuterei."
+          },
+          {
+            "en": "If I had known, I would have called you.",
+            "it": "Se l'avessi saputo, ti avrei chiamato."
+          }
+        ]
+      },
+      {
+        "it": "Passivo: be + participio passato in ogni tempo.",
+        "en": "Passive: be + past participle in every tense.",
+        "form": "is/was/has been/will be + participio",
+        "examples": [
+          {
+            "en": "The report was written by Sarah.",
+            "it": "Il report è stato scritto da Sarah."
+          },
+          {
+            "en": "The site will be launched in May.",
+            "it": "Il sito sarà lanciato a maggio."
+          },
+          {
+            "en": "The files have been deleted.",
+            "it": "I file sono stati cancellati."
+          }
+        ]
+      },
+      {
+        "it": "Modali: obbligo, divieto, assenza di obbligo, consiglio, possibilità.",
+        "en": "Modals: obligation, prohibition, no obligation, advice, possibility.",
+        "form": "must / mustn't / don't have to / should / might",
+        "examples": [
+          {
+            "en": "You must sign the contract before we start.",
+            "it": "Devi firmare il contratto prima di iniziare."
+          },
+          {
+            "en": "You don't have to come to the office, you can work from home.",
+            "it": "Non c'è bisogno che tu venga in ufficio, puoi lavorare da casa."
+          },
+          {
+            "en": "You should back up the files first.",
+            "it": "Dovresti fare prima il backup dei file."
+          }
+        ]
+      },
+      {
+        "it": "Discorso indiretto, frasi relative e phrasal verbs.",
+        "en": "Reported speech, relative clauses and phrasal verbs.",
+        "form": "said (that) + un passo indietro / who, which, that / verbo + particella",
+        "examples": [
+          {
+            "en": "She said she would call me back.",
+            "it": "Ha detto che mi avrebbe richiamato."
+          },
+          {
+            "en": "He asked if I had finished the audit.",
+            "it": "Ha chiesto se avessi finito l'audit."
+          },
+          {
+            "en": "The contract that we signed covers two years, and we'll look into the details.",
+            "it": "Il contratto che abbiamo firmato copre due anni, ed esamineremo i dettagli."
+          }
+        ]
+      }
+    ],
+    "tip": "Prima di ogni frase fai tre domande: Quando è successo? Chi fa l'azione? È un fatto, un'ipotesi o quello che ha detto qualcuno? Con queste risposte scegli tempo, forma attiva o passiva e condizionale. Se hai dubbi, riscrivi la frase più semplice.",
+    "mistakes": [
+      {
+        "wrong": "I have seen him yesterday.",
+        "right": "I saw him yesterday.",
+        "why": "yesterday vuole il past simple"
+      },
+      {
+        "wrong": "If I will have time, I will call you.",
+        "right": "If I have time, I will call you.",
+        "why": "dopo if non si usa will"
+      },
+      {
+        "wrong": "If I would know, I would tell you.",
+        "right": "If I knew, I would tell you.",
+        "why": "nel secondo condizionale l'if clause ha il past simple"
+      },
+      {
+        "wrong": "She said me that she was late.",
+        "right": "She told me that she was late.",
+        "why": "say senza persona, tell con persona"
+      },
+      {
+        "wrong": "Could you tell me where is the office?",
+        "right": "Could you tell me where the office is?",
+        "why": "nelle domande indirette l'ordine è affermativo"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "If I ___ (know) about the problem earlier, I would have fixed it.",
+      "a": [
+        "had known",
+        "'d known"
+      ],
+      "hint": "terzo condizionale",
+      "explain": "If + past perfect, would have + participio."
+    },
+    {
+      "q": "The report ___ (finish) by Friday. (passivo futuro)",
+      "a": [
+        "will be finished",
+        "is going to be finished"
+      ],
+      "hint": "will be + participio",
+      "explain": "Passivo futuro: will be finished."
+    },
+    {
+      "q": "'Have you finished the audit?' She asked me if I ___ (finish) the audit.",
+      "a": [
+        "had finished",
+        "'d finished"
+      ],
+      "hint": "discorso indiretto",
+      "explain": "Have you finished? diventa if I had finished."
+    },
+    {
+      "q": "You ___ (not / have to) come to the office, you can work from home.",
+      "a": [
+        "don't have to",
+        "do not have to"
+      ],
+      "hint": "nessun obbligo",
+      "explain": "Don't have to = non è obbligatorio."
+    },
+    {
+      "q": "I ___ (work) here since 2019.",
+      "a": [
+        "have worked",
+        "'ve worked",
+        "have been working",
+        "'ve been working"
+      ],
+      "hint": "since",
+      "explain": "Since + present perfect."
+    },
+    {
+      "q": "While I ___ (write) the report, the server crashed.",
+      "a": [
+        "was writing"
+      ],
+      "hint": "azione in corso nel passato",
+      "explain": "Past continuous."
+    },
+    {
+      "q": "If the client ___ (not approve) the plan, we will have to start again.",
+      "a": [
+        "doesn't approve",
+        "does not approve"
+      ],
+      "hint": "primo condizionale",
+      "explain": "If + presente, will + base."
+    },
+    {
+      "q": "I wish I ___ (have) more time.",
+      "a": [
+        "had"
+      ],
+      "hint": "wish + passato",
+      "explain": "Wish + past simple per un desiderio irreale presente."
+    },
+    {
+      "q": "We have run out ___ budget for this quarter.",
+      "a": [
+        "of"
+      ],
+      "hint": "phrasal verb",
+      "explain": "Run out of = esaurire."
+    },
+    {
+      "q": "The contract, ___ was signed yesterday, covers two years.",
+      "a": [
+        "which"
+      ],
+      "hint": "frase relativa",
+      "explain": "Con le virgole (frase relativa non restrittiva) si usa which per le cose, mai that."
+    },
+    {
+      "q": "He told me he ___ (call) me back the next day.",
+      "a": [
+        "would call",
+        "'d call"
+      ],
+      "hint": "discorso indiretto di will",
+      "explain": "Will diventa would nel discorso indiretto."
+    },
+    {
+      "q": "Could we ___ off the meeting until Monday? (rimandare)",
+      "a": [
+        "put"
+      ],
+      "hint": "phrasal verb",
+      "explain": "Put off = rimandare."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Mail e richieste",
+      "en": "I'm writing regarding your invoice.",
+      "it": "Scrivo riguardo alla vostra fattura."
+    },
+    {
+      "group": "Mail e richieste",
+      "en": "Could you confirm the date as soon as possible?",
+      "it": "Potresti confermare la data il prima possibile?"
+    },
+    {
+      "group": "Mail e richieste",
+      "en": "I've attached the document for your review.",
+      "it": "Ho allegato il documento per la tua revisione."
+    },
+    {
+      "group": "Mail e richieste",
+      "en": "I'm writing on behalf of the whole team.",
+      "it": "Scrivo a nome di tutto il team."
+    },
+    {
+      "group": "Mail e richieste",
+      "en": "I look forward to hearing from you.",
+      "it": "Attendo con piacere una tua risposta."
+    },
+    {
+      "group": "Riunioni e discussioni",
+      "en": "I'd like to point out a problem with the schedule.",
+      "it": "Vorrei far notare un problema con il programma."
+    },
+    {
+      "group": "Riunioni e discussioni",
+      "en": "Option A is cheap, whereas option B is more reliable.",
+      "it": "L'opzione A è economica, mentre la B è più affidabile."
+    },
+    {
+      "group": "Riunioni e discussioni",
+      "en": "Although it costs more, it saves time.",
+      "it": "Anche se costa di più, fa risparmiare tempo."
+    },
+    {
+      "group": "Riunioni e discussioni",
+      "en": "Let's come up with a plan B.",
+      "it": "Troviamo un piano B."
+    },
+    {
+      "group": "Riunioni e discussioni",
+      "en": "I'll deal with that after the meeting.",
+      "it": "Me ne occupo dopo la riunione."
+    },
+    {
+      "group": "Preventivi e contratti",
+      "en": "We can start as long as the contract is signed.",
+      "it": "Possiamo iniziare purché il contratto sia firmato."
+    },
+    {
+      "group": "Preventivi e contratti",
+      "en": "Provided that we receive the content, we will deliver on time.",
+      "it": "A condizione di ricevere i contenuti, consegneremo in tempo."
+    },
+    {
+      "group": "Preventivi e contratti",
+      "en": "The price does not include hosting.",
+      "it": "Il prezzo non include l'hosting."
+    },
+    {
+      "group": "Preventivi e contratti",
+      "en": "If you pay in advance, we can offer a discount.",
+      "it": "Se paga in anticipo, possiamo offrire uno sconto."
+    },
+    {
+      "group": "Preventivi e contratti",
+      "en": "Unless we hear from you, we will proceed as planned.",
+      "it": "Se non avremo vostre notizie, procederemo come previsto."
+    },
+    {
+      "group": "Problemi e soluzioni",
+      "en": "I'm trying to figure out why the page is slow.",
+      "it": "Sto cercando di capire perché la pagina è lenta."
+    },
+    {
+      "group": "Problemi e soluzioni",
+      "en": "We've run out of storage space on the server.",
+      "it": "Abbiamo esaurito lo spazio sul server."
+    },
+    {
+      "group": "Problemi e soluzioni",
+      "en": "I'll sort it out today.",
+      "it": "Lo sistemo oggi."
+    },
+    {
+      "group": "Problemi e soluzioni",
+      "en": "Please back up the database first.",
+      "it": "Per favore fai prima il backup del database."
+    },
+    {
+      "group": "Problemi e soluzioni",
+      "en": "If I had known, I would have told you.",
+      "it": "Se l'avessi saputo, te l'avrei detto."
+    },
+    {
+      "group": "Con i colleghi",
+      "en": "Who is in charge of the testing?",
+      "it": "Chi è responsabile dei test?"
+    },
+    {
+      "group": "Con i colleghi",
+      "en": "She said she would take over the project.",
+      "it": "Ha detto che avrebbe preso in carico il progetto."
+    },
+    {
+      "group": "Con i colleghi",
+      "en": "In the meantime, we can continue with the design.",
+      "it": "Nel frattempo possiamo continuare con il design."
+    },
+    {
+      "group": "Con i colleghi",
+      "en": "Let's put off the launch until June.",
+      "it": "Rimandiamo il lancio a giugno."
+    },
+    {
+      "group": "Con i colleghi",
+      "en": "Thanks for all your help over the past three months.",
+      "it": "Grazie di tutto l'aiuto di questi tre mesi."
+    }
+  ],
+  "dialogue": {
+    "title": "Final review call",
+    "context": "È la riunione di chiusura del progetto. Luca, Sarah e il cliente Mr Evans rivedono cosa è stato fatto, cosa resta da fare e cosa è andato storto. Si usano tempi diversi, condizionali, passivo e discorso indiretto.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Thanks for joining, everyone. Let's wrap up the project. Sarah, where are we?",
+        "it": "Grazie a tutti per esserci. Concludiamo il progetto. Sarah, a che punto siamo?"
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "We've delivered everything on the list. The site was launched last Tuesday, and the audit has been completed.",
+        "it": "Abbiamo consegnato tutto quello che era in lista. Il sito è stato lanciato martedì scorso e l'audit è stato completato."
+      },
+      {
+        "s": "C",
+        "name": "Mr Evans",
+        "en": "That's great. But I heard that there was an issue with the checkout page.",
+        "it": "Ottimo. Ma ho sentito che c'è stato un problema con la pagina di pagamento."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Yes, there was. While we were testing, we found a bug, and we fixed it the same day.",
+        "it": "Sì, c'è stato. Mentre testavamo abbiamo trovato un errore e lo abbiamo corretto lo stesso giorno."
+      },
+      {
+        "s": "C",
+        "name": "Mr Evans",
+        "en": "If I had known earlier, I would have informed our customers.",
+        "it": "Se l'avessi saputo prima, avrei informato i nostri clienti."
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "I apologise. We should have told you immediately. In the future, we will inform you as soon as we find a problem.",
+        "it": "Mi scuso. Avremmo dovuto dirvelo subito. In futuro vi informeremo appena troviamo un problema."
+      },
+      {
+        "s": "C",
+        "name": "Mr Evans",
+        "en": "Thanks. Now, my colleague said that the contrast is still low on some pages.",
+        "it": "Grazie. Ora, il mio collega ha detto che il contrasto è ancora basso in alcune pagine."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "We know. Those pages weren't included in the original scope, but we can fix them provided that you approve a small extra budget.",
+        "it": "Lo sappiamo. Quelle pagine non erano comprese nell'ambito originale, ma possiamo correggerle a condizione che approviate un piccolo budget extra."
+      },
+      {
+        "s": "C",
+        "name": "Mr Evans",
+        "en": "How much would it be?",
+        "it": "Quanto costerebbe?"
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "About 600 euros, I'd say. Unless you prefer to put it off until next quarter.",
+        "it": "Direi circa 600 euro. A meno che non preferiate rimandare al prossimo trimestre."
+      },
+      {
+        "s": "C",
+        "name": "Mr Evans",
+        "en": "Let me think. Although the budget is tight, accessibility is mandatory for us. Please go ahead.",
+        "it": "Fammi pensare. Anche se il budget è limitato, per noi l'accessibilità è obbligatoria. Procedete pure."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "Great. We'll send you a written quote today, and the work will be done by the end of next week.",
+        "it": "Ottimo. Vi mandiamo oggi un preventivo scritto e il lavoro sarà finito entro la fine della prossima settimana."
+      },
+      {
+        "s": "C",
+        "name": "Mr Evans",
+        "en": "Who will take over the support after the launch?",
+        "it": "Chi prenderà in carico l'assistenza dopo il lancio?"
+      },
+      {
+        "s": "B",
+        "name": "Sarah",
+        "en": "I will. I've worked on this project since January, so I know it well.",
+        "it": "Io. Lavoro a questo progetto da gennaio, quindi lo conosco bene."
+      },
+      {
+        "s": "C",
+        "name": "Mr Evans",
+        "en": "Perfect. Thank you both. It's been a pleasure working with you.",
+        "it": "Perfetto. Grazie a entrambi. È stato un piacere lavorare con voi."
+      },
+      {
+        "s": "A",
+        "name": "Luca",
+        "en": "The pleasure was ours. Have a good weekend.",
+        "it": "Il piacere è stato nostro. Buon fine settimana."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What did the team find while they were testing?",
+      "options": [
+        "A bug on the checkout page",
+        "A missing logo",
+        "A wrong invoice"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What would Mr Evans have done if he had known earlier?",
+      "options": [
+        "He would have informed his customers",
+        "He would have cancelled the project",
+        "He would have asked for a refund"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What does Luca need for the extra work?",
+      "options": [
+        "Approval of a small extra budget",
+        "A new contract",
+        "More time off"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Who will take over the support after the launch?",
+      "options": [
+        "Sarah",
+        "Luca",
+        "Mr Evans"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Ho già mandato il report, quindi controlla la tua posta.",
+      "en": "I've already sent the report, so please check your inbox.",
+      "alt": [
+        "I have already sent the report, so please check your inbox.",
+        "I've already sent the report, so check your email."
+      ]
+    },
+    {
+      "it": "Stavo testando il modulo quando la pagina è andata in crash.",
+      "en": "I was testing the form when the page crashed.",
+      "alt": [
+        "I was testing the form when the page stopped working.",
+        "While I was testing the form, the page crashed."
+      ]
+    },
+    {
+      "it": "Se assumiamo un altro sviluppatore, finiremo in tempo.",
+      "en": "If we hire another developer, we will finish on time.",
+      "alt": [
+        "If we hire another developer, we'll finish on time.",
+        "If we hire another developer, we will be on time."
+      ]
+    },
+    {
+      "it": "Se avessi più tempo, ti aiuterei.",
+      "en": "If I had more time, I would help you.",
+      "alt": [
+        "If I had more time, I'd help you.",
+        "If I had more time, I would help."
+      ]
+    },
+    {
+      "it": "Se l'avessi saputo, ti avrei chiamato.",
+      "en": "If I had known, I would have called you.",
+      "alt": [
+        "If I had known, I'd have called you.",
+        "If I had known, I would have phoned you."
+      ]
+    },
+    {
+      "it": "Il sito sarà lanciato a maggio.",
+      "en": "The site will be launched in May.",
+      "alt": [
+        "The website will be launched in May.",
+        "The site is going to be launched in May."
+      ]
+    },
+    {
+      "it": "Non c'è bisogno che tu venga in ufficio, puoi lavorare da casa.",
+      "en": "You don't have to come to the office, you can work from home.",
+      "alt": [
+        "You do not have to come to the office, you can work from home.",
+        "You don't need to come to the office, you can work from home."
+      ]
+    },
+    {
+      "it": "Ha detto che mi avrebbe richiamato il giorno dopo.",
+      "en": "She said she would call me back the next day.",
+      "alt": [
+        "She said that she would call me back the next day.",
+        "She told me she would call me back the next day."
+      ]
+    },
+    {
+      "it": "Mi ha chiesto se avevo finito l'audit.",
+      "en": "He asked me if I had finished the audit.",
+      "alt": [
+        "He asked me whether I had finished the audit.",
+        "He asked if I had finished the audit."
+      ]
+    },
+    {
+      "it": "Potresti dirmi dov'è l'ufficio?",
+      "en": "Could you tell me where the office is?",
+      "alt": [
+        "Can you tell me where the office is?",
+        "Would you mind telling me where the office is?"
+      ]
+    },
+    {
+      "it": "Abbiamo esaurito il budget per questo trimestre.",
+      "en": "We've run out of budget for this quarter.",
+      "alt": [
+        "We have run out of budget for this quarter.",
+        "We have used up the budget for this quarter."
+      ]
+    },
+    {
+      "it": "Possiamo iniziare purché il contratto sia firmato.",
+      "en": "We can start as long as the contract is signed.",
+      "alt": [
+        "We can start provided that the contract is signed.",
+        "We can start as long as the contract has been signed."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Prova finale scritta: scrivi una mail di 10-12 righe a un cliente a fine progetto. Ringrazia, riassumi cosa è stato fatto (passivo e present perfect), spiega un problema avuto e come è stato risolto (past simple e past continuous), proponi un lavoro extra a una condizione (provided that o as long as), riporta cosa ha detto un collega (discorso indiretto) e chiudi con un invito all'azione. Usa almeno due phrasal verbs.",
+    "taskEn": "Final writing test: write an email of 10-12 lines to a client at the end of a project. Thank them, summarise what was done (passive and present perfect), explain a problem you had and how it was solved (past simple and past continuous), propose extra work on a condition (provided that or as long as), report what a colleague said (reported speech) and end with a call to action. Use at least two phrasal verbs.",
+    "model": "Subject: Project completed - next steps\n\nDear Mr Evans,\n\nThank you for your trust and your patience during the project.\n\nI am pleased to confirm that the new website has been launched and the accessibility audit has been completed. We have delivered every item on the list.\n\nWhile we were testing the checkout page, we found a bug. We fixed it the same day, and I apologise that we did not tell you immediately. In future, we will inform you as soon as a problem appears.\n\nMy colleague Sarah said that some pages still have low contrast. We can fix them provided that you approve a small extra budget of about 600 euros. If you prefer, we can put it off until next quarter.\n\nCould you let me know your decision by Friday? Sarah will take over the support after the launch, and she will be happy to answer any questions.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "I've already sent the report, so please check your inbox.",
+      "I was testing the form when the page crashed.",
+      "If I had known earlier, I would have fixed it.",
+      "The site will be launched in May.",
+      "She said she would call me back the next day.",
+      "Could you tell me where the office is?",
+      "We can start as long as the contract is signed.",
+      "Unless we receive the content, we cannot launch."
+    ],
+    "prompts": [
+      {
+        "en": "Describe the project you are proudest of and what went well.",
+        "it": "Descrivi il progetto che ti ha dato più soddisfazione e cosa è andato bene.",
+        "help": "Usa: I worked on... / It was delivered... / We improved..."
+      },
+      {
+        "en": "Tell me about a mistake you made at work. What would you do differently?",
+        "it": "Parlami di un errore che hai fatto al lavoro. Cosa faresti diversamente?",
+        "help": "Usa: If I had known, I would have... / I should have..."
+      },
+      {
+        "en": "What are your plans for the next six months?",
+        "it": "Quali sono i tuoi piani per i prossimi sei mesi?",
+        "help": "Usa: I'm going to... / I will... / If everything goes well, I'll..."
+      },
+      {
+        "en": "A colleague asks you for help. How do you reply politely?",
+        "it": "Un collega ti chiede aiuto. Come rispondi con gentilezza?",
+        "help": "Usa: Could you... / I'd be happy to... / I'll look into it."
+      },
+      {
+        "en": "Tell me what your manager said to you last week.",
+        "it": "Raccontami cosa ti ha detto il tuo responsabile la scorsa settimana.",
+        "help": "Usa: He said (that)... / She asked me if... / He told me to..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: la prova finale",
+      "show": [
+        "Final exam",
+        "Tutta la grammatica del corso",
+        "50 parole chiave"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Questa è la lezione finale. Ripassiamo i tempi verbali, i condizionali, il passivo, i modali, il discorso indiretto e i phrasal verbs. Poi fai la prova senza guardare le soluzioni."
+        },
+        {
+          "lang": "en",
+          "text": "Let's review everything we have learned."
+        }
+      ]
+    },
+    {
+      "title": "Tempi del presente e del passato",
+      "show": [
+        "I work / I'm working",
+        "I sent / I've sent",
+        "I was writing / I had finished"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Presente semplice per abitudini, presente continuo per l'ora. Past simple per un momento preciso, present perfect per un legame con il presente. Past continuous per un'azione in corso. Past perfect per il passato del passato."
+        },
+        {
+          "lang": "en",
+          "text": "When I arrived, the meeting had already started."
+        }
+      ]
+    },
+    {
+      "title": "Futuro",
+      "show": [
+        "will: decisioni e promesse",
+        "going to: piani",
+        "present continuous: appuntamenti"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Will per decisioni e promesse. Going to per piani. Il presente continuo per appuntamenti. Dopo when, as soon as, if e unless si usa il presente, mai will."
+        },
+        {
+          "lang": "en",
+          "text": "I'll call you as soon as I arrive."
+        }
+      ]
+    },
+    {
+      "title": "Condizionali",
+      "show": [
+        "If we hire him, we will finish.",
+        "If I had time, I would help.",
+        "If I had known, I would have called."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Primo condizionale per ipotesi probabili. Secondo per ipotesi immaginarie. Terzo per il passato che non si può cambiare. Nell'if clause non si usa mai will o would."
+        },
+        {
+          "lang": "en",
+          "text": "If I had known, I would have called you."
+        }
+      ]
+    },
+    {
+      "title": "Passivo e modali",
+      "show": [
+        "The site will be launched in May.",
+        "You must sign. You don't have to come.",
+        "You should back up."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Il passivo usa be più il participio passato. Con i modali, must è obbligo, don't have to è nessun obbligo, should è consiglio, could è richiesta gentile."
+        },
+        {
+          "lang": "en",
+          "text": "You don't have to come to the office."
+        }
+      ]
+    },
+    {
+      "title": "Discorso indiretto e frasi relative",
+      "show": [
+        "She said she would call.",
+        "He asked if I had finished.",
+        "The contract that we signed..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nel discorso indiretto si fa un passo indietro nei tempi. Nelle domande indirette l'ordine è quello della frase affermativa. Nelle frasi relative usa who per le persone e which o that per le cose."
+        },
+        {
+          "lang": "en",
+          "text": "Could you tell me where the office is?"
+        }
+      ]
+    },
+    {
+      "title": "Phrasal verbs e connettivi",
+      "show": [
+        "look into, sort out, figure out",
+        "put off, turn down, take over",
+        "although, whereas, unless, as long as"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "I phrasal verbs rendono naturale il tuo inglese. Collega le idee con although, whereas, unless e as long as."
+        },
+        {
+          "lang": "en",
+          "text": "We can start as long as the contract is signed."
+        },
+        {
+          "lang": "en",
+          "text": "Unless we receive the content, we cannot launch."
+        }
+      ]
+    },
+    {
+      "title": "Consigli per la prova",
+      "show": [
+        "Quando? Chi? Fatto, ipotesi o parole di altri?",
+        "Frase semplice e corretta"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Prima di ogni frase chiediti: quando è successo, chi fa l'azione, è un fatto, un'ipotesi o le parole di qualcuno. Se hai dubbi, scrivi una frase più semplice."
+        },
+        {
+          "lang": "en",
+          "text": "Simple and correct is better than complex and wrong."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo e congratulazioni",
+      "show": [
+        "Corso completato",
+        "Continua a parlare ogni giorno",
+        "Congratulations!"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Hai finito il corso. Complimenti. Adesso continua: scrivi una mail in inglese ogni giorno e parla ad alta voce cinque minuti. La pratica costante è la chiave."
+        },
+        {
+          "lang": "en",
+          "text": "Congratulations, and good luck with your English at work."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1255 @@
+{
+  "id": 24,
+  "week": 5,
+  "title": "Presentazioni: la struttura",
+  "titleEn": "Presentations: structure",
+  "intro": "Una buona presentazione ha una struttura chiara: introduzione, parti centrali, conclusione e domande. Oggi impari le frasi guida, chiamate signposting, che aiutano chi ascolta a non perdersi. Servono a presentare un progetto a un cliente, un audit o una proposta di lavoro.",
+  "goals": [
+    "Aprire una presentazione con un saluto, un obiettivo e un piano chiaro",
+    "Usare le frasi di signposting per passare da una parte all'altra",
+    "Presentare grafici, dati e slide con il linguaggio giusto",
+    "Chiudere la presentazione e gestire le domande del pubblico"
+  ],
+  "words": [
+    {
+      "en": "slide",
+      "pron": "slàid",
+      "it": "diapositiva",
+      "type": "noun",
+      "ex": "Let's look at the next slide.",
+      "exIt": "Guardiamo la diapositiva successiva."
+    },
+    {
+      "en": "slide deck",
+      "pron": "slàid dèk",
+      "it": "presentazione (insieme di slide)",
+      "type": "noun",
+      "ex": "I'll share the slide deck after the call.",
+      "exIt": "Condivido la presentazione dopo la chiamata."
+    },
+    {
+      "en": "audience",
+      "pron": "òdiens",
+      "it": "pubblico, chi ascolta",
+      "type": "noun",
+      "ex": "The audience was mostly designers.",
+      "exIt": "Il pubblico era composto per lo più da designer."
+    },
+    {
+      "en": "speaker",
+      "pron": "spìikar",
+      "it": "relatore, chi parla",
+      "type": "noun",
+      "ex": "The first speaker is from the design team.",
+      "exIt": "Il primo relatore è del team di design."
+    },
+    {
+      "en": "to rehearse",
+      "pron": "rihèrs",
+      "it": "provare (una presentazione)",
+      "type": "verb",
+      "ex": "I rehearsed my talk three times.",
+      "exIt": "Ho provato il mio intervento tre volte."
+    },
+    {
+      "en": "timing",
+      "pron": "tàiming",
+      "it": "tempi, gestione del tempo",
+      "type": "noun",
+      "ex": "Good timing is important in a short talk.",
+      "exIt": "Una buona gestione del tempo è importante in un intervento breve."
+    },
+    {
+      "en": "pace",
+      "pron": "pèis",
+      "it": "ritmo, velocità del parlato",
+      "type": "noun",
+      "ex": "Slow down. Your pace is too fast.",
+      "exIt": "Rallenta. Il tuo ritmo è troppo veloce."
+    },
+    {
+      "en": "eye contact",
+      "pron": "ài kòntakt",
+      "it": "contatto visivo",
+      "type": "noun",
+      "ex": "Try to keep eye contact with the audience.",
+      "exIt": "Cerca di mantenere il contatto visivo con il pubblico."
+    },
+    {
+      "en": "to engage",
+      "pron": "inghèidg",
+      "it": "coinvolgere",
+      "type": "verb",
+      "ex": "A short story can engage the audience.",
+      "exIt": "Una breve storia può coinvolgere il pubblico."
+    },
+    {
+      "en": "opening",
+      "pron": "òupaning",
+      "it": "apertura, inizio",
+      "type": "noun",
+      "ex": "A strong opening gets people's attention.",
+      "exIt": "Un'apertura forte attira l'attenzione."
+    },
+    {
+      "en": "hook",
+      "pron": "hùk",
+      "it": "gancio, frase che cattura l'attenzione",
+      "type": "noun",
+      "ex": "My hook was a surprising number.",
+      "exIt": "Il mio gancio è stato un numero sorprendente."
+    },
+    {
+      "en": "signpost",
+      "pron": "sàinpoust",
+      "it": "frase guida (che orienta chi ascolta)",
+      "type": "noun",
+      "ex": "Phrases like 'first of all' are signposts.",
+      "exIt": "Frasi come 'first of all' sono segnali di orientamento."
+    },
+    {
+      "en": "transition",
+      "pron": "transìscian",
+      "it": "passaggio, transizione",
+      "type": "noun",
+      "ex": "The transition between the two parts was smooth.",
+      "exIt": "Il passaggio tra le due parti è stato fluido."
+    },
+    {
+      "en": "to flip",
+      "pron": "flìp",
+      "it": "girare, sfogliare",
+      "type": "verb",
+      "ex": "I'll flip to the next slide.",
+      "exIt": "Passo alla slide successiva."
+    },
+    {
+      "en": "to turn to",
+      "pron": "tèrn tu",
+      "it": "passare a, rivolgersi a",
+      "type": "verb",
+      "ex": "Now let's turn to the results.",
+      "exIt": "Passiamo ora ai risultati."
+    },
+    {
+      "en": "to touch on",
+      "pron": "tàc òn",
+      "it": "accennare a, toccare (un tema)",
+      "type": "verb",
+      "ex": "I'll touch on the costs briefly.",
+      "exIt": "Accennerò brevemente ai costi."
+    },
+    {
+      "en": "to illustrate",
+      "pron": "ìlastreit",
+      "it": "illustrare, mostrare con un esempio",
+      "type": "verb",
+      "ex": "This chart illustrates the problem.",
+      "exIt": "Questo grafico illustra il problema."
+    },
+    {
+      "en": "to demonstrate",
+      "pron": "dèmanstreit",
+      "it": "dimostrare, mostrare in pratica",
+      "type": "verb",
+      "ex": "I'd like to demonstrate how it works.",
+      "exIt": "Vorrei mostrare come funziona."
+    },
+    {
+      "en": "to emphasise",
+      "pron": "èmfasaiz",
+      "it": "sottolineare, dare enfasi",
+      "type": "verb",
+      "ex": "I want to emphasise this last point.",
+      "exIt": "Voglio sottolineare quest'ultimo punto."
+    },
+    {
+      "en": "chart",
+      "pron": "ciàrt",
+      "it": "grafico",
+      "type": "noun",
+      "ex": "The chart shows our monthly visitors.",
+      "exIt": "Il grafico mostra i nostri visitatori mensili."
+    },
+    {
+      "en": "to deliver a talk",
+      "pron": "dilìvar a tòok",
+      "it": "tenere un intervento",
+      "type": "phrase",
+      "ex": "She delivered a talk on accessibility.",
+      "exIt": "Ha tenuto un intervento sull'accessibilità."
+    },
+    {
+      "en": "visual",
+      "pron": "vìgiual",
+      "it": "elemento visivo, immagine",
+      "type": "noun",
+      "ex": "Use a visual instead of a long text.",
+      "exIt": "Usa un elemento visivo al posto di un testo lungo."
+    },
+    {
+      "en": "laser pointer",
+      "pron": "lèizar pòintar",
+      "it": "puntatore laser",
+      "type": "noun",
+      "ex": "I'll use the laser pointer to show the button.",
+      "exIt": "Userò il puntatore laser per mostrare il pulsante."
+    },
+    {
+      "en": "clicker",
+      "pron": "klìkar",
+      "it": "telecomando per le slide",
+      "type": "noun",
+      "ex": "I forgot the clicker in the office.",
+      "exIt": "Ho dimenticato il telecomando per le slide in ufficio."
+    },
+    {
+      "en": "live demo",
+      "pron": "làiv dèmou",
+      "it": "dimostrazione dal vivo",
+      "type": "noun",
+      "ex": "The live demo went very well.",
+      "exIt": "La dimostrazione dal vivo è andata molto bene."
+    },
+    {
+      "en": "to share your screen",
+      "pron": "scèar ior skrìin",
+      "it": "condividere lo schermo",
+      "type": "phrase",
+      "ex": "Could you share your screen, please?",
+      "exIt": "Potresti condividere lo schermo, per favore?"
+    },
+    {
+      "en": "to walk through",
+      "pron": "uòok trùu",
+      "it": "esporre passo per passo",
+      "type": "verb",
+      "ex": "I'll walk you through the new design.",
+      "exIt": "Vi guiderò passo per passo nel nuovo design."
+    },
+    {
+      "en": "to run through",
+      "pron": "ràn trùu",
+      "it": "ripassare rapidamente",
+      "type": "verb",
+      "ex": "Let me run through the main points.",
+      "exIt": "Lasciatemi ripassare rapidamente i punti principali."
+    },
+    {
+      "en": "to zoom in",
+      "pron": "zùum ìn",
+      "it": "ingrandire",
+      "type": "verb",
+      "ex": "Let me zoom in on this part of the page.",
+      "exIt": "Fatemi ingrandire questa parte della pagina."
+    },
+    {
+      "en": "pointer",
+      "pron": "pòinter",
+      "it": "puntatore",
+      "type": "noun",
+      "ex": "I used a laser pointer.",
+      "exIt": "Ho usato un puntatore laser."
+    },
+    {
+      "en": "secondly",
+      "pron": "sèkandli",
+      "it": "in secondo luogo",
+      "type": "adv",
+      "ex": "Secondly, let's look at the costs.",
+      "exIt": "In secondo luogo, vediamo i costi."
+    },
+    {
+      "en": "to be brief",
+      "pron": "bi brìif",
+      "it": "essere breve",
+      "type": "phrase",
+      "ex": "I'll be brief, I only have five minutes.",
+      "exIt": "Sarò breve, ho solo cinque minuti."
+    },
+    {
+      "en": "that brings me to",
+      "pron": "dàt brìnz mi tu",
+      "it": "e questo mi porta a",
+      "type": "phrase",
+      "ex": "That brings me to my next point.",
+      "exIt": "Questo mi porta al punto successivo."
+    },
+    {
+      "en": "as you can see",
+      "pron": "az iù kàn sìi",
+      "it": "come potete vedere",
+      "type": "phrase",
+      "ex": "As you can see, traffic doubled in May.",
+      "exIt": "Come potete vedere, il traffico è raddoppiato a maggio."
+    },
+    {
+      "en": "in conclusion",
+      "pron": "in konklùugian",
+      "it": "in conclusione",
+      "type": "phrase",
+      "ex": "In conclusion, we recommend a new design.",
+      "exIt": "In conclusione, consigliamo un nuovo design."
+    },
+    {
+      "en": "call to action",
+      "pron": "kòl tu àkscian",
+      "it": "invito all'azione",
+      "type": "phrase",
+      "ex": "My call to action is simple: book a test.",
+      "exIt": "Il mio invito all'azione è semplice: prenotate un test."
+    },
+    {
+      "en": "closing",
+      "pron": "klòuzing",
+      "it": "chiusura, conclusione",
+      "type": "noun",
+      "ex": "I like a short, strong closing.",
+      "exIt": "Mi piace una conclusione breve e forte."
+    },
+    {
+      "en": "question time",
+      "pron": "kuèstian tàim",
+      "it": "spazio per le domande",
+      "type": "noun",
+      "ex": "We'll have question time at the end.",
+      "exIt": "Avremo lo spazio per le domande alla fine."
+    },
+    {
+      "en": "Q and A",
+      "pron": "kiù en èi",
+      "it": "sessione di domande e risposte",
+      "type": "noun",
+      "ex": "The Q and A will last ten minutes.",
+      "exIt": "La sessione di domande e risposte durerà dieci minuti."
+    },
+    {
+      "en": "to take questions",
+      "pron": "tèik kuèstians",
+      "it": "rispondere alle domande",
+      "type": "phrase",
+      "ex": "I'm happy to take questions now.",
+      "exIt": "Rispondo volentieri alle domande ora."
+    },
+    {
+      "en": "to field a question",
+      "pron": "fìild a kuèstian",
+      "it": "gestire (e rispondere a) una domanda",
+      "type": "phrase",
+      "ex": "Paolo will field the technical questions.",
+      "exIt": "Paolo risponderà alle domande tecniche."
+    },
+    {
+      "en": "to address",
+      "pron": "adrès",
+      "it": "affrontare, rispondere a (un tema)",
+      "type": "verb",
+      "ex": "I'll address that concern in a moment.",
+      "exIt": "Affronterò quel dubbio tra un momento."
+    },
+    {
+      "en": "to anticipate",
+      "pron": "antìsipeit",
+      "it": "prevedere, anticipare",
+      "type": "verb",
+      "ex": "Try to anticipate the audience's questions.",
+      "exIt": "Cerca di prevedere le domande del pubblico."
+    },
+    {
+      "en": "to leave time for",
+      "pron": "lìiv tàim for",
+      "it": "lasciare tempo per",
+      "type": "phrase",
+      "ex": "Always leave time for questions.",
+      "exIt": "Lascia sempre tempo per le domande."
+    },
+    {
+      "en": "feel free to",
+      "pron": "fìil frìi tu",
+      "it": "sentitevi liberi di",
+      "type": "phrase",
+      "ex": "Feel free to interrupt me with questions.",
+      "exIt": "Sentitevi liberi di interrompermi con delle domande."
+    },
+    {
+      "en": "good question",
+      "pron": "gùd kuèstian",
+      "it": "bella domanda",
+      "type": "phrase",
+      "ex": "Good question. Let me think for a second.",
+      "exIt": "Bella domanda. Fatemi pensare un attimo."
+    },
+    {
+      "en": "to get back to you",
+      "pron": "gèt bàk tu iù",
+      "it": "ricontattarti con la risposta",
+      "type": "phrase",
+      "ex": "I'll get back to you on that by email.",
+      "exIt": "Ti rispondo via mail su questo punto."
+    },
+    {
+      "en": "to present",
+      "pron": "prizènt",
+      "it": "presentare, esporre",
+      "type": "verb",
+      "ex": "I'm going to present the results of the audit.",
+      "exIt": "Sto per presentare i risultati dell'audit."
+    },
+    {
+      "en": "to start with",
+      "pron": "stàrt uìd",
+      "it": "per cominciare",
+      "type": "phrase",
+      "ex": "To start with, let me explain the problem.",
+      "exIt": "Per cominciare, lasciatemi spiegare il problema."
+    },
+    {
+      "en": "speaker notes",
+      "pron": "spìikar nòuts",
+      "it": "note del relatore",
+      "type": "noun",
+      "ex": "I wrote my key points in the speaker notes.",
+      "exIt": "Ho scritto i miei punti chiave nelle note del relatore."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to present",
+      "it": "presentare (esporre)",
+      "trap": "Per presentare una persona a un'altra si usa to introduce: 'Let me introduce Anna'. To present è esporre un lavoro, un progetto."
+    },
+    {
+      "en": "conference",
+      "it": "convegno, congresso",
+      "trap": "Non è la 'conferenza' intesa come singolo discorso (= talk, lecture): una conference è un evento con molti interventi. Per 'conferenza telefonica' si dice conference call."
+    },
+    {
+      "en": "argument",
+      "it": "litigio, ma anche tesi, argomentazione",
+      "trap": "Nelle presentazioni un argument può essere una ragione a favore di una tesi. Non vuol dire solo 'argomento' (= topic o subject)."
+    }
+  ],
+  "grammar": {
+    "title": "Signposting: le frasi che guidano chi ascolta",
+    "explainIt": [
+      "Il signposting è l'uso di frasi che dicono a chi ascolta dove sei nella presentazione, come i cartelli stradali. Servono a spiegare che cosa hai fatto, che cosa stai facendo e che cosa farai. Aiutano il pubblico a seguirti, soprattutto se ascolta in una lingua che non è la sua.",
+      "Una presentazione ha quattro momenti. Prima l'introduzione: saluti, dici chi sei, dici di che cosa parli e come è organizzato il discorso. Poi le parti centrali, con i punti principali. Poi la conclusione con il riassunto. Infine le domande. Per ognuno ci sono frasi tipiche che conviene imparare a memoria.",
+      "Nell'introduzione si usano frasi con il futuro, come 'I'm going to talk about...' oppure 'I'll cover three points'. Per elencare si usano first of all, secondly, thirdly, finally. Per annunciare uno spazio per le domande: 'Please feel free to interrupt' oppure 'I'll take questions at the end'.",
+      "Nelle parti centrali servono i segnali di passaggio. Per iniziare un punto: 'Let's start with...' 'Let me begin with...'. Per passare ad un altro: 'Now let's turn to...', 'That brings me to...', 'Moving on to...'. Per tornare indietro: 'As I said earlier...' 'As I mentioned before...'. Per dare enfasi: 'I'd like to emphasise...' 'The key point here is...'. Per mostrare un dato: 'As you can see...' 'This chart shows...'.",
+      "Nella conclusione si dice che stai chiudendo e si riassume: 'To sum up...', 'In conclusion...', 'Let me finish by saying...'. Poi si fa un invito all'azione, cioè si dice che cosa vuoi che il pubblico faccia. Infine si ringrazia e si apre alle domande: 'Thank you for listening. Are there any questions?'.",
+      "Sul piano grammaticale, nel signposting si usano soprattutto il futuro con going to e will, il present perfect o il past simple per ciò che hai già detto, e le forme in -ing dopo le preposizioni: 'Before moving on', 'After looking at the data'. Sono frasi brevi: una frase per ogni segnale. Parla lentamente e fai una pausa dopo ogni segnale."
+    ],
+    "explainEn": [
+      "Signposting means using phrases that tell the audience where you are in the presentation, like road signs. They explain what you have done, what you are doing, and what you will do. They help people follow you, especially if they are listening in a second language.",
+      "A presentation has four parts. First, the introduction: you greet people, say who you are, say what you will talk about and how the talk is organised. Then the main body, with the main points. Then the conclusion, with a summary. Finally, questions. For each part there are typical phrases worth learning by heart.",
+      "In the introduction we use future forms: 'I'm going to talk about...' or 'I'll cover three points'. To list points we use first of all, secondly, thirdly, finally. To explain when people can ask questions: 'Please feel free to interrupt' or 'I'll take questions at the end'.",
+      "In the main body we need transition signals. To start a point: 'Let's start with...', 'Let me begin with...'. To move to another point: 'Now let's turn to...', 'That brings me to...', 'Moving on to...'. To go back: 'As I said earlier...', 'As I mentioned before...'. To give emphasis: 'I'd like to emphasise...', 'The key point here is...'. To show data: 'As you can see...', 'This chart shows...'.",
+      "In the conclusion, we say that we are finishing and summarise: 'To sum up...', 'In conclusion...', 'Let me finish by saying...'. Then we give a call to action, which says what we want the audience to do. Finally we thank people and open the floor to questions: 'Thank you for listening. Are there any questions?'.",
+      "In terms of grammar, signposting uses mainly future forms with going to and will, the present perfect or past simple for what you have already said, and the -ing form after prepositions: 'Before moving on', 'After looking at the data'. The phrases are short: one sentence for each signal. Speak slowly and pause after each signpost."
+    ],
+    "rules": [
+      {
+        "it": "Introduzione: saluta, dì chi sei, dì di che cosa parli e come è organizzata la presentazione.",
+        "en": "Introduction: greet, say who you are, say what you will talk about, and explain the structure.",
+        "form": "I'm going to talk about... / I'll cover... / I'll divide my talk into...",
+        "examples": [
+          {
+            "en": "Good morning, everyone. My name is Andrea, and I'm going to talk about web accessibility.",
+            "it": "Buongiorno a tutti. Mi chiamo Andrea e parlerò di accessibilità web."
+          },
+          {
+            "en": "I'll divide my talk into three parts.",
+            "it": "Dividerò il mio intervento in tre parti."
+          },
+          {
+            "en": "Please feel free to interrupt if you have any questions.",
+            "it": "Sentitevi liberi di interrompermi se avete domande."
+          }
+        ]
+      },
+      {
+        "it": "Per elencare i punti si usano first of all, secondly, thirdly, finally.",
+        "en": "To list points, use first of all, secondly, thirdly and finally.",
+        "form": "First of all..., Secondly..., Thirdly..., Finally...",
+        "examples": [
+          {
+            "en": "First of all, I'll explain what the audit found.",
+            "it": "Prima di tutto spiegherò che cosa ha trovato l'audit."
+          },
+          {
+            "en": "Secondly, we'll look at the costs.",
+            "it": "In secondo luogo vedremo i costi."
+          },
+          {
+            "en": "Finally, I'll show you the next steps.",
+            "it": "Infine vi mostrerò i prossimi passi."
+          }
+        ]
+      },
+      {
+        "it": "Per passare da un punto all'altro: let's turn to, that brings me to, moving on to.",
+        "en": "To move from one point to another: let's turn to, that brings me to, moving on to.",
+        "form": "Now let's turn to + nome / That brings me to + nome",
+        "examples": [
+          {
+            "en": "Now let's turn to the results.",
+            "it": "Passiamo ora ai risultati."
+          },
+          {
+            "en": "That brings me to my next point: the budget.",
+            "it": "Questo mi porta al punto successivo: il budget."
+          },
+          {
+            "en": "Moving on to the second part of my talk, the design.",
+            "it": "Passando alla seconda parte, il design."
+          }
+        ]
+      },
+      {
+        "it": "Per riferirti a ciò che hai già detto o mostrato: as I said, as you can see, as I mentioned.",
+        "en": "To refer to what you already said or showed: as I said, as you can see, as I mentioned.",
+        "form": "As I said earlier... / As you can see...",
+        "examples": [
+          {
+            "en": "As I mentioned earlier, the site is too slow.",
+            "it": "Come ho detto prima, il sito è troppo lento."
+          },
+          {
+            "en": "As you can see on this slide, traffic doubled in May.",
+            "it": "Come potete vedere in questa slide, il traffico è raddoppiato a maggio."
+          }
+        ]
+      },
+      {
+        "it": "Conclusione e domande: to sum up, in conclusion, thank you, any questions?",
+        "en": "Conclusion and questions: to sum up, in conclusion, thank you, any questions?",
+        "form": "To sum up... / In conclusion... / Thank you for listening. Any questions?",
+        "examples": [
+          {
+            "en": "To sum up, we recommend three changes.",
+            "it": "Riassumendo, consigliamo tre modifiche."
+          },
+          {
+            "en": "In conclusion, accessibility is good for everyone.",
+            "it": "In conclusione, l'accessibilità fa bene a tutti."
+          },
+          {
+            "en": "Thank you for listening. Are there any questions?",
+            "it": "Grazie per l'ascolto. Ci sono domande?"
+          }
+        ]
+      }
+    ],
+    "tip": "Prepara le frasi di signposting come una scaletta: apertura, primo punto, secondo punto, conclusione, domande. Scrivile nelle note del relatore e dopo ogni segnale fai una pausa. Meglio una frase corta e chiara che una lunga e complicata.",
+    "mistakes": [
+      {
+        "wrong": "I will talk you about the results.",
+        "right": "I will talk to you about the results.",
+        "why": "talk vuole to prima della persona e about prima dell'argomento"
+      },
+      {
+        "wrong": "Now we pass to the next point.",
+        "right": "Now let's turn to the next point.",
+        "why": "to pass non si usa così: si dice turn to o move on to"
+      },
+      {
+        "wrong": "In the end, we recommend three changes.",
+        "right": "In conclusion, we recommend three changes.",
+        "why": "in the end vuol dire 'alla fine, dopo tutto': per chiudere un discorso si usa in conclusion o to sum up"
+      },
+      {
+        "wrong": "Like you can see on the slide...",
+        "right": "As you can see on the slide...",
+        "why": "con i verbi come see, say si usa as, non like"
+      },
+      {
+        "wrong": "There are questions?",
+        "right": "Are there any questions?",
+        "why": "nella domanda are va prima di there, e si usa any: Are there any questions? o solo Any questions?"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "Good morning. I'm going ___ talk about accessibility.",
+      "a": [
+        "to"
+      ],
+      "hint": "going to",
+      "explain": "I'm going to + verbo: intenzione e piano."
+    },
+    {
+      "q": "First of all, I'll ___ the problem. (spiegare)",
+      "a": [
+        "explain"
+      ],
+      "hint": "will + base",
+      "explain": "I'll + infinito senza to."
+    },
+    {
+      "q": "___ you can see, traffic doubled in May.",
+      "a": [
+        "as"
+      ],
+      "hint": "come",
+      "explain": "As you can see = come potete vedere."
+    },
+    {
+      "q": "Now let's turn ___ the results.",
+      "a": [
+        "to"
+      ],
+      "hint": "passare a",
+      "explain": "turn to + nome."
+    },
+    {
+      "q": "That ___ me to my next point.",
+      "a": [
+        "brings"
+      ],
+      "hint": "terza persona",
+      "explain": "That brings me to... terza persona singolare."
+    },
+    {
+      "q": "Please feel ___ to interrupt.",
+      "a": [
+        "free"
+      ],
+      "hint": "sentitevi liberi",
+      "explain": "feel free to + verbo."
+    },
+    {
+      "q": "___ conclusion, we recommend three changes.",
+      "a": [
+        "in"
+      ],
+      "hint": "in conclusione",
+      "explain": "In conclusion è la formula fissa."
+    },
+    {
+      "q": "Before ___ on, are there any questions? (move)",
+      "a": [
+        "moving"
+      ],
+      "hint": "dopo before",
+      "explain": "Dopo una preposizione si usa la forma -ing."
+    },
+    {
+      "q": "As I ___ earlier, the site is slow. (mention, passato)",
+      "a": [
+        "mentioned"
+      ],
+      "hint": "già detto",
+      "explain": "As I mentioned earlier + past simple."
+    },
+    {
+      "q": "I'll take ___ at the end. (le domande)",
+      "a": [
+        "questions"
+      ],
+      "hint": "alla fine",
+      "explain": "to take questions = rispondere alle domande."
+    },
+    {
+      "q": "Thank you for ___. (ascoltare)",
+      "a": [
+        "listening"
+      ],
+      "hint": "dopo for",
+      "explain": "Dopo for si usa -ing: Thank you for listening."
+    },
+    {
+      "q": "I'll divide my talk ___ three parts.",
+      "a": [
+        "into"
+      ],
+      "hint": "dividere in",
+      "explain": "divide into = dividere in."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Aprire",
+      "en": "Good morning, everyone, and thank you for coming.",
+      "it": "Buongiorno a tutti, e grazie di essere venuti."
+    },
+    {
+      "group": "Aprire",
+      "en": "My name is Andrea, and I'm going to talk about accessibility.",
+      "it": "Mi chiamo Andrea e parlerò di accessibilità."
+    },
+    {
+      "group": "Aprire",
+      "en": "I'll divide my talk into three parts.",
+      "it": "Dividerò il mio intervento in tre parti."
+    },
+    {
+      "group": "Aprire",
+      "en": "It should take about fifteen minutes.",
+      "it": "Dovrebbe durare circa quindici minuti."
+    },
+    {
+      "group": "Aprire",
+      "en": "Please feel free to interrupt me at any time.",
+      "it": "Sentitevi liberi di interrompermi in qualsiasi momento."
+    },
+    {
+      "group": "Passare da un punto all'altro",
+      "en": "Let's start with the first point: the audit results.",
+      "it": "Cominciamo dal primo punto: i risultati dell'audit."
+    },
+    {
+      "group": "Passare da un punto all'altro",
+      "en": "Now let's turn to the costs.",
+      "it": "Passiamo ora ai costi."
+    },
+    {
+      "group": "Passare da un punto all'altro",
+      "en": "That brings me to my next point.",
+      "it": "Questo mi porta al punto successivo."
+    },
+    {
+      "group": "Passare da un punto all'altro",
+      "en": "Before I move on, are there any questions?",
+      "it": "Prima di proseguire, ci sono domande?"
+    },
+    {
+      "group": "Passare da un punto all'altro",
+      "en": "As I mentioned earlier, the site is too slow.",
+      "it": "Come ho detto prima, il sito è troppo lento."
+    },
+    {
+      "group": "Presentare dati e slide",
+      "en": "As you can see on this slide, traffic doubled in May.",
+      "it": "Come potete vedere in questa slide, il traffico è raddoppiato a maggio."
+    },
+    {
+      "group": "Presentare dati e slide",
+      "en": "This chart shows how our visitors changed over the year.",
+      "it": "Questo grafico mostra come sono cambiati i visitatori durante l'anno."
+    },
+    {
+      "group": "Presentare dati e slide",
+      "en": "Let me zoom in on this part of the page.",
+      "it": "Fatemi ingrandire questa parte della pagina."
+    },
+    {
+      "group": "Presentare dati e slide",
+      "en": "I'd like to emphasise this figure: sixty percent.",
+      "it": "Vorrei sottolineare questa cifra: sessanta per cento."
+    },
+    {
+      "group": "Presentare dati e slide",
+      "en": "I'll walk you through how it works.",
+      "it": "Vi mostro passo per passo come funziona."
+    },
+    {
+      "group": "Concludere",
+      "en": "To sum up, we recommend three changes.",
+      "it": "Riassumendo, consigliamo tre modifiche."
+    },
+    {
+      "group": "Concludere",
+      "en": "In conclusion, accessibility benefits everyone.",
+      "it": "In conclusione, l'accessibilità fa bene a tutti."
+    },
+    {
+      "group": "Concludere",
+      "en": "My call to action is simple: let's book a test.",
+      "it": "Il mio invito all'azione è semplice: fissiamo un test."
+    },
+    {
+      "group": "Concludere",
+      "en": "Thank you for listening.",
+      "it": "Grazie per l'attenzione."
+    },
+    {
+      "group": "Concludere",
+      "en": "That's all from me. I'll hand over to Anna.",
+      "it": "Per me è tutto. Passo la parola ad Anna."
+    },
+    {
+      "group": "Domande del pubblico",
+      "en": "I'd be happy to take any questions.",
+      "it": "Risponderò volentieri alle domande."
+    },
+    {
+      "group": "Domande del pubblico",
+      "en": "Good question. Let me think for a second.",
+      "it": "Bella domanda. Fatemi pensare un attimo."
+    },
+    {
+      "group": "Domande del pubblico",
+      "en": "Could you repeat the question, please?",
+      "it": "Potresti ripetere la domanda, per favore?"
+    },
+    {
+      "group": "Domande del pubblico",
+      "en": "I'm afraid I don't know, but I'll get back to you by email.",
+      "it": "Temo di non saperlo, ma ti rispondo via mail."
+    },
+    {
+      "group": "Domande del pubblico",
+      "en": "Does that answer your question?",
+      "it": "Questo risponde alla tua domanda?"
+    }
+  ],
+  "dialogue": {
+    "title": "Presenting the audit results",
+    "context": "Anna presenta i risultati di un audit di accessibilità al cliente, in una sala riunioni, con le slide. Marco, il direttore del cliente, fa domande alla fine.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "Good morning, everyone, and thank you for coming. My name is Anna, and I'm going to present the results of our audit.",
+        "it": "Buongiorno a tutti e grazie di essere venuti. Mi chiamo Anna e presenterò i risultati del nostro audit."
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "I'll divide my talk into three parts: the main findings, the costs, and the next steps.",
+        "it": "Dividerò l'intervento in tre parti: i risultati principali, i costi e i prossimi passi."
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "It should take about fifteen minutes, and I'll take questions at the end.",
+        "it": "Dovrebbe durare circa quindici minuti, e risponderò alle domande alla fine."
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "First of all, let's look at the findings. As you can see on this slide, we found twelve critical issues.",
+        "it": "Prima di tutto vediamo i risultati. Come potete vedere in questa slide, abbiamo trovato dodici problemi critici."
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "I'd like to emphasise that most of them are easy to fix.",
+        "it": "Vorrei sottolineare che la maggior parte è facile da correggere."
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "Now let's turn to the costs. This chart shows the time we need for each fix.",
+        "it": "Passiamo ora ai costi. Questo grafico mostra il tempo che ci serve per ogni correzione."
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "That brings me to my last point, the next steps. First, we fix the forms. Then we test with real users.",
+        "it": "Questo mi porta all'ultimo punto, i prossimi passi. Prima correggiamo i moduli. Poi testiamo con utenti reali."
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "To sum up, the site has a few serious problems, but we can fix them in a month. Thank you for listening. Are there any questions?",
+        "it": "Riassumendo, il sito ha alcuni problemi seri, ma possiamo correggerli in un mese. Grazie per l'attenzione. Ci sono domande?"
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "Yes, thank you, Anna. Good presentation. Can you tell me how much the fixes will cost?",
+        "it": "Sì, grazie Anna. Bella presentazione. Puoi dirmi quanto costeranno le correzioni?"
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "Good question. As I mentioned in the second part, the total is on slide nine.",
+        "it": "Bella domanda. Come ho detto nella seconda parte, il totale è nella slide nove."
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "Sorry, I missed that. Could you repeat the number?",
+        "it": "Scusa, mi è sfuggito. Puoi ripetere la cifra?"
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "Of course. It's four thousand euros, plus VAT. Does that answer your question?",
+        "it": "Certo. Sono quattromila euro più IVA. Questo risponde alla tua domanda?"
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "Yes. And do you know when you can start?",
+        "it": "Sì. E sai quando potete iniziare?"
+      },
+      {
+        "s": "A",
+        "name": "Anna",
+        "en": "I'm afraid I don't know the exact date, but I'll get back to you by email this afternoon.",
+        "it": "Temo di non sapere la data esatta, ma ti rispondo via mail questo pomeriggio."
+      },
+      {
+        "s": "B",
+        "name": "Marco",
+        "en": "Perfect. Thanks again, Anna.",
+        "it": "Perfetto. Grazie ancora, Anna."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "How is Anna's talk organised?",
+      "options": [
+        "Findings, costs, next steps",
+        "History, design, hosting",
+        "Questions, costs, conclusion"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "How many critical issues did the audit find?",
+      "options": [
+        "Two",
+        "Twelve",
+        "Twenty"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does Marco ask at the end?",
+      "options": [
+        "How much the fixes will cost",
+        "Who will do the work",
+        "Why the audit was late"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "How will Anna answer the question about the start date?",
+      "options": [
+        "She'll get back to him by email",
+        "She'll show another slide",
+        "She'll call him at once"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Buongiorno a tutti, e grazie di essere venuti.",
+      "en": "Good morning, everyone, and thank you for coming.",
+      "alt": [
+        "Good morning everyone, thank you for coming.",
+        "Good morning all, and thanks for coming."
+      ]
+    },
+    {
+      "it": "Parlerò dei risultati dell'audit.",
+      "en": "I'm going to talk about the audit results.",
+      "alt": [
+        "I'm going to talk about the results of the audit.",
+        "I'll talk about the audit results."
+      ]
+    },
+    {
+      "it": "Dividerò il mio intervento in tre parti.",
+      "en": "I'll divide my talk into three parts.",
+      "alt": [
+        "I will divide my talk into three parts.",
+        "I'll divide my presentation into three parts.",
+        "I'm going to divide my talk into three parts."
+      ]
+    },
+    {
+      "it": "Sentitevi liberi di interrompermi in qualsiasi momento.",
+      "en": "Please feel free to interrupt me at any time.",
+      "alt": [
+        "Feel free to interrupt me at any time.",
+        "Please feel free to interrupt me at any moment."
+      ]
+    },
+    {
+      "it": "Come potete vedere in questa slide, il traffico è raddoppiato.",
+      "en": "As you can see on this slide, traffic has doubled.",
+      "alt": [
+        "As you can see on this slide, the traffic doubled.",
+        "As you can see on this slide, traffic doubled.",
+        "As you can see in this slide, traffic has doubled."
+      ]
+    },
+    {
+      "it": "Passiamo ora ai costi.",
+      "en": "Now let's turn to the costs.",
+      "alt": [
+        "Now let's move on to the costs.",
+        "Let's turn to the costs now."
+      ]
+    },
+    {
+      "it": "Questo mi porta al punto successivo.",
+      "en": "That brings me to my next point.",
+      "alt": [
+        "This brings me to my next point.",
+        "That brings me to the next point."
+      ]
+    },
+    {
+      "it": "Vorrei sottolineare questa cifra.",
+      "en": "I'd like to emphasise this figure.",
+      "alt": [
+        "I would like to emphasise this figure.",
+        "I'd like to emphasize this figure.",
+        "I'd like to stress this figure."
+      ]
+    },
+    {
+      "it": "Riassumendo, consigliamo tre modifiche.",
+      "en": "To sum up, we recommend three changes.",
+      "alt": [
+        "In summary, we recommend three changes.",
+        "To summarise, we recommend three changes."
+      ]
+    },
+    {
+      "it": "Grazie per l'attenzione. Ci sono domande?",
+      "en": "Thank you for listening. Are there any questions?",
+      "alt": [
+        "Thank you for your attention. Are there any questions?",
+        "Thanks for listening. Any questions?"
+      ]
+    },
+    {
+      "it": "Bella domanda. Ti rispondo via mail.",
+      "en": "Good question. I'll get back to you by email.",
+      "alt": [
+        "Good question. I'll answer by email.",
+        "That's a good question. I'll get back to you by email."
+      ]
+    },
+    {
+      "it": "Potresti ripetere la domanda, per favore?",
+      "en": "Could you repeat the question, please?",
+      "alt": [
+        "Can you repeat the question, please?",
+        "Could you repeat your question, please?"
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Devi presentare a un cliente la proposta per il restyling del suo sito. Scrivi il testo del discorso (circa 12 righe): apertura con saluto e presentazione, piano in tre parti, un passaggio tra la prima e la seconda parte, un dato importante da sottolineare, la conclusione con un invito all'azione e l'apertura alle domande. Usa almeno sei frasi di signposting della lezione.",
+    "taskEn": "You have to present a proposal for a website redesign to a client. Write the text of your talk (about 12 lines): an opening with a greeting and introduction, a plan in three parts, a transition between the first and second part, an important figure to emphasise, a conclusion with a call to action, and an invitation to ask questions. Use at least six signposting phrases from the lesson.",
+    "model": "Good morning, everyone, and thank you for coming. My name is Andrea, and I'm going to present our proposal for the redesign of your website.\n\nI'll divide my talk into three parts: first, what is not working today; secondly, our proposed solution; and finally, the schedule and the costs. It will take about ten minutes, and I'll take questions at the end.\n\nLet's start with the current site. As you can see on this slide, sixty percent of your visitors leave in the first ten seconds. I'd like to emphasise this figure, because it is the main reason for our proposal.\n\nThat brings me to the second part, our solution. The new design is simpler, faster and accessible to all users.\n\nNow let's turn to the schedule and the costs. The work will take six weeks, and the full quote is on the last slide.\n\nTo sum up, a new site will keep more visitors and bring more requests. My call to action is simple: let's book a workshop next week.\n\nThank you for listening. Are there any questions?"
+  },
+  "speaking": {
+    "shadowing": [
+      "Good morning, everyone, and thank you for coming.",
+      "I'm going to talk about web accessibility.",
+      "I'll divide my talk into three parts.",
+      "First of all, let's look at the main findings.",
+      "As you can see on this slide, traffic doubled in May.",
+      "That brings me to my next point.",
+      "To sum up, we recommend three changes.",
+      "Thank you for listening. Are there any questions?"
+    ],
+    "prompts": [
+      {
+        "en": "Introduce yourself and the topic of a short presentation about your job.",
+        "it": "Presentati e presenta l'argomento di una breve presentazione sul tuo lavoro.",
+        "help": "Inizia con: Good morning, my name is... and I'm going to talk about..."
+      },
+      {
+        "en": "Explain the structure of your talk in three parts.",
+        "it": "Spiega la struttura del tuo discorso in tre parti.",
+        "help": "Usa: First of all..., Secondly..., Finally..."
+      },
+      {
+        "en": "Describe a chart or a result on a slide.",
+        "it": "Descrivi un grafico o un risultato in una slide.",
+        "help": "Usa: As you can see..., This chart shows..."
+      },
+      {
+        "en": "Conclude your presentation and ask for questions.",
+        "it": "Concludi la presentazione e chiedi se ci sono domande.",
+        "help": "Usa: To sum up..., Thank you for listening. Are there any questions?"
+      },
+      {
+        "en": "What do you do when you don't know the answer to a question?",
+        "it": "Che cosa fai quando non sai la risposta a una domanda?",
+        "help": "Usa: Good question. I'm afraid I don't know, but I'll get back to you."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione",
+      "show": [
+        "Presentations: structure",
+        "Presentazioni: la struttura",
+        "Signposting"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Oggi impari a strutturare una presentazione in inglese. Vedremo le frasi guida, chiamate signposting, che aiutano chi ascolta a non perdersi."
+        },
+        {
+          "lang": "it",
+          "text": "Sono frasi semplici, che puoi usare in ogni presentazione: per un cliente, per un audit o per una proposta."
+        }
+      ]
+    },
+    {
+      "title": "I quattro momenti",
+      "show": [
+        "1 Introduzione",
+        "2 Parti centrali",
+        "3 Conclusione",
+        "4 Domande"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Una presentazione ha quattro momenti. Introduzione, parti centrali, conclusione e domande. Per ognuno ci sono frasi tipiche."
+        }
+      ]
+    },
+    {
+      "title": "Aprire bene",
+      "show": [
+        "Good morning, everyone",
+        "I'm going to talk about...",
+        "I'll divide my talk into three parts"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nell'introduzione saluta, dì chi sei, dì di che cosa parli e spiega la struttura."
+        },
+        {
+          "lang": "en",
+          "text": "Good morning, everyone, and thank you for coming."
+        },
+        {
+          "lang": "en",
+          "text": "I'm going to talk about web accessibility."
+        },
+        {
+          "lang": "en",
+          "text": "I'll divide my talk into three parts."
+        }
+      ]
+    },
+    {
+      "title": "Elencare i punti",
+      "show": [
+        "First of all...",
+        "Secondly...",
+        "Finally..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per elencare i punti, usa first of all, secondly, e finally. Dopo ogni segnale fai una breve pausa."
+        },
+        {
+          "lang": "en",
+          "text": "First of all, I'll explain what the audit found."
+        },
+        {
+          "lang": "en",
+          "text": "Secondly, we'll look at the costs."
+        },
+        {
+          "lang": "en",
+          "text": "Finally, I'll show you the next steps."
+        }
+      ]
+    },
+    {
+      "title": "Passare da un punto all'altro",
+      "show": [
+        "Now let's turn to...",
+        "That brings me to...",
+        "As I mentioned earlier..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per passare a un nuovo punto, usa turn to oppure that brings me to. Per richiamare qualcosa di già detto, usa as I mentioned."
+        },
+        {
+          "lang": "en",
+          "text": "Now let's turn to the results."
+        },
+        {
+          "lang": "en",
+          "text": "That brings me to my next point."
+        },
+        {
+          "lang": "en",
+          "text": "As I mentioned earlier, the site is too slow."
+        }
+      ]
+    },
+    {
+      "title": "Dati e slide",
+      "show": [
+        "As you can see...",
+        "This chart shows...",
+        "I'd like to emphasise..."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Quando mostri una slide, guida lo sguardo di chi ascolta. Dì dove guardare e che cosa conta."
+        },
+        {
+          "lang": "en",
+          "text": "As you can see on this slide, traffic doubled in May."
+        },
+        {
+          "lang": "en",
+          "text": "I'd like to emphasise this figure."
+        }
+      ]
+    },
+    {
+      "title": "Concludere e domande",
+      "show": [
+        "To sum up...",
+        "In conclusion...",
+        "Any questions?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per concludere, riassumi, fai un invito all'azione, ringrazia e apri alle domande."
+        },
+        {
+          "lang": "en",
+          "text": "To sum up, we recommend three changes."
+        },
+        {
+          "lang": "en",
+          "text": "Thank you for listening. Are there any questions?"
+        },
+        {
+          "lang": "en",
+          "text": "Good question. I'll get back to you by email."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Apri: I'm going to talk about...",
+        "Guida: first, then, finally",
+        "Chiudi: to sum up, any questions?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riepilogo. Apri con un saluto e un piano. Guida chi ascolta con i segnali. Chiudi con un riassunto e le domande."
+        },
+        {
+          "lang": "it",
+          "text": "Ora scrivi il tuo discorso e provalo ad alta voce. Alla prossima lezione."
+        }
+      ]
+    }
+  ]
+}

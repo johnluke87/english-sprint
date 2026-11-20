@@ -1,0 +1,1228 @@
+{
+  "id": 26,
+  "week": 6,
+  "title": "Report e documentazione",
+  "titleEn": "Reports and documentation",
+  "intro": "Oggi impari a scrivere un report in inglese: come è fatto, che parole usare e come passare da un registro formale a uno informale. Impari anche le parole di collegamento (moreover, whereas, however) che rendono un testo chiaro e professionale. Ti serve ogni volta che consegni un documento a un cliente.",
+  "goals": [
+    "Conoscere le sezioni di un report e come chiamarle in inglese",
+    "Scegliere tra registro formale e informale in base a chi legge",
+    "Usare le parole di collegamento: moreover, whereas, however, therefore, although",
+    "Scrivere findings e recommendations in modo chiaro e preciso"
+  ],
+  "words": [
+    {
+      "en": "thus",
+      "pron": "dàs",
+      "it": "quindi, così",
+      "type": "adv",
+      "ex": "The form was fixed; thus, errors dropped.",
+      "exIt": "Il modulo è stato corretto, quindi gli errori sono calati."
+    },
+    {
+      "en": "section",
+      "pron": "sèkscian",
+      "it": "sezione",
+      "type": "noun",
+      "ex": "The second section explains our method.",
+      "exIt": "La seconda sezione spiega il nostro metodo."
+    },
+    {
+      "en": "appendix",
+      "pron": "apèndiks",
+      "it": "appendice, allegato in fondo",
+      "type": "noun",
+      "ex": "The full data is in the appendix.",
+      "exIt": "I dati completi sono in appendice."
+    },
+    {
+      "en": "executive summary",
+      "pron": "igzèkiutiv sàmari",
+      "it": "sintesi per la direzione",
+      "type": "noun",
+      "ex": "Managers usually read only the executive summary.",
+      "exIt": "I dirigenti di solito leggono solo la sintesi iniziale."
+    },
+    {
+      "en": "findings",
+      "pron": "fàindings",
+      "it": "risultati, riscontri",
+      "type": "noun",
+      "ex": "The findings are listed in section three.",
+      "exIt": "I risultati sono elencati nella sezione tre."
+    },
+    {
+      "en": "hence",
+      "pron": "hèns",
+      "it": "perciò, da qui",
+      "type": "adv",
+      "ex": "The server is old, hence the slow speed.",
+      "exIt": "Il server è vecchio, da qui la lentezza."
+    },
+    {
+      "en": "methodology",
+      "pron": "metodòladgi",
+      "it": "metodologia",
+      "type": "noun",
+      "ex": "The methodology section explains how we tested.",
+      "exIt": "La sezione sulla metodologia spiega come abbiamo testato."
+    },
+    {
+      "en": "in spite of",
+      "pron": "in spàit ov",
+      "it": "nonostante, a dispetto di",
+      "type": "phrase",
+      "ex": "In spite of the bugs, we launched on time.",
+      "exIt": "Nonostante i bug, abbiamo lanciato in tempo."
+    },
+    {
+      "en": "likewise",
+      "pron": "làikuaiz",
+      "it": "allo stesso modo",
+      "type": "adv",
+      "ex": "The menu is hard to use. Likewise, the search bar is confusing.",
+      "exIt": "Il menu è difficile da usare. Allo stesso modo, la barra di ricerca crea confusione."
+    },
+    {
+      "en": "similarly",
+      "pron": "sìmilarli",
+      "it": "in modo simile",
+      "type": "adv",
+      "ex": "Similarly, the footer lacks a clear link.",
+      "exIt": "Allo stesso modo, nel footer manca un link chiaro."
+    },
+    {
+      "en": "limitation",
+      "pron": "limitèiscian",
+      "it": "limite",
+      "type": "noun",
+      "ex": "One limitation is that we only tested two browsers.",
+      "exIt": "Un limite è che abbiamo testato solo due browser."
+    },
+    {
+      "en": "table of contents",
+      "pron": "tèibol ov kòntents",
+      "it": "indice",
+      "type": "noun",
+      "ex": "Please add a table of contents to the report.",
+      "exIt": "Per favore aggiungi un indice al report."
+    },
+    {
+      "en": "footnote",
+      "pron": "fùtnout",
+      "it": "nota a piè di pagina",
+      "type": "noun",
+      "ex": "The source is given in a footnote.",
+      "exIt": "La fonte è indicata in una nota a piè di pagina."
+    },
+    {
+      "en": "for instance",
+      "pron": "for ìnstans",
+      "it": "per esempio",
+      "type": "phrase",
+      "ex": "Many pages are slow, for instance the homepage.",
+      "exIt": "Molte pagine sono lente, per esempio la home."
+    },
+    {
+      "en": "in particular",
+      "pron": "in partìkiular",
+      "it": "in particolare",
+      "type": "phrase",
+      "ex": "The forms, in particular, need work.",
+      "exIt": "I moduli, in particolare, vanno migliorati."
+    },
+    {
+      "en": "revision",
+      "pron": "rivìgion",
+      "it": "revisione, modifica",
+      "type": "noun",
+      "ex": "The client asked for two revisions.",
+      "exIt": "Il cliente ha chiesto due revisioni."
+    },
+    {
+      "en": "changelog",
+      "pron": "cèindglog",
+      "it": "elenco delle modifiche",
+      "type": "noun",
+      "ex": "Check the changelog for recent updates.",
+      "exIt": "Controlla l'elenco delle modifiche per gli ultimi aggiornamenti."
+    },
+    {
+      "en": "version history",
+      "pron": "vèrscian hìstori",
+      "it": "cronologia delle versioni",
+      "type": "noun",
+      "ex": "The version history is at the end.",
+      "exIt": "La cronologia delle versioni è alla fine."
+    },
+    {
+      "en": "analysis",
+      "pron": "anàlisis",
+      "it": "analisi",
+      "type": "noun",
+      "ex": "The analysis shows three main problems.",
+      "exIt": "L'analisi mostra tre problemi principali."
+    },
+    {
+      "en": "severity",
+      "pron": "sivèriti",
+      "it": "gravità",
+      "type": "noun",
+      "ex": "Each finding has a severity rating.",
+      "exIt": "Ogni risultato ha un livello di gravità."
+    },
+    {
+      "en": "action item",
+      "pron": "àkscian àitem",
+      "it": "azione da svolgere",
+      "type": "noun",
+      "ex": "The last page lists all the action items.",
+      "exIt": "L'ultima pagina elenca tutte le azioni da svolgere."
+    },
+    {
+      "en": "source",
+      "pron": "sòors",
+      "it": "fonte",
+      "type": "noun",
+      "ex": "What is the source of these numbers?",
+      "exIt": "Qual è la fonte di questi numeri?"
+    },
+    {
+      "en": "to proofread",
+      "pron": "prùufriid",
+      "it": "rileggere e correggere",
+      "type": "verb",
+      "ex": "Could you proofread this before I send it?",
+      "exIt": "Puoi rileggere e correggere questo prima che lo mandi?"
+    },
+    {
+      "en": "to revise",
+      "pron": "rivàiz",
+      "it": "rivedere, modificare",
+      "type": "verb",
+      "ex": "I've revised the second section.",
+      "exIt": "Ho rivisto la seconda sezione."
+    },
+    {
+      "en": "rationale",
+      "pron": "rascianàal",
+      "it": "motivazione, logica",
+      "type": "noun",
+      "ex": "The report explains the rationale for the change.",
+      "exIt": "Il report spiega la motivazione del cambiamento."
+    },
+    {
+      "en": "to justify",
+      "pron": "giàstifai",
+      "it": "giustificare",
+      "type": "verb",
+      "ex": "We need to justify every recommendation with data.",
+      "exIt": "Dobbiamo giustificare ogni raccomandazione con dei dati."
+    },
+    {
+      "en": "key finding",
+      "pron": "kìi fàinding",
+      "it": "risultato principale",
+      "type": "noun",
+      "ex": "The key finding is that mobile is slow.",
+      "exIt": "Il risultato principale è che il mobile è lento."
+    },
+    {
+      "en": "annex",
+      "pron": "àneks",
+      "it": "allegato",
+      "type": "noun",
+      "ex": "The test results are in the annex.",
+      "exIt": "I risultati dei test sono nell'allegato."
+    },
+    {
+      "en": "to format",
+      "pron": "fòrmat",
+      "it": "formattare, impaginare",
+      "type": "verb",
+      "ex": "I still need to format the tables.",
+      "exIt": "Devo ancora impaginare le tabelle."
+    },
+    {
+      "en": "to analyse",
+      "pron": "ànalaiz",
+      "it": "analizzare",
+      "type": "verb",
+      "ex": "We analysed the data from the last six months.",
+      "exIt": "Abbiamo analizzato i dati degli ultimi sei mesi."
+    },
+    {
+      "en": "to be based on",
+      "pron": "bi bèist on",
+      "it": "basarsi su",
+      "type": "phrase",
+      "ex": "This report is based on a two-week review.",
+      "exIt": "Questo report si basa su una revisione di due settimane."
+    },
+    {
+      "en": "glossary",
+      "pron": "glòsari",
+      "it": "glossario",
+      "type": "noun",
+      "ex": "Technical terms are in the glossary.",
+      "exIt": "I termini tecnici sono nel glossario."
+    },
+    {
+      "en": "thorough",
+      "pron": "tàra",
+      "it": "approfondito, accurato",
+      "type": "adj",
+      "ex": "It was a thorough review of the whole site.",
+      "exIt": "È stata una revisione approfondita di tutto il sito."
+    },
+    {
+      "en": "comprehensive",
+      "pron": "komprihènsiv",
+      "it": "completo, esaustivo",
+      "type": "adj",
+      "ex": "The client wants a comprehensive report.",
+      "exIt": "Il cliente vuole un report esaustivo."
+    },
+    {
+      "en": "formal",
+      "pron": "fòrmal",
+      "it": "formale",
+      "type": "adj",
+      "ex": "A report to a public body should be formal.",
+      "exIt": "Un report per un ente pubblico dovrebbe essere formale."
+    },
+    {
+      "en": "informal",
+      "pron": "infòrmal",
+      "it": "informale",
+      "type": "adj",
+      "ex": "An informal tone is fine for a short update.",
+      "exIt": "Un tono informale va bene per un breve aggiornamento."
+    },
+    {
+      "en": "moreover",
+      "pron": "mooròuvar",
+      "it": "inoltre, per di più",
+      "type": "adv",
+      "ex": "The site is slow. Moreover, it is not secure.",
+      "exIt": "Il sito è lento. Inoltre non è sicuro."
+    },
+    {
+      "en": "furthermore",
+      "pron": "fèrdamoor",
+      "it": "inoltre, in aggiunta",
+      "type": "adv",
+      "ex": "Furthermore, the menu is hard to use.",
+      "exIt": "Inoltre il menu è difficile da usare."
+    },
+    {
+      "en": "whereas",
+      "pron": "uearàz",
+      "it": "mentre, laddove (contrasto)",
+      "type": "conj",
+      "ex": "Desktop traffic fell, whereas mobile traffic grew.",
+      "exIt": "Il traffico desktop è calato, mentre quello mobile è cresciuto."
+    },
+    {
+      "en": "notwithstanding",
+      "pron": "notuidstànding",
+      "it": "nonostante",
+      "type": "prep",
+      "ex": "Notwithstanding the cost, we recommend the upgrade.",
+      "exIt": "Nonostante il costo, consigliamo l'aggiornamento."
+    },
+    {
+      "en": "hereby",
+      "pron": "hiarbài",
+      "it": "con la presente",
+      "type": "adv",
+      "ex": "We hereby confirm the order.",
+      "exIt": "Con la presente confermiamo l'ordine."
+    },
+    {
+      "en": "consequently",
+      "pron": "kònsikuantli",
+      "it": "di conseguenza",
+      "type": "adv",
+      "ex": "Consequently, we moved the launch to May.",
+      "exIt": "Di conseguenza abbiamo spostato il lancio a maggio."
+    },
+    {
+      "en": "pursuant to",
+      "pron": "persiùant tu",
+      "it": "ai sensi di, in base a",
+      "type": "phrase",
+      "ex": "Pursuant to the contract, payment is due today.",
+      "exIt": "In base al contratto, il pagamento è dovuto oggi."
+    },
+    {
+      "en": "to enclose",
+      "pron": "inklòuz",
+      "it": "allegare (a una lettera)",
+      "type": "verb",
+      "ex": "I enclose the signed contract.",
+      "exIt": "Allego il contratto firmato."
+    },
+    {
+      "en": "despite",
+      "pron": "dispàit",
+      "it": "nonostante",
+      "type": "prep",
+      "ex": "Despite the delay, we met the final deadline.",
+      "exIt": "Nonostante il ritardo, abbiamo rispettato la scadenza finale."
+    },
+    {
+      "en": "in addition",
+      "pron": "in adìscion",
+      "it": "in aggiunta",
+      "type": "phrase",
+      "ex": "In addition, we suggest a monthly check.",
+      "exIt": "Inoltre, suggeriamo un controllo mensile."
+    },
+    {
+      "en": "kind regards",
+      "pron": "kàind rigàardz",
+      "it": "cordiali saluti",
+      "type": "phrase",
+      "ex": "Kind regards, Luca.",
+      "exIt": "Cordiali saluti, Luca."
+    },
+    {
+      "en": "recommendations",
+      "pron": "rekomendèiscianz",
+      "it": "raccomandazioni",
+      "type": "noun",
+      "ex": "The recommendations are on the last page.",
+      "exIt": "Le raccomandazioni sono nell'ultima pagina."
+    },
+    {
+      "en": "subsection",
+      "pron": "sàbsekscian",
+      "it": "sottosezione",
+      "type": "noun",
+      "ex": "Each subsection has a short title.",
+      "exIt": "Ogni sottosezione ha un titolo breve."
+    },
+    {
+      "en": "bullet list",
+      "pron": "bùlit lìst",
+      "it": "elenco puntato",
+      "type": "noun",
+      "ex": "Use a bullet list for the steps.",
+      "exIt": "Usa un elenco puntato per i passaggi."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "to assist",
+      "it": "aiutare",
+      "trap": "Non vuol dire 'assistere a' un evento (= to attend)."
+    },
+    {
+      "en": "sympathetic",
+      "it": "comprensivo",
+      "trap": "Non vuol dire 'simpatico' (= nice, friendly)."
+    },
+    {
+      "en": "comprehensive",
+      "it": "completo, esaustivo",
+      "trap": "Non vuol dire 'comprensibile' (= understandable, clear)."
+    }
+  ],
+  "grammar": {
+    "title": "Registro formale e informale; le parole di collegamento",
+    "explainIt": [
+      "In inglese esistono due registri principali. Il registro formale si usa nei report, nei contratti e quando scrivi a persone che non conosci. Il registro informale si usa con colleghi e clienti che conosci bene, in chat e nelle mail brevi.",
+      "Le differenze sono semplici. Nel formale non usi le contrazioni (do not, we have) e preferisci verbi più precisi (obtain, require, inform). Nell'informale usi le contrazioni (don't, we've) e i phrasal verb (find out, look into, get back to).",
+      "Per esempio: informale 'We looked into it and found out the plugin is old.' Formale 'We investigated the matter and established that the plugin is outdated.' Il significato è lo stesso, ma il tono è diverso. Nel report scrivi la seconda.",
+      "Le parole di collegamento servono a legare le frasi e dicono al lettore cosa aspettarsi. Per aggiungere: moreover, furthermore, in addition. Per contrastare: however, nevertheless, whereas, on the other hand. Per la conseguenza: therefore, consequently, as a result.",
+      "Attenzione alla punteggiatura. Con however, therefore e moreover all'inizio di una frase si mette la virgola dopo: 'However, the page is slow.' Se stanno in mezzo a due frasi, metti il punto e virgola prima: 'The page is slow; however, it works.' Whereas e although, invece, sono congiunzioni: non vogliono il punto prima.",
+      "Un consiglio: non riempire il report di connettivi. Un connettivo ogni due o tre frasi basta. Un testo con troppi however e moreover sembra pesante."
+    ],
+    "explainEn": [
+      "English has two main registers. The formal register is used in reports, contracts and when you write to people you do not know. The informal register is used with colleagues and clients you know well, in chats and in short emails.",
+      "The differences are simple. In formal writing you do not use contractions (do not, we have) and you choose more precise verbs (obtain, require, inform). In informal writing you use contractions (don't, we've) and phrasal verbs (find out, look into, get back to).",
+      "For example, informal: 'We looked into it and found out the plugin is old.' Formal: 'We investigated the matter and established that the plugin is outdated.' The meaning is the same, but the tone is different. In a report, you write the second one.",
+      "Linking words connect your sentences and tell the reader what comes next. To add: moreover, furthermore, in addition. To contrast: however, nevertheless, whereas, on the other hand. To show a result: therefore, consequently, as a result.",
+      "Be careful with punctuation. When however, therefore or moreover start a sentence, put a comma after them: 'However, the page is slow.' When they come between two clauses, use a semicolon before them: 'The page is slow; however, it works.' Whereas and although are conjunctions, so you do not put a full stop before them.",
+      "One tip: do not fill your report with linking words. One every two or three sentences is enough. A text with too many however and moreover feels heavy."
+    ],
+    "rules": [
+      {
+        "it": "Nel formale niente contrazioni e verbi precisi; nell'informale contrazioni e phrasal verb.",
+        "en": "In formal writing, avoid contractions and use precise verbs; in informal writing, use contractions and phrasal verbs.",
+        "form": "formale: do not, obtain, inform / informale: don't, get, let know",
+        "examples": [
+          {
+            "en": "We were unable to access the staging server.",
+            "it": "Non siamo riusciti ad accedere al server di staging."
+          },
+          {
+            "en": "We couldn't get into the staging server.",
+            "it": "Non siamo riusciti a entrare nel server di staging."
+          },
+          {
+            "en": "Please inform us of any changes.",
+            "it": "Vi preghiamo di informarci di eventuali modifiche."
+          }
+        ]
+      },
+      {
+        "it": "Per aggiungere un'informazione: moreover, furthermore, in addition. Vanno a inizio frase, con la virgola.",
+        "en": "To add information: moreover, furthermore, in addition. They go at the start of a sentence, followed by a comma.",
+        "form": "Moreover, + frase",
+        "examples": [
+          {
+            "en": "The site is slow. Moreover, it is not secure.",
+            "it": "Il sito è lento. Inoltre non è sicuro."
+          },
+          {
+            "en": "In addition, the images have no alternative text.",
+            "it": "In aggiunta, le immagini non hanno testo alternativo."
+          }
+        ]
+      },
+      {
+        "it": "Per contrastare: however e nevertheless iniziano una nuova frase; whereas e although uniscono due frasi.",
+        "en": "To contrast: however and nevertheless start a new sentence; whereas and although join two clauses.",
+        "form": "frase. However, frase / frase, whereas frase / Although frase, frase",
+        "examples": [
+          {
+            "en": "The design is attractive. However, it is hard to use.",
+            "it": "Il design è bello. Tuttavia è difficile da usare."
+          },
+          {
+            "en": "Mobile traffic grew, whereas desktop traffic fell.",
+            "it": "Il traffico mobile è cresciuto, mentre quello desktop è calato."
+          },
+          {
+            "en": "Although the site is fast, it has accessibility problems.",
+            "it": "Anche se il sito è veloce, ha problemi di accessibilità."
+          }
+        ]
+      },
+      {
+        "it": "Per la conseguenza: therefore, consequently, as a result.",
+        "en": "To show a result: therefore, consequently, as a result.",
+        "form": "frase. Therefore, frase",
+        "examples": [
+          {
+            "en": "The data is incomplete. Therefore, we cannot give a firm answer.",
+            "it": "I dati sono incompleti. Perciò non possiamo dare una risposta definitiva."
+          },
+          {
+            "en": "The server was updated. As a result, the site is faster.",
+            "it": "Il server è stato aggiornato. Di conseguenza il sito è più veloce."
+          }
+        ]
+      },
+      {
+        "it": "Despite e in spite of vogliono un sostantivo o un -ing, non una frase completa. Although vuole una frase completa.",
+        "en": "Despite and in spite of are followed by a noun or an -ing form, not a full clause. Although is followed by a full clause.",
+        "form": "despite + nome/-ing / although + soggetto + verbo",
+        "examples": [
+          {
+            "en": "Despite the delay, we finished on time.",
+            "it": "Nonostante il ritardo, abbiamo finito in tempo."
+          },
+          {
+            "en": "Despite working late, we missed the deadline.",
+            "it": "Pur lavorando fino a tardi, abbiamo mancato la scadenza."
+          },
+          {
+            "en": "Although we worked late, we missed the deadline.",
+            "it": "Anche se abbiamo lavorato fino a tardi, abbiamo mancato la scadenza."
+          }
+        ]
+      }
+    ],
+    "tip": "Prima di scrivere chiediti: chi legge questo? Se è una persona che non conosci o un documento ufficiale, scegli il formale. Se è un collega con cui ti dai del tu, scegli l'informale. In un report, nel dubbio, vai sul formale.",
+    "mistakes": [
+      {
+        "wrong": "Despite we were late, we finished.",
+        "right": "Despite being late, we finished. / Although we were late, we finished.",
+        "why": "despite vuole un nome o -ing, although vuole una frase"
+      },
+      {
+        "wrong": "The site is slow, however it works.",
+        "right": "The site is slow; however, it works.",
+        "why": "however non unisce due frasi con la sola virgola: serve il punto e virgola o un punto"
+      },
+      {
+        "wrong": "Moreover the site is not secure.",
+        "right": "Moreover, the site is not secure.",
+        "why": "a inizio frase dopo moreover si mette la virgola"
+      },
+      {
+        "wrong": "Desktop traffic fell. Whereas mobile traffic grew.",
+        "right": "Desktop traffic fell, whereas mobile traffic grew.",
+        "why": "whereas unisce due frasi: non va dopo un punto, ma dopo una virgola"
+      },
+      {
+        "wrong": "In the other hand, it is cheaper.",
+        "right": "On the other hand, it is cheaper.",
+        "why": "l'espressione fissa è on the other hand"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "The page is slow. ___, it is secure.",
+      "a": [
+        "however",
+        "nevertheless"
+      ],
+      "hint": "contrasto",
+      "explain": "However o nevertheless introducono un contrasto."
+    },
+    {
+      "q": "Desktop fell, ___ mobile grew.",
+      "a": [
+        "whereas"
+      ],
+      "hint": "due fatti a confronto",
+      "explain": "Whereas confronta due cose nella stessa frase."
+    },
+    {
+      "q": "The data is incomplete. ___, we cannot draw any conclusions.",
+      "a": [
+        "therefore",
+        "consequently",
+        "as a result"
+      ],
+      "hint": "conseguenza",
+      "explain": "Therefore introduce una conseguenza."
+    },
+    {
+      "q": "The site is not secure. ___, it has no privacy policy.",
+      "a": [
+        "moreover",
+        "furthermore",
+        "in addition"
+      ],
+      "hint": "aggiungere un problema",
+      "explain": "Moreover aggiunge un'informazione."
+    },
+    {
+      "q": "___ the delay, we finished on time.",
+      "a": [
+        "despite",
+        "in spite of"
+      ],
+      "hint": "seguito da un nome",
+      "explain": "Despite + nome."
+    },
+    {
+      "q": "___ the design is nice, it is hard to use.",
+      "a": [
+        "although",
+        "though",
+        "even though"
+      ],
+      "hint": "segue una frase completa",
+      "explain": "Although + soggetto + verbo."
+    },
+    {
+      "q": "A redesign is costly. On the ___ hand, it saves time later.",
+      "a": [
+        "other"
+      ],
+      "hint": "espressione fissa",
+      "explain": "On the other hand = d'altra parte."
+    },
+    {
+      "q": "Formal version of 'We found out': 'We ___.'",
+      "a": [
+        "established",
+        "discovered",
+        "identified"
+      ],
+      "hint": "verbo più formale",
+      "explain": "Found out è informale; established o identified sono formali."
+    },
+    {
+      "q": "Write the formal form of 'don't': 'do ___'.",
+      "a": [
+        "not"
+      ],
+      "hint": "senza contrazione",
+      "explain": "Nel formale: do not."
+    },
+    {
+      "q": "This report ___ (base) on a two-week review.",
+      "a": [
+        "is based"
+      ],
+      "hint": "passivo",
+      "explain": "Si dice is based on."
+    },
+    {
+      "q": "Please ___ to section four for details.",
+      "a": [
+        "refer"
+      ],
+      "hint": "fare riferimento",
+      "explain": "To refer to = fare riferimento a."
+    },
+    {
+      "q": "The system is old. In ___ words, it must be replaced.",
+      "a": [
+        "other"
+      ],
+      "hint": "in altre parole",
+      "explain": "In other words = in altre parole."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Aprire un report",
+      "en": "The purpose of this report is to present the results of the audit.",
+      "it": "Lo scopo di questo report è presentare i risultati dell'audit."
+    },
+    {
+      "group": "Aprire un report",
+      "en": "This report is based on a review carried out in October.",
+      "it": "Questo report si basa su una revisione svolta a ottobre."
+    },
+    {
+      "group": "Aprire un report",
+      "en": "The scope of the review is limited to the public pages.",
+      "it": "L'ambito della revisione è limitato alle pagine pubbliche."
+    },
+    {
+      "group": "Aprire un report",
+      "en": "A full list of references is given in the appendix.",
+      "it": "L'elenco completo delle fonti è in appendice."
+    },
+    {
+      "group": "Presentare i risultati",
+      "en": "The main findings are set out below.",
+      "it": "I principali risultati sono riportati qui sotto."
+    },
+    {
+      "group": "Presentare i risultati",
+      "en": "Our analysis shows that most pages are too slow.",
+      "it": "La nostra analisi mostra che la maggior parte delle pagine è troppo lenta."
+    },
+    {
+      "group": "Presentare i risultati",
+      "en": "It is worth noting that the problem is not new.",
+      "it": "Vale la pena notare che il problema non è nuovo."
+    },
+    {
+      "group": "Presentare i risultati",
+      "en": "The evidence suggests that the redesign worked.",
+      "it": "I dati indicano che il restyling ha funzionato."
+    },
+    {
+      "group": "Presentare i risultati",
+      "en": "Each finding is rated by severity.",
+      "it": "Ogni risultato è classificato per gravità."
+    },
+    {
+      "group": "Raccomandare",
+      "en": "We recommend that the plugin be replaced.",
+      "it": "Raccomandiamo di sostituire il plugin.",
+      "note": "Formale: dopo recommend that si usa la forma base"
+    },
+    {
+      "group": "Raccomandare",
+      "en": "We would suggest starting with the homepage.",
+      "it": "Suggeriamo di iniziare dalla home."
+    },
+    {
+      "group": "Raccomandare",
+      "en": "The next steps are listed in section five.",
+      "it": "I prossimi passi sono elencati nella sezione cinque."
+    },
+    {
+      "group": "Raccomandare",
+      "en": "Our top priority is to fix the checkout.",
+      "it": "La nostra priorità assoluta è sistemare il checkout."
+    },
+    {
+      "group": "Collegare le idee",
+      "en": "In addition to this, the images are too large.",
+      "it": "In aggiunta a ciò, le immagini sono troppo grandi."
+    },
+    {
+      "group": "Collegare le idee",
+      "en": "On the one hand, it is cheap; on the other hand, it is slow.",
+      "it": "Da una parte è economico; dall'altra è lento."
+    },
+    {
+      "group": "Collegare le idee",
+      "en": "As a result, users leave the page quickly.",
+      "it": "Di conseguenza, gli utenti lasciano subito la pagina."
+    },
+    {
+      "group": "Collegare le idee",
+      "en": "In other words, the site needs a new server.",
+      "it": "In altre parole, il sito ha bisogno di un nuovo server."
+    },
+    {
+      "group": "Collegare le idee",
+      "en": "For instance, the contact form does not work on mobile.",
+      "it": "Per esempio, il modulo di contatto non funziona su mobile."
+    },
+    {
+      "group": "Chiudere il documento",
+      "en": "In conclusion, we recommend three changes.",
+      "it": "In conclusione, raccomandiamo tre modifiche."
+    },
+    {
+      "group": "Chiudere il documento",
+      "en": "To conclude, the site is in good shape overall.",
+      "it": "Per concludere, il sito è nel complesso in buono stato."
+    },
+    {
+      "group": "Chiudere il documento",
+      "en": "Please do not hesitate to contact us with any questions.",
+      "it": "Non esitate a contattarci per qualsiasi domanda.",
+      "note": "Formale, da fine documento"
+    },
+    {
+      "group": "Chiedere e dare un parere sul documento",
+      "en": "Could you proofread this draft before Friday?",
+      "it": "Puoi rileggere questa bozza prima di venerdì?"
+    },
+    {
+      "group": "Chiedere e dare un parere sul documento",
+      "en": "I've made a few revisions to the second section.",
+      "it": "Ho fatto qualche modifica alla seconda sezione."
+    },
+    {
+      "group": "Chiedere e dare un parere sul documento",
+      "en": "The report is clear, but a bit too long.",
+      "it": "Il report è chiaro, ma un po' troppo lungo."
+    },
+    {
+      "group": "Chiedere e dare un parere sul documento",
+      "en": "Could you make the introduction more concise?",
+      "it": "Puoi rendere l'introduzione più concisa?"
+    }
+  ],
+  "dialogue": {
+    "title": "Reviewing a draft report",
+    "context": "Luca ha scritto la prima bozza di un report per un cliente. Il suo collega Mark la legge e gli dà qualche consiglio su tono e struttura.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "Hi Luca, I've read your draft. It's a thorough report.",
+        "it": "Ciao Luca, ho letto la tua bozza. È un report approfondito."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Thanks. Is there anything I should change?",
+        "it": "Grazie. C'è qualcosa che dovrei cambiare?"
+      },
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "Yes. The executive summary is too long. Managers will only read that part.",
+        "it": "Sì. La sintesi iniziale è troppo lunga. I dirigenti leggeranno solo quella parte."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Right. I'll make it more concise. What about the tone?",
+        "it": "Giusto. La renderò più concisa. E il tono?"
+      },
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "In some sections it's too informal. You wrote 'we found out' and 'we couldn't get in'.",
+        "it": "In alcune sezioni è troppo informale. Hai scritto 'we found out' e 'we couldn't get in'."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "I see. I should write 'we established' and 'we were unable to access'.",
+        "it": "Capisco. Dovrei scrivere 'we established' e 'we were unable to access'."
+      },
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "Exactly. Also, you need linking words. Right now the sentences feel disconnected.",
+        "it": "Esatto. Inoltre servono parole di collegamento. Adesso le frasi sembrano slegate."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "For example, I could write 'The site is fast. However, it has accessibility problems.'",
+        "it": "Per esempio potrei scrivere 'Il sito è veloce. Tuttavia ha problemi di accessibilità.'"
+      },
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "Perfect. And use 'whereas' when you compare two things in one sentence.",
+        "it": "Perfetto. E usa 'whereas' quando confronti due cose nella stessa frase."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Good idea. Is the methodology section clear enough?",
+        "it": "Buona idea. La sezione sulla metodologia è abbastanza chiara?"
+      },
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "Mostly. Add the scope, and mention the limitations. For instance, you only tested two browsers.",
+        "it": "In gran parte. Aggiungi l'ambito e cita i limiti. Per esempio, hai testato solo due browser."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Understood. What about the recommendations?",
+        "it": "Capito. E le raccomandazioni?"
+      },
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "They are good, but put the most important one first, with a severity rating.",
+        "it": "Sono buone, ma metti per prima la più importante, con un livello di gravità."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Will do. I'll send a revised version by Thursday.",
+        "it": "Va bene. Manderò una versione rivista entro giovedì."
+      },
+      {
+        "s": "A",
+        "name": "Mark",
+        "en": "Great. Send it to me first, and I'll proofread it.",
+        "it": "Ottimo. Mandala prima a me e la rileggo io."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What is the problem with the executive summary?",
+      "options": [
+        "It is too long",
+        "It is missing",
+        "It is too informal"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which phrase should Luca use instead of 'we found out'?",
+      "options": [
+        "We got in",
+        "We established",
+        "We looked into"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What should Luca add to the methodology section?",
+      "options": [
+        "A table of contents",
+        "More pictures",
+        "The scope and the limitations"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "When will Luca send the revised version?",
+      "options": [
+        "By Thursday",
+        "By Friday",
+        "Today"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Lo scopo di questo report è presentare i risultati dell'audit.",
+      "en": "The purpose of this report is to present the results of the audit.",
+      "alt": [
+        "The aim of this report is to present the audit findings.",
+        "This report aims to present the audit results."
+      ]
+    },
+    {
+      "it": "Il sito è veloce. Tuttavia ha problemi di accessibilità.",
+      "en": "The site is fast. However, it has accessibility problems.",
+      "alt": [
+        "The site is fast; however, it has accessibility problems.",
+        "The site is fast. Nevertheless, it has accessibility problems."
+      ]
+    },
+    {
+      "it": "Il traffico desktop è calato, mentre quello mobile è cresciuto.",
+      "en": "Desktop traffic fell, whereas mobile traffic grew.",
+      "alt": [
+        "Desktop traffic dropped, whereas mobile traffic increased.",
+        "Desktop traffic has fallen, whereas mobile traffic has grown."
+      ]
+    },
+    {
+      "it": "Nonostante il ritardo, abbiamo finito in tempo.",
+      "en": "Despite the delay, we finished on time.",
+      "alt": [
+        "In spite of the delay, we finished on time.",
+        "Although there was a delay, we finished on time."
+      ]
+    },
+    {
+      "it": "Questo report si basa su una revisione di due settimane.",
+      "en": "This report is based on a two-week review.",
+      "alt": [
+        "This report is based on a review lasting two weeks.",
+        "This report is based on a review carried out over two weeks."
+      ]
+    },
+    {
+      "it": "I dati sono incompleti. Perciò non possiamo concludere.",
+      "en": "The data is incomplete. Therefore, we cannot draw any conclusions.",
+      "alt": [
+        "The data is incomplete. Consequently, we cannot draw any conclusions.",
+        "The data is incomplete. As a result, we cannot reach a conclusion.",
+        "The data is incomplete; therefore, we cannot draw any conclusions."
+      ]
+    },
+    {
+      "it": "Puoi rileggere questa bozza prima di venerdì?",
+      "en": "Could you proofread this draft before Friday?",
+      "alt": [
+        "Can you proofread this draft before Friday?",
+        "Could you proofread this draft by Friday?"
+      ]
+    },
+    {
+      "it": "Raccomandiamo di sostituire il vecchio plugin.",
+      "en": "We recommend replacing the old plugin.",
+      "alt": [
+        "We recommend that the old plugin be replaced.",
+        "We recommend that you replace the old plugin."
+      ]
+    },
+    {
+      "it": "Per i dettagli fai riferimento alla sezione quattro.",
+      "en": "Please refer to section four for details.",
+      "alt": [
+        "For details, please refer to section four.",
+        "Please see section four for details."
+      ]
+    },
+    {
+      "it": "In conclusione, raccomandiamo tre modifiche.",
+      "en": "In conclusion, we recommend three changes.",
+      "alt": [
+        "To conclude, we recommend three changes.",
+        "In conclusion, we recommend making three changes."
+      ]
+    },
+    {
+      "it": "Il report è chiaro, ma un po' troppo lungo.",
+      "en": "The report is clear, but a bit too long.",
+      "alt": [
+        "The report is clear but a little too long.",
+        "The report is clear, but it is slightly too long."
+      ]
+    },
+    {
+      "it": "I risultati completi sono in appendice.",
+      "en": "The full results are in the appendix.",
+      "alt": [
+        "The complete results are in the appendix.",
+        "The full findings are in the appendix."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Scrivi la sezione 'Findings and recommendations' (100-120 parole) di un report per un cliente che ha un piccolo e-commerce. Usa un registro formale. Descrivi due problemi trovati (per esempio: pagine lente e checkout confuso). Usa almeno quattro parole di collegamento (however, moreover, therefore, whereas...). Concludi con due raccomandazioni.",
+    "taskEn": "Write the 'Findings and recommendations' section (100-120 words) of a report for a client who has a small online shop. Use a formal register. Describe two problems you found (for example: slow pages and a confusing checkout). Use at least four linking words (however, moreover, therefore, whereas...). Finish with two recommendations.",
+    "model": "Findings\nOur analysis shows that the shop has two main problems. Firstly, the product pages take an average of six seconds to load, whereas the industry standard is under three seconds. Moreover, the checkout requires five separate steps. Consequently, many visitors abandon their order before payment.\nThe design is attractive; however, it does not help users to complete their purchase.\n\nRecommendations\nWe recommend that the images be compressed and that a faster hosting plan be considered. In addition, the checkout should be reduced to two steps. We suggest starting with the checkout, as it has the greatest impact on sales."
+  },
+  "speaking": {
+    "shadowing": [
+      "The purpose of this report is to present the results of the audit.",
+      "Our analysis shows that most pages are too slow.",
+      "The design is attractive. However, it is hard to use.",
+      "Desktop traffic fell, whereas mobile traffic grew.",
+      "Despite the delay, we finished on time.",
+      "We recommend that the plugin be replaced.",
+      "In other words, the site needs a new server.",
+      "In conclusion, we recommend three changes."
+    ],
+    "prompts": [
+      {
+        "en": "What sections does a good report have?",
+        "it": "Quali sezioni ha un buon report?",
+        "help": "Inizia con: A good report has... / It starts with an executive summary..."
+      },
+      {
+        "en": "Explain the difference between formal and informal writing.",
+        "it": "Spiega la differenza tra scrivere in modo formale e informale.",
+        "help": "Usa: contractions, phrasal verbs, precise verbs."
+      },
+      {
+        "en": "Describe a recent report or document you wrote at work.",
+        "it": "Descrivi un report o un documento che hai scritto di recente al lavoro.",
+        "help": "Usa: I wrote a report about... / It was based on..."
+      },
+      {
+        "en": "Compare two tools or two solutions using whereas and however.",
+        "it": "Confronta due strumenti o due soluzioni con whereas e however.",
+        "help": "Usa: X is..., whereas Y is... / X is cheap. However, ..."
+      },
+      {
+        "en": "What is your main recommendation for a client right now?",
+        "it": "Qual è la tua raccomandazione principale per un cliente in questo momento?",
+        "help": "Usa: I would recommend... / Our top priority is..."
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: il report",
+      "show": [
+        "Reports and documentation",
+        "registro formale e informale",
+        "moreover, whereas, however"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione ventisei. Oggi parliamo di report. Impari come è fatto un report in inglese, quando scrivere in modo formale e quali parole usare per collegare le frasi."
+        },
+        {
+          "lang": "en",
+          "text": "The purpose of this report is to present the results of the audit."
+        }
+      ]
+    },
+    {
+      "title": "Le sezioni di un report",
+      "show": [
+        "executive summary",
+        "background, scope, methodology",
+        "findings, recommendations, appendix"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Un buon report ha sempre una struttura chiara. Si inizia con la sintesi per la direzione. Poi arrivano il contesto, l'ambito e la metodologia. Poi i risultati e le raccomandazioni. In fondo l'appendice."
+        },
+        {
+          "lang": "en",
+          "text": "The main findings are set out below. The full data is in the appendix."
+        }
+      ]
+    },
+    {
+      "title": "Formale o informale",
+      "show": [
+        "formale: do not, obtain, inform",
+        "informale: don't, get, let know",
+        "report = formale"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Nel registro formale non usi le contrazioni e scegli verbi precisi. Nel registro informale usi le contrazioni e i phrasal verb. In un report scrivi sempre in modo formale."
+        },
+        {
+          "lang": "en",
+          "text": "Informal: we found out the plugin is old. Formal: we established that the plugin is outdated."
+        }
+      ]
+    },
+    {
+      "title": "Collegare: aggiungere",
+      "show": [
+        "moreover",
+        "furthermore",
+        "in addition"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per aggiungere un'informazione usa moreover, furthermore o in addition. Vanno all'inizio della frase, con la virgola dopo."
+        },
+        {
+          "lang": "en",
+          "text": "The site is slow. Moreover, it is not secure."
+        }
+      ]
+    },
+    {
+      "title": "Collegare: contrastare",
+      "show": [
+        "however, nevertheless",
+        "whereas, although",
+        "on the other hand"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per contrastare usa however o nevertheless all'inizio di una nuova frase. Usa whereas e although per unire due frasi. Whereas confronta due cose, although introduce una concessione."
+        },
+        {
+          "lang": "en",
+          "text": "Desktop traffic fell, whereas mobile traffic grew. Although the site is fast, it has accessibility problems."
+        }
+      ]
+    },
+    {
+      "title": "Collegare: conseguenza e despite",
+      "show": [
+        "therefore, consequently, as a result",
+        "despite + nome",
+        "although + frase"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per la conseguenza usa therefore, consequently o as a result. Attenzione a despite: vuole un nome o un verbo in ing. Although, invece, vuole una frase completa."
+        },
+        {
+          "lang": "en",
+          "text": "Despite the delay, we finished on time. Although there was a delay, we finished on time."
+        }
+      ]
+    },
+    {
+      "title": "Le espressioni chiave dei report",
+      "show": [
+        "Our analysis shows that...",
+        "We recommend that...",
+        "Please refer to section four."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Queste frasi ti aiutano a scrivere in fretta. Con our analysis shows presenti un risultato. Con we recommend dai un consiglio. Con please refer to rimandi a un'altra sezione."
+        },
+        {
+          "lang": "en",
+          "text": "Our analysis shows that most pages are too slow. We recommend that the plugin be replaced."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "struttura chiara",
+        "registro formale",
+        "un connettivo ogni due frasi"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Dai al report una struttura chiara. Scrivi in modo formale. Usa i connettivi, ma non troppi. Ora prova a scrivere la tua sezione di risultati e raccomandazioni."
+        },
+        {
+          "lang": "en",
+          "text": "In conclusion, we recommend three changes."
+        }
+      ]
+    }
+  ]
+}

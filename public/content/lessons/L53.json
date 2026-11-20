@@ -1,0 +1,317 @@
+{
+  "id": 53,
+  "week": 11,
+  "title": "Budget e numeri",
+  "titleEn": "Budgets and numbers",
+  "intro": "Oggi impari a parlare di budget, previsioni, costi, ricavi e margini, e a commentare i numeri con un cliente o un responsabile. Impari anche a esprimere desideri e rimpianti con wish e if only, utili per dire cosa vorresti che fosse diverso, per esempio 'Magari avessimo più budget'.",
+  "goals": [
+    "Leggere e commentare un budget con voci come costi, ricavi e margini",
+    "Parlare di previsioni e scostamenti dal piano",
+    "Esprimere desideri e rimpianti con wish e if only",
+    "Spiegare a un cliente perché il budget non basta"
+  ],
+  "words": [
+    { "en": "overheads", "pron": "òuverhedz", "it": "spese generali", "type": "noun", "ex": "Our overheads rose this year.", "exIt": "Le nostre spese generali sono aumentate quest'anno." },
+    { "en": "loss", "pron": "lòs", "it": "perdita", "type": "noun", "ex": "The project ended with a small loss.", "exIt": "Il progetto si è chiuso con una piccola perdita." },
+    { "en": "allocation", "pron": "alokèiscion", "it": "assegnazione, stanziamento", "type": "noun", "ex": "The allocation for training was cut.", "exIt": "Lo stanziamento per la formazione è stato tagliato." },
+    { "en": "deficit", "pron": "dèfisit", "it": "disavanzo, ammanco", "type": "noun", "ex": "We have a deficit of 2,000 euros.", "exIt": "Abbiamo un disavanzo di 2.000 euro." },
+    { "en": "expense", "pron": "ikspèns", "it": "spesa", "type": "noun", "ex": "Travel is our biggest expense.", "exIt": "I viaggi sono la nostra spesa maggiore." },
+    { "en": "projection", "pron": "prodgèkscion", "it": "proiezione", "type": "noun", "ex": "These projections are based on current trends.", "exIt": "Queste proiezioni si basano sulle tendenze attuali." },
+    { "en": "revenue", "pron": "rèveniu", "it": "ricavi, entrate", "type": "noun", "ex": "Annual revenue reached two million euros.", "exIt": "I ricavi annui hanno raggiunto due milioni di euro." },
+    { "en": "turnover", "pron": "tèrnouva", "it": "fatturato", "type": "noun", "ex": "The company's turnover grew by 12%.", "exIt": "Il fatturato dell'azienda è cresciuto del 12%." },
+    { "en": "profit", "pron": "pròfit", "it": "profitto, utile", "type": "noun", "ex": "We made a small profit last quarter.", "exIt": "Lo scorso trimestre abbiamo fatto un piccolo utile." },
+    { "en": "profit margin", "pron": "pròfit màrgin", "it": "margine di profitto", "type": "noun", "ex": "Our profit margin is around 20%.", "exIt": "Il nostro margine di profitto è circa il 20%." },
+    { "en": "quotation", "pron": "kuoutèiscion", "it": "preventivo, quotazione", "type": "noun", "ex": "I'll send you a quotation tomorrow.", "exIt": "Domani ti mando un preventivo." },
+    { "en": "to write off", "pron": "ràit òf", "it": "stralciare, considerare perso", "type": "verb", "ex": "We had to write off the unpaid invoice.", "exIt": "Abbiamo dovuto stralciare la fattura non pagata." },
+    { "en": "overhead", "pron": "òuvahed", "it": "spese generali", "type": "noun", "ex": "Rent and electricity are part of the overheads.", "exIt": "Affitto ed elettricità fanno parte delle spese generali." },
+    { "en": "fixed costs", "pron": "fìkst kòsts", "it": "costi fissi", "type": "noun", "ex": "Hosting and licences are fixed costs.", "exIt": "Hosting e licenze sono costi fissi." },
+    { "en": "variable costs", "pron": "vèariabol kòsts", "it": "costi variabili", "type": "noun", "ex": "Variable costs change with the number of customers.", "exIt": "I costi variabili cambiano con il numero di clienti." },
+    { "en": "expenditure", "pron": "ikspèndiciua", "it": "spesa, uscite", "type": "noun", "ex": "Total expenditure is 30% over the plan.", "exIt": "La spesa totale è del 30% sopra il piano." },
+    { "en": "to cut costs", "pron": "kàt kòsts", "it": "ridurre i costi", "type": "phrase", "ex": "We need to cut costs by 15%.", "exIt": "Dobbiamo ridurre i costi del 15%." },
+    { "en": "cash flow", "pron": "kàsc flòu", "it": "flusso di cassa, liquidità", "type": "noun", "ex": "Late payments are damaging our cash flow.", "exIt": "I pagamenti in ritardo danneggiano la nostra liquidità." },
+    { "en": "break-even", "pron": "brèik ìiven", "it": "pareggio, punto di pareggio", "type": "noun", "ex": "We expect to reach break-even in 18 months.", "exIt": "Prevediamo di raggiungere il pareggio in 18 mesi." },
+    { "en": "to break even", "pron": "brèik ìiven", "it": "andare in pareggio", "type": "verb", "ex": "The project broke even in the second year.", "exIt": "Il progetto è andato in pareggio al secondo anno." },
+    { "en": "in the red", "pron": "in de rèd", "it": "in rosso, in perdita", "type": "phrase", "ex": "The department has been in the red since March.", "exIt": "Il reparto è in rosso da marzo." },
+    { "en": "in the black", "pron": "in de blàk", "it": "in attivo", "type": "phrase", "ex": "We're finally back in the black.", "exIt": "Finalmente siamo di nuovo in attivo." },
+    { "en": "shortfall", "pron": "scòrtfol", "it": "ammanco, disavanzo", "type": "noun", "ex": "There is a shortfall of 3,000 euros.", "exIt": "C'è un ammanco di 3.000 euro." },
+    { "en": "surplus", "pron": "sèrplas", "it": "avanzo, eccedenza", "type": "noun", "ex": "We ended the year with a surplus.", "exIt": "Abbiamo chiuso l'anno con un avanzo." },
+    { "en": "variance", "pron": "vèarians", "it": "scostamento (dal piano)", "type": "noun", "ex": "The variance between plan and actual costs is 8%.", "exIt": "Lo scostamento tra costi previsti ed effettivi è dell'8%." },
+    { "en": "to slash", "pron": "slàsc", "it": "tagliare drasticamente", "type": "verb", "ex": "They slashed the budget by half.", "exIt": "Hanno tagliato il budget della metà." },
+    { "en": "to overspend", "pron": "ouvaspènd", "it": "spendere troppo, sforare", "type": "verb", "ex": "We overspent on advertising.", "exIt": "Abbiamo speso troppo in pubblicità." },
+    { "en": "to underspend", "pron": "andaspènd", "it": "spendere meno del previsto", "type": "verb", "ex": "The department underspent by 10%.", "exIt": "Il reparto ha speso il 10% in meno del previsto." },
+    { "en": "contingency", "pron": "kontìndgensi", "it": "riserva per imprevisti", "type": "noun", "ex": "Always include a 10% contingency.", "exIt": "Includi sempre una riserva del 10% per gli imprevisti." },
+    { "en": "fiscal", "pron": "fìskal", "it": "finanziario, di bilancio", "type": "adj", "ex": "We need a plan for the next fiscal quarter.", "exIt": "Ci serve un piano per il prossimo trimestre dell'esercizio." },
+    { "en": "to depreciate", "pron": "diprìiscieit", "it": "svalutarsi, ammortizzare", "type": "verb", "ex": "Computers depreciate quickly.", "exIt": "I computer si svalutano in fretta." },
+    { "en": "outlay", "pron": "àutlei", "it": "esborso, spesa iniziale", "type": "noun", "ex": "The initial outlay is high, but it pays off.", "exIt": "L'esborso iniziale è alto, ma si ripaga." },
+    { "en": "to earmark", "pron": "ìirmark", "it": "destinare (fondi)", "type": "verb", "ex": "We earmarked 5,000 euros for training.", "exIt": "Abbiamo destinato 5.000 euro alla formazione." },
+    { "en": "payback period", "pron": "pèibak pìriod", "it": "tempo di recupero dell'investimento", "type": "noun", "ex": "The payback period is about two years.", "exIt": "Il tempo di recupero è di circa due anni." },
+    { "en": "to set aside", "pron": "sèt asàid", "it": "mettere da parte", "type": "verb", "ex": "We set aside money for hosting.", "exIt": "Mettiamo da parte dei soldi per l'hosting." },
+    { "en": "to stretch", "pron": "strèc", "it": "far bastare, tirare al limite", "type": "verb", "ex": "We must stretch the budget until June.", "exIt": "Dobbiamo far bastare il budget fino a giugno." },
+    { "en": "thrifty", "pron": "trìfti", "it": "parsimonioso, attento alle spese", "type": "adj", "ex": "A thrifty approach helps in a small team.", "exIt": "Un approccio attento alle spese aiuta in un piccolo team." },
+    { "en": "to stretch the budget", "pron": "strèc de bàdgit", "it": "far bastare il budget", "type": "phrase", "ex": "We managed to stretch the budget to cover testing.", "exIt": "Siamo riusciti a far bastare il budget per coprire i test." },
+    { "en": "cost overrun", "pron": "còst òuverran", "it": "sforamento dei costi", "type": "noun", "ex": "A cost overrun worried the client.", "exIt": "Uno sforamento dei costi ha preoccupato il cliente." },
+    { "en": "quarterly", "pron": "cuòrterli", "it": "trimestrale", "type": "adj", "ex": "The quarterly report is due on Friday.", "exIt": "Il report trimestrale è in scadenza venerdì." },
+    { "en": "fiscal year", "pron": "fìskal ìia", "it": "anno fiscale", "type": "noun", "ex": "Our fiscal year ends in December.", "exIt": "Il nostro esercizio finanziario finisce a dicembre." },
+    { "en": "to grow", "pron": "gròu", "it": "crescere", "type": "verb", "ex": "Online sales grew steadily.", "exIt": "Le vendite online sono cresciute con costanza." },
+    { "en": "to dip", "pron": "dìp", "it": "calare leggermente", "type": "verb", "ex": "Revenue dipped by 5% in the last quarter.", "exIt": "I ricavi sono calati leggermente del 5% nell'ultimo trimestre." },
+    { "en": "to plummet", "pron": "plàmit", "it": "crollare", "type": "verb", "ex": "Sales plummeted after the price increase.", "exIt": "Le vendite sono crollate dopo l'aumento dei prezzi." },
+    { "en": "runway", "pron": "rànuei", "it": "autonomia finanziaria (mesi di cassa)", "type": "noun", "ex": "We have six months of runway left.", "exIt": "Abbiamo ancora sei mesi di autonomia finanziaria." },
+    { "en": "flat", "pron": "flàt", "it": "stabile, invariato", "type": "adj", "ex": "Sales stayed flat throughout the summer.", "exIt": "Le vendite sono rimaste stabili per tutta l'estate." },
+    { "en": "headcount", "pron": "hèdkaunt", "it": "numero di dipendenti", "type": "noun", "ex": "We are freezing headcount until next year.", "exIt": "Blocchiamo le assunzioni fino al prossimo anno." },
+    { "en": "cutback", "pron": "kàtbak", "it": "taglio (di spese)", "type": "noun", "ex": "The cutbacks affected the training budget.", "exIt": "I tagli hanno colpito il budget della formazione." },
+    { "en": "to sign off on", "pron": "sàin òf on", "it": "approvare formalmente", "type": "phrase", "ex": "The finance director must sign off on the budget.", "exIt": "Il direttore finanziario deve approvare il budget." },
+    { "en": "frugal", "pron": "frùugol", "it": "sobrio, che spende poco", "type": "adj", "ex": "We run a frugal operation.", "exIt": "Gestiamo un'attività con spese molto contenute." }
+  ],
+  "falseFriends": [
+    { "en": "fiscal", "it": "finanziario, di bilancio", "trap": "In italiano 'fiscale' fa pensare alle tasse; in inglese 'fiscal' vuol dire finanziario: 'fiscal year' = esercizio finanziario. Per le tasse si usa 'tax': 'tax code' = codice fiscale." },
+    { "en": "to realise", "it": "rendersi conto", "trap": "Non è 'realizzare' un progetto: quello si dice 'to carry out' o 'to complete'. Realise = capire." },
+    { "en": "balance", "it": "saldo; equilibrio", "trap": "'Balance' è il saldo del conto, non il 'bilancio' (annual accounts o balance sheet)." },
+    { "en": "to account for", "it": "spiegare, giustificare; rappresentare", "trap": "Non è 'accontentare'. 'Marketing accounts for 20% of costs' = rappresenta il 20%." }
+  ],
+  "grammar": {
+    "title": "Wish e if only: desideri e rimpianti",
+    "explainIt": [
+      "Wish serve per dire che vorresti che le cose fossero diverse da come sono. In italiano usiamo il congiuntivo: 'Vorrei che avessimo più budget', 'Magari avessi più tempo'. In inglese il tempo del verbo dopo wish è sempre 'un passo indietro', anche se parli del presente.",
+      "Wish + past simple: desiderio sul presente, cose che non sono vere ora. 'I wish we had a bigger budget.' (Ora non ce l'abbiamo.) 'I wish I knew the answer.' Con il verbo be si può dire 'I wish I were' (più formale) oppure 'I wish I was' (più informale).",
+      "Wish + past perfect (had + participio): rimpianto sul passato, cose che non sono andate come volevi. 'I wish we had set a higher budget.' (Non l'abbiamo fatto.) 'I wish I hadn't overspent.' (Ho speso troppo, e mi dispiace.) Questa forma è molto usata per i rimpianti.",
+      "Wish + would: desiderio che qualcuno o qualcosa cambi, spesso con un po' di fastidio. 'I wish the client would pay on time.' 'I wish it would stop crashing.' Non si usa con 'I': non si dice 'I wish I would'. Per se stessi si usa invece 'I wish I could' (vorrei poter fare).",
+      "If only è come wish, ma più forte e più emotivo. 'If only we had more budget!' = Magari avessimo più budget! Usa gli stessi tempi: if only + past simple per il presente, if only + past perfect per il passato, if only + would per un cambiamento desiderato. Nota: wish si usa per desideri irrealizzabili; per desideri realizzabili in futuro si usa 'hope': 'I hope you can pay by Friday'."
+    ],
+    "explainEn": [
+      "Wish is used to say that you would like things to be different from how they are. Italian uses the subjunctive: 'Vorrei che avessimo più budget'. In English the verb after wish goes 'one step back' in time, even when you talk about the present.",
+      "Wish + past simple: a wish about the present, something that is not true now. 'I wish we had a bigger budget.' (We do not have one now.) 'I wish I knew the answer.' With the verb be you can say 'I wish I were' (more formal) or 'I wish I was' (more informal).",
+      "Wish + past perfect (had + past participle): a regret about the past, things that did not go as you wanted. 'I wish we had set a higher budget.' (We did not.) 'I wish I hadn't overspent.' (I overspent and I am sorry.) This form is very common for regrets.",
+      "Wish + would: you want someone or something to change, often with a bit of annoyance. 'I wish the client would pay on time.' 'I wish it would stop crashing.' We do not use it with 'I': you cannot say 'I wish I would'. For yourself use 'I wish I could'.",
+      "If only is like wish, but stronger and more emotional. 'If only we had more budget!' uses the same tenses: past simple for the present, past perfect for the past, would for a change you want. Note: wish is for unreal desires; for possible future things use 'hope': 'I hope you can pay by Friday'."
+    ],
+    "rules": [
+      {
+        "it": "Wish + past simple: desiderio sul presente (non è vero ora).",
+        "en": "Wish + past simple: a wish about the present (it is not true now).",
+        "form": "wish + soggetto + past simple",
+        "examples": [
+          { "en": "I wish we had a bigger budget for this project.", "it": "Vorrei che avessimo un budget più grande per questo progetto." },
+          { "en": "I wish I knew how much this would cost.", "it": "Vorrei sapere quanto costerà." },
+          { "en": "She wishes she were more confident with numbers.", "it": "Vorrebbe essere più sicura con i numeri." }
+        ]
+      },
+      {
+        "it": "Wish + past perfect: rimpianto sul passato.",
+        "en": "Wish + past perfect: a regret about the past.",
+        "form": "wish + soggetto + had + participio",
+        "examples": [
+          { "en": "I wish we had added a contingency to the budget.", "it": "Vorrei che avessimo aggiunto una riserva al budget." },
+          { "en": "He wishes he hadn't overspent on advertising.", "it": "Vorrebbe non aver speso troppo in pubblicità." },
+          { "en": "We wish we had known about the extra costs earlier.", "it": "Avremmo voluto sapere prima dei costi extra." }
+        ]
+      },
+      {
+        "it": "Wish + would: vuoi che qualcuno o qualcosa cambi (fastidio, richiesta indiretta). Non con 'I'.",
+        "en": "Wish + would: you want someone or something to change (annoyance). Not with 'I'.",
+        "form": "wish + soggetto + would + verbo base",
+        "examples": [
+          { "en": "I wish the client would pay on time.", "it": "Vorrei che il cliente pagasse in tempo." },
+          { "en": "I wish they would stop changing the requirements.", "it": "Vorrei che smettessero di cambiare i requisiti." }
+        ]
+      },
+      {
+        "it": "Wish + could: vorresti poterlo fare (capacità, possibilità).",
+        "en": "Wish + could: you would like to be able to do something.",
+        "form": "wish + soggetto + could + verbo base",
+        "examples": [
+          { "en": "I wish I could offer you a discount.", "it": "Vorrei poterti offrire uno sconto." },
+          { "en": "We wish we could hire another developer.", "it": "Vorremmo poter assumere un altro sviluppatore." }
+        ]
+      },
+      {
+        "it": "If only: come wish, ma più forte. Stessi tempi del verbo.",
+        "en": "If only: like wish, but stronger. The same verb tenses.",
+        "form": "if only + past simple / past perfect / would",
+        "examples": [
+          { "en": "If only we had more time and money!", "it": "Magari avessimo più tempo e denaro!" },
+          { "en": "If only I had checked the figures before the meeting.", "it": "Se solo avessi controllato i numeri prima della riunione." },
+          { "en": "If only the numbers would add up.", "it": "Se solo i conti tornassero." }
+        ]
+      }
+    ],
+    "tip": "Ricorda: con wish fai sempre un passo indietro. Presente → past simple. Passato → past perfect. Mai 'will' dopo wish: non si dice 'I wish I will have'. E per i desideri possibili usa hope, non wish.",
+    "mistakes": [
+      { "wrong": "I wish we have more budget.", "right": "I wish we had more budget.", "why": "dopo wish serve il past simple, anche per il presente" },
+      { "wrong": "I wish I would have more time.", "right": "I wish I had more time.", "why": "wish + would non si usa con 'I'; per se stessi si usa il past simple o could" },
+      { "wrong": "I wish we didn't spend so much.", "right": "I wish we hadn't spent so much.", "why": "per un rimpianto sul passato serve il past perfect" },
+      { "wrong": "I wish you will pay on time.", "right": "I hope you will pay on time.", "why": "per un desiderio realizzabile in futuro si usa hope, non wish" },
+      { "wrong": "I wish the revenue is higher.", "right": "I wish the revenue were higher.", "why": "wish + be → were (o was), mai is" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I wish we ___ (have) a bigger budget.", "a": ["had"], "hint": "desiderio sul presente", "explain": "Wish + past simple per il presente." },
+    { "q": "I wish I ___ (not / overspend) last month.", "a": ["hadn't overspent", "had not overspent"], "hint": "rimpianto sul passato", "explain": "Wish + past perfect per i rimpianti." },
+    { "q": "I wish the client ___ (pay) on time.", "a": ["would pay"], "hint": "fastidio, cambiamento", "explain": "Wish + would per un cambiamento desiderato." },
+    { "q": "If only we ___ (know) about the extra costs earlier!", "a": ["had known"], "hint": "rimpianto sul passato", "explain": "If only + past perfect." },
+    { "q": "I wish I ___ offer you a discount. (poter)", "a": ["could"], "hint": "vorrei poterlo fare", "explain": "Wish + could = vorrei poter." },
+    { "q": "I wish the numbers ___ (be) better.", "a": ["were"], "hint": "be al past, soggetto plurale", "explain": "Wish + past simple per il presente. Con un soggetto plurale si usa solo were." },
+    { "q": "She wishes she ___ (add) a contingency to the plan. (passato)", "a": ["had added"], "hint": "past perfect", "explain": "Wish + had + participio." },
+    { "q": "If only I ___ more experience with budgets!", "a": ["had"], "hint": "presente", "explain": "If only + past simple." },
+    { "q": "I ___ you can send the figures by Friday. (speranza realistica)", "a": ["hope"], "hint": "non wish", "explain": "Per desideri realizzabili si usa hope." },
+    { "q": "I wish they ___ stop changing the requirements.", "a": ["would"], "hint": "fastidio", "explain": "Wish + would + verbo base." },
+    { "q": "Costs ___ the budget by 2,000 euros. (superare)", "a": ["exceeded", "have exceeded"], "hint": "exceed: past simple o present perfect", "explain": "To exceed = superare. Va bene anche il present perfect: have exceeded." },
+    { "q": "The company has been in the ___ for three months. (in perdita)", "a": ["red"], "hint": "colore", "explain": "In the red = in perdita." }
+  ],
+  "phrases": [
+    { "group": "Parlare del budget", "en": "We have a very tight budget this year.", "it": "Abbiamo un budget molto ristretto quest'anno." },
+    { "group": "Parlare del budget", "en": "How much have we allocated to marketing?", "it": "Quanto abbiamo destinato al marketing?" },
+    { "group": "Parlare del budget", "en": "We've exceeded the budget by 10%.", "it": "Abbiamo superato il budget del 10%." },
+    { "group": "Parlare del budget", "en": "We need to cut costs wherever we can.", "it": "Dobbiamo ridurre i costi ovunque possiamo." },
+    { "group": "Parlare del budget", "en": "Can we stretch the budget to include testing?", "it": "Possiamo far bastare il budget per includere i test?" },
+    { "group": "Previsioni", "en": "We forecast 10% growth next year.", "it": "Prevediamo una crescita del 10% il prossimo anno." },
+    { "group": "Previsioni", "en": "These figures are only a rough estimate.", "it": "Queste cifre sono solo una stima approssimativa." },
+    { "group": "Previsioni", "en": "We expect to break even in eighteen months.", "it": "Prevediamo di andare in pareggio tra diciotto mesi." },
+    { "group": "Previsioni", "en": "Always add a ten percent contingency for surprises.", "it": "Aggiungi sempre una riserva del dieci per cento per le sorprese." },
+    { "group": "Previsioni", "en": "The projections are based on last year's data.", "it": "Le proiezioni si basano sui dati dell'anno scorso." },
+    { "group": "Commentare i numeri", "en": "Revenue is up 12% compared to last year.", "it": "I ricavi sono aumentati del 12% rispetto all'anno scorso." },
+    { "group": "Commentare i numeri", "en": "Sales have been flat since the summer.", "it": "Le vendite sono stabili dall'estate." },
+    { "group": "Commentare i numeri", "en": "Costs soared because of the delay.", "it": "I costi sono saliti alle stelle per il ritardo." },
+    { "group": "Commentare i numeri", "en": "What is the variance between plan and actual?", "it": "Qual è lo scostamento tra piano ed effettivo?" },
+    { "group": "Commentare i numeri", "en": "What does this mean for our bottom line?", "it": "Cosa significa questo per il nostro utile netto?" },
+    { "group": "Commentare i numeri", "en": "We are back in the black after a difficult year.", "it": "Siamo tornati in attivo dopo un anno difficile." },
+    { "group": "Desideri e rimpianti", "en": "I wish we had a bigger budget.", "it": "Vorrei che avessimo un budget più grande." },
+    { "group": "Desideri e rimpianti", "en": "I wish we had set aside more for emergencies.", "it": "Vorrei che avessimo messo da parte di più per le emergenze." },
+    { "group": "Desideri e rimpianti", "en": "If only we had checked the figures earlier.", "it": "Se solo avessimo controllato prima i numeri." },
+    { "group": "Desideri e rimpianti", "en": "I wish the client would approve the budget faster.", "it": "Vorrei che il cliente approvasse il budget più in fretta." },
+    { "group": "Desideri e rimpianti", "en": "I wish I could offer a lower price.", "it": "Vorrei poter offrire un prezzo più basso." },
+    { "group": "Con il cliente", "en": "I'm afraid that's beyond our budget.", "it": "Temo che sia oltre il nostro budget." },
+    { "group": "Con il cliente", "en": "We can't afford to go any lower, I'm afraid.", "it": "Non possiamo permetterci di scendere oltre, temo." },
+    { "group": "Con il cliente", "en": "It's a worthwhile investment that pays off in two years.", "it": "È un investimento valido che si ripaga in due anni." },
+    { "group": "Con il cliente", "en": "Could you sign off on the budget by Friday?", "it": "Potreste approvare il budget entro venerdì?" }
+  ],
+  "dialogue": {
+    "title": "A budget review meeting",
+    "context": "Luca, sviluppatore, e Rita, la responsabile amministrativa di un'azienda cliente, rivedono i costi del progetto del sito a metà percorso. Il budget è quasi finito.",
+    "lines": [
+      { "s": "A", "name": "Rita", "en": "Luca, I've looked at the figures. We've already spent 80% of the budget.", "it": "Luca, ho guardato i numeri. Abbiamo già speso l'80% del budget." },
+      { "s": "B", "name": "Luca", "en": "I know. I wish we had added a contingency at the start.", "it": "Lo so. Vorrei che avessimo aggiunto una riserva all'inizio." },
+      { "s": "A", "name": "Rita", "en": "What caused the overspend?", "it": "Cosa ha causato lo sforamento?" },
+      { "s": "B", "name": "Luca", "en": "The client asked for extra pages, and the integration took longer. Costs soared.", "it": "Il cliente ha chiesto pagine extra e l'integrazione ha richiesto più tempo. I costi sono saliti alle stelle." },
+      { "s": "A", "name": "Rita", "en": "I wish they would give us the requirements all at once.", "it": "Vorrei che ci dessero i requisiti tutti insieme." },
+      { "s": "B", "name": "Luca", "en": "Me too. If only we had signed off on the scope in writing.", "it": "Anch'io. Se solo avessimo approvato per iscritto il perimetro del lavoro." },
+      { "s": "A", "name": "Rita", "en": "What is the variance from the original plan?", "it": "Qual è lo scostamento dal piano originale?" },
+      { "s": "B", "name": "Luca", "en": "About 3,500 euros over the estimate, roughly 15%.", "it": "Circa 3.500 euro oltre la stima, più o meno il 15%." },
+      { "s": "A", "name": "Rita", "en": "That's a shortfall we can't absorb. I wish I could approve more.", "it": "È un ammanco che non possiamo assorbire. Vorrei poter approvare di più." },
+      { "s": "B", "name": "Luca", "en": "What if we cut the animation and stretch the budget that way?", "it": "E se togliessimo l'animazione e facessimo bastare il budget così?" },
+      { "s": "A", "name": "Rita", "en": "That would save about 2,000 euros. Could we afford the rest?", "it": "Risparmieremmo circa 2.000 euro. Potremmo permetterci il resto?" },
+      { "s": "B", "name": "Luca", "en": "Yes, if we move the extra pages to a second phase.", "it": "Sì, se spostiamo le pagine extra a una seconda fase." },
+      { "s": "A", "name": "Rita", "en": "Good. I'll ask the finance director to sign off on the revised budget.", "it": "Bene. Chiederò al direttore finanziario di approvare il budget rivisto." },
+      { "s": "B", "name": "Luca", "en": "Thanks. I'll send a rough estimate for phase two by tomorrow.", "it": "Grazie. Domani manderò una stima approssimativa per la seconda fase." }
+    ]
+  },
+  "listening": [
+    { "q": "How much of the budget has been spent?", "options": ["50%", "80%", "100%"], "answer": 1 },
+    { "q": "What does Luca wish they had done at the start?", "options": ["Added a contingency", "Hired more people", "Used a cheaper tool"], "answer": 0 },
+    { "q": "How much could they save by cutting the animation?", "options": ["About 500 euros", "About 2,000 euros", "About 5,000 euros"], "answer": 1 },
+    { "q": "What will Luca send by tomorrow?", "options": ["The final invoice", "A rough estimate for phase two", "The finished website"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Vorrei che avessimo un budget più grande.", "en": "I wish we had a bigger budget.", "alt": ["I wish we had a larger budget.", "If only we had a bigger budget."] },
+    { "it": "Vorrei non aver speso così tanto in pubblicità.", "en": "I wish I hadn't spent so much on advertising.", "alt": ["I wish I had not spent so much on advertising.", "If only I hadn't spent so much on advertising."] },
+    { "it": "Vorrei che il cliente pagasse in tempo.", "en": "I wish the client would pay on time.", "alt": ["I wish the customer would pay on time.", "If only the client would pay on time."] },
+    { "it": "Se solo avessimo controllato prima i numeri!", "en": "If only we had checked the figures earlier!", "alt": ["If only we had checked the numbers earlier!", "If only we had checked the figures sooner!"] },
+    { "it": "Abbiamo superato il budget di 2.000 euro.", "en": "We've exceeded the budget by 2,000 euros.", "alt": ["We exceeded the budget by 2,000 euros.", "We are 2,000 euros over budget."] },
+    { "it": "Vorrei poterti offrire uno sconto, ma il margine è troppo basso.", "en": "I wish I could offer you a discount, but the margin is too low.", "alt": ["I wish I could give you a discount, but our margin is too low.", "I wish I could offer a discount, but the profit margin is too low."] },
+    { "it": "Prevediamo una crescita del 10% il prossimo anno.", "en": "We forecast 10% growth next year.", "alt": ["We are forecasting 10% growth next year.", "We expect 10% growth next year."] },
+    { "it": "Dobbiamo ridurre i costi del 15%.", "en": "We need to cut costs by 15%.", "alt": ["We have to reduce costs by 15%.", "We need to reduce our costs by 15%."] },
+    { "it": "I ricavi sono calati del 5% nell'ultimo trimestre.", "en": "Revenue declined by 5% in the last quarter.", "alt": ["Revenue fell by 5% in the last quarter.", "Revenue dropped by 5% last quarter."] },
+    { "it": "Includi sempre una riserva del 10% per gli imprevisti.", "en": "Always include a 10% contingency.", "alt": ["Always include a ten percent contingency.", "Always add a 10% contingency for unexpected costs."] },
+    { "it": "Quanto abbiamo destinato alla formazione?", "en": "How much have we allocated to training?", "alt": ["How much did we allocate to training?", "How much have we set aside for training?"] },
+    { "it": "Temo che sia oltre il nostro budget.", "en": "I'm afraid that's beyond our budget.", "alt": ["I'm afraid that is over our budget.", "I'm afraid that's outside our budget."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a un cliente, la signora Moore, per spiegarle che il progetto del sito è andato oltre il budget del 15% (il budget era di 8.000 euro). Spiega i motivi (richieste extra, integrazione più lunga) e usa almeno due frasi con wish o if only (per esempio, vorresti aver incluso una riserva, vorresti poter evitare costi aggiuntivi). Proponi due soluzioni: togliere una funzione oppure spostare le pagine extra a una seconda fase. Chiedi di approvare entro venerdì.",
+    "taskEn": "Write an email to a client, Ms Moore, to explain that the website project has gone over budget by 15% (the budget was 8,000 euros). Explain the reasons (extra requests, longer integration) and use at least two sentences with wish or if only (for example, you wish you had included a contingency, you wish you could avoid extra costs). Propose two solutions: remove one feature or move the extra pages to a second phase. Ask her to approve by Friday.",
+    "model": "Subject: Project budget - update and options\n\nDear Ms Moore,\n\nI'm writing to update you on the budget for the website project. The current expenditure is 9,200 euros against an original budget of 8,000 euros, which is about 15% over.\n\nThere are two main reasons. First, we added several extra pages at your request. Second, the integration with the payment system took longer than estimated. I wish we had included a contingency in the original quote; if only we had done that, this conversation would be easier. I'm sorry about that.\n\nI wish I could absorb these costs, but our margin on this project is very small. Here are two options:\n\n1. We remove the animated slider, which saves about 1,200 euros.\n2. We move the extra pages to a second phase, with a separate quote.\n\nCould you let me know which you prefer, and approve it by Friday? That way we can keep the launch date.\n\nPlease call me if you would like to discuss the figures.\n\nKind regards,\nLuca Rossi"
+  },
+  "speaking": {
+    "shadowing": [
+      "I wish we had a bigger budget for this project.",
+      "If only we had added a contingency at the start.",
+      "I wish the client would pay on time.",
+      "We've exceeded the budget by fifteen percent.",
+      "We forecast ten percent growth next year.",
+      "What is the variance between plan and actual costs?",
+      "I wish I could offer a discount, but our margin is too low.",
+      "Costs soared because of the delay."
+    ],
+    "prompts": [
+      { "en": "What do you wish you had done differently in your last project?", "it": "Cosa vorresti aver fatto diversamente nel tuo ultimo progetto?", "help": "Usa: I wish I had... / If only I had..." },
+      { "en": "What do you wish your clients would do?", "it": "Cosa vorresti che facessero i tuoi clienti?", "help": "Usa: I wish they would pay on time / give clear requirements." },
+      { "en": "How do you explain to a client that the budget is not enough?", "it": "Come spieghi a un cliente che il budget non basta?", "help": "Usa: I'm afraid... / I wish I could... / We have two options." },
+      { "en": "Describe the main costs of building a website.", "it": "Descrivi i costi principali per realizzare un sito.", "help": "Usa: fixed costs, hosting, licences, design, development time." },
+      { "en": "What do you wish you could afford?", "it": "Cosa vorresti poterti permettere?", "help": "Usa: I wish I could afford... / If only I had enough money for..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: budget e numeri",
+      "show": ["Budget e numeri", "Wish e if only"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo di budget, costi, ricavi e margini. E impariamo a esprimere desideri e rimpianti con wish e if only." },
+        { "lang": "en", "text": "I wish we had a bigger budget." }
+      ]
+    },
+    {
+      "title": "Il lessico dei numeri",
+      "show": ["revenue, turnover", "profit margin", "fixed costs", "cash flow"],
+      "say": [
+        { "lang": "it", "text": "Revenue sono i ricavi, turnover il fatturato, profit margin il margine di profitto. Cash flow è la liquidità, cioè i soldi disponibili." },
+        { "lang": "en", "text": "Our profit margin is around twenty percent." }
+      ]
+    },
+    {
+      "title": "Wish e il presente",
+      "show": ["wish + past simple", "I wish we had more budget"],
+      "say": [
+        { "lang": "it", "text": "Con wish fai sempre un passo indietro. Per un desiderio sul presente usa il past simple, anche se il momento è adesso." },
+        { "lang": "en", "text": "I wish we had a bigger budget for this project." }
+      ]
+    },
+    {
+      "title": "Wish e il passato",
+      "show": ["wish + past perfect", "I wish I hadn't overspent"],
+      "say": [
+        { "lang": "it", "text": "Per un rimpianto sul passato usa il past perfect: had più participio passato." },
+        { "lang": "en", "text": "I wish we had added a contingency at the start." }
+      ]
+    },
+    {
+      "title": "Wish would e wish could",
+      "show": ["wish + would", "wish + could"],
+      "say": [
+        { "lang": "it", "text": "Wish would esprime fastidio per qualcosa che vorresti cambiasse. Mai con I. Wish could si usa per ciò che vorresti poter fare." },
+        { "lang": "en", "text": "I wish the client would pay on time. I wish I could offer a discount." }
+      ]
+    },
+    {
+      "title": "If only",
+      "show": ["If only = wish, più forte", "If only we had checked!"],
+      "say": [
+        { "lang": "it", "text": "If only è come wish, ma più forte, più emotivo. I tempi sono gli stessi." },
+        { "lang": "en", "text": "If only we had checked the figures earlier." }
+      ]
+    },
+    {
+      "title": "Commentare i numeri",
+      "show": ["to exceed the budget", "to cut costs", "in the red / in the black"],
+      "say": [
+        { "lang": "it", "text": "Per commentare i numeri puoi dire che i costi hanno superato il budget, che devi ridurli, che sei in rosso o di nuovo in attivo." },
+        { "lang": "en", "text": "Costs have exceeded the budget by ten percent." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Presente: past simple", "Passato: past perfect", "Futuro possibile: hope"],
+      "say": [
+        { "lang": "it", "text": "Ricorda: wish con past simple per il presente, con past perfect per il passato. Per le speranze realistiche usa hope." },
+        { "lang": "en", "text": "I hope you can approve the budget by Friday." }
+      ]
+    }
+  ]
+}

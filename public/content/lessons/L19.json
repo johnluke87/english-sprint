@@ -1,0 +1,334 @@
+{
+  "id": 19,
+  "week": 4,
+  "title": "Fatture e pagamenti",
+  "titleEn": "Invoices and payments",
+  "intro": "Oggi impari a parlare di soldi senza imbarazzo: chiedere un pagamento, ricordare una scadenza, scrivere un sollecito gentile e confermare un bonifico. Studi anche le frasi relative (who, which, that, whose, where), che ti servono per descrivere clienti, documenti e condizioni in una sola frase.",
+  "goals": [
+    "Scrivere una mail per ricordare un pagamento in ritardo, con tono educato ma chiaro",
+    "Dare e chiedere dati di pagamento: IBAN, importo, termini, riferimento",
+    "Usare who, which, that, whose e where per costruire frasi lunghe e precise",
+    "Capire il vocabolario di contabilità che usano clienti e commercialisti"
+  ],
+
+  "words": [
+    { "en": "bank transfer", "pron": "bànk trànsfer", "it": "bonifico", "type": "noun", "ex": "We only accept payment by bank transfer.", "exIt": "Accettiamo pagamenti solo tramite bonifico." },
+    { "en": "payment terms", "pron": "pèimant tèrmz", "it": "termini di pagamento", "type": "noun", "ex": "Our standard payment terms are thirty days.", "exIt": "I nostri termini di pagamento standard sono trenta giorni." },
+    { "en": "due date", "pron": "diù dèit", "it": "data di scadenza del pagamento", "type": "noun", "ex": "The due date is printed at the top of the page.", "exIt": "La data di scadenza è stampata in alto nella pagina." },
+    { "en": "outstanding balance", "pron": "autstànding bàlans", "it": "saldo da pagare", "type": "noun", "ex": "The outstanding balance is two hundred euros.", "exIt": "Il saldo da pagare è di duecento euro." },
+    { "en": "outstanding", "pron": "autstàndin", "it": "ancora da pagare, in sospeso", "type": "adj", "ex": "There is still an outstanding amount of 600 euros.", "exIt": "C'è ancora un importo in sospeso di 600 euro." },
+    { "en": "balance", "pron": "bàlans", "it": "saldo, resto da pagare", "type": "noun", "ex": "Please pay the balance within ten days.", "exIt": "Per favore paga il saldo entro dieci giorni." },
+    { "en": "down payment", "pron": "dàun pèimant", "it": "anticipo", "type": "noun", "ex": "We need a down payment before we start.", "exIt": "Ci serve un anticipo prima di iniziare." },
+    { "en": "pro forma", "pron": "pròu fòrma", "it": "fattura proforma", "type": "noun", "ex": "I'll send a pro forma invoice first.", "exIt": "Prima invio una fattura proforma." },
+    { "en": "to chase", "pron": "cèis", "it": "sollecitare, rincorrere (un pagamento)", "type": "verb", "ex": "I hate having to chase clients for money.", "exIt": "Odio dover rincorrere i clienti per i soldi." },
+    { "en": "VAT number", "pron": "vìi èi tìi nàmber", "it": "partita IVA", "type": "noun", "ex": "Please add your VAT number to the form.", "exIt": "Aggiungi la tua partita IVA al modulo." },
+    { "en": "payment slip", "pron": "pèimant slìp", "it": "bollettino di pagamento", "type": "noun", "ex": "The payment slip is attached to the invoice.", "exIt": "Il bollettino di pagamento è allegato alla fattura." },
+    { "en": "to bill", "pron": "bìl", "it": "addebitare, fatturare a qualcuno", "type": "verb", "ex": "We bill our clients at the end of each month.", "exIt": "Fatturiamo ai clienti alla fine di ogni mese." },
+    { "en": "standing order", "pron": "stànding òrder", "it": "ordine di bonifico permanente", "type": "noun", "ex": "Set up a standing order for the monthly fee.", "exIt": "Imposta un bonifico permanente per il canone mensile." },
+    { "en": "to pay up", "pron": "pèi àp", "it": "saldare, pagare finalmente", "type": "verb", "ex": "The client finally paid up.", "exIt": "Il cliente ha finalmente saldato." },
+    { "en": "to deduct", "pron": "didàkt", "it": "detrarre, sottrarre", "type": "verb", "ex": "We deducted the deposit from the total.", "exIt": "Abbiamo detratto l'acconto dal totale." },
+    { "en": "to process", "pron": "pròses", "it": "elaborare, eseguire (un pagamento)", "type": "verb", "ex": "The bank usually processes transfers within one day.", "exIt": "La banca di solito esegue i bonifici entro un giorno." },
+    { "en": "accounts receivable", "pron": "akàunts risìivabol", "it": "crediti verso clienti", "type": "noun", "ex": "Accounts receivable shows what clients still owe us.", "exIt": "I crediti verso clienti mostrano cosa ci devono ancora i clienti." },
+    { "en": "to bounce", "pron": "bàuns", "it": "essere respinto (assegno, addebito)", "type": "verb", "ex": "The direct debit bounced because of insufficient funds.", "exIt": "L'addebito diretto è stato respinto per fondi insufficienti." },
+    { "en": "receipt", "pron": "risìit", "it": "ricevuta", "type": "noun", "ex": "I'll send you a receipt as soon as we get the money.", "exIt": "Ti mando una ricevuta appena riceviamo i soldi." },
+    { "en": "remittance advice", "pron": "rimìtans advàis", "it": "avviso di pagamento effettuato", "type": "noun", "ex": "Could you send us the remittance advice?", "exIt": "Puoi mandarci l'avviso di pagamento effettuato?" },
+    { "en": "bank details", "pron": "bànk dìiteilz", "it": "coordinate bancarie", "type": "noun", "ex": "Our bank details are at the bottom of the document.", "exIt": "Le nostre coordinate bancarie sono in fondo al documento." },
+    { "en": "IBAN", "pron": "àiben", "it": "IBAN (codice del conto)", "type": "noun", "ex": "Please double-check the IBAN before you pay.", "exIt": "Per favore ricontrolla l'IBAN prima di pagare." },
+    { "en": "purchase order", "pron": "pèrcias òrdar", "it": "ordine d'acquisto", "type": "noun", "ex": "We can't pay without a purchase order number.", "exIt": "Non possiamo pagare senza un numero di ordine d'acquisto." },
+    { "en": "final demand", "pron": "fàinal dimànd", "it": "sollecito finale", "type": "noun", "ex": "We sent a final demand last week.", "exIt": "Abbiamo mandato un sollecito finale la settimana scorsa." },
+    { "en": "late fee", "pron": "lèit fìi", "it": "penale per ritardato pagamento", "type": "noun", "ex": "A late fee of 5 per cent applies after thirty days.", "exIt": "Dopo trenta giorni si applica una penale del 5 per cento." },
+    { "en": "chaser", "pron": "cèiser", "it": "sollecito, mail di sollecito", "type": "noun", "ex": "I sent a polite chaser this morning.", "exIt": "Stamattina ho mandato un sollecito cortese." },
+    { "en": "net", "pron": "nèt", "it": "netto", "type": "adj", "ex": "The net amount is 1,000 euros, plus VAT.", "exIt": "L'importo netto è 1.000 euro, più IVA." },
+    { "en": "gross", "pron": "gròus", "it": "lordo", "type": "adj", "ex": "The gross total includes tax.", "exIt": "Il totale lordo comprende le tasse." },
+    { "en": "withholding tax", "pron": "uid hòulding tàks", "it": "ritenuta d'acconto", "type": "noun", "ex": "In Italy, clients often deduct withholding tax from freelancers' invoices.", "exIt": "In Italia i clienti spesso trattengono la ritenuta d'acconto dalle fatture dei liberi professionisti." },
+    { "en": "deposit", "pron": "dipòzit", "it": "acconto, caparra", "type": "noun", "ex": "We ask for a 30 per cent deposit before we start.", "exIt": "Chiediamo un acconto del 30 per cento prima di iniziare." },
+    { "en": "upfront", "pron": "apfrànt", "it": "in anticipo, anticipato", "type": "adv", "ex": "Hosting is paid upfront for the whole year.", "exIt": "L'hosting si paga in anticipo per tutto l'anno." },
+    { "en": "in instalments", "pron": "in instòlmants", "it": "a rate", "type": "phrase", "ex": "Can we pay in three instalments?", "exIt": "Possiamo pagare in tre rate?" },
+    { "en": "to reissue", "pron": "riìsciu", "it": "riemettere (una fattura)", "type": "verb", "ex": "We'll reissue the invoice with the right VAT number.", "exIt": "Riemetteremo la fattura con la partita IVA corretta." },
+    { "en": "partially paid", "pron": "pàrsciali pèid", "it": "pagato in parte", "type": "adj", "ex": "The invoice is only partially paid.", "exIt": "La fattura è pagata solo in parte." },
+    { "en": "statement", "pron": "stèitmant", "it": "estratto conto, riepilogo", "type": "noun", "ex": "I'll send you a statement of all open items.", "exIt": "Ti mando un riepilogo di tutte le voci aperte." },
+    { "en": "ledger", "pron": "lèdgiar", "it": "registro contabile, libro mastro", "type": "noun", "ex": "I can't find this payment in the ledger.", "exIt": "Non trovo questo pagamento nel registro contabile." },
+    { "en": "bookkeeping", "pron": "bùkkiipin", "it": "tenuta della contabilità", "type": "noun", "ex": "I do my own bookkeeping with a simple spreadsheet.", "exIt": "Tengo la contabilità con un semplice foglio di calcolo." },
+    { "en": "accountant", "pron": "akàuntant", "it": "commercialista, contabile", "type": "noun", "ex": "My accountant needs a copy of every document.", "exIt": "Il mio commercialista ha bisogno di una copia di ogni documento." },
+    { "en": "accounts department", "pron": "akàunts dipàrtmant", "it": "ufficio amministrazione, contabilità", "type": "noun", "ex": "I've forwarded your request to our accounts department.", "exIt": "Ho inoltrato la tua richiesta al nostro ufficio amministrazione." },
+    { "en": "to reconcile", "pron": "rèkonsail", "it": "riconciliare (conti, movimenti)", "type": "verb", "ex": "We need to reconcile the bank statement with our records.", "exIt": "Dobbiamo riconciliare l'estratto conto con i nostri registri." },
+    { "en": "payee", "pron": "peiìi", "it": "beneficiario del pagamento", "type": "noun", "ex": "Please write the full company name as the payee.", "exIt": "Per favore scrivi il nome completo dell'azienda come beneficiario." },
+    { "en": "reference", "pron": "rèfarans", "it": "causale, riferimento", "type": "noun", "ex": "Please use the invoice number as the payment reference.", "exIt": "Per favore usa il numero di fattura come causale del pagamento." },
+    { "en": "to confirm receipt", "pron": "konfèrm risìit", "it": "confermare la ricezione", "type": "phrase", "ex": "I'm writing to confirm receipt of your payment.", "exIt": "Ti scrivo per confermare la ricezione del tuo pagamento." },
+    { "en": "to pay off", "pron": "pèi òf", "it": "estinguere, finire di pagare", "type": "verb", "ex": "They paid off the whole debt in six months.", "exIt": "Hanno estinto tutto il debito in sei mesi." },
+    { "en": "debt", "pron": "dèt", "it": "debito", "type": "noun", "ex": "The company has a lot of debt.", "exIt": "L'azienda ha molti debiti." },
+    { "en": "account holder", "pron": "akàunt hòulder", "it": "intestatario del conto", "type": "noun", "ex": "The account holder is the company.", "exIt": "L'intestatario del conto è l'azienda." },
+    { "en": "in arrears", "pron": "in arìirz", "it": "in arretrato, posticipato", "type": "phrase", "ex": "Rent is paid in arrears at the end of the month.", "exIt": "L'affitto si paga posticipato a fine mese." },
+    { "en": "prompt", "pron": "pròmpt", "it": "puntuale, immediato", "type": "adj", "ex": "Thank you for your prompt payment.", "exIt": "Grazie per il pagamento tempestivo." },
+    { "en": "direct debit", "pron": "dairèkt dèbit", "it": "addebito diretto (SDD, RID)", "type": "noun", "ex": "We set up a direct debit for the monthly hosting fee.", "exIt": "Abbiamo attivato un addebito diretto per il canone mensile dell'hosting." },
+    { "en": "to follow up on", "pron": "fòlou àp on", "it": "dare seguito, riprendere un tema in sospeso", "type": "phrase", "ex": "I'm following up on the payment we discussed last week.", "exIt": "Ti scrivo per dare seguito al pagamento di cui abbiamo parlato la settimana scorsa." }
+  ],
+
+  "falseFriends": [
+    { "en": "bill", "it": "conto (al ristorante, bolletta, fattura generica)", "trap": "Non è solo 'bolletta': in inglese una invoice è la fattura commerciale, una bill è il conto che devi pagare. In americano bill è anche la banconota." },
+    { "en": "balance", "it": "saldo, resto da pagare", "trap": "Non vuol dire solo 'bilancio' o 'equilibrio': nei pagamenti è la somma che resta ancora da pagare." },
+    { "en": "to charge", "it": "far pagare, addebitare", "trap": "Non vuol dire solo 'caricare' (una batteria): to charge a client vuol dire far pagare un costo al cliente." },
+    { "en": "reference", "it": "causale, riferimento", "trap": "Nei bonifici è la causale, cioè il testo che permette di riconoscere il pagamento." }
+  ],
+
+  "grammar": {
+    "title": "Frasi relative: who, which, that, whose, where",
+    "explainIt": [
+      "Le frasi relative servono a dare più informazioni su una persona, una cosa o un luogo, senza fare un'altra frase. Si collegano con una parola relativa: who, which, that, whose, where. In italiano di solito usiamo 'che', 'il quale', 'cui', 'dove'.",
+      "Who si usa per le persone: 'the client who paid late'. Which si usa per le cose: 'the invoice which is overdue'. That vale per persone e cose, ed è molto comune nel parlato: 'the document that you sent'. Dopo una persona è meglio who, ma that è accettato.",
+      "Whose indica possesso e sta al posto di 'di cui' o 'il cui': 'a client whose payment is late'. Dopo whose c'è un nome, mai un articolo: non si dice 'whose the payment'. Where si usa per i luoghi: 'the office where I work'.",
+      "Ci sono due tipi di frasi relative. Quelle che definiscono (defining) dicono QUALE persona o cosa: 'The client who called yesterday wants a refund.' Non hanno la virgola. Quelle che aggiungono un extra (non-defining) hanno le virgole e danno una informazione in più: 'Mr Rossi, who is our oldest client, called yesterday.' In queste non si può usare that.",
+      "Quando il pronome è l'oggetto della frase relativa, in inglese puoi toglierlo: 'The report that I sent' diventa 'The report I sent'. Non puoi toglierlo quando è il soggetto: 'The client who called' non può diventare 'The client called'. In inglese non si ripete il pronome dentro la frase: non 'the file that I sent it', ma 'the file that I sent'."
+    ],
+    "explainEn": [
+      "A relative clause gives more information about a person, a thing or a place. It joins two ideas in one sentence. We use a relative word: who, which, that, whose or where.",
+      "We use who for people: 'the client who paid late'. We use which for things: 'the invoice which is overdue'. We can use that for both people and things, and it is very common in spoken English: 'the document that you sent'.",
+      "Whose shows possession. It is followed by a noun, without an article: 'a client whose payment is late'. We use where for places: 'the office where I work'.",
+      "There are two types of relative clauses. A defining clause tells us which person or thing we mean, and it has no commas: 'The client who called yesterday wants a refund.' A non-defining clause adds extra information and has commas: 'Mr Rossi, who is our oldest client, called yesterday.' In a non-defining clause you cannot use that.",
+      "If the relative pronoun is the object of the clause, you can leave it out: 'The report I sent'. If it is the subject, you cannot leave it out: 'The client who called'. Also, do not repeat the object inside the clause: not 'the file that I sent it'."
+    ],
+    "rules": [
+      {
+        "it": "Who si usa per le persone, which per le cose, that per entrambi (frasi che definiscono).",
+        "en": "Use who for people, which for things, and that for both in defining clauses.",
+        "form": "nome + who / which / that + verbo",
+        "examples": [
+          { "en": "The accountant who prepared the report is on holiday.", "it": "Il commercialista che ha preparato il report è in ferie." },
+          { "en": "This is the payment that never arrived.", "it": "Questo è il pagamento che non è mai arrivato." },
+          { "en": "We need a tool which can reconcile the bank statements.", "it": "Ci serve uno strumento che riesca a riconciliare gli estratti conto." }
+        ]
+      },
+      {
+        "it": "Whose indica possesso e vuole un nome subito dopo, senza articolo.",
+        "en": "Whose shows possession and is followed directly by a noun.",
+        "form": "persona / azienda + whose + nome + verbo",
+        "examples": [
+          { "en": "I'm writing to a client whose payment is two weeks late.", "it": "Sto scrivendo a un cliente il cui pagamento è in ritardo di due settimane." },
+          { "en": "She is the manager whose team approves the budget.", "it": "È la responsabile la cui squadra approva il budget." }
+        ]
+      },
+      {
+        "it": "Where si usa per i luoghi, anche virtuali come una pagina web.",
+        "en": "Use where for places, including virtual ones like a web page.",
+        "form": "luogo + where + soggetto + verbo",
+        "examples": [
+          { "en": "This is the page where you can download your receipt.", "it": "Questa è la pagina dove puoi scaricare la ricevuta." },
+          { "en": "The bank where we have our account is closed on Saturdays.", "it": "La banca dove abbiamo il conto è chiusa il sabato." }
+        ]
+      },
+      {
+        "it": "Nelle frasi non-defining (con le virgole) si usa who o which, mai that. Aggiungono solo un extra.",
+        "en": "In non-defining clauses with commas, use who or which. Never use that.",
+        "form": "nome, + who / which + verbo, + resto",
+        "examples": [
+          { "en": "Our accountant, who works from Turin, will check the amount.", "it": "Il nostro commercialista, che lavora da Torino, controllerà l'importo." },
+          { "en": "The invoice, which was sent on 3 May, is still unpaid.", "it": "La fattura, che è stata inviata il 3 maggio, risulta ancora da pagare." },
+          { "en": "My client, whose office is in Milan, pays by bank transfer.", "it": "Il mio cliente, il cui ufficio è a Milano, paga con bonifico." }
+        ]
+      },
+      {
+        "it": "Se il pronome è oggetto della frase relativa, puoi ometterlo. Se è soggetto, no.",
+        "en": "You can leave out the pronoun when it is the object, but not when it is the subject.",
+        "form": "the file (that) I sent / the client who called",
+        "examples": [
+          { "en": "The amount you mentioned is not correct.", "it": "L'importo che hai citato non è corretto." },
+          { "en": "The bank that holds our account has changed its IBAN.", "it": "La banca presso cui abbiamo il conto ha cambiato l'IBAN." }
+        ]
+      }
+    ],
+    "tip": "Chiediti: sto parlando di una persona? Usa who. Di una cosa? Which o that. Di qualcosa che appartiene a qualcuno? Whose. Di un posto? Where. Se togliere la frase cambia il senso, non mettere le virgole. Se è solo un extra, mettile.",
+    "mistakes": [
+      { "wrong": "The client which paid yesterday is happy.", "right": "The client who paid yesterday is happy.", "why": "per le persone si usa who (o that), non which" },
+      { "wrong": "This is the file that I sent it yesterday.", "right": "This is the file that I sent yesterday.", "why": "in inglese non si ripete l'oggetto dentro la frase relativa" },
+      { "wrong": "A client whose the payment is late.", "right": "A client whose payment is late.", "why": "dopo whose non si mette l'articolo" },
+      { "wrong": "My accountant, that lives in Rome, will call you.", "right": "My accountant, who lives in Rome, will call you.", "why": "con le virgole non si usa that" },
+      { "wrong": "The client called yesterday wants a refund.", "right": "The client who called yesterday wants a refund.", "why": "se il pronome è il soggetto non si può togliere" }
+    ]
+  },
+
+  "grammarExercises": [
+    { "q": "The client ___ paid late sent an apology.", "a": ["who", "that"], "hint": "è una persona", "explain": "Per le persone si usa who (o that)." },
+    { "q": "This is the bill ___ is still unpaid.", "a": ["which", "that"], "hint": "è una cosa", "explain": "Per le cose si usa which o that." },
+    { "q": "I'm writing to a customer ___ payment is overdue.", "a": ["whose"], "hint": "il cui pagamento", "explain": "Whose indica possesso: il cui pagamento." },
+    { "q": "This is the page ___ you can see your receipts.", "a": ["where"], "hint": "è un luogo", "explain": "Per un luogo si usa where." },
+    { "q": "Our accountant, ___ works in Padua, will send the report.", "a": ["who"], "hint": "ci sono le virgole, persona", "explain": "Nelle frasi con virgole si usa who, non that." },
+    { "q": "The invoice, ___ was issued in May, is still open.", "a": ["which"], "hint": "ci sono le virgole, cosa", "explain": "Con le virgole si usa which, non that." },
+    { "q": "The amount ___ you wrote is wrong. (pronome per una cosa)", "a": ["that", "which"], "hint": "il pronome è oggetto", "explain": "That o which. Qui il pronome è oggetto, quindi si può anche omettere: The amount you wrote." },
+    { "q": "The company ___ I work for pays on time. (pronome per una cosa)", "a": ["that", "which"], "hint": "work for = lavoro per", "explain": "That o which. Il pronome è oggetto di for e si può anche omettere: The company I work for." },
+    { "q": "She is the person ___ handles all payments.", "a": ["who", "that"], "hint": "è una persona, soggetto", "explain": "Qui il pronome è soggetto e non si può togliere." },
+    { "q": "That is the bank ___ we opened our account.", "a": ["where"], "hint": "luogo", "explain": "Where per i luoghi." },
+    { "q": "He is the freelancer ___ bank details we received.", "a": ["whose"], "hint": "le cui coordinate bancarie", "explain": "Possesso: whose." },
+    { "q": "Everything ___ you need is in the attached document.", "a": ["that"], "hint": "dopo everything, anything, all", "explain": "Dopo everything, all, anything si usa that." }
+  ],
+
+  "phrases": [
+    { "group": "Ricordare un pagamento", "en": "I'm writing to follow up on invoice number 2024-15.", "it": "Ti scrivo per dare seguito alla fattura numero 2024-15." },
+    { "group": "Ricordare un pagamento", "en": "This is a friendly reminder that the payment is now overdue.", "it": "Questo è un cortese promemoria: il pagamento è ormai scaduto.", "note": "primo sollecito, tono gentile" },
+    { "group": "Ricordare un pagamento", "en": "According to our records, the balance is still outstanding.", "it": "Secondo i nostri registri il saldo risulta ancora aperto." },
+    { "group": "Ricordare un pagamento", "en": "Could you let me know when we can expect the payment?", "it": "Puoi dirmi quando possiamo aspettarci il pagamento?" },
+    { "group": "Ricordare un pagamento", "en": "I'd be grateful if you could settle this as soon as possible.", "it": "Ti sarei grato se potessi saldare il conto al più presto.", "note": "formale ed educato" },
+    { "group": "Ricordare un pagamento", "en": "If you have already paid, please ignore this message.", "it": "Se hai già pagato, per favore ignora questo messaggio." },
+    { "group": "Dare i dati di pagamento", "en": "Please find our bank details below.", "it": "Qui sotto trovi le nostre coordinate bancarie." },
+    { "group": "Dare i dati di pagamento", "en": "Please quote the invoice number as the payment reference.", "it": "Per favore indica il numero di fattura come causale." },
+    { "group": "Dare i dati di pagamento", "en": "Payment is due within thirty days of the invoice date.", "it": "Il pagamento è dovuto entro trenta giorni dalla data della fattura." },
+    { "group": "Dare i dati di pagamento", "en": "We accept payment by bank transfer or credit card.", "it": "Accettiamo pagamento con bonifico o carta di credito." },
+    { "group": "Dare i dati di pagamento", "en": "All amounts are exclusive of VAT.", "it": "Tutti gli importi sono IVA esclusa." },
+    { "group": "Confermare e ringraziare", "en": "I can confirm that we have received your payment.", "it": "Confermo che abbiamo ricevuto il tuo pagamento." },
+    { "group": "Confermare e ringraziare", "en": "Thank you for your prompt payment.", "it": "Grazie per il pagamento puntuale." },
+    { "group": "Confermare e ringraziare", "en": "The money has just cleared. Thanks a lot.", "it": "I soldi sono appena arrivati. Grazie mille." },
+    { "group": "Confermare e ringraziare", "en": "I've attached a receipt for your records.", "it": "Allego una ricevuta per i tuoi archivi." },
+    { "group": "Problemi con i pagamenti", "en": "The payment seems to have bounced.", "it": "Sembra che il pagamento sia stato respinto." },
+    { "group": "Problemi con i pagamenti", "en": "I think there's been a mistake with the amount.", "it": "Credo ci sia un errore nell'importo." },
+    { "group": "Problemi con i pagamenti", "en": "We were charged twice for the same service.", "it": "Ci hanno addebitato due volte lo stesso servizio." },
+    { "group": "Problemi con i pagamenti", "en": "Could you issue a credit note for the difference?", "it": "Puoi emettere una nota di credito per la differenza?" },
+    { "group": "Problemi con i pagamenti", "en": "Could you send me the remittance advice?", "it": "Puoi mandarmi l'avviso di pagamento effettuato?" },
+    { "group": "Chiedere una dilazione", "en": "Would it be possible to pay in two instalments?", "it": "Sarebbe possibile pagare in due rate?" },
+    { "group": "Chiedere una dilazione", "en": "Our accounts department needs a few more days to process it.", "it": "Il nostro ufficio amministrazione ha bisogno di qualche giorno in più per gestirlo." },
+    { "group": "Chiedere una dilazione", "en": "I'm afraid we can't pay before the end of the month.", "it": "Purtroppo non possiamo pagare prima di fine mese." },
+    { "group": "Sollecito deciso", "en": "This is our second reminder, and the payment is now four weeks late.", "it": "Questo è il nostro secondo sollecito e il pagamento è ormai in ritardo di quattro settimane.", "note": "tono più fermo" },
+    { "group": "Sollecito deciso", "en": "A late fee will apply if we do not receive payment by Friday.", "it": "Verrà applicata una penale se non riceviamo il pagamento entro venerdì." }
+  ],
+
+  "dialogue": {
+    "title": "A late payment",
+    "context": "Elena lavora nell'amministrazione di una piccola agenzia web. Telefona a Marco, titolare di un'azienda cliente, per un pagamento in ritardo.",
+    "lines": [
+      { "s": "A", "name": "Elena", "en": "Hello Marco, this is Elena from the accounts department at Pixel Studio.", "it": "Buongiorno Marco, sono Elena dell'ufficio amministrazione di Pixel Studio." },
+      { "s": "B", "name": "Marco", "en": "Hi Elena. Is there a problem?", "it": "Ciao Elena. C'è qualche problema?" },
+      { "s": "A", "name": "Elena", "en": "I'm calling about the invoice that we sent in March. According to our records, it's still outstanding.", "it": "Ti chiamo per la fattura che abbiamo mandato a marzo. Secondo i nostri registri è ancora aperta." },
+      { "s": "B", "name": "Marco", "en": "Oh, I'm sorry. The person who handles our payments is on holiday.", "it": "Oh, mi dispiace. La persona che si occupa dei nostri pagamenti è in ferie." },
+      { "s": "A", "name": "Elena", "en": "I understand. The due date was two weeks ago, so it's now overdue.", "it": "Capisco. La scadenza era due settimane fa, quindi ora è scaduta." },
+      { "s": "B", "name": "Marco", "en": "Could you resend it? I can't find the email which has the bank details.", "it": "Puoi rimandarla? Non trovo la mail che contiene le coordinate bancarie." },
+      { "s": "A", "name": "Elena", "en": "Of course. I'll send the invoice again, with a reminder and our IBAN.", "it": "Certo. Rimando la fattura, con un promemoria e il nostro IBAN." },
+      { "s": "B", "name": "Marco", "en": "Thanks. Could we pay the balance in two instalments?", "it": "Grazie. Potremmo pagare il saldo in due rate?" },
+      { "s": "A", "name": "Elena", "en": "I'd need to check with my manager, whose approval we need for any change.", "it": "Dovrei sentire la mia responsabile, la cui approvazione ci serve per ogni modifica." },
+      { "s": "B", "name": "Marco", "en": "No problem. When can you let me know?", "it": "Nessun problema. Quando puoi farmelo sapere?" },
+      { "s": "A", "name": "Elena", "en": "I'll email you by tomorrow afternoon. Please use the invoice number as the reference.", "it": "Ti scrivo entro domani pomeriggio. Per favore usa il numero di fattura come causale." },
+      { "s": "B", "name": "Marco", "en": "Will do. And if the transfer doesn't go through, I'll call you straight away.", "it": "Va bene. E se il bonifico non va a buon fine ti chiamo subito." },
+      { "s": "A", "name": "Elena", "en": "Perfect. Once the money has cleared, I'll send you a receipt.", "it": "Perfetto. Quando i soldi saranno arrivati ti mando la ricevuta." },
+      { "s": "B", "name": "Marco", "en": "Thank you, Elena, and sorry again for the delay.", "it": "Grazie Elena, e scusa ancora per il ritardo." }
+    ]
+  },
+
+  "listening": [
+    { "q": "Why is Elena calling Marco?", "options": ["Because an invoice is still unpaid", "Because she wants to give him a discount", "Because she lost his IBAN"], "answer": 0 },
+    { "q": "Why was the payment late?", "options": ["The bank closed the account", "The person who handles payments is on holiday", "Marco did not receive the invoice"], "answer": 1 },
+    { "q": "What does Marco ask for?", "options": ["A refund", "A credit note", "To pay the balance in two instalments"], "answer": 2 },
+    { "q": "What will Elena send when the money has cleared?", "options": ["A reminder", "A receipt", "A purchase order"], "answer": 1 }
+  ],
+
+  "translations": [
+    { "it": "Ti scrivo per ricordarti che la fattura è scaduta.", "en": "I'm writing to remind you that the invoice is overdue.", "alt": ["I am writing to remind you that the invoice is overdue.", "This is a reminder that the invoice is overdue."] },
+    { "it": "Il cliente che ha chiamato ieri vuole un rimborso.", "en": "The client who called yesterday wants a refund.", "alt": ["The client that called yesterday wants a refund."] },
+    { "it": "Ho già pagato con bonifico lunedì.", "en": "I already paid by bank transfer on Monday.", "alt": ["I already paid on Monday by bank transfer.", "I paid by bank transfer on Monday.", "I already made the payment by bank transfer on Monday."] },
+    { "it": "Puoi indicare il numero di fattura come causale?", "en": "Could you use the invoice number as the payment reference?", "alt": ["Could you quote the invoice number as the reference?", "Can you put the invoice number as the reference?"] },
+    { "it": "Questa è la pagina dove puoi scaricare le tue ricevute.", "en": "This is the page where you can download your receipts.", "alt": ["This is the page where you can download all your receipts.", "This is the page where your receipts can be downloaded."] },
+    { "it": "Il nostro commercialista, che lavora a Bologna, controllerà gli importi.", "en": "Our accountant, who works in Bologna, will check the amounts.", "alt": ["Our accountant, who works in Bologna, is going to check the amounts."] },
+    { "it": "Possiamo pagare il saldo in tre rate?", "en": "Can we pay the balance in three instalments?", "alt": ["Could we pay the balance in three instalments?", "Would it be possible to pay the balance in three instalments?"] },
+    { "it": "Secondo i nostri registri non abbiamo ancora ricevuto il pagamento.", "en": "According to our records, we haven't received the payment yet.", "alt": ["According to our records, we have not yet received the payment."] },
+    { "it": "Ti ringrazio per il pagamento puntuale.", "en": "Thank you for your prompt payment.", "alt": ["Thanks for paying so promptly.", "Thank you for paying promptly."] },
+    { "it": "Abbiamo emesso una nota di credito per l'addebito duplicato.", "en": "We issued a credit note for the duplicate charge.", "alt": ["We have issued a credit note for the duplicated charge.", "We've issued a credit note for the double charge."] },
+    { "it": "Il cliente il cui pagamento è in ritardo ha scritto ieri.", "en": "The client whose payment is late wrote yesterday.", "alt": ["The client whose payment is overdue wrote yesterday."] },
+    { "it": "Se hai già pagato, ignora questa mail.", "en": "If you have already paid, please ignore this email.", "alt": ["If you've already paid, please ignore this email.", "If you have already paid, please ignore this message."] }
+  ],
+
+  "writing": {
+    "taskIt": "Un cliente che si chiama Paolo Bianchi non ha pagato una fattura scaduta due settimane fa. Scrivi una mail di sollecito gentile. Indica il numero della fattura (2025-042) e l'importo (1.800 euro più IVA). Chiedi quando possono pagare. Offri di rimandare la fattura se non la trova e allega le coordinate bancarie. Usa almeno due frasi relative con who, which o whose.",
+    "taskEn": "A client called Paolo Bianchi has not paid an invoice that is two weeks overdue. Write a polite reminder email. Give the invoice number (2025-042) and the amount (1,800 euros plus VAT). Ask when they can pay. Offer to send the invoice again if he cannot find it, and attach the bank details. Use at least two relative clauses with who, which or whose.",
+    "model": "Subject: Reminder: invoice 2025-042\n\nDear Paolo,\n\nI hope you're well.\n\nI'm writing to follow up on invoice 2025-042, which was due two weeks ago. According to our records, the amount of 1,800 euros plus VAT is still outstanding.\n\nCould you let me know when we can expect the payment? If you can't find the original email, I'm happy to send the invoice again. I've also attached our bank details, which include the IBAN and the payment reference.\n\nIf you have already paid, please ignore this message, and thank you.\n\nPlease let me know if there is anything I can help with, or if your accounts department needs another document.\n\nKind regards,\nLuca"
+  },
+
+  "speaking": {
+    "shadowing": [
+      "I'm writing to follow up on an invoice that is now overdue.",
+      "The client who called yesterday would like to pay in instalments.",
+      "Could you let me know when we can expect the payment?",
+      "Please quote the invoice number as the payment reference.",
+      "Our accountant, who works in Milan, will check the balance.",
+      "The money should clear by the end of the week.",
+      "If you have already paid, please ignore this message.",
+      "This is the page where you can download your receipt."
+    ],
+    "prompts": [
+      { "en": "How do your clients usually pay you?", "it": "Come ti pagano di solito i tuoi clienti?", "help": "Inizia con: Most of my clients pay by bank transfer..." },
+      { "en": "What do you do when a client pays late?", "it": "Che cosa fai quando un cliente paga in ritardo?", "help": "Usa: I send a friendly reminder / I call the person who..." },
+      { "en": "Describe the best client you have ever had.", "it": "Descrivi il miglior cliente che hai mai avuto.", "help": "Usa who e whose: He's a client who always pays on time..." },
+      { "en": "Do you prefer to be paid upfront or after the work is done?", "it": "Preferisci ricevere il pagamento in anticipo o a lavoro finito?", "help": "Usa: I prefer a deposit because..." },
+      { "en": "Explain to a colleague how to find a receipt on your website.", "it": "Spiega a un collega come trovare una ricevuta sul tuo sito.", "help": "Usa: This is the page where you can..." }
+    ]
+  },
+
+  "video": [
+    {
+      "title": "Introduzione: fatture e pagamenti",
+      "show": ["Invoices and payments", "Fatture e pagamenti", "Parlare di soldi senza imbarazzo"],
+      "say": [
+        { "lang": "it", "text": "Oggi parliamo di fatture e pagamenti. Imparerai a ricordare una scadenza, a dare le tue coordinate bancarie e a scrivere un sollecito gentile." },
+        { "lang": "it", "text": "In più studiamo le frasi relative, cioè who, which, that, whose e where. Servono a costruire frasi più lunghe e precise." }
+      ]
+    },
+    {
+      "title": "Who, which e that",
+      "show": ["person: who", "thing: which", "both: that", "The client who paid late"],
+      "say": [
+        { "lang": "it", "text": "Una frase relativa aggiunge informazioni su una persona o una cosa. Per le persone si usa who. Per le cose si usa which. That va bene per tutti e due." },
+        { "lang": "en", "text": "The client who paid late sent an apology." },
+        { "lang": "en", "text": "This is the invoice which is still unpaid." }
+      ]
+    },
+    {
+      "title": "Whose e where",
+      "show": ["whose + noun", "where = place", "A client whose payment is late"],
+      "say": [
+        { "lang": "it", "text": "Whose indica possesso e vuole subito un nome, senza articolo. Where si usa per i luoghi." },
+        { "lang": "en", "text": "I'm writing to a client whose payment is two weeks late." },
+        { "lang": "en", "text": "This is the page where you can download your receipt." }
+      ]
+    },
+    {
+      "title": "Con virgola o senza virgola",
+      "show": ["Defining: no commas", "Non-defining: commas", "Not that with commas"],
+      "say": [
+        { "lang": "it", "text": "Se la frase relativa dice quale persona o cosa intendi, non si mette la virgola. Se aggiunge solo un extra, si mettono le virgole. In questo secondo caso non si può usare that." },
+        { "lang": "en", "text": "The accountant who called me is on holiday." },
+        { "lang": "en", "text": "Our accountant, who works in Turin, is on holiday." }
+      ]
+    },
+    {
+      "title": "Quando si può omettere",
+      "show": ["Object: you can omit", "Subject: you cannot omit", "The amount you wrote"],
+      "say": [
+        { "lang": "it", "text": "Se il pronome è l'oggetto della frase relativa, puoi toglierlo. Se è il soggetto, no. E non ripetere mai l'oggetto dentro la frase." },
+        { "lang": "en", "text": "The amount you wrote is wrong." },
+        { "lang": "en", "text": "The client who called wants a refund." }
+      ]
+    },
+    {
+      "title": "Espressioni per sollecitare",
+      "show": ["This is a friendly reminder", "The balance is outstanding", "Could you let me know when...?"],
+      "say": [
+        { "lang": "it", "text": "Ecco tre espressioni per un sollecito educato. Usale nella tua prossima mail." },
+        { "lang": "en", "text": "This is a friendly reminder that the payment is overdue." },
+        { "lang": "en", "text": "According to our records, the balance is still outstanding." },
+        { "lang": "en", "text": "Could you let me know when we can expect the payment?" }
+      ]
+    },
+    {
+      "title": "Dare i dati di pagamento",
+      "show": ["Bank details", "Payment reference", "Payment terms: thirty days"],
+      "say": [
+        { "lang": "it", "text": "Quando mandi una fattura, dai sempre le coordinate bancarie e la causale. Specifica anche i termini di pagamento." },
+        { "lang": "en", "text": "Please quote the invoice number as the payment reference." },
+        { "lang": "en", "text": "Payment is due within thirty days of the invoice date." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["who, which, that, whose, where", "reminder, overdue, balance", "Thank you for your prompt payment"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Who per le persone, which per le cose, that per tutti e due, whose per il possesso e where per i luoghi. Ricorda le virgole per gli extra." },
+        { "lang": "it", "text": "Ora scrivi la tua mail di sollecito e ripeti ad alta voce le frasi della lezione. Alla prossima." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "id": 1,
+  "week": 1,
+  "title": "Mail e lavoro con i clienti",
+  "titleEn": "Emails and clients",
+  "intro": "Oggi impari le parole e le frasi che servono ogni giorno per scrivere ai clienti: mandare file, confermare, chiedere, rimandare, sollecitare. Ripassi anche la differenza tra past simple e present perfect e come fare richieste cortesi con could e would. Con queste basi puoi già scrivere mail vere, chiare e educate.",
+  "goals": [
+    "Scrivere una mail per mandare un file o un preventivo",
+    "Scegliere tra past simple e present perfect senza paura",
+    "Fare richieste cortesi con could, would e would you mind",
+    "Usare 50 parole di lavoro: scadenze, richieste, allegati, ritardi",
+    "Evitare quattro falsi amici che fanno fare brutte figure"
+  ],
+  "words": [
+    { "en": "to send", "pron": "sènd", "it": "mandare, inviare", "type": "verb", "ex": "I'll send you the files this afternoon.", "exIt": "Ti mando i file questo pomeriggio." },
+    { "en": "to receive", "pron": "risìiv", "it": "ricevere", "type": "verb", "ex": "Did you receive my email about the invoice?", "exIt": "Hai ricevuto la mia mail sulla fattura?" },
+    { "en": "to reply", "pron": "riplài", "it": "rispondere", "type": "verb", "ex": "Thanks for your message. I'll reply by tomorrow.", "exIt": "Grazie del messaggio. Rispondo entro domani." },
+    { "en": "to attach", "pron": "atàc", "it": "allegare", "type": "verb", "ex": "I've attached the quote to this email.", "exIt": "Ho allegato il preventivo a questa mail." },
+    { "en": "to forward", "pron": "fòruord", "it": "inoltrare", "type": "verb", "ex": "Could you forward this to your manager?", "exIt": "Potresti inoltrarlo al tuo responsabile?" },
+    { "en": "to check", "pron": "cèk", "it": "controllare, verificare", "type": "verb", "ex": "Let me check the details and get back to you.", "exIt": "Fammi controllare i dettagli e ti ricontatto." },
+    { "en": "to confirm", "pron": "konfèrm", "it": "confermare", "type": "verb", "ex": "Please confirm that the new logo is approved.", "exIt": "Per favore conferma che il nuovo logo è approvato." },
+    { "en": "to schedule", "pron": "skèdgiul", "it": "fissare (un incontro), programmare", "type": "verb", "ex": "Can we schedule a call for Monday morning?", "exIt": "Possiamo fissare una chiamata per lunedì mattina?" },
+    { "en": "to postpone", "pron": "poustpòun", "it": "rimandare, rinviare", "type": "verb", "ex": "We had to postpone the launch by a week.", "exIt": "Abbiamo dovuto rimandare il lancio di una settimana." },
+    { "en": "to cancel", "pron": "kànsel", "it": "annullare, cancellare", "type": "verb", "ex": "I'm sorry, I need to cancel our meeting.", "exIt": "Mi dispiace, devo annullare la nostra riunione." },
+    { "en": "to deliver", "pron": "delìver", "it": "consegnare", "type": "verb", "ex": "We will deliver the website on 15 March.", "exIt": "Consegneremo il sito il 15 marzo." },
+    { "en": "to provide", "pron": "provàid", "it": "fornire", "type": "verb", "ex": "Could you provide the login details for the server?", "exIt": "Potresti fornirmi le credenziali di accesso al server?" },
+    { "en": "to require", "pron": "rikuàier", "it": "richiedere, necessitare di", "type": "verb", "ex": "This feature requires a new version of the plugin.", "exIt": "Questa funzione richiede una nuova versione del plugin." },
+    { "en": "to fix", "pron": "fìks", "it": "correggere, riparare", "type": "verb", "ex": "We fixed the bug in the contact form yesterday.", "exIt": "Ieri abbiamo corretto il bug nel modulo di contatto." },
+    { "en": "to update", "pron": "apdèit", "it": "aggiornare", "type": "verb", "ex": "I'll update the document and send it again.", "exIt": "Aggiorno il documento e te lo rimando." },
+    { "en": "to improve", "pron": "imprùuv", "it": "migliorare", "type": "verb", "ex": "We want to improve the loading speed of the site.", "exIt": "Vogliamo migliorare la velocità di caricamento del sito." },
+    { "en": "to agree", "pron": "agrìi", "it": "essere d'accordo, concordare", "type": "verb", "ex": "We agreed on a deadline of 30 June.", "exIt": "Abbiamo concordato una scadenza al 30 giugno." },
+    { "en": "to suggest", "pron": "sedgèst", "it": "suggerire, proporre", "type": "verb", "ex": "I suggest that we start with the homepage.", "exIt": "Suggerisco di cominciare dalla homepage." },
+    { "en": "to handle", "pron": "hàndol", "it": "gestire, occuparsi di", "type": "verb", "ex": "Marco will handle the migration to the new server.", "exIt": "Marco si occuperà della migrazione al nuovo server." },
+    { "en": "to follow up", "pron": "fòlou àp", "it": "dare seguito, sollecitare", "type": "verb", "ex": "I'm writing to follow up on my last email.", "exIt": "Ti scrivo per dare seguito alla mia ultima mail." },
+    { "en": "deadline", "pron": "dèdlain", "it": "scadenza", "type": "noun", "ex": "The deadline for the first draft is Friday.", "exIt": "La scadenza per la prima bozza è venerdì." },
+    { "en": "request", "pron": "rikuèst", "it": "richiesta", "type": "noun", "ex": "We received a request for a new payment method.", "exIt": "Abbiamo ricevuto la richiesta di un nuovo metodo di pagamento." },
+    { "en": "issue", "pron": "ìsciu", "it": "problema, questione", "type": "noun", "ex": "We found an issue with the checkout page.", "exIt": "Abbiamo trovato un problema nella pagina di pagamento." },
+    { "en": "feature", "pron": "fìicer", "it": "funzionalità, caratteristica", "type": "noun", "ex": "The new feature lets users save their favourites.", "exIt": "La nuova funzione permette agli utenti di salvare i preferiti." },
+    { "en": "quote", "pron": "kuòut", "it": "preventivo", "type": "noun", "ex": "I'll send you a quote by the end of the day.", "exIt": "Ti mando un preventivo entro fine giornata." },
+    { "en": "invoice", "pron": "ìnvois", "it": "fattura", "type": "noun", "ex": "The invoice is attached to this email.", "exIt": "La fattura è allegata a questa mail." },
+    { "en": "budget", "pron": "bàdgit", "it": "budget, bilancio previsto", "type": "noun", "ex": "What budget do you have for this project?", "exIt": "Che budget avete per questo progetto?" },
+    { "en": "task", "pron": "task", "it": "compito, attività", "type": "noun", "ex": "The first task is to review the current site.", "exIt": "Il primo compito è rivedere il sito attuale." },
+    { "en": "meeting", "pron": "mìiting", "it": "riunione, incontro", "type": "noun", "ex": "Thanks for the meeting this morning.", "exIt": "Grazie per la riunione di questa mattina." },
+    { "en": "call", "pron": "kòl", "it": "chiamata, telefonata", "type": "noun", "ex": "Do you have time for a quick call today?", "exIt": "Hai tempo per una breve chiamata oggi?" },
+    { "en": "confirmation", "pron": "konfermèiscion", "it": "conferma", "type": "noun", "ex": "We're still waiting for confirmation from the client.", "exIt": "Aspettiamo ancora la conferma del cliente." },
+    { "en": "feedback", "pron": "fìidbak", "it": "riscontro, commenti (non numerabile)", "type": "noun", "ex": "Thank you for your feedback on the design.", "exIt": "Grazie dei commenti sul design." },
+    { "en": "draft", "pron": "dràft", "it": "bozza", "type": "noun", "ex": "This is only a draft, so please don't share it.", "exIt": "Questa è solo una bozza, quindi non condividerla." },
+    { "en": "release", "pron": "rilìis", "it": "rilascio, versione pubblicata", "type": "noun", "ex": "The next release is planned for October.", "exIt": "Il prossimo rilascio è previsto per ottobre." },
+    { "en": "requirement", "pron": "rikuàierment", "it": "requisito, esigenza", "type": "noun", "ex": "Accessibility is a requirement for this project.", "exIt": "L'accessibilità è un requisito di questo progetto." },
+    { "en": "stakeholder", "pron": "stèikhoulder", "it": "parte interessata, chi ha un interesse nel progetto", "type": "noun", "ex": "We need to involve all the stakeholders early.", "exIt": "Dobbiamo coinvolgere subito tutte le parti interessate." },
+    { "en": "scope", "pron": "skòup", "it": "ambito, perimetro del lavoro", "type": "noun", "ex": "This change is outside the scope of the project.", "exIt": "Questa modifica è fuori dal perimetro del progetto." },
+    { "en": "estimate", "pron": "èstimet", "it": "stima (di tempi o costi)", "type": "noun", "ex": "My estimate is about ten working days.", "exIt": "La mia stima è di circa dieci giorni lavorativi." },
+    { "en": "delay", "pron": "dilèi", "it": "ritardo", "type": "noun", "ex": "We apologise for the delay in replying.", "exIt": "Ci scusiamo per il ritardo nella risposta." },
+    { "en": "attachment", "pron": "atàcment", "it": "allegato", "type": "noun", "ex": "I couldn't open the attachment. Could you resend it?", "exIt": "Non sono riuscito ad aprire l'allegato. Puoi rimandarlo?" },
+    { "en": "available", "pron": "avèilabol", "it": "disponibile", "type": "adj", "ex": "Are you available for a call on Thursday?", "exIt": "Sei disponibile per una chiamata giovedì?" },
+    { "en": "urgent", "pron": "èrgent", "it": "urgente", "type": "adj", "ex": "This is urgent: the site is down.", "exIt": "È urgente: il sito è fermo." },
+    { "en": "further", "pron": "fèrder", "it": "ulteriore, altro", "type": "adj", "ex": "Please let me know if you need any further information.", "exIt": "Fammi sapere se hai bisogno di altre informazioni." },
+    { "en": "current", "pron": "càrrent", "it": "attuale, in uso adesso", "type": "adj", "ex": "What is the current version of the website?", "exIt": "Qual è la versione attuale del sito?" },
+    { "en": "previous", "pron": "prìivios", "it": "precedente", "type": "adj", "ex": "As discussed in my previous email, we need the logo.", "exIt": "Come detto nella mia mail precedente, ci serve il logo." },
+    { "en": "approximately", "pron": "apròksimatli", "it": "circa, approssimativamente", "type": "adv", "ex": "The work will take approximately three weeks.", "exIt": "Il lavoro richiederà circa tre settimane." },
+    { "en": "however", "pron": "hauèver", "it": "tuttavia, però", "type": "adv", "ex": "The design is ready. However, we still need the texts.", "exIt": "Il design è pronto. Però ci servono ancora i testi." },
+    { "en": "therefore", "pron": "dèrfor", "it": "quindi, perciò", "type": "adv", "ex": "The server is slow. Therefore, we recommend an upgrade.", "exIt": "Il server è lento. Quindi consigliamo un potenziamento." },
+    { "en": "meanwhile", "pron": "mìinuail", "it": "nel frattempo", "type": "adv", "ex": "Meanwhile, I'll prepare the test environment.", "exIt": "Nel frattempo preparo l'ambiente di test." },
+    { "en": "eventually", "pron": "ivènciuali", "it": "alla fine, col tempo", "type": "adv", "ex": "We eventually found the cause of the error.", "exIt": "Alla fine abbiamo trovato la causa dell'errore." }
+  ],
+  "falseFriends": [
+    { "en": "eventually", "it": "alla fine", "trap": "Non vuol dire 'eventualmente'. Eventualmente si dice 'if necessary' o 'possibly'." },
+    { "en": "actually", "it": "in realtà, per la verità", "trap": "Non vuol dire 'attualmente'. Attualmente si dice 'currently' o 'at the moment'." },
+    { "en": "to assist", "it": "aiutare, assistere (una persona)", "trap": "Nelle mail di lavoro vuol dire 'aiutare' (How can I assist you?). Non si usa per 'assistere a un evento': in quel caso si dice 'to attend'." },
+    { "en": "sensible", "it": "ragionevole, sensato", "trap": "Non vuol dire 'sensibile'. Sensibile si dice 'sensitive'." }
+  ],
+  "grammar": {
+    "title": "Past simple o present perfect, e le richieste cortesi",
+    "explainIt": [
+      "Il past simple si usa per un fatto finito, in un momento preciso del passato. Di solito c'è un tempo che lo dice: yesterday, last week, in May, two days ago. Esempio: I sent you the quote yesterday. Si forma con il passato del verbo: sent, received, finished.",
+      "Il present perfect si usa quando il passato ha un legame con adesso. Il momento preciso non c'è, oppure non conta. Interessa il risultato di oggi. Esempio: I have sent you the quote. Vuol dire: adesso il preventivo è nella tua casella. Si forma con have o has più il participio passato: have sent, has received.",
+      "Attenzione: in italiano usiamo molto il passato prossimo per tutte e due le cose. Ho mandato la mail ieri, ho mandato la mail adesso. In inglese sono due tempi diversi. Se nella frase c'è un momento finito come yesterday, last Monday, in 2023, devi usare il past simple. Con already, yet, just, ever, never, this week, today puoi usare il present perfect.",
+      "Le richieste cortesi si fanno con could e would. Could you send me the file? è gentile e normale. Would you mind sending me the file? è ancora più educato, e dopo would you mind il verbo finisce in -ing. Can you...? va bene tra colleghi, ma con un cliente o uno sconosciuto meglio could o would.",
+      "Per essere ancora più gentile puoi aggiungere please, oppure frasi come I was wondering if you could... o I'd be grateful if you could... Dopo if you could il verbo resta all'infinito senza to: I'd be grateful if you could send me the file."
+    ],
+    "explainEn": [
+      "We use the past simple for a finished action at a specific time in the past. There is often a time expression: yesterday, last week, in May, two days ago. For example: I sent you the quote yesterday.",
+      "We use the present perfect when the past is connected to now. The exact time is not mentioned, or it is not important. The result matters today. For example: I have sent you the quote. This means the quote is now in your inbox. We form it with have or has and the past participle.",
+      "Be careful. In Italian we often use the passato prossimo for both. In English they are two different tenses. If the sentence has a finished time like yesterday, last Monday or in 2023, use the past simple. With already, yet, just, ever, never, this week and today you can use the present perfect.",
+      "We make polite requests with could and would. Could you send me the file? is polite and normal. Would you mind sending me the file? is even more polite, and after would you mind we use the -ing form. Can you...? is fine between colleagues, but with a client or a stranger it is better to use could or would.",
+      "To be even more polite, add please, or use phrases like I was wondering if you could... or I'd be grateful if you could... After if you could we use the infinitive without to."
+    ],
+    "rules": [
+      {
+        "it": "Past simple: azione finita in un momento preciso del passato.",
+        "en": "Past simple: a finished action at a specific time in the past.",
+        "form": "soggetto + passato (sent, received, called)",
+        "examples": [
+          { "en": "I sent the invoice on Monday.", "it": "Ho mandato la fattura lunedì." },
+          { "en": "We finished the website last week.", "it": "Abbiamo finito il sito la settimana scorsa." },
+          { "en": "She didn't reply to my email yesterday.", "it": "Ieri non ha risposto alla mia mail." }
+        ]
+      },
+      {
+        "it": "Present perfect: azione passata con risultato o legame con adesso, senza momento preciso.",
+        "en": "Present perfect: a past action with a result or link to now, without a specific time.",
+        "form": "have/has + participio passato",
+        "examples": [
+          { "en": "I have attached the quote.", "it": "Ho allegato il preventivo." },
+          { "en": "He has already confirmed the date.", "it": "Ha già confermato la data." },
+          { "en": "Have you received my message yet?", "it": "Hai già ricevuto il mio messaggio?" }
+        ]
+      },
+      {
+        "it": "Con yesterday, last week, ago, in 2022 serve il past simple, mai il present perfect.",
+        "en": "With yesterday, last week, ago, in 2022 we need the past simple, never the present perfect.",
+        "form": "finished time word = past simple",
+        "examples": [
+          { "en": "We spoke to the client two days ago.", "it": "Abbiamo parlato con il cliente due giorni fa." },
+          { "en": "I received your email on Tuesday.", "it": "Ho ricevuto la tua mail martedì." }
+        ]
+      },
+      {
+        "it": "Could you...? è la richiesta cortese di base. Would you mind + -ing è ancora più educata.",
+        "en": "Could you...? is the basic polite request. Would you mind + -ing is even more polite.",
+        "form": "Could you + verbo / Would you mind + verbo-ing",
+        "examples": [
+          { "en": "Could you send me the logo in PNG format?", "it": "Potresti mandarmi il logo in formato PNG?" },
+          { "en": "Would you mind checking the contract?", "it": "Ti dispiacerebbe controllare il contratto?" },
+          { "en": "Could I ask you to confirm by Friday?", "it": "Posso chiederti di confermare entro venerdì?" }
+        ]
+      },
+      {
+        "it": "Con I was wondering if you could... la richiesta suona molto gentile e indiretta.",
+        "en": "I was wondering if you could... makes a request sound very polite and indirect.",
+        "form": "I was wondering if you could + verbo",
+        "examples": [
+          { "en": "I was wondering if you could extend the deadline.", "it": "Mi chiedevo se potessi prorogare la scadenza." },
+          { "en": "I'd be grateful if you could reply by Monday.", "it": "Ti sarei grato se potessi rispondere entro lunedì." }
+        ]
+      }
+    ],
+    "tip": "Cerca nella frase un momento finito (yesterday, last week, ago, in 2023): se c'è, usa il past simple. Se vuoi dire 'adesso è fatto' e non c'è un momento, usa il present perfect. Per le richieste: con i clienti parti sempre con Could you...",
+    "mistakes": [
+      { "wrong": "I have sent you the quote yesterday.", "right": "I sent you the quote yesterday.", "why": "con yesterday si usa il past simple" },
+      { "wrong": "I am here since Monday.", "right": "I have been here since Monday.", "why": "since con un'azione che dura fino a ora vuole il present perfect (lo vedrai nella lezione 6)" },
+      { "wrong": "Could you to send me the file?", "right": "Could you send me the file?", "why": "dopo could si usa l'infinito senza to" },
+      { "wrong": "Would you mind to check this?", "right": "Would you mind checking this?", "why": "dopo would you mind il verbo prende -ing" },
+      { "wrong": "Actually we have three open issues.", "right": "Currently we have three open issues.", "why": "actually vuol dire 'in realtà', non 'attualmente'" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "I ___ (send) you the quote yesterday.", "a": ["sent"], "hint": "c'è yesterday", "explain": "Momento preciso nel passato: past simple." },
+    { "q": "I ___ (attach) the invoice to this email. Please check it.", "a": ["have attached", "'ve attached"], "hint": "risultato adesso, nessun momento preciso", "explain": "Azione passata con risultato ora: present perfect." },
+    { "q": "We ___ (finish) the homepage last week.", "a": ["finished"], "hint": "last week", "explain": "Last week è un momento finito: past simple." },
+    { "q": "___ you received my message yet?", "a": ["have"], "hint": "yet", "explain": "Con yet si usa il present perfect: Have you received...?" },
+    { "q": "He ___ (not reply) to my email two days ago.", "a": ["didn't reply", "did not reply"], "hint": "two days ago", "explain": "Ago vuole il past simple; la negazione usa didn't più infinito." },
+    { "q": "Could you ___ (check) the contract for me?", "a": ["check"], "hint": "dopo could", "explain": "Dopo could si usa l'infinito senza to." },
+    { "q": "Would you mind ___ (send) me the file again?", "a": ["sending"], "hint": "dopo would you mind", "explain": "Would you mind vuole il verbo in -ing." },
+    { "q": "She ___ (already, confirm) the date.", "a": ["has already confirmed", "'s already confirmed", "already has confirmed"], "hint": "already", "explain": "Con already si usa il present perfect: has already confirmed." },
+    { "q": "We ___ (agree) on the budget in May.", "a": ["agreed"], "hint": "in May", "explain": "In May è un momento finito: past simple." },
+    { "q": "I was wondering if you ___ (can/could) extend the deadline.", "a": ["could"], "hint": "richiesta molto gentile", "explain": "Dopo I was wondering if si usa could." },
+    { "q": "Sorry, I ___ (not read) your report yet. I'll do it today.", "a": ["haven't read", "have not read"], "hint": "c'è yet", "explain": "Con yet nelle frasi negative si usa il present perfect: haven't read." },
+    { "q": "The client ___ (call) me twice this morning.", "a": ["has called", "called"], "hint": "this morning, la mattina non è finita", "explain": "This morning può essere present perfect se è ancora mattina; past simple se parli a pomeriggio." }
+  ],
+  "phrases": [
+    { "group": "Aprire una mail", "en": "I hope you're well.", "it": "Spero che tu stia bene.", "note": "apertura gentile, va bene con clienti già conosciuti" },
+    { "group": "Aprire una mail", "en": "Thank you for your email.", "it": "Grazie per la tua mail.", "note": "la risposta standard" },
+    { "group": "Aprire una mail", "en": "I'm writing to ask about the quote.", "it": "Ti scrivo per chiedere del preventivo.", "note": "dichiara subito lo scopo" },
+    { "group": "Aprire una mail", "en": "I'm writing to follow up on my last email.", "it": "Ti scrivo per dare seguito alla mia ultima mail.", "note": "tipica del sollecito gentile" },
+    { "group": "Mandare e allegare file", "en": "Please find attached the invoice.", "it": "In allegato trovi la fattura.", "note": "formale, molto comune" },
+    { "group": "Mandare e allegare file", "en": "I've attached the draft for your review.", "it": "Ti ho allegato la bozza da rivedere." },
+    { "group": "Mandare e allegare file", "en": "I'll send it over by the end of the day.", "it": "Te lo mando entro fine giornata." },
+    { "group": "Mandare e allegare file", "en": "Could you resend the attachment?", "it": "Potresti rimandare l'allegato?", "note": "quando non si apre" },
+    { "group": "Chiedere con cortesia", "en": "Could you confirm the date, please?", "it": "Potresti confermare la data, per favore?" },
+    { "group": "Chiedere con cortesia", "en": "Would you mind sending me the logo?", "it": "Ti dispiacerebbe mandarmi il logo?", "note": "molto cortese" },
+    { "group": "Chiedere con cortesia", "en": "I was wondering if you could share the login details.", "it": "Mi chiedevo se potessi condividere le credenziali.", "note": "ancora più indiretta" },
+    { "group": "Chiedere con cortesia", "en": "It would be great if you could reply by Friday.", "it": "Sarebbe ottimo se potessi rispondere entro venerdì.", "note": "mette una scadenza senza essere duro" },
+    { "group": "Scadenze e ritardi", "en": "The deadline is next Friday.", "it": "La scadenza è venerdì prossimo." },
+    { "group": "Scadenze e ritardi", "en": "We're running a bit behind schedule.", "it": "Siamo un po' indietro rispetto ai tempi.", "note": "per avvisare di un ritardo" },
+    { "group": "Scadenze e ritardi", "en": "I apologise for the delay in replying.", "it": "Mi scuso per il ritardo nel rispondere." },
+    { "group": "Scadenze e ritardi", "en": "We'll do our best to meet the deadline.", "it": "Faremo del nostro meglio per rispettare la scadenza." },
+    { "group": "Scadenze e ritardi", "en": "Is that urgent, or can it wait until Monday?", "it": "È urgente o può aspettare lunedì?" },
+    { "group": "Fissare e spostare", "en": "Are you available on Thursday afternoon?", "it": "Sei disponibile giovedì pomeriggio?" },
+    { "group": "Fissare e spostare", "en": "Let's schedule a call for next week.", "it": "Fissiamo una chiamata per la prossima settimana." },
+    { "group": "Fissare e spostare", "en": "I'm afraid I need to postpone our meeting.", "it": "Purtroppo devo rimandare la nostra riunione.", "note": "I'm afraid ammorbidisce una cattiva notizia" },
+    { "group": "Fissare e spostare", "en": "Could we move it to Wednesday?", "it": "Possiamo spostarla a mercoledì?" },
+    { "group": "Chiudere una mail", "en": "Please let me know if you need any further information.", "it": "Fammi sapere se hai bisogno di altre informazioni." },
+    { "group": "Chiudere una mail", "en": "I look forward to hearing from you.", "it": "Attendo tue notizie.", "note": "dopo look forward to si usa -ing" },
+    { "group": "Chiudere una mail", "en": "Thanks in advance for your help.", "it": "Grazie in anticipo per l'aiuto." },
+    { "group": "Chiudere una mail", "en": "Best regards,", "it": "Cordiali saluti,", "note": "chiusura neutra e sempre sicura" }
+  ],
+  "dialogue": {
+    "title": "A late reply about the quote",
+    "context": "Sarah, cliente di Luca, gli telefona per sapere a che punto è il preventivo del nuovo sito. Luca è un web developer.",
+    "lines": [
+      { "s": "A", "name": "Sarah", "en": "Hi Luca, it's Sarah from Blue Peak. Did you receive my email about the new website?", "it": "Ciao Luca, sono Sarah di Blue Peak. Hai ricevuto la mia mail sul nuovo sito?" },
+      { "s": "B", "name": "Luca", "en": "Hi Sarah. Yes, I received it on Monday, but I haven't replied yet. I apologise for the delay.", "it": "Ciao Sarah. Sì, l'ho ricevuta lunedì ma non ho ancora risposto. Mi scuso per il ritardo." },
+      { "s": "A", "name": "Sarah", "en": "No problem. Actually, it's quite urgent. Our deadline is next Friday.", "it": "Nessun problema. In realtà è abbastanza urgente. La nostra scadenza è venerdì prossimo." },
+      { "s": "B", "name": "Luca", "en": "I understand. I checked the requirements yesterday and I've already prepared an estimate.", "it": "Capisco. Ieri ho controllato i requisiti e ho già preparato una stima." },
+      { "s": "A", "name": "Sarah", "en": "Great. How long will it take, approximately?", "it": "Ottimo. Quanto tempo ci vorrà, più o meno?" },
+      { "s": "B", "name": "Luca", "en": "Approximately three weeks, so we can't deliver by Friday. However, I can send you a first draft by then.", "it": "Circa tre settimane, quindi non possiamo consegnare entro venerdì. Però posso mandarti una prima bozza per quella data." },
+      { "s": "A", "name": "Sarah", "en": "That could work. Could you also send me the quote today?", "it": "Potrebbe andare. Potresti mandarmi anche il preventivo oggi?" },
+      { "s": "B", "name": "Luca", "en": "Of course. I'll attach it to an email in ten minutes. Would you mind confirming the budget first?", "it": "Certo. Lo allego a una mail tra dieci minuti. Ti dispiacerebbe confermarmi prima il budget?" },
+      { "s": "A", "name": "Sarah", "en": "Sure. We have about five thousand euros. Is that enough for the scope we discussed?", "it": "Certo. Abbiamo circa cinquemila euro. Basta per il lavoro di cui abbiamo parlato?" },
+      { "s": "B", "name": "Luca", "en": "I think so. If the scope changes, however, we will need to update the quote.", "it": "Penso di sì. Se però il perimetro cambia, dovremo aggiornare il preventivo." },
+      { "s": "A", "name": "Sarah", "en": "Understood. Can we schedule a call on Thursday to go through the feedback from my team?", "it": "Capito. Possiamo fissare una chiamata giovedì per rivedere i commenti del mio team?" },
+      { "s": "B", "name": "Luca", "en": "Yes, I'm available on Thursday after two. Shall I send you an invitation?", "it": "Sì, giovedì sono disponibile dopo le due. Ti mando un invito?" },
+      { "s": "A", "name": "Sarah", "en": "Please do. Thanks for your help, Luca.", "it": "Sì, grazie. Grazie dell'aiuto, Luca." },
+      { "s": "B", "name": "Luca", "en": "You're welcome. I'll follow up with the quote and the invitation in a few minutes.", "it": "Di nulla. Tra pochi minuti ti scrivo con il preventivo e l'invito." }
+    ]
+  },
+  "listening": [
+    { "q": "When did Luca receive Sarah's email?", "options": ["On Monday", "Yesterday", "Today"], "answer": 0 },
+    { "q": "Why can't Luca deliver the website by Friday?", "options": ["He is on holiday", "The work takes about three weeks", "The budget is too small"], "answer": 1 },
+    { "q": "What will Luca send by next Friday?", "options": ["The final website", "The invoice", "A first draft"], "answer": 2 },
+    { "q": "What does Luca ask Sarah to confirm first?", "options": ["The budget", "The date of the call", "The logo"], "answer": 0 }
+  ],
+  "translations": [
+    { "it": "Ti allego il preventivo.", "en": "I've attached the quote.", "alt": ["Please find attached the quote.", "I'm attaching the quote."] },
+    { "it": "Potresti mandarmi il logo in formato PNG?", "en": "Could you send me the logo in PNG format?", "alt": ["Would you mind sending me the logo in PNG format?", "Could you please send me the logo as a PNG?"] },
+    { "it": "Ieri ho ricevuto la tua mail.", "en": "I received your email yesterday.", "alt": ["I got your email yesterday."] },
+    { "it": "Non ho ancora ricevuto la fattura.", "en": "I haven't received the invoice yet.", "alt": ["I have not received the invoice yet.", "I still haven't received the invoice."] },
+    { "it": "Mi scuso per il ritardo nella risposta.", "en": "I apologise for the delay in replying.", "alt": ["Sorry for the delay in replying.", "I apologize for the delay in my reply."] },
+    { "it": "Ti dispiacerebbe controllare il contratto?", "en": "Would you mind checking the contract?", "alt": ["Would you mind having a look at the contract?", "Could you check the contract, please?"] },
+    { "it": "La scadenza è venerdì prossimo.", "en": "The deadline is next Friday.", "alt": ["The deadline is on Friday next week."] },
+    { "it": "Purtroppo devo rimandare la riunione.", "en": "I'm afraid I need to postpone the meeting.", "alt": ["Unfortunately, I have to postpone the meeting.", "I'm sorry, but I have to postpone the meeting."] },
+    { "it": "Sei disponibile giovedì pomeriggio?", "en": "Are you available on Thursday afternoon?", "alt": ["Are you free on Thursday afternoon?"] },
+    { "it": "Fammi sapere se hai bisogno di altre informazioni.", "en": "Please let me know if you need any further information.", "alt": ["Let me know if you need any more information.", "Please let me know if you need further information."] },
+    { "it": "Abbiamo già confermato la data con il cliente.", "en": "We have already confirmed the date with the client.", "alt": ["We've already confirmed the date with the client."] },
+    { "it": "Attendo tue notizie.", "en": "I look forward to hearing from you.", "alt": ["I'm looking forward to hearing from you."] }
+  ],
+  "writing": {
+    "taskIt": "Scrivi una mail a una cliente, Anna Rossi. Scusati perché non hai ancora risposto alla sua richiesta di un preventivo per un sito web. Dille che le alleghi il preventivo. Chiedile con cortesia di confermare il budget e di mandarti il logo. Proponi una chiamata giovedì pomeriggio. Chiudi in modo educato. Usa almeno due parole di oggi e una richiesta con could o would.",
+    "taskEn": "Write an email to a client, Anna Rossi. Apologise for not replying sooner to her request for a website quote. Tell her that the quote is attached. Politely ask her to confirm the budget and to send you the logo. Suggest a call on Thursday afternoon. Close politely. Use at least two words from today and one request with could or would.",
+    "model": "Subject: Quote for your new website\n\nDear Anna,\n\nThank you for your email, and I apologise for the delay in replying.\n\nI have attached the quote for the new website. It includes the design, the development and two rounds of feedback.\n\nCould you confirm the budget you have in mind? Would you also mind sending me the logo in PNG format, so I can start the first draft?\n\nAre you available for a short call on Thursday afternoon? We can go through the scope together.\n\nPlease let me know if you need any further information.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Thank you for your email. I'll reply by the end of the day.",
+      "Could you send me the attachment again, please?",
+      "I'm afraid we need to postpone the meeting.",
+      "Are you available for a quick call on Thursday?",
+      "I have already attached the quote to my last email.",
+      "We delivered the first draft last week.",
+      "Would you mind confirming the deadline?",
+      "Please let me know if you need any further information."
+    ],
+    "prompts": [
+      { "en": "Did you receive my email this morning?", "it": "Hai ricevuto la mia mail di stamattina?", "help": "Rispondi con: Yes, I received it. / I haven't received it yet." },
+      { "en": "Could you tell me about your current project?", "it": "Puoi parlarmi del tuo progetto attuale?", "help": "Inizia con: I'm currently working on... The deadline is..." },
+      { "en": "What did you send to a client last week?", "it": "Cosa hai mandato a un cliente la settimana scorsa?", "help": "Past simple: Last week I sent... / I delivered..." },
+      { "en": "You need to postpone a meeting with a client. What do you say?", "it": "Devi rimandare una riunione con un cliente. Cosa dici?", "help": "I'm afraid I need to postpone... Could we move it to...?" },
+      { "en": "Have you already finished the task I gave you?", "it": "Hai già finito il compito che ti ho dato?", "help": "Yes, I have already... / No, not yet. I'll finish it by..." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione alla lezione uno",
+      "show": ["Lesson 1", "Emails and clients", "Past simple, present perfect, could and would"],
+      "say": [
+        { "lang": "it", "text": "Oggi lavoriamo sulle mail ai clienti. Impari a mandare file, a chiedere con cortesia e a scusarti per un ritardo." },
+        { "lang": "en", "text": "Thank you for your email. Could you send me the attachment, please?" }
+      ]
+    },
+    {
+      "title": "Past simple: un momento preciso",
+      "show": ["I sent the quote yesterday.", "We finished the site last week.", "yesterday, last week, ago, in May"],
+      "say": [
+        { "lang": "it", "text": "Il past simple descrive un fatto finito, in un momento preciso. Se nella frase c'è yesterday, last week o ago, usa questo tempo." },
+        { "lang": "en", "text": "I sent you the quote yesterday." },
+        { "lang": "en", "text": "We finished the homepage last week." }
+      ]
+    },
+    {
+      "title": "Present perfect: il risultato oggi",
+      "show": ["I have attached the invoice.", "She has already confirmed.", "have or has plus participio"],
+      "say": [
+        { "lang": "it", "text": "Il present perfect si forma con have o has e il participio. Si usa quando conta il risultato adesso, e non il momento preciso." },
+        { "lang": "en", "text": "I have attached the invoice to this email." },
+        { "lang": "en", "text": "Have you received my message yet?" }
+      ]
+    },
+    {
+      "title": "L'errore degli italiani",
+      "show": ["Sbagliato: I have sent it yesterday.", "Giusto: I sent it yesterday."],
+      "say": [
+        { "lang": "it", "text": "In italiano diciamo ho mandato ieri. In inglese, con yesterday, non puoi usare have. Con un momento finito serve sempre il past simple." },
+        { "lang": "en", "text": "I sent it yesterday." }
+      ]
+    },
+    {
+      "title": "Richieste cortesi",
+      "show": ["Could you send me the file?", "Would you mind sending it?", "I was wondering if you could..."],
+      "say": [
+        { "lang": "it", "text": "Per chiedere con garbo usa could you. Per essere ancora più gentile usa would you mind, seguito dal verbo con ing." },
+        { "lang": "en", "text": "Could you confirm the date, please?" },
+        { "lang": "en", "text": "Would you mind checking the contract?" }
+      ]
+    },
+    {
+      "title": "Espressioni chiave: allegati e scadenze",
+      "show": ["Please find attached...", "I apologise for the delay.", "The deadline is next Friday."],
+      "say": [
+        { "lang": "it", "text": "Ecco tre frasi che userai ogni giorno. La prima per allegare un file, la seconda per scusarti, la terza per parlare di scadenze." },
+        { "lang": "en", "text": "Please find attached the invoice." },
+        { "lang": "en", "text": "I apologise for the delay in replying." },
+        { "lang": "en", "text": "The deadline is next Friday." }
+      ]
+    },
+    {
+      "title": "Fissare e spostare incontri",
+      "show": ["Are you available on Thursday?", "I'm afraid I need to postpone.", "Could we move it to Wednesday?"],
+      "say": [
+        { "lang": "it", "text": "Per fissare una chiamata chiedi se l'altra persona è disponibile. Per rimandare usa I'm afraid, che rende più morbida la cattiva notizia." },
+        { "lang": "en", "text": "Are you available on Thursday afternoon?" },
+        { "lang": "en", "text": "I'm afraid I need to postpone our meeting." }
+      ]
+    },
+    {
+      "title": "Attenzione ai falsi amici",
+      "show": ["eventually = alla fine", "actually = in realtà", "sensible = ragionevole"],
+      "say": [
+        { "lang": "it", "text": "Eventually non vuol dire eventualmente, ma alla fine. Actually non vuol dire attualmente, ma in realtà. Sensible non vuol dire sensibile, ma ragionevole." },
+        { "lang": "en", "text": "We eventually found the error." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Past simple = momento preciso", "Present perfect = risultato adesso", "Could you / Would you mind"],
+      "say": [
+        { "lang": "it", "text": "Riepilogo. Con un momento preciso usa il past simple. Con un risultato adesso usa il present perfect. Per le richieste usa could you e would you mind." },
+        { "lang": "en", "text": "I look forward to hearing from you." }
+      ]
+    }
+  ]
+}

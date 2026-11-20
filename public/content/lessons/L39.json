@@ -1,0 +1,1253 @@
+{
+  "id": 39,
+  "week": 8,
+  "title": "Viaggi di lavoro",
+  "titleEn": "Business travel",
+  "intro": "Oggi impari a cavartela in un viaggio di lavoro: aeroporto, hotel, taxi, treni e note spese. Impari a fare richieste gentili e a usare il gerundio dopo le preposizioni, come in 'before leaving' e 'without asking'. Ti serve ogni volta che incontri un cliente fuori sede o vai a una conferenza.",
+  "goals": [
+    "Fare richieste gentili in aeroporto, in hotel e sui mezzi di trasporto",
+    "Usare il gerundio dopo preposizioni come before, after, without, instead of",
+    "Gestire un problema di viaggio: ritardo, cambio di prenotazione, bagaglio",
+    "Parlare di note spese e rimborsi in modo chiaro"
+  ],
+  "words": [
+    {
+      "en": "airport",
+      "pron": "èerport",
+      "it": "aeroporto",
+      "type": "noun",
+      "ex": "I need to be at the airport at six.",
+      "exIt": "Devo essere in aeroporto alle sei."
+    },
+    {
+      "en": "flight",
+      "pron": "flàit",
+      "it": "volo",
+      "type": "noun",
+      "ex": "My flight to London leaves at nine.",
+      "exIt": "Il mio volo per Londra parte alle nove."
+    },
+    {
+      "en": "boarding pass",
+      "pron": "bòrding pàas",
+      "it": "carta d'imbarco",
+      "type": "noun",
+      "ex": "Please have your boarding pass ready.",
+      "exIt": "Per favore tenga pronta la carta d'imbarco."
+    },
+    {
+      "en": "gate",
+      "pron": "gèit",
+      "it": "uscita d'imbarco",
+      "type": "noun",
+      "ex": "Which gate does the flight to Berlin leave from?",
+      "exIt": "Da quale uscita parte il volo per Berlino?"
+    },
+    {
+      "en": "check-in desk",
+      "pron": "cèk in dèsk",
+      "it": "banco del check-in",
+      "type": "noun",
+      "ex": "The check-in desk closes forty minutes before departure.",
+      "exIt": "Il banco del check-in chiude quaranta minuti prima della partenza."
+    },
+    {
+      "en": "luggage",
+      "pron": "làgidg",
+      "it": "bagaglio (britannico)",
+      "type": "noun",
+      "ex": "My luggage has not arrived.",
+      "exIt": "Il mio bagaglio non è arrivato."
+    },
+    {
+      "en": "carry-on",
+      "pron": "kèri on",
+      "it": "bagaglio a mano (americano; britannico: hand luggage)",
+      "type": "noun",
+      "ex": "I only have a small carry-on.",
+      "exIt": "Ho solo un piccolo bagaglio a mano."
+    },
+    {
+      "en": "layover",
+      "pron": "lèiouver",
+      "it": "scalo tra due voli (americano; britannico: stopover)",
+      "type": "noun",
+      "ex": "I have a three-hour layover in Frankfurt.",
+      "exIt": "Ho uno scalo di tre ore a Francoforte."
+    },
+    {
+      "en": "passport",
+      "pron": "pàasport",
+      "it": "passaporto",
+      "type": "noun",
+      "ex": "Do not forget your passport.",
+      "exIt": "Non dimenticare il passaporto."
+    },
+    {
+      "en": "customs",
+      "pron": "kàstoms",
+      "it": "dogana",
+      "type": "noun",
+      "ex": "We went through customs without any problems.",
+      "exIt": "Abbiamo passato la dogana senza problemi."
+    },
+    {
+      "en": "itinerary",
+      "pron": "aitìnerari",
+      "it": "itinerario, programma di viaggio",
+      "type": "noun",
+      "ex": "I'll send you my itinerary by email.",
+      "exIt": "Ti mando il mio itinerario via mail."
+    },
+    {
+      "en": "reservation",
+      "pron": "rezervèiscen",
+      "it": "prenotazione (di hotel, tavolo)",
+      "type": "noun",
+      "ex": "I have a reservation under the name Rossi.",
+      "exIt": "Ho una prenotazione a nome Rossi."
+    },
+    {
+      "en": "one-way ticket",
+      "pron": "uàn uèi tìkit",
+      "it": "biglietto di sola andata",
+      "type": "noun",
+      "ex": "I'd like a one-way ticket to Munich, please.",
+      "exIt": "Vorrei un biglietto di sola andata per Monaco, per favore."
+    },
+    {
+      "en": "return ticket",
+      "pron": "ritèrn tìkit",
+      "it": "biglietto di andata e ritorno",
+      "type": "noun",
+      "ex": "A return ticket is cheaper than two single tickets.",
+      "exIt": "Un biglietto di andata e ritorno costa meno di due biglietti singoli."
+    },
+    {
+      "en": "fare",
+      "pron": "fèer",
+      "it": "tariffa, costo del biglietto",
+      "type": "noun",
+      "ex": "The train fare is eighty euros.",
+      "exIt": "Il biglietto del treno costa ottanta euro."
+    },
+    {
+      "en": "timetable",
+      "pron": "tàimteibol",
+      "it": "orario (di treni, autobus)",
+      "type": "noun",
+      "ex": "Let me check the timetable.",
+      "exIt": "Fammi controllare l'orario."
+    },
+    {
+      "en": "rental car",
+      "pron": "rèntal càar",
+      "it": "auto a noleggio (americano; britannico: hire car)",
+      "type": "noun",
+      "ex": "I'll pick up the rental car at the airport.",
+      "exIt": "Ritirerò l'auto a noleggio in aeroporto."
+    },
+    {
+      "en": "shuttle",
+      "pron": "sciàtol",
+      "it": "navetta",
+      "type": "noun",
+      "ex": "The hotel has a free shuttle from the airport.",
+      "exIt": "L'hotel ha una navetta gratuita dall'aeroporto."
+    },
+    {
+      "en": "to board",
+      "pron": "bòrd",
+      "it": "imbarcarsi, salire a bordo",
+      "type": "verb",
+      "ex": "Passengers should board at gate twelve.",
+      "exIt": "I passeggeri devono imbarcarsi all'uscita dodici."
+    },
+    {
+      "en": "departure",
+      "pron": "dipàarcer",
+      "it": "partenza",
+      "type": "noun",
+      "ex": "The departure time is ten past seven.",
+      "exIt": "L'ora di partenza è le sette e dieci."
+    },
+    {
+      "en": "arrival",
+      "pron": "aràival",
+      "it": "arrivo",
+      "type": "noun",
+      "ex": "Our arrival is scheduled for noon.",
+      "exIt": "Il nostro arrivo è previsto per mezzogiorno."
+    },
+    {
+      "en": "aisle seat",
+      "pron": "àil sìit",
+      "it": "posto corridoio",
+      "type": "noun",
+      "ex": "Could I have an aisle seat, please?",
+      "exIt": "Potrei avere un posto corridoio, per favore?"
+    },
+    {
+      "en": "window seat",
+      "pron": "uìndou sìit",
+      "it": "posto finestrino",
+      "type": "noun",
+      "ex": "I prefer a window seat on long flights.",
+      "exIt": "Sui voli lunghi preferisco il posto finestrino."
+    },
+    {
+      "en": "jet lag",
+      "pron": "dgèt làg",
+      "it": "jet lag",
+      "type": "noun",
+      "ex": "I'm still tired because of the jet lag.",
+      "exIt": "Sono ancora stanco per il jet lag."
+    },
+    {
+      "en": "accommodation",
+      "pron": "akomodèiscen",
+      "it": "alloggio, sistemazione",
+      "type": "noun",
+      "ex": "The company pays for accommodation.",
+      "exIt": "L'azienda paga l'alloggio."
+    },
+    {
+      "en": "reception",
+      "pron": "risèpscen",
+      "it": "reception, accoglienza",
+      "type": "noun",
+      "ex": "Please leave the key at reception.",
+      "exIt": "Per favore lasci la chiave alla reception."
+    },
+    {
+      "en": "key card",
+      "pron": "kìi kàard",
+      "it": "tessera-chiave della camera",
+      "type": "noun",
+      "ex": "My key card does not work.",
+      "exIt": "La mia tessera-chiave non funziona."
+    },
+    {
+      "en": "single room",
+      "pron": "sìngol rùum",
+      "it": "camera singola",
+      "type": "noun",
+      "ex": "I'd like a single room with a desk, please.",
+      "exIt": "Vorrei una camera singola con una scrivania, per favore."
+    },
+    {
+      "en": "checkout",
+      "pron": "cèkaut",
+      "it": "il momento di lasciare la camera",
+      "type": "noun",
+      "ex": "Checkout is at eleven o'clock.",
+      "exIt": "Bisogna lasciare la camera entro le undici."
+    },
+    {
+      "en": "wake-up call",
+      "pron": "uèik àp kòol",
+      "it": "sveglia telefonica in hotel",
+      "type": "noun",
+      "ex": "Could I have a wake-up call at six?",
+      "exIt": "Potrei avere la sveglia alle sei?"
+    },
+    {
+      "en": "directions",
+      "pron": "dairèkscens",
+      "it": "indicazioni stradali",
+      "type": "noun",
+      "ex": "Could you give me directions to the conference centre?",
+      "exIt": "Mi può dare le indicazioni per il centro congressi?"
+    },
+    {
+      "en": "to get lost",
+      "pron": "gèt lòst",
+      "it": "perdersi",
+      "type": "phrase",
+      "ex": "I got lost on the way to the client's office.",
+      "exIt": "Mi sono perso mentre andavo all'ufficio del cliente."
+    },
+    {
+      "en": "expenses",
+      "pron": "ikspènsiz",
+      "it": "spese, note spese",
+      "type": "noun",
+      "ex": "I'll send you my expenses at the end of the month.",
+      "exIt": "Ti manderò le mie note spese a fine mese."
+    },
+    {
+      "en": "reimbursement",
+      "pron": "riimbèrsment",
+      "it": "rimborso",
+      "type": "noun",
+      "ex": "I'm still waiting for my hotel reimbursement.",
+      "exIt": "Sto ancora aspettando il rimborso dell'hotel."
+    },
+    {
+      "en": "per diem",
+      "pron": "pèr dìiem",
+      "it": "diaria giornaliera",
+      "type": "noun",
+      "ex": "The per diem covers meals and local transport.",
+      "exIt": "La diaria copre pasti e trasporti locali."
+    },
+    {
+      "en": "business class",
+      "pron": "bìznes klàas",
+      "it": "classe business",
+      "type": "noun",
+      "ex": "We only fly business class on long trips.",
+      "exIt": "Voliamo in classe business solo nei viaggi lunghi."
+    },
+    {
+      "en": "check-in",
+      "pron": "cèk in",
+      "it": "check-in, registrazione (aeroporto, hotel)",
+      "type": "noun",
+      "ex": "Check-in opens two hours before the flight.",
+      "exIt": "Il check-in apre due ore prima del volo."
+    },
+    {
+      "en": "to take off",
+      "pron": "tèik òf",
+      "it": "decollare",
+      "type": "verb",
+      "ex": "The plane takes off in ten minutes.",
+      "exIt": "L'aereo decolla tra dieci minuti."
+    },
+    {
+      "en": "terminal",
+      "pron": "tèrminal",
+      "it": "terminal dell'aeroporto",
+      "type": "noun",
+      "ex": "Our flight leaves from Terminal Two.",
+      "exIt": "Il nostro volo parte dal Terminal Due."
+    },
+    {
+      "en": "baggage claim",
+      "pron": "bàgidg klèim",
+      "it": "ritiro bagagli (americano; britannico: baggage reclaim)",
+      "type": "noun",
+      "ex": "I will wait for you at the baggage claim.",
+      "exIt": "Ti aspetto al ritiro bagagli."
+    },
+    {
+      "en": "security check",
+      "pron": "sikiùriti cèk",
+      "it": "controllo di sicurezza",
+      "type": "noun",
+      "ex": "The security check took twenty minutes.",
+      "exIt": "Il controllo di sicurezza è durato venti minuti."
+    },
+    {
+      "en": "stopover",
+      "pron": "stòpouver",
+      "it": "scalo con sosta di più ore o giorni",
+      "type": "noun",
+      "ex": "We have a one-night stopover in Dubai.",
+      "exIt": "Abbiamo uno scalo con una notte a Dubai."
+    },
+    {
+      "en": "overbooked",
+      "pron": "ouverbùkt",
+      "it": "con più prenotazioni dei posti disponibili",
+      "type": "adj",
+      "ex": "The flight was overbooked, so they offered me a later one.",
+      "exIt": "Il volo era in overbooking, così me ne hanno offerto uno più tardi."
+    },
+    {
+      "en": "round trip",
+      "pron": "ràund trìp",
+      "it": "viaggio di andata e ritorno (americano; britannico: return)",
+      "type": "noun",
+      "ex": "A round trip to Berlin costs about two hundred euros.",
+      "exIt": "Un viaggio di andata e ritorno per Berlino costa circa duecento euro."
+    },
+    {
+      "en": "toll",
+      "pron": "tòul",
+      "it": "pedaggio",
+      "type": "noun",
+      "ex": "The toll on the motorway is eight euros.",
+      "exIt": "Il pedaggio in autostrada è di otto euro."
+    },
+    {
+      "en": "exchange rate",
+      "pron": "iks cèingi rèit",
+      "it": "tasso di cambio",
+      "type": "noun",
+      "ex": "The exchange rate is good this week.",
+      "exIt": "Il tasso di cambio questa settimana è buono."
+    },
+    {
+      "en": "travel insurance",
+      "pron": "tràvel insciùorans",
+      "it": "assicurazione di viaggio",
+      "type": "noun",
+      "ex": "The company pays for the travel insurance.",
+      "exIt": "L'azienda paga l'assicurazione di viaggio."
+    },
+    {
+      "en": "visa",
+      "pron": "vìiza",
+      "it": "visto",
+      "type": "noun",
+      "ex": "Do I need a visa to go to the United States?",
+      "exIt": "Mi serve un visto per andare negli Stati Uniti?"
+    },
+    {
+      "en": "sightseeing",
+      "pron": "sàitsiing",
+      "it": "giro turistico",
+      "type": "noun",
+      "ex": "We had an hour for sightseeing before the flight.",
+      "exIt": "Avevamo un'ora per un giro turistico prima del volo."
+    },
+    {
+      "en": "mileage",
+      "pron": "màilidg",
+      "it": "rimborso chilometrico, chilometraggio",
+      "type": "noun",
+      "ex": "You can claim mileage if you use your own car.",
+      "exIt": "Puoi chiedere il rimborso chilometrico se usi la tua auto."
+    }
+  ],
+  "falseFriends": [
+    {
+      "en": "journey / trip / travel",
+      "it": "viaggio",
+      "trap": "Travel è il viaggiare in generale e non si usa al plurale: 'a business trip', non 'a travel'. Journey indica il tragitto."
+    },
+    {
+      "en": "fare",
+      "it": "tariffa",
+      "trap": "Non vuol dire 'fare'. È il prezzo del biglietto di un mezzo di trasporto."
+    },
+    {
+      "en": "luggage",
+      "it": "bagaglio",
+      "trap": "È un nome non numerabile: non esiste luggages. Si dice two pieces of luggage o two bags."
+    },
+    {
+      "en": "reservation",
+      "it": "prenotazione",
+      "trap": "Ha un senso più formale e si usa per hotel e ristoranti. Per i voli si dice spesso booking."
+    }
+  ],
+  "grammar": {
+    "title": "Richieste in viaggio e gerundio dopo le preposizioni",
+    "explainIt": [
+      "In viaggio fai spesso richieste. In inglese si usano formule gentili, non l'imperativo secco. 'Could you...?' è la più comune. 'Would it be possible to...?' è più formale. 'Do you mind...?' è molto cortese e dopo vuole il verbo in -ing: 'Do you mind opening the window?'",
+      "Con Do you mind, la risposta 'No, not at all' vuol dire 'sì, va bene'. Perché mind significa 'dispiacere': 'Not at all' vuol dire 'non mi dispiace affatto'. 'Sure, go ahead' è altrettanto chiaro e meno ambiguo.",
+      "Il gerundio è il verbo + ing. Dopo una preposizione in inglese si usa sempre il gerundio, mai l'infinito. In italiano diciamo 'prima di partire' con l'infinito. In inglese si dice 'before leaving'. Allo stesso modo, 'dopo aver pagato' diventa 'after paying'.",
+      "Le preposizioni più usate con il gerundio sono: before, after, without, instead of, by, for, about, of, in, on. Esempi: 'Check the timetable before booking.' 'He left without paying.' 'I travel by train instead of flying.' 'Thank you for waiting.' 'I am thinking about changing my flight.'",
+      "Attenzione a 'to'. A volte 'to' è una preposizione e vuole -ing: 'I look forward to seeing you', 'I am used to travelling', 'I am committed to arriving on time'. Per capirlo, prova a sostituire 'to' con un nome: se funziona ('I look forward to the trip'), allora dopo vuole -ing."
+    ],
+    "explainEn": [
+      "When you travel you often make requests. In English we use polite forms, not the plain imperative. 'Could you...?' is the most common. 'Would it be possible to...?' is more formal. 'Do you mind...?' is very polite and takes the -ing form: 'Do you mind opening the window?'",
+      "With Do you mind, the answer 'No, not at all' means 'yes, that's fine'. This is because mind means 'to object': 'Not at all' means 'I don't object at all'. 'Sure, go ahead' is just as clear and less confusing.",
+      "The gerund is the verb + ing. After a preposition in English we always use the gerund, never the infinitive. In Italian we say 'prima di partire' with the infinitive. In English we say 'before leaving'. 'Dopo aver pagato' becomes 'after paying'.",
+      "The most common prepositions with the gerund are: before, after, without, instead of, by, for, about, of, in, on. Examples: 'Check the timetable before booking.' 'He left without paying.' 'I travel by train instead of flying.' 'Thank you for waiting.' 'I am thinking about changing my flight.'",
+      "Be careful with 'to'. Sometimes 'to' is a preposition and takes -ing: 'I look forward to seeing you', 'I am used to travelling', 'I am committed to arriving on time'. To check, try replacing 'to' with a noun: if it works ('I look forward to the trip'), then -ing follows."
+    ],
+    "rules": [
+      {
+        "it": "Per chiedere gentilmente usa Could you, Would you mind, Would it be possible to.",
+        "en": "To ask politely, use Could you, Would you mind or Would it be possible to.",
+        "form": "Could you + verbo base / Do you mind + -ing / Would it be possible to + verbo base",
+        "examples": [
+          {
+            "en": "Could you call a taxi for me, please?",
+            "it": "Potrebbe chiamarmi un taxi, per favore?"
+          },
+          {
+            "en": "Would you mind checking my reservation?",
+            "it": "Le dispiacerebbe controllare la mia prenotazione?"
+          },
+          {
+            "en": "Would it be possible to change my room?",
+            "it": "Sarebbe possibile cambiare camera?"
+          }
+        ]
+      },
+      {
+        "it": "Dopo una preposizione si usa il gerundio (verbo + -ing).",
+        "en": "After a preposition we use the gerund (verb + -ing).",
+        "form": "preposizione + verbo-ing",
+        "examples": [
+          {
+            "en": "Please call me before leaving the hotel.",
+            "it": "Per favore chiamami prima di lasciare l'hotel."
+          },
+          {
+            "en": "After landing, I took a taxi to the office.",
+            "it": "Dopo essere atterrato, ho preso un taxi per l'ufficio."
+          },
+          {
+            "en": "He went to the meeting without having breakfast.",
+            "it": "È andato alla riunione senza fare colazione."
+          }
+        ]
+      },
+      {
+        "it": "Con instead of e by si usa il gerundio per dire 'invece di' e 'facendo'.",
+        "en": "Use the gerund after instead of and by, for 'in place of' and 'by doing'.",
+        "form": "instead of / by + -ing",
+        "examples": [
+          {
+            "en": "We took the train instead of renting a car.",
+            "it": "Abbiamo preso il treno invece di noleggiare un'auto."
+          },
+          {
+            "en": "You can save money by booking early.",
+            "it": "Puoi risparmiare prenotando in anticipo."
+          }
+        ]
+      },
+      {
+        "it": "Alcune espressioni con to vogliono il gerundio, perché to è una preposizione: look forward to, be used to, be committed to.",
+        "en": "Some expressions with to take the gerund, because to is a preposition: look forward to, be used to, be committed to.",
+        "form": "look forward to / be used to + -ing",
+        "examples": [
+          {
+            "en": "I look forward to meeting you in Berlin.",
+            "it": "Non vedo l'ora di incontrarti a Berlino."
+          },
+          {
+            "en": "I am used to travelling for work.",
+            "it": "Sono abituato a viaggiare per lavoro."
+          }
+        ]
+      },
+      {
+        "it": "Per ringraziare o scusarsi usa for + gerundio.",
+        "en": "To thank or apologise, use for + gerund.",
+        "form": "thank you for / sorry for + -ing",
+        "examples": [
+          {
+            "en": "Thank you for waiting.",
+            "it": "Grazie per aver aspettato."
+          },
+          {
+            "en": "Sorry for being late.",
+            "it": "Scusa per il ritardo."
+          }
+        ]
+      }
+    ],
+    "tip": "Regola semplice: dopo una preposizione, se hai un verbo, mettilo in -ing. Parti dalle quattro più utili: before, after, without, instead of.",
+    "mistakes": [
+      {
+        "wrong": "Call me before to leave.",
+        "right": "Call me before leaving.",
+        "why": "dopo la preposizione before serve il gerundio, non l'infinito"
+      },
+      {
+        "wrong": "I look forward to see you.",
+        "right": "I look forward to seeing you.",
+        "why": "in look forward to, la parola to è una preposizione: serve -ing"
+      },
+      {
+        "wrong": "Do you mind to open the window?",
+        "right": "Do you mind opening the window?",
+        "why": "mind vuole -ing"
+      },
+      {
+        "wrong": "He left without to pay.",
+        "right": "He left without paying.",
+        "why": "dopo without serve -ing"
+      },
+      {
+        "wrong": "Thanks for come.",
+        "right": "Thanks for coming.",
+        "why": "dopo for serve -ing"
+      }
+    ]
+  },
+  "grammarExercises": [
+    {
+      "q": "Please call me before ___ (leave) the hotel.",
+      "a": [
+        "leaving"
+      ],
+      "hint": "dopo before",
+      "explain": "Dopo una preposizione si usa il gerundio."
+    },
+    {
+      "q": "Thank you for ___ (wait).",
+      "a": [
+        "waiting"
+      ],
+      "hint": "dopo for",
+      "explain": "Dopo for si usa il gerundio."
+    },
+    {
+      "q": "He left without ___ (pay).",
+      "a": [
+        "paying"
+      ],
+      "hint": "dopo without",
+      "explain": "Dopo without si usa il gerundio."
+    },
+    {
+      "q": "We took the train instead of ___ (fly).",
+      "a": [
+        "flying"
+      ],
+      "hint": "dopo instead of",
+      "explain": "Dopo instead of si usa il gerundio."
+    },
+    {
+      "q": "I look forward to ___ (meet) you in Berlin.",
+      "a": [
+        "meeting"
+      ],
+      "hint": "to preposizione",
+      "explain": "Look forward to è seguito da -ing."
+    },
+    {
+      "q": "Do you mind ___ (open) the window?",
+      "a": [
+        "opening"
+      ],
+      "hint": "dopo mind",
+      "explain": "Mind vuole -ing."
+    },
+    {
+      "q": "Could you ___ (call) a taxi, please?",
+      "a": [
+        "call"
+      ],
+      "hint": "dopo could",
+      "explain": "Dopo could si usa il verbo base."
+    },
+    {
+      "q": "You can save money by ___ (book) early.",
+      "a": [
+        "booking"
+      ],
+      "hint": "dopo by",
+      "explain": "Dopo by si usa il gerundio."
+    },
+    {
+      "q": "After ___ (land), I went straight to the hotel.",
+      "a": [
+        "landing"
+      ],
+      "hint": "dopo after",
+      "explain": "Dopo after si usa il gerundio."
+    },
+    {
+      "q": "Would it be possible ___ (change) my seat?",
+      "a": [
+        "to change"
+      ],
+      "hint": "possible + to",
+      "explain": "Would it be possible è seguito da to + infinito."
+    },
+    {
+      "q": "I am used to ___ (travel) for work.",
+      "a": [
+        "travelling",
+        "traveling"
+      ],
+      "hint": "to preposizione",
+      "explain": "Be used to è seguito da -ing."
+    },
+    {
+      "q": "Sorry for ___ (be) late.",
+      "a": [
+        "being"
+      ],
+      "hint": "dopo for",
+      "explain": "Dopo for si usa il gerundio."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "In aeroporto",
+      "en": "Where is the check-in desk for flight BA 212?",
+      "it": "Dov'è il banco del check-in per il volo BA 212?"
+    },
+    {
+      "group": "In aeroporto",
+      "en": "I'd like to check in two bags, please.",
+      "it": "Vorrei imbarcare due bagagli, per favore."
+    },
+    {
+      "group": "In aeroporto",
+      "en": "Could I have an aisle seat, please?",
+      "it": "Potrei avere un posto corridoio, per favore?"
+    },
+    {
+      "group": "In aeroporto",
+      "en": "My flight has been delayed. What should I do?",
+      "it": "Il mio volo è in ritardo. Che cosa devo fare?"
+    },
+    {
+      "group": "In aeroporto",
+      "en": "I've missed my connection. Is there another flight?",
+      "it": "Ho perso la coincidenza. C'è un altro volo?"
+    },
+    {
+      "group": "In hotel",
+      "en": "I have a reservation under the name Rossi.",
+      "it": "Ho una prenotazione a nome Rossi."
+    },
+    {
+      "group": "In hotel",
+      "en": "What time is checkout?",
+      "it": "A che ora bisogna lasciare la camera?"
+    },
+    {
+      "group": "In hotel",
+      "en": "Is breakfast included in the price?",
+      "it": "La colazione è inclusa nel prezzo?"
+    },
+    {
+      "group": "In hotel",
+      "en": "Do you mind keeping my luggage until this afternoon?",
+      "it": "Le dispiace tenere il mio bagaglio fino al pomeriggio?"
+    },
+    {
+      "group": "In hotel",
+      "en": "The wifi in my room is not working.",
+      "it": "Il wifi nella mia camera non funziona."
+    },
+    {
+      "group": "Taxi e trasporti",
+      "en": "Could you take me to this address, please?",
+      "it": "Può portarmi a questo indirizzo, per favore?"
+    },
+    {
+      "group": "Taxi e trasporti",
+      "en": "How long does it take to get to the city centre?",
+      "it": "Quanto ci vuole per arrivare in centro?"
+    },
+    {
+      "group": "Taxi e trasporti",
+      "en": "Which platform does the train to Milan leave from?",
+      "it": "Da quale binario parte il treno per Milano?"
+    },
+    {
+      "group": "Taxi e trasporti",
+      "en": "Could you tell me where to get off?",
+      "it": "Può dirmi dove scendere?"
+    },
+    {
+      "group": "Taxi e trasporti",
+      "en": "Excuse me, how do I get to the conference centre?",
+      "it": "Mi scusi, come arrivo al centro congressi?"
+    },
+    {
+      "group": "Note spese",
+      "en": "Can I claim this back as an expense?",
+      "it": "Posso richiederne il rimborso come spesa?"
+    },
+    {
+      "group": "Note spese",
+      "en": "Please keep all your receipts.",
+      "it": "Per favore conserva tutte le ricevute."
+    },
+    {
+      "group": "Note spese",
+      "en": "The company will reimburse you within two weeks.",
+      "it": "L'azienda ti rimborserà entro due settimane."
+    },
+    {
+      "group": "Note spese",
+      "en": "I'll submit my expenses at the end of the month.",
+      "it": "Presenterò le mie note spese a fine mese."
+    },
+    {
+      "group": "Note spese",
+      "en": "The per diem covers meals and local transport.",
+      "it": "La diaria copre pasti e trasporti locali."
+    },
+    {
+      "group": "Con colleghi e clienti",
+      "en": "I look forward to seeing you on Monday.",
+      "it": "Non vedo l'ora di vederti lunedì."
+    },
+    {
+      "group": "Con colleghi e clienti",
+      "en": "I'll send you my itinerary before leaving.",
+      "it": "Ti mando il mio itinerario prima di partire."
+    },
+    {
+      "group": "Con colleghi e clienti",
+      "en": "My flight lands at nine, so I should be there by ten.",
+      "it": "Il mio volo atterra alle nove, quindi dovrei essere lì per le dieci."
+    },
+    {
+      "group": "Con colleghi e clienti",
+      "en": "Sorry for being late. My train was delayed.",
+      "it": "Scusate il ritardo. Il treno è arrivato tardi."
+    },
+    {
+      "group": "Con colleghi e clienti",
+      "en": "Would it be possible to meet at the hotel instead of the office?",
+      "it": "Sarebbe possibile incontrarci in hotel invece che in ufficio?"
+    }
+  ],
+  "dialogue": {
+    "title": "Checking in at a hotel",
+    "context": "Luca arriva in un hotel di Londra per una conferenza. Parla con Emma, alla reception. Ha un problema con la camera e deve organizzare il viaggio di ritorno.",
+    "lines": [
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "Good evening. Welcome to the Central Hotel. How can I help you?",
+        "it": "Buonasera. Benvenuto al Central Hotel. Come posso aiutarla?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Good evening. I have a reservation under the name Rossi.",
+        "it": "Buonasera. Ho una prenotazione a nome Rossi."
+      },
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "Yes, a single room for three nights. May I see your passport, please?",
+        "it": "Sì, una camera singola per tre notti. Posso vedere il passaporto, per favore?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Here you are. Would you mind giving me a room with a desk? I need to work this evening.",
+        "it": "Ecco. Le dispiacerebbe darmi una camera con una scrivania? Devo lavorare stasera."
+      },
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "Not at all. Room 312 has a desk and a view of the park. Here is your key card.",
+        "it": "Per niente. La 312 ha una scrivania e vista sul parco. Ecco la sua tessera-chiave."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Thank you. Is breakfast included in the price?",
+        "it": "Grazie. La colazione è inclusa nel prezzo?"
+      },
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "Yes, it is served from seven to ten. Checkout is at eleven.",
+        "it": "Sì, viene servita dalle sette alle dieci. Bisogna lasciare la camera entro le undici."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Could I have a wake-up call at six thirty tomorrow? I have a client meeting at eight.",
+        "it": "Potrei avere la sveglia alle sei e mezza domani? Ho un incontro con un cliente alle otto."
+      },
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "Of course. Would you like me to book you a taxi as well?",
+        "it": "Certo. Vuole che le prenoti anche un taxi?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes, please. Could you ask the driver to drop me off at the conference centre?",
+        "it": "Sì, grazie. Può chiedere all'autista di lasciarmi al centro congressi?"
+      },
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "No problem. Is there anything else?",
+        "it": "Nessun problema. C'è altro?"
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Yes. My return flight has been delayed, so I might leave later. Is it possible to keep my luggage here after checking out?",
+        "it": "Sì. Il mio volo di ritorno è in ritardo, quindi potrei partire più tardi. È possibile lasciare qui il bagaglio dopo aver lasciato la camera?"
+      },
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "Of course. We can keep it behind the desk until you leave.",
+        "it": "Certo. Possiamo tenerlo dietro il banco fino alla sua partenza."
+      },
+      {
+        "s": "B",
+        "name": "Luca",
+        "en": "Great. Could I have a receipt for my stay, please? I'll claim it back as an expense.",
+        "it": "Perfetto. Potrei avere una ricevuta del soggiorno, per favore? Chiederò il rimborso come spesa."
+      },
+      {
+        "s": "A",
+        "name": "Emma",
+        "en": "I'll email it to you before you leave. Enjoy your stay, Mr Rossi.",
+        "it": "Gliela mando via mail prima della partenza. Buon soggiorno, signor Rossi."
+      }
+    ]
+  },
+  "listening": [
+    {
+      "q": "What kind of room has Luca booked?",
+      "options": [
+        "A double room for two nights",
+        "A single room for three nights",
+        "A suite for one night"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Why does Luca want a room with a desk?",
+      "options": [
+        "He needs to work in the evening",
+        "He likes the view",
+        "It is cheaper"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "What time does Luca want his wake-up call?",
+      "options": [
+        "Six",
+        "Six thirty",
+        "Eight"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What will Luca do after checking out?",
+      "options": [
+        "Leave his luggage at the hotel",
+        "Go to the airport straight away",
+        "Take the luggage to the conference"
+      ],
+      "answer": 0
+    }
+  ],
+  "translations": [
+    {
+      "it": "Potrebbe chiamarmi un taxi, per favore?",
+      "en": "Could you call me a taxi, please?",
+      "alt": [
+        "Could you call a taxi for me, please?",
+        "Would you mind calling me a taxi, please?"
+      ]
+    },
+    {
+      "it": "Ho una prenotazione a nome Rossi.",
+      "en": "I have a reservation under the name Rossi.",
+      "alt": [
+        "I have a booking under the name Rossi.",
+        "I have a reservation in the name of Rossi."
+      ]
+    },
+    {
+      "it": "Il mio volo ha un'ora di ritardo.",
+      "en": "My flight is delayed by one hour.",
+      "alt": [
+        "My flight has been delayed by an hour.",
+        "My flight is one hour late."
+      ]
+    },
+    {
+      "it": "Le dispiace tenere il mio bagaglio fino a stasera?",
+      "en": "Do you mind keeping my luggage until this evening?",
+      "alt": [
+        "Would you mind keeping my luggage until this evening?",
+        "Do you mind keeping my bags until tonight?"
+      ]
+    },
+    {
+      "it": "Chiamami prima di partire.",
+      "en": "Call me before leaving.",
+      "alt": [
+        "Please call me before you leave.",
+        "Call me before you leave."
+      ]
+    },
+    {
+      "it": "Non vedo l'ora di vederti a Londra.",
+      "en": "I look forward to seeing you in London.",
+      "alt": [
+        "I'm looking forward to seeing you in London."
+      ]
+    },
+    {
+      "it": "Ho perso la coincidenza a Francoforte.",
+      "en": "I missed my connection in Frankfurt.",
+      "alt": [
+        "I missed my connecting flight in Frankfurt.", "I've missed my connection in Frankfurt."
+      ]
+    },
+    {
+      "it": "Conserva tutte le ricevute per la nota spese.",
+      "en": "Keep all your receipts for the expense report.",
+      "alt": [
+        "Please keep all your receipts for the expense report.",
+        "Keep all the receipts for your expenses.", "Keep all your receipts for your expense claim."
+      ]
+    },
+    {
+      "it": "Sono uscito senza fare colazione.",
+      "en": "I left without having breakfast.",
+      "alt": [
+        "I left without eating breakfast.", "I went out without having breakfast."
+      ]
+    },
+    {
+      "it": "Abbiamo preso il treno invece di noleggiare un'auto.",
+      "en": "We took the train instead of renting a car.",
+      "alt": [
+        "We took the train instead of hiring a car."
+      ]
+    },
+    {
+      "it": "Sarebbe possibile spostare il volo a venerdì?",
+      "en": "Would it be possible to reschedule the flight for Friday?",
+      "alt": [
+        "Would it be possible to move the flight to Friday?",
+        "Would it be possible to change the flight to Friday?"
+      ]
+    },
+    {
+      "it": "Grazie per aver aspettato.",
+      "en": "Thank you for waiting.",
+      "alt": [
+        "Thanks for waiting."
+      ]
+    }
+  ],
+  "writing": {
+    "taskIt": "Devi andare a incontrare un cliente a Londra. Scrivi una mail a Helen, la collega che si occupa dei viaggi. Dille quando parti e quando torni. Chiedi di prenotare un volo e un hotel vicino all'ufficio del cliente. Chiedi un posto corridoio. Di' che conserverai tutte le ricevute. Usa almeno un gerundio dopo una preposizione. Scrivi 5-8 righe.",
+    "taskEn": "You have to visit a client in London. Write an email to Helen, the colleague who organises travel. Tell her when you leave and when you come back. Ask her to book a flight and a hotel near the client's office. Ask for an aisle seat. Say you will keep all receipts. Use at least one gerund after a preposition. Write 5-8 lines.",
+    "model": "Subject: Business trip to London\n\nHi Helen,\n\nI need to go to London to meet a client. I would like to leave on Monday 12 June and come back on Wednesday 14 June.\n\nCould you book a flight for me, please? I would prefer to leave in the morning and have an aisle seat. Would it be possible to find a hotel near the client's office, too?\n\nI will keep all my receipts and send you my expenses after returning.\n\nThank you for helping me with this.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Could I have an aisle seat, please?",
+      "My flight has been delayed. What should I do?",
+      "I have a reservation under the name Rossi.",
+      "Do you mind keeping my luggage until this afternoon?",
+      "Please call me before leaving the hotel.",
+      "I look forward to seeing you on Monday.",
+      "We took the train instead of renting a car.",
+      "Please keep all your receipts for the expense report."
+    ],
+    "prompts": [
+      {
+        "en": "Tell me about your last business trip.",
+        "it": "Parlami del tuo ultimo viaggio di lavoro.",
+        "help": "Usa: I went to... / I travelled by... / We stayed in..."
+      },
+      {
+        "en": "How do you prefer to travel for work: by train, by plane or by car?",
+        "it": "Come preferisci viaggiare per lavoro: treno, aereo o auto?",
+        "help": "Usa: I prefer travelling by... because..."
+      },
+      {
+        "en": "Your flight is delayed. What do you ask at the information desk?",
+        "it": "Il tuo volo è in ritardo. Che cosa chiedi al banco informazioni?",
+        "help": "Usa: Could you tell me...? / Is there another flight...?"
+      },
+      {
+        "en": "What do you do before leaving on a trip?",
+        "it": "Che cosa fai prima di partire per un viaggio?",
+        "help": "Usa: Before leaving, I always... / After packing, I..."
+      },
+      {
+        "en": "Ask the hotel reception for a late checkout.",
+        "it": "Chiedi alla reception un late checkout.",
+        "help": "Usa: Would it be possible to...? / Do you mind...?"
+      }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: viaggi di lavoro",
+      "show": [
+        "Business travel",
+        "Richieste gentili",
+        "Gerundio dopo preposizione"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Lezione trentanove. Oggi parliamo dei viaggi di lavoro. Impari le parole per aeroporto, hotel, taxi e note spese."
+        },
+        {
+          "lang": "it",
+          "text": "Impari anche a fare richieste gentili e a usare il gerundio dopo le preposizioni."
+        }
+      ]
+    },
+    {
+      "title": "Richieste gentili",
+      "show": [
+        "Could you...?",
+        "Would you mind...-ing?",
+        "Would it be possible to...?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "In viaggio non si danno ordini. Si chiede con gentilezza. Could you è la forma più comune."
+        },
+        {
+          "lang": "en",
+          "text": "Could you call me a taxi, please?"
+        },
+        {
+          "lang": "en",
+          "text": "Would it be possible to change my room?"
+        }
+      ]
+    },
+    {
+      "title": "Do you mind: attenzione alla risposta",
+      "show": [
+        "Do you mind opening the window?",
+        "No, not at all = va bene",
+        "Sure, go ahead"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Dopo Do you mind il verbo va in forma ing. E la risposta No, not at all vuol dire va bene, non mi dispiace."
+        },
+        {
+          "lang": "en",
+          "text": "Do you mind keeping my luggage? Not at all."
+        }
+      ]
+    },
+    {
+      "title": "Il gerundio dopo le preposizioni",
+      "show": [
+        "before leaving",
+        "after paying",
+        "without asking",
+        "instead of flying"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Dopo una preposizione, in inglese, il verbo va sempre in forma ing. In italiano usiamo l'infinito. In inglese no."
+        },
+        {
+          "lang": "en",
+          "text": "Call me before leaving the hotel."
+        },
+        {
+          "lang": "en",
+          "text": "He left without paying."
+        },
+        {
+          "lang": "en",
+          "text": "We took the train instead of renting a car."
+        }
+      ]
+    },
+    {
+      "title": "Attenzione al to preposizione",
+      "show": [
+        "look forward to seeing",
+        "be used to travelling",
+        "NO: look forward to see"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Attenzione. A volte to è una preposizione e non fa parte dell'infinito. Look forward to è seguito da ing."
+        },
+        {
+          "lang": "en",
+          "text": "I look forward to seeing you in Berlin."
+        },
+        {
+          "lang": "en",
+          "text": "I am used to travelling for work."
+        }
+      ]
+    },
+    {
+      "title": "Errori tipici degli italiani",
+      "show": [
+        "before to leave  →  before leaving",
+        "without to pay  →  without paying",
+        "Do you mind to open  →  Do you mind opening"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Gli errori più comuni sono mettere l'infinito dopo before, without e mind."
+        },
+        {
+          "lang": "en",
+          "text": "Call me before leaving. Do you mind opening the window?"
+        }
+      ]
+    },
+    {
+      "title": "Espressioni chiave: aeroporto e hotel",
+      "show": [
+        "My flight has been delayed.",
+        "I have a reservation under the name...",
+        "Is breakfast included?"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Ecco alcune frasi che ti serviranno quasi in ogni viaggio."
+        },
+        {
+          "lang": "en",
+          "text": "My flight has been delayed. What should I do?"
+        },
+        {
+          "lang": "en",
+          "text": "I have a reservation under the name Rossi."
+        }
+      ]
+    },
+    {
+      "title": "Espressioni chiave: note spese",
+      "show": [
+        "Keep all your receipts.",
+        "Can I claim this back?",
+        "The company will reimburse you."
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Per le note spese conserva sempre le ricevute e chiedi il rimborso in modo chiaro."
+        },
+        {
+          "lang": "en",
+          "text": "Can I claim this back as an expense?"
+        },
+        {
+          "lang": "en",
+          "text": "I will send you my expenses after returning."
+        }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": [
+        "Could you / Do you mind -ing",
+        "preposizione + -ing",
+        "look forward to + -ing"
+      ],
+      "say": [
+        {
+          "lang": "it",
+          "text": "Riassumiamo. Per le richieste usa could you e do you mind. Dopo ogni preposizione il verbo va in forma ing, anche dopo look forward to."
+        },
+        {
+          "lang": "it",
+          "text": "Ora immagina il tuo prossimo viaggio e prova a dire tre richieste ad alta voce."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "id": 12,
+  "week": 3,
+  "title": "Proposte e suggerimenti",
+  "titleEn": "Proposals and suggestions",
+  "intro": "Oggi impari a fare proposte, a suggerire alternative e a ragionare insieme su vantaggi e svantaggi per arrivare a una decisione. Impari Let's, Why don't we e How about, e la prima parte della regola più difficile: quando dopo un verbo si usa -ing e quando si usa to più infinito.",
+  "goals": [
+    "Fare una proposta con Let's, Why don't we, How about e Shall we",
+    "Descrivere vantaggi e svantaggi di due soluzioni",
+    "Scegliere tra gerundio (-ing) e infinito (to) dopo i verbi più comuni",
+    "Scrivere una mail con una raccomandazione e una proposta chiara"
+  ],
+  "words": [
+    { "en": "to float an idea", "pron": "flòut an aidìa", "it": "lanciare un'idea, buttare lì una proposta", "type": "phrase", "ex": "I'd like to float an idea about the homepage.", "exIt": "Vorrei lanciare un'idea per la homepage." },
+    { "en": "suggestion", "pron": "sagdgèscion", "it": "suggerimento", "type": "noun", "ex": "Thanks for the suggestion. I'll think about it.", "exIt": "Grazie del suggerimento. Ci penso." },
+    { "en": "to pencil in", "pron": "pènsil ìn", "it": "fissare in via provvisoria", "type": "verb", "ex": "Let's pencil in Thursday for the demo.", "exIt": "Fissiamo giovedì per la demo, in via provvisoria." },
+    { "en": "proposal", "pron": "propòuzal", "it": "proposta", "type": "noun", "ex": "We'll send you a detailed proposal tomorrow.", "exIt": "Domani vi mandiamo una proposta dettagliata." },
+    { "en": "to recommend", "pron": "rekomènd", "it": "consigliare, raccomandare", "type": "verb", "ex": "I recommend using a simpler layout.", "exIt": "Consiglio di usare un'impaginazione più semplice." },
+    { "en": "recommendation", "pron": "rekomendèscion", "it": "raccomandazione, consiglio", "type": "noun", "ex": "Our recommendation is to start with a small test.", "exIt": "La nostra raccomandazione è di iniziare con un piccolo test." },
+    { "en": "alternative", "pron": "oltèrnativ", "it": "alternativa", "type": "noun", "ex": "Is there a cheaper alternative?", "exIt": "C'è un'alternativa più economica?" },
+    { "en": "choice", "pron": "ciòis", "it": "scelta", "type": "noun", "ex": "We have two choices: wait or start now.", "exIt": "Abbiamo due scelte: aspettare o iniziare ora." },
+    { "en": "to compare", "pron": "kompèr", "it": "confrontare", "type": "verb", "ex": "Let's compare the two hosting plans.", "exIt": "Confrontiamo i due piani di hosting." },
+    { "en": "comparison", "pron": "kompàrison", "it": "confronto", "type": "noun", "ex": "Here's a quick comparison of the options.", "exIt": "Ecco un rapido confronto delle opzioni." },
+    { "en": "advantage", "pron": "advàntigi", "it": "vantaggio", "type": "noun", "ex": "The main advantage is the speed.", "exIt": "Il vantaggio principale è la velocità." },
+    { "en": "disadvantage", "pron": "disadvàntigi", "it": "svantaggio", "type": "noun", "ex": "The only disadvantage is the price.", "exIt": "L'unico svantaggio è il prezzo." },
+    { "en": "drawback", "pron": "dròbak", "it": "inconveniente, punto debole", "type": "noun", "ex": "One drawback is that it needs more maintenance.", "exIt": "Un inconveniente è che richiede più manutenzione." },
+    { "en": "benefit", "pron": "bènefit", "it": "beneficio, vantaggio", "type": "noun", "ex": "What are the benefits for the user?", "exIt": "Quali sono i benefici per l'utente?" },
+    { "en": "pros and cons", "pron": "pròus and kòns", "it": "pro e contro", "type": "phrase", "ex": "Let's look at the pros and cons of each option.", "exIt": "Guardiamo i pro e i contro di ogni opzione." },
+    { "en": "trade-off", "pron": "trèid òf", "it": "compromesso tra due cose, scambio", "type": "noun", "ex": "There is always a trade-off between speed and design.", "exIt": "C'è sempre un compromesso tra velocità e design." },
+    { "en": "to weigh up", "pron": "uèi àp", "it": "valutare, ponderare", "type": "verb", "ex": "We need to weigh up the risks and the benefits.", "exIt": "Dobbiamo valutare i rischi e i benefici." },
+    { "en": "to outweigh", "pron": "autuèi", "it": "pesare più di, superare", "type": "verb", "ex": "The benefits outweigh the costs.", "exIt": "I benefici superano i costi." },
+    { "en": "worthwhile", "pron": "uertuàil", "it": "che vale la pena", "type": "adj", "ex": "I think the extra cost is worthwhile.", "exIt": "Penso che il costo in più ne valga la pena." },
+    { "en": "cost-effective", "pron": "kòst ifèktiv", "it": "conveniente, con un buon rapporto costi-benefici", "type": "adj", "ex": "This is the most cost-effective solution.", "exIt": "Questa è la soluzione più conveniente." },
+    { "en": "risky", "pron": "rìski", "it": "rischioso", "type": "adj", "ex": "Changing everything at once is risky.", "exIt": "Cambiare tutto in una volta è rischioso." },
+    { "en": "feasible", "pron": "fìizibol", "it": "fattibile", "type": "adj", "ex": "Is it feasible to finish in two weeks?", "exIt": "È fattibile finire in due settimane?" },
+    { "en": "practical", "pron": "pràktikal", "it": "pratico, concreto", "type": "adj", "ex": "It's a practical solution for a small team.", "exIt": "È una soluzione pratica per un team piccolo." },
+    { "en": "to run by", "pron": "ràn bài", "it": "sottoporre a qualcuno, chiedere un parere", "type": "verb", "ex": "I'll run the plan by my manager first.", "exIt": "Prima sottoporrò il piano al mio responsabile." },
+    { "en": "to talk through", "pron": "tòok trùu", "it": "discutere punto per punto", "type": "verb", "ex": "Can we talk through the options together?", "exIt": "Possiamo discutere insieme le opzioni, una per una?" },
+    { "en": "to prefer", "pron": "prifèr", "it": "preferire", "type": "verb", "ex": "I prefer working in the morning.", "exIt": "Preferisco lavorare di mattina." },
+    { "en": "preference", "pron": "prèferens", "it": "preferenza", "type": "noun", "ex": "Do you have a preference?", "exIt": "Hai una preferenza?" },
+    { "en": "would rather", "pron": "uùd ràder", "it": "preferirei", "type": "phrase", "ex": "I'd rather wait than rush the launch.", "exIt": "Preferirei aspettare piuttosto che affrettare il lancio." },
+    { "en": "instead", "pron": "instèd", "it": "invece, al suo posto", "type": "adv", "ex": "We could use a template instead.", "exIt": "Potremmo usare un modello, invece." },
+    { "en": "instead of", "pron": "instèd ov", "it": "invece di", "type": "prep", "ex": "Let's use email instead of calling.", "exIt": "Usiamo la mail invece di telefonare." },
+    { "en": "rather than", "pron": "ràder dan", "it": "piuttosto che", "type": "conj", "ex": "I'd choose a simple site rather than a complex one.", "exIt": "Sceglierei un sito semplice piuttosto che uno complesso." },
+    { "en": "in that case", "pron": "in dàt kèis", "it": "in quel caso", "type": "phrase", "ex": "The client has a small budget. In that case, we should start with the basics.", "exIt": "Il cliente ha un budget ridotto. In quel caso dovremmo partire dalle basi." },
+    { "en": "otherwise", "pron": "àderuaiz", "it": "altrimenti", "type": "adv", "ex": "We need to decide today. Otherwise, we'll lose a week.", "exIt": "Dobbiamo decidere oggi. Altrimenti perderemo una settimana." },
+    { "en": "what if", "pron": "uòt if", "it": "e se...?", "type": "phrase", "ex": "What if we start with the homepage only?", "exIt": "E se iniziassimo solo dalla homepage?" },
+    { "en": "to go ahead", "pron": "gòu ahèd", "it": "andare avanti, procedere", "type": "verb", "ex": "Shall we go ahead with the first option?", "exIt": "Andiamo avanti con la prima opzione?" },
+    { "en": "to decide", "pron": "disàid", "it": "decidere", "type": "verb", "ex": "We need to decide by Friday.", "exIt": "Dobbiamo decidere entro venerdì." },
+    { "en": "decision", "pron": "disìgion", "it": "decisione", "type": "noun", "ex": "It's a big decision, so let's take our time.", "exIt": "È una decisione importante, quindi prendiamoci tempo." },
+    { "en": "to settle on", "pron": "sètol on", "it": "scegliere, decidere per (dopo averci pensato)", "type": "verb", "ex": "We finally settled on the second option.", "exIt": "Alla fine abbiamo scelto la seconda opzione." },
+    { "en": "to pick", "pron": "pìk", "it": "scegliere, prendere", "type": "verb", "ex": "Pick the date that suits you best.", "exIt": "Scegli la data che ti va meglio." },
+    { "en": "to narrow down", "pron": "nàrou dàun", "it": "restringere la scelta", "type": "verb", "ex": "Let's narrow it down to two designs.", "exIt": "Restringiamo la scelta a due design." },
+    { "en": "shortlist", "pron": "scòrtlist", "it": "rosa dei candidati, scelta ristretta", "type": "noun", "ex": "We made a shortlist of three agencies.", "exIt": "Abbiamo fatto una rosa di tre agenzie." },
+    { "en": "to opt for", "pron": "òpt for", "it": "optare per", "type": "verb", "ex": "Most clients opt for the monthly plan.", "exIt": "La maggior parte dei clienti opta per il piano mensile." },
+    { "en": "to rule out", "pron": "rùl àut", "it": "escludere", "type": "verb", "ex": "We can rule out the first option; it's too slow.", "exIt": "Possiamo escludere la prima opzione: è troppo lenta." },
+    { "en": "to iron out", "pron": "àiron àut", "it": "risolvere, appianare (i dettagli)", "type": "verb", "ex": "We still need to iron out a few details.", "exIt": "Dobbiamo ancora appianare alcuni dettagli." },
+    { "en": "to shoot down", "pron": "scùut dàun", "it": "bocciare (un'idea)", "type": "verb", "ex": "The client shot down our first proposal.", "exIt": "Il cliente ha bocciato la nostra prima proposta." },
+    { "en": "to agree on", "pron": "agrìi on", "it": "accordarsi su", "type": "verb", "ex": "We agreed on a price and a start date.", "exIt": "Ci siamo accordati su un prezzo e una data di inizio." },
+    { "en": "next steps", "pron": "nèkst stèps", "it": "prossimi passi", "type": "noun", "ex": "Let's go over the next steps.", "exIt": "Vediamo i prossimi passi." },
+    { "en": "to be worth", "pron": "bi uèrt", "it": "valere, valere la pena", "type": "phrase", "ex": "It's worth trying a small test first.", "exIt": "Vale la pena fare prima un piccolo test." },
+    { "en": "straightforward", "pron": "strèitfòruard", "it": "semplice, diretto", "type": "adj", "ex": "The first option is more straightforward.", "exIt": "La prima opzione è più semplice." },
+    { "en": "upside", "pron": "àpsaid", "it": "lato positivo, vantaggio", "type": "noun", "ex": "The upside is that we can launch faster.", "exIt": "Il lato positivo è che possiamo lanciare prima." }
+  ],
+  "falseFriends": [
+    { "en": "to suggest", "it": "suggerire", "trap": "Dopo suggest non si usa to + infinito: si dice 'I suggest going' o 'I suggest that we go', mai 'I suggest to go'." },
+    { "en": "to propose", "it": "proporre", "trap": "Si usa anche al lavoro ed è più formale di suggest: 'We propose a new plan.' Attenzione però: 'to propose to someone' vuol dire chiedere di sposarsi." },
+    { "en": "convenient", "it": "comodo, che va bene", "trap": "Non vuol dire 'conveniente' come economico: per quello si dice cheap o good value. 'Is Monday convenient?' = Lunedì ti va bene?" },
+    { "en": "to prefer", "it": "preferire", "trap": "Si dice 'I prefer coffee to tea' o 'I prefer working to studying'. Non 'I prefer more coffee than tea'." }
+  ],
+  "grammar": {
+    "title": "Proposte (Let's, Why don't we, How about) e gerundio o infinito, parte 1",
+    "explainIt": [
+      "Per fare una proposta usa queste formule. Let's + verbo base: 'Let's meet on Monday.' Why don't we + verbo base: 'Why don't we start with the homepage?' How about + forma in -ing: 'How about starting with the homepage?' What about + -ing: 'What about asking the client?' Shall we + verbo base: 'Shall we begin?' Sono tutte frasi che vanno bene in riunione, in mail e al telefono.",
+      "Per rispondere a una proposta: 'Good idea.' 'Sounds good.' 'That works for me.' 'Why not?' Se non sei d'accordo: 'I'm not sure about that.' 'I'd rather not.' 'How about doing it another way?' Puoi anche fare una controproposta: 'What if we do it next week instead?'",
+      "Il verbo suggest è molto usato per proporre qualcosa. Ha due forme corrette. Suggest + -ing: 'I suggest meeting on Thursday.' Suggest + that + soggetto + verbo base: 'I suggest that we meet on Thursday.' Non si dice mai 'I suggest to meet'. Lo stesso vale per recommend: 'I recommend using a template.' 'I recommend that you use a template.'",
+      "Dopo certi verbi si usa la forma in -ing (gerundio). I più utili: suggest, recommend, consider, avoid, enjoy, finish, mind, keep, postpone, risk, practise. Esempi: 'We considered moving the site.' 'I enjoy working with this team.' 'Do you mind waiting?' 'Please avoid using too many colours.' Anche dopo le preposizioni si usa -ing: before, after, instead of, without, how about, interested in. 'Instead of calling, send an email.'",
+      "Dopo altri verbi si usa to + infinito. I più utili: decide, want, need, hope, plan, agree, offer, refuse, promise, manage, expect, would like. Esempi: 'We decided to postpone the launch.' 'I hope to finish today.' 'She offered to help.' 'We need to talk.' Un trucco per ricordarli, che vale spesso ma non sempre: con questi verbi guardi avanti, a qualcosa che vuoi fare. Con i verbi in -ing parli di qualcosa che già fai o consideri. Nella parte due della regola vedrai i verbi che accettano entrambe le forme."
+    ],
+    "explainEn": [
+      "To make a suggestion, use these patterns. Let's + base verb: 'Let's meet on Monday.' Why don't we + base verb: 'Why don't we start with the homepage?' How about + -ing form: 'How about starting with the homepage?' What about + -ing: 'What about asking the client?' Shall we + base verb: 'Shall we begin?' They are all fine in meetings, in emails and on the phone.",
+      "To answer a suggestion: 'Good idea.' 'Sounds good.' 'That works for me.' 'Why not?' If you are not sure: 'I'm not sure about that.' 'I'd rather not.' 'How about doing it another way?' You can also make a counter-suggestion: 'What if we do it next week instead?'",
+      "The verb suggest is very common for proposals. It has two correct patterns. Suggest + -ing: 'I suggest meeting on Thursday.' Suggest + that + subject + base verb: 'I suggest that we meet on Thursday.' We never say 'I suggest to meet'. It is the same with recommend: 'I recommend using a template.' 'I recommend that you use a template.'",
+      "After some verbs we use the -ing form (the gerund). The most useful are suggest, recommend, consider, avoid, enjoy, finish, mind, keep, postpone, risk and practise. For example: 'We considered moving the site.' 'I enjoy working with this team.' 'Do you mind waiting?' 'Please avoid using too many colours.' We also use -ing after prepositions: before, after, instead of, without, how about, interested in. 'Instead of calling, send an email.'",
+      "After other verbs we use to + infinitive. The most useful are decide, want, need, hope, plan, agree, offer, refuse, promise, manage, expect and would like. For example: 'We decided to postpone the launch.' 'I hope to finish today.' 'She offered to help.' 'We need to talk.' A trick to remember them, which often works but not always: with these verbs you look forward, to something you want to do. With the -ing verbs you talk about something you already do or are considering. In part two of this rule you will see the verbs that accept both forms."
+    ],
+    "rules": [
+      {
+        "it": "Let's e Why don't we vogliono il verbo base. Shall we anche. Sono proposte dirette e amichevoli.",
+        "en": "Let's and Why don't we are followed by the base verb. Shall we too. They are direct, friendly suggestions.",
+        "form": "Let's / Why don't we / Shall we + verbo base",
+        "examples": [
+          { "en": "Let's start with the homepage.", "it": "Iniziamo dalla homepage." },
+          { "en": "Why don't we meet on Thursday?", "it": "Perché non ci vediamo giovedì?" },
+          { "en": "Shall we begin?", "it": "Iniziamo?" }
+        ]
+      },
+      {
+        "it": "How about e What about vogliono la forma in -ing (o un nome).",
+        "en": "How about and What about are followed by the -ing form (or a noun).",
+        "form": "How about / What about + verbo-ing",
+        "examples": [
+          { "en": "How about starting with a small test?", "it": "Che ne dici di iniziare con un piccolo test?" },
+          { "en": "What about asking the client first?", "it": "E se lo chiedessimo prima al cliente?" },
+          { "en": "How about Friday?", "it": "Che ne dici di venerdì?" }
+        ]
+      },
+      {
+        "it": "Suggest e recommend: forma in -ing, oppure 'that + soggetto + verbo base'. Mai 'to + infinito'.",
+        "en": "Suggest and recommend: the -ing form, or 'that + subject + base verb'. Never 'to + infinitive'.",
+        "form": "suggest + -ing; suggest that + soggetto + verbo",
+        "examples": [
+          { "en": "I suggest postponing the launch.", "it": "Suggerisco di rimandare il lancio." },
+          { "en": "I suggest that we postpone the launch.", "it": "Suggerisco che si rimandi il lancio." },
+          { "en": "I recommend using a template.", "it": "Consiglio di usare un modello." }
+        ]
+      },
+      {
+        "it": "Verbi seguiti da -ing: consider, avoid, enjoy, finish, mind, keep, postpone, risk, practise.",
+        "en": "Verbs followed by -ing: consider, avoid, enjoy, finish, mind, keep, postpone, risk, practise.",
+        "form": "verbo + verbo-ing",
+        "examples": [
+          { "en": "We considered changing the hosting provider.", "it": "Abbiamo valutato di cambiare fornitore di hosting." },
+          { "en": "Do you mind sending me the file again?", "it": "Ti dispiace rimandarmi il file?" },
+          { "en": "She finished testing the form at five.", "it": "Ha finito di provare il modulo alle cinque." }
+        ]
+      },
+      {
+        "it": "Verbi seguiti da to + infinito: decide, want, need, hope, plan, agree, offer, refuse, manage, would like.",
+        "en": "Verbs followed by to + infinitive: decide, want, need, hope, plan, agree, offer, refuse, manage, would like.",
+        "form": "verbo + to + verbo base",
+        "examples": [
+          { "en": "We decided to use the second option.", "it": "Abbiamo deciso di usare la seconda opzione." },
+          { "en": "I hope to finish by Friday.", "it": "Spero di finire entro venerdì." },
+          { "en": "He offered to help with the audit.", "it": "Si è offerto di aiutare con l'audit." }
+        ]
+      },
+      {
+        "it": "Dopo una preposizione si usa sempre -ing. Mai l'infinito.",
+        "en": "After a preposition we always use -ing. Never the infinitive.",
+        "form": "preposizione + verbo-ing",
+        "examples": [
+          { "en": "Instead of waiting, let's start now.", "it": "Invece di aspettare, iniziamo ora." },
+          { "en": "Please check the form before sending it.", "it": "Controlla il modulo prima di mandarlo." },
+          { "en": "I'm interested in learning more about accessibility.", "it": "Mi interessa saperne di più sull'accessibilità." }
+        ]
+      }
+    ],
+    "tip": "Per le proposte ricorda: Let's e Why don't we vogliono il verbo semplice; How about vuole -ing. Per gerundio o infinito, impara in coppie: 'decide to' (guardi avanti), 'consider -ing' (ci stai pensando). Dopo una preposizione: sempre -ing.",
+    "mistakes": [
+      { "wrong": "I suggest to postpone the launch.", "right": "I suggest postponing the launch.", "why": "dopo suggest non si usa to + infinito" },
+      { "wrong": "How about to start with the homepage?", "right": "How about starting with the homepage?", "why": "dopo how about serve -ing" },
+      { "wrong": "Why don't we to meet on Monday?", "right": "Why don't we meet on Monday?", "why": "dopo why don't we si usa il verbo base" },
+      { "wrong": "We decided postponing the launch.", "right": "We decided to postpone the launch.", "why": "decide vuole to + infinito" },
+      { "wrong": "Before to send the file, check it.", "right": "Before sending the file, check it.", "why": "dopo una preposizione serve -ing" }
+    ]
+  },
+  "grammarExercises": [
+    { "q": "Let's ___ (start) with the homepage.", "a": ["start"], "hint": "dopo let's", "explain": "Dopo let's si usa il verbo base." },
+    { "q": "Why don't we ___ (meet) on Thursday?", "a": ["meet"], "hint": "dopo why don't we", "explain": "Dopo why don't we si usa il verbo base." },
+    { "q": "How about ___ (ask) the client first?", "a": ["asking"], "hint": "how about + ?", "explain": "How about + forma in -ing." },
+    { "q": "I suggest ___ (postpone) the launch.", "a": ["postponing"], "hint": "suggest + ?", "explain": "Suggest + -ing." },
+    { "q": "I suggest that we ___ (postpone) the launch.", "a": ["postpone", "should postpone"], "hint": "suggest that", "explain": "Dopo suggest that si usa il verbo base." },
+    { "q": "We decided ___ (use) the second option.", "a": ["to use"], "hint": "decide + ?", "explain": "Decide + to + infinito." },
+    { "q": "She enjoys ___ (work) with this team.", "a": ["working"], "hint": "enjoy + ?", "explain": "Enjoy + -ing." },
+    { "q": "I hope ___ (finish) by Friday.", "a": ["to finish"], "hint": "hope + ?", "explain": "Hope + to + infinito." },
+    { "q": "Instead of ___ (wait), let's start now.", "a": ["waiting"], "hint": "dopo preposizione", "explain": "Dopo instead of si usa -ing." },
+    { "q": "Do you mind ___ (send) me the file again?", "a": ["sending"], "hint": "mind + ?", "explain": "Mind + -ing." },
+    { "q": "We need ___ (talk) about the budget.", "a": ["to talk"], "hint": "need + ?", "explain": "Need + to + infinito." },
+    { "q": "Check the form before ___ (send) it.", "a": ["sending"], "hint": "dopo before", "explain": "Dopo una preposizione si usa -ing." }
+  ],
+  "phrases": [
+    { "group": "Fare una proposta", "en": "Let's start with the homepage.", "it": "Iniziamo dalla homepage." },
+    { "group": "Fare una proposta", "en": "Why don't we meet on Thursday?", "it": "Perché non ci vediamo giovedì?" },
+    { "group": "Fare una proposta", "en": "How about starting with a small test?", "it": "Che ne dici di iniziare con un piccolo test?" },
+    { "group": "Fare una proposta", "en": "What if we launch next week instead?", "it": "E se lanciassimo la settimana prossima, invece?" },
+    { "group": "Fare una proposta", "en": "I suggest that we go with option two.", "it": "Suggerisco di scegliere la seconda opzione.", "note": "formale e molto usata in riunione" },
+    { "group": "Rispondere a una proposta", "en": "That sounds good to me.", "it": "Mi sembra una buona idea." },
+    { "group": "Rispondere a una proposta", "en": "Why not? Let's try it.", "it": "Perché no? Proviamo." },
+    { "group": "Rispondere a una proposta", "en": "That works for me.", "it": "Per me va bene." },
+    { "group": "Rispondere a una proposta", "en": "I'm not sure about that. Can we think about it?", "it": "Non sono sicuro. Possiamo pensarci?" },
+    { "group": "Rispondere a una proposta", "en": "I'd rather not, to be honest.", "it": "Preferirei di no, a dire il vero." },
+    { "group": "Vantaggi e svantaggi", "en": "The main advantage is the lower cost.", "it": "Il vantaggio principale è il costo più basso." },
+    { "group": "Vantaggi e svantaggi", "en": "The downside is that it takes longer.", "it": "Il lato negativo è che ci vuole più tempo.", "note": "downside = lato negativo" },
+    { "group": "Vantaggi e svantaggi", "en": "On the plus side, it's much faster.", "it": "Il lato positivo è che è molto più veloce." },
+    { "group": "Vantaggi e svantaggi", "en": "Let's weigh up the pros and cons.", "it": "Valutiamo i pro e i contro." },
+    { "group": "Vantaggi e svantaggi", "en": "It's a trade-off between price and quality.", "it": "È un compromesso tra prezzo e qualità." },
+    { "group": "Confrontare e scegliere", "en": "Which option do you prefer?", "it": "Quale opzione preferisci?" },
+    { "group": "Confrontare e scegliere", "en": "I'd go for the second one.", "it": "Io sceglierei la seconda." },
+    { "group": "Confrontare e scegliere", "en": "Both options are worth considering.", "it": "Vale la pena valutare entrambe le opzioni." },
+    { "group": "Confrontare e scegliere", "en": "Let's narrow it down to two.", "it": "Restringiamo la scelta a due." },
+    { "group": "Confrontare e scegliere", "en": "We can rule out the first option.", "it": "Possiamo escludere la prima opzione." },
+    { "group": "Decidere e passare all'azione", "en": "So, what's the decision?", "it": "Allora, qual è la decisione?" },
+    { "group": "Decidere e passare all'azione", "en": "Shall we go ahead?", "it": "Andiamo avanti?" },
+    { "group": "Decidere e passare all'azione", "en": "Let's agree on the next steps.", "it": "Mettiamoci d'accordo sui prossimi passi." },
+    { "group": "Decidere e passare all'azione", "en": "We decided to postpone the launch by a week.", "it": "Abbiamo deciso di rimandare il lancio di una settimana." },
+    { "group": "Decidere e passare all'azione", "en": "I'll send you a short proposal by tomorrow.", "it": "Ti mando una breve proposta entro domani." }
+  ],
+  "dialogue": {
+    "title": "Choosing a hosting plan",
+    "context": "Luca e Giulia devono scegliere con il cliente Marco un nuovo piano di hosting per il suo negozio online. Ci sono due alternative: una economica e una più cara.",
+    "lines": [
+      { "s": "A", "name": "Luca", "en": "Okay, Marco, we have two options for the hosting. Why don't we go through the pros and cons?", "it": "Allora Marco, abbiamo due opzioni per l'hosting. Perché non vediamo insieme pro e contro?" },
+      { "s": "B", "name": "Marco", "en": "Good idea. What are they?", "it": "Buona idea. Quali sono?" },
+      { "s": "A", "name": "Luca", "en": "The first plan is cheaper. The downside is that it's a shared server, so it can be slow when there are many visitors.", "it": "Il primo piano costa meno. Il lato negativo è che è un server condiviso, quindi può essere lento quando ci sono tanti visitatori." },
+      { "s": "C", "name": "Giulia", "en": "The second plan is more expensive, but the advantage is that you get a dedicated server and daily backups.", "it": "Il secondo piano costa di più, ma il vantaggio è che hai un server dedicato e backup giornalieri." },
+      { "s": "B", "name": "Marco", "en": "How much more expensive is it?", "it": "Quanto costa in più?" },
+      { "s": "C", "name": "Giulia", "en": "About 20 euros a month. I think it's worth paying for, because your shop is growing.", "it": "Circa 20 euro al mese. Penso che valga la pena pagarlo, perché il tuo negozio sta crescendo." },
+      { "s": "B", "name": "Marco", "en": "Hmm. I'd rather not spend too much right now. What about starting with the cheaper plan?", "it": "Mmm. Preferirei non spendere troppo adesso. Che ne dite di iniziare con il piano più economico?" },
+      { "s": "A", "name": "Luca", "en": "That's possible. How about this: we start with the cheaper one and upgrade if the site gets slow?", "it": "Si può fare. Che ne dici di questo: iniziamo con quello economico e passiamo all'altro se il sito rallenta?" },
+      { "s": "B", "name": "Marco", "en": "Can we change plan later?", "it": "Possiamo cambiare piano più avanti?" },
+      { "s": "C", "name": "Giulia", "en": "Yes, it's quite straightforward. We'd only need to move the files, which takes about an hour.", "it": "Sì, è abbastanza semplice. Basterebbe spostare i file: ci vuole circa un'ora." },
+      { "s": "B", "name": "Marco", "en": "That sounds reasonable. But what if the site crashes during the sales?", "it": "Mi sembra ragionevole. Ma se il sito va giù durante i saldi?" },
+      { "s": "A", "name": "Luca", "en": "Good question. I suggest moving to the second plan one week before the sales, just in case.", "it": "Buona domanda. Suggerisco di passare al secondo piano una settimana prima dei saldi, per sicurezza." },
+      { "s": "B", "name": "Marco", "en": "Okay, that works for me. Let's go ahead with that.", "it": "D'accordo, per me va bene. Andiamo avanti così." },
+      { "s": "C", "name": "Giulia", "en": "Great. Shall we agree on the next steps? I'll send you a short proposal by tomorrow.", "it": "Bene. Ci accordiamo sui prossimi passi? Ti mando una breve proposta entro domani." },
+      { "s": "B", "name": "Marco", "en": "Perfect. Thank you both.", "it": "Perfetto. Grazie a entrambi." }
+    ]
+  },
+  "listening": [
+    { "q": "What is the downside of the first plan?", "options": ["It is too expensive", "It can be slow when there are many visitors", "It has no backups"], "answer": 1 },
+    { "q": "How much more does the second plan cost?", "options": ["About 20 euros a month", "About 200 euros a year", "It costs the same"], "answer": 0 },
+    { "q": "What does Marco suggest?", "options": ["Starting with the cheaper plan", "Buying the dedicated server now", "Postponing the decision"], "answer": 0 },
+    { "q": "When does Luca suggest moving to the second plan?", "options": ["Immediately", "One week before the sales", "After the sales"], "answer": 1 }
+  ],
+  "translations": [
+    { "it": "Iniziamo dalla homepage.", "en": "Let's start with the homepage.", "alt": ["Let's begin with the homepage."] },
+    { "it": "Perché non ci vediamo giovedì?", "en": "Why don't we meet on Thursday?", "alt": ["Why don't we meet Thursday?"] },
+    { "it": "Che ne dici di iniziare con un piccolo test?", "en": "How about starting with a small test?", "alt": ["What about starting with a small test?"] },
+    { "it": "Suggerisco di rimandare il lancio.", "en": "I suggest postponing the launch.", "alt": ["I suggest that we postpone the launch.", "I suggest we postpone the launch."] },
+    { "it": "Abbiamo deciso di usare la seconda opzione.", "en": "We decided to use the second option.", "alt": ["We've decided to use the second option.", "We decided to go with the second option."] },
+    { "it": "Il vantaggio principale è la velocità.", "en": "The main advantage is the speed.", "alt": ["The main advantage is speed.", "The main benefit is the speed."] },
+    { "it": "Lo svantaggio è che costa di più.", "en": "The disadvantage is that it costs more.", "alt": ["The downside is that it costs more.", "The drawback is that it costs more."] },
+    { "it": "Preferirei aspettare piuttosto che affrettare il lancio.", "en": "I'd rather wait than rush the launch.", "alt": ["I would rather wait than rush the launch.", "I'd prefer to wait rather than rush the launch."] },
+    { "it": "Controlla il modulo prima di mandarlo.", "en": "Check the form before sending it.", "alt": ["Please check the form before sending it.", "Check the form before you send it."] },
+    { "it": "Spero di finire entro venerdì.", "en": "I hope to finish by Friday.", "alt": ["I hope to have it finished by Friday.", "I hope to be done by Friday."] },
+    { "it": "Ti dispiace aspettare un momento?", "en": "Do you mind waiting a moment?", "alt": ["Would you mind waiting a moment?", "Do you mind waiting for a moment?"] },
+    { "it": "Valutiamo i pro e i contro di ogni opzione.", "en": "Let's weigh up the pros and cons of each option.", "alt": ["Let's look at the pros and cons of each option.", "Let's consider the pros and cons of each option."] }
+  ],
+  "writing": {
+    "taskIt": "Un cliente deve scegliere tra due soluzioni per il suo nuovo sito: un modello già pronto (veloce ed economico, meno personalizzabile) oppure un design su misura (più caro, più lungo, ma unico). Scrivi una mail di raccomandazione. Descrivi vantaggi e svantaggi di ciascuna opzione, di' quale consigli e perché (usa 'I recommend' o 'I suggest' con la forma in -ing), proponi il passo successivo con 'Shall we' o 'How about' e chiudi in modo gentile.",
+    "taskEn": "A client has to choose between two solutions for their new website: a ready-made template (fast and cheap, less flexible) or a custom design (more expensive, longer, but unique). Write a recommendation email. Describe the advantages and disadvantages of each option, say which one you recommend and why (use 'I recommend' or 'I suggest' with the -ing form), suggest the next step with 'Shall we' or 'How about', and close politely.",
+    "model": "Subject: Template or custom design? Our recommendation\n\nDear Marco,\n\nThank you for your patience. Here is a short comparison of the two options.\n\nOption 1: ready-made template. The main advantage is the cost: it is cheaper, and we can launch in about three weeks. The downside is that it is less flexible, so some pages will look similar to other websites.\n\nOption 2: custom design. The advantage is that your site will be unique and built exactly for your customers. The drawback is the price, and it takes about three months.\n\nBecause you want to open the shop before the summer, I recommend starting with the template. We can improve it later, and if the shop grows, we can think about a custom design next year.\n\nHow about a short call on Thursday to agree on the next steps? I can also send you a detailed proposal if you like.\n\nBest regards,\nLuca"
+  },
+  "speaking": {
+    "shadowing": [
+      "Let's start with the homepage.",
+      "Why don't we meet on Thursday?",
+      "How about starting with a small test?",
+      "I suggest postponing the launch by a week.",
+      "The main advantage is the lower cost.",
+      "The downside is that it takes longer.",
+      "We decided to go with the second option.",
+      "Shall we agree on the next steps?"
+    ],
+    "prompts": [
+      { "en": "Suggest a time and a place for a team lunch.", "it": "Proponi un orario e un posto per un pranzo di team.", "help": "Usa: Why don't we...? How about...? Let's..." },
+      { "en": "What are the advantages and disadvantages of working from home?", "it": "Quali sono i vantaggi e gli svantaggi del lavoro da casa?", "help": "Usa: The main advantage is... The downside is..." },
+      { "en": "A client can't decide between two designs. What do you recommend?", "it": "Un cliente non sa scegliere tra due design. Cosa consigli?", "help": "Usa: I recommend... I suggest that we..." },
+      { "en": "What have you decided to do this year to improve your English?", "it": "Cosa hai deciso di fare quest'anno per migliorare il tuo inglese?", "help": "Usa: I decided to... I plan to... I hope to... I'd like to..." },
+      { "en": "Tell me about something you enjoy doing and something you want to try.", "it": "Parlami di qualcosa che ti piace fare e di qualcosa che vuoi provare.", "help": "Usa: I enjoy + -ing. I want to + verbo." }
+    ]
+  },
+  "video": [
+    {
+      "title": "Introduzione: proporre e decidere",
+      "show": ["Proposals and suggestions", "Let's, Why don't we, How about", "-ing o to?"],
+      "say": [
+        { "lang": "it", "text": "In questa lezione impari a fare proposte, a confrontare alternative e a decidere. Vediamo anche quando dopo un verbo si usa ing e quando si usa to." },
+        { "lang": "en", "text": "Why don't we start with a small test?" }
+      ]
+    },
+    {
+      "title": "Let's e Why don't we",
+      "show": ["Let's + verbo base", "Why don't we + verbo base", "Shall we + verbo base"],
+      "say": [
+        { "lang": "it", "text": "Let's, Why don't we e Shall we vogliono il verbo semplice, senza to e senza ing." },
+        { "lang": "en", "text": "Let's start with the homepage. Why don't we meet on Thursday? Shall we begin?" }
+      ]
+    },
+    {
+      "title": "How about e What about",
+      "show": ["How about + verbo ing", "What about + verbo ing", "How about Friday?"],
+      "say": [
+        { "lang": "it", "text": "How about e What about vogliono la forma in ing, oppure un nome." },
+        { "lang": "en", "text": "How about starting with a small test? What about asking the client first?" }
+      ]
+    },
+    {
+      "title": "Suggest e recommend",
+      "show": ["suggest + ing", "suggest that we + verbo base", "No: suggest to go"],
+      "say": [
+        { "lang": "it", "text": "Dopo suggest e recommend non si usa to. Si usa la forma in ing, oppure that più soggetto e verbo base." },
+        { "lang": "en", "text": "I suggest postponing the launch. I suggest that we postpone the launch." }
+      ]
+    },
+    {
+      "title": "Verbi con ing e verbi con to",
+      "show": ["consider, avoid, enjoy, mind + ing", "decide, hope, need, plan + to", "preposizione + ing"],
+      "say": [
+        { "lang": "it", "text": "Alcuni verbi vogliono ing: consider, avoid, enjoy, mind. Altri vogliono to più infinito: decide, hope, need, plan. Dopo una preposizione si usa sempre ing." },
+        { "lang": "en", "text": "We considered moving the site. We decided to postpone the launch. Check the form before sending it." }
+      ]
+    },
+    {
+      "title": "Vantaggi e svantaggi",
+      "show": ["The main advantage is...", "The downside is that...", "It's a trade-off between..."],
+      "say": [
+        { "lang": "it", "text": "Per confrontare due opzioni usa queste frasi. Prima il vantaggio, poi il lato negativo." },
+        { "lang": "en", "text": "The main advantage is the lower cost. The downside is that it takes longer." }
+      ]
+    },
+    {
+      "title": "Decidere e andare avanti",
+      "show": ["What's the decision?", "Shall we go ahead?", "Let's agree on the next steps."],
+      "say": [
+        { "lang": "it", "text": "Alla fine di una discussione chiudi con una decisione e dei prossimi passi. Ecco tre frasi da ricordare." },
+        { "lang": "en", "text": "So, what's the decision? Shall we go ahead? Let's agree on the next steps." }
+      ]
+    },
+    {
+      "title": "Riepilogo",
+      "show": ["Let's + base", "How about + ing", "decide to / consider ing"],
+      "say": [
+        { "lang": "it", "text": "Ricapitolando. Let's e Why don't we vogliono il verbo base. How about vuole ing. Suggest non vuole mai to. Dopo una preposizione, sempre ing." },
+        { "lang": "en", "text": "How about starting with the cheaper plan? I suggest upgrading later if the site gets slow." },
+        { "lang": "it", "text": "Ora prova a fare tre proposte tue, a voce alta." }
+      ]
+    }
+  ]
+}
