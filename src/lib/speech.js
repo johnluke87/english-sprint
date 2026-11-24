@@ -24,7 +24,12 @@ function score(v) {
   let s = 0
   if (/natural|neural|online/.test(n)) s += 50
   if (/google/.test(n)) s += 30
-  if (/siri|enhanced|premium/.test(n)) s += 35
+  if (/siri|enhanced|premium|avanzat|migliorat/.test(n)) s += 35
+  // voci note per essere chiare (Edge, macOS/iOS)
+  if (/\b(aria|jenny|guy|sonia|ryan|libby|ava|andrew|emma|brian|samantha|daniel|serena|karen|moira)\b/.test(n)) s += 8
+  if (/en[-_](gb|us)/i.test(v.lang)) s += 4
+  // voci robotiche o compresse in fondo
+  if (/espeak|compact|desktop|zira|david|hazel|mark/.test(n) && !/natural|online/.test(n)) s -= 20
   if (v.localService === false) s += 5
   return s
 }

@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useStore, update, exportJson, importJson, syncStatus, account } from '../lib/store.js'
 import { STARTS } from '../lib/useCourse.js'
+import { LEVELS } from '../lib/scenarios.js'
 import { onVoices, voicesFor, speak, ttsSupported, sttSupported } from '../lib/speech.js'
 
 export default function Settings() {
@@ -48,6 +49,11 @@ export default function Settings() {
         <label htmlFor="start" className="mt" style={{ display: 'block' }}>Punto di partenza (la prima lezione proposta)</label>
         <select id="start" value={s.startLesson || 1} onChange={e => set('startLesson', Number(e.target.value))}>
           {STARTS.map(o => <option key={o.id} value={o.id}>{o.t} ({o.lvl}): dalla lezione {o.id}</option>)}
+        </select>
+        <label htmlFor="vlevel" className="mt" style={{ display: 'block' }}>Livello del tutor nei dialoghi a voce</label>
+        <select id="vlevel" value={s.voiceLevel || ''} onChange={e => set('voiceLevel', e.target.value)}>
+          <option value="">Automatico: segue la lezione a cui sei (1-20 A2, 21-40 B1, 41-60 B2)</option>
+          {Object.entries(LEVELS).map(([k, v]) => <option key={k} value={k}>{v}</option>)}
         </select>
         <label className="row mt" style={{ gap: 8, fontWeight: 500 }}><input type="checkbox" checked={s.showPron !== false} onChange={e => set('showPron', e.target.checked)} /> Mostra la pronuncia scritta all'italiana</label>
       </section>

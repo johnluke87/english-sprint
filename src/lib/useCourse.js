@@ -32,6 +32,7 @@ export function useLesson(id) {
 export function lessonProgress(st, id) {
   const L = st.lessons[id]
   if (!L) return 0
+  if (L.completedAt) return 100 // finita (anche prima che arrivasse il dialogo a voce)
   return Math.round((STEPS.filter(k => L.steps[k]).length / STEPS.length) * 100)
 }
 
@@ -59,4 +60,5 @@ export const STEP_INFO = {
   translate: { label: 'Traduzioni', min: 6, ico: '🔁' },
   writing: { label: 'Scrittura', min: 5, ico: '✍️' },
   speaking: { label: 'Parlato', min: 8, ico: '🎙️' },
+  talk: { label: 'Dialogo a voce', min: 6, ico: '🗣️' },
 }

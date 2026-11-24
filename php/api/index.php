@@ -3,7 +3,8 @@
 //   GET  ?r=session         -> { logged: bool, ai: {used, max} }  chi ha l'account del portale /apps/ sincronizza i progressi
 //   GET  ?r=progress        -> { data: {...} | null }    progressi salvati (solo con il login del portale)
 //   POST ?r=progress        -> { ok: true }              salva i progressi (JSON intero, max 3 MB; solo con il login)
-//   POST ?r=ai              -> correzioni e tutor con Groq (gratis): kind = writing | translation | speaking | chat | explain
+//   POST ?r=ai              -> correzioni e tutor con Groq (gratis): kind = writing | translation | speaking | chat | explain | talk | report
+//   POST ?r=stt             -> trascrizione di un audio con Groq Whisper (solo dove il riconoscimento del browser manca o fallisce)
 // Chi non ha l'account tiene i progressi nel browser. Le chiamate AI hanno dei tetti (quota gratuita di Groq):
 //   senza account: ENG_AI_IP_DAY al giorno e ENG_AI_IP_MIN al minuto per indirizzo IP, ENG_AI_GUEST_DAY al giorno in tutto;
 //   con l'account del portale: 400 al giorno (come prima).
@@ -18,6 +19,10 @@ const ENG_AI_USER_DAY = 400;   // con l'account del portale
 const ENG_AI_IP_DAY = 30;      // senza account, per IP e giorno
 const ENG_AI_IP_MIN = 6;       // senza account, per IP e minuto
 const ENG_AI_GUEST_DAY = 300;  // senza account, tutti insieme al giorno
+const ENG_STT_IP_DAY = 40;     // trascrizioni Whisper: tetti separati (è un'altra quota gratuita di Groq)
+const ENG_STT_IP_MIN = 10;
+const ENG_STT_ALL_DAY = 400;
+const ENG_BACKUP = '20261124'; // copia dei progressi fatta una volta sola prima della versione "a voce"
 
 header('Content-Type: application/json; charset=utf-8');
 header('Cache-Control: no-store');
@@ -71,8 +76,27 @@ function db(): PDO
             KEY day (day)
         ) DEFAULT CHARSET=utf8mb4");
         $ready = true;
+        backup_once($db);
     }
     return $db;
+}
+
+// Una volta sola, prima che la versione nuova scriva: copia di eng_progress in una tabella e in un file JSON in private/backup
+function backup_once(PDO $db): void
+{
+    $dir = dirname(__DIR__, 3) . '/private/backup';
+    $file = $dir . '/eng_progress-' . ENG_BACKUP . '.json';
+    if (is_file($file)) return;
+    try {
+        $tab = 'eng_progress_bak_' . ENG_BACKUP;
+        if (!$db->query("SHOW TABLES LIKE '$tab'")->fetchColumn()) $db->exec("CREATE TABLE $tab AS SELECT * FROM eng_progress");
+        $rows = $db->query('SELECT fk_user, data, updated_at FROM eng_progress')->fetchAll(PDO::FETCH_ASSOC);
+        if (!is_dir($dir)) @mkdir($dir, 0700, true);
+        if (!is_file($dir . '/.htaccess')) @file_put_contents($dir . '/.htaccess', "Require all denied\n");
+        file_put_contents($file, json_encode($rows, JSON_UNESCAPED_UNICODE), LOCK_EX);
+    } catch (Throwable $e) {
+        error_log('english-sprint backup: ' . $e->getMessage());
+    }
 }
 
 function current_user(): ?array
@@ -131,6 +155,13 @@ try {
         if ($method === 'POST') {
             $d = body();
             if (($d['version'] ?? null) !== 1) out(['error' => 'Formato non valido'], 400);
+            if (!isset($d['voice'])) {
+                // da una scheda con la versione vecchia (senza la parte "a voce"): si tiene quella già salvata
+                $st = db()->prepare('SELECT data FROM eng_progress WHERE fk_user = ?');
+                $st->execute([$uid]);
+                $old = json_decode((string) $st->fetchColumn(), true);
+                if (is_array($old) && isset($old['voice'])) $d['voice'] = $old['voice'];
+            }
             $json = json_encode($d, JSON_UNESCAPED_UNICODE);
             $st = db()->prepare('INSERT INTO eng_progress (fk_user, data, updated_at) VALUES (?, ?, NOW())
                 ON DUPLICATE KEY UPDATE data = VALUES(data), updated_at = NOW()');
@@ -142,7 +173,7 @@ try {
     if ($route === 'ai' && $method === 'POST') {
         $d = body();
         $kind = (string) ($d['kind'] ?? '');
-        if (!in_array($kind, ['writing', 'translation', 'speaking', 'chat', 'explain'], true)) out(['error' => 'Richiesta non valida'], 400);
+        if (!in_array($kind, ['writing', 'translation', 'speaking', 'chat', 'explain', 'talk', 'report'], true)) out(['error' => 'Richiesta non valida'], 400);
         $db = db();
         if ($user) {
             $uid = (int) $user['id'];
@@ -169,6 +200,22 @@ try {
         if ($res === '429') out(['error' => 'Il servizio AI è occupato: riprova tra un minuto.', 'limit' => 'busy'], 429);
         if ($res === null) out(['error' => 'La correzione AI non ha risposto: riprova.'], 502);
         out($res);
+    }
+
+    if ($route === 'stt' && $method === 'POST') {
+        // trascrizione con Whisper: tetti suoi, così non consuma le risposte AI del tutor
+        $f = $_FILES['audio'] ?? null;
+        if (!$f || ($f['error'] ?? 1) !== UPLOAD_ERR_OK || $f['size'] < 500) out(['error' => 'Audio mancante o vuoto.'], 400);
+        if ($f['size'] > 6 * 1024 * 1024) out(['error' => 'Audio troppo lungo: massimo un minuto circa.'], 413);
+        $db = db();
+        $k = $user ? 'u' . (int) $user['id'] : ip_key();
+        if (bump($db, $k, 'sm' . date('YmdHi')) > ENG_STT_IP_MIN) out(['error' => 'Troppe trascrizioni in un minuto: aspetta qualche secondo.', 'limit' => 'minute'], 429);
+        if (bump($db, $k, 'sd' . date('Ymd')) > ENG_STT_IP_DAY) out(['error' => 'Per oggi le trascrizioni audio sono finite: si può scrivere la risposta. Tornano domani.', 'limit' => 'day'], 429);
+        if (bump($db, 'tutti', 'sd' . date('Ymd')) > ENG_STT_ALL_DAY) out(['error' => 'Oggi le trascrizioni audio sono state usate tutte: si può scrivere la risposta. Tornano domani.', 'limit' => 'all'], 429);
+        $res = eng_stt((string) $f['tmp_name'], (string) ($f['name'] ?? 'audio.webm'), (string) ($_POST['prompt'] ?? ''));
+        if ($res === '429') out(['error' => 'La trascrizione è occupata: riprova tra un minuto.', 'limit' => 'busy'], 429);
+        if ($res === null) out(['error' => 'La trascrizione non ha risposto: riprova o scrivi la risposta.'], 502);
+        out(['text' => $res]);
     }
 
     out(['error' => 'Percorso sconosciuto'], 404);

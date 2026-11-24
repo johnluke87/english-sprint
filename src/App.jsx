@@ -12,6 +12,8 @@ import Glossary from './views/Glossary.jsx'
 import Settings from './views/Settings.jsx'
 import AudioLesson from './views/AudioLesson.jsx'
 import Welcome from './views/Welcome.jsx'
+import Parla from './views/Parla.jsx'
+import { Simulazione, Conversazione, Pronuncia, Allenamento } from './views/ParlaPagine.jsx'
 
 // Rotte con # (la pagina vera è una sola: pagina.php). Alla prima visita la home è la presentazione.
 function parseHash() {
@@ -26,7 +28,7 @@ const NAV = [
   ['', 'Oggi', '☀️'],
   ['corso', 'Corso', '🗺️'],
   ['ripasso', 'Ripasso', '🔁'],
-  ['tutor', 'Tutor AI', '💬'],
+  ['parla', 'Parla', '🎙️'],
   ['parole', 'Parole', '📖'],
   ['impostazioni', 'Opzioni', '⚙️'],
 ]
@@ -59,6 +61,11 @@ export default function App() {
   else if (p0 === 'lezione' && p1) view = <Lesson id={Number(p1)} step={p2 || ''} key={p1} />
   else if (p0 === 'audio' && p1) view = <AudioLesson id={Number(p1)} key={p1} />
   else if (p0 === 'ripasso') view = <Review mode={p1 || 'due'} />
+  else if (p0 === 'parla' && p1 === 'simulazione' && p2) view = <Simulazione id={p2} key={p2} />
+  else if (p0 === 'parla' && p1 === 'conversazione') view = <Conversazione lessonId={Number(route.query.get('lezione')) || 0} chatId={route.query.get('s') || ''} key={location.hash} />
+  else if (p0 === 'parla' && p1 === 'pronuncia') view = <Pronuncia tab={p2 || ''} key={p2 || 'p'} />
+  else if (p0 === 'parla' && p1 === 'oggi') view = <Allenamento />
+  else if (p0 === 'parla') view = <Parla />
   else if (p0 === 'tutor') view = <Tutor lessonId={Number(route.query.get('lezione')) || 0} />
   else if (p0 === 'parole') view = <Glossary />
   else if (p0 === 'impostazioni') view = <Settings />
@@ -75,7 +82,7 @@ export default function App() {
         <span className="sync" role="status">{syncLabel}</span>
         <nav className="nav" aria-label="Menu principale">
           {NAV.map(([to, label, ico]) => (
-            <a key={to} href={'#/' + to} aria-current={(p0 || '') === to || (to === 'corso' && (p0 === 'lezione' || p0 === 'audio')) ? 'page' : undefined}>
+            <a key={to} href={'#/' + to} aria-current={(p0 || '') === to || (to === 'corso' && (p0 === 'lezione' || p0 === 'audio')) || (to === 'parla' && p0 === 'tutor') ? 'page' : undefined}>
               <i className="ico" aria-hidden="true">{ico}</i>{label}
               {to === 'ripasso' && due > 0 && <span className="badge" aria-label={`${due} da ripassare`}>{due}</span>}
             </a>

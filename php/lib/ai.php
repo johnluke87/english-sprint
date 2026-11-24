@@ -86,6 +86,64 @@ function eng_s($v, int $max = 4000): string
     return mb_substr(trim((string) $v), 0, $max);
 }
 
+function eng_hist($messages): array
+{
+    $hist = [];
+    foreach (array_slice((array) $messages, -16) as $m) {
+        $role = ($m['role'] ?? '') === 'assistant' ? 'assistant' : 'user';
+        $hist[] = ['role' => $role, 'content' => eng_s($m['content'] ?? '', 1500)];
+    }
+    return $hist;
+}
+
+function eng_level($l): string
+{
+    $l = (string) $l;
+    return in_array($l, ['A2', 'B1', 'B2'], true) ? $l : 'B1';
+}
+
+function eng_level_rules(string $l): string
+{
+    if ($l === 'A2') return 'Use very simple, common words, short sentences, present and past simple; speak slowly and clearly.';
+    if ($l === 'B2') return 'Use natural professional English with idioms and varied structures, as with a confident colleague.';
+    return 'Use clear everyday business English, short sentences, a few new professional words.';
+}
+
+// Trascrizione con Groq Whisper (gratis). @return string|null|'429'
+function eng_stt(string $path, string $name, string $prompt = '')
+{
+    $cfg = eng_cfg();
+    if ($cfg['groq_key'] === '' || !is_file($path)) return null;
+    $ext = strtolower(pathinfo($name, PATHINFO_EXTENSION));
+    if (!in_array($ext, ['webm', 'ogg', 'mp4', 'm4a', 'wav', 'mp3'], true)) $ext = 'webm';
+    $fields = [
+        'file' => new CURLFile($path, 'audio/' . ($ext === 'm4a' ? 'mp4' : $ext), 'audio.' . $ext),
+        'model' => 'whisper-large-v3-turbo',
+        'language' => 'en',
+        'temperature' => '0',
+        'response_format' => 'json',
+    ];
+    if (trim($prompt) !== '') $fields['prompt'] = eng_s($prompt, 400);
+    $ch = curl_init('https://api.groq.com/openai/v1/audio/transcriptions');
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_TIMEOUT => 45,
+        CURLOPT_POST => true,
+        CURLOPT_HTTPHEADER => ['Authorization: Bearer ' . $cfg['groq_key']],
+        CURLOPT_POSTFIELDS => $fields,
+    ]);
+    $raw = curl_exec($ch);
+    $code = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+    if ($code === 429) return '429';
+    $text = json_decode((string) $raw, true)['text'] ?? null;
+    if ($code !== 200 || !is_string($text)) {
+        error_log('english-sprint whisper ' . $code . ': ' . substr((string) $raw, 0, 300));
+        return null;
+    }
+    return trim($text);
+}
+
 const ENG_TEACHER = "You are an expert, encouraging English teacher for an Italian adult who wants to use English at work (emails, calls, meetings, clients). "
     . "Their level is usually A2/B1 and they want professional, natural English fast. Explanations for them must be in simple Italian (frasi brevi, parole semplici). "
     . "Be precise: only flag real errors, not stylistic preferences, and never invent errors. Always reply with valid JSON only.";
@@ -145,6 +203,57 @@ function eng_ai(string $kind, array $d, bool $guest = false)
                 . '"suggestion": "a natural sentence they could say next, in English"}';
             if (!$hist) $hist[] = ['role' => 'user', 'content' => '(Start the conversation.)'];
             return eng_llm(array_merge([['role' => 'system', 'content' => $sys]], $hist), 700, 0.6);
+
+        case 'talk':
+            // una battuta del dialogo A VOCE (conversazione, simulazioni, allenamento, fine lezione): risposta breve e veloce.
+            // Gli errori dello studente si raccolgono in silenzio e si mostrano solo alla fine (correzione gentile).
+            $hist = eng_hist($d['messages'] ?? []);
+            $level = eng_level($d['level'] ?? '');
+            $turn = max(1, min(20, (int) ($d['turn'] ?? 1)));
+            $maxT = max(1, min(20, (int) ($d['maxTurns'] ?? 6)));
+            $words = eng_s($d['words'] ?? '', 900);
+            $last = $turn >= $maxT;
+            $sys = "You are a role-play partner in a SPOKEN English practice for an Italian professional. Your words are read aloud by a speech synthesizer, and the student's words come from speech recognition (ignore punctuation, capital letters and obvious recognition glitches).\n"
+                . "Your role and the situation: " . eng_s($d['scenario'] ?? 'A friendly conversation about work.', 1200) . "\n"
+                . ($d['goal'] ?? '' ? "The student's goal: " . eng_s($d['goal'], 300) . "\n" : '')
+                . "Student level: $level. " . eng_level_rules($level) . "\n"
+                . ($words !== '' ? "Words and phrases the student is studying (use some of them naturally, so they hear them): $words\n" : '')
+                . "This is turn $turn of $maxT. "
+                . ($last ? "This is your LAST turn: react briefly to what they said and close the conversation in a natural, friendly way (no question).\n"
+                    : "Stay in character, react to what they said in a natural way, then ask ONE clear question to keep them talking.\n")
+                . "Rules: 1-3 short sentences, max 45 words, no lists, no emoji, no brackets, no stage directions. Never correct the student inside the reply: corrections go only in the errors field. "
+                . "If the student speaks Italian or seems stuck, gently rephrase your question in simpler English.\n"
+                . 'Reply JSON only: {"reply": "your spoken answer in English", "replyIt": "traduzione italiana della tua risposta", '
+                . '"errors": [{"wrong": "exact wrong fragment from the student\'s LAST message", "right": "correct version", "whyIt": "spiegazione brevissima in italiano"}] '
+                . '(check the student\'s LAST message carefully for real grammar or vocabulary errors, especially typical Italian-speaker mistakes: "since ten years" for "for ten years", "responsible of" for "responsible for", "work like" for "work as", missing articles or subjects, wrong tense, "people is", false friends; max 3; [] only if there are really none), '
+                . '"hint": "a natural sentence the student could say next, in English (short)"}';
+            if (!$hist) $hist[] = ['role' => 'user', 'content' => '(Start the conversation.)'];
+            return eng_llm(array_merge([['role' => 'system', 'content' => $sys]], $hist), 600, 0.6);
+
+        case 'report':
+            // pagellino a fine dialogo: una sola chiamata con tutta la trascrizione
+            $level = eng_level($d['level'] ?? '');
+            $lines = [];
+            foreach (array_slice((array) ($d['messages'] ?? []), -30) as $m) {
+                $who = ($m['role'] ?? '') === 'assistant' ? 'PARTNER' : 'STUDENT';
+                $lines[] = $who . ': ' . eng_s($m['content'] ?? '', 1200);
+            }
+            $metrics = eng_s($d['metrics'] ?? '', 400);
+            $msgs = [
+                ['role' => 'system', 'content' => ENG_TEACHER . " You are now evaluating a SPOKEN conversation: the student's lines are speech-to-text transcripts, so ignore punctuation, capital letters and obvious recognition glitches. Be kind but honest, and coherent with level $level."],
+                ['role' => 'user', 'content' => "Situation: " . eng_s($d['scenario'] ?? '', 1200) . "\n"
+                    . ($d['goal'] ?? '' ? "Goal of the student: " . eng_s($d['goal'], 300) . "\n" : '')
+                    . ($metrics !== '' ? "Measured by the app: $metrics\n" : '')
+                    . "Transcript:\n" . implode("\n", $lines) . "\n\n"
+                    . "Write the report card. Scores 1-10: fluency (how easily and fully they expressed ideas), vocabulary (range and professional words), grammar (accuracy), task (did they reach the goal of the situation). "
+                    . 'Reply JSON: {"scores": {"fluency": int, "vocabulary": int, "grammar": int, "task": int}, "total": integer 0-100, '
+                    . '"summaryIt": "2-3 frasi in italiano semplice: com\'è andata", "strengthsIt": ["max 3 punti di forza, in italiano"], "improveIt": ["max 3 cose da migliorare, in italiano, concrete"], '
+                    . '"errors": [{"wrong": "exact fragment the student said", "right": "correct version", "whyIt": "spiegazione breve in italiano"}] (max 8, real errors only), '
+                    . '"phrases": [{"en": "a useful professional phrase for this situation they should learn", "it": "traduzione"}] (max 6), '
+                    . '"reviewWords": [{"en": "word to review", "it": "traduzione"}] (max 5), '
+                    . '"better": {"q": "one question from the partner", "en": "a better, natural answer at their level (2-3 sentences)"}}'],
+            ];
+            return eng_llm($msgs, 1700, 0.2);
 
         case 'explain':
             // spiegazione al volo di una parola o frase

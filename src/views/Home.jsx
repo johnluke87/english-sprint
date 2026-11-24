@@ -3,6 +3,7 @@ import { useStore, streak, today, STEPS } from '../lib/store.js'
 import { dueKeys, learnedCount } from '../lib/srs.js'
 import { useSyllabus, nextLesson, STEP_INFO } from '../lib/useCourse.js'
 import { useEnter } from '../lib/motion.js'
+import { voiceStreak } from '../lib/talk.js'
 
 function Ring({ value, goal }) {
   const pct = Math.min(1, value / goal)
@@ -33,6 +34,8 @@ export default function Home() {
   const completed = Object.values(st.lessons).filter(l => l.completedAt).length
   const doneToday = Object.values(st.lessons).filter(l => l.completedAt === today()).length
   const dayN = Math.max(1, Math.round((new Date(today()) - new Date(st.startedAt)) / 86400000) + 1)
+  const vStreak = voiceStreak(st)
+  const voiceDone = !!st.voice?.days?.[today()]?.done
   const hour = new Date().getHours()
   const hello = hour < 12 ? 'Good morning' : hour < 18 ? 'Good afternoon' : 'Good evening'
 
@@ -74,13 +77,21 @@ export default function Home() {
           </div>
           {next && <a className="btn primary small" href={`#/lezione/${next.id}/${nextStep}`}>{nextState ? 'Continua' : 'Inizia'}</a>}
         </div>
-        <div className="todo">
+        <div className={'todo' + (voiceDone ? ' done' : '')}>
           <div className="n">3</div>
           <div className="spacer">
-            <b>Conversazione con il tutor AI</b> <span className="muted small">· 10 min</span>
-            <div className="small muted">Parli (o scrivi) in inglese, lui risponde a voce e ti corregge.</div>
+            <b>Allenamento a voce</b> <span className="muted small">· 10 min{vStreak ? ` · ${vStreak} ${vStreak === 1 ? 'giorno' : 'giorni'} di fila 🔥` : ''}</span>
+            <div className="small muted">{voiceDone ? 'Fatto oggi ✓ Domani si continua la serie.' : 'Pronuncia, poi un dialogo a voce con il tutor sul tema della lezione e il pagellino.'}</div>
           </div>
-          <a className="btn small" href={next ? `#/tutor?lezione=${next.id}` : '#/tutor'}>Parla</a>
+          <a className={'btn small' + (voiceDone ? '' : ' primary')} href="#/parla/oggi">{voiceDone ? 'Rifai' : 'Parla'}</a>
+        </div>
+        <div className="todo">
+          <div className="n">🎭</div>
+          <div className="spacer">
+            <b>Extra: simulazioni di lavoro</b>
+            <div className="small muted">Colloqui, riunioni con i clienti, presentare un audit, telefonate: con il pagellino finale.</div>
+          </div>
+          <a className="btn small" href="#/parla">Scegli</a>
         </div>
         {next && <div className="todo">
           <div className="n">🎧</div>
@@ -97,7 +108,7 @@ export default function Home() {
         <div className="grid grid-2 small">
           <p><b>Ripetizione dilazionata.</b> Le parole tornano dopo 1, 3, 7, 15… giorni: il cervello le fissa con il minimo sforzo. Il ripasso quotidiano è la parte più importante.</p>
           <p><b>Imparare in frasi.</b> Ogni parola ha un esempio di lavoro; le espressioni fatte ti danno frasi pronte da usare subito nelle mail e nelle call.</p>
-          <p><b>Parlare dal giorno uno.</b> Ripeti ad alta voce (shadowing) e il microfono ti dice cosa ha capito. Il tutor AI ti fa fare conversazione vera.</p>
+          <p><b>Parlare dal giorno uno.</b> Ripeti ad alta voce e ricevi un punteggio di pronuncia; ogni lezione chiude con un dialogo a voce, e le simulazioni allenano colloqui e riunioni.</p>
           <p><b>Correzione immediata.</b> Le traduzioni e le mail che scrivi le corregge l'AI, spiegando gli errori in italiano.</p>
         </div>
       </section>

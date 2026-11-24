@@ -4,7 +4,7 @@ import { useSyncExternalStore } from 'react'
 import { api, hooks } from './api.js'
 
 const KEY = 'english-sprint-v1'
-export const STEPS = ['video', 'words', 'grammar', 'phrases', 'dialogue', 'translate', 'writing', 'speaking']
+export const STEPS = ['video', 'words', 'grammar', 'phrases', 'dialogue', 'translate', 'writing', 'speaking', 'talk']
 
 function empty() {
   return {
@@ -17,6 +17,16 @@ function empty() {
     days: {},      // "2026-11-16": { seconds, reviews, xp }
     settings: { rate: 1, voiceEn: '', voiceEn2: '', voiceIt: '', showPron: true, dailyGoal: 60, startLesson: 1 },
     writings: {},  // "1": { text, feedback, at }
+    voice: emptyVoice(), // la parte a voce (VOCE.md): pagellini, parole di pronuncia, allenamenti, dialoghi in attesa di correzione
+  }
+}
+
+export function emptyVoice() {
+  return {
+    sessions: [], // pagellini: { id, at, day, kind: 'free'|'sim'|'daily'|'lesson', ref, title, scores, total, ... }
+    pron: {},     // "meeting": { miss, hits, due, interval, ex, last } parole della pronuncia (ripasso a intervalli)
+    days: {},     // "2026-11-24": { seconds, done } allenamento a voce di 10 minuti
+    pending: [],  // dialoghi finiti senza AI: si correggono dopo (max 5)
   }
 }
 
@@ -28,6 +38,7 @@ export function today(d = new Date()) {
 function normalize(data) {
   const e = empty()
   const st = { ...e, ...data, settings: { ...e.settings, ...(data && data.settings) } }
+  st.voice = { ...emptyVoice(), ...(data && data.voice) }
   // chi aveva già iniziato prima della pagina di presentazione non la rivede
   if (!st.welcome && (Object.keys(st.lessons).length || Object.keys(st.srs).length)) st.welcome = true
   return st
@@ -74,9 +85,40 @@ export function mergeStates(a, b) {
   for (const [id, w] of Object.entries(older.writings || {})) {
     if (!out.writings[id] || (w.at || 0) > (out.writings[id].at || 0)) out.writings[id] = structuredClone(w)
   }
+  out.voice = mergeVoice(newer.voice, older.voice)
   out.updatedAt = Math.max(a.updatedAt || 0, b.updatedAt || 0)
   return out
 }
+
+// Unione della parte a voce: pagellini e dialoghi in attesa per id, parole di pronuncia (la più aggiornata), giorni (il meglio)
+function mergeVoice(n, o) {
+  const out = { ...emptyVoice(), ...structuredClone(n || {}) }
+  if (!o) return out
+  const ids = new Set(out.sessions.map(x => x.id))
+  for (const x of o.sessions || []) if (!ids.has(x.id)) out.sessions.push(structuredClone(x))
+  out.sessions.sort((x, y) => (x.at || 0) - (y.at || 0))
+  out.sessions = out.sessions.slice(-80)
+  for (const [w, c] of Object.entries(o.pron || {})) {
+    const m = out.pron[w]
+    if (!m || (c.last || '') > (m.last || '') || ((c.last || '') === (m.last || '') && (c.miss || 0) + (c.hits || 0) > (m.miss || 0) + (m.hits || 0))) out.pron[w] = { ...c }
+  }
+  for (const [d, v] of Object.entries(o.days || {})) {
+    const m = out.days[d]
+    out.days[d] = m ? { seconds: Math.max(m.seconds || 0, v.seconds || 0), done: !!(m.done || v.done) } : { ...v }
+  }
+  const done = new Set(out.sessions.filter(x => x.ai).map(x => x.id))
+  const pids = new Set(out.pending.map(x => x.id))
+  for (const p of o.pending || []) if (!pids.has(p.id)) out.pending.push(structuredClone(p))
+  out.pending = out.pending.filter(p => !done.has(p.id)).slice(-5)
+  return out
+}
+
+// Copia di sicurezza nel browser, una volta sola, prima della versione a voce (VOCE.md)
+const BACKUP_KEY = KEY + '-backup-20261124'
+try {
+  const raw = localStorage.getItem(KEY)
+  if (raw && !localStorage.getItem(BACKUP_KEY)) localStorage.setItem(BACKUP_KEY, raw)
+} catch (e) { /* storage non disponibile */ }
 
 let state = read()
 const subs = new Set()

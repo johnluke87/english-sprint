@@ -11,6 +11,7 @@ import DialogueStep from '../steps/DialogueStep.jsx'
 import TranslateStep from '../steps/TranslateStep.jsx'
 import WritingStep from '../steps/WritingStep.jsx'
 import SpeakingStep from '../steps/SpeakingStep.jsx'
+import TalkStep from '../steps/TalkStep.jsx'
 import { markStep } from '../lib/store.js'
 
 export default function Lesson({ id, step }) {
@@ -38,6 +39,7 @@ export default function Lesson({ id, step }) {
     translate: <TranslateStep {...props} />,
     writing: <WritingStep {...props} />,
     speaking: <SpeakingStep {...props} />,
+    talk: <TalkStep {...props} />,
   }[cur]
 
   return (

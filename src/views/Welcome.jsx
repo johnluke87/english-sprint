@@ -95,13 +95,13 @@ export default function Welcome() {
 
       <section className="card" data-anim>
         <h2>Come funziona una lezione</h2>
-        <p className="muted">Ogni lezione ha otto parti, sempre nello stesso ordine. Si può fermarsi e riprendere quando si vuole: il punto resta salvato.</p>
+        <p className="muted">Ogni lezione ha nove parti, sempre nello stesso ordine. Si può fermarsi e riprendere quando si vuole: il punto resta salvato.</p>
         <ol className="w-steps">
           {Object.entries(STEP_INFO).map(([k, s]) => (
             <li key={k}><span className="ico" aria-hidden="true">{s.ico}</span><b>{s.label}</b><span className="muted small">{s.min} min</span></li>
           ))}
         </ol>
-        <p className="small muted">Poi, ogni giorno: <b>ripasso</b> delle parole (tornano proprio quando si stanno per dimenticare), <b>conversazione</b> con il tutor AI e, se si vuole, l'<b>audio-lezione</b> da ascoltare in macchina o a piedi.</p>
+        <p className="small muted">Poi, ogni giorno: <b>ripasso</b> delle parole (tornano proprio quando si stanno per dimenticare), 10 minuti di <b>allenamento a voce</b> (pronuncia con il punteggio e dialogo con il tutor, con una serie di giorni di fila da non interrompere), <b>simulazioni di lavoro</b> come colloqui, riunioni con i clienti e telefonate, con il pagellino finale e, se si vuole, l'<b>audio-lezione</b> da ascoltare in macchina o a piedi.</p>
       </section>
 
       <section className="card mt" data-anim>

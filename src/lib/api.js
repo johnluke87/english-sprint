@@ -28,7 +28,23 @@ export async function api(route, { method = 'GET', body } = {}) {
 
 // Correzione con l'AI (Groq, gratis, con un tetto giornaliero): kind = writing | translation | speaking | chat | explain
 export const hooks = { onAi: null } // lo imposta store.js: conta le correzioni usate oggi
-export async function ai(kind, payload) {
+// Il server ne accetta 6 al minuto per IP: se nell'ultimo minuto ne sono già partite 6, aspetto il momento giusto
+// invece di sbattere contro il limite (onWait(secondi) per dirlo nella pagina)
+const recent = []
+export async function aiSlot(onWait) {
+  const now = Date.now()
+  while (recent.length && now - recent[0] > 60000) recent.shift()
+  if (recent.length >= 6) {
+    const ms = recent[0] + 60500 - now
+    onWait?.(Math.ceil(ms / 1000))
+    await new Promise(r => setTimeout(r, ms))
+    recent.shift()
+  }
+  recent.push(Date.now())
+}
+
+export async function ai(kind, payload, { onWait } = {}) {
+  await aiSlot(onWait)
   try {
     const r = await api('ai', { method: 'POST', body: { kind, ...payload } })
     hooks.onAi?.(true)
