@@ -4,6 +4,7 @@ import { normalize, levenshtein } from './check.js'
 import { update, today, getState } from './store.js'
 
 const NUM = { 0: 'zero', 1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five', 6: 'six', 7: 'seven', 8: 'eight', 9: 'nine', 10: 'ten', 11: 'eleven', 12: 'twelve', 15: 'fifteen', 20: 'twenty', 30: 'thirty', 50: 'fifty', 100: 'hundred' }
+const ORD = { 1: 'first', 2: 'second', 3: 'third', 4: 'fourth', 5: 'fifth', 6: 'sixth', 7: 'seventh', 8: 'eighth', 9: 'ninth', 10: 'tenth', 12: 'twelfth', 20: 'twentieth' }
 // parole che il riconoscimento confonde e che si pronunciano uguali (non sono errori di pronuncia)
 const SAME = [['to', 'too', 'two'], ['for', 'four'], ['there', 'their', 'theyre'], ['your', 'youre'], ['its', 'it is'], ['know', 'no'], ['right', 'write'], ['by', 'buy', 'bye'], ['here', 'hear'], ['weather', 'whether'], ['ok', 'okay'], ['e-mail', 'email'], ['mr', 'mister'], ['ms', 'miss']]
 const sameMap = new Map()
@@ -13,7 +14,7 @@ const canon = w => sameMap.get(w) || w
 const STOP = new Set('a an the to of in on at for and or but is are am was were be been it i you we they he she me my your our their this that these those with as by do does did have has had will would can could not no so if from up out about just'.split(' '))
 
 function tok(s) {
-  return normalize(String(s).replace(/\b\d+\b/g, n => NUM[n] || n)).split(' ').filter(Boolean)
+  return normalize(String(s).replace(/\b(\d+)(st|nd|rd|th)\b/gi, (m, n) => ORD[n] || m).replace(/\b\d+\b/g, n => NUM[n] || n)).split(' ').filter(Boolean)
 }
 
 // Somiglianza tra due parole: 1 uguale, 0.5 quasi (un suono diverso), 0 diversa

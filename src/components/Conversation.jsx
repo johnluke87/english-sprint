@@ -110,7 +110,15 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     setStatus('thinking')
     const r = await reply(turn, last)
     if (!R.current.alive) return
-    if (last) R.current.ended = true
+    if (last) {
+      R.current.ended = true
+      // l'ultima battuta chiude il dialogo: se l'AI ha fatto comunque una domanda, la tolgo
+      if (/\?\s*$/.test(r.content)) {
+        const keep = r.content.split(/(?<=[.!?])\s+/).filter(x => !x.trim().endsWith('?')).join(' ')
+        r.content = (keep ? keep + ' ' : '') + CLOSING
+        r.it = ''
+      }
+    }
     await tutorSays(r.content, r.it)
   }
 
@@ -149,7 +157,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     if (R.current.finished) return
     R.current.finished = true
     R.current.cap?.cancel(); stopTts()
-    setPhase('report'); setStatus('thinking')
+    setPhase('report'); setStatus('thinking'); setErr('')
     const all = R.current.msgs
     const users = all.filter(m => m.role === 'user')
     const metrics = localMetrics(users, cfg.targets || [])
@@ -157,7 +165,8 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     let aiRep = null
     const base = { scenario: cfg.scenario, goal: cfg.goal || '', level, messages: all, metrics }
     if (users.length && !R.current.offline && aiLeft() >= 1) {
-      try { aiRep = await requestReport(base) } catch (e) { /* pagellino locale */ }
+      try { aiRep = await requestReport(base, { onWait: s => setNote(`Il pagellino arriva tra circa ${s} secondi: il servizio gratuito accetta 6 risposte AI al minuto.`) }) } catch (e) { /* pagellino locale */ }
+      setNote('')
     }
     const report = buildReport({ aiRep, metrics, collected: R.current.collected })
     const sess = {
@@ -224,7 +233,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     return (
       <section className="card conv">
         <h2>Il pagellino</h2>
-        {!rep ? <div className="center"><VoiceOrb state="thinking" label="Preparo il pagellino…" size={120} /></div>
+        {!rep ? <div className="center"><VoiceOrb state="thinking" label="Preparo il pagellino…" size={120} />{note && <p className="small muted" role="status">{note}</p>}</div>
           : <Report rep={rep} history={history} onPending={!rep.ai ? correctNow : null} pendingBusy={pendingBusy} />}
         {err && <div className="error mt">{err}</div>}
         {rep && <details className="mt"><summary>Rileggi il dialogo</summary>
@@ -275,7 +284,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
           <button className="btn small" disabled={!lastT || status === 'listening'} onClick={async () => { setStatus('speaking'); await speak(lastT.content, { voice: cfg.voice || 1 }); setStatus('idle') }}>🔁 Ripeti</button>
           <button className="btn small" disabled={!lastT || status === 'listening'} onClick={async () => { setStatus('speaking'); await speak(lastT.content, { voice: cfg.voice || 1, rate: .75 }); setStatus('idle') }}>🐢 Più lento</button>
           <button className="btn small" onClick={() => setHelp(h => !h)} aria-expanded={help}>💡 Aiuto</button>
-          {canSpeak && <button className="btn small ghost" onClick={() => { R.current.cap?.cancel(); R.current.cap = null; setStatus('idle'); setMode(mode === 'voice' ? 'text' : 'voice') }}>{mode === 'voice' ? '⌨️ Scrivi' : '🎙️ Parla'}</button>}
+          {canSpeak && <button className="btn small ghost" onClick={() => { R.current.cap?.cancel(); R.current.cap = null; setStatus('idle'); setErr(''); setMode(mode === 'voice' ? 'text' : 'voice') }}>{mode === 'voice' ? '⌨️ Scrivi' : '🎙️ Parla'}</button>}
           {userTurns > 0 && <button className="btn small ghost" onClick={finish}>Termina e vedi il pagellino</button>}
         </div>
       </div>

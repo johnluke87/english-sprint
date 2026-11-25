@@ -217,7 +217,7 @@ function eng_ai(string $kind, array $d, bool $guest = false)
                 . "Your role and the situation: " . eng_s($d['scenario'] ?? 'A friendly conversation about work.', 1200) . "\n"
                 . ($d['goal'] ?? '' ? "The student's goal: " . eng_s($d['goal'], 300) . "\n" : '')
                 . "Student level: $level. " . eng_level_rules($level) . "\n"
-                . ($words !== '' ? "Words and phrases the student is studying (use some of them naturally, so they hear them): $words\n" : '')
+                . ($words !== '' ? "Vocabulary the student is studying (you may use some of these single words naturally so they hear them; never say the student's own phrases as if they were yours, e.g. do not describe your own role or experience with them): $words\n" : '')
                 . "This is turn $turn of $maxT. "
                 . ($last ? "This is your LAST turn: react briefly to what they said and close the conversation in a natural, friendly way (no question).\n"
                     : "Stay in character, react to what they said in a natural way, then ask ONE clear question to keep them talking.\n")
@@ -240,7 +240,7 @@ function eng_ai(string $kind, array $d, bool $guest = false)
             }
             $metrics = eng_s($d['metrics'] ?? '', 400);
             $msgs = [
-                ['role' => 'system', 'content' => ENG_TEACHER . " You are now evaluating a SPOKEN conversation: the student's lines are speech-to-text transcripts, so ignore punctuation, capital letters and obvious recognition glitches. Be kind but honest, and coherent with level $level."],
+                ['role' => 'system', 'content' => ENG_TEACHER . " You are now evaluating a SPOKEN conversation: the student's lines are speech-to-text transcripts, so ignore punctuation, capital letters and obvious recognition glitches. Be kind but honest, and coherent with level $level. In the Italian fields address the student with gender-neutral wording (avoid adjectives or participles with a masculine or feminine ending referring to the student, like sei stato/stata, interessato/a, bravo/a: write for example hai ammesso, ti interessa, ottimo lavoro)."],
                 ['role' => 'user', 'content' => "Situation: " . eng_s($d['scenario'] ?? '', 1200) . "\n"
                     . ($d['goal'] ?? '' ? "Goal of the student: " . eng_s($d['goal'], 300) . "\n" : '')
                     . ($metrics !== '' ? "Measured by the app: $metrics\n" : '')

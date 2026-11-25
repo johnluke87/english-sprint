@@ -32,7 +32,7 @@ export function Simulazione({ id }) {
   const cfg = {
     kind: 'sim', ref: sim.id, title: sim.t, partner: sim.partner, scenario: sim.scenario, goal: sim.goal, goalIt: sim.goalIt,
     level: levelFor(cur), opener: sim.opener, questions: sim.questions, phrases: sim.phrases,
-    targets: sim.phrases.map(p => p.en), words: sim.phrases.map(p => p.en.replace(/…/g, '')).join(' | '), maxTurns: 6, voice: sim.voice,
+    targets: sim.phrases.map(p => p.en), words: '', maxTurns: 6, voice: sim.voice,
   }
   return (
     <div ref={ref}>
