@@ -102,3 +102,10 @@ Prossimo passo:
 ## Stato al 25/11/2026: ONLINE
 
 Provato nel browser (simulazione completa a scrittura con tutor e pagellino veri, pagine Parla, Pronuncia, Allenamento, Dialogo a fine lezione, vista telefono), punteggio di pronuncia e unione dei dati provati in Node, Whisper provato online con un audio vero. Caricato prima il PHP (backup fatto online: file in private/backup e tabella eng_progress_bak_20261124), poi il resto. Da provare con un microfono vero: mani libere e riascolto della propria voce su telefono (Android può non permettere riconoscimento e registrazione insieme: l'app lo ricorda e va avanti senza riascolto).
+
+## Prova del microfono vero (25/11/2026, da riprendere)
+
+- Fatto online anche: errori da ripassare a voce, Il mio colloquio, modalità difficile, Ascolto con accenti, statistiche, Caso del giorno; avviso quando il browser aspetta il permesso del microfono e tasto Ferma che funziona durante l'attesa.
+- Sul PC dell'utente (Chrome, microfono Intel Smart Sound) il permesso è dato solo a `localhost`, non ancora a `www.gianlucadario.com`. Il microfono prende la voce (misura del volume ok).
+- Due prove fatte a distanza non riuscite per il tempo (l'utente parlava fuori dalla registrazione): in una il riconoscimento ha capito «10» ma l'audio registrato era muto.
+- Prossimo passo: l'utente fa da solo la prova in Pronuncia; poi controllare se la registrazione è muta quando il riconoscimento è acceso. Se sì, su quel PC usare solo il riconoscimento (come il caso "conflitto" già gestito su Android) o registrare e poi trascrivere con Whisper. Poi provare il dialogo a mani libere e il telefono.
