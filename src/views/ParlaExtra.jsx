@@ -5,7 +5,7 @@ import { useSyllabus, nextLesson, useLesson } from '../lib/useCourse.js'
 import { useEnter } from '../lib/motion.js'
 import { levelFor, WORK_LINES, SIMS } from '../lib/scenarios.js'
 import { speak, stop as stopTts, onVoices, voicesFor } from '../lib/speech.js'
-import { capture, canSpeak } from '../lib/voice.js'
+import { capture, canSpeak, PERMISSION_HINT } from '../lib/voice.js'
 import { scorePron, verdict } from '../lib/pron.js'
 import { shuffle } from '../lib/check.js'
 import { addXp } from '../lib/store.js'
@@ -157,6 +157,7 @@ export function Ascolto() {
   const [plays, setPlays] = useState(0)
   const [scores, setScores] = useState([])
   const [listening, setListening] = useState(false)
+  const [perm, setPerm] = useState(false)
   const cap = useRef(null)
 
   // una voce (la migliore) per ogni accento disponibile sul dispositivo
@@ -192,9 +193,9 @@ export function Ascolto() {
   function mic() {
     if (listening) { cap.current?.stop(); return }
     setListening(true)
-    const c = capture({ continuous: false, record: false })
+    const c = capture({ continuous: false, record: false, onPermission: () => setPerm(true) })
     cap.current = c
-    c.promise.then(r => { setListening(false); if (r.text) { setAns(r.text); check(r.text) } }).catch(() => setListening(false))
+    c.promise.then(r => { setListening(false); setPerm(false); if (r.text) { setAns(r.text); check(r.text) } }).catch(() => setListening(false))
   }
   const next = () => { stopTts(); setAns(''); setRes(null); setPlays(0); setK(x => x + 1) }
 
@@ -235,6 +236,7 @@ export function Ascolto() {
               <button className="btn primary" disabled={!ans.trim()}>Controlla</button>
             </form>
           )}
+          {perm && listening && <p className="error small mt">{PERMISSION_HINT}</p>}
           {res && (
             <div className={'feedback mt ' + verdict(res.score).cls}>
               <p className="pron-en" lang="en" style={{ fontSize: '1.3rem' }}>{res.words.map((w, i) => <span key={i} className={'pw ' + (w.r === 'miss' ? 'no' : w.r)}>{w.w} </span>)}</p>

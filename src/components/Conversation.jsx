@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { ai } from '../lib/api.js'
 import { speak, stop as stopTts } from '../lib/speech.js'
-import { capture, canSpeak } from '../lib/voice.js'
+import { capture, canSpeak, PERMISSION_HINT } from '../lib/voice.js'
 import { useStore, aiQuota, aiLeft, today, getState } from '../lib/store.js'
 import { localMetrics, buildReport, requestReport, saveSession, savePending, correctPending } from '../lib/talk.js'
 import { LEVELS } from '../lib/scenarios.js'
@@ -92,7 +92,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     if (R.current.cap) return
     setErr(''); setPartial(''); setStatus('listening')
     const cap = capture({
-      continuous: true, silenceMs: 2600, onPartial: setPartial, onLevel: l => { levelRef.current = l },
+      continuous: true, silenceMs: 2600, onPermission: () => setErr(PERMISSION_HINT), onPartial: setPartial, onLevel: l => { levelRef.current = l },
       record: true, whisperPrompt: (cfg.words || '').slice(0, 300),
     })
     R.current.cap = cap

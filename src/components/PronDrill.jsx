@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { speak, stop as stopTts } from '../lib/speech.js'
-import { capture, canSpeak, recordingAvailable } from '../lib/voice.js'
+import { capture, canSpeak, recordingAvailable, PERMISSION_HINT } from '../lib/voice.js'
 import { scorePron, verdict, recordPron } from '../lib/pron.js'
 import { addXp } from '../lib/store.js'
 import VoiceOrb from './VoiceOrb.jsx'
@@ -43,11 +43,11 @@ export default function PronDrill({ items, onDone, onScore, compact }) {
     if (state === 'listening') { cap.current?.stop(); return }
     setErr(''); setRes(null); setPartial(''); setState('listening')
     if (mine) { URL.revokeObjectURL(mine); setMine('') }
-    const c = capture({ continuous: false, onPartial: setPartial, onLevel: l => { levelRef.current = l }, record: true, maxMs: 20000, silenceMs: 1800 })
+    const c = capture({ continuous: false, onPartial: setPartial, onLevel: l => { levelRef.current = l }, record: true, maxMs: 20000, silenceMs: 1800, onPermission: () => setErr(PERMISSION_HINT) })
     cap.current = c
     c.promise.then(r => {
       cap.current = null
-      setState('idle'); setPartial('')
+      setState('idle'); setPartial(''); setErr('')
       if (r.cancelled) return
       if (r.audioUrl) setMine(r.audioUrl)
       if (!r.text) { setErr('Non ho sentito niente: tocca il microfono, aspetta un attimo e parla a voce normale.'); return }

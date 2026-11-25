@@ -7,6 +7,7 @@ import { ApiError } from './api.js'
 const SR = typeof window !== 'undefined' ? window.SpeechRecognition || window.webkitSpeechRecognition : null
 export const canRecord = typeof window !== 'undefined' && !!(navigator.mediaDevices?.getUserMedia && window.MediaRecorder)
 export const canSpeak = sttSupported || canRecord
+export const PERMISSION_HINT = "Il browser chiede il permesso del microfono: tocca «Consenti» in alto. Se non vedi la richiesta, tocca l'icona a sinistra dell'indirizzo del sito, attiva «Microfono» e ricarica la pagina."
 
 // Su alcuni telefoni il riconoscimento e la registrazione non possono usare il microfono insieme:
 // se succede una volta, lo ricordo e da lì in poi il riconoscimento va da solo (niente riascolto, niente Whisper sprecato)
@@ -44,7 +45,7 @@ export async function whisper(blob, prompt = '') {
  * Ritorna { promise, stop, cancel }. La promessa dà { text, alternatives, audioUrl, ms, source }.
  */
 export function capture(opts = {}) {
-  const { continuous = false, silenceMs = 2500, maxMs = 90000, onPartial, onLevel, record = true, whisperPrompt = '', lang = 'en-US' } = opts
+  const { continuous = false, silenceMs = 2500, maxMs = 90000, onPartial, onLevel, record = true, whisperPrompt = '', lang = 'en-US', onPermission } = opts
   stopTts()
   let rec = null, recorder = null, stream = null, ctx = null, raf = 0, timer = 0
   let finalText = '', interim = '', alts = []
@@ -54,7 +55,10 @@ export function capture(opts = {}) {
   const ended = new Promise(r => { resolveDone = r })
   const chunks = []
 
+  let resolveStop
+  const stopSignal = new Promise(r => { resolveStop = r })
   const finish = () => {
+    resolveStop()
     if (stopped) return
     stopped = true
     clearInterval(timer); cancelAnimationFrame(raf)
@@ -66,7 +70,12 @@ export function capture(opts = {}) {
     const wantRec = record && recordingAvailable()
     if (wantRec || !SR) {
       try {
-        stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true, autoGainControl: true } })
+        // se il browser aspetta il permesso del microfono, dopo 3 secondi lo dico nella pagina; il tasto Ferma funziona sempre
+        const ask = navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true, autoGainControl: true } })
+        const hint = setTimeout(() => onPermission?.(), 3000)
+        stream = await Promise.race([ask, stopSignal.then(() => null)])
+        clearTimeout(hint)
+        if (!stream) ask.then(st => st.getTracks().forEach(t => t.stop())).catch(() => {})
       } catch (e) {
         if (!SR) throw new Error(e.name === 'NotAllowedError' ? 'Permesso del microfono negato: consentilo dalle impostazioni del browser (icona del lucchetto).' : 'Microfono non disponibile: ' + (e.message || e.name))
       }
