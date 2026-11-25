@@ -63,12 +63,12 @@ let token = 0
 export function stop() { token++; synth?.cancel() }
 
 // Dice un testo. Ritorna una promessa che si risolve alla fine (o subito se interrotto).
-export function speak(text, { lang = 'en', voice = 1, rate } = {}) {
+export function speak(text, { lang = 'en', voice = 1, rate, voiceName } = {}) {
   if (!synth || !text) return Promise.resolve(false)
   const my = token
   return new Promise(resolve => {
     const u = new SpeechSynthesisUtterance(text)
-    const v = pickVoice(lang, voice)
+    const v = (voiceName && voices.find(x => x.name === voiceName)) || pickVoice(lang, voice)
     if (v) { u.voice = v; u.lang = v.lang } else u.lang = lang === 'it' ? 'it-IT' : 'en-GB'
     u.rate = (rate || 1) * (settings.rate || 1) * (lang === 'en' ? 1 : 1.05)
     let done = false

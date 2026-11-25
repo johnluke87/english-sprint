@@ -3,7 +3,7 @@ import { useStore, aiQuota, today } from '../lib/store.js'
 import { useSyllabus, nextLesson } from '../lib/useCourse.js'
 import { useEnter } from '../lib/motion.js'
 import { SIMS, SIM_CATS, CHATS } from '../lib/scenarios.js'
-import { voiceStreak, bestVoiceStreak, correctPending, DAILY_SECONDS } from '../lib/talk.js'
+import { voiceStreak, bestVoiceStreak, correctPending, DAILY_SECONDS, dueErrors, topErrors, voiceStats } from '../lib/talk.js'
 import { duePron } from '../lib/pron.js'
 import { canSpeak } from '../lib/voice.js'
 import { Trend } from '../components/Report.jsx'
@@ -25,6 +25,10 @@ export default function Parla() {
   const streak = voiceStreak(st)
   const best = bestVoiceStreak(st)
   const due = duePron(st).length
+  const dueE = dueErrors(st).length
+  const stats = voiceStats(st)
+  const top = topErrors(st)
+  const caso = v.cases?.[today()]
   const recent = v.sessions.slice(-8).reverse()
   const bySim = useMemo(() => {
     const m = {}
@@ -81,9 +85,30 @@ export default function Parla() {
           <div className="row">
             <a className="btn small primary" href="#/parla/pronuncia">Allenati</a>
             {due > 0 && <a className="btn small" href="#/parla/pronuncia/ripasso">Ripasso: {due} {due === 1 ? 'parola' : 'parole'}</a>}
+            {dueE > 0 && <a className="btn small" href="#/parla/pronuncia/errori">Errori da correggere: {dueE}</a>}
           </div>
         </section>
+        <section className="card">
+          <h2>🎧 Ascolto</h2>
+          <p className="small muted">Frasi di lavoro dette veloci, con accenti diversi (britannico, americano e altri, se il dispositivo li ha). Scrivi quello che capisci. Non usa l'AI.</p>
+          <a className="btn small primary" href="#/parla/ascolto">Allena l'orecchio</a>
+        </section>
+        <section className="card">
+          <h2>🎲 Caso del giorno</h2>
+          <p className="small muted">{caso ? <><b>{caso.t}</b>: {caso.d}</> : 'Il tutor inventa una situazione di lavoro nuova ogni giorno, sul tema della lezione.'}</p>
+          <a className="btn small primary" href="#/parla/caso">{caso ? 'Vai al caso' : 'Crea il caso di oggi'}</a>
+        </section>
       </div>
+
+      <section className="card mt colloquio-card" data-anim>
+        <div className="row" style={{ alignItems: 'flex-start' }}>
+          <div className="spacer">
+            <h2 style={{ marginBottom: 4 }}>💼 Il mio colloquio in inglese</h2>
+            <p className="small muted" style={{ margin: 0 }}>{v.profile?.answers?.length ? `Risposte pronte per: ${v.profile.data?.target || 'il tuo ruolo'}. Allenale a voce e simula il colloquio.` : 'Scrivi il tuo profilo: il tutor prepara le risposte alle 8 domande classiche con la tua esperienza vera, poi le alleni a voce.'}</p>
+          </div>
+          <a className="btn primary" href="#/parla/colloquio">{v.profile?.answers?.length ? 'Allena' : 'Prepara'}</a>
+        </div>
+      </section>
 
       <section className="card mt" data-anim>
         <h2>🎭 Simulazioni di lavoro</h2>
@@ -106,6 +131,27 @@ export default function Parla() {
           </div>
         ))}
       </section>
+
+      {stats.count >= 2 && (
+        <section className="card mt" data-anim>
+          <h2>📊 I tuoi progressi a voce</h2>
+          <p className="small muted">{stats.count} pagellini · {stats.minutes} minuti di allenamento a voce{stats.wpm ? ` · velocità media ${stats.wpm} parole al minuto` : ''}. Media degli ultimi 10 pagellini{stats.dims.some(d => d.before != null) ? ', confrontata con i 10 prima' : ''}:</p>
+          <div className="rep-bars">
+            {stats.dims.map(d => (
+              <div key={d.k} className="rep-row">
+                <div className="row" style={{ gap: 6 }}><b>{({ fluency: 'Fluidità', vocabulary: 'Vocabolario', grammar: 'Grammatica', task: 'Obiettivo' })[d.k]}</b><span className="spacer" /><b>{d.now == null ? '—' : d.now + '/10'}</b>{d.now != null && d.before != null && <span className={'small ' + (d.now >= d.before ? 'up' : 'down')}>{d.now >= d.before ? '▲' : '▼'} {Math.abs(Math.round((d.now - d.before) * 10) / 10)}</span>}</div>
+                <div className="rep-bar"><i style={{ width: (d.now || 0) * 10 + '%' }} /></div>
+              </div>
+            ))}
+          </div>
+          <Trend totals={stats.totals} />
+          {top.length > 0 && <>
+            <h3 className="mt">Gli errori che ripeti</h3>
+            {top.map((e, i) => <div className="err" key={i}><span className="w" lang="en">{e.wrong}</span> → <span className="r" lang="en">{e.right}</span> <span className="pill">×{e.count}</span>{e.whyIt && <div className="small muted">{e.whyIt}</div>}</div>)}
+            <a className="btn small mt" href="#/parla/pronuncia/errori">Ripassali a voce</a>
+          </>}
+        </section>
+      )}
 
       {v.pending.length > 0 && (
         <section className="card mt" data-anim>

@@ -43,6 +43,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
   const [rep, setRep] = useState(null)
   const [session, setSession] = useState(null)
   const [pendingBusy, setPendingBusy] = useState(false)
+  const [hard, setHard] = useState(false)
   const quota = useStore(() => aiQuota)
   const sessions = useStore(s => s.voice.sessions)
   const history = useMemo(() => sessions.filter(x => x.ref === cfg.ref).map(x => x.total), [sessions, cfg.ref])
@@ -50,7 +51,8 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
   const R = useRef({ msgs: [], collected: [], offline: false, aiUsed: 0, scriptIdx: 0, cap: null, alive: true, ended: false })
   const levelRef = useRef(0)
   const endRef = useRef(null)
-  const maxTurns = cfg.maxTurns || 6
+  const maxTurns = (cfg.maxTurns || 6) + (hard ? 2 : 0)
+  const HARD = ' DIFFICULT MODE: be a demanding interlocutor. Challenge vague or short answers and ask for numbers, examples or reasons; once, interrupt politely with an unexpected question or objection; speak at natural native speed with some idioms.'
   const questions = cfg.questions?.length ? cfg.questions : GENERIC
   const userTurns = msgs.filter(m => m.role === 'user').length
 
@@ -66,7 +68,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     const next = [...R.current.msgs, { role: 'assistant', content, it }]
     setM(next)
     setStatus('speaking')
-    await speak(content, { voice: cfg.voice || 1 })
+    await speak(content, { voice: cfg.voice || 1, rate: hardRef.current ? 1.1 : 1 })
     if (!R.current.alive) return
     setStatus('idle')
     if (R.current.ended) { finish(); return }
@@ -74,6 +76,8 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
   }
   const handsFreeRef = useRef(handsFree)
   handsFreeRef.current = handsFree
+  const hardRef = useRef(hard)
+  hardRef.current = hard
   const modeRef = useRef(mode)
   modeRef.current = mode
 
@@ -128,7 +132,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     if (canAi) {
       try {
         const r = await ai('talk', {
-          scenario: cfg.scenario + (cfg.questions?.length ? ' Questions you can ask, in your own words and in a natural order: ' + cfg.questions.join(' | ') : ''),
+          scenario: cfg.scenario + (hard ? HARD : '') + (cfg.questions?.length ? ' Questions you can ask, in your own words and in a natural order: ' + cfg.questions.join(' | ') : ''),
           goal: cfg.goal || '', level, words: cfg.words || '', turn, maxTurns,
           messages: R.current.msgs.map(m => ({ role: m.role, content: m.content })),
         }, { onWait: s => { setStatus('waiting'); setNote(`Il tutor aspetta ${s} secondi: il servizio gratuito accetta 6 risposte al minuto.`) } })
@@ -163,14 +167,14 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
     const metrics = localMetrics(users, cfg.targets || [])
     const id = (cfg.kind || 'free') + '-' + Date.now().toString(36)
     let aiRep = null
-    const base = { scenario: cfg.scenario, goal: cfg.goal || '', level, messages: all, metrics }
+    const base = { scenario: cfg.scenario + (hard ? ' (difficult mode: the partner was demanding)' : ''), goal: cfg.goal || '', level, messages: all, metrics }
     if (users.length && !R.current.offline && aiLeft() >= 1) {
       try { aiRep = await requestReport(base, { onWait: s => setNote(`Il pagellino arriva tra circa ${s} secondi: il servizio gratuito accetta 6 risposte AI al minuto.`) }) } catch (e) { /* pagellino locale */ }
       setNote('')
     }
     const report = buildReport({ aiRep, metrics, collected: R.current.collected })
     const sess = {
-      id, at: Date.now(), day: today(), kind: cfg.kind || 'free', ref: cfg.ref || '', title: cfg.title, level, ...report,
+      id, at: Date.now(), day: today(), kind: cfg.kind || 'free', ref: cfg.ref || '', title: cfg.title + (hard ? ' · difficile' : ''), hard, level, ...report,
       transcript: all.map(m => [m.role === 'assistant' ? 'a' : 'u', m.content]),
       seconds: Math.round((Date.now() - (R.current.startedAt || Date.now())) / 1000),
     }
@@ -218,6 +222,7 @@ export default function Conversation({ cfg, onFinish, onActive, intro = true }) 
             {Object.entries(LEVELS).map(([k, v]) => <option key={k} value={k}>{v}</option>)}
           </select>
         </div>
+        {cfg.kind === 'sim' && <label className="row mt" style={{ gap: 8, fontWeight: 500 }}><input type="checkbox" checked={hard} onChange={e => setHard(e.target.checked)} /> Modalità difficile: l'interlocutore è esigente, chiede numeri ed esempi, fa obiezioni e una domanda a sorpresa (8 risposte invece di 6)</label>}
         <p className="small muted mt">
           {maxTurns} risposte tue, poi il pagellino. Il tutor parla a voce; tu rispondi a voce (il microfono si apre da solo quando lui ha finito; 2-3 secondi di silenzio chiudono il turno) o scrivendo.
           {' '}{Number.isFinite(left) ? <>Usa fino a {need} risposte AI: oggi ne restano {left}{quota ? ` su ${quota.max}` : ''}.{left < need && ' Non bastano tutte: alcune domande saranno quelle già pronte, il dialogo funziona lo stesso.'}</> : <>Usa fino a {need} risposte AI.</>}

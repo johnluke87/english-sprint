@@ -27,6 +27,9 @@ export function emptyVoice() {
     pron: {},     // "meeting": { miss, hits, due, interval, ex, last } parole della pronuncia (ripasso a intervalli)
     days: {},     // "2026-11-24": { seconds, done } allenamento a voce di 10 minuti
     pending: [],  // dialoghi finiti senza AI: si correggono dopo (max 5)
+    errs: {},     // errori dei pagellini da ripassare a voce: { chiave: { wrong, right, whyIt, count, interval, due, last, hits } }
+    profile: null, // profilo per la preparazione al colloquio (ruolo, esperienza...) e risposte preparate
+    cases: {},    // caso del giorno inventato dall'AI: { 'data': {...} } (si tengono gli ultimi 7)
   }
 }
 
@@ -106,6 +109,13 @@ function mergeVoice(n, o) {
     const m = out.days[d]
     out.days[d] = m ? { seconds: Math.max(m.seconds || 0, v.seconds || 0), done: !!(m.done || v.done) } : { ...v }
   }
+  for (const [k, c] of Object.entries(o.errs || {})) {
+    const m = out.errs[k]
+    if (!m || (c.last || '') > (m.last || '')) out.errs[k] = { ...c, count: Math.max(c.count || 0, m?.count || 0) }
+  }
+  if (!out.profile && o.profile) out.profile = structuredClone(o.profile)
+  else if (out.profile && o.profile && (o.profile.at || 0) > (out.profile.at || 0)) out.profile = structuredClone(o.profile)
+  out.cases = { ...(o.cases || {}), ...(out.cases || {}) }
   const done = new Set(out.sessions.filter(x => x.ai).map(x => x.id))
   const pids = new Set(out.pending.map(x => x.id))
   for (const p of o.pending || []) if (!pids.has(p.id)) out.pending.push(structuredClone(p))

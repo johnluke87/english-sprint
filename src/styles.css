@@ -453,3 +453,9 @@ main { padding-bottom: 48px; }
   .conv-chat { max-height: 38vh; }
   .rep-total b { font-size: 2.6rem; }
 }
+.colloquio-card { border-color: var(--ink-2); }
+details.answer { border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+details.answer summary { cursor: pointer; }
+.up { color: var(--teal); font-weight: 700; }
+.down { color: var(--red); font-weight: 700; }
+label > input, label > textarea { margin-top: 4px; }

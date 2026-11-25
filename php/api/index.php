@@ -173,7 +173,7 @@ try {
     if ($route === 'ai' && $method === 'POST') {
         $d = body();
         $kind = (string) ($d['kind'] ?? '');
-        if (!in_array($kind, ['writing', 'translation', 'speaking', 'chat', 'explain', 'talk', 'report'], true)) out(['error' => 'Richiesta non valida'], 400);
+        if (!in_array($kind, ['writing', 'translation', 'speaking', 'chat', 'explain', 'talk', 'report', 'prep', 'case'], true)) out(['error' => 'Richiesta non valida'], 400);
         $db = db();
         if ($user) {
             $uid = (int) $user['id'];

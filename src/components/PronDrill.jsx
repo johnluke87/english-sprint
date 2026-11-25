@@ -9,7 +9,7 @@ const CLS = { ok: 'ok', almost: 'almost', miss: 'no' }
 
 // Pronuncia: ascolti, ripeti, punteggio con le parole colorate, riascolti la tua voce e quella giusta (anche lenta).
 // items: [{ en, it, pron, tip }]. Nessuna chiamata AI (Whisper solo se il riconoscimento del browser manca).
-export default function PronDrill({ items, onDone, compact }) {
+export default function PronDrill({ items, onDone, onScore, compact }) {
   const [k, setK] = useState(0)
   const [res, setRes] = useState(null)
   const [state, setState] = useState('idle')
@@ -32,6 +32,7 @@ export default function PronDrill({ items, onDone, compact }) {
     const r = scorePron(alts?.length ? alts : text, item.en)
     setRes(r)
     recordPron(r.words, item.en)
+    onScore?.(item, r.score)
     const nb = { ...best, [k]: Math.max(best[k] ?? 0, r.score) }
     setBest(nb)
     addXp(r.score >= 80 ? 2 : 1)

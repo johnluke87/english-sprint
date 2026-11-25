@@ -255,6 +255,42 @@ function eng_ai(string $kind, array $d, bool $guest = false)
             ];
             return eng_llm($msgs, 1700, 0.2);
 
+        case 'prep':
+            // preparazione al colloquio: risposte personalizzate dal profilo che lo studente scrive (resta nel suo browser)
+            $level = eng_level($d['level'] ?? '');
+            $p = (array) ($d['profile'] ?? []);
+            $lines = [];
+            foreach (['target' => 'Role they are applying for', 'current' => 'Current or last job', 'years' => 'Years of experience', 'sector' => 'Sector / clients', 'achievements' => 'Achievements and projects', 'strengths' => 'Strengths and skills', 'why' => 'Why they want this role', 'extra' => 'Other notes'] as $k => $label) {
+                $v = eng_s($p[$k] ?? '', 600);
+                if ($v !== '') $lines[] = "$label: $v";
+            }
+            $msgs = [
+                ['role' => 'system', 'content' => ENG_TEACHER . " Now you are a job-interview coach. The profile may be written in Italian: translate the facts, never invent jobs, companies, numbers or degrees that are not in the profile (if something is missing, keep it general)."],
+                ['role' => 'user', 'content' => "Candidate profile:\n" . implode("\n", $lines) . "\n\n"
+                    . "Write model answers for a job interview in English, in the first person, natural and spoken (not written style), level $level, 50-90 words each, concrete, using the facts of the profile and a clear structure (situation, action, result when useful). "
+                    . "Questions: 1 Tell me about yourself. 2 Why do you want this role? 3 What are your main strengths? 4 Tell me about a project you are proud of. 5 Tell me about a difficult situation at work and how you handled it. 6 What is your biggest weakness? 7 Where do you see yourself in three years? 8 Do you have any questions for us? "
+                    . 'Reply JSON: {"answers": [{"q": "question in English", "qIt": "domanda in italiano", "en": "model answer", "it": "traduzione italiana", "tipIt": "un consiglio breve in italiano per dirla bene"}] (exactly 8)}'],
+            ];
+            return eng_llm($msgs, 3500, 0.4);
+
+        case 'case':
+            // caso del giorno: una simulazione nuova inventata dall'AI, legata al tema della lezione
+            $level = eng_level($d['level'] ?? '');
+            $topic = eng_s($d['topic'] ?? 'work in an international digital company', 200);
+            $seed = eng_s($d['seed'] ?? '', 20);
+            $msgs = [
+                ['role' => 'system', 'content' => ENG_TEACHER],
+                ['role' => 'user', 'content' => "Invent a NEW, realistic role-play situation for spoken practice at work (seed $seed, so it is different every day). Theme: $topic. "
+                    . "The student is an Italian professional (digital projects, clients, consulting, coordination, accessibility). The partner is a client, a colleague, a manager or a supplier with an invented name; never give the student a name, address them as you. Level $level. "
+                    . 'Reply JSON: {"t": "titolo breve in italiano", "d": "la situazione in una frase, in italiano", "partner": "nome e ruolo del personaggio, in italiano", '
+                    . '"goalIt": "obiettivo dello studente in italiano", "goal": "the same goal in English", '
+                    . '"scenario": "instructions in English for the AI playing the partner: who you are, what you want, your attitude, one complication", '
+                    . '"opener": {"en": "the partner\'s first line, ending with a question", "it": "traduzione"}, '
+                    . '"questions": ["6 more questions or lines the partner can say, in English"], '
+                    . '"phrases": [{"en": "useful phrase for the student", "it": "traduzione"}] (6)}'],
+            ];
+            return eng_llm($msgs, 1500, 0.9);
+
         case 'explain':
             // spiegazione al volo di una parola o frase
             $msgs = [

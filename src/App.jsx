@@ -14,6 +14,7 @@ import AudioLesson from './views/AudioLesson.jsx'
 import Welcome from './views/Welcome.jsx'
 import Parla from './views/Parla.jsx'
 import { Simulazione, Conversazione, Pronuncia, Allenamento } from './views/ParlaPagine.jsx'
+import { Colloquio, Ascolto, Caso } from './views/ParlaExtra.jsx'
 
 // Rotte con # (la pagina vera è una sola: pagina.php). Alla prima visita la home è la presentazione.
 function parseHash() {
@@ -65,6 +66,9 @@ export default function App() {
   else if (p0 === 'parla' && p1 === 'conversazione') view = <Conversazione lessonId={Number(route.query.get('lezione')) || 0} chatId={route.query.get('s') || ''} key={location.hash} />
   else if (p0 === 'parla' && p1 === 'pronuncia') view = <Pronuncia tab={p2 || ''} key={p2 || 'p'} />
   else if (p0 === 'parla' && p1 === 'oggi') view = <Allenamento />
+  else if (p0 === 'parla' && p1 === 'colloquio') view = <Colloquio />
+  else if (p0 === 'parla' && p1 === 'ascolto') view = <Ascolto />
+  else if (p0 === 'parla' && p1 === 'caso') view = <Caso />
   else if (p0 === 'parla') view = <Parla />
   else if (p0 === 'tutor') view = <Tutor lessonId={Number(route.query.get('lezione')) || 0} />
   else if (p0 === 'parole') view = <Glossary />

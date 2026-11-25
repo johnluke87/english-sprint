@@ -91,6 +91,7 @@ export function saveSession(sess) {
     if (i < 0) s.days[d].xp += 10 + Math.round((sess.total || 0) / 10)
   })
   if (sess.reviewWords?.length) addPronWords(sess.reviewWords)
+  if (sess.ai && sess.errors?.length) addErrorCards(sess.errors)
 }
 
 // Dialogo finito senza AI: resta in attesa della correzione completa (max 5)
@@ -145,4 +146,63 @@ export function bestVoiceStreak(st = getState()) {
     best = Math.max(best, cur); prev = t
   }
   return best
+}
+
+// ---- errori dei pagellini da ripassare a voce (ripetizione dilazionata) ----
+const ERR_STEPS = [1, 3, 7, 15, 30]
+function plusDays(n) { const d = new Date(); d.setDate(d.getDate() + n); return today(d) }
+const errKey = e => normalize(e.right).slice(0, 80)
+
+export function addErrorCards(errors) {
+  update(s => {
+    const E = s.voice.errs = s.voice.errs || {}
+    for (const e of errors) {
+      if (!e?.wrong || !e?.right) continue
+      const k = errKey(e)
+      if (!k || normalize(e.wrong) === k) continue
+      const c = E[k]
+      if (c) { c.count = (c.count || 1) + 1; c.interval = 0; c.due = today(); c.last = today(); c.wrong = e.wrong; c.whyIt = e.whyIt || c.whyIt }
+      else E[k] = { wrong: e.wrong, right: e.right, whyIt: e.whyIt || '', count: 1, hits: 0, interval: 0, due: today(), last: today() }
+    }
+    const keys = Object.keys(E)
+    if (keys.length > 200) keys.sort((a, b) => (E[a].last || '').localeCompare(E[b].last || '')).slice(0, keys.length - 200).forEach(k => delete E[k])
+  })
+}
+
+export function dueErrors(st = getState()) {
+  const t = today()
+  return Object.entries(st.voice?.errs || {}).filter(([, c]) => c.due <= t).sort((a, b) => (b[1].count || 0) - (a[1].count || 0)).map(([k, c]) => ({ k, ...c }))
+}
+
+// score della frase giusta detta a voce: >= 80 avanza, altrimenti torna domani
+export function gradeError(k, score) {
+  update(s => {
+    const c = s.voice.errs?.[k]
+    if (!c) return
+    if (score >= 80) {
+      c.hits = (c.hits || 0) + 1
+      const i = ERR_STEPS.findIndex(d => d > (c.interval || 0))
+      c.interval = ERR_STEPS[i < 0 ? ERR_STEPS.length - 1 : i]
+    } else c.interval = 0
+    c.due = plusDays(c.interval || 1); c.last = today()
+  })
+}
+
+// errori che tornano più spesso
+export function topErrors(st = getState(), n = 8) {
+  return Object.values(st.voice?.errs || {}).filter(c => (c.count || 0) > 1).sort((a, b) => b.count - a.count).slice(0, n)
+}
+
+// medie dei pagellini: ultimi 10 contro i 10 precedenti
+export function voiceStats(st = getState()) {
+  const ss = (st.voice?.sessions || []).filter(x => x.scores)
+  const avg = (list, k) => { const v = list.map(x => x.scores[k]).filter(x => x != null); return v.length ? Math.round((v.reduce((a, b) => a + b, 0) / v.length) * 10) / 10 : null }
+  const last = ss.slice(-10), prev = ss.slice(-20, -10)
+  const dims = ['fluency', 'vocabulary', 'grammar', 'task'].map(k => ({ k, now: avg(last, k), before: avg(prev, k) }))
+  const wpm = last.map(x => x.metrics?.wpm).filter(Boolean)
+  return {
+    count: ss.length, dims, totals: ss.slice(-20).map(x => x.total),
+    wpm: wpm.length ? Math.round(wpm.reduce((a, b) => a + b, 0) / wpm.length) : null,
+    minutes: Math.round(Object.values(st.voice?.days || {}).reduce((a, d) => a + (d.seconds || 0), 0) / 60),
+  }
 }

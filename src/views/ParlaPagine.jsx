@@ -4,7 +4,7 @@ import { useSyllabus, nextLesson, useLesson } from '../lib/useCourse.js'
 import { useEnter, gsap, reducedMotion } from '../lib/motion.js'
 import { SIMS, CHATS, SOUNDS, WORK_LINES, simById, levelFor, lessonTalk } from '../lib/scenarios.js'
 import { duePron, hardestPron } from '../lib/pron.js'
-import { addVoiceSeconds, markDailyDone, voiceStreak, DAILY_SECONDS } from '../lib/talk.js'
+import { addVoiceSeconds, markDailyDone, voiceStreak, DAILY_SECONDS, dueErrors, gradeError } from '../lib/talk.js'
 import { stop as stopTts } from '../lib/speech.js'
 import Conversation from '../components/Conversation.jsx'
 import PronDrill from '../components/PronDrill.jsx'
@@ -86,12 +86,15 @@ export function Pronuncia({ tab: tab0 }) {
   const ref = useRef(null)
   const cur = useCurrentLessonId()
   const pron = useStore(s => s.voice.pron)
+  const errs = useStore(s => s.voice.errs)
   const due = useMemo(() => duePron(getState()), [pron])
+  const dueE = useMemo(() => dueErrors(getState()), [errs])
+  const [snapE, setSnapE] = useState(() => dueE)
   const hard = useMemo(() => hardestPron(getState()), [pron])
   const [tab, setTab] = useState(tab0 || (due.length ? 'ripasso' : 'lezione'))
   // le parole del ripasso si fissano quando si apre la scheda: così non cambiano a metà esercizio
   const [snap, setSnap] = useState(() => due)
-  useEffect(() => { if (tab === 'ripasso') setSnap(duePron(getState())) }, [tab])
+  useEffect(() => { if (tab === 'ripasso') setSnap(duePron(getState())); if (tab === 'errori') setSnapE(dueErrors(getState())) }, [tab])
   const [lid, setLid] = useState(null)
   const [sound, setSound] = useState(SOUNDS[0].id)
   const { lesson } = useLesson(lid || cur || 1)
@@ -99,14 +102,15 @@ export function Pronuncia({ tab: tab0 }) {
   useEffect(() => () => stopTts(), [])
 
   const items = useMemo(() => {
+    if (tab === 'errori') return snapE.slice(0, 12).map(e => ({ en: e.right, k: e.k, tip: `Non «${e.wrong}»${e.whyIt ? ': ' + e.whyIt : ''}${e.count > 1 ? ` (errore ripetuto ${e.count} volte)` : ''}. Di' la frase giusta ad alta voce.` }))
     if (tab === 'ripasso') return snap.slice(0, 12).map(w => ({ en: w.ex || w.w, it: w.it || '', tip: `Parola da ripassare: «${w.w}» (sbagliata ${w.miss} ${w.miss === 1 ? 'volta' : 'volte'}).` }))
     if (tab === 'suoni') { const s = SOUNDS.find(x => x.id === sound); return s.lines.map(en => ({ en, tip: s.tip })) }
     if (tab === 'lavoro') return WORK_LINES
     if (lesson) return [...lesson.speaking.shadowing.map(en => ({ en })), ...lesson.phrases.slice(0, 6).map(p => ({ en: p.en, it: p.it }))]
     return []
-  }, [tab, sound, lesson, snap])
+  }, [tab, sound, lesson, snap, snapE])
 
-  const TABS = [['ripasso', `Da ripassare (${due.length})`], ['lezione', 'Frasi della lezione'], ['suoni', 'Suoni difficili'], ['lavoro', 'Frasi di lavoro']]
+  const TABS = [['ripasso', `Da ripassare (${due.length})`], ['errori', `Errori da correggere (${dueE.length})`], ['lezione', 'Frasi della lezione'], ['suoni', 'Suoni difficili'], ['lavoro', 'Frasi di lavoro']]
   return (
     <div ref={ref}>
       <div className="row mb" data-anim><Back /></div>
@@ -131,9 +135,11 @@ export function Pronuncia({ tab: tab0 }) {
         {tab === 'suoni' && (
           <div className="chips mb">{SOUNDS.map(s => <button key={s.id} className={'btn small' + (sound === s.id ? ' dark' : '')} onClick={() => setSound(s.id)}>{s.t}</button>)}</div>
         )}
+        {tab === 'errori' && !items.length && <p>Nessun errore da ripassare oggi ✓ Gli errori dei pagellini entrano qui da soli e tornano dopo 1, 3, 7, 15 giorni finché non li dici giusti.</p>}
+        {tab === 'errori' && items.length > 0 && <p className="small muted">Gli errori dei tuoi dialoghi: leggi perché era sbagliato, poi di' la frase giusta. Con 80 punti o più l'errore torna più avanti; sotto, torna domani.</p>}
         {tab === 'ripasso' && !items.length
           ? <p>Niente da ripassare oggi ✓ Le parole sbagliate entrano qui da sole quando le pronunci male.</p>
-          : items.length > 0 && <PronDrill items={items} key={tab + sound + (lesson?.id || '')} />}
+          : (tab !== 'errori' || items.length > 0) && items.length > 0 && <PronDrill items={items} key={tab + sound + (lesson?.id || '')} onScore={(it, sc) => { if (it.k) gradeError(it.k, sc) }} />}
       </section>
       {hard.length > 0 && (
         <section className="card mt" data-anim>
