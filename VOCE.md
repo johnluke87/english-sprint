@@ -98,3 +98,7 @@ Prossimo passo:
 2. Sistemare quello che non va, commit.
 3. Caricare online: PRIMA `api/` e `lib/` (poi aprire `api/index.php?r=session` per far partire il backup e controllare `private/backup/`), POI `index.html`, `assets/`, `content/`. Verificare online.
 4. Aggiornare `apps/LEGGIMI.md` (sezione english-sprint) e mandare il report per mail con `private/mailer.php`.
+
+## Stato al 25/11/2026: ONLINE
+
+Provato nel browser (simulazione completa a scrittura con tutor e pagellino veri, pagine Parla, Pronuncia, Allenamento, Dialogo a fine lezione, vista telefono), punteggio di pronuncia e unione dei dati provati in Node, Whisper provato online con un audio vero. Caricato prima il PHP (backup fatto online: file in private/backup e tabella eng_progress_bak_20261124), poi il resto. Da provare con un microfono vero: mani libere e riascolto della propria voce su telefono (Android può non permettere riconoscimento e registrazione insieme: l'app lo ricorda e va avanti senza riascolto).
